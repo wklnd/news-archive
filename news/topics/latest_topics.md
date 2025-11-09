@@ -1,66 +1,66 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 13:37_
+_Updated: 2025-11-09 15:00_
 
 ## Top Stories
 
-- Tre döda i jättevågor på Teneriffa - SVT Nyheter
+- Grön laser riktades mot poliser i Växjö - SVT Nyheter
 - Guvernör trollar Trump med nytt öknamn - Expressen
-- Grön laser riktades mot poliser - Aftonbladet
-- Gröna Lunds vd inför rättegången: Känner ansvar - Skånska Dagbladet
-- DN Direkt – Granatvågen skakar Sverige: ”Gängen har skruvat på kranen” - Dagens Nyheter
+- Gröna Lunds vd inför rättegången: Känner ansvar - Aftonbladet
+- Jättevågor vid Teneriffa – minst tre döda - Dagens Nyheter
+- Stora ukrainska anfall – strömlöst i Ryssland - GP
 - Man död i Grand Canyon – halkade och föll - Västerbottens-Kuriren
 - Kvinna skadad i Vellinge kommun – polisen utreder våldtäkt - SVT Nyheter
-- DN till hårt angrepp mot Regeringskansliet - Västerbottens-Kuriren
-- DN Direkt – Färjor ställs in – besköts med grön laser - Dagens Nyheter
-- 09 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
-- Kritik mot Trumpkopplat lyxbygge i Serbien - Västerbottens-Kuriren
+- DN till hårt angrepp mot Regeringskansliet - GP
+- 09 november 07.43, Sammanfattning natt, Örebro län - polisen.se
+- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
+- Hamasmän i tunnlar under Rafah vägrar ge upp - Västerbottens-Kuriren
+- ”De torterade mig utan att veta vem jag var” - GP
+- DN Direkt – Kritik mot Trumpkopplat lyxbygge i Serbien - Dagens Nyheter
 - Elvaåring konfronterar Putin: ”Han är skadad” - GP
-- Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
-- Kameror i bilen blir allt vanligare – detta gäller - Dagens Nyheter
+- Aktiva ETF:er – nästa steg i fondrevolutionen - Dagens PS
 - Kina häver exportförbud på kritiska metaller - SvD
 - Färre kan löneväxla 2026 – skattefördelarna krymper - Dagens PS
 - Novo Nordisk siktar på nya förvärv efter budförlusten - Dagens industri
+- Komet från bortom stjärnorna fotad av sond - Aftonbladet
 - Gör om dig själv till en Android-figur – med AI - PC för Alla
-- Städa bort gamla datorer från Windows 11 – innan du slår i taket - PC för Alla
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -81,17 +81,17 @@ _Updated: 2025-11-09 13:37_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
@@ -105,17 +105,17 @@ _Updated: 2025-11-09 13:37_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
