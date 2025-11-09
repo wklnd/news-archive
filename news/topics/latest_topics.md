@@ -1,41 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 23:37_
+_Updated: 2025-11-10 00:40_
 
 ## Top Stories
 
 - Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär - SVT Nyheter
-- Jättevågor vid Teneriffa – minst tre döda - Hufvudstadsbladet
+- Busch stänger inte för Andersson: ”Måste kunna göra upp” - Omni
 - Alice,19, från Lerum mitt i supertyfonen i Filippinerna - GP
 - Man fick "frätande vätska" kastad över sig - Västerbottens-Kuriren
 - Zelenskyj: Kungen fick Trump att vända - Expressen
-- Han var efterlyst av USA – välkomnas nu till Vita huset - Dagens Nyheter
+- Från en paradisö i Stilla havet till en kycklingfabrik mitt i USA - Aftonbladet
 - Dödsolyckan på Gröna Lund prövas i rätten - Dagens Nyheter
 - Tre till sjukhus efter krock i Skåne - Västerbottens-Kuriren
 - Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
 - Dynamit hittad på återvinningscentral - UNT
-- Ny kropp överlämnad – dödades i förra Gazakriget - GP
+- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
+- Olycka på E4 – stor påverkan - Expressen
+- Ny kropp överlämnad – dödades i förra Gazakriget - Västerbottens-Kuriren
 - USA:s vapenleveranser på is – kan drabba Ukraina - Västerbottens-Kuriren
-- Trafikolycka på E18 i Karlskoga – väg avstängd - SVT Nyheter
-- Lät sonen övningsköra i 150 - Västerbottens-Kuriren
-- Börsen bubblar av oro kring jätteinvesteringarna - Dagens industri
+- Ekonomen: Tecken på en bubbla – kan spricka - SvD
 - Nödstoppa återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
 - Rejält höjda priser: Så mycket kostar det nu där du bor - NT
 - Jacob Wallenberg ser konjunkturvändning – så säkrar vi Sveriges konkurrenskraft - Tidningen Näringslivet
+- Apple utvecklar nya satellitfunktioner för Iphone - mobil.se
 - 3I/ATLAS: Interstellär komet med ovanliga egenskaper - Vad Vi Vet.
-- Gör om dig själv till en Android-figur – med AI - PC för Alla
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -46,29 +47,28 @@ _Updated: 2025-11-09 23:37_
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Umeå children in worldwide school project on AI - Umeå universitet
 - Stockholm Observatory for Global China - Utrikespolitiska institutet
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
@@ -121,24 +121,24 @@ _Updated: 2025-11-09 23:37_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
