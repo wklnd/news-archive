@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 19:38_
+_Updated: 2025-11-09 20:44_
 
 ## Top Stories
 
-- Förlust mot mästarna i epilogen: ”Vi kämpade in i det sista och visade bra karaktär” - BK Häcken
 - Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
-- Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
+- Trump lovar dela ut 19 000 – finansieras via tullar - Omni
 - Från en paradisö i Stilla havet till en kycklingfabrik mitt i USA - Aftonbladet
-- Tre till sjukhus efter krock i Skåne - Aftonbladet
-- Tysklands budskap till Sverige om upprustningen: ”Ni kan lita på oss” - Dagens Nyheter
+- Rainbow Warrior på plats inför COP30 i Amazonas - Dagens Nyheter
+- En till sjukhus efter olycka på E6 - MSN
+- Därför syntes en ubåt utanför Gräsö: "Konstig känsla" - UNT
 - Gröna Lunds vd inför rättegången: Känner ansvar - Västerbottens-Kuriren
-- Parisavtalet en framgång – trots rekordutsläpp - GP
-- Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- 09 november 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
+- Här är allt du vill veta inför klimatmötet COP30 - GP
+- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
+- Utvisades för våldtäkt – är kvar efter 6 år - Expressen
+- USA:s vapenleveranser på is – kan drabba Ukraina - Västerbottens-Kuriren
 - Ny kropp överlämnad – dödades i förra Gazakriget - GP
-- Lät sonen övningsköra i 150 – döms till fängelse - NWT
-- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
-- Hamasmän i tunnlar under Rafah vägrar ge upp - Västerbottens-Kuriren
-- Kina häver exportförbud på kritiska metaller - Tidningen Näringslivet
-- Rejält höjda priser – men Linköping är nästan billigast i landet - Corren
+- Lät sonen övningsköra i 150 - Västerbottens-Kuriren
+- Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
 - Nödstopp för återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
+- Rejält höjda priser – men Linköping är nästan billigast i landet - Corren
+- Kina häver exportförbud på kritiska metaller - Tidningen Näringslivet
 - Singles Day 2025 - Fynda skönhetsprodukter till riktigt bra priser - Metro Mode
-- Komet från bortom stjärnorna fotad av sond - Nerikes Allehanda
+- 3I/ATLAS: Interstellär komet med ovanliga egenskaper - Vad Vi Vet.
 - Kill Bill: The Whole Bloody Affair blir ett fyra­timmars­äventyr på bio i USA - Teknikveckan
 
 ## World News
@@ -51,11 +51,11 @@ _Updated: 2025-11-09 19:38_
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -101,21 +101,21 @@ _Updated: 2025-11-09 19:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-09 19:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
