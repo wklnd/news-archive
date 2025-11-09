@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 11:38_
+_Updated: 2025-11-09 12:40_
 
 ## Top Stories
 
-- DN Direkt – Jättevågor på Teneriffa – tre döda - Dagens Nyheter
-- Grön laser riktades mot poliser - Västerbottens-Kuriren
-- Misstänkt våldtäkt – kvinna i 70-årsåldern till sjukhus - Aftonbladet
+- Jättevågor vid Teneriffa – minst tre döda - Dagens Nyheter
+- Guvernör trollar Trump med nytt öknamn - Expressen
+- Grön laser riktades mot poliser - Aftonbladet
+- Flera larm om laserattacker i Göteborg – färjetrafik inställd - SVT Nyheter
+- 08 november 22.21, Övrigt, Vellinge - polisen.se
 - DN Direkt – Granatvågen skakar Sverige: ”Gängen har skruvat på kranen” - Dagens Nyheter
-- Gröna Lunds vd känner ansvar – men nekar till brott - Omni
-- KRÖNIKA: Amanda från Ängelholm är biodlare i Italien: ”Just nu berättar bina för oss att något är fel” - HD – Nyheter Dygnet Runt
-- DN till hårt angrepp mot Regeringskansliet - GP
-- 09 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- DN till hårt angrepp mot Regeringskansliet - Västerbottens-Kuriren
+- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
 - 09 november 07.43, Sammanfattning natt, Örebro län - polisen.se
-- 09 november 07.52, Sammanfattning natt, Norrbottens län - polisen.se
-- DN Direkt – Kritik mot Trumpkopplat lyxbygge i Serbien - Dagens Nyheter
+- Kritiken mot ministerns flyttkrav: ”Sluta behandla oss som råttor” - Omni
+- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
+- Kritik mot Trumpkopplat lyxbygge i Serbien - Västerbottens-Kuriren
+- Elvaåring konfronterar Putin: ”Han är skadad” - GP
 - Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
-- Syriens ledare har landat i USA - Västerbottens-Kuriren
-- Man död i Grand Canyon – halkade och föll - GP
 - Kina häver exportförbud på kritiska metaller - SvD
 - Kameror i bilen blir allt vanligare – detta gäller - Dagens Nyheter
 - Novo Nordisk siktar på nya förvärv efter budförlusten - Dagens industri
-- Pressad oljebransch, prisvärda resor och ekonomisk oro - Dagens PS
+- Boomen splittrar USA: ”Avtal med djävulen” - SvD
+- Gör om dig själv till en Android-figur – med AI - PC för Alla
 - Städa bort gamla datorer från Windows 11 – innan du slår i taket - PC för Alla
-- Bästa videokamera 2025: våra toppval för filmskapare - TechRadar
 
 ## World News
 
@@ -40,36 +40,36 @@ _Updated: 2025-11-09 11:38_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 
 ## Business
 
@@ -105,10 +105,10 @@ _Updated: 2025-11-09 11:38_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -119,8 +119,8 @@ _Updated: 2025-11-09 11:38_
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
@@ -128,17 +128,17 @@ _Updated: 2025-11-09 11:38_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
