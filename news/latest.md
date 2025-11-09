@@ -1,6 +1,6 @@
 # Top News Headlines
 
-_Updated: 2025-11-09 10:49_
+_Updated: 2025-11-09 11:47_
 
 - Philippines braces for Super Typhoon Fung-wong, still reeling from Kalmaegi - Reuters
 - Trump news at a glance: President suggests scrapping Obamacare as shutdown flight chaos continues - The Guardian
@@ -9,16 +9,16 @@ _Updated: 2025-11-09 10:49_
 - Minnesota restores full SNAP benefits to families in need - Star Tribune
 - Senate holds rare Saturday session aimed at ending government shutdown, will reconvene Sunday - CBS News
 - FAA grounds MD-11 planes following deadly Kentucky crash - AP News
-- Suspect in murder of California family asked online psychic: "will I get caught for what I did"? - CBS News
-- Man kills Florida deputy with his own weapon during traffic stop, police say - NBC News
 - 4 dead, 13 injured in Ybor City after law enforcement pursuit ends in crash - Tampa Bay Times
-- Thousands flee to overcrowded camps after Sudan’s paramilitary captures el-Fasher - AP News
-- Ukraine says Russian missiles targeted its nuclear substations - Financial Times
+- Suspect in murder of California family asked online psychic: "will I get caught for what I did"? - CBS News
+- Newsom appears onstage at Texas rally to celebrate Prop. 50 victory, take swipes at Trump - Los Angeles Times
+- Thousands of Sudanese flee to overcrowded camps after paramilitary captures el-Fasher - CBS News
+- Russian attacks target nuclear substations, kill seven, Ukraine says - Reuters
 - Report: Saudi Arabia to renew dialogue with Israel - Israel National News
-- Thousands take to Lisbon streets over Portugal's proposed labour laws - BBC
+- What to know about the 5 hostages whose remains are still in Gaza - NPR
 - US airlines cancel more than 2,500 weekend flights largely due to government shutdown - AP News
 - Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers - Bloomberg.com
-- 2 Top Quantum Computing Stocks to Watch in November - Yahoo Finance
 - Pfizer beats out Novo with $10B agreement to buy Metsera - Fierce Biotech
+- 2 Top Quantum Computing Stocks to Watch in November - Yahoo Finance
 - Halo Infinite will get its last major content update on November 18 - Engadget
 - Best Buy Week 2 Black Friday Doorbusters now live! Galaxy S25 Ultra $400 off, Samsung TV $1,100 off, more - 9to5Toys
