@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 18:43_
+_Updated: 2025-11-09 19:38_
 
 ## Top Stories
 
-- Klart: Öster åker ur allsvenskan - SvD
+- Förlust mot mästarna i epilogen: ”Vi kämpade in i det sista och visade bra karaktär” - BK Häcken
 - Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
-- Dynamit hittad vid återvinningscentral - GP
+- Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
 - Från en paradisö i Stilla havet till en kycklingfabrik mitt i USA - Aftonbladet
+- Tre till sjukhus efter krock i Skåne - Aftonbladet
 - Tysklands budskap till Sverige om upprustningen: ”Ni kan lita på oss” - Dagens Nyheter
-- Lavrov redo att möta USA – men vägrar vika om Ukraina - Expressen
 - Gröna Lunds vd inför rättegången: Känner ansvar - Västerbottens-Kuriren
 - Parisavtalet en framgång – trots rekordutsläpp - GP
-- Kvinna skadad i Vellinge kommun – polisen utreder våldtäkt - SVT Nyheter
-- Här är allt du vill veta inför klimatmötet COP30 - GP
-- Omtalad gisslan överlämnas efter elva år - Dagens Nyheter
-- Supertyfon drar in över Filippinerna – två döda - Västerbottens-Kuriren
-- Stora ukrainska anfall – strömlöst i Ryssland - GP
+- Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
+- 09 november 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
+- Ny kropp överlämnad – dödades i förra Gazakriget - GP
+- Lät sonen övningsköra i 150 – döms till fängelse - NWT
+- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
 - Hamasmän i tunnlar under Rafah vägrar ge upp - Västerbottens-Kuriren
 - Kina häver exportförbud på kritiska metaller - Tidningen Näringslivet
-- Rejält höjda priser: Så mycket kostar det nu där du bor - NT
+- Rejält höjda priser – men Linköping är nästan billigast i landet - Corren
 - Nödstopp för återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
 - Singles Day 2025 - Fynda skönhetsprodukter till riktigt bra priser - Metro Mode
+- Komet från bortom stjärnorna fotad av sond - Nerikes Allehanda
 - Kill Bill: The Whole Bloody Affair blir ett fyra­timmars­äventyr på bio i USA - Teknikveckan
-- Komet från bortom stjärnorna fotad av sond - Aftonbladet
 
 ## World News
 
@@ -51,11 +51,11 @@ _Updated: 2025-11-09 18:43_
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -105,10 +105,10 @@ _Updated: 2025-11-09 18:43_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
