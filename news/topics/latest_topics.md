@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 12:40_
+_Updated: 2025-11-09 13:37_
 
 ## Top Stories
 
-- Jättevågor vid Teneriffa – minst tre döda - Dagens Nyheter
+- Tre döda i jättevågor på Teneriffa - SVT Nyheter
 - Guvernör trollar Trump med nytt öknamn - Expressen
 - Grön laser riktades mot poliser - Aftonbladet
-- Flera larm om laserattacker i Göteborg – färjetrafik inställd - SVT Nyheter
-- 08 november 22.21, Övrigt, Vellinge - polisen.se
+- Gröna Lunds vd inför rättegången: Känner ansvar - Skånska Dagbladet
 - DN Direkt – Granatvågen skakar Sverige: ”Gängen har skruvat på kranen” - Dagens Nyheter
+- Man död i Grand Canyon – halkade och föll - Västerbottens-Kuriren
+- Kvinna skadad i Vellinge kommun – polisen utreder våldtäkt - SVT Nyheter
 - DN till hårt angrepp mot Regeringskansliet - Västerbottens-Kuriren
-- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
-- 09 november 07.43, Sammanfattning natt, Örebro län - polisen.se
-- Kritiken mot ministerns flyttkrav: ”Sluta behandla oss som råttor” - Omni
+- DN Direkt – Färjor ställs in – besköts med grön laser - Dagens Nyheter
+- 09 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
 - Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
 - Kritik mot Trumpkopplat lyxbygge i Serbien - Västerbottens-Kuriren
 - Elvaåring konfronterar Putin: ”Han är skadad” - GP
 - Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
-- Kina häver exportförbud på kritiska metaller - SvD
 - Kameror i bilen blir allt vanligare – detta gäller - Dagens Nyheter
+- Kina häver exportförbud på kritiska metaller - SvD
+- Färre kan löneväxla 2026 – skattefördelarna krymper - Dagens PS
 - Novo Nordisk siktar på nya förvärv efter budförlusten - Dagens industri
-- Boomen splittrar USA: ”Avtal med djävulen” - SvD
 - Gör om dig själv till en Android-figur – med AI - PC för Alla
 - Städa bort gamla datorer från Windows 11 – innan du slår i taket - PC för Alla
 
@@ -40,13 +40,13 @@ _Updated: 2025-11-09 12:40_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Stockholm Observatory for Global China - Utrikespolitiska institutet
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 
 ## Technology
 
@@ -57,10 +57,10 @@ _Updated: 2025-11-09 12:40_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -121,22 +121,22 @@ _Updated: 2025-11-09 12:40_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
