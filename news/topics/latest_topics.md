@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 17:38_
+_Updated: 2025-11-09 18:43_
 
 ## Top Stories
 
-- 1,2 miljoner evakuerade i väntan på sypertyfon - SVT Nyheter
-- Lågstadiebarn tar till våld – akutskola lösning - SvD
+- Klart: Öster åker ur allsvenskan - SvD
+- Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
+- Dynamit hittad vid återvinningscentral - GP
+- Från en paradisö i Stilla havet till en kycklingfabrik mitt i USA - Aftonbladet
+- Tysklands budskap till Sverige om upprustningen: ”Ni kan lita på oss” - Dagens Nyheter
 - Lavrov redo att möta USA – men vägrar vika om Ukraina - Expressen
-- Jättevågor vid Teneriffa – minst tre döda - Dagens Nyheter
+- Gröna Lunds vd inför rättegången: Känner ansvar - Västerbottens-Kuriren
+- Parisavtalet en framgång – trots rekordutsläpp - GP
+- Kvinna skadad i Vellinge kommun – polisen utreder våldtäkt - SVT Nyheter
 - Här är allt du vill veta inför klimatmötet COP30 - GP
-- VIDEO: Det ger Linköpingsborna sin pappa på fars dag - Corren
-- DN Direkt – Misstänkt våldtäktsförsök i Vellinge - Dagens Nyheter
-- Parisavtalet en framgång – trots rekordutsläpp - Västerbottens-Kuriren
-- Misstänkt farligt föremål i Sigtuna – återvinning spärras av - SVT Nyheter
-- 09 november 07.43, Sammanfattning natt, Örebro län - polisen.se
 - Omtalad gisslan överlämnas efter elva år - Dagens Nyheter
-- Stora ukrainska anfall – strömlöst i Ryssland - Västerbottens-Kuriren
-- ”De torterade mig utan att veta vem jag var” - GP
+- Supertyfon drar in över Filippinerna – två döda - Västerbottens-Kuriren
+- Stora ukrainska anfall – strömlöst i Ryssland - GP
 - Hamasmän i tunnlar under Rafah vägrar ge upp - Västerbottens-Kuriren
 - Kina häver exportförbud på kritiska metaller - Tidningen Näringslivet
-- Färre kan löneväxla 2026 – skattefördelarna krymper - Dagens PS
 - Rejält höjda priser: Så mycket kostar det nu där du bor - NT
-- Aktiva ETF:er – nästa steg i fondrevolutionen - Dagens PS
+- Nödstopp för återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
+- Singles Day 2025 - Fynda skönhetsprodukter till riktigt bra priser - Metro Mode
 - Kill Bill: The Whole Bloody Affair blir ett fyra­timmars­äventyr på bio i USA - Teknikveckan
 - Komet från bortom stjärnorna fotad av sond - Aftonbladet
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
+- CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Stockholm Observatory for Global China - Utrikespolitiska institutet
-- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
@@ -105,10 +105,10 @@ _Updated: 2025-11-09 17:38_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
