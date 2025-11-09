@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 07:40_
+_Updated: 2025-11-09 08:47_
 
 ## Top Stories
 
-- Jättevågor vid Teneriffa – minst tre döda - Hufvudstadsbladet
-- DN Direkt – Ny tyfon på väg in – evakueringar i Filippinerna - Dagens Nyheter
-- Bröt sig in i fiskhall – stannade och åt kräftor - Västerbottens-Kuriren
+- Tre döda i jättevågor på Teneriffa - SVT Nyheter
+- Granatvågen skakar Sverige: ”Gängen har skruvat på kranen” - Dagens Nyheter
+- 100 000 evakueras i Filippinerna - Västerbottens-Kuriren
 - Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
 - Johannas ilska mot SJ: ”Håller de på att haverera?” - GP
-- Gröna Lunds vd inför rättegången: Känner ansvar - Aftonbladet
-- Ukrainska sjömän i Sverige – tränas för strid - Dagens Nyheter
-- Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
-- Värmekraftverk utslagna i Ukraina - SVT Nyheter
-- Krigets Sudan översvämmas av vapen från utlandet - Dagens Nyheter
+- Jetline rivs – två år efter dödsolyckan - Västerbottens-Kuriren
+- Flera larm om laserattacker i Göteborg – färjetrafik inställd - SVT Nyheter
+- Ukrainska sjömän i Sverige – tränas för strid - Västerbottens-Kuriren
+- 08 november 22.21, Övrigt, Vellinge - polisen.se
+- Företag på klimattoppmöte ifrågasätts - GP
+- Syriens ledare har landat i USA - Västerbottens-Kuriren
+- Dödlig rysk attack mot ukrainsk storstad - GP
 - Putin uppges ha petat Lavrov: ”Tror Kreml spelar teater” - Dagens Nyheter
-- Flicka påkörd i Staffanstorp – släpades under A-traktor - Expressen
-- Kina upphäver exportförbud av vissa metaller till USA - SVT Nyheter
-- ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
-- JUST NU: Bredband och tv-tjänster funkar inte - Dagens Kalmar
+- Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
+- Kina häver exportförbud på kritiska metaller - Aftonbladet
+- Förvarssektorn glödhet: ”Fråga om liv eller död” - SvD
 - Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
+- JUST NU: Bredband och tv-tjänster funkar inte - Dagens Kalmar
 - Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
 - Bästa videokamera 2025: våra toppval för filmskapare - TechRadar
 
@@ -74,7 +74,6 @@ _Updated: 2025-11-09 07:40_
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
-- Transforming Thailand to a digital economy - mastercard.com
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2025-11-09 07:40_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -115,29 +115,29 @@ _Updated: 2025-11-09 07:40_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
