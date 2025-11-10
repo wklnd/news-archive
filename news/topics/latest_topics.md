@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 16:45_
+_Updated: 2025-11-10 17:43_
 
 ## Top Stories
 
-- Sarkozy släpps efter tre veckor i fängelse - GP
-- DN Direkt – Fjärde person misstänkt förgiftad på Akademiska - Dagens Nyheter
-- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- Nicolas Sarkozy släpps fri – i väntan på ny rättegång - SVT Nyheter
+- Brand på Gärdet – minst två till sjukhus - SvD
+- DN Direkt – Flera döda i explosion i Indien - Dagens Nyheter
+- Insjuknade hastigt – efter misstänkta förgiftningen på Ackis - UNT
+- KD: Ingen röd linje – varken mot S eller SD - ETC.se
 - Trump hotar med rättsliga följder mot BBC - Hufvudstadsbladet
-- DN Direkt – Hegseth: USA anföll två fartyg i Stilla havet - Dagens Nyheter
-- Svaret efter passningen från Busch: ”Utvecklats” - SvD
-- DN Direkt – Brand i flerfamiljshus i Stockholm - Dagens Nyheter
-- Uppgifter: Sprängdåd i Luleå mot anhörig till Rawa Majid - SVT Nyheter
+- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
 - Dödsolyckan på Gröna Lund i rätten – film visades - Hufvudstadsbladet
-- MP: Avgift på kalhyggen och bonus till hållbar skog - Västerbottens-Kuriren
+- Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
+- Höjd beredskap inför vintertrafiken - Regeringen.se
+- USA anföll två fartyg i Stilla havet – sex döda - Västerbottens-Kuriren
 - Byggde jättedomstol – för en enda rättegång - GP
 - Forskningsgenomgång visar att Kennedy har fel - Dagens Nyheter
 - Annonserar efter mänskliga sköldar till Västbanken - Dagens Nyheter
-- Trump benådar ett 70-tal personer - Hufvudstadsbladet
 - Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
-- Pressen ökar på Sverige – ”en skrämmande bild” - SvD
+- Ny undersökning: Fler vill binda boräntan - Dagens industri
+- Ny skånsk uppfinning ska få bort plasten från gurkorna - HD – Nyheter Dygnet Runt
 - ”Enormt blodigt och rått” – inifrån Engelberts kamp mot fängelse - Expressen
-- Ny skånsk uppfinning ska få bort plasten från gurkorna - Sydsvenskan
 - Forskning om kirala fononer ger nya sätt att kontrollera material - Chalmers tekniska högskola
 - Havsforskningsdagarna 2025 - havochvatten.se
 
@@ -40,29 +40,29 @@ _Updated: 2025-11-10 16:45_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
+- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
@@ -74,25 +74,25 @@ _Updated: 2025-11-10 16:45_
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
-- Transforming Thailand to a digital economy - mastercard.com
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -143,10 +143,9 @@ _Updated: 2025-11-10 16:45_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -162,3 +161,4 @@ _Updated: 2025-11-10 16:45_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
