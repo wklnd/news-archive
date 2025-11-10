@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 21:38_
+_Updated: 2025-11-10 22:44_
 
 ## Top Stories
 
-- Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
-- Trump hotar med rättsliga följder mot BBC - Hufvudstadsbladet
-- Film på dödsolyckan i Jetline visades i rätten - Aftonbladet
-- Explosion nära historiska Röda fortet i New Delhi - SVT Nyheter
 - Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
-- Överlevde efter tyfonen – 40 timmar till havs - Aftonbladet
-- DN Direkt – Brand i flerfamiljshus i Stockholm - Dagens Nyheter
-- En allvarligt skadad efter busskrock utanför Norrköping - SVT Nyheter
+- Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
+- BBC ber om ursäkt för redigerat Trump-tal - UNT
+- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- Stor insats mot sexköpare – i deras hem - Aftonbladet
+- Dödsolyckan på Gröna Lund fångad på film – visades i rätten - Dagens Nyheter
+- Man död efter busskrock utanför Norrköping - SVT Nyheter
+- Brand i Stockholm – två till sjukhus - GP
 - Höjd beredskap inför vintertrafiken - Regeringen.se
-- Hon får mest forskningspengar i Sverige - UNT
+- Hon får mest forskningspengar i Uppsala - UNT
 - DN Direkt – Vit tryffel lockade miljonbud i Italien - Dagens Nyheter
 - USA anföll två fartyg i Stilla havet – sex döda - Västerbottens-Kuriren
-- Nicolas Sarkozy släpps fri – i väntan på ny rättegång - SVT Nyheter
-- Efter möteshaveriet: Lavrov redo att träffa Rubio - GP
-- Ny rapport: Sverige måste stärka sin digitala beredskap för att undvika en digital blackout - dagensinfrastruktur -
+- Överlevde efter tyfonen – 40 timmar till havs - GP
+- UD ändrar avrådan av resor till Israel: ”Förändrat säkerhetsläge” - SVT Nyheter
 - UBS bedömer att AI-rallyt på Wall Street fortsätter under 2026 - Placera.se
-- Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
+- ”Enormt blodigt och rått” – inifrån Engelberts kamp mot fängelse - Expressen
 - Karnov renodlar – säljer EHS-enheterna för 1 miljard - EFN
+- Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
+- ARC Raiders: Svenska Embark Studios nya sci-fi-shooter tar världen med storm - dopest.se
 - Forskning om kirala fononer ger nya sätt att kontrollera material - Chalmers tekniska högskola
-- Havsforskningsdagarna 2025 - havochvatten.se
 
 ## World News
 
-- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 
@@ -121,43 +121,44 @@ _Updated: 2025-11-10 21:38_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Patrik Niklasson ny Doggy - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
-- 2022-05-20 Academy Lunch Talk: Macroalgae aquaculture, a new blue industry in Norway? - Mynewsdesk
-- Mjau kattmat satsar på ryska marknaden | Partner in Pet food Nordics AB - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
