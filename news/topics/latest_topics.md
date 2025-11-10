@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 23:40_
+_Updated: 2025-11-11 00:42_
 
 ## Top Stories
 
-- DN Direkt – Man skjuten med luftgevär i Stockholm - Dagens Nyheter
 - Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
 - Ryska pengar kan göra landet till måltavla - SvD
+- Kritiseras efter rymning – hade inte numret till polisen - Aftonbladet
 - M-piken till Ebba Busch: ”Skadliga” - Expressen
-- Forskarens varning: Då har vi inga verktyg kvar – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Stor insats mot sexköpare – i deras hem - Aftonbladet
+- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- SMHI varnar för ishalka i Västerbottens läns kustland - SVT Nyheter
 - Bil och buss i kollision – man död - GP
 - Höjd beredskap inför vintertrafiken - Regeringen.se
+- 10 november 17.35, Försvunnen person, Nora - Polisen.se
 - Hon får mest forskningspengar i Uppsala - UNT
-- Grovt rån i centrala Uppsala – kvinna slets ur sin bil - UNT
 - DN Direkt – Vit tryffel lockade miljonbud i Italien - Dagens Nyheter
 - Överlevde efter tyfonen – 40 timmar till havs - Västerbottens-Kuriren
 - USA anföll två fartyg i Stilla havet – sex döda - GP
 - UD ändrar avrådan av resor till Israel: ”Förändrat säkerhetsläge” - SVT Nyheter
 - Ny rapport: Sverige måste stärka sin digitala beredskap för att undvika en digital blackout - dagensinfrastruktur -
-- UBS bedömer att AI-rallyt på Wall Street fortsätter under 2026 - Placera.se
 - Industrikraft och Vattenfall skriver avtal om ny kärnkraft - Tidningen Energi
+- UBS bedömer att AI-rallyt på Wall Street fortsätter under 2026 - Placera.se
 - Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
-- Laila Adelson - Vinnova
 - Apple skjuter upp lansering efter försäljningsflopp - Dagens industri
+- Laila Adelson - Vinnova
 
 ## World News
 
@@ -51,14 +51,14 @@ _Updated: 2025-11-10 23:40_
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -128,7 +128,6 @@ _Updated: 2025-11-10 23:40_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
@@ -137,13 +136,15 @@ _Updated: 2025-11-10 23:40_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +153,12 @@ _Updated: 2025-11-10 23:40_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
