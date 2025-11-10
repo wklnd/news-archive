@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 15:48_
+_Updated: 2025-11-10 16:45_
 
 ## Top Stories
 
-- Få koll på klimatmötet i Brasilien (COP30) - Dagens Nyheter
-- Åklagaren bekräftar: Fjärde misstänkt förgiftad - SvD
-- Ebba Busch (KD) gör oväntad invit till Magdalena Andersson (S) - Dagen
-- Allvarligt skadad efter attack med vätska - GP
-- Brand på Gärdet – minst två till sjukhus - SvD
-- NY RANKING: Arvikaskolan klättrar – här är Värmlands bästa gymnasieskolor - Arvika Nyheter
+- Sarkozy släpps efter tre veckor i fängelse - GP
+- DN Direkt – Fjärde person misstänkt förgiftad på Akademiska - Dagens Nyheter
+- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- Trump hotar med rättsliga följder mot BBC - Hufvudstadsbladet
+- DN Direkt – Hegseth: USA anföll två fartyg i Stilla havet - Dagens Nyheter
+- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- DN Direkt – Brand i flerfamiljshus i Stockholm - Dagens Nyheter
+- Uppgifter: Sprängdåd i Luleå mot anhörig till Rawa Majid - SVT Nyheter
+- Dödsolyckan på Gröna Lund i rätten – film visades - Hufvudstadsbladet
 - MP: Avgift på kalhyggen och bonus till hållbar skog - Västerbottens-Kuriren
-- Efter dödsolyckan – nu inleds rättegången mot Gröna Lund - SVT Nyheter
-- Sadlar för en miljon stulna i Lindesberg - SVT Nyheter
-- DEBATT: Det är lärarna som ska bestämma i klassrummet – inte eleverna - GP
-- BBC ber om ursäkt för redigerat Trump-tal - Västerbottens-Kuriren
 - Byggde jättedomstol – för en enda rättegång - GP
-- DN Direkt – Sarkozy kan släppas fri i väntan på överklagan - Dagens Nyheter
+- Forskningsgenomgång visar att Kennedy har fel - Dagens Nyheter
+- Annonserar efter mänskliga sköldar till Västbanken - Dagens Nyheter
 - Trump benådar ett 70-tal personer - Hufvudstadsbladet
 - Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
-- Ny skånsk uppfinning ska få bort plasten från gurkorna - Sydsvenskan
 - ”Enormt blodigt och rått” – inifrån Engelberts kamp mot fängelse - Expressen
+- Ny skånsk uppfinning ska få bort plasten från gurkorna - Sydsvenskan
 - Forskning om kirala fononer ger nya sätt att kontrollera material - Chalmers tekniska högskola
-- ARC Raiders: Svenska Embark Studios nya sci-fi-shooter tar världen med storm - dopest.se
+- Havsforskningsdagarna 2025 - havochvatten.se
 
 ## World News
 
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -41,11 +42,10 @@ _Updated: 2025-11-10 15:48_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 
 ## Technology
@@ -107,38 +107,38 @@ _Updated: 2025-11-10 15:48_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2025-11-10 15:48_
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
