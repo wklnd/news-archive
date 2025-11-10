@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-10 15:52_
+_Updated: 2025-11-10 16:52_
 
-- Senators reach deal to reopen the government. And, countries gather for climate talks - NPR
-- Trump Pardons Giuliani and Others Involved in Effort to Overturn 2020 Election - The New York Times
-- SNAP benefits: Appeals court rules Trump admin cannot withhold $4 billion in payments - NBC News
-- BBC bosses resign amid fury over Trump documentary edit - DW
-- Winter Storm Warning continues for Chicago area as heavy snow falls - CBS News
-- Which members of the Senate are taking paychecks during the shutdown? - abcnews.go.com
+- Senate advances funding bill to end longest-ever US government shutdown - The Guardian
+- Trump Pardons Rudy Giuliani and Others Involved in Effort to Overturn 2020 Election - The New York Times
+- Trump administration orders states to "undo" full SNAP benefits - Axios
+- Trump threatens to sue BBC over edit of January 6 speech - Financial Times
+- Typhoon Fung-wong blows away from the Philippines, leaving 8 dead and 1.4 million displaced - AP News
+- Chicago snow accumulation: Winter Storm Warning issued, dangerous driving conditions prompts some CPS school closings Monday - ABC7 Chicago
 - Ghislaine Maxwell's alleged prison perks spark Raskin probe into Trump administration - abcnews.go.com
-- Syrian President al-Sharaa meets with Trump at White House, a first for former jihadist - NBC News
-- Trump says he'll issue $2,000 tariff dividend to all except 'high-income people' - abcnews.go.com
-- Legal immigrants face loss of Obamacare help, threatening insurance markets - Politico
-- ‘Like It Was the End of the World’: A Million Flee From Typhoon in the Philippines - The New York Times
-- Prison is gruelling, says Nicolas Sarkozy as he seeks release after three weeks - BBC
-- Indonesia makes former president Soeharto posthumous national hero - Al Jazeera
-- Israel receives remains of Hadar Goldin, an Israeli soldier who was killed in Gaza in 2014 - CBS News
-- FAA prohibits most private jets at 12 major airports amid shutdown's air traffic staffing problems - CNBC
-- Stock Market Today: S&P 500 Futures Rise on Progress to End Shutdown — Live Updates - The Wall Street Journal
-- How the math would work on a 50-year mortgage that Trump envisions - MarketWatch
+- Democrat’s Win May Upend a Conservative Push in Virginia Universities - The New York Times
+- Emboldened, Kennedy Allies Embrace a Label They Once Rejected: ‘Anti-Vax’ - The New York Times
+- ‘Schumer is no longer effective’: Dems outraged over shutdown deal - Politico
+- French court frees former President Sarkozy from jail pending appeal - Reuters
+- Countries are gathering for climate negotiations. Here's where the U.S. stands - NPR
+- Belgium flounders as 5 drones buzz nuclear power plant - politico.eu
+- Indonesia names former dictator Suharto a ‘national hero’ - Financial Times
+- Stocks rise as plan to end shutdown starts moving through Congress: Live updates - CNBC
+- FAA Limits Private Aircraft Flights at Major Airports - WSJ - The Wall Street Journal
 - Exclusive | Burger King Strikes Joint Venture to Double Presence in China - The Wall Street Journal
+- Visa, Mastercard reach revised swipe-fee settlement with merchants - CNBC
 - Latest Samsung Galaxy S26 series report brings all good news on two different fronts - PhoneArena
 - Apple to Hide Selfie Camera Under Display of 20th Anniversary iPhone - MacRumors
