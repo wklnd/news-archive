@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 18:50_
+_Updated: 2025-11-10 19:39_
 
 ## Top Stories
 
-- Nicolas Sarkozy släpps fri – i väntan på ny rättegång - SVT Nyheter
-- Åklagare utreder nytt förgiftningsfall på Akademiska - Dagens Medicin
-- DN Direkt – Flera döda i explosion i Indien - Dagens Nyheter
-- Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
-- Trump hotar med rättsliga följder mot BBC - Hufvudstadsbladet
-- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- Kent Ekeroth (SD) kastades ut ur regionfullmäktige - SVT Nyheter
+- Sarkozy släpps efter tre veckor i fängelse - GP
 - Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
+- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- DN Direkt – Trump hotar att stämma BBC - Dagens Nyheter
 - DN Direkt – Brand i flerfamiljshus i Stockholm - Dagens Nyheter
 - Dödsolyckan på Gröna Lund i rätten – film visades - Hufvudstadsbladet
+- Höjd beredskap inför vintertrafiken - Regeringen.se
 - Hon får mest forskningspengar i Sverige - UNT
 - USA anföll två fartyg i Stilla havet – sex döda - Västerbottens-Kuriren
-- Byggde jättedomstol – för en enda rättegång - GP
-- Forskningsgenomgång visar att Kennedy har fel - Dagens Nyheter
-- Annonserar efter mänskliga sköldar till Västbanken - Dagens Nyheter
+- Flera döda i explosion i Delhi - GP
+- Joint declaration of the CELAC-EU summit 2025, 9 November 2025 - consilium.europa.eu
+- Drograttfyllerist körde in i bilar på Lidingö - Expressen
 - Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
-- Ny undersökning: Fler vill binda boräntan - Dagens industri
+- Ny rapport: Sverige måste stärka sin digitala beredskap för att undvika en digital blackout - dagensinfrastruktur -
 - Beskedet: Sparkar 14 000 människor – robotar får jobben - Expressen
-- Affärsvärlden slopar köprådet för Karnov, sänker till neutral - Affärsvärlden
+- Ny undersökning: Fler vill binda boräntan - Dagens industri
 - Forskning om kirala fononer ger nya sätt att kontrollera material - Chalmers tekniska högskola
 - Havsforskningsdagarna 2025 - havochvatten.se
 
@@ -30,46 +30,46 @@ _Updated: 2025-11-10 18:50_
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
+- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- AGCO to Showcase Full-Line Innovation and Smart Farming Technologies at AGRITECHNICA 2025 - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2025-11-10 18:50_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2025-11-10 18:50_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
