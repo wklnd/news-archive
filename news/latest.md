@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-10 01:48_
+_Updated: 2025-11-10 04:26_
 
-- Thune Says Deal to Reopen Government Is ‘Coming Together’ - The New York Times
-- Trump administration orders states to pause paying full SNAP benefits - The Washington Post
+- US Senate takes steps toward vote to end historic federal shutdown - The Guardian
 - BBC boss and head of news quit after criticism of Trump documentary edit - Reuters
-- Bessent says no formal White House health care proposal as shutdown drags on - abcnews.go.com
-- Trump floats giving Americans cash for health care and tariff dividends - NBC News
-- Feds Again Use Tear Gas In Latest Clash With Little Village Neighbors: 'It Was A Reign Of Terror' - Block Club Chicago
-- US flight cancellations rise as Sean Duffy warns travel could reduce to a ‘trickle’ - The Guardian
+- Trump administration orders states to pause paying full SNAP benefits - The Washington Post
+- Trump floats using tariff revenue to send $2,000 checks to Americans. Here's how that could hurt people in the long run. - Business Insider
+- Some UPS and FedEx planes are grounded. What does that mean for holiday shipping? - NPR
+- What is Trump’s proposal to pay Americans directly for health care costs? - CNN
+- Flight Delays: More Than Half Of Flights Disrupted From EWR, LGA, DTW - Forbes
+- Immigration agents pepper spray 1-year-old girl in Cicero, dad says: VIDEO; DHS says shots fired at CBP agents in Little Village - ABC7 Chicago
 - Maryland Gov. Wes Moore says "we're not going to sit on our hands because Donald Trump tells us to" on redistricting - CBS News
-- Transcript: Kevin Hassett, National Economic Council director, on "Face the Nation with Margaret Brennan," Nov. 9, 2025 - CBS News
-- Israel confirms receiving the remains of a soldier killed in Gaza in 2014 - AP News
-- Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines - NPR
+- Hamas Hands Over Body of Hadar Goldin, Israeli Soldier Held Since 2014 - The New York Times
 - Ecuador prison riot leaves 4 inmates dead and dozens injured - CBS News
-- UK military to help Belgium after drone sightings near airports - Al Jazeera
-- Move over, 30-year mortgage. The Trump White House is working on a 50-year option to break the housing market gridlock - Fortune
-- Officials warn of big hit to air travel and GDP as US government shutdown drags on - Financial Times
-- The ‘buy everything’ rally now feels like an uphill battle, putting bull market to the test - MarketWatch
-- After selling his business for $532 million, this millennial says a life of leisure was surprisingly ‘boring’, so he’s choosing to back to work - Yahoo
+- One photo that captures tenderness amid chaos in the Philippines as Typhoon Fung-wong hits - AP News
+- Britain, France and Germany deploy anti-drone teams to Belgium - politico.eu
+- Stock futures rise as Senate nears deal to end the government shutdown: Live updates - CNBC
+- ByHeart baby formula recalled amid 10-state outbreak of infant botulism - NBC News
+- US fourth-quarter GDP could be negative if shutdown drags on, White House economic adviser says - Reuters
+- China exempts Nexperia chips from export controls - BBC
+- Samsung Galaxy S26: Exynos 2600 expected to enable impressive camera features - Notebookcheck
 - After GTA 6 Delay, Wolverine PS5 Doubles Down on Fall 2026 Release Date - Push Square
 - Games Workshop Just Promoted Titus From Space Marine 2 With a Fancy New Trailer That Sets Up the Next Narrative Expansion for Warhammer 40,000 - IGN
-- Images Of Yoshi From 'The Super Mario Galaxy Movie' Have Leaked Online - nintendolife.com
