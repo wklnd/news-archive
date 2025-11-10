@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 19:39_
+_Updated: 2025-11-10 20:49_
 
 ## Top Stories
 
-- Kent Ekeroth (SD) kastades ut ur regionfullmäktige - SVT Nyheter
-- Sarkozy släpps efter tre veckor i fängelse - GP
+- Ekeroth (SD) utkastad från regionfullmäktige - Bulletin
+- Trump hotar med rättsliga följder mot BBC - Hufvudstadsbladet
+- Explosion nära historiska Röda fortet i New Delhi - SVT Nyheter
+- DN Direkt – Vit tryffel lockade miljonbud i Italien - Dagens Nyheter
+- En allvarligt skadad efter busskrock utanför Norrköping - SVT Nyheter
 - Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
-- Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
-- Svaret efter passningen från Busch: ”Utvecklats” - SvD
-- DN Direkt – Trump hotar att stämma BBC - Dagens Nyheter
 - DN Direkt – Brand i flerfamiljshus i Stockholm - Dagens Nyheter
 - Dödsolyckan på Gröna Lund i rätten – film visades - Hufvudstadsbladet
 - Höjd beredskap inför vintertrafiken - Regeringen.se
-- Hon får mest forskningspengar i Sverige - UNT
-- USA anföll två fartyg i Stilla havet – sex döda - Västerbottens-Kuriren
-- Flera döda i explosion i Delhi - GP
-- Joint declaration of the CELAC-EU summit 2025, 9 November 2025 - consilium.europa.eu
-- Drograttfyllerist körde in i bilar på Lidingö - Expressen
-- Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
+- Hon får mest forskningspengar i Uppsala - UNT
+- Vit tryffel lockade miljonbud i Italien - Västerbottens-Kuriren
+- UD ändrar avrådan av resor till Israel: ”Förändrat säkerhetsläge” - SVT Nyheter
+- Sarkozy om tiden i fängelse: ”Det är tufft, så tufft” - Dagens Nyheter
+- Efter möteshaveriet: Lavrov redo att träffa Rubio - GP
 - Ny rapport: Sverige måste stärka sin digitala beredskap för att undvika en digital blackout - dagensinfrastruktur -
 - Beskedet: Sparkar 14 000 människor – robotar får jobben - Expressen
-- Ny undersökning: Fler vill binda boräntan - Dagens industri
+- UBS bedömer att AI-rallyt på Wall Street fortsätter under 2026 - Placera.se
+- 160 miljarder rullar in – ändå växer missnöjet - Dagens PS
 - Forskning om kirala fononer ger nya sätt att kontrollera material - Chalmers tekniska högskola
 - Havsforskningsdagarna 2025 - havochvatten.se
 
 ## World News
 
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
-- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
+- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
+- Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
+- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
@@ -40,13 +41,12 @@ _Updated: 2025-11-10 19:39_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
-- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
@@ -104,11 +104,11 @@ _Updated: 2025-11-10 19:39_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -122,43 +122,43 @@ _Updated: 2025-11-10 19:39_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
