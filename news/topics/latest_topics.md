@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 09:40_
+_Updated: 2025-11-10 10:50_
 
 ## Top Stories
 
-- Trump benådar tidigare advokaten Rudy Giuliani - UNT
-- Amnesty inför COP30: Anslut er inte till Donald Trumps klimatförnekelse - GP
-- Dödsolyckan på Gröna Lund prövas i rätten - Dagens Nyheter
+- Klimatets framtid avgörs i en hamnstad utan avloppssystem - Dagens Nyheter
+- Gröna Lund inför rätta – krävs på miljonbelopp efter dödsolyckan - Nyteknik
 - Ökände svensken beställde 47 övergrepp på barn - Dagens Nyheter
-- Magdalena Andersson (S): ”Alla kan integreras” - GP
+- Klimatmålet på väg att glida ur världens händer - Dagens industri
 - Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär - SVT Nyheter
-- Bättre kunskapsläge för mer träffsäkra åtgärder - Örebronyheter
+- Magdalena Andersson (S): ”Alla kan integreras” - GP
+- DN till hårt angrepp mot Regeringskansliet - GP
+- Här är gängtopparna som polisen jagar utomlands - SVT Nyheter
+- Polisinsats i Luleå efter explosion vid bil - UNT
 - 10 november 07.10, Sammanfattning natt, Värmlands län - Polisen.se
-- Bohlin: Debattformatet en orsak till ”käbbel” - Omni
-- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
+- Trump benådar Giuliani och 76 andra - Dagens Nyheter
 - 27 fångar har hittats kvävda i Ecuador - UNT
 - Fler tecken på ny offensiv i krigshärjade Sudan - Västerbottens-Kuriren
-- Tåg krockade i Slovakien – flera till sjukhus - GP
 - Joint declaration of the CELAC-EU summit 2025, 9 November 2025 - consilium.europa.eu
 - Armfelt: ”Svårt att se triggers för nytt AI-rally” - Omni
+- ”Enormt blodigt och rått” – inifrån Engelberts kamp mot fängelse - Expressen
 - Ny undersökning: Fler vill binda boräntan - Dagens industri
-- Allbright: Nätverk blockerar toppjobb för kvinnor - Dagens Nyheter
-- Demokraternas segerrus är över - SvD
-- Fem nya satellitfunktioner på väg till Iphone – detta utvecklar Apple just nu - Macworld.se
+- SvD Morgonrapport: Budgetkaoset kan vara över i USA - SvD
+- Apple planerar nya satellitfunktioner till Iphone - Omni
 - Hur mycket påverkar snabbladdning telefonens batteri? - Teknikveckan
 
 ## World News
@@ -43,32 +43,32 @@ _Updated: 2025-11-10 09:40_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - TT Nyhetsbyrån
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
@@ -81,18 +81,18 @@ _Updated: 2025-11-10 09:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 
 ## Health
 
@@ -101,17 +101,17 @@ _Updated: 2025-11-10 09:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -120,19 +120,19 @@ _Updated: 2025-11-10 09:40_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - TT Nyhetsbyrån
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -145,6 +145,7 @@ _Updated: 2025-11-10 09:40_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -161,4 +162,3 @@ _Updated: 2025-11-10 09:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
