@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 22:44_
+_Updated: 2025-11-10 23:40_
 
 ## Top Stories
 
-- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- DN Direkt – Man skjuten med luftgevär i Stockholm - Dagens Nyheter
 - Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
-- BBC ber om ursäkt för redigerat Trump-tal - UNT
-- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- Ryska pengar kan göra landet till måltavla - SvD
+- M-piken till Ebba Busch: ”Skadliga” - Expressen
+- Forskarens varning: Då har vi inga verktyg kvar – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Stor insats mot sexköpare – i deras hem - Aftonbladet
-- Dödsolyckan på Gröna Lund fångad på film – visades i rätten - Dagens Nyheter
-- Man död efter busskrock utanför Norrköping - SVT Nyheter
-- Brand i Stockholm – två till sjukhus - GP
+- Bil och buss i kollision – man död - GP
 - Höjd beredskap inför vintertrafiken - Regeringen.se
 - Hon får mest forskningspengar i Uppsala - UNT
+- Grovt rån i centrala Uppsala – kvinna slets ur sin bil - UNT
 - DN Direkt – Vit tryffel lockade miljonbud i Italien - Dagens Nyheter
-- USA anföll två fartyg i Stilla havet – sex döda - Västerbottens-Kuriren
-- Överlevde efter tyfonen – 40 timmar till havs - GP
+- Överlevde efter tyfonen – 40 timmar till havs - Västerbottens-Kuriren
+- USA anföll två fartyg i Stilla havet – sex döda - GP
 - UD ändrar avrådan av resor till Israel: ”Förändrat säkerhetsläge” - SVT Nyheter
+- Ny rapport: Sverige måste stärka sin digitala beredskap för att undvika en digital blackout - dagensinfrastruktur -
 - UBS bedömer att AI-rallyt på Wall Street fortsätter under 2026 - Placera.se
-- ”Enormt blodigt och rått” – inifrån Engelberts kamp mot fängelse - Expressen
-- Karnov renodlar – säljer EHS-enheterna för 1 miljard - EFN
+- Industrikraft och Vattenfall skriver avtal om ny kärnkraft - Tidningen Energi
 - Ica och Coop ska lyfta fram ukrainska produkter - Aftonbladet
-- ARC Raiders: Svenska Embark Studios nya sci-fi-shooter tar världen med storm - dopest.se
-- Forskning om kirala fononer ger nya sätt att kontrollera material - Chalmers tekniska högskola
+- Laila Adelson - Vinnova
+- Apple skjuter upp lansering efter försäljningsflopp - Dagens industri
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 
 ## Technology
 
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- AGCO to Showcase Full-Line Innovation and Smart Farming Technologies at AGRITECHNICA 2025 - Placera.se
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 
 ## Business
 
@@ -121,30 +121,29 @@ _Updated: 2025-11-10 22:44_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -153,12 +152,13 @@ _Updated: 2025-11-10 22:44_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
