@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-10 10:50_
+_Updated: 2025-11-10 11:45_
 
 ## Top Stories
 
-- Klimatets framtid avgörs i en hamnstad utan avloppssystem - Dagens Nyheter
-- Gröna Lund inför rätta – krävs på miljonbelopp efter dödsolyckan - Nyteknik
+- Sponsrat innehållSamlat Norden gör sig klart till klimattoppmöte i Brasilien - Altinget.se
+- Allvarligt skadad efter attack med vätska - GP
+- Rättegång mot Gröna Lund - 8 Sidor
+- Polisinsats i Luleå efter explosion vid bil - TV4 Nyheterna
 - Ökände svensken beställde 47 övergrepp på barn - Dagens Nyheter
 - Klimatmålet på väg att glida ur världens händer - Dagens industri
-- Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär - SVT Nyheter
-- Magdalena Andersson (S): ”Alla kan integreras” - GP
 - DN till hårt angrepp mot Regeringskansliet - GP
-- Här är gängtopparna som polisen jagar utomlands - SVT Nyheter
-- Polisinsats i Luleå efter explosion vid bil - UNT
+- Polisen jagar flera gängtoppar utomlands - UNT
+- 10 november 07.07, Sammanfattning natt, Örebro län - Polisen.se
 - 10 november 07.10, Sammanfattning natt, Värmlands län - Polisen.se
 - Trump benådar Giuliani och 76 andra - Dagens Nyheter
 - 27 fångar har hittats kvävda i Ecuador - UNT
 - Fler tecken på ny offensiv i krigshärjade Sudan - Västerbottens-Kuriren
 - Joint declaration of the CELAC-EU summit 2025, 9 November 2025 - consilium.europa.eu
-- Armfelt: ”Svårt att se triggers för nytt AI-rally” - Omni
+- Ny skånsk uppfinning ska få bort plasten från gurkorna - Sydsvenskan
+- Allbright: Nätverk blockerar toppjobb för kvinnor - Dagens Nyheter
 - ”Enormt blodigt och rått” – inifrån Engelberts kamp mot fängelse - Expressen
-- Ny undersökning: Fler vill binda boräntan - Dagens industri
-- SvD Morgonrapport: Budgetkaoset kan vara över i USA - SvD
-- Apple planerar nya satellitfunktioner till Iphone - Omni
-- Hur mycket påverkar snabbladdning telefonens batteri? - Teknikveckan
+- Armfelt: ”Svårt att se triggers för nytt AI-rally” - Omni
+- Hopp om att forskningen hittar ett bot mot demens - Västerbottens-Kuriren
+- Växande smyckeskedjan gör Skåneetablering - habit.se
 
 ## World News
 
 - ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - TT Nyhetsbyrån
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
@@ -57,6 +57,7 @@ _Updated: 2025-11-10 10:50_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-11-10 10:50_
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -81,8 +81,8 @@ _Updated: 2025-11-10 10:50_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
@@ -101,6 +101,7 @@ _Updated: 2025-11-10 10:50_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -115,24 +116,23 @@ _Updated: 2025-11-10 10:50_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - TT Nyhetsbyrån
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -145,7 +145,6 @@ _Updated: 2025-11-10 10:50_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -160,5 +159,6 @@ _Updated: 2025-11-10 10:50_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
