@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-10 15:19_
+_Updated: 2025-11-10 15:52_
 
-- "It's complete BS": Dems go ballistic over Senate shutdown deal - Axios
+- Senators reach deal to reopen the government. And, countries gather for climate talks - NPR
 - Trump Pardons Giuliani and Others Involved in Effort to Overturn 2020 Election - The New York Times
+- SNAP benefits: Appeals court rules Trump admin cannot withhold $4 billion in payments - NBC News
 - BBC bosses resign amid fury over Trump documentary edit - DW
-- SNAP benefits: Appeals court again rejects Trump admin bid to halt full payment order - CNBC
-- Meteorologists warn of ‘intense’ snow in Great Lakes states and record lows in South - AP News
-- Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines - NPR
+- Winter Storm Warning continues for Chicago area as heavy snow falls - CBS News
+- Which members of the Senate are taking paychecks during the shutdown? - abcnews.go.com
 - Ghislaine Maxwell's alleged prison perks spark Raskin probe into Trump administration - abcnews.go.com
-- Syria al-Shara al-Baghdadi Trump - The New York Times
+- Syrian President al-Sharaa meets with Trump at White House, a first for former jihadist - NBC News
+- Trump says he'll issue $2,000 tariff dividend to all except 'high-income people' - abcnews.go.com
 - Legal immigrants face loss of Obamacare help, threatening insurance markets - Politico
-- 'Pathetic': Critics Are 'F**king Furious' With Dems For Caving To Trump On Shutdown - HuffPost
-- Former French President Nicolas Sarkozy to be released from prison pending appeal - CNN
+- ‘Like It Was the End of the World’: A Million Flee From Typhoon in the Philippines - The New York Times
+- Prison is gruelling, says Nicolas Sarkozy as he seeks release after three weeks - BBC
+- Indonesia makes former president Soeharto posthumous national hero - Al Jazeera
 - Israel receives remains of Hadar Goldin, an Israeli soldier who was killed in Gaza in 2014 - CBS News
-- Seven dead after migrant boat sinks near Thai-Malaysia border - BBC
-- Homelessness figures higher than data suggests, research shows - BBC
 - FAA prohibits most private jets at 12 major airports amid shutdown's air traffic staffing problems - CNBC
 - Stock Market Today: S&P 500 Futures Rise on Progress to End Shutdown — Live Updates - The Wall Street Journal
-- Trump considering shake-up to housing market by offering 50-year mortgages and not just 30-year terms - Yahoo Finance
-- South Korea's Kospi jumps more than 3% to lead Asia recovery rally after AI-fueled rout - CNBC
+- How the math would work on a 50-year mortgage that Trump envisions - MarketWatch
+- Exclusive | Burger King Strikes Joint Venture to Double Presence in China - The Wall Street Journal
 - Latest Samsung Galaxy S26 series report brings all good news on two different fronts - PhoneArena
 - Apple to Hide Selfie Camera Under Display of 20th Anniversary iPhone - MacRumors
