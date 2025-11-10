@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-10 20:51_
+_Updated: 2025-11-10 21:48_
 
-- The 8 Senate Democratic Caucus members who voted to end the shutdown - Politico
-- US Supreme Court rejects bid to overturn same-sex marriage right - Reuters
-- Trump pardons Giuliani and others accused of plot to overturn 2020 election - BBC
-- Flight disruptions from shutdown worsen as Trump threatens air traffic controllers - CNBC
-- Appeals Court Blocks Trump’s Attempt to Withhold Full SNAP Funding - The New York Times
-- Chicago snow accumulation: Winter Storm Warning issued, dangerous driving conditions prompts some CPS school closings Monday - ABC7 Chicago
-- FAA prohibits most private jets at 12 major airports amid shutdown's air traffic staffing problems - CNBC
+- Senate government shutdown deal leaves many Democrats furious, with little to show on health care after 40 days - CBS News
+- Supreme Court Denies Request to Revisit Same-Sex Marriage Decision - The New York Times
+- Trump pardons Giuliani, others accused of seeking to overturn his 2020 defeat - Reuters
+- ‘REPORT TO WORK IMMEDIATELY’: Trump threatens to replace absent air traffic controllers with ‘true Patriots’ - Politico
+- SNAP payment decision gets quick review from Supreme Court - Axios
+- Supreme Court to weigh imposing new limits on mail-in ballots in a major election case - NBC News
 - Arctic air hits much of the US, bringing snow to some areas and very chilly temperatures to Florida - AP News
-- Eight Senate Dems Caved, and Caved Too Early - emptywheel
-- Trump says BBC ‘defamed’ him, threatens to sue over Jan. 6 editing scandal - The Washington Post
-- Car explodes near historic fort in India’s capital, killing at least 8 people, police say - AP News
+- Stimulus check 2025: Trump promises $2,000 tariff payment, what you need to know - AL.com
+- Government shutdown: House will vote on Senate deal ASAP, Speaker Johnson says - CNBC
+- Trump threatens to sue BBC over edited speech that sparked resignations by news bosses - AP News
+- Car blast near New Delhi’s historic Red Fort kills at least 8 people, India’s police say - AP News
+- Cop30 live: crucial climate talks begin in Brazil as hosts insist summit must lead to ‘implementation’ - The Guardian
 - Sarkozy Freed After Just 20 Days in Jail Over Conspiracy - Bloomberg.com
-- SpaceX and Musk called on to rescue China's Shenzhou-20 crew - theregister.com
-- Typhoon Fung-wong leaves 4 dead and 1.4 million displaced in the Philippines - NPR
+- Super Typhoon Fung-wong slams Philippines in wake of Typhoon Kalmaegi - The Washington Post
 - Warren Buffett: ‘I’m going quiet’ - CNN
 - Visa, Mastercard reach revised swipe-fee settlement with merchants - CNBC
-- 2027 Kia Telluride Revealed: A Range Rover By Any Other Name - Motor1.com
-- Yes It’s an AI Bubble. Here’s Why - Bloomberg.com
+- 2027 Kia Telluride Hands On: A First Look at Kia's Most Important Car - Edmunds
+- Stock Market Today: Dow Rallies on Progress to End Government Shutdown — Live Updates - The Wall Street Journal
 - Samsung Galaxy S26 Plus reappears in renders with a new camera island - The Verge
-- Best Apple Watch SE 2 deal: Save $89.01 at Amazon - Mashable
+- Rumor suggests Apple could kill Dynamic Island with under-display camera - Mashable
