@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 22:42_
+_Updated: 2025-11-11 23:39_
 
 ## Top Stories
 
 - Tung kritik mot sänkt straffålder: Risk att gängen rekryterar 11-åringar - SVT Nyheter
-- Sprängning vid Fabians hus: ”Är en helt vanlig familj” - Omni
-- Advokaten skjuter ner uppgifter: "Inget släktskap med Rawa Majid" - NSD
-- Utredare: Zelenskyj-allierad bakom miljardmygel - SvD
+- Fyra teorier om förgiftningarna på Akademiska - Aftonbladet
+- Polisen dementerar att Majids släkting var måltavla - Omni
 - Hon vill skrota FN:s klimattoppmöte - GP
-- Macron: Bosättarnas våld hotar stabiliteten - GP
-- Femte person misstänks ha förgiftats på Ackis - UNT
-- IS-kvinnan dömd till tolv års fängelse för folkmord - Dagens Nyheter
-- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
-- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
+- Macron: Annektering en röd linje - SVT Nyheter
+- Attackerar SD: ”Skiter i dem” - Expressen
+- Fördjupat samarbete med Marocko mot organiserad brottslighet - Regeringen.se
+- Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
+- Dom mot IS-kvinnan sprids i Europa – "banbrytande” - Västerbottens-Kuriren
+- Körde vilt med båt på E4 - Expressen
+- Utredare: Zelenskyj-allierad bakom miljardmygel - Dagens Nyheter
 - Oväntat högt valdeltagande i Irak - Västerbottens-Kuriren
-- Bakslag för Republikaner – ville ändra valdistrikt - Västerbottens-Kuriren
-- Klimatmöte i Etiopien 2027 – kamp om nästa år - GP
-- Frontalkrock på fjällväg utanför Kiruna – två till sjukhus i ambulans - SVT Nyheter
+- Ny art upptäckt: ”Djävulsbi” med horn - GP
+- DN Direkt – Etiopien favorittippat som värd för klimatmötet 2027 - Dagens Nyheter
 - SBB har ingått TRE avtal med Public Property Invest ASA om överlåtelse av SBB:s samhällsportfölj till ett värde om 32 miljarder kronor och kommer att kalla till extra bolagsstämma - SBB - Samhällsbyggnadsbolaget
 - Svensk bil- och stålexport hårt drabbad av tullar - SvD
-- Affärsvärlden anser att Enad Global 7 måste byta ut styrelsen och ledningen - Placera.se
 - AI-aktier tappar i New York - Dagens industri
+- Softbank dumpar hela sitt aktieinnehav Nvidia - NyTeknik
+- Pixel får november-uppdateringen med nya funktioner - Swedroid
 - Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
-- Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
 
 ## World News
 
@@ -33,30 +33,30 @@ _Updated: 2025-11-11 22:42_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
+- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
@@ -67,9 +67,9 @@ _Updated: 2025-11-11 22:42_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -79,7 +79,7 @@ _Updated: 2025-11-11 22:42_
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - microsoft.com
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -104,13 +104,13 @@ _Updated: 2025-11-11 22:42_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2025-11-11 22:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
