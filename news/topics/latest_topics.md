@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 19:42_
+_Updated: 2025-11-11 20:49_
 
 ## Top Stories
 
+- Kriminalvården: Nej till fängelse för 13-åringar - SVT Nyheter
 - Akademiska sjukhuset förnekar ny förgiftning - Aftonbladet
-- DN Direkt – Polisen: Nattens detonation kan ha varit en felsprängning - Dagens Nyheter
-- Ebba Buschs pik mot Ulf Kristerssons drag - Expressen
-- Mollie, 10 år, dog – mamman vädjar om bättre sjukvård - Dagens Nyheter
-- Flyttbara städer och ”tiny houses” ska lösa bostadsbrist - Dagens Nyheter
-- Turkiskt militärflyg har kraschat – 20 ombord - Västerbottens-Kuriren
-- Sverige och Marocko i avtal – för att stoppa gängkriminella - SVT Nyheter
-- Extrema halter av PFAS i sorkar: ”Leverskador” - Dagens Nyheter
+- MEDAN DU SOV: Här är nattens händelser – explosion norr om Stockholm - NLT
+- Lavrov pekas ut som Putins syndabock – nu svarar han - Expressen
+- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- 11 november 17.35, Vållande till kroppsskada, Örebro - polisen.se
 - Tonåring åtalas för skott mot Israels ambassad - Västerbottens-Kuriren
-- Dom står fast för Lina Ishaq – förslavade barn - UNT
+- Sverige och Marocko i avtal – för att stoppa gängkriminella - SVT Nyheter
+- Uppgifter: Sprängdåd i Luleå kopplas till Rawa Majid - SVT Nyheter
+- Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
 - Dalande väljarintresse trots spänt läge i Irak - SVT Nyheter
+- Expert: Putin erövrar ”ruinhög” – till enorm kostnad - Dagens Nyheter
 - Kazakstans president skriver på allians med Putin - GP
 - Påven: AI inom vården måste säkerställa kvaliteten på omsorg - Vatican News
-- Stor polisinsats på Hisingen – man vaknade av inbrott - GP
 - Svensk bil- och stålexport hårt drabbad av tullar - SvD
-- SBB har ingått TRE avtal med Public Property Invest ASA om överlåtelse av SBB:s samhällsportfölj till ett värde om 32 miljarder kronor och kommer att kalla till extra bolagsstämma - SBB - Samhällsbyggnadsbolaget
+- SBB i miljardaffär med norskt fastighetsbolag - Aftonbladet
+- Affärsvärlden anser att Enad Global 7 måste byta ut styrelsen och ledningen - Placera.se
 - Över tusen husägare blir utan stöd – Villaägarna kräver besked från regeringen - Cision News
-- Pensionsrapport: Fler jobbar i högre ålder - Expressen
 - Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
-- Test: Honor Magic V5 – Mäktig - mobil.se
+- Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2025-11-11 19:42_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Predators har jobb kvar att göra innan Global Series - NHL.com
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Predators har jobb kvar att göra innan Global Series - NHL.com
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -99,20 +99,20 @@ _Updated: 2025-11-11 19:42_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2025-11-11 19:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
