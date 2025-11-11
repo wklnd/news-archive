@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 01:47_
+_Updated: 2025-11-11 04:22_
 
 - These 8 senators broke with Democrats on the government shutdown deal. Here's how they explain it - AP News
-- US senators begin series of votes towards ending shutdown - BBC
-- Trump pardons top allies who aided bid to subvert the 2020 election - Politico
-- Supreme Court won’t hear challenge to landmark gay marriage ruling - The Washington Post
-- Hemp rule creates turbulence for Senate vote to end shutdown - Politico
-- Watson Coleman to retire from Congress - Politico
-- Khanna explains his call for Schumer to be replaced over shutdown deal: "He is not meeting the moment" - CBS News
-- Arctic air hits much of the US, bringing snow to some areas and very chilly temperatures to Florida - AP News
+- "People are f**king pissed": Democrats' shutdown civil war spills out in private call - Axios
+- Trump pardons Giuliani and others accused of plot to overturn 2020 election - BBC
+- More flight cancellations coming after shutdown’s worst day for air travel - The Washington Post
+- Trump Threatens to Sue the BBC for $1 Billion After Jan. 6 Documentary - The New York Times
+- Judge blocks administration from acting to 'undo' issuance of full SNAP benefits - abcnews.go.com
 - Trump says MTG has ‘some sort of act going on’ - Politico
-- Democrat’s Win May Upend a Conservative Push in Virginia Universities - The New York Times
-- Car blast near New Delhi’s historic Red Fort kills at least 8 people, India’s police say - AP News
+- Senate rejects Paul’s hemp pitch - Politico
+- Families accuse Camp Mystic of ignoring risks in Texas lawsuit over flood deaths - NPR
+- Supreme Court won’t hear challenge to landmark gay marriage ruling - The Washington Post
+- New Delhi Explosion Kills Eight People, Leaves Several Hurt - Bloomberg.com
+- Former French President Sarkozy released from prison pending appeal in conspiracy case - AP News
 - Ukraine raids top officials as energy sector scandal unfolds - Financial Times
 - Super Typhoon Fung-wong slams Philippines in wake of Typhoon Kalmaegi - The Washington Post
-- Sarkozy Freed After Just 20 Days in Jail Over Conspiracy - Bloomberg.com
-- Stock Market Today: Dow Rallies on Progress to End Government Shutdown — Live Updates - The Wall Street Journal
 - Buffett Says He’s ‘Going Quiet,’ Picking Up Donation Pace - Bloomberg.com
-- Visa, Mastercard reach $38 billion swipe fee settlement, draw opposition - Reuters
+- Stock Market Today: Dow Rallies on Progress to End Government Shutdown — Live Updates - The Wall Street Journal
 - CoreWeave Earnings Top Views Amid Strong Revenue Backlog Growth - Investor's Business Daily
+- ‘Sold POTUS a bill of goods’: WH furious with Pulte over 50-year mortgage - Politico
+- Five Years of Apple Silicon: M1 to M5 Performance Comparison - MacRumors
 - Samsung Galaxy S26 Plus reappears in renders with a new camera island - The Verge
-- Best Apple Watch SE 2 deal: Save $89.01 at Amazon - Mashable
