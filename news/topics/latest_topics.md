@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 16:45_
+_Updated: 2025-11-11 17:43_
 
 ## Top Stories
 
-- Nya teorin: Så förgiftades de anställda på Akademiska sjukhuset - Aftonbladet
-- SMHI varnar för plötslig ishalka i norra Sverige - Omni
+- Akademiska sjukhuset förnekar ny förgiftning - Aftonbladet
+- Då kan årets första snö falla över Uppsala - UNT
+- Polisen: Så flydde skytten efter mordförsöket - Gefle Dagblad
+- Mollie, 10 år, dog – mamman vädjar om bättre sjukvård - Dagens Nyheter
 - DN Direkt – Turkiskt militärflyg har kraschat – 20 ombord - Dagens Nyheter
-- JUST NU: Störningar i trafiken på grund av stillastående lastbil på E16 - VF
-- 18-åring erkänner att han deltog i IS - Västerbottens-Kuriren
-- DN Direkt – Kräver 2 000 års fängelse för Imamoglu - Dagens Nyheter
-- Hovrätten fastställer domen mot IS-kvinnan Lina Ishaq från Halmstad - SVT Nyheter
-- Parterna överens om JLC-guldet - Aftonbladet
-- Fördjupat samarbete med Marocko mot organiserad brottslighet - Regeringen.se
+- Ebba Buschs pik mot Ulf Kristerssons drag - Expressen
+- Sverige och Marocko i avtal – för att stoppa gängkriminella - SVT Nyheter
 - Unga rekryteras på boenden – Foxtrot sticker ut - Västerbottens-Kuriren
+- Dom står fast för Lina Ishaq – förslavade barn - UNT
+- 11 november 06.39, Trafikolycka, Mölndal - Polisen.se
 - Sannfinländarna byter språkstrategi och accepterar svenskan - SVT Nyheter
 - Talibaner beskylls för dödlig bomb vid domstol - Västerbottens-Kuriren
-- Stor polisinsats på Hisingen – man vaknade av inbrott - GP
 - Kazakstans president skriver på allians med Putin - GP
-- Pensionsrapport: Fler jobbar i högre ålder - Expressen
+- Stor polisinsats på Hisingen – man vaknade av inbrott - GP
+- Svensk bil- och stålexport hårt drabbad av tullar - SvD
 - Över tusen husägare blir utan stöd – Villaägarna kräver besked från regeringen - Cision News
+- Pensionsrapport: Fler jobbar i högre ålder - Expressen
 - Softbank dumpar alla Nvidia-aktier - Dagens industri
-- Enad Global 7 minskar omsättning och resultatet - fortsatt utmanande marknad - Börsvärlden
-- Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
 - Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
+- Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
 
 ## World News
 
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Malmöbo utpekad som ”global terrorist” - Aftonbladet
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
@@ -73,26 +73,26 @@ _Updated: 2025-11-11 16:45_
 
 ## Business
 
+- POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - The circular economy in action at Blenheim Palace - mastercard.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2025-11-11 16:45_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
