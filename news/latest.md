@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 21:48_
+_Updated: 2025-11-11 22:49_
 
-- Government shutdown live updates as funding bill moves to the House after Senate passage - CBS News
-- Democrats push for a ‘ruthlessly pragmatic’ approach to counter Trump - The Washington Post
+- US House returns to Washington for vote to end government shutdown - Reuters
 - Pentagon’s largest warship enters Latin American waters as US tensions with Venezuela rise - The Guardian
+- Flight Delays and Cancellations Won’t Immediately Stop When Government Shutdown Ends - The New York Times
+- Shutdown deal lets senators sue for $500,000 over data seizures like those in Jan. 6 probe - CBS News
 - Utah judge rejects GOP redistricting effort, approving new map with a Democratic seat - NBC News
-- Trump downplays economic woes as partisan spin, saying, 'Costs are way down' - abcnews.go.com
-- Gregory Bovino and his Border Patrol agents are planning to leave Chicago as early as this week, sources say - CNN
+- Trump floats tariff 'dividends' even while plan shows major flaws - NPR
 - Man and daughter flying hurricane relief supplies to Jamaica identified as victims of crash - The Guardian
-- Camp Mystic families file four wrongful death lawsuits against owners - Austin American-Statesman
 - Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News
-- UK government defends the BBC as critics circle and Trump threatens to sue - AP News
-- India PM Modi says those responsible for Delhi blast will be brought to justice - Reuters
-- Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
+- Growing pains: How NYC’s left plans to take on city government under Mamdani - Politico
+- Trump downplays economic woes as partisan spin, saying, 'Costs are way down' - abcnews.go.com
+- Suicide bombing in Pakistan capital kills 12, raises regional tension - Reuters
 - Scientists discover new "lucifer" bee with devil-like horns lurking in critically endangered wildflower in Australia - CBS News
+- ‘People were screaming for help’: Delhi car blast witnesses describe scenes of horror - The Guardian
 - Armed men publicly killed Mali TikTok influencer Mariame Cissé, authorities say - NBC News
-- Stock Market Today: S&P 500 Slips; ADP Data Points to Softer Jobs Market — Live Updates - The Wall Street Journal
 - Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
 - SoftBank Says It Sold Its Entire Nvidia Stake. The Chip Stock is Sliding. - Investopedia
-- Texas Roadhouse Veterans Day Deal 2025: Top Freebies, discounts and where to get them — All restaurant dea - The Economic Times
-- Apple Is Dead Serious About Its $230 iPhone Sock - Gizmodo
+- Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Reuters
+- Your guide to Veterans Day free meals, what's open and closed - Scripps News
+- Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple
 - Google Photos lets iPhone users edit images by describing changes - The Verge
