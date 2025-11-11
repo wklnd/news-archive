@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 19:48_
+_Updated: 2025-11-11 20:54_
 
-- What a Government Shutdown Solution Hasn’t Solved - The New York Times
+- House to consider stopgap funding bill to end shutdown after Senate approval leaves Democrats split – US politics live - The Guardian
 - Trump floats tariff 'dividends' even while plan shows major flaws - NPR
 - Flight Delays and Cancellations Won’t Immediately Stop When Government Shutdown Ends - The New York Times
-- Jon Stewart Tears Into Democrats for Caving on Government Shutdown: 'I Can't F-cking Believe It' - Rolling Stone
+- Gerald R. Ford Carrier Strike Group Enters U.S. Fourth Fleet - navy.mil
 - Delhi blast: The night that shook India's capital city - BBC
-- Trump downplays economic woes as partisan spin, saying, 'Costs are way down' - abcnews.go.com
-- Christian missionary father and daughter died when plane bound for Jamaica crashed in Florida - AP News
-- Camp Mystic families file four wrongful death lawsuits against owners - Austin American-Statesman
-- Thune secures provision in government funding bill letting senators sue for phone records seizure - Politico
 - Utah judge rejects GOP redistricting effort, approving new map with a Democratic seat - NBC News
-- A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says - AP News
-- Iraqis vote in election they expect to bring little reform - Reuters
+- Man and daughter flying hurricane relief supplies to Jamaica identified as victims of crash - The Guardian
+- Mamdani win spurs $100M Florida real estate rush as ‘nervous’ New Yorkers flee, developer says. Is the Big Apple over? - Yahoo Finance
+- Trump downplays economic woes as partisan spin, saying, 'Costs are way down' - abcnews.go.com
+- Camp Mystic families file four wrongful death lawsuits against owners - Austin American-Statesman
+- Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
+- Armed men publicly killed Mali TikTok influencer Mariame Cissé, authorities say - NBC News
+- Ukraine’s anti-corruption watchdog probes major energy sector scheme - Euronews.com
 - Thieves steal Roman statues from Syria’s national museum - AP News
-- Ukrainian forces hold ground in Pokrovsk amid intense Russian assault - Euronews.com
-- Texas Roadhouse Veterans Day Deal 2025: Top Freebies, discounts and where to get them — All restaurant dea - The Economic Times
 - Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
-- SoftBank's $5.8 billion Nvidia stake sale stirs fresh AI bubble fears - Reuters
-- Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Yahoo Finance
+- Nvidia Stock Drops After SoftBank Dumps Stake - Barron's
+- Stock Market Today: Dow Jumps 500 Points As Shutdown End Nears; Gold Stock Vaults (Live Coverage) - Investor's Business Daily
+- Here’s what’s open and closed on Veterans Day - CNN
 - Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple
 - Weak sales delay next iPhone Air model, report claims - Mashable
