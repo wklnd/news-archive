@@ -1,79 +1,78 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 09:40_
+_Updated: 2025-11-11 10:49_
 
 ## Top Stories
 
-- Explosion vid radhus i Upplands Väsby - SVT Nyheter
-- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
-- Stor polisinsats på Hisingen – man vaknade av inbrott - GP
-- Malmöbo pekas ut – ”global terrorist” - SvD
-- DN Direkt – Psykologer i Stockholm behandlar patienter med olagliga psykedeliska droger - Dagens Nyheter
+- DN Direkt – Explosion vid villa i Upplands Väsby - Dagens Nyheter
+- Uppgifter: Nytt misstänkt förgiftningsfall på Akademiska sjukhuset - SVT Nyheter
+- Man i Malmö pekas ut som terrorist – gör affärer här - Omni
 - Varning för halka kring Umeå - Västerbottens-Kuriren
-- Amazonas avgörande för planeten – det är hemligheten - UNT
-- Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
-- Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
-- Två trafikolyckor på E6 skapar långa köer – ambulans larmad - Norra Halland
-- Somar Al Naher: Inget kommer förändras efter valet i Irak - ETC.se
-- Syriens president på historiskt möte i Vita huset - Dagens Nyheter
+- 11 november: Nattens nyheter - SVT Nyheter
 - Skräck i Cherson – trots befrielsen: "Kan bara springa" - SvD
+- Två olyckor på E6 vid Kungsbacka och Lindome - SVT Nyheter
+- Psykologer i Stockholm behandlar patienter med olagliga psykedeliska droger - Dagens Nyheter
+- Amazonas avgörande för planeten – det är hemligheten - UNT
+- Uppgifter: Luleåexplosion kopplas till Rawa Majid - Västerbottens-Kuriren
+- Syriens president på historiskt möte i Vita huset - Dagens Nyheter
 - Ukrainastöd kan räddas – med norsk olja - Västerbottens-Kuriren
-- Pensionsrapport: Fler jobbar i högre ålder - Expressen
+- Vaknade av inbrott i Göteborg - Expressen
+- Vit tryffel lockade miljonbud i Italien - GP
 - Softbank dumpar alla Nvidia-aktier - Dagens industri
-- Schweiz uppges vara nära avtal med USA om sänkta tullar - BN - Börsvärlden
-- Sverige digitalt sårbart – men Kalix ett föredöme - Omni
+- Pensionsmyndighetens nya rapport: Fler jobbar i högre ålder - Expressen
+- Stödet för Musk-miljarder minskar - Sydsvenskan
+- Wallenberg om AI-reglering: ”Gått för långt” - Tidningen Näringslivet
+- Apple uppges skjuta upp nästa släpp av Iphone Air - Nyteknik
 - Test: ”Apple Intelligence som ett lotteri – utan vinstlott” - Nyteknik
-- Apple skjuter upp lansering efter försäljningsflopp - Dagens industri
 
 ## World News
 
 - Malmöbo utpekad som ”global terrorist” - Aftonbladet
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
-- Predators har jobb kvar att göra innan Global Series - NHL.com
-- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Predators har jobb kvar att göra innan Global Series - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 
 ## Technology
 
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 
 ## Business
 
-- POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
@@ -93,6 +92,7 @@ _Updated: 2025-11-11 09:40_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
