@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-12 00:48_
+_Updated: 2025-11-12 01:48_
 
-- US House returns to Washington for vote to end government shutdown - Reuters
-- The Messy Politics of the Democratic Shutdown Deal - The New York Times
+- Government shutdown live updates as funding bill moves to the House after Senate passage - CBS News
+- Supreme Court keeps full SNAP payments on hold with short term order - CNN
+- Republicans need Trump for the debate on Obamacare credits - Politico
 - Trump slams "politically correct" politics in Veterans Day speech - Axios
-- If Trump attacked Venezuela, these sites could become targets - The Washington Post
-- Embattled Border Patrol commander Greg Bovino expected to depart Chicago in coming days - abcnews.go.com
+- Shutdown deal lets senators sue for $500,000 over data seizures like those in Jan. 6 probe - CBS News
 - Stimulus check 2025: Who would qualify for Trump’s $2,000 tariff payment? - AL.com
-- Man and daughter flying hurricane relief supplies to Jamaica identified as victims of crash - The Guardian
-- Democrat Adelita Grijalva to be sworn in 7 weeks after winning House election - CBS News
-- Newsom brings California to the heart of the Amazon — and the U.N. climate conference - CalMatters
-- Sen. John Fetterman explains his vote to end the government shutdown - NPR
+- Fetterman knocks Democrats ‘celebrating crazypants’ Marjorie Taylor Greene - The Hill
+- Christian missionary father and daughter died when plane bound for Jamaica crashed in Florida - AP News
+- Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News
+- Camp Mystic families file four wrongful death lawsuits against owners - Austin American-Statesman
 - Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
+- Full blackout hits the Dominican Republic as crews scramble to restore power - AP News
 - Scientists discover new "lucifer" bee with devil-like horns lurking in critically endangered wildflower in Australia - CBS News
 - Armed men publicly killed Mali TikTok influencer Mariame Cissé, authorities say - NBC News
-- Some Israelis argue all soldiers are heroes, should not be prosecuted - The Washington Post
-- Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
-- ByHeart Broadens Voluntary Recall While Investigation Continues - fda.gov
-- Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Reuters
-- SoftBank’s Nvidia sale rattles market, raises questions - TechCrunch
+- Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Yahoo Finance
+- Using Your Credit Card at the Checkout Is Set to Get a Lot More Complicated - WSJ - The Wall Street Journal
+- SoftBank Says It Sold Its Entire Nvidia Stake. The Chip Stock is Sliding. - Investopedia
+- Target, other retailers slash prices on milk, eggs and butter as shoppers tighten budgets - Star Tribune
 - Apple is now selling a $150 sling for your iPhone made by the same designer who created Steve Jobs' iconic black turtleneck - Fortune
-- Google Photos lets iPhone users edit images by describing changes - The Verge
+- Report: iPhone Air 2 is delayed until 2027 so Apple can add a second camera to it - 9to5Mac
