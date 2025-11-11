@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 21:38_
+_Updated: 2025-11-11 22:42_
 
 ## Top Stories
 
-- DN Direkt – Kriminalvården säger nej till fängelse för 13-åringar - Dagens Nyheter
-- Fabians radhus utsatt för sprängattentat: ”Vi är en vanlig familj” - Mitt i
-- Ebba Buschs pik mot Ulf Kristerssons drag - Expressen
-- Macron: Annektering en röd linje - SvD
-- 11 november 17.35, Vållande till kroppsskada, Örebro - polisen.se
-- Lavrov pekas ut som Putins syndabock – nu svarar han - Expressen
-- Tonåring åtalas för skott mot Israels ambassad - Västerbottens-Kuriren
-- Uppgifter: Sprängdåd i Luleå kopplas till Rawa Majid - SVT Nyheter
-- Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
+- Tung kritik mot sänkt straffålder: Risk att gängen rekryterar 11-åringar - SVT Nyheter
+- Sprängning vid Fabians hus: ”Är en helt vanlig familj” - Omni
+- Advokaten skjuter ner uppgifter: "Inget släktskap med Rawa Majid" - NSD
+- Utredare: Zelenskyj-allierad bakom miljardmygel - SvD
+- Hon vill skrota FN:s klimattoppmöte - GP
+- Macron: Bosättarnas våld hotar stabiliteten - GP
 - Femte person misstänks ha förgiftats på Ackis - UNT
+- IS-kvinnan dömd till tolv års fängelse för folkmord - Dagens Nyheter
+- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
+- Oväntat högt valdeltagande i Irak - Västerbottens-Kuriren
 - Bakslag för Republikaner – ville ändra valdistrikt - Västerbottens-Kuriren
-- Dalande väljarintresse trots spänt läge i Irak - SVT Nyheter
-- DN Direkt – Turkiskt militärflyg har kraschat – 20 ombord - Dagens Nyheter
-- Expert: Putin erövrar ”ruinhög” – till enorm kostnad - Dagens Nyheter
+- Klimatmöte i Etiopien 2027 – kamp om nästa år - GP
+- Frontalkrock på fjällväg utanför Kiruna – två till sjukhus i ambulans - SVT Nyheter
 - SBB har ingått TRE avtal med Public Property Invest ASA om överlåtelse av SBB:s samhällsportfölj till ett värde om 32 miljarder kronor och kommer att kalla till extra bolagsstämma - SBB - Samhällsbyggnadsbolaget
 - Svensk bil- och stålexport hårt drabbad av tullar - SvD
-- Rapportras i EG7: ”Marknadsläget är fortsatt utmanande” - Dagens industri
-- NVIDIA SJUNKER PÅ BLANDADE BÖRSER, S&P 500 -0,2% - Placera.se
-- Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
+- Affärsvärlden anser att Enad Global 7 måste byta ut styrelsen och ledningen - Placera.se
+- AI-aktier tappar i New York - Dagens industri
 - Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
+- Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2025-11-11 21:38_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
+- S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -67,24 +67,25 @@ _Updated: 2025-11-11 21:38_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
+- POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - The circular economy in action at Blenheim Palace - mastercard.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-11-11 21:38_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -104,13 +104,13 @@ _Updated: 2025-11-11 21:38_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
