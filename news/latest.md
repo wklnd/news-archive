@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 23:48_
+_Updated: 2025-11-12 00:48_
 
-- Government shutdown live updates as funding bill moves to the House after Senate passage - CBS News
+- US House returns to Washington for vote to end government shutdown - Reuters
+- The Messy Politics of the Democratic Shutdown Deal - The New York Times
 - Trump slams "politically correct" politics in Veterans Day speech - Axios
-- Deal to end US shutdown would also allow some Republican senators to seek $500,000 for January 6 probe - Reuters
-- Democrats push for a ‘ruthlessly pragmatic’ approach to counter Trump - The Washington Post
+- If Trump attacked Venezuela, these sites could become targets - The Washington Post
 - Embattled Border Patrol commander Greg Bovino expected to depart Chicago in coming days - abcnews.go.com
-- Utah judge rejects GOP redistricting effort, approving new map with a Democratic seat - NBC News
-- Camp Mystic families file four wrongful death lawsuits against owners - Austin American-Statesman
+- Stimulus check 2025: Who would qualify for Trump’s $2,000 tariff payment? - AL.com
 - Man and daughter flying hurricane relief supplies to Jamaica identified as victims of crash - The Guardian
-- Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News
-- Trump downplays economic woes as partisan spin, saying, 'Costs are way down' - abcnews.go.com
+- Democrat Adelita Grijalva to be sworn in 7 weeks after winning House election - CBS News
+- Newsom brings California to the heart of the Amazon — and the U.N. climate conference - CalMatters
+- Sen. John Fetterman explains his vote to end the government shutdown - NPR
 - Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
 - Scientists discover new "lucifer" bee with devil-like horns lurking in critically endangered wildflower in Australia - CBS News
 - Armed men publicly killed Mali TikTok influencer Mariame Cissé, authorities say - NBC News
-- Ukraine’s anti-corruption watchdog probes major energy sector scheme - Euronews.com
+- Some Israelis argue all soldiers are heroes, should not be prosecuted - The Washington Post
 - Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
 - ByHeart Broadens Voluntary Recall While Investigation Continues - fda.gov
 - Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Reuters
-- Dow closes at record high but Nasdaq slips as investors rotate out of technology stocks: Live updates - CNBC
-- Apple and Issey Miyake design $230 iPhone pocket inspired by a 'piece of cloth' - Business Insider
-- Pixel phones are getting notification summaries - The Verge
+- SoftBank’s Nvidia sale rattles market, raises questions - TechCrunch
+- Apple is now selling a $150 sling for your iPhone made by the same designer who created Steve Jobs' iconic black turtleneck - Fortune
+- Google Photos lets iPhone users edit images by describing changes - The Verge
