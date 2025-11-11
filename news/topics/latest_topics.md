@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 08:52_
+_Updated: 2025-11-11 09:40_
 
 ## Top Stories
 
-- Forskarens varning: Då har vi inga verktyg kvar – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Explosion vid radhus norr om Stockholm - Västerbottens-Kuriren
+- Explosion vid radhus i Upplands Väsby - SVT Nyheter
+- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
 - Stor polisinsats på Hisingen – man vaknade av inbrott - GP
-- Han pekas ut som terrorist – lever lyxliv i Sverige - Expressen
+- Malmöbo pekas ut – ”global terrorist” - SvD
 - DN Direkt – Psykologer i Stockholm behandlar patienter med olagliga psykedeliska droger - Dagens Nyheter
-- Nisse: USA är ju proppfullt av kungar - Dagens Nyheter
+- Varning för halka kring Umeå - Västerbottens-Kuriren
 - Amazonas avgörande för planeten – det är hemligheten - UNT
-- Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
 - Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
-- SMHI varnar för ishalka i Västerbottens läns kustland - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Knesset gav ett första ja till dödsstraff - Dagens Nyheter
-- Syriens ledare i möte med Donald Trump - Västerbottens-Kuriren
+- Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
+- Två trafikolyckor på E6 skapar långa köer – ambulans larmad - Norra Halland
+- Somar Al Naher: Inget kommer förändras efter valet i Irak - ETC.se
+- Syriens president på historiskt möte i Vita huset - Dagens Nyheter
 - Skräck i Cherson – trots befrielsen: "Kan bara springa" - SvD
-- Ukrainastöd kan räddas – med norsk olja - GP
+- Ukrainastöd kan räddas – med norsk olja - Västerbottens-Kuriren
+- Pensionsrapport: Fler jobbar i högre ålder - Expressen
+- Softbank dumpar alla Nvidia-aktier - Dagens industri
 - Schweiz uppges vara nära avtal med USA om sänkta tullar - BN - Börsvärlden
-- Wallenberg om AI-reglering: ”Gått för långt” - SvD
-- Stödet för Musk-miljarder minskar - Sydsvenskan
 - Sverige digitalt sårbart – men Kalix ett föredöme - Omni
 - Test: ”Apple Intelligence som ett lotteri – utan vinstlott” - Nyteknik
 - Apple skjuter upp lansering efter försäljningsflopp - Dagens industri
@@ -32,11 +32,11 @@ _Updated: 2025-11-11 08:52_
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -50,26 +50,26 @@ _Updated: 2025-11-11 08:52_
 
 ## Technology
 
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -85,14 +85,14 @@ _Updated: 2025-11-11 08:52_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2025-11-11 08:52_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 
 ## Science
 
@@ -145,7 +145,6 @@ _Updated: 2025-11-11 08:52_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -156,9 +155,10 @@ _Updated: 2025-11-11 08:52_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Mer bioenergi och mindre negativa miljöeffekter med multifunktionellt jordbruk - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
