@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 17:50_
+_Updated: 2025-11-11 18:54_
 
-- Senate approves legislation to end shutdown. And, where climate change efforts stand - NPR
-- What to know about Trump's pitch for a $2,000 tariff dividend - Axios
-- Trump requests Supreme Court overturn verdict in E. Jean Carroll sexual abuse and defamation case - NBC News
-- ‘Gruesome’: witnesses describe horrific scenes after car blast in Delhi - The Guardian
+- Government shutdown live updates as funding bill moves to the House after Senate passage - CBS News
+- Trump floats tariff 'dividends' even while plan shows major flaws - NPR
 - Democrats push for a ‘ruthlessly pragmatic’ approach to counter Trump - The Washington Post
-- Exclusive: UK suspends some intelligence sharing with US over boat strike concerns in major break - CNN
-- Christine Pelosi Will Not Run for Nancy Pelosi’s House Seat - The New York Times
-- The Supreme Court is expected to say whether full SNAP food payments can resume - AP News
-- Camp Mystic families file two $1 million-plus lawsuits against owners - Austin American-Statesman
-- Utah judge denies GOP-passed congressional map - Politico
-- A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says - abcnews.go.com
+- Flight Delays and Cancellations Won’t Immediately Stop When Government Shutdown Ends - The New York Times
+- Delhi blast: The night that shook India's capital city - BBC
+- Trump downplays economic woes as partisan spin, saying, 'Costs are way down' - abcnews.go.com
+- Father and daughter killed in plane crash carrying hurricane relief supplies to Jamaica - abcnews.go.com
+- Trump requests Supreme Court overturn E. Jean Carroll sexual abuse and defamation verdict - NBC News
+- Families sue Camp Mystic over Texas flood deaths - Axios
+- House Budget Chair Jodey Arrington to retire - Politico
+- Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
 - As Iraqis Vote for a Parliament, U.S. Presses to Rid Country of Iran’s Influence - The New York Times
-- Thieves steal ancient Roman-era statues from Syria’s national museum - AP News
-- China’s stranded astronauts ‘in good condition’ after space debris delays planned return - AP News
-- Nvidia Stock Drops After SoftBank Dumps Stake - Barron's
-- Warren Buffett admits his Giving Pledge philanthropy was not ‘feasible’—he’s instead left his three kids $500 million a year to give away - Fortune
-- Here’s what’s open and closed on Veterans Day - CNN
+- China's stranded astronauts 'in good condition' after space debris delays planned return - abcnews.go.com
+- Air pollution levels surge in India’s capital, sparking rare protests - AP News
+- SoftBank Sells Its Nvidia Stake for $5.8 Billion to Fund OpenAI Bet - WSJ - The Wall Street Journal
+- Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
+- ‘MAGA backlash’: Laura Ingraham challenged Trump in a way few Fox hosts ever do - CNN
 - Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Reuters
 - Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple
-- The Google Play Store's new tweak makes your phone's battery life a priority - Android Police
+- Samsung Galaxy S26 Plus reappears in renders with a new camera island - The Verge
