@@ -1,65 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 05:59_
+_Updated: 2025-11-11 06:46_
 
 ## Top Stories
 
 - Forskarens varning: Då har vi inga verktyg kvar – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Explosion vid radhus norr om Stockholm - SvD
-- DN Direkt – Explosion i Upplands Väsby - Dagens Nyheter
 - Ryska pengar kan göra landet till måltavla - SvD
-- Polisinsats i Luleå efter explosion vid bil - UNT
+- Varningen: En tuff vinter för flyktingar väntas - SvD
+- Polisen har gjort tillslag i fler än 130 brottsutredningar om sexköp - Polisen.se
 - DN Direkt – Man skjuten med luftgevär i Stockholm - Dagens Nyheter
 - SMHI varnar för ishalka i Västerbottens läns kustland - SVT Nyheter
+- DN Direkt – Bil och buss i kollision – man död - Dagens Nyheter
 - Höjd beredskap inför vintertrafiken - Regeringen.se
 - Kent Ekeroth utkastad från regionfullmäktige - Dagens Nyheter
-- Grovt rån i centrala Uppsala – kvinna slets ur sin bil - UNT
-- DN Direkt – Hegseth: USA anföll två fartyg i Stilla havet - Dagens Nyheter
-- Stor insats mot mygel i Ukrainas energisektor - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Knesset gav ett första ja till dödsstraff - Dagens Nyheter
+- Vit tryffel lockade miljonbud i Italien - Västerbottens-Kuriren
+- USA anföll två fartyg i Stilla havet – sex döda - GP
 - Joint declaration of the CELAC-EU summit 2025, 9 November 2025 - consilium.europa.eu
-- JUST NU: Bil har voltat på E18 – totalstopp på vägen: ”Hög hastighet” - NWT
-- Industrikraft och Vattenfall skriver avtal om ny kärnkraft - Tidningen Energi
-- Schweiz skärper reglerna – då krymper finanssektorn kraftigt - Realtid
-- Dags för Öppet hus – kika in på Kavelbro och Västerhöjd - Skövde Nyheter
-- Senaten godkänner uppgörelse - Aftonbladet
+- Uppgifter: Schweiz nära få tullättnader - Dagens industri
+- Ledare: Regeringen gör allt för kärnkraften – utom det som krävs - Dagens Nyheter
+- Stödet för Musk-miljarder minskar - Västerbottens-Kuriren
+- Pensionsmyndigheten: Fel brev till hundratusentals pensionärer - News55
 - Apple skjuter upp lansering efter försäljningsflopp - Dagens industri
 - Visual Instruments Phantom sägs vara transparent skärm med 5 000 nits - Nordichardware
 
 ## World News
 
-- Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Predators har jobb kvar att göra innan Global Series - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- ZPMC Signs RMB 2.8 Billion in Procurement Contracts with 12 Global Suppliers at CIIE, Setting a New Record - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
-- Predators har jobb kvar att göra innan Global Series - NHL.com
-- Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
-- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
@@ -121,31 +121,30 @@ _Updated: 2025-11-11 05:59_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -161,4 +160,5 @@ _Updated: 2025-11-11 05:59_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
