@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 16:51_
+_Updated: 2025-11-11 17:50_
 
-- Government shutdown live updates as funding bill moves to the House after Senate passage - CBS News
-- Trump floats tariff 'dividends' even while plan shows major flaws - NPR
-- Shutdown defections spark fury as Democrats struggle to unify against Trump - The Washington Post
+- Senate approves legislation to end shutdown. And, where climate change efforts stand - NPR
+- What to know about Trump's pitch for a $2,000 tariff dividend - Axios
 - Trump requests Supreme Court overturn verdict in E. Jean Carroll sexual abuse and defamation case - NBC News
-- Trump Threatens to Sue the BBC for $1 Billion After Jan. 6 Documentary - The New York Times
-- Whistleblower Shares Evidence That Federal Prison Camp Warden is Pampering Ghislaine Maxwell, Maxwell Also Filing a “Commutation Application” With Trump Administration - U.S. House Judiciary Committee Democrats | (.gov)
-- Trump’s sweeping 2020 election pardon raises alarms ahead of the midterms - Politico
+- ‘Gruesome’: witnesses describe horrific scenes after car blast in Delhi - The Guardian
+- Democrats push for a ‘ruthlessly pragmatic’ approach to counter Trump - The Washington Post
+- Exclusive: UK suspends some intelligence sharing with US over boat strike concerns in major break - CNN
 - Christine Pelosi Will Not Run for Nancy Pelosi’s House Seat - The New York Times
+- The Supreme Court is expected to say whether full SNAP food payments can resume - AP News
 - Camp Mystic families file two $1 million-plus lawsuits against owners - Austin American-Statesman
-- Utah judge selects new congressional map, tossing map drawn by lawmakers - KSLTV.com
-- Modi Vows Justice as Police Suspect Terrorism in Deadly New Delhi Blast - The New York Times
-- A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says - AP News
-- Iraqis vote in election they expect to bring little reform - Reuters
-- Knesset advances bill mandating death penalty for terrorists who killed Israelis - The Times of Israel
-- Stock Market Today: Dow Wavers After Shutdown Bill Passes; Nvidia Partner Plunges (Live Coverage) - Investor's Business Daily
-- Trump Defends 50-Year Mortgage Plan, Calling It ‘Not a Big Deal’ - Bloomberg.com
+- Utah judge denies GOP-passed congressional map - Politico
+- A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says - abcnews.go.com
+- As Iraqis Vote for a Parliament, U.S. Presses to Rid Country of Iran’s Influence - The New York Times
+- Thieves steal ancient Roman-era statues from Syria’s national museum - AP News
+- China’s stranded astronauts ‘in good condition’ after space debris delays planned return - AP News
+- Nvidia Stock Drops After SoftBank Dumps Stake - Barron's
 - Warren Buffett admits his Giving Pledge philanthropy was not ‘feasible’—he’s instead left his three kids $500 million a year to give away - Fortune
+- Here’s what’s open and closed on Veterans Day - CNN
 - Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Reuters
-- Weak sales delay next iPhone Air model, report claims - Mashable
 - Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple
+- The Google Play Store's new tweak makes your phone's battery life a priority - Android Police
