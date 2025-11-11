@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 11:43_
+_Updated: 2025-11-11 12:46_
 
 ## Top Stories
 
-- Krock på E6 – morgontrafiken mot Göteborg påverkas - Expressen
-- Explosion vid radhus – barn i bostaden - Västerbottens-Kuriren
-- Uppgifter: Nytt misstänkt förgiftningsfall på Akademiska sjukhuset - SVT Nyheter
-- DN Direkt – 18-åring misstänks för terrorplaner – rättegång inledd - Dagens Nyheter
+- DN Direkt – Tvisten om guldtackorna i JLC:s hus löst - Dagens Nyheter
+- Hovrätten fastställer domen mot IS-kvinnan Lina Ishaq från Halmstad - SVT Nyheter
+- Explosion i Upplands Väsby - Expressen
 - Man i Malmö pekas ut som terrorist – gör affärer här - Omni
-- Stor polisinsats på Hisingen – man vaknade av inbrott - GP
+- Femte person misstänks ha förgiftats på Ackis - UNT
+- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
 - Två olyckor på E6 vid Kungsbacka och Lindome - SVT Nyheter
-- DN Direkt – Polisen gjorde oanmälda besök hos sexköpare i Stockholm - Dagens Nyheter
 - Psykologer i Stockholm behandlar patienter med olagliga psykedeliska droger - Dagens Nyheter
 - Amazonas avgörande för planeten – det är hemligheten - UNT
-- Sannfinländarna ändrar sin inställning till svenska - Dagens Nyheter
-- Dödlig bomb vid domstol i Islamabad - Folkbladet
-- Syriens ledare i möte med Donald Trump - Västerbottens-Kuriren
-- Skräck i Cherson – trots befrielsen: "Kan bara springa" - SvD
+- Klimattoppmöte öppnar i Brasilien – EU vill se mer konkret handling - Europaportalen
+- DN Direkt – Dödlig bomb vid domstol i Islamabad - Dagens Nyheter
+- Sannfinländarna byter språkstrategi och accepterar svenskan - SVT Nyheter
+- Stor polisinsats på Hisingen – man vaknade av inbrott - GP
+- Tyfonoffer grävs fram i Filippinerna - Västerbottens-Kuriren
+- Svenskar arbetar längre – 50-talisterna skjuter upp pensionen - Finanstid
 - Softbank dumpar alla Nvidia-aktier - Dagens industri
-- Pensionsmyndighetens nya rapport: Fler jobbar i högre ålder - Expressen
 - Stödet för Musk-miljarder minskar - Sydsvenskan
-- Wallenberg om AI-reglering: ”Gått för långt” - Tidningen Näringslivet
+- Buffett ska behålla majoritet av A-aktier tills efterträdare vinner över investerare - Placera.se
 - Källor: Apple skjuter upp nästa iPhone Air - The Information - Placera.se
-- Massivt genomslag för svenska spelet ”Arc raiders” - Västerbottens-Kuriren
+- Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
 
 ## World News
 
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
-- Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -38,9 +37,10 @@ _Updated: 2025-11-11 11:43_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
-- Malmöbo utpekad som ”global terrorist” - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Malmöbo utpekad som ”global terrorist” - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Freightos appoints Michael Netter as CRO to Drive Global Go-to-Market Strategy - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
@@ -50,23 +50,23 @@ _Updated: 2025-11-11 11:43_
 
 ## Technology
 
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
@@ -114,31 +114,31 @@ _Updated: 2025-11-11 11:43_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
