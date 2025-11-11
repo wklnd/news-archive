@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-11 13:48_
+_Updated: 2025-11-11 15:19_
 
 - How Senate Republicans won the last vote to end the shutdown - Politico
-- Exclusive: MoveOn calls on Schumer to step aside - Axios
-- Trump administration asks Supreme Court to intervene in SNAP fight again - The Washington Post
+- Chuck Schumer faces mounting calls from Democrats to resign as Senate leader - Axios
+- The Supreme Court is expected to say whether full SNAP food payments can resume - AP News
+- Trump Asks Supreme Court to Overturn Verdict in E. Jean Carroll Case - The New York Times
 - What to know about Trump's promise of $2,000 tariff dividend payments - abcnews.go.com
-- Families accuse Camp Mystic of ignoring risks in Texas lawsuit over flood deaths - NPR
-- Former pardon attorney says Trump's latest pardons set an 'alarming precedent' - WBUR
-- Father and daughter killed in plane crash carrying hurricane relief supplies to Jamaica - abcnews.go.com
-- Judge picks a new congressional map in redistricting - FOX 13 News Utah
-- Supreme Court rejects call to overturn decadeold same-sex marriage decision - PBS
-- US declares partial suspension of sanctions on Syria after historic meeting - The Guardian
-- Police Investigate Deadly New Delhi Blast as Possible Terrorist Attack - The New York Times
-- A suicide bomber targets an Islamabad court, killing 12 people and wounding 27, minister says - AP News
-- Iraqis vote in election they expect to bring little reform - Reuters
-- Knesset advances bill mandating death penalty for terrorists who killed Israelis - The Times of Israel
-- Stock futures are little changed after big rally in prior session; Nvidia falls: Live updates - CNBC
-- Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
-- Why CoreWeave (CRWV) Is Down 16.4% After Major AI Partnerships and Q3 Earnings Miss - Yahoo Finance
-- Warren Buffett says he is 'going quiet' as he prepares to quit as Berkshire Hathaway CEO - New York Post
+- BBC News says it received legal threat from Trump over speech edit - Reuters
+- ‘A classic authoritarian tactic’: outrage over Trump’s pardons for friends and allies - The Guardian
+- Utah judge denies GOP-passed congressional map - Politico
+- We asked a former federal agent to review videos showing use of force against protesters. Here's what he found. - CBS News
+- Johnson urges House members to return "right now" as air delays threaten potential shutdown vote - CBS News
+- Modi Vows Justice as Police Suspect Terrorism in Deadly New Delhi Blast - The New York Times
+- Suicide bombing in Islamabad kills 12, says Pakistan's interior minister - BBC
+- Iraqis vote in a parliamentary election marked by tight security and a major political boycott - abcnews.go.com
+- Storm approaches Taiwan after causing 18 deaths and destruction in the Philippines - AP News
+- Trump Defends 50-Year Mortgage Plan, Calling It ‘Not a Big Deal’ - Bloomberg.com
+- Stock Market Today: S&P 500 Futures Weaken; Senate Passes Measure to End Shutdown — Live Updates - The Wall Street Journal
+- Japan's SoftBank says it has sold its shares in Nvidia for $5.8 billion, turning its focus to OpenAI - AP News
+- Warren Buffett admits his Giving Pledge philanthropy was not ‘feasible’—he’s instead left his three kids $500 million a year to give away - Fortune
+- Weak sales delay next iPhone Air model, report claims - Mashable
 - Google Play will soon warn about apps that cause excessive battery drain - 9to5Google
-- HomePod mini refresh looking more likely, as B&H lists it as ‘discontinued’ - 9to5Mac
