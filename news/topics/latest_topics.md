@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 15:47_
+_Updated: 2025-11-11 16:45_
 
 ## Top Stories
 
-- Nu slår den arktiska kylan till: ”Kan bli 20 minusgrader” - Aftonbladet
-- Två olyckor på E6 vid Kungsbacka och Lindome - SVT Nyheter
-- Larmet: Fienden rycker fram – förlorar staden - Expressen
-- ”Kanske inte låter sexigt att lägga pengar på avlopp” - Dagens Nyheter
-- Uppgifter: Nytt misstänkt förgiftningsfall inkom till Akademiska sjukhuset - SVT Nyheter
-- Erdogans rival riskerar 2000 års fängelse - ETC.se
-- DN Direkt – Tvisten om guldtackorna i JLC:s hus löst - Dagens Nyheter
+- Nya teorin: Så förgiftades de anställda på Akademiska sjukhuset - Aftonbladet
+- SMHI varnar för plötslig ishalka i norra Sverige - Omni
+- DN Direkt – Turkiskt militärflyg har kraschat – 20 ombord - Dagens Nyheter
+- JUST NU: Störningar i trafiken på grund av stillastående lastbil på E16 - VF
+- 18-åring erkänner att han deltog i IS - Västerbottens-Kuriren
+- DN Direkt – Kräver 2 000 års fängelse för Imamoglu - Dagens Nyheter
+- Hovrätten fastställer domen mot IS-kvinnan Lina Ishaq från Halmstad - SVT Nyheter
+- Parterna överens om JLC-guldet - Aftonbladet
+- Fördjupat samarbete med Marocko mot organiserad brottslighet - Regeringen.se
 - Unga rekryteras på boenden – Foxtrot sticker ut - Västerbottens-Kuriren
-- Här kan koldioxid lagras i svensk mark - GP
-- Dom står fast för Lina Ishaq – förslavade barn - UNT
-- Sannfinländarna ändrar sin inställning till svenska - Dagens Nyheter
+- Sannfinländarna byter språkstrategi och accepterar svenskan - SVT Nyheter
 - Talibaner beskylls för dödlig bomb vid domstol - Västerbottens-Kuriren
 - Stor polisinsats på Hisingen – man vaknade av inbrott - GP
 - Kazakstans president skriver på allians med Putin - GP
-- Svenskar arbetar längre – 50-talisterna skjuter upp pensionen - Finanstid
+- Pensionsrapport: Fler jobbar i högre ålder - Expressen
 - Över tusen husägare blir utan stöd – Villaägarna kräver besked från regeringen - Cision News
 - Softbank dumpar alla Nvidia-aktier - Dagens industri
 - Enad Global 7 minskar omsättning och resultatet - fortsatt utmanande marknad - Börsvärlden
-- Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
 - Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
+- Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
 
 ## World News
 
@@ -33,13 +33,12 @@ _Updated: 2025-11-11 15:47_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Malmöbo utpekad som ”global terrorist” - Aftonbladet
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
@@ -47,18 +46,18 @@ _Updated: 2025-11-11 15:47_
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- AGCO to Showcase Full-Line Innovation and Smart Farming Technologies at AGRITECHNICA 2025 - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-11 15:47_
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -122,29 +122,28 @@ _Updated: 2025-11-11 15:47_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -152,13 +151,14 @@ _Updated: 2025-11-11 15:47_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
