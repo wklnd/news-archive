@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-11 20:49_
+_Updated: 2025-11-11 21:38_
 
 ## Top Stories
 
-- Kriminalvården: Nej till fängelse för 13-åringar - SVT Nyheter
-- Akademiska sjukhuset förnekar ny förgiftning - Aftonbladet
-- MEDAN DU SOV: Här är nattens händelser – explosion norr om Stockholm - NLT
-- Lavrov pekas ut som Putins syndabock – nu svarar han - Expressen
-- Svaret efter passningen från Busch: ”Utvecklats” - SvD
+- DN Direkt – Kriminalvården säger nej till fängelse för 13-åringar - Dagens Nyheter
+- Fabians radhus utsatt för sprängattentat: ”Vi är en vanlig familj” - Mitt i
+- Ebba Buschs pik mot Ulf Kristerssons drag - Expressen
+- Macron: Annektering en röd linje - SvD
 - 11 november 17.35, Vållande till kroppsskada, Örebro - polisen.se
+- Lavrov pekas ut som Putins syndabock – nu svarar han - Expressen
 - Tonåring åtalas för skott mot Israels ambassad - Västerbottens-Kuriren
-- Sverige och Marocko i avtal – för att stoppa gängkriminella - SVT Nyheter
 - Uppgifter: Sprängdåd i Luleå kopplas till Rawa Majid - SVT Nyheter
 - Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
+- Femte person misstänks ha förgiftats på Ackis - UNT
+- Bakslag för Republikaner – ville ändra valdistrikt - Västerbottens-Kuriren
 - Dalande väljarintresse trots spänt läge i Irak - SVT Nyheter
+- DN Direkt – Turkiskt militärflyg har kraschat – 20 ombord - Dagens Nyheter
 - Expert: Putin erövrar ”ruinhög” – till enorm kostnad - Dagens Nyheter
-- Kazakstans president skriver på allians med Putin - GP
-- Påven: AI inom vården måste säkerställa kvaliteten på omsorg - Vatican News
+- SBB har ingått TRE avtal med Public Property Invest ASA om överlåtelse av SBB:s samhällsportfölj till ett värde om 32 miljarder kronor och kommer att kalla till extra bolagsstämma - SBB - Samhällsbyggnadsbolaget
 - Svensk bil- och stålexport hårt drabbad av tullar - SvD
-- SBB i miljardaffär med norskt fastighetsbolag - Aftonbladet
-- Affärsvärlden anser att Enad Global 7 måste byta ut styrelsen och ledningen - Placera.se
-- Över tusen husägare blir utan stöd – Villaägarna kräver besked från regeringen - Cision News
+- Rapportras i EG7: ”Marknadsläget är fortsatt utmanande” - Dagens industri
+- NVIDIA SJUNKER PÅ BLANDADE BÖRSER, S&P 500 -0,2% - Placera.se
 - Ny version av Iphone Air skjuts upp efter dålig försäljning - Computer Sweden
 - Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
 
@@ -29,7 +29,6 @@ _Updated: 2025-11-11 20:49_
 
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
-- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -40,12 +39,13 @@ _Updated: 2025-11-11 20:49_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
+- S&P Global Announces Successful Completion of its Acquisition of ORBCOMM's Automatic Identification System Business - Placera.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
+- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -59,15 +59,15 @@ _Updated: 2025-11-11 20:49_
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- AGCO to Showcase Full-Line Innovation and Smart Farming Technologies at AGRITECHNICA 2025 - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
@@ -99,20 +99,20 @@ _Updated: 2025-11-11 20:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -120,30 +120,31 @@ _Updated: 2025-11-11 20:49_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -156,9 +157,8 @@ _Updated: 2025-11-11 20:49_
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
