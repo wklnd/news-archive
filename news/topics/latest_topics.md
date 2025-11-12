@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 06:46_
+_Updated: 2025-11-12 07:43_
 
 ## Top Stories
 
-- Venezuelas mobiliserar – hela armén kallas in - Dagens Nyheter
-- Putin har tre identiska kontor – skyddas av 14 luftvärn i skogen - Omni
+- GP/Novus: M är inte bäst på någon av väljarnas viktigaste frågor - GP
+- Villor och lyxbilar – nu jagar svenska staten Malmöbons miljoner - Sydsvenskan
+- Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
+- Lyxklinik för missbrukare öppnar på Avenyn - GP
+- Sverige i konflikt med Världsbanken efter hemlig uppgörelse - Ekot - Sveriges Radio
 - Villabrand i Gävle – en person till sjukhus - SVT Nyheter
-- Polisen dementerar att Majids släkting var måltavla - Omni
-- Folket har talat – så vill de att nya återvinningscentralen ska se ut - Smålandsposten
-- 18-åring erkänner att han deltog i IS - GP
+- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
 - Drygt hälften av kommunerna över föroreningsgräns - Västerbottens-Kuriren
-- Forskarens varning: Då har vi inga verktyg kvar – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Femte person misstänks ha förgiftats på Ackis - UNT
 - Vinter i sikte: Varning för minusgrader och halka - Ekuriren
 - 19 dödade i attack mot gerilla - Västerbottens-Kuriren
-- Ny art upptäckt: ”Djävulsbi” med horn - GP
-- Macron: Annektering en röd linje - Västerbottens-Kuriren
-- Expert: Putin erövrar ”ruinhög” – till enorm kostnad - Dagens Nyheter
+- Turkiskt militärflyg har kraschat – 20 ombord - UNT
+- Ny art upptäckt: ”Djävulsbi” med horn - Dagens Nyheter
+- Henrik Brandão Jönsson: USA:s största hangarfartyg skrämmer Venezuela till mobilisering - Dagens Nyheter
 - AI-aktier tappar i New York - Dagens industri
-- Inbjudan till presentation av transaktionen mellan Samhällsbyggnadsbolaget i Norden och Public Property Invest som offentliggjordes, den 11 november kl 17.45 (CET) - SBB - Samhällsbyggnadsbolaget
+- Busch om sänkt skatt på bovinster: ”Enorm respons” - SvD
 - Utbyggnad av stamnätet möjliggör industrins omställning i Luleå - ENERGInyheter.se
 - Rapport: Kulturbyggnader i riskzonen – behöver mer pengar - Dagens Nyheter
 - Pixel får november-uppdateringen med nya funktioner - Swedroid
-- Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
+- Bästa billiga earbuds 2025 – testvinnande öronsnäckor till överkomligt pris - TechRadar
 
 ## World News
 
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -37,6 +36,7 @@ _Updated: 2025-11-12 06:46_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Malmöbo utpekad som ”global terrorist” - Aftonbladet
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
@@ -65,34 +65,34 @@ _Updated: 2025-11-12 06:46_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 
 ## Business
 
-- The circular economy in action at Blenheim Palace - mastercard.com
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -144,7 +144,6 @@ _Updated: 2025-11-12 06:46_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -152,13 +151,14 @@ _Updated: 2025-11-12 06:46_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
