@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-12 05:59_
+_Updated: 2025-11-12 06:52_
 
 - Trump news at a glance: Top House Democrats vow to oppose shutdown bill after splinter group disappoints - The Guardian
 - Supreme Court extends SNAP payments freeze as lawmakers near shutdown vote - Axios
-- How Chuck Schumer plans to weather the storm - Politico
-- Democrats lose shutdown battle — as Trump, Republicans risk losing war - The Washington Post
-- Flight restrictions will ease, DOT says — once air traffic controllers return - Politico
+- Coloradans see, photograph northern lights across the state - CBS News
 - What to know about Trump’s plan to give Americans a $2,000 tariff dividend - AP News
-- Northern lights could be visible in Utah, as NOAA issues 'very rare' geomagnetic storm watch - KSL.com
+- Flight restrictions will ease, DOT says — once air traffic controllers return - Politico
+- Democrat Adelita Grijalva to be sworn in 7 weeks after winning House election - CBS News
+- The Messy Politics of the Democratic Shutdown Deal - The New York Times
+- AP Interview: Newsom says Trump climate-fighting absence is ‘doubling down on stupid’ - AP News
 - U.S. Catholic bishops select conservative culture warrior to lead them during Trump’s 2nd term - PBS
-- Obamacare could collapse under Trump’s new plan, policy experts say - Politico
-- A judge picked Utah’s new congressional map for the 2026 midterms. See which district you’ll be in. - The Salt Lake Tribune
-- Protesters and UN security clash at climate summit in Brazil - Politico
+- Progressive on the edge of a win in Seattle mayor race - Politico
 - Newly constructed Hongqi Bridge in China partially collapses, dramatic video goes viral | Trending - Hindustan Times
-- Suicide bomber kills 12 outside Islamabad court as Pakistan violence rises - AP News
+- Russian forces roll 'Mad Max'-style into battered Ukrainian city of Pokrovsk, video shows - Reuters
+- Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
 - Dominican Republic hit with widespread power outage - CBS News
-- Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
+- Why flight disruptions could linger even after the government shutdown ends - NPR
 - Starbucks' barista strike could undermine its turnaround plan - BBC
+- Chick-Fil-A to test new menu item in Baltimore - WBFF
 - Trump calls 50-year mortgages no 'big deal' as right-wing conservatives balk - Reuters
-- Stock futures little changed after Dow notches record high: Live updates - CNBC
-- Google is introducing its own version of Apple’s private AI cloud compute - The Verge
 - Apple Confounds Some Fans With $230 Knit iPhone Crossbody Carrier - Forbes
+- Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica
