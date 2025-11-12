@@ -1,42 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 09:40_
+_Updated: 2025-11-12 10:50_
 
 ## Top Stories
 
+- Ebba Busch till attack mot M: ”Ett sätt att agera som jag vägrar underordna mig” - SVT Nyheter
+- Elfel stoppar tågtrafiken till och från Göteborgs central - SVT Nyheter
+- Åklagare om terroråtalade svenskar: Vanvettigt - SvD
+- Garagelänga i Kortedala i brand - SVT Nyheter
 - Camilla går i psykedelisk terapi: ”Utan ayahuasca hade jag inte levt i dag” - Dagens Nyheter
-- GP/Novus: M är inte bäst på någon av väljarnas viktigaste frågor - GP
-- Buss har kört in i byggställning – stopp i spårvagnstrafiken - GP
 - Villor och lyxbilar – nu jagar svenska staten Malmöbons miljoner - Sydsvenskan
-- 12 november 05.09, Mord/dråp, försök, Upplands väsby - Polisen.se
-- Massiv mobilisering i Venezuela - SVT Nyheter
-- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
-- Foxtrots barnsoldat misstänks ha utfört dåd mot israeliska ambassader - Dagens Nyheter
 - Lastbilschaufför påkörd av bil i Alvesta – stod utanför sitt fordon - Expressen
+- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
 - Fördjupat samarbete med Marocko mot organiserad brottslighet - Regeringen.se
+- Tusentals lobbyister vill inte minska utsläpp - Västerbottens-Kuriren
+- Henrik Brandão Jönsson: USA:s största hangarfartyg skrämmer Venezuela till mobilisering - Dagens Nyheter
 - Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
-- 19 dödade i attack mot gerilla - GP
-- Hårt slag om Pokrovsk – kan bli rysk propagandaseger - Corren
-- Rekordlågt förtroende för L – lägsta på nästan 60 år - Expressen
+- Turkiskt militärflyg har kraschat – 20 ombord - UNT
+- Hårt slag om Pokrovsk – kan bli rysk propagandaseger - GP
 - Storbanken: Lyft väntar för bopriser och fastighetsaktier - Dagens industri
 - Oro då Softbank säljer Nvidia - SvD
 - Chefers anhöriga fick sponsorpengar från Elon - Market.se
-- New York-börsen kämpar sig uppåt – Nike lyfter - EFN
+- Inbjudan till presentation av transaktionen mellan Samhällsbyggnadsbolaget i Norden och Public Property Invest som offentliggjordes, den 11 november kl 17.45 (CET) - SBB - Samhällsbyggnadsbolaget
 - Hennes husbil blev stulen – men hon får inte ut på försäkringen: ”För jäkligt” - Skånska Dagbladet
 - Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
 
 ## World News
 
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Malmöbo utpekad som ”global terrorist” - Aftonbladet
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
@@ -44,6 +43,7 @@ _Updated: 2025-11-12 09:40_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -58,7 +58,6 @@ _Updated: 2025-11-12 09:40_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -66,33 +65,34 @@ _Updated: 2025-11-12 09:40_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
-- The circular economy in action at Blenheim Palace - mastercard.com
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -106,37 +106,37 @@ _Updated: 2025-11-12 09:40_
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-12 09:40_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
