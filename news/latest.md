@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-12 22:48_
+_Updated: 2025-11-12 23:48_
 
 - Jeffrey Epstein, in newly released email, says Trump ‘knew about the girls’ - Politico
-- Northern Lights display expected for 2nd night in a row for these US states - abcnews.go.com
-- Exclusive: Trump administration plans meeting over House effort to force release of all of DOJ’s Epstein files - CNN
-- Hundreds detained as part of federal immigration 'Operation Midway Blitz' ordered released on bond, judge says | LIVE - ABC7 Chicago
-- Fifty-year mortgages and $2,000 cheques: What's behind Trump's affordability drive? - BBC
-- Turning Point tour ends with fights and arrests at UC Berkeley. Our student reporters were there - CalMatters
-- UPS plane crash victims named by Kentucky officials - NBC News
-- Trump pens letter demanding Israeli president ‘fully’ pardon Netanyahu - Politico
-- Small grocers and convenience stores feel an impact as customers go without SNAP benefits - AP News
+- House Democrats plot to bypass Mike Johnson in effort to salvage shutdown deal - Axios
+- Rep. Adelita Grijalva is finally sworn in as the House’s newest Democrat, paving way for Epstein files vote - CNN
+- The U.S. saw vivid northern lights as far south as Florida — and more could be coming - NPR
+- Trump‘s latest interview has MAGA absolutely raging: ‘Catastrophic’ - nj.com
+- Hundreds detained as part of federal immigration 'Operation Midway Blitz' ordered released on bond, judge says - ABC7 Chicago
+- UPS plane crash victims include a man and his 3-year-old granddaughter - CBS News
+- By Not Funding Food Stamps, Trump Risks Lasting Damage to Safety Net - The New York Times
+- Former Newsom chief indicted on public corruption charges - Politico
 - Venezuela launches huge military exercise as U.S. Navy flotilla nears Caribbean waters - CBS News
-- Major corruption scandal engulfs top Zelensky allies - BBC
-- Who are India and Pakistan blaming for Delhi, Islamabad blasts? - Al Jazeera
-- Rumors swirl of a plot to oust Keir Starmer as the embattled British leader denies attacking his rivals - CNN
+- Pakistan opens investigation into Islamabad terror attack - The Guardian
+- Passenger Bus Plunges Into a Ravine in Southern Peru Killing at Least 37 - VINnews
 - Greetings from the Arctic Circle, where an icebreaker ship drew polar bears' attention - NPR
-- US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled - WTOP
-- US flight cancellations fall as air traffic control absences shrink - Reuters
-- Kim Kardashian’s Skims valued at $5bn after raising new funding - The Guardian
-- Toyota opens new U.S. battery plant, confirms $10 billion in new investments - CNBC
+- Britain’s Starmer forced to respond to ouster plot claims amid dismal poll ratings - CNN
+- US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled - abcnews.go.com
+- Air travel chaos will linger long after the government reopens - The Verge
+- Dow notches record high close while Amazon weighs on Nasdaq - Reuters
+- Atlanta Fed President to Step Down in February - The New York Times
 - Valve announces new Steam Machine and Steam Controller - Engadget
-- iPhone 18 Pro Max will be thicker and heavier than ever, says leaker - 9to5Mac
+- OpenAI says the brand-new GPT-5.1 is ‘warmer’ and has more ‘personality’ options - The Verge
