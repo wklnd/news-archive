@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 08:52_
+_Updated: 2025-11-12 09:40_
 
 ## Top Stories
 
-- Fullt utvecklad brand i lägenhet i Upplands Väsby i Stockholm - Aftonbladet
-- GP/Novus: M är inte bäst på någon av väljarnas viktigaste frågor - GP
 - Camilla går i psykedelisk terapi: ”Utan ayahuasca hade jag inte levt i dag” - Dagens Nyheter
+- GP/Novus: M är inte bäst på någon av väljarnas viktigaste frågor - GP
+- Buss har kört in i byggställning – stopp i spårvagnstrafiken - GP
 - Villor och lyxbilar – nu jagar svenska staten Malmöbons miljoner - Sydsvenskan
-- Massiv militärövning i Venezuela efter ökad amerikansk närvaro - SVT Nyheter
-- En till sjukhus efter villabrand i Gävle - Omni
+- 12 november 05.09, Mord/dråp, försök, Upplands väsby - Polisen.se
+- Massiv mobilisering i Venezuela - SVT Nyheter
 - 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
-- Drygt hälften av kommunerna över föroreningsgräns - SVT Nyheter
-- Tusentals lobbyister vill inte minska utsläpp - Västerbottens-Kuriren
 - Foxtrots barnsoldat misstänks ha utfört dåd mot israeliska ambassader - Dagens Nyheter
-- 19 dödade i attack mot gerilla - Västerbottens-Kuriren
-- Utredare: Zelenskyj-allierad bakom miljardmygel - GP
-- Ny art upptäckt: ”Djävulsbi” med horn - Dagens Nyheter
-- Liberalerna går kräftgång i opinionen: Lägsta stödet någonsin… - Oskarshamns-Nytt
+- Lastbilschaufför påkörd av bil i Alvesta – stod utanför sitt fordon - Expressen
+- Fördjupat samarbete med Marocko mot organiserad brottslighet - Regeringen.se
+- Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
+- 19 dödade i attack mot gerilla - GP
+- Hårt slag om Pokrovsk – kan bli rysk propagandaseger - Corren
+- Rekordlågt förtroende för L – lägsta på nästan 60 år - Expressen
 - Storbanken: Lyft väntar för bopriser och fastighetsaktier - Dagens industri
+- Oro då Softbank säljer Nvidia - SvD
+- Chefers anhöriga fick sponsorpengar från Elon - Market.se
 - New York-börsen kämpar sig uppåt – Nike lyfter - EFN
-- Busch om sänkt skatt på bovinster: ”Enorm respons” - SvD
-- Utbyggnad av stamnätet möjliggör industrins omställning i Luleå - ENERGInyheter.se
+- Hennes husbil blev stulen – men hon får inte ut på försäkringen: ”För jäkligt” - Skånska Dagbladet
 - Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
-- Astronomer har upptäckt en överhettad stjärnfabrik i det tidiga universum - Cision News
 
 ## World News
 
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
-- Malmöbo utpekad som ”global terrorist” - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Malmöbo utpekad som ”global terrorist” - Aftonbladet
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
-- Resultattapp för Enad Global - Privata Affärer
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -73,26 +73,26 @@ _Updated: 2025-11-12 08:52_
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-11-12 08:52_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
