@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-12 01:48_
+_Updated: 2025-11-12 04:21_
 
+- Supreme Court extends stay of order requiring administration to pay full SNAP benefits for November - abcnews.go.com
+- How Chuck Schumer plans to weather the storm - Politico
+- Democrats lose shutdown battle — as Trump, Republicans risk losing war - The Washington Post
 - Government shutdown live updates as funding bill moves to the House after Senate passage - CBS News
-- Supreme Court keeps full SNAP payments on hold with short term order - CNN
-- Republicans need Trump for the debate on Obamacare credits - Politico
-- Trump slams "politically correct" politics in Veterans Day speech - Axios
-- Shutdown deal lets senators sue for $500,000 over data seizures like those in Jan. 6 probe - CBS News
-- Stimulus check 2025: Who would qualify for Trump’s $2,000 tariff payment? - AL.com
-- Fetterman knocks Democrats ‘celebrating crazypants’ Marjorie Taylor Greene - The Hill
-- Christian missionary father and daughter died when plane bound for Jamaica crashed in Florida - AP News
-- Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News
-- Camp Mystic families file four wrongful death lawsuits against owners - Austin American-Statesman
-- Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera
-- Full blackout hits the Dominican Republic as crews scramble to restore power - AP News
-- Scientists discover new "lucifer" bee with devil-like horns lurking in critically endangered wildflower in Australia - CBS News
-- Armed men publicly killed Mali TikTok influencer Mariame Cissé, authorities say - NBC News
-- Nvidia-backed CoreWeave's shares fall as data center delay hits annual revenue forecast - Yahoo Finance
-- Using Your Credit Card at the Checkout Is Set to Get a Lot More Complicated - WSJ - The Wall Street Journal
-- SoftBank Says It Sold Its Entire Nvidia Stake. The Chip Stock is Sliding. - Investopedia
-- Target, other retailers slash prices on milk, eggs and butter as shoppers tighten budgets - Star Tribune
+- Fact-checking Trump’s promise to give Americans $2,000 payments from tariff dividends - PBS
+- Venezuela announces ‘massive mobilization’ of military forces as America’s largest warship sails into region - CNN
+- Northern lights could be visible in Utah, as NOAA issues 'very rare' geomagnetic storm watch - KSL.com
+- AP Interview: Newsom says Trump climate-fighting absence is ‘doubling down on stupid’ - AP News
+- Archbishop Paul Coakley Is Picked to Lead American Bishops - The New York Times
+- Obamacare could collapse under Trump’s new plan, policy experts say - Politico
+- Suicide bomber kills 12 outside Islamabad court as Pakistan violence rises - AP News
+- Newly constructed Hongqi Bridge in China partially collapses, dramatic video goes viral | Trending - Hindustan Times
+- ‘Lucifer’ bee with horns discovered in Western Australia - The Washington Post
+- Dominican Republic: 'Cascade of failures' causes nationwide blackout - BBC
+- Private Aviation Has Boomed During the Government Shutdown - The New York Times
+- Mega Millions jackpot soars to $900 million, 8th-largest in game’s history - CNN
+- CoreWeave Earnings Highlight Risks of Surge in AI Borrowing - Barron's
+- Rage and ruined holidays: how the Marriott-Sonder meltdown unraveled into chaos for customers - Business Insider
 - Apple is now selling a $150 sling for your iPhone made by the same designer who created Steve Jobs' iconic black turtleneck - Fortune
-- Report: iPhone Air 2 is delayed until 2027 so Apple can add a second camera to it - 9to5Mac
+- Sony made an official 240Hz PlayStation monitor with a built-in DualSense charging hook - Engadget
