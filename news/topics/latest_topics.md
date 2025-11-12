@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 10:50_
+_Updated: 2025-11-12 11:43_
 
 ## Top Stories
 
 - Ebba Busch till attack mot M: ”Ett sätt att agera som jag vägrar underordna mig” - SVT Nyheter
+- Foxtrots barnsoldat misstänks ha utfört dåd mot israeliska ambassader - Dagens Nyheter
 - Elfel stoppar tågtrafiken till och från Göteborgs central - SVT Nyheter
-- Åklagare om terroråtalade svenskar: Vanvettigt - SvD
-- Garagelänga i Kortedala i brand - SVT Nyheter
-- Camilla går i psykedelisk terapi: ”Utan ayahuasca hade jag inte levt i dag” - Dagens Nyheter
+- Kraftig brand i garagelänga - GP
+- DN Direkt – S lägger fram förslag om slopat karensavdrag - Dagens Nyheter
 - Villor och lyxbilar – nu jagar svenska staten Malmöbons miljoner - Sydsvenskan
 - Lastbilschaufför påkörd av bil i Alvesta – stod utanför sitt fordon - Expressen
-- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
 - Fördjupat samarbete med Marocko mot organiserad brottslighet - Regeringen.se
 - Tusentals lobbyister vill inte minska utsläpp - Västerbottens-Kuriren
+- 12 november 07.49, Sammanfattning natt, Södermanlands län - polisen.se
 - Henrik Brandão Jönsson: USA:s största hangarfartyg skrämmer Venezuela till mobilisering - Dagens Nyheter
 - Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
-- Turkiskt militärflyg har kraschat – 20 ombord - UNT
-- Hårt slag om Pokrovsk – kan bli rysk propagandaseger - GP
+- Fullt utvecklad brand i lägenhet - Aftonbladet
+- Putins bluff avslöjas av bilderna – så gömmer han sig - Expressen
 - Storbanken: Lyft väntar för bopriser och fastighetsaktier - Dagens industri
+- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - Oro då Softbank säljer Nvidia - SvD
-- Chefers anhöriga fick sponsorpengar från Elon - Market.se
-- Inbjudan till presentation av transaktionen mellan Samhällsbyggnadsbolaget i Norden och Public Property Invest som offentliggjordes, den 11 november kl 17.45 (CET) - SBB - Samhällsbyggnadsbolaget
+- Elon AB (publ) initierar extern och oberoende utredning - Cision News
 - Hennes husbil blev stulen – men hon får inte ut på försäkringen: ”För jäkligt” - Skånska Dagbladet
-- Massivt genomslag för svenska spelet ”Arc raiders” - Aftonbladet
+- Snapdragon X Elite kan sitta i kommande Android-datorer - Teknikveckan
 
 ## World News
 
@@ -33,6 +33,7 @@ _Updated: 2025-11-12 10:50_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -43,10 +44,9 @@ _Updated: 2025-11-12 10:50_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Predators har jobb kvar att göra innan Global Series - NHL.com
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 
 ## Technology
 
