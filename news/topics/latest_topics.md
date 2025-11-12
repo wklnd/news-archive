@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 13:39_
+_Updated: 2025-11-12 15:09_
 
 ## Top Stories
 
-- Ebba Busch till attack mot M: ”Ett sätt att agera som jag vägrar underordna mig” - SVT Nyheter
+- Tomas Ramberg: Busch fortsätter förstöra stämningen för Kristersson - Dagens Nyheter
+- Olycka på riksväg 25 – livshotade skador för lastbilschaufför - SVT Nyheter
 - S lägger skarpt förslag i riksdagen för att avskaffa karensavdraget - Socialdemokraterna
-- Foxtrots barnsoldat misstänks ha utfört dåd mot israeliska ambassader - Dagens Nyheter
-- Här finns Sveriges godaste kranvatten - GP
-- Villor och lyxbilar – nu jagar svenska staten Malmöbons miljoner - Sydsvenskan
+- Mälarbron sitter fast – totalstopp i trafiken - Expressen
+- Åklagare i Italien utreder "krypskytte-turister" under Bosnienkriget - GP
 - Tung kritik mot sänkt straffålder: Risk att gängen rekryterar 11-åringar - SVT Nyheter
 - 35-årig kvinna dog under förlossning på Akademiska - UNT
-- Lastbilschaufför påkörd av bil i Alvesta – stod utanför sitt fordon - Expressen
+- Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
 - Tusentals lobbyister vill inte minska utsläpp - Västerbottens-Kuriren
-- Polisen delar inte Euromasters bild av däckproblemen - Tidningen PROFFS
-- Henrik Brandão Jönsson: USA:s största hangarfartyg skrämmer Venezuela till mobilisering - Dagens Nyheter
-- Tjeckien och Ukraina i infekterat ”flaggkrig” - Dagens Nyheter
+- Orange Week i Södertälje – gemensam kraftsamling mot våld - Södertälje kommun
 - Rapport: Deporterade venezuelaner utsatta för tortyr - Dagens Nyheter
-- Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
+- Tjeckien och Ukraina i infekterat ”flaggkrig” - Dagens Nyheter
+- Fullt utvecklad brand i lägenhet - Aftonbladet
+- Hårt slag om Pokrovsk – kan bli rysk propagandaseger - GP
+- Danmark köper svenska granatgevär för halv miljard - SVT Nyheter
 - Storbanken: Lyft väntar för bopriser och fastighetsaktier - Dagens industri
-- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - Oro då Softbank säljer Nvidia - SvD
 - Elon Group AB: Elon AB (publ) initierar extern och oberoende utredning (Cision) - Aktiellt
-- Hennes husbil blev stulen – men hon får inte ut på försäkringen: ”För jäkligt” - Skånska Dagbladet
-- Från 0 till lagom på 5 sekunder – Kina vill tämja elbilarna - Dagens PS
+- Google gör som Apple – visar upp privat AI-moln - Computer Sweden
+- Elden Ring Nightreign får DLC – nya bossar och nightfarers - Aftonbladet
 
 ## World News
 
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -51,25 +51,25 @@ _Updated: 2025-11-12 13:39_
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
