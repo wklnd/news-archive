@@ -1,63 +1,63 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 21:39_
+_Updated: 2025-11-12 22:43_
 
 ## Top Stories
 
-- Trump har lämnat in stämningsansökan mot BBC - GP
-- Så mår de misstänkt förgiftade: Chock och fortsatt vårdbehov - Dagens Nyheter
-- Sköt björn under älgjakt – polisen utreder jaktbrott - SVT Nyheter
-- Medarbetare vid hovet misstänks för barnsexbrott - Aftonbladet
+- Förklaringen: Därför har pojken fått nya kläder - Västerbottens-Kuriren
 - Chaufför allvarligt skadad efter att ha blivit påkörd - Hem - Värnamo
+- Medarbetare vid hovet misstänks för barnsexbrott - Aftonbladet
+- ”Det Ebba Busch säger är ju väldigt intressant” - SvD
 - Elisabeth Thand Ringqvist om regeringsfrågan: ”Många saker kan hända i ett val” - Dagens Nyheter
+- Oro och spänd stämning på Akademiska sjukhuset: ”Det går många rykten” - Omni
 - Åkesson backar Busch: "Kanske behövs mer sånt" - GP
 - Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
 - Staten och JK kovänder i fjälljaktsmål - Svensk Jakt
-- Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
-- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
+- Ledare. Låt inte gängen sätta skräck i Norrbotten - NSD
+- Bråk med vakter vid klimattoppmöte - SVT Nyheter
+- Avslöjande: Putin gömmer sig i hemliga ”bluffkontor” - Dagens Nyheter
+- DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
 - IS-terroristens ex-flickvän misstänks ha förberett nytt attentat - Hufvudstadsbladet
-- Putins hemliga rum – så lurar Kreml omvärlden - Västerbottens-Kuriren
-- Fullt utvecklad brand i lägenhet - Aftonbladet
 - Skräckscenariot: Smygande förfall - SvD
-- Svensk spelindustri fortsatte att växa i fjol, men ser ökade risker - Dataspelsbranschen - Börsvärlden
-- Ryanairs stora förändring – påverkar alla resenärer - Expressen
-- CMS Wistrand rådgivare till SBB i transaktion som skapar Europas största listade social-infrastruktursplattform genom Public Property Invest ASA - Mynewsdesk
+- Peter Alestig: Trump spår oljeboom – och han kan få rätt - Dagens Nyheter
+- Munters och SBB vinnare – Raysearch fortsätter rekylera ned - Dagens industri
+- Ryanairs historiska förändring – påverkar alla resenärer - Expressen
 - Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
 - Överhettad stjärnfabrik lyser upp det tidiga universum - Forskning.se
 
 ## World News
 
-- Succébandet Bolaget på plats för Global Series - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
+- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -73,26 +73,26 @@ _Updated: 2025-11-12 21:39_
 
 ## Business
 
-- The circular economy in action at Blenheim Palace - mastercard.com
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -102,20 +102,20 @@ _Updated: 2025-11-12 21:39_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
