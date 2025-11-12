@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 19:41_
+_Updated: 2025-11-12 20:48_
 
 ## Top Stories
 
-- Tomas Ramberg: Busch fortsätter förstöra stämningen för Kristersson - Dagens Nyheter
-- Oro och spänd stämning på Akademiska sjukhuset: ”Det går många rykten” - Omni
 - Medarbetare vid hovet misstänks för barnsexbrott - Aftonbladet
+- Akademiska polisanmälde först efter tredje fallet - SvD
+- Åkesson om Buschs S-utspel: ”Får se om det blir bråk” - Dagens Nyheter
 - Olycka på riksväg 25 – livshotade skador för lastbilschaufför - SVT Nyheter
-- Partiledarnas EU-debatt övergick i inrikespolitisk ordväxling - Europaportalen
 - Ingen gripen efter sprängningen – polisen utesluter gängkoppling - NSD
-- DN Direkt – Skolverket ställer in digitala nationella prov - Dagens Nyheter
+- Elisabeth Thand Ringqvist om regeringsfrågan: ”Många saker kan hända i ett val” - Dagens Nyheter
 - Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
-- Staten och JK kovänder i fjälljaktsmål - Svensk Jakt
-- Pappan i Älvsbyn åtalas för sexbrott mot barn - GP
+- Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
+- DN Direkt – 20 soldater döda i turkisk flygkrasch - Dagens Nyheter
+- Pappan i Älvsbyn åtalas för sexbrott mot barn - Västerbottens-Kuriren
+- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
 - IS-terroristens ex-flickvän misstänks ha förberett nytt attentat - Hufvudstadsbladet
-- Minister tvingas bort efter ukrainska härvan - GP
 - Rapport: Deporterade venezuelaner utsatta för tortyr - Dagens Nyheter
 - Fullt utvecklad brand i lägenhet - Aftonbladet
 - Skräckscenariot: Smygande förfall - SvD
-- Den smarta ringen utsedd till Årets Pryl 2026 – symbolen för en ny hälsomedveten tekniktrend - Finanstid
-- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
-- Rekordår för svenska spelbranschen – ”Fortsätter göra bra spel” - Tidningen Näringslivet
+- Svensk spelindustri fortsatte att växa i fjol, men ser ökade risker - Dataspelsbranschen - Börsvärlden
+- Ryanairs stora förändring – påverkar alla resenärer - Expressen
+- CMS Wistrand rådgivare till SBB i transaktion som skapar Europas största listade social-infrastruktursplattform genom Public Property Invest ASA - Mynewsdesk
 - För 9 000 år sedan hände något dramatiskt i Antarktis. Nu befarar forskare att det kan hända igen - Illustrerad Vetenskap
 - Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
 
 ## World News
 
 - Succébandet Bolaget på plats för Global Series - NHL.com
-- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
+- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -73,7 +73,6 @@ _Updated: 2025-11-12 19:41_
 
 ## Business
 
-- The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -83,39 +82,40 @@ _Updated: 2025-11-12 19:41_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -125,26 +125,27 @@ _Updated: 2025-11-12 19:41_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,10 +156,9 @@ _Updated: 2025-11-12 19:41_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Mer bioenergi och mindre negativa miljöeffekter med multifunktionellt jordbruk - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
