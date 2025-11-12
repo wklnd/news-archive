@@ -1,21 +1,21 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 05:57_
+_Updated: 2025-11-12 06:46_
 
 ## Top Stories
 
-- Putin har tre identiska kontor – skyddas av 14 luftvärn i skogen - Omni
-- 19 dödade i attack mot gerilla - Västerbottens-Kuriren
 - Venezuelas mobiliserar – hela armén kallas in - Dagens Nyheter
+- Putin har tre identiska kontor – skyddas av 14 luftvärn i skogen - Omni
+- Villabrand i Gävle – en person till sjukhus - SVT Nyheter
 - Polisen dementerar att Majids släkting var måltavla - Omni
 - Folket har talat – så vill de att nya återvinningscentralen ska se ut - Smålandsposten
-- DN Direkt – NRK ändrar i Trump-klipp efter BBC-skandalen - Dagens Nyheter
-- Drygt hälften av kommunerna över föroreningsgräns - SVT Nyheter
-- Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
+- 18-åring erkänner att han deltog i IS - GP
+- Drygt hälften av kommunerna över föroreningsgräns - Västerbottens-Kuriren
+- Forskarens varning: Då har vi inga verktyg kvar – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Femte person misstänks ha förgiftats på Ackis - UNT
 - Vinter i sikte: Varning för minusgrader och halka - Ekuriren
-- Ny art upptäckt: ”Djävulsbi” med horn - Dagens Nyheter
-- Utredare: Zelenskyj-allierad bakom miljardmygel - GP
+- 19 dödade i attack mot gerilla - Västerbottens-Kuriren
+- Ny art upptäckt: ”Djävulsbi” med horn - GP
 - Macron: Annektering en röd linje - Västerbottens-Kuriren
 - Expert: Putin erövrar ”ruinhög” – till enorm kostnad - Dagens Nyheter
 - AI-aktier tappar i New York - Dagens industri
@@ -39,37 +39,37 @@ _Updated: 2025-11-12 05:57_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
+- We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
-- Venture Global and Mitsui Announce 20-Year LNG Sales and Purchase Agreement - Placera.se
+- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
