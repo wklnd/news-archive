@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 04:18_
+_Updated: 2025-11-12 05:32_
 
 ## Top Stories
 
 - Venezuelas mobiliserar – hela armén kallas in - Dagens Nyheter
-- Nästan helt land utan ström - Västerbottens-Kuriren
 - Putin har tre identiska kontor – skyddas av 14 luftvärn i skogen - Omni
-- DN Direkt – NRK ändrar i Trump-klipp efter BBC-skandalen - Dagens Nyheter
+- Drygt hälften av kommunerna över föroreningsgräns - Aftonbladet
 - Polisen dementerar att Majids släkting var måltavla - Omni
-- Fyra teorier om förgiftningarna på Akademiska - Aftonbladet
+- Folket har talat – så vill de att nya återvinningscentralen ska se ut - Smålandsposten
+- DN Direkt – NRK ändrar i Trump-klipp efter BBC-skandalen - Dagens Nyheter
 - Haven glöms bort under FN:s klimatmöte, menar forskare - Dagens Nyheter
-- Tonåring åtalas för skott mot Israels ambassad - Västerbottens-Kuriren
+- Femte person misstänks ha förgiftats på Ackis - UNT
+- Vinter i sikte: Varning för minusgrader och halka - Ekuriren
 - Dom mot IS-kvinnan sprids i Europa – "banbrytande” - GP
-- 18-åring misstänks ha planerat terrordåd – rättegång inledd - Dagens Nyheter
-- Oväntat högt valdeltagande i Irak - Västerbottens-Kuriren
-- Ny art upptäckt: ”Djävulsbi” med horn - GP
-- Macron: Annektering en röd linje - SVT Nyheter
-- Expert: Putin erövrar ”ruinhög” – till enorm kostnad - Dagens Nyheter
-- AI-aktier tappar i New York - Dagens industri
+- Ny art upptäckt: ”Djävulsbi” med horn - Dagens Nyheter
+- Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
+- Nästan helt land utan ström - Västerbottens-Kuriren
+- Macron: Annektering en röd linje - GP
 - Inbjudan till presentation av transaktionen mellan Samhällsbyggnadsbolaget i Norden och Public Property Invest som offentliggjordes, den 11 november kl 17.45 (CET) - SBB - Samhällsbyggnadsbolaget
+- AI-aktier tappar i New York - Dagens industri
 - Utbyggnad av stamnätet möjliggör industrins omställning i Luleå - ENERGInyheter.se
 - Rapport: Kulturbyggnader i riskzonen – behöver mer pengar - Dagens Nyheter
 - Pixel får november-uppdateringen med nya funktioner - Swedroid
@@ -37,9 +37,9 @@ _Updated: 2025-11-12 04:18_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Predators har jobb kvar att göra innan Global Series - NHL.com
@@ -104,41 +104,41 @@ _Updated: 2025-11-12 04:18_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -150,7 +150,6 @@ _Updated: 2025-11-12 04:18_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
@@ -160,5 +159,6 @@ _Updated: 2025-11-12 04:18_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
