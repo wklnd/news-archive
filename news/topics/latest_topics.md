@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 12:47_
+_Updated: 2025-11-12 13:39_
 
 ## Top Stories
 
-- Tomas Ramberg: Busch fortsätter förstöra stämningen för Kristersson - Dagens Nyheter
-- Elfel stoppade tågtrafiken till och från Göteborgs central - SVT Nyheter
-- Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
+- Ebba Busch till attack mot M: ”Ett sätt att agera som jag vägrar underordna mig” - SVT Nyheter
 - S lägger skarpt förslag i riksdagen för att avskaffa karensavdraget - Socialdemokraterna
 - Foxtrots barnsoldat misstänks ha utfört dåd mot israeliska ambassader - Dagens Nyheter
+- Här finns Sveriges godaste kranvatten - GP
 - Villor och lyxbilar – nu jagar svenska staten Malmöbons miljoner - Sydsvenskan
+- Tung kritik mot sänkt straffålder: Risk att gängen rekryterar 11-åringar - SVT Nyheter
 - 35-årig kvinna dog under förlossning på Akademiska - UNT
 - Lastbilschaufför påkörd av bil i Alvesta – stod utanför sitt fordon - Expressen
 - Tusentals lobbyister vill inte minska utsläpp - Västerbottens-Kuriren
-- 12 november 07.49, Sammanfattning natt, Södermanlands län - polisen.se
+- Polisen delar inte Euromasters bild av däckproblemen - Tidningen PROFFS
+- Henrik Brandão Jönsson: USA:s största hangarfartyg skrämmer Venezuela till mobilisering - Dagens Nyheter
 - Tjeckien och Ukraina i infekterat ”flaggkrig” - Dagens Nyheter
+- Rapport: Deporterade venezuelaner utsatta för tortyr - Dagens Nyheter
 - Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
-- Massiv militärövning i Venezuela efter ökad amerikansk närvaro - SVT Nyheter
-- Fullt utvecklad brand i lägenhet - Aftonbladet
 - Storbanken: Lyft väntar för bopriser och fastighetsaktier - Dagens industri
 - Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - Oro då Softbank säljer Nvidia - SvD
 - Elon Group AB: Elon AB (publ) initierar extern och oberoende utredning (Cision) - Aktiellt
 - Hennes husbil blev stulen – men hon får inte ut på försäkringen: ”För jäkligt” - Skånska Dagbladet
-- 3 billiga soundbars med höga betyg att hålla utkik efter under Black Friday - TechRadar
+- Från 0 till lagom på 5 sekunder – Kina vill tämja elbilarna - Dagens PS
 
 ## World News
 
@@ -125,6 +125,7 @@ _Updated: 2025-11-12 12:47_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -132,13 +133,12 @@ _Updated: 2025-11-12 12:47_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-11-12 12:47_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
