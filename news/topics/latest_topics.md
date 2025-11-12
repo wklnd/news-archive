@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 00:45_
+_Updated: 2025-11-13 01:39_
 
 ## Top Stories
 
+- DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
 - Tomas Kåberger: Sverige och USA tävlar om att bromsa klimatarbetet - ETC.se
-- Åkesson om Buschs S-utspel: ”Får se om det blir bråk” - Dagens Nyheter
-- Förklaringen: Därför har pojken fått nya kläder - Folkbladet
+- Åkesson backar Busch: "Kanske behövs mer sånt" - GP
+- Dna bevisar: Hitler hade bara en pungkula - GP
 - Chaufför allvarligt skadad efter att ha blivit påkörd - Hem - Värnamo
 - Tidigare hovetanställd åtalas för flera sexbrott mot barn - SVT Nyheter
-- DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
 - Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
-- Ledare. Låt inte gängen sätta skräck i Norrbotten - NSD
-- Akademiska polisanmälde först efter tredje fallet - Västerbottens-Kuriren
-- Digitala nationella prov ställs in – dessa prov berörs - Skolledaren
+- Elisabeth Thand Ringqvist om regeringsfrågan: ”Många saker kan hända i ett val” - Dagens Nyheter
+- Bris protest: Klär barnstatyer i fängelsekläder - GP
+- Våldet går inte i pension - samtal mellan generationer - Habo kommun
 - Avslöjande: Putin gömmer sig i hemliga ”bluffkontor” - Dagens Nyheter
 - Bråk med vakter vid klimattoppmöte - SVT Nyheter
 - Ambassad varnar svenskar inför oväder - Västerbottens-Kuriren
-- Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
-- Skräckscenariot: Smygande förfall - SvD
+- I dag: Jägare sköt björn under älgjakt - Lokaltidningen
+- Munters och SBB vinnare – Raysearch fortsätter rekylera ned - Dagens industri
+- Svantesson om en AI-bubbla: ”Jag är inte orolig” - SvD
 - Svensk spelindustri fortsatte att växa i fjol, men ser ökade risker - Dataspelsbranschen - Börsvärlden
-- Svantesson om en AI-bubbla: ”Jag är inte orolig” - Aftonbladet
-- Peter Alestig: Trump spår oljeboom – och han kan få rätt - Dagens Nyheter
+- Arctic sänker riktkursen för Austevoll Seafood till 100 norska kronor (104), upprepar köp - BN - Placera.se
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
 - Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
 
@@ -37,26 +37,26 @@ _Updated: 2025-11-13 00:45_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Pressen ökar på Sverige – ”en skrämmande bild” - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
+- We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
+- Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -122,23 +122,23 @@ _Updated: 2025-11-13 00:45_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2025-11-13 00:45_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
