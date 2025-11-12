@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-12 17:53_
+_Updated: 2025-11-12 18:56_
 
-- Jeffrey Epstein Alleged in Emails That Trump Knew of His Conduct - The New York Times
-- House set to vote on ending government shutdown - abcnews.go.com
-- Turning Point tour ends with fights and arrests at UC Berkeley. Our student reporters were there - CalMatters
-- Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge - BBC
-- Space forecasters say severe solar storms could hit Earth and trigger auroras - NPR
-- Jack Schlossberg, JFK's grandson, launches New York congressional bid - CBS News
-- Kansas County Agrees to Pay $3 Million Over Police Raid of Newspaper - The New York Times
+- Trump knew about Epstein’s conduct, newly released emails suggest - The Guardian
+- Trump Live Updates: House to Take Up Bill to End Government Shutdown - The New York Times
+- Fifty-year mortgages and $2,000 cheques: What's behind Trump's affordability drive? - BBC
+- Trump defends H-1B visas: "You don't have certain talents" in the U.S. - Axios
+- Northern lights danced above the U.S. Will there be more aurora tonight? - The Washington Post
+- JFK’s grandson, Jack Schlossberg, announces 2026 run for Nadler's seat in Congress - abcnews.go.com
+- Shutdown silver linings for the Democrats and Europe's hi-tech drone war: Morning Rundown - NBC News
+- Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files - NPR
 - Venezuelans sent by Trump to El Salvador endured systematic torture, report finds - The Guardian
-- The Epstein files petition is getting its 218th signature. What happens next? - CNN
-- Trump Administration Plans to Send Border Patrol to Charlotte and New Orleans - The New York Times
-- Pakistan opens investigation into Islamabad terror attack - The Guardian
+- U.S. Catholic bishops select conservative culture warrior to lead them during Trump’s 2nd term - PBS
+- New bridge in south-west China collapses into mountainside - The Guardian
+- Who are India and Pakistan blaming for Delhi, Islamabad blasts? - Al Jazeera
 - Turkish military plane crash in Georgia kills all 20 on board - AP News
-- New Bridge in Southwestern China Dramatically Collapses - Bloomberg.com
 - The sharks are circling UK PM Keir Starmer as crunch points loom - CNBC
 - Josh Johnson Isn’t Sold on Trump’s 50-Year Mortgage Plan - The New York Times
-- Even When the Shutdown Ends, Flight Cancellations Won’t - The Wall Street Journal
+- Toyota opens new U.S. battery plant, confirms $10 billion in new investments - CNBC
 - Winning Mega Millions numbers for the $900 million jackpot on Nov. 11, 2025: See all the prizes hit in Ohio - WKYC
-- Google sues cybercriminal group behind E-ZPass, USPS text phishing scams - CNBC
+- Anthropic to invest $50bn in new US data centres - Financial Times
 - How AI Notification Summaries work on the Pixel 9 and 10 - 9to5Google
-- Samsung Galaxy S26 Ultra key specs just leaked — and the biggest charging upgrade in 6 years - Tom's Guide
+- Sony Once Again Takes A Leaf From Nintendo's Playbook In Japan - Nintendo Life
