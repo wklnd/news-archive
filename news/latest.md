@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-12 07:49_
+_Updated: 2025-11-12 08:55_
 
 - Trump news at a glance: Top House Democrats vow to oppose shutdown bill after splinter group disappoints - The Guardian
-- Supreme Court extends SNAP payments freeze as lawmakers near shutdown vote - Axios
+- Supreme Court extends pause on order requiring full SNAP payments - The Washington Post
 - A severe solar storm is painting aurora borealis across the sky as far south as Florida - CNN
-- Duffy says more pain to come before air traffic is back to normal - abcnews.go.com
-- Fact-checking Trump’s promise to give Americans $2,000 payments from tariff dividends - PBS
-- Protesters break into COP30 venue in Brazil - BBC
-- The Messy Politics of the Democratic Shutdown Deal - The New York Times
+- Duffy Won’t Give Timeline to Restore Flights as Shutdown Appears Near End - The New York Times
+- What to know about Trump’s plan to give Americans a $2,000 tariff dividend - AP News
+- US Senate votes to end shutdown: Why Democrats are upset with Chuck Schumer - Al Jazeera
 - Newsom at UN climate summit says Trump is "doubling down on stupid" - Axios
 - U.S. Catholic bishops select conservative culture warrior to lead them during Trump’s 2nd term - PBS
-- Trump slams "politically correct" politics in Veterans Day speech - Axios
-- Hongqi bridge collapses: Newly constructed bridge in China falls apart, splashes into river — watch - The Times of India
-- What the Looming Fall of a Ukrainian City Says About Putin’s War - The Wall Street Journal
-- Suicide bomber kills 12 outside Islamabad court as Pakistan violence rises - AP News
-- Dominican Republic hit with widespread power outage - CBS News
-- Flight disruptions will persist even after shutdown ends, airlines warn - The Washington Post
+- Largest US aircraft carrier reaches Latin American region - The Hill
+- Fetterman: ‘No one really knows’ who’s running the Democratic Party in Senate, House - The Hill
+- Protesters break into COP30 venue in Brazil - BBC
+- Witnesses in Pakistan recall chaos after Islamabad suicide bombing - Al Jazeera
+- Newly constructed Hongqi Bridge in China partially collapses, dramatic video goes viral | Trending - Hindustan Times
+- Russian forces roll 'Mad Max'-style into battered Ukrainian city of Pokrovsk, video shows - Reuters
+- Why flight disruptions could linger even after the government shutdown ends - NPR
+- Oil and gas demand to rise for 25 years without global change of course, says IEA - Financial Times
 - SoftBank’s Shares Dive After Nvidia Sale Spooks AI-Wary Market - Bloomberg.com
-- Starbucks' barista strike could undermine its turnaround plan - BBC
-- Trump calls 50-year mortgages no 'big deal' as right-wing conservatives balk - Reuters
+- Chick-Fil-A to test new menu item in Baltimore - WBFF
 - Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica
 - Apple Confounds Some Fans With $230 Knit iPhone Crossbody Carrier - Forbes
