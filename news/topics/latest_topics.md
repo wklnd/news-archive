@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 20:48_
+_Updated: 2025-11-12 21:39_
 
 ## Top Stories
 
+- Trump har lämnat in stämningsansökan mot BBC - GP
+- Så mår de misstänkt förgiftade: Chock och fortsatt vårdbehov - Dagens Nyheter
+- Sköt björn under älgjakt – polisen utreder jaktbrott - SVT Nyheter
 - Medarbetare vid hovet misstänks för barnsexbrott - Aftonbladet
-- Akademiska polisanmälde först efter tredje fallet - SvD
-- Åkesson om Buschs S-utspel: ”Får se om det blir bråk” - Dagens Nyheter
-- Olycka på riksväg 25 – livshotade skador för lastbilschaufför - SVT Nyheter
-- Ingen gripen efter sprängningen – polisen utesluter gängkoppling - NSD
+- Chaufför allvarligt skadad efter att ha blivit påkörd - Hem - Värnamo
 - Elisabeth Thand Ringqvist om regeringsfrågan: ”Många saker kan hända i ett val” - Dagens Nyheter
+- Åkesson backar Busch: "Kanske behövs mer sånt" - GP
 - Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
+- Staten och JK kovänder i fjälljaktsmål - Svensk Jakt
 - Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
-- DN Direkt – 20 soldater döda i turkisk flygkrasch - Dagens Nyheter
-- Pappan i Älvsbyn åtalas för sexbrott mot barn - Västerbottens-Kuriren
 - Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
 - IS-terroristens ex-flickvän misstänks ha förberett nytt attentat - Hufvudstadsbladet
-- Rapport: Deporterade venezuelaner utsatta för tortyr - Dagens Nyheter
+- Putins hemliga rum – så lurar Kreml omvärlden - Västerbottens-Kuriren
 - Fullt utvecklad brand i lägenhet - Aftonbladet
 - Skräckscenariot: Smygande förfall - SvD
 - Svensk spelindustri fortsatte att växa i fjol, men ser ökade risker - Dataspelsbranschen - Börsvärlden
 - Ryanairs stora förändring – påverkar alla resenärer - Expressen
 - CMS Wistrand rådgivare till SBB i transaktion som skapar Europas största listade social-infrastruktursplattform genom Public Property Invest ASA - Mynewsdesk
-- För 9 000 år sedan hände något dramatiskt i Antarktis. Nu befarar forskare att det kan hända igen - Illustrerad Vetenskap
 - Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
+- Överhettad stjärnfabrik lyser upp det tidiga universum - Forskning.se
 
 ## World News
 
@@ -73,6 +73,7 @@ _Updated: 2025-11-12 20:48_
 
 ## Business
 
+- The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -82,17 +83,16 @@ _Updated: 2025-11-12 20:48_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -145,7 +145,6 @@ _Updated: 2025-11-12 20:48_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -156,9 +155,10 @@ _Updated: 2025-11-12 20:48_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Mer bioenergi och mindre negativa miljöeffekter med multifunktionellt jordbruk - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
