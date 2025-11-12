@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 17:45_
+_Updated: 2025-11-12 18:51_
 
 ## Top Stories
 
-- EU-deklarationen – regeringens prioriteringar i EU-arbetet - Regeringen.se
+- Medarbetare vid hovet misstänks för barnsexbrott - Aftonbladet
+- Partiledarnas EU-debatt övergick i inrikespolitisk ordväxling - Europaportalen
 - Tomas Ramberg: Busch fortsätter förstöra stämningen för Kristersson - Dagens Nyheter
-- Tania Lundberg Gomez, 33, greps på Lanzarote och döms i dag - Expressen
+- Oro och spänd stämning på Akademiska sjukhuset: ”Det går många rykten” - Omni
 - Olycka på riksväg 25 – livshotade skador för lastbilschaufför - SVT Nyheter
-- Så mår de misstänkt förgiftade: Chock och fortsatt vårdbehov - Dagens Nyheter
-- Regeringens medborgarprov kan försenas i två år - Dagens Nyheter
-- DN Direkt – Skolverket ställer in digitala nationella prov - Dagens Nyheter
+- Ingen gripen efter sprängningen – polisen utesluter gängkoppling - NSD
+- DN Direkt – Över 30 döda i bussolycka i Peru - Dagens Nyheter
 - Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
-- Kriminalvården säger nej till fängelse för 13-åringar - GP
 - Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
-- Utredare: Zelenskyj-allierad bakom miljardmygel - Västerbottens-Kuriren
+- Staten och JK kovänder i fjälljaktsmål - Svensk Jakt
+- Direkt – Kriget i Ukraina – Efter korruptionslarm: Justitieminister tvingas bort - Dagens Nyheter
 - Rapport: Deporterade venezuelaner utsatta för tortyr - Dagens Nyheter
 - Fullt utvecklad brand i lägenhet - Aftonbladet
 - ”Turista som prickskytt”: Dödande av civila mot betalning utreds - ETC.se
+- Den smarta ringen utsedd till Årets Pryl 2026 – symbolen för en ny hälsomedveten tekniktrend - Finanstid
+- Skräckscenariot: Smygande förfall - SvD
+- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - Danmark köper svenska granatgevär för halv miljard - SVT Nyheter
-- Oscar Engelbert döms betala 15 miljoner till staten - Dagens industri
-- Rekordår för svenska spelbranschen – ”Fortsätter göra bra spel” - Tidningen Näringslivet
-- IEA varnar: Fler åtgärder behövs för att klara klimatmålen - tidningensyre.se
 - Google gör som Apple – visar upp privat AI-moln - Computer Sweden
 - För 9 000 år sedan hände något dramatiskt i Antarktis. Nu befarar forskare att det kan hända igen - Illustrerad Vetenskap
 
@@ -35,17 +35,17 @@ _Updated: 2025-11-12 17:45_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Payments Launches Modular Countertop Designed for Genius - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 
 ## Technology
@@ -57,8 +57,8 @@ _Updated: 2025-11-12 17:45_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -66,10 +66,10 @@ _Updated: 2025-11-12 17:45_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -112,10 +112,10 @@ _Updated: 2025-11-12 17:45_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2025-11-12 17:45_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
