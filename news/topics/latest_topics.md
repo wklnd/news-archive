@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-12 23:39_
+_Updated: 2025-11-13 00:45_
 
 ## Top Stories
 
 - Tomas Kåberger: Sverige och USA tävlar om att bromsa klimatarbetet - ETC.se
-- DN Direkt – Förslaget om sänkt straffbarhet till 13 år avstyrks - Dagens Nyheter
-- Sköt björn under älgjakt – polisen utreder jaktbrott - SVT Nyheter
-- Chaufför allvarligt skadad efter att ha blivit påkörd - Hem - Värnamo
-- Medarbetare vid hovet misstänks för barnsexbrott - Aftonbladet
-- Trump har lämnat in stämningsansökan mot BBC - GP
 - Åkesson om Buschs S-utspel: ”Får se om det blir bråk” - Dagens Nyheter
-- Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
-- Akademiska polisanmälde först efter tredje fallet - Västerbottens-Kuriren
-- Ledare. Låt inte gängen sätta skräck i Norrbotten - NSD
-- Bråk med vakter vid klimattoppmöte - SVT Nyheter
-- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
-- Putins hemliga rum – så lurar Kreml omvärlden - Västerbottens-Kuriren
+- Förklaringen: Därför har pojken fått nya kläder - Folkbladet
+- Chaufför allvarligt skadad efter att ha blivit påkörd - Hem - Värnamo
+- Tidigare hovetanställd åtalas för flera sexbrott mot barn - SVT Nyheter
 - DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
+- Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
+- Ledare. Låt inte gängen sätta skräck i Norrbotten - NSD
+- Akademiska polisanmälde först efter tredje fallet - Västerbottens-Kuriren
+- Digitala nationella prov ställs in – dessa prov berörs - Skolledaren
+- Avslöjande: Putin gömmer sig i hemliga ”bluffkontor” - Dagens Nyheter
+- Bråk med vakter vid klimattoppmöte - SVT Nyheter
+- Ambassad varnar svenskar inför oväder - Västerbottens-Kuriren
+- Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
 - Skräckscenariot: Smygande förfall - SvD
-- Peter Alestig: Trump spår oljeboom – och han kan få rätt - Dagens Nyheter
 - Svensk spelindustri fortsatte att växa i fjol, men ser ökade risker - Dataspelsbranschen - Börsvärlden
-- Munters och SBB vinnare – Raysearch fortsätter rekylera ned - Dagens industri
-- Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
+- Svantesson om en AI-bubbla: ”Jag är inte orolig” - Aftonbladet
+- Peter Alestig: Trump spår oljeboom – och han kan få rätt - Dagens Nyheter
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
+- Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
 
 ## World News
 
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Succébandet Bolaget på plats för Global Series - NHL.com
-- Resultattapp för Enad Global - Privata Affärer
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
-- Forsberg inför Global Series: ”Något som jag hoppats på och drömt om” - hockeysverige.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -102,20 +102,20 @@ _Updated: 2025-11-12 23:39_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2025-11-12 23:39_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
