@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 20:50_
+_Updated: 2025-11-13 21:37_
 
 ## Top Stories
 
-- DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
-- Fem personer begärs häktade – efter tillslag på anstalt - SVT Nyheter
-- Sökinsats fortsätter i vattnet utanför Ekerö – kvinna förd till sjukhus - SVT Nyheter
+- Svenska Freds: Stoppa vapenexport för Sudan - SVT Nyheter
+- Trafikolycka på E4 – polisen varnar för dålig sikt i snöovädret - NT
+- Kvinna till sjukhus efter båtolycka i Ekerö – en saknas - Omni
+- Misstanken: Tre gängmän mutade kriminalvårdare - GP
+- Juriststudenten Liza sköts till döds i sovrummet – nu startar vännen en stiftelse - Dagens Nyheter
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Här rycker ryssarna fram – aggressivt - SvD
-- Sköt mot barnfamilj – då blev pojken själv skjuten - GP
-- Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
+- DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
+- Bris protest: Klär barnstatyer i fängelsekläder - GP
 - 13 november 13.57, Bedrägeri, Skellefteå - polisen.se
 - M-topp JO-anmäler kampanj om miljözon i Stockholm - Dagens Nyheter
-- Våld mot kvinnor uppmärksammas när Uppsala lyser i orange - Uppsala kommun
 - Starka känslor när Paris minns 13 november-attentaten – ”I flera år var jag rädd för starka ljud” - Dagens Nyheter
-- Leo XIV: Skydda minderårigas värdighet inför AI - Vatican News
+- Parolin: Skydd av barns värdighet i AI-eran - en av mänsklighetens största utmaningar - Vatican News
+- Zelenskyj besöker fronten efter ryska framsteg - GP
 - DN Direkt – Regeringen föreslår att språkkrav införs i äldreomsorgen - Dagens Nyheter
-- Marie Dackes “Igelkottens förunderliga värld” får utmärkelsen Årets pandabok 2026 - Via TT
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
+- Neddragningar på EFN – 20-tal påverkas - SvD
 - Nato-lyftet för Saabs "minihelikopter" - Dagens PS
-- Årets julklapp hyllar leken – även för vuxna - Svensk Handel
-- Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
-- Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
+- DN Direkt – Matpriserna upp i oktober – glass och godis dyrare - Dagens Nyheter
 - Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
+- Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
 ## World News
 
@@ -34,16 +34,16 @@ _Updated: 2025-11-13 20:50_
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Seoul teen who bridges cultures through Arabic wins top Global Korea Award - The Korea Times
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Pressen ökar på Sverige – ”en skrämmande bild” - SvD
+- 42 svenska medicinforskare på global topplista - Life Science Sweden
 - Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -82,7 +82,7 @@ _Updated: 2025-11-13 20:50_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Europas upplevelseekonomi redo att ta fart - mastercard.com
