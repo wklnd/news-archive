@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-13 13:48_
+_Updated: 2025-11-13 15:20_
 
 - Trump Signs Spending Bill, Ending Longest Shutdown in U.S. History - The Wall Street Journal
-- Donald Trump fights for control of Maga movement as Jeffrey Epstein emails widen schism - Financial Times
-- The Northern Lights decorate U.S. skies during geomagnetic storm - Axios
+- Epstein files become a fiasco of Trump's own making - Axios
+- Trump organization requested record number of foreign workers in 2025 - The Hill
+- Unexpected places see northern lights across the world, in pictures - CNN
+- Bay Area Braces for Heavy Rain, Fierce Winds During Thursday Morning Commute - KQED
 - Shutdown deal sparks latest round of Democrat infighting - Politico
-- 'Where is my president?': Some MAGA supporters in uproar over Trump's H-1B visa comments - abcnews.go.com
+- Halligan in the hot seat as Comey, James move to disqualify her as interim US attorney - Politico
+- Catholic Bishops Rebuke Trump’s Immigration Tactics in Rare Statement - The New York Times
 - Rep. Lauren Boebert helps force House vote on release of Epstein files - Colorado Public Radio
-- Judge hears challenge to Trump's appointment of Lindsey Halligan, the prosecutor in James Comey and Letitia James cases - NBC News
-- Former Gavin Newsom chief of staff federally charged with stealing from Xavier Becerra - San Francisco Chronicle
-- Trump admin will pay full SNAP benefits ‘within 24 hours’ after shutdown ends - Politico
-- SoCal storm forecast worsens: Periods of heavy rain, possible flooding — maybe even a tornado - Los Angeles Times
+- 'We need to get out of here': Trump's immigration crackdown is quietly reshaping where immigrants live in America - NPR
+- Israel deported Palestinian prisoners to Egypt. Some Israelis question the practice - NPR
+- EU aims to accelerate crackdown on cheap Chinese parcels, FT reports - Reuters
 - Israel’s president says ‘shocking’ settler violence against Palestinians must end - Politico
-- Brussels aims to speed up crackdown on cheap Chinese parcels - Financial Times
-- UK PM Starmer's authority shaken as rift with Labour lawmakers deepens - Reuters
-- At least 37 dead after passenger bus falls into ravine in Peru - CBS News
+- Ukraine's corruption scandal: What do we know so far? - DW
+- Here's what to expect when Disney reports earnings before the bell - CNBC
 - UK economy barely grows in the third quarter, missing forecasts ahead of crucial budget - CNBC
-- Disney Earnings Preview: Wall Street Expects Turnaround In 2026 - Investor's Business Daily
 - 50-year mortgages? NFL kickoff rules? Here's where some of Trump's latest jaw-dropping musings stand - AP News
-- Asia-Pacific stocks edge mostly higher as Trump signs funding bill, ending U.S. government shutdown - CNBC
+- Stock Market Today: S&P 500 Futures, Dollar Edge Down After Shutdown Ends — Live Updates - The Wall Street Journal
 - Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC
-- Google will let ‘experienced users’ keep sideloading Android apps - The Verge
+- Samsung’s trifold gets a name and ‘confirmed’ specs - The Verge
