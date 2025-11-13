@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 15:50_
+_Updated: 2025-11-13 16:41_
 
 ## Top Stories
 
-- Helena, 47, skulle hjälpa – mördades - Expressen
-- En gripen för försök till grov misshandel på skola – hade yxa - SVT Nyheter
+- DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
+- Ambulanspersonalen varnades inte för farliga mannen – trots flera larm - Omni
 - Tonåring döms för mordförsök efter chocknatten – flera skott avlossades mot barnfamiljen - NLT
 - Skatteverkets generaldirektör utreds för brott mot tystnadsplikten - Dagens Nyheter
-- Busch vill ha med S i förhandling om kärnkraft - Västerbottens-Kuriren
+- Kaos på Max personalfest – två åtalas - Expressen
+- Drabbad i olyckan: "Tycker Grönan ska skämmas” - Aftonbladet
+- En gripen för försök till grov misshandel på skola – hade yxa - SVT Nyheter
+- JUST NU: Kvinna försökte strypa barn – döms till tio års fängelse - NWT
+- DEBATT: Reagera och agera om du misstänker att någon utsätts för våld - Corren
 - Sacos nya ordförande: Förbättra möjligheterna till livslångt lärande - Altinget.se
-- 13 november 06.57, Farligt föremål, misstänkt, Borås - polisen.se
-- Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
-- 13 november 07.06, Sammanfattning natt, Västernorrlands län - polisen.se
-- Regeringen: Ingen ny underrättelsechef - GP
+- DN Direkt – Gasläcka i Oklahoma – hundratals evakuerade - Dagens Nyheter
+- Tio år senare lever vi fortfarande med terrorhotet - UNT
 - Trumps mardröm svors in - Expressen
 - Lastbil kraschade in i marknad i Sydkorea – två döda - SVT Nyheter
-- Tio år senare lever vi fortfarande med terrorhotet - UNT
-- Leo XIV: Skydda minderårigas värdighet inför AI - Vatican News
 - Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
-- Leksaker för vuxna – verklighetsflykt är årets julklapp - Göteborgs universitet
+- Årets julklapp hyllar leken – även för vuxna - Svensk Handel
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
-- Omorganisation på EFN – 20-tal tjänster påverkas - Dagens Nyheter
+- Neddragningar på EFN – 20-tal påverkas - SvD
 - Chatta och ställ dina frågor om översiktsplanen - Svedala kommun
-- Steam machine avtäckt – ska konkurrera med Xbox och Playstation - SVT Nyheter
+- Valve släpper Steam Machine nästa år - utmanar Playstation och Xbox - Placera.se
 
 ## World News
 
@@ -35,7 +35,6 @@ _Updated: 2025-11-13 15:50_
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -47,18 +46,19 @@ _Updated: 2025-11-13 15:50_
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -66,7 +66,7 @@ _Updated: 2025-11-13 15:50_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
@@ -105,11 +105,11 @@ _Updated: 2025-11-13 15:50_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -122,19 +122,19 @@ _Updated: 2025-11-13 15:50_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
