@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 17:42_
+_Updated: 2025-11-13 18:50_
 
 ## Top Stories
 
-- DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
-- Ambulanspersonalen varnades inte för farliga mannen – trots flera larm - Omni
-- Kaos på Max personalfest – två åtalas - Expressen
-- Drabbad i olyckan: "Tycker Grönan ska skämmas” - Aftonbladet
+- JUST NU: Här väljs Centerpartiets nya ledare – på Karlstad CCC - NWT
+- Misstanken: Tre gängmän mutade kriminalvårdare - GP
+- Karin var nära att dö på Gröna Lund: ”Jag minns hur jag faller” - Dagens Nyheter
 - Tonåring döms för mordförsök efter chocknatten – flera skott avlossades mot barnfamiljen - NLT
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- En gripen för försök till grov misshandel på skola – hade yxa - SVT Nyheter
-- Tidigare fängelseanställda begärs häktade - GP
-- JUST NU: Kvinna försökte strypa barn – döms till tio års fängelse - NWT
-- DEBATT: Reagera och agera om du misstänker att någon utsätts för våld - Corren
+- Europaparlamentet ställer sig bakom förenklade hållbarhetskrav - European Parliament
+- Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
+- Båt har sjunkit i Mälaren – sökinsats pågår - Västerbottens-Kuriren
+- Tio års fängelse för kvinna som försökte strypa närstående barn - SVT Nyheter
+- Debatt. Reagera och agera om du misstänker att någon utsätts för våld - Corren
 - DN Direkt – Gasläcka i Oklahoma – hundratals evakuerade - Dagens Nyheter
 - Trumps mardröm svors in - Expressen
-- Tio år senare lever vi fortfarande med terrorhotet - UNT
 - Leo XIV: Skydda minderårigas värdighet inför AI - Vatican News
-- Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
+- Dödliga översvämningar i Portugal - Västerbottens-Kuriren
 - Årets julklapp hyllar leken – även för vuxna - Svensk Handel
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
+- DN Direkt – Matpriserna upp i oktober – glass och godis dyrare - Dagens Nyheter
 - Neddragningar på EFN – 20-tal påverkas - SvD
-- Steam machine avtäckt – ska konkurrera med Xbox och Playstation - SVT Nyheter
+- Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 - Chatta och ställ dina frågor om översiktsplanen - Svedala kommun
 
 ## World News
@@ -34,6 +34,7 @@ _Updated: 2025-11-13 17:42_
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Seoul teen who bridges cultures through Arabic wins top Global Korea Award - The Korea Times
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
@@ -42,25 +43,25 @@ _Updated: 2025-11-13 17:42_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 42 svenska medicinforskare på global topplista - Life Science Sweden
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Succébandet Bolaget på plats för Global Series - NHL.com
-- Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-11-13 17:42_
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -101,19 +101,19 @@ _Updated: 2025-11-13 17:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
@@ -122,23 +122,23 @@ _Updated: 2025-11-13 17:42_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
