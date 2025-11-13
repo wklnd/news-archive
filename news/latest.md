@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-13 18:55_
+_Updated: 2025-11-13 19:50_
 
 - Government shutdown live updates as federal agencies reopen and employees return to work - CBS News
-- Late Night Pops Off on Trump Popping Up in Epstein Email Thread - The New York Times
-- Rep. Grijalva signs petition on Epstein files, giving it the 218th signature needed to force House vote - PBS
-- Congress tightens THC restrictions on hemp, closing farm bill loophole - The Washington Post
-- Comey, James in court today to toss Trump-appointed prosecutor's cases - Axios
-- 10 years after Bataclan massacre, Paris is still scarred by Islamic State attacks - AP News
-- Hundreds evacuated and dozens hospitalized after an ammonia gas leak in Oklahoma - AP News
+- The 9 most shocking revelations in the Epstein docs - Politico
+- Attorneys for Comey, James press judge to toss cases over Trump-installed prosecutor - abcnews.go.com
+- Congress bans most hemp-based THC products in shutdown deal - The Texas Tribune
+- Shutdown deal sparks latest round of Democrat infighting - Politico
+- What’s Behind the Coming House Vote on Releasing the Epstein Files - The New York Times
+- Gavin Newsom’s Former Chief of Staff Arrested and Charged With Corruption - The New York Times
 - Oklahoma is set to execute a man after a state panel recommended his life be spared - NBC News
-- Miner who went missing in flooding found dead in West Virginia after dayslong search, governor says - CBS News
-- Massive great white shark pings near New Jersey after visiting Canada - CBS News
+- Hundreds evacuated and dozens hospitalized after an ammonia gas leak in Oklahoma - abcnews.go.com
+- The Northern Lights decorate U.S. skies during geomagnetic storm - Axios
 - Iraq Election Results Set Stage for a Long Power Struggle - The Wall Street Journal
-- Israel deported Palestinian prisoners to Egypt. Some Israelis question the practice - NPR
+- Ukraine's army chief visits besieged city as Zelenskyy confronts graft scandal - abcnews.go.com
 - Groundbreaking analysis of Hitler’s DNA finds genetic disorder but no Jewish ancestry - The Times of Israel
-- I Watched This Haven From War Turn Into a Besieged Wasteland - The New York Times
-- Disney+ Adds 3.8 Million Subscribers, Hulu Packs on 8.6 Million Amid Kimmel Controversy in September Quarter - Variety
-- Stock Market Today: Nasdaq Leads Losses After Shutdown Ends - The Wall Street Journal
-- End of US government shutdown won't lift economic fog - Reuters
-- Starbucks workers strike at some stores nationwide in 'Red Cup rebellion,' union says - abcnews.go.com
+- Israel deported Palestinian prisoners to Egypt. Some Israelis question the practice - NPR
+- Disney drops 8% after revenue miss, warns of lengthy YouTube TV fight - Axios
+- Starbucks union baristas walk out on Red Cup Day in push for contract talks - Reuters
+- Brandon Beach heralds end of the penny as the ‘return of common sense’ - AJC.com
+- October jobs data may never be released, White House says - Yahoo
 - The OnePlus 15 is the phone to buy if you hate charging your phone - The Verge
-- Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC
+- Leaker claims poor sales of the iPhone 16e as iPhone Air production ceases - 9to5Mac
