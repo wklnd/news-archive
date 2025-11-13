@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 08:52_
+_Updated: 2025-11-13 09:40_
 
 ## Top Stories
 
 - Det här är årets julklapp 2025 - SVT Nyheter
 - Trumps mardröm svors in - Expressen
-- Nedstängningen i USA är över – statsapparaten kan öppna - SVT Nyheter
-- Lastbil kraschade in i marknad – två döda - Sydsvenskan
 - Gustav Uusihannu, Hertsöns fritidsgård: "Inget område är fredat" - Kuriren
-- Misstänkt mordförsök i Sösdala – en man till sjukhus - SVT Nyheter
+- Nedstängningen av USA över – Trump har skrivit under - GP
 - Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
-- Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
+- Flera aktiviteter för ett tryggt Håbo under En vecka fri från våld - Håbo
 - 13 november 07.06, Sammanfattning natt, Västernorrlands län - polisen.se
+- Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
 - Akademiska polisanmälde först efter tredje fallet - Västerbottens-Kuriren
+- 13 november 07.57, Sammanfattning natt, Östergötlands län - polisen.se
+- Lastbil kraschade in i marknad i Sydkorea – två döda - SVT Nyheter
 - Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
+- Påven: AI inom vården måste säkerställa kvaliteten på omsorg - Vatican News
 - Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
-- Mordförsök i Hässleholm - Expressen
-- Fullt utvecklad brand i lägenhet i Upplands Väsby i Stockholm - Aftonbladet
-- Här finns 5 000 lediga jobb med miljonlöner - Dagens PS
-- Vindkraftsmotståndet breder ut sig i fler länder - Dagens PS
-- Elon Musk fick igenom sin superlön - SvD
-- Morgonkoll: Gott humör på Asienbörserna – Softbank faller fortsatt - Dagens industri
+- Högre livsmedelspriser pressade upp inflationen - Dagens industri
+- Guld och silver slår tillbaka – rusar efter nya rekord - Dagens PS
+- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
+- Svantesson om en AI-bubbla: ”Jag är inte orolig” - SvD
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
 - (+) Duell: Vikbara Honor Magic V5 mot Samsung Galaxy Z Fold 7 - mobil.se
 
@@ -34,31 +34,31 @@ _Updated: 2025-11-13 08:52_
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
-- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
-- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -66,10 +66,10 @@ _Updated: 2025-11-13 08:52_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -102,20 +102,20 @@ _Updated: 2025-11-13 08:52_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -128,17 +128,17 @@ _Updated: 2025-11-13 08:52_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2025-11-13 08:52_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
