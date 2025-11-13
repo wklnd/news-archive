@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 21:37_
+_Updated: 2025-11-13 22:43_
 
 ## Top Stories
 
+- DN Direkt – Norge enormt nära VM efter stjärnornas målfest - Dagens Nyheter
+- Thand Ringqvist ny C-ledare: Redo att förhandla - Västerbottens-Kuriren
 - Svenska Freds: Stoppa vapenexport för Sudan - SVT Nyheter
-- Trafikolycka på E4 – polisen varnar för dålig sikt i snöovädret - NT
+- Juriststudenten Liza sköts till döds i sovrummet – nu startar vännen en stiftelse - Dagens Nyheter
 - Kvinna till sjukhus efter båtolycka i Ekerö – en saknas - Omni
 - Misstanken: Tre gängmän mutade kriminalvårdare - GP
-- Juriststudenten Liza sköts till döds i sovrummet – nu startar vännen en stiftelse - Dagens Nyheter
-- Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
-- Bris protest: Klär barnstatyer i fängelsekläder - GP
 - 13 november 13.57, Bedrägeri, Skellefteå - polisen.se
-- M-topp JO-anmäler kampanj om miljözon i Stockholm - Dagens Nyheter
+- Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
+- Debatt. Reagera och agera om du misstänker att någon utsätts för våld - Corren
+- Sacos nya ordförande: Förbättra möjligheterna till livslångt lärande - Altinget.se
 - Starka känslor när Paris minns 13 november-attentaten – ”I flera år var jag rädd för starka ljud” - Dagens Nyheter
+- Kvarleva efter gisslan överlämnas - Västerbottens-Kuriren
 - Parolin: Skydd av barns värdighet i AI-eran - en av mänsklighetens största utmaningar - Vatican News
-- Zelenskyj besöker fronten efter ryska framsteg - GP
 - DN Direkt – Regeringen föreslår att språkkrav införs i äldreomsorgen - Dagens Nyheter
+- Dold ”sjuka” ställer inflationen på ända - SvD
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
-- Neddragningar på EFN – 20-tal påverkas - SvD
-- Nato-lyftet för Saabs "minihelikopter" - Dagens PS
-- DN Direkt – Matpriserna upp i oktober – glass och godis dyrare - Dagens Nyheter
-- Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
+- Neddragningar på EFN – 20-tal påverkas - Sydsvenskan
+- Affärsvärlden ger köpråd för Xvivo Perfusion för den som tål risk - Placera.se
+- Open AI släpper GPT-5.1 – ger fler personligheter i Chat GPT - Computer Sweden
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
 ## World News
 
-- Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Seoul teen who bridges cultures through Arabic wins top Global Korea Award - The Korea Times
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 42 svenska medicinforskare på global topplista - Life Science Sweden
-- Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Succébandet Bolaget på plats för Global Series - NHL.com
+- Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
+- Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -56,9 +56,9 @@ _Updated: 2025-11-13 21:37_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -67,9 +67,9 @@ _Updated: 2025-11-13 21:37_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -82,10 +82,9 @@ _Updated: 2025-11-13 21:37_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
+- Europas upplevelseekonomi redo att ta fart - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Europas upplevelseekonomi redo att ta fart - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-11-13 21:37_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -127,8 +127,8 @@ _Updated: 2025-11-13 21:37_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
