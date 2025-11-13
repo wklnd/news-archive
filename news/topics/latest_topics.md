@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 06:46_
+_Updated: 2025-11-13 07:44_
 
 ## Top Stories
 
-- Olycka på E4 utanför Stockholm – köer - Expressen
-- Mora har dålig luft – orsakar hälsorisker: ”Jag blir ledsen” - Sveriges Radio
-- Tunga kritiken mot Strömmers förslag: Ännu yngre barn dras in i brottslighet - Aftonbladet
-- Tomas Kåberger: Sverige och USA tävlar om att bromsa klimatarbetet - ETC.se
+- Kriminalvården säger nej till 13- och 14-åringar i fängelse - GP
 - Norrbotten kraftsamlar mot mäns våld mot kvinnor - Länsstyrelsen
-- Krävdes på 280 000 – nu har Arne fått rätt mot Försäkringskassan - Expressen
-- Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
+- Singelolycka påverkar trafiken på E4 – stopp i ett körfält - UNT
+- Hjälper försvaret hantera läkemedel för bättre beredskap - Svensk Farmaci
+- Tomas Kåberger: Sverige och USA tävlar om att bromsa klimatarbetet - ETC.se
+- Skolverket ställer in digitala nationella prov - SVT Nyheter
 - Tre Umeåförare bötfällda - Folkbladet
+- Tullseger för Svantesson i EU - Aftonbladet
+- Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
 - Så mår de misstänkt förgiftade: Chock och fortsatt vårdbehov - Dagens Nyheter
-- Här finns Sveriges godaste kranvatten - UNT
-- I dag: Björn skjuten av älgjägare – gjorde utfall - Västerbottens-Kuriren
+- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
+- DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
+- I dag: Jägare sköt björn under älgjakt - Lokaltidningen
 - Dna bevisar: Hitler hade bara en pungkula - GP
-- Svenskar varnas för storm på Kanarieöarna - Aftonbladet
-- Fullt utvecklad brand i lägenhet - Aftonbladet
-- Danske Bank sänker riktkursen för Rockwool till 265 danska kronor (285), upprepar köp - BN - Placera.se
-- Ryanairs historiska förändring – påverkar alla resenärer - Expressen
 - NYAB AB: NYAB tecknar samverkanskontrakt med Svenska kraftnät för stamnätsutbyggnad (Cision) - Aktiellt
-- Analys: Oljepriserna kommer sannolikt att förbli under press eftersom utbudet är större än den försvagade efterfrågan - Invezz
+- Ryanairs historiska förändring – påverkar alla resenärer - Expressen
+- Peter Alestig: Trump spår oljeboom – och han kan få rätt - Dagens Nyheter
+- Skräckscenariot: Smygande förfall - SvD
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
 - Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
 
@@ -88,11 +88,11 @@ _Updated: 2025-11-13 06:46_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Europas upplevelseekonomi redo att ta fart - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -102,6 +102,7 @@ _Updated: 2025-11-13 06:46_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -113,7 +114,6 @@ _Updated: 2025-11-13 06:46_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
