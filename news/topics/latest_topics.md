@@ -1,64 +1,64 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 05:35_
+_Updated: 2025-11-13 06:00_
 
 ## Top Stories
 
-- Representanthuset ger grönt ljus till öppning - Aftonbladet
-- Här förbereder svenskarna för stormen – på Kanarieöarna - Expressen
-- Sköt björn under älgjakt – polisen utreder jaktbrott - SVT Nyheter
+- Representanthuset ger grönt ljus till öppning - Västerbottens-Kuriren
 - Kriminalvården säger nej till 13- och 14-åringar i fängelse - GP
-- BBC måste dra rätt lärdomar av skandalen - Dagens Arena
+- Våldet går inte i pension - samtal mellan generationer - Habo kommun
 - Tomas Kåberger: Sverige och USA tävlar om att bromsa klimatarbetet - ETC.se
+- Krävdes på 280 000 – nu har Arne fått rätt mot Försäkringskassan - Expressen
+- HVB-personalen: ”Fin pojke som inte förstår världen” - Omni
 - En död efter singelolycka utanför Linköping - SVT Nyheter
 - Tonåring åtalas för skott mot Israels ambassad - SVT Nyheter
 - Polisen dementerar att Majids släkting var måltavla - Omni
 - Tre Umeåförare bötfällda - Folkbladet
-- DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
 - Fullt utvecklad brand i lägenhet - Aftonbladet
-- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
 - Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
+- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
+- Israel: Ännu en gränspassage öppnas för hjälp - Västerbottens-Kuriren
 - Arctic sänker riktkursen för Austevoll Seafood till 100 norska kronor (104), upprepar köp - BN - Placera.se
 - Ryanairs historiska förändring – påverkar alla resenärer - Expressen
-- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - NYAB AB: NYAB tecknar samverkanskontrakt med Svenska kraftnät för stamnätsutbyggnad (Cision) - Aktiellt
+- Analys: Oljepriserna kommer sannolikt att förbli under press eftersom utbudet är större än den försvagade efterfrågan - Invezz
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
 - Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
 
 ## World News
 
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
+- Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Succébandet Bolaget på plats för Global Series - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -66,10 +66,10 @@ _Updated: 2025-11-13 05:35_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 
 ## Business
 
@@ -112,8 +112,8 @@ _Updated: 2025-11-13 05:35_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
@@ -123,29 +123,29 @@ _Updated: 2025-11-13 05:35_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -160,5 +160,5 @@ _Updated: 2025-11-13 05:35_
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
