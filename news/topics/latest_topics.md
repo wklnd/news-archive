@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 18:50_
+_Updated: 2025-11-13 19:43_
 
 ## Top Stories
 
-- JUST NU: Här väljs Centerpartiets nya ledare – på Karlstad CCC - NWT
-- Misstanken: Tre gängmän mutade kriminalvårdare - GP
-- Karin var nära att dö på Gröna Lund: ”Jag minns hur jag faller” - Dagens Nyheter
-- Tonåring döms för mordförsök efter chocknatten – flera skott avlossades mot barnfamiljen - NLT
+- DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
+- Båt har sjunkit i Mälaren – sökinsats pågår - GP
+- Fängelsepersonal och fångar anhållna misstänkta för grova mutbrott - Dagens Nyheter
+- Drabbad i olyckan: "Tycker Grönan ska skämmas” - Aftonbladet
+- Tio år efter Parisattentaten: Exflickvän gripen - SVT Nyheter
+- Tidningen Kvartal: Även SVT klippte ihop Trumps tal - SVT Nyheter
+- Bris protest: Klär barnstatyer i fängelsekläder - GP
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Europaparlamentet ställer sig bakom förenklade hållbarhetskrav - European Parliament
-- Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
-- Båt har sjunkit i Mälaren – sökinsats pågår - Västerbottens-Kuriren
-- Tio års fängelse för kvinna som försökte strypa närstående barn - SVT Nyheter
-- Debatt. Reagera och agera om du misstänker att någon utsätts för våld - Corren
-- DN Direkt – Gasläcka i Oklahoma – hundratals evakuerade - Dagens Nyheter
-- Trumps mardröm svors in - Expressen
+- JUST NU: Kvinna försökte strypa barn – nu får hon ett långt fängelsestraff - NWT
+- M-topp JO-anmäler kampanj om miljözon i Stockholm - Dagens Nyheter
+- Gasläcka i Oklahoma – hundratals evakuerade - Västerbottens-Kuriren
 - Leo XIV: Skydda minderårigas värdighet inför AI - Vatican News
-- Dödliga översvämningar i Portugal - Västerbottens-Kuriren
+- Zelenskyj besöker fronten efter ryska framsteg - GP
+- Trumps mardröm svors in - Expressen
 - Årets julklapp hyllar leken – även för vuxna - Svensk Handel
+- Nato-lyftet för Saabs "minihelikopter" - Dagens PS
+- Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
-- DN Direkt – Matpriserna upp i oktober – glass och godis dyrare - Dagens Nyheter
-- Neddragningar på EFN – 20-tal påverkas - SvD
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
-- Chatta och ställ dina frågor om översiktsplanen - Svedala kommun
+- Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
 
 ## World News
 
+- Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Seoul teen who bridges cultures through Arabic wins top Global Korea Award - The Korea Times
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
@@ -73,7 +73,7 @@ _Updated: 2025-11-13 18:50_
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -85,10 +85,10 @@ _Updated: 2025-11-13 18:50_
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Europas upplevelseekonomi redo att ta fart - mastercard.com
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -114,8 +114,8 @@ _Updated: 2025-11-13 18:50_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
