@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 07:44_
+_Updated: 2025-11-13 08:52_
 
 ## Top Stories
 
-- Kriminalvården säger nej till 13- och 14-åringar i fängelse - GP
-- Norrbotten kraftsamlar mot mäns våld mot kvinnor - Länsstyrelsen
-- Singelolycka påverkar trafiken på E4 – stopp i ett körfält - UNT
-- Hjälper försvaret hantera läkemedel för bättre beredskap - Svensk Farmaci
-- Tomas Kåberger: Sverige och USA tävlar om att bromsa klimatarbetet - ETC.se
-- Skolverket ställer in digitala nationella prov - SVT Nyheter
-- Tre Umeåförare bötfällda - Folkbladet
-- Tullseger för Svantesson i EU - Aftonbladet
+- Det här är årets julklapp 2025 - SVT Nyheter
+- Trumps mardröm svors in - Expressen
+- Nedstängningen i USA är över – statsapparaten kan öppna - SVT Nyheter
+- Lastbil kraschade in i marknad – två döda - Sydsvenskan
+- Gustav Uusihannu, Hertsöns fritidsgård: "Inget område är fredat" - Kuriren
+- Misstänkt mordförsök i Sösdala – en man till sjukhus - SVT Nyheter
+- Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
 - Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
-- Så mår de misstänkt förgiftade: Chock och fortsatt vårdbehov - Dagens Nyheter
+- 13 november 07.06, Sammanfattning natt, Västernorrlands län - polisen.se
+- Akademiska polisanmälde först efter tredje fallet - Västerbottens-Kuriren
 - Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
-- DN Direkt – Nytt mejl: Trump tillbringade ”timmar” med Epsteins offer - Dagens Nyheter
-- I dag: Jägare sköt björn under älgjakt - Lokaltidningen
-- Dna bevisar: Hitler hade bara en pungkula - GP
-- NYAB AB: NYAB tecknar samverkanskontrakt med Svenska kraftnät för stamnätsutbyggnad (Cision) - Aktiellt
-- Ryanairs historiska förändring – påverkar alla resenärer - Expressen
-- Peter Alestig: Trump spår oljeboom – och han kan få rätt - Dagens Nyheter
-- Skräckscenariot: Smygande förfall - SvD
+- Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
+- Mordförsök i Hässleholm - Expressen
+- Fullt utvecklad brand i lägenhet i Upplands Väsby i Stockholm - Aftonbladet
+- Här finns 5 000 lediga jobb med miljonlöner - Dagens PS
+- Vindkraftsmotståndet breder ut sig i fler länder - Dagens PS
+- Elon Musk fick igenom sin superlön - SvD
+- Morgonkoll: Gott humör på Asienbörserna – Softbank faller fortsatt - Dagens industri
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
-- Ny plattform avslöjar DNA-sekvensernas dolda dynamik - Knut och Alice Wallenbergs Stiftelse
+- (+) Duell: Vikbara Honor Magic V5 mot Samsung Galaxy Z Fold 7 - mobil.se
 
 ## World News
 
@@ -36,14 +36,14 @@ _Updated: 2025-11-13 07:44_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Pressen ökar på Sverige – ”en skrämmande bild” - SvD
+- Marriott Vacations Worldwide Announces Leadership Changes, Appoints Matthew E. Avril as Interim President and CEO - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global Payments Launches Modular Countertop Designed for Genius - Placera.se
 - Global Series ger spelarna tillfälle att skapa minnen - NHL.com
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -51,15 +51,14 @@ _Updated: 2025-11-13 07:44_
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -67,6 +66,7 @@ _Updated: 2025-11-13 07:44_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
@@ -106,14 +106,14 @@ _Updated: 2025-11-13 07:44_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-13 07:44_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
