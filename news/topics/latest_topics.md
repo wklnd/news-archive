@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 19:43_
+_Updated: 2025-11-13 20:50_
 
 ## Top Stories
 
 - DN Direkt – Thand Ringqvist blir ny partiledare för Centerpartiet - Dagens Nyheter
-- Båt har sjunkit i Mälaren – sökinsats pågår - GP
-- Fängelsepersonal och fångar anhållna misstänkta för grova mutbrott - Dagens Nyheter
-- Drabbad i olyckan: "Tycker Grönan ska skämmas” - Aftonbladet
-- Tio år efter Parisattentaten: Exflickvän gripen - SVT Nyheter
-- Tidningen Kvartal: Även SVT klippte ihop Trumps tal - SVT Nyheter
-- Bris protest: Klär barnstatyer i fängelsekläder - GP
+- Fem personer begärs häktade – efter tillslag på anstalt - SVT Nyheter
+- Sökinsats fortsätter i vattnet utanför Ekerö – kvinna förd till sjukhus - SVT Nyheter
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- JUST NU: Kvinna försökte strypa barn – nu får hon ett långt fängelsestraff - NWT
+- Här rycker ryssarna fram – aggressivt - SvD
+- Sköt mot barnfamilj – då blev pojken själv skjuten - GP
+- Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
+- 13 november 13.57, Bedrägeri, Skellefteå - polisen.se
 - M-topp JO-anmäler kampanj om miljözon i Stockholm - Dagens Nyheter
-- Gasläcka i Oklahoma – hundratals evakuerade - Västerbottens-Kuriren
+- Våld mot kvinnor uppmärksammas när Uppsala lyser i orange - Uppsala kommun
+- Starka känslor när Paris minns 13 november-attentaten – ”I flera år var jag rädd för starka ljud” - Dagens Nyheter
 - Leo XIV: Skydda minderårigas värdighet inför AI - Vatican News
-- Zelenskyj besöker fronten efter ryska framsteg - GP
-- Trumps mardröm svors in - Expressen
-- Årets julklapp hyllar leken – även för vuxna - Svensk Handel
-- Nato-lyftet för Saabs "minihelikopter" - Dagens PS
-- Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
+- DN Direkt – Regeringen föreslår att språkkrav införs i äldreomsorgen - Dagens Nyheter
+- Marie Dackes “Igelkottens förunderliga värld” får utmärkelsen Årets pandabok 2026 - Via TT
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
+- Nato-lyftet för Saabs "minihelikopter" - Dagens PS
+- Årets julklapp hyllar leken – även för vuxna - Svensk Handel
+- Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 - Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
 
@@ -43,8 +43,8 @@ _Updated: 2025-11-13 19:43_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 42 svenska medicinforskare på global topplista - Life Science Sweden
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
+- Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -114,30 +114,30 @@ _Updated: 2025-11-13 19:43_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -159,6 +159,6 @@ _Updated: 2025-11-13 19:43_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
