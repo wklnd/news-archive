@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 09:40_
+_Updated: 2025-11-13 10:49_
 
 ## Top Stories
 
-- Det här är årets julklapp 2025 - SVT Nyheter
+- Elisabet förlorade sin son Björn – anmäldes aldrig till Ivo - Aftonbladet
+- Vapenfrågan splittrar SD: ”Man borde backa helt” - Omni
+- Uppåt i Asien efter USA-öppning - Västerbottens-Kuriren
+- Hertsöprofilen efter sprängningen: "Inget område är fredat" - Kuriren
 - Trumps mardröm svors in - Expressen
-- Gustav Uusihannu, Hertsöns fritidsgård: "Inget område är fredat" - Kuriren
-- Nedstängningen av USA över – Trump har skrivit under - GP
+- Två misstänkta farliga föremål utanför flerfamiljshus i Borås – VMA utfärdat - SVT Nyheter
 - Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
-- Flera aktiviteter för ett tryggt Håbo under En vecka fri från våld - Håbo
 - 13 november 07.06, Sammanfattning natt, Västernorrlands län - polisen.se
 - Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
-- Akademiska polisanmälde först efter tredje fallet - Västerbottens-Kuriren
 - 13 november 07.57, Sammanfattning natt, Östergötlands län - polisen.se
-- Lastbil kraschade in i marknad i Sydkorea – två döda - SVT Nyheter
-- Dimma gör att Ryssland kan avancera i Pokrovsk - Dagens Nyheter
-- Påven: AI inom vården måste säkerställa kvaliteten på omsorg - Vatican News
+- Kommun utreder miljonbetalning till terrorlistad - Västerbottens-Kuriren
+- Parolin: Skydd av barns värdighet i AI-eran - en av mänsklighetens största utmaningar - Vatican News
+- Tio år senare lever vi fortfarande med terrorhotet - UNT
 - Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
 - Högre livsmedelspriser pressade upp inflationen - Dagens industri
 - Guld och silver slår tillbaka – rusar efter nya rekord - Dagens PS
 - Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - Svantesson om en AI-bubbla: ”Jag är inte orolig” - SvD
+- Gyllene Bjällrans hederspris till Lilla Aktuellt - SVT Om oss
 - Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
-- (+) Duell: Vikbara Honor Magic V5 mot Samsung Galaxy Z Fold 7 - mobil.se
 
 ## World News
 
@@ -51,14 +51,14 @@ _Updated: 2025-11-13 09:40_
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -66,10 +66,10 @@ _Updated: 2025-11-13 09:40_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 
 ## Business
 
@@ -102,20 +102,20 @@ _Updated: 2025-11-13 09:40_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -129,16 +129,16 @@ _Updated: 2025-11-13 09:40_
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
 
