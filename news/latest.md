@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-13 17:50_
+_Updated: 2025-11-13 18:55_
 
-- Government shutdown live updates as federal agencies begin to reopen - CBS News
-- The 9 most shocking revelations in the Epstein docs - Politico
-- Judge hears challenge to Trump's appointment of Lindsey Halligan, the prosecutor in James Comey and Letitia James cases - NBC News
-- The Northern Lights decorate U.S. skies during geomagnetic storm - Axios
-- SNAP funding pause to soon end, but anxiety and anger may linger - NPR
-- Erik Bottcher Joins Crowded House Primary to Succeed Nadler - The New York Times
+- Government shutdown live updates as federal agencies reopen and employees return to work - CBS News
+- Late Night Pops Off on Trump Popping Up in Epstein Email Thread - The New York Times
+- Rep. Grijalva signs petition on Epstein files, giving it the 218th signature needed to force House vote - PBS
+- Congress tightens THC restrictions on hemp, closing farm bill loophole - The Washington Post
+- Comey, James in court today to toss Trump-appointed prosecutor's cases - Axios
+- 10 years after Bataclan massacre, Paris is still scarred by Islamic State attacks - AP News
 - Hundreds evacuated and dozens hospitalized after an ammonia gas leak in Oklahoma - AP News
-- U.S. Catholic bishops call for end to "dehumanizing rhetoric" on immigrants - Axios
-- Shutdown deal sparks latest round of Democrat infighting - Politico
+- Oklahoma is set to execute a man after a state panel recommended his life be spared - NBC News
+- Miner who went missing in flooding found dead in West Virginia after dayslong search, governor says - CBS News
+- Massive great white shark pings near New Jersey after visiting Canada - CBS News
 - Iraq Election Results Set Stage for a Long Power Struggle - The Wall Street Journal
-- Groundbreaking analysis of Hitler’s DNA finds genetic disorder but no Jewish ancestry - The Times of Israel
 - Israel deported Palestinian prisoners to Egypt. Some Israelis question the practice - NPR
+- Groundbreaking analysis of Hitler’s DNA finds genetic disorder but no Jewish ancestry - The Times of Israel
 - I Watched This Haven From War Turn Into a Besieged Wasteland - The New York Times
 - Disney+ Adds 3.8 Million Subscribers, Hulu Packs on 8.6 Million Amid Kimmel Controversy in September Quarter - Variety
-- Starbucks union baristas walk out on Red Cup Day in push for contract talks - Reuters
-- October Jobs Report to Skip Unemployment Rate, Hassett Says - Bloomberg.com
-- Stock Market Today: Dow Falls After Shutdown Ends; Nasdaq Leads Losses — Live Updates - The Wall Street Journal
+- Stock Market Today: Nasdaq Leads Losses After Shutdown Ends - The Wall Street Journal
+- End of US government shutdown won't lift economic fog - Reuters
+- Starbucks workers strike at some stores nationwide in 'Red Cup rebellion,' union says - abcnews.go.com
 - The OnePlus 15 is the phone to buy if you hate charging your phone - The Verge
 - Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC
-- iPhone 16e Has Apparently 'Failed' Just Like iPhone Air - MacRumors
