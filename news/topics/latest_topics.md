@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 15:09_
+_Updated: 2025-11-13 15:50_
 
 ## Top Stories
 
 - Helena, 47, skulle hjälpa – mördades - Expressen
 - En gripen för försök till grov misshandel på skola – hade yxa - SVT Nyheter
-- Tio år senare lever vi fortfarande med terrorhotet - UNT
-- Skatteverkets generaldirektör utreds för brott mot tystnadsplikten - Dagens Nyheter
 - Tonåring döms för mordförsök efter chocknatten – flera skott avlossades mot barnfamiljen - NLT
-- Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
+- Skatteverkets generaldirektör utreds för brott mot tystnadsplikten - Dagens Nyheter
+- Busch vill ha med S i förhandling om kärnkraft - Västerbottens-Kuriren
+- Sacos nya ordförande: Förbättra möjligheterna till livslångt lärande - Altinget.se
 - 13 november 06.57, Farligt föremål, misstänkt, Borås - polisen.se
 - Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
 - 13 november 07.06, Sammanfattning natt, Västernorrlands län - polisen.se
-- Sacos nya ordförande: Förbättra möjligheterna till livslångt lärande - Altinget.se
+- Regeringen: Ingen ny underrättelsechef - GP
 - Trumps mardröm svors in - Expressen
 - Lastbil kraschade in i marknad i Sydkorea – två döda - SVT Nyheter
+- Tio år senare lever vi fortfarande med terrorhotet - UNT
 - Leo XIV: Skydda minderårigas värdighet inför AI - Vatican News
-- Marie Dackes “Igelkottens förunderliga värld” får utmärkelsen Årets pandabok 2026 - Världsnaturfonden WWF
-- Matpriserna steg igen i oktober - Statistikmyndigheten SCB
-- Vuxenleksaker är årets julklapp - Hufvudstadsbladet
+- Inflationen oförändrad – men matpriserna stiger: "Ingen ko på isen" - Placera.se
+- Leksaker för vuxna – verklighetsflykt är årets julklapp - Göteborgs universitet
 - Elon AB (publ) utser extern och oberoende part för genomförande av utredning av interna processer - Cision News
-- EU misstänker Red Bull för konkurrensbrott - Folkbladet
+- Omorganisation på EFN – 20-tal tjänster påverkas - Dagens Nyheter
+- Chatta och ställ dina frågor om översiktsplanen - Svedala kommun
 - Steam machine avtäckt – ska konkurrera med Xbox och Playstation - SVT Nyheter
-- Gyllene Bjällrans hederspris till Lilla Aktuellt - SVT Om oss
 
 ## World News
 
@@ -32,10 +32,10 @@ _Updated: 2025-11-13 15:09_
 - Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
-- Succébandet Bolaget på plats för Global Series - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -44,22 +44,21 @@ _Updated: 2025-11-13 15:09_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Merck to Participate in the Jefferies Global Healthcare Conference in London - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -67,6 +66,7 @@ _Updated: 2025-11-13 15:09_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
@@ -99,17 +99,17 @@ _Updated: 2025-11-13 15:09_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -146,19 +146,19 @@ _Updated: 2025-11-13 15:09_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Patrik Niklasson ny Doggy - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
