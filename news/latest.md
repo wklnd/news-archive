@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-13 01:48_
+_Updated: 2025-11-13 04:24_
 
-- Jeffrey Epstein, in newly released email, says Trump ‘knew about the girls’ - Politico
-- Rep. Adelita Grijalva is finally sworn in as the House’s newest Democrat, paving way for Epstein files vote - CNN
+- House Democrats release new Epstein emails referencing Trump - abcnews.go.com
+- Government shutdown live updates as House convenes to take up funding bill ahead of final vote - CBS News
 - House Democrats plot to bypass Mike Johnson in effort to salvage shutdown deal - Axios
 - Hundreds detained as part of federal immigration 'Operation Midway Blitz' ordered released on bond, judge says - ABC7 Chicago
-- The U.S. saw vivid northern lights as far south as Florida — and more could be coming - NPR
-- Trump defends H-1B visas: "You don't have certain talents" in the U.S. - Axios
-- UPS plane crash victims include a man and his 3-year-old granddaughter - CBS News
 - By Not Funding Food Stamps, Trump Risks Lasting Damage to Safety Net - The New York Times
-- How Some Democratic Voters Feel About the Senate Deal to End the Shutdown - The New York Times
-- Gov. Gavin Newsom’s former chief of staff arrested by FBI public corruption probe - Sacramento Bee
-- Pakistan opens investigation into Islamabad terror attack - The Guardian
-- Passenger Bus Plunges Into a Ravine in Southern Peru Killing at Least 37 - VINnews
-- Sotheby's says a diamond brooch lost by Napoleon as his forces fled Waterloo sells for $4.4 million - AP News
-- Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge - BBC
-- US Mint in Philadelphia presses final pennies as the 1-cent coin gets canceled - abcnews.go.com
+- Northern Lights display expected for 2nd night in a row for these US states - abcnews.go.com
+- Trump nails BBC on similar tape-editing claim that led to controversial '60 Minutes' settlement as news chief, director-general resign - Fortune
+- Venezuela launches huge military exercise as U.S. Navy flotilla nears Caribbean waters - CBS News
+- Jack Schlossberg is shamelessly ripping off JFK Jr. with his new political campaign - New York Post
+- Trump letter urges Israel's president to pardon PM Netanyahu - BBC
+- Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal - AP News
+- Israeli president condemns ‘serious’ attack by settlers on West Bank villages - The Guardian
+- Who are India and Pakistan blaming for Delhi, Islamabad blasts? - Al Jazeera
+- PMQs live: Keir Starmer says he 'never authorised' attacks on ministers - BBC
+- US ends penny-making run after more than 230 years - BBC
 - Air travel chaos will linger long after the government reopens - The Verge
-- Stock Market Today: Dow Tops 48000; Gold and Silver Rally - The Wall Street Journal
-- Skims valued at $5 billion after new funding round as it accelerates store expansion - CNBC
+- October jobs data may never be released, White House says - Politico
+- Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates - CNBC
 - We tried Valve’s new VR headset, PC, and controller — ask us anything! - The Verge
-- OpenAI releases ‘warmer, more intelligent’ GPT-5.1 for ChatGPT - 9to5Mac
+- Apple introduces Digital ID, a new way to create and present an ID in Apple Wallet - Apple
