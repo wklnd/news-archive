@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-13 15:53_
+_Updated: 2025-11-13 16:48_
 
 - Trump Signs Spending Bill, Ending Longest Shutdown in U.S. History - The Wall Street Journal
-- Epstein files become a fiasco of Trump's own making - Axios
-- Rep. Lauren Boebert helps force House vote on release of Epstein files - Colorado Public Radio
-- Trump organization requested record number of foreign workers in 2025 - The Hill
-- Unexpected places see northern lights across the world, in pictures - CNN
-- Bay Area Braces for Heavy Rain, Fierce Winds During Thursday Morning Commute - KQED
-- Judge hears challenge to Trump's appointment of Lindsey Halligan, the prosecutor in James Comey and Letitia James cases - NBC News
-- Catholic Bishops Rebuke Trump’s Immigration Tactics in Rare Statement - The New York Times
+- Latest Epstein files knock White House on it heels - Politico
+- Lawyers for Comey, Letitia James to argue in court that their cases should be dismissed - CBS News
+- The Northern Lights decorate U.S. skies during geomagnetic storm - Axios
 - SNAP funding pause to soon end, but anxiety and anger may linger - NPR
+- Bay Area Braces for Heavy Rain, Fierce Winds During Thursday Morning Commute - KQED
+- Ammonia leak in Oklahoma leaves dozens hospitalized, forces hundreds to evacuate - CBS News
+- U.S. Catholic bishops call for end to "dehumanizing rhetoric" on immigrants - Axios
 - Shutdown deal sparks latest round of Democrat infighting - Politico
-- How France Remembers the November 2015 Terrorist Attacks in Paris - The New York Times
+- Iraq Election Results Set Stage for a Long Power Struggle - The Wall Street Journal
 - Groundbreaking analysis of Hitler’s DNA finds genetic disorder but no Jewish ancestry - The Times of Israel
 - Israel deported Palestinian prisoners to Egypt. Some Israelis question the practice - NPR
-- Iraq’s Prime Minister Leads in Elections but May Struggle to Form a Government - The New York Times
-- Here's what to expect when Disney reports earnings before the bell - CNBC
-- UK economy barely grows in the third quarter, missing forecasts ahead of crucial budget - CNBC
-- 50-year mortgages? NFL kickoff rules? Here's where some of Trump's latest jaw-dropping musings stand - AP News
+- I Watched This Haven From War Turn Into a Besieged Wasteland - The New York Times
+- Disney raises dividend and buybacks as theme parks defy downturn fears - Financial Times
+- Starbucks workers kick off 65-store US strike on company’s busy Red Cup Day - AP News
 - Stock Market Today: S&P 500 Futures Inc Lower After Shutdown Ends; Disney Falls — Live Updates - The Wall Street Journal
+- The Trump administration is ‘actively evaluating’ portable mortgages. What you need to know - CNN
 - Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC
+- DJI’s Neo 2 selfie drone launches globally, but not in the US - The Verge
 - Samsung’s trifold gets a name and ‘confirmed’ specs - The Verge
