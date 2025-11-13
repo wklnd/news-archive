@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-13 10:49_
+_Updated: 2025-11-13 11:43_
 
 ## Top Stories
 
+- Siw Malmkvist blir årets julvärd i SVT - Dagens Nyheter
 - Elisabet förlorade sin son Björn – anmäldes aldrig till Ivo - Aftonbladet
 - Vapenfrågan splittrar SD: ”Man borde backa helt” - Omni
-- Uppåt i Asien efter USA-öppning - Västerbottens-Kuriren
 - Hertsöprofilen efter sprängningen: "Inget område är fredat" - Kuriren
-- Trumps mardröm svors in - Expressen
-- Två misstänkta farliga föremål utanför flerfamiljshus i Borås – VMA utfärdat - SVT Nyheter
+- Uppåt i Asien efter USA-öppning - Västerbottens-Kuriren
+- 13 november 06.57, Farligt föremål, misstänkt, Borås - polisen.se
 - Insändare. Höj straffbarhetsåldern till 18 år - Dagens Nyheter
 - 13 november 07.06, Sammanfattning natt, Västernorrlands län - polisen.se
 - Jönköping har landets tredje godaste vatten – de har det bästa - SVT Nyheter
 - 13 november 07.57, Sammanfattning natt, Östergötlands län - polisen.se
+- Trumps mardröm svors in - Expressen
+- Lastbil kraschade in i marknad i Sydkorea – två döda - SVT Nyheter
 - Kommun utreder miljonbetalning till terrorlistad - Västerbottens-Kuriren
 - Parolin: Skydd av barns värdighet i AI-eran - en av mänsklighetens största utmaningar - Vatican News
-- Tio år senare lever vi fortfarande med terrorhotet - UNT
-- Pål Jonson deltar på Nordefco- och NB8-möte i Helsingfors - Regeringen.se
 - Högre livsmedelspriser pressade upp inflationen - Dagens industri
+- Vuxenleksaker är årets julklapp - Hufvudstadsbladet
 - Guld och silver slår tillbaka – rusar efter nya rekord - Dagens PS
-- Batljan om SBB-affären: ”En riktig trippelvinst” - EFN
 - Svantesson om en AI-bubbla: ”Jag är inte orolig” - SvD
+- Här är Googles nya giv för att locka företagen till Chromebooks - Computer Sweden
 - Gyllene Bjällrans hederspris till Lilla Aktuellt - SVT Om oss
-- Steam Machine återupplivas – nu med SteamOS och AMD-hårdvara - Nordichardware
 
 ## World News
 
-- Succébandet Bolaget på plats för Global Series - NHL.com
+- Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -44,7 +44,7 @@ _Updated: 2025-11-13 10:49_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Pressen ökar på Sverige – ”en skrämmande bild” - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- We Mean Business Coalition (WMBC): Global businesses unite at COP30 to show the "Return on Action" - Placera.se
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Amprius Strengthens Global Partnerships with Launch of the Amprius Korea Battery Alliance - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -102,43 +102,43 @@ _Updated: 2025-11-13 10:49_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2025-11-13 10:49_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Mer bioenergi och mindre negativa miljöeffekter med multifunktionellt jordbruk - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
