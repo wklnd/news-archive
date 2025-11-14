@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 15:06_
+_Updated: 2025-11-14 15:46_
 
 ## Top Stories
 
-- DN Direkt – Tonåring döms för mord i Södertälje - Dagens Nyheter
-- Höghus attackerade i Kiev – flera döda - GP
-- Busch: KD garant för en högerregering - Västerbottens-Kuriren
+- Ryskt anfall på höghus i Kiev i natt – många skadade - Dagens Nyheter
+- 17-åring döms för mord i Södertälje - Omni
 - Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
-- Läkemedlet Subutex försvinner från Sverige - GP
+- Busch: KD garant för en högerregering - Västerbottens-Kuriren
 - Efter petningen – Jomshof backar Stegrud - GP
-- DN Direkt – Misstänks för morduppdrag i Danmark – tonårsflicka utlämnas - Dagens Nyheter
-- Brand i radhus – kvinna fick föras till sjukhus - Hallandsposten
-- Kvinna hittad död i dike – misstänkt smitningsolycka - GP
-- Utpekad för Stuvkällarmordet erkänner stöld från blind 90-åring – ”Ångrar mig” - Dagens Nyheter
-- DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
-- 12 000 nordkoreaner ska bygga ryska drönare - GP
+- Afrika: Nya investeringar i solenergi - Global Bar Magazine
+- Svantesson vill stoppa moms på parkeringsplatser - Västerbottens-Kuriren
+- DN Direkt – Tonårsflickor misstänks för morduppdrag i Danmark – 17-åring utlämnas - Dagens Nyheter
+- Våldet bakom stängda dörrar måste upp i ljuset – stor polisinsats i Östergötland - Polisen.se
+- ”Kan inte ens komma på tanken” - Nerikes Allehanda
+- 12 000 nordkoreaner ska bygga ryska drönare - Västerbottens-Kuriren
 - EU-dom: Ingen gin utan alkohol - GP
+- DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
 - Indisk minister: Bildådet i New Delhi var terrorism - Omni
-- Arbetslösheten steg i oktober - Dagens industri
-- ”Man lämnar inte när det blåser motvind” - EFN
-- Michael Burry varvar ner Scion när han växer "ur synk" med marknaderna: inuti hans motstridiga samtal - Invezz
-- Datumslarv ledde till vite: ”Vi tar det på största allvar” - Dagligvarunytt
+- Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
+- SCB: Arbetslösheten ökar - Västerbottens-Kuriren
+- Räntebaksmälla pressar politiken: ”Snöbollseffekt” - Dagens Nyheter
+- Svenske Mikael Dolsten drar tillbaka kandidatur till Novo Nordisk styrelse - Dagens industri
 - Steam Frame har presenterats – 7 saker du behöver veta om Valves utmanare till Quest 3 - TechRadar
-- Open AI testar gruppchattar i Chat GPT - Computer Sweden
+- OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 
 ## World News
 
+- S&P Global Introduces S&P Global Energy - Placera.se
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
-- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
-- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
-- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -58,9 +58,10 @@ _Updated: 2025-11-14 15:06_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -69,20 +70,17 @@ _Updated: 2025-11-14 15:06_
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +91,8 @@ _Updated: 2025-11-14 15:06_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
