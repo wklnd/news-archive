@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-14 11:49_
+_Updated: 2025-11-14 12:51_
 
+- Emails reveal Jeffrey Epstein and associate discussed ‘girls’ and travel - The Guardian
 - Republicans Tried to Squelch the Epstein Furor. Instead, They Fed It. - The New York Times
-- Forty-two days: how the US shutdown unfolded in key moments - The Guardian
-- What new Epstein emails say. And, ACA subsidies in limbo - NPR
-- THC gummies and drinks face ban under provision in government spending bill - abcnews.go.com
 - BBC apologises to Trump over Panorama edit but refuses to pay compensation - BBC
+- THC gummies and drinks face ban under provision in government spending bill - abcnews.go.com
 - U.S. to remove tariffs on some products from Ecuador, Argentina, Guatemala and El Salvador - CNBC
-- Oklahoma death row inmate found unresponsive in cell after being granted clemency on day of execution - CBS News
+- U.S. conducts 20th strike on alleged drug boat, killing 4 people in Caribbean Sea - CBS News
+- Forty-two days: how the US shutdown unfolded in key moments - The Guardian
 - Trump’s next immigration crackdown will target Charlotte, North Carolina, a sheriff says - AP News
-- Comey and James seek case dismissal, arguing prosecutor was illegally appointed - NPR
-- Texas A&M system approves policy to restrict faculty from advocating “race and gender ideology” - The Texas Tribune
-- Russia's massive attack on Kyiv kills 4, injures 27 - NBC News
+- Oklahoma death row inmate found unresponsive in cell after being granted clemency on day of execution - CBS News
+- Pack Fire 0% contained, has burned 3,400 acres, some evacuation orders lifted | Fire Watch | 2news.com - KTVN
+- Russia launches wave of deadly strikes across Kyiv, officials say - BBC
 - UK borrowing costs spike on report government to scrap plans to raise income tax - CNBC
-- 10 years after the Bataclan massacre, Paris is still scarred by that night of terror - AP News
-- Colombia’s ‘lost children’ remain open wound 40 years after deadly volcanic eruption - Reuters
-- Portable Mortgages Could Break the Housing Market Lock-In—but Do Little for Affordability - Realtor.com
-- Verizon rumored to be laying-off up to 25% of 5G enterprise team as part of larger cuts - Fierce Network
-- Here’s When And What To Expect From Delayed Economic Reports - Forbes
-- US markets struggle amid tech sell-off and economic uncertainty | Stock markets - The Guardian
-- OnePlus 15 vs Galaxy S25 Ultra: Sample Photos Comparison - PhoneArena
-- iOS 26.2 Adds New CarPlay Setting - MacRumors
+- A decade after the Bataclan attacks, France is still grappling with how to remember - NPR
+- Chinese astronauts return from space station after delay blamed on space debris damage - AP News
+- ‘50-year mortgage’ proposal lands in Utah with mixed reviews - Deseret News
+- Tech Voices: Verizon layoffs, xAI funding, Tesla battery recall - Seeking Alpha
+- More than 1,000 Starbucks workers strike at 65 stores on Red Cup Day - NBC News
+- Stock Market Today: S&P 500 Futures, Bitcoin Fall — Live Updates - The Wall Street Journal
+- OnePlus 15 vs OnePlus 13: Sample Photos Comparison - PhoneArena
+- Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types - TechCrunch
