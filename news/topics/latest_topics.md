@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 21:37_
+_Updated: 2025-11-14 22:42_
 
 ## Top Stories
 
 - Allvarlig bussolycka på Valhallavägen i Stockholm - Krisinformation.se
-- Direkt – Kriget i Ukraina – Kreml uppges rekrytera 12 000 nordkoreaner till drönarfabriker - Dagens Nyheter
-- Tidigare fängelseanställda häktas för mutbrott - Västerbottens-Kuriren
-- Två häktade i Spanien för rånmord på svensk - GP
-- Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
-- Margaretapaviljongen nära att få ny krögare - Sydsvenskan
+- DN Direkt – Tidigare fångvårdare häktade i muthärvan på fängelset - Dagens Nyheter
+- Ny metod ger ledtrådar om mammutens dödsögonblick - Dagens Nyheter
+- Styret vill stänga fyra skolor – en räddas kvar - GP
+- Klart: Miljardböter för familjen bakom Oxycontin - GP
+- Zelenskyjs rykte på spel efter korruptionsskandalen - GP
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Därför kommer Elisabeth Thand Ringqvist se till att din röst är värdelös - Arbetet
 - En vecka fri från våld: ”Våga se och våga fråga” - Mora Tidning
+- ”Kan inte ens komma på tanken” - Nerikes Allehanda
+- Många skadade i ”massiv” rysk attack mot Kiev - Hufvudstadsbladet
 - Trumps mardröm svors in - Expressen
 - Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
 - Israel återbördar dödade palestinier till Gaza - GP
-- Trump benådar tidigare Tottenhamägaren Lewis - GP
 - Saab får beställningar på sensorsystemet Arexis till tyska Eurofighter - Cision News
 - Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
 - Europabörserna: Teknikoro pressade röda börser - Dagens industri
-- Affärsvärlden ger säljråd för Academedia inför valåret - Affärsvärlden
+- Rekordhögt pris på guld i oktober - METALLERochGRUVOR.se
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
@@ -32,6 +32,7 @@ _Updated: 2025-11-14 21:37_
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -44,7 +45,6 @@ _Updated: 2025-11-14 21:37_
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Matchdag: NHL.com/sv från Avicii Arena - NHL.com
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
-- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
