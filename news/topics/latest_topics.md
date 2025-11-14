@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 17:41_
+_Updated: 2025-11-14 18:50_
 
 ## Top Stories
 
-- Buss har rammat busskur – flera allvarligt skadade - SVT Nyheter
-- Ryskt anfall på höghus i Kiev i natt – många skadade - Dagens Nyheter
-- 15-åringar döms – greps med tio handgranater - Västerbottens-Kuriren
-- Svenskar skyldiga till mordförsök i Danmark - Aftonbladet
-- Buss har kört in i busskur i Stockholm - GP
-- COP30 – här är veckans viktiga händelser - Aktuell Hållbarhet
+- DN Direkt – Buss har kört in i kur på Östermalm – flera allvarligt skadade - Dagens Nyheter
+- Höghus attackerade i Kiev – flera döda - Västerbottens-Kuriren
+- Tio granater i ryggsäcken – tre 15-åringar dömda - GP
+- Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
+- Vecka 47 - En vecka fri från våld - Länsstyrelsen
 - Ministern efter kritiken mot återvändandecenter: ”Självklart ska kommunerna ersättas” - Dagens Nyheter
-- Därför kommer Elisabeth Thand Ringqvist se till att din röst är värdelös - Arbetet
-- Svantesson vill stoppa moms på parkeringsplatser - Aftonbladet
+- 17-årig pojke döms för mord i gångtunnel i Södertälje - Dagens Nyheter
+- Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
+- Svantesson vill stoppa moms på parkeringsplatser - Västerbottens-Kuriren
 - DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
-- 12 000 nordkoreaner ska bygga ryska drönare - Västerbottens-Kuriren
-- Farhågor om massakrer: Staden är en brottsplats - GP
+- Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
 - Israel återbördar dödade palestinier till Gaza - GP
+- Trump benådar tidigare Tottenhamägaren Lewis - GP
 - Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
-- SCB: Arbetslösheten ökar - Västerbottens-Kuriren
-- Räntebaksmälla pressar politiken: ”Snöbollseffekt” - Dagens Nyheter
 - Mikael Dolsten hoppar av kandidatur till Novos styrelse - Life Science Sweden
+- SCB: Arbetslösheten ökar - Västerbottens-Kuriren
+- Tech-profilen om svenska AI-undret: "Stockholm extremt hett" - Dagens PS
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
-- Steam Machine – ny utmanare i konsolkriget - Aftonbladet
+- Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
 ## World News
 
@@ -38,11 +38,11 @@ _Updated: 2025-11-14 17:41_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
@@ -60,6 +60,7 @@ _Updated: 2025-11-14 17:41_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
@@ -69,15 +70,14 @@ _Updated: 2025-11-14 17:41_
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
