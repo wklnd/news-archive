@@ -1,42 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 18:50_
+_Updated: 2025-11-14 19:42_
 
 ## Top Stories
 
-- DN Direkt – Buss har kört in i kur på Östermalm – flera allvarligt skadade - Dagens Nyheter
-- Höghus attackerade i Kiev – flera döda - Västerbottens-Kuriren
-- Tio granater i ryggsäcken – tre 15-åringar dömda - GP
+- Uppgift: Minst tre döda i bussolycka - Dagens Nyheter
+- Flera döda i ”massiv” rysk attack mot Kiev - GP
+- KD säger ja till burkaförbud - Västerbottens-Kuriren
 - Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
-- Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
-- Vecka 47 - En vecka fri från våld - Länsstyrelsen
+- 15-åringar döms – greps med tio handgranater - Västerbottens-Kuriren
+- DN Direkt – Två häktade i Spanien för rånmord på svensk - Dagens Nyheter
 - Ministern efter kritiken mot återvändandecenter: ”Självklart ska kommunerna ersättas” - Dagens Nyheter
-- 17-årig pojke döms för mord i gångtunnel i Södertälje - Dagens Nyheter
+- Här väljs Centerpartiets nya ledare – på Karlstad CCC - NWT
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Svantesson vill stoppa moms på parkeringsplatser - Västerbottens-Kuriren
+- ”Kan inte ens komma på tanken” - Nerikes Allehanda
 - DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
+- Trumps mardröm svors in - Expressen
 - Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
 - Israel återbördar dödade palestinier till Gaza - GP
-- Trump benådar tidigare Tottenhamägaren Lewis - GP
 - Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
 - Mikael Dolsten hoppar av kandidatur till Novos styrelse - Life Science Sweden
-- SCB: Arbetslösheten ökar - Västerbottens-Kuriren
-- Tech-profilen om svenska AI-undret: "Stockholm extremt hett" - Dagens PS
+- Räntebaksmälla pressar politiken: ”Snöbollseffekt” - Dagens Nyheter
+- Orosmolnen som sänker börsen: ”Jag är bekymrad” - EFN
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
 ## World News
 
 - S&P Global Introduces S&P Global Energy - Placera.se
-- Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -45,6 +44,7 @@ _Updated: 2025-11-14 18:50_
 - Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
+- Matchdag: NHL.com/sv från Avicii Arena - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -58,10 +58,10 @@ _Updated: 2025-11-14 18:50_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -75,14 +75,13 @@ _Updated: 2025-11-14 18:50_
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2025-11-14 18:50_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -104,40 +104,40 @@ _Updated: 2025-11-14 18:50_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
