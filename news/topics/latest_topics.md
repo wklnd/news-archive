@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 16:42_
+_Updated: 2025-11-14 17:41_
 
 ## Top Stories
 
+- Buss har rammat busskur – flera allvarligt skadade - SVT Nyheter
 - Ryskt anfall på höghus i Kiev i natt – många skadade - Dagens Nyheter
-- Tonåringar döms för dödsskjutning i Södertälje - Västerbottens-Kuriren
-- Tio granater i ryggsäcken – tre 15-åringar dömda - GP
-- Afrika: Nya investeringar i solenergi - Global Bar Magazine
-- Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
-- Efter petningen – Jomshof backar Stegrud - GP
+- 15-åringar döms – greps med tio handgranater - Västerbottens-Kuriren
+- Svenskar skyldiga till mordförsök i Danmark - Aftonbladet
+- Buss har kört in i busskur i Stockholm - GP
+- COP30 – här är veckans viktiga händelser - Aktuell Hållbarhet
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
-- Misstanke: Svenska tonårsflickor på morduppdrag - GP
-- Svantesson vill stoppa moms på parkeringsplatser - Västerbottens-Kuriren
-- Lokala insatser i Västerbotten mot våld i nära relation - polisen.se
+- Ministern efter kritiken mot återvändandecenter: ”Självklart ska kommunerna ersättas” - Dagens Nyheter
+- Därför kommer Elisabeth Thand Ringqvist se till att din röst är värdelös - Arbetet
+- Svantesson vill stoppa moms på parkeringsplatser - Aftonbladet
 - DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
 - 12 000 nordkoreaner ska bygga ryska drönare - Västerbottens-Kuriren
-- Indisk minister: Bildådet i New Delhi var terrorism - Omni
 - Farhågor om massakrer: Staden är en brottsplats - GP
+- Israel återbördar dödade palestinier till Gaza - GP
 - Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
 - SCB: Arbetslösheten ökar - Västerbottens-Kuriren
 - Räntebaksmälla pressar politiken: ”Snöbollseffekt” - Dagens Nyheter
 - Mikael Dolsten hoppar av kandidatur till Novos styrelse - Life Science Sweden
-- Steam Machine vs Steam Deck: de 4 största skillnaderna förklarade - TechRadar
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
+- Steam Machine – ny utmanare i konsolkriget - Aftonbladet
 
 ## World News
 
@@ -38,12 +38,12 @@ _Updated: 2025-11-14 16:42_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
-- Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
-- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -58,10 +58,9 @@ _Updated: 2025-11-14 16:42_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -70,14 +69,15 @@ _Updated: 2025-11-14 16:42_
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Connected cars, in-car payments driving the auto economy - mastercard.com
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -121,23 +121,23 @@ _Updated: 2025-11-14 16:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -150,6 +150,7 @@ _Updated: 2025-11-14 16:42_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
@@ -161,4 +162,3 @@ _Updated: 2025-11-14 16:42_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
