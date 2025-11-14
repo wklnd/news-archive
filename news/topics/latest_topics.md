@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 07:42_
+_Updated: 2025-11-14 08:51_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Flera skadade i attack mot Kiev - Dagens Nyheter
+- Kvinna på cykel död efter smitningsolycka – man misstänkt - Aftonbladet
+- Många skadade i ”massiv” rysk attack mot Kiev - Hufvudstadsbladet
 - Bil körde ner i vattnet i Filipstad – man död - SVT Nyheter
+- Risk för isiga vägar i Värmland – kylan stannar kvar: ”Inte otänkbart” - NWT
+- Kina kallar upp Japans ambassadör för Taiwanstöd - SVT Nyheter
 - Anna-Maria stötte på morddömda exet på jobbet - Aftonbladet
-- Kina kallar upp Japans ambassadör för Taiwanstöd - GP
-- Polisbil på utryckning i krock i Malmö - SVT Nyheter
-- Debatt: Idrottsrörelsen bygger ett starkare Sverige - NWT
 - M-topp kräver att återvändandecentret stängs - Dagens Nyheter
-- SD vill begränsa lagen om hets mot folkgrupp - Sydsvenskan
+- SD vill begränsa lagen om hets mot folkgrupp - Västerbottens-Kuriren
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
 - Unizon: Varje vecka måste vara fri från våld – vi kräver nollvision - Altinget.se
 - Israel: Fjärde sista gisslan återlämnad - Västerbottens-Kuriren
+- Stubb: Är gärna både Trump- och Zelenskyj-viskare - GP
 - COP30: Tre nordiska länder lovar att bekämpa desinformation - Unric
-- Tio år senare lever vi fortfarande med terrorhotet - UNT
-- USA inleder operation mot ”narkotikaterrorister” - GP
+- USA inleder operation mot ”narkotikaterrorister” - Västerbottens-Kuriren
 - Dold ”sjuka” ställer inflationen på ända - SvD
-- New York-börserna öppnar nedåt – Cisco stiger efter rapport - Dagens industri
-- Mångmiljonstöd ska lyfta svensk teknikkompetens - Örebronyheter
-- Avvaktande modehandel i oktober - Svensk Handel
+- Hela världen blickar mot solen – draghjälp från jätten - Dagens PS
+- Källor: EFN genomför stora neddragningar - Dagens Media - Placera.se
+- DN Direkt – Kvinna döms – lurade till sig liftkortspengar - Dagens Nyheter
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 - Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
 
@@ -103,42 +103,42 @@ _Updated: 2025-11-14 07:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
