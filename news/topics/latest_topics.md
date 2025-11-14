@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 20:49_
+_Updated: 2025-11-14 21:37_
 
 ## Top Stories
 
-- Uppgift: Minst tre döda i bussolyckan på Östermalm - Dagens Nyheter
-- Anställda på anstalt misstänks ha tagit mutor - Publikt
+- Allvarlig bussolycka på Valhallavägen i Stockholm - Krisinformation.se
+- Direkt – Kriget i Ukraina – Kreml uppges rekrytera 12 000 nordkoreaner till drönarfabriker - Dagens Nyheter
+- Tidigare fängelseanställda häktas för mutbrott - Västerbottens-Kuriren
+- Två häktade i Spanien för rånmord på svensk - GP
 - Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
-- Höghus attackerade i Kiev – flera döda - GP
 - Margaretapaviljongen nära att få ny krögare - Sydsvenskan
-- Vecka 47 - En vecka fri från våld - Länsstyrelsen
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- ”Kan inte ens komma på tanken” - Nerikes Allehanda
 - Därför kommer Elisabeth Thand Ringqvist se till att din röst är värdelös - Arbetet
+- En vecka fri från våld: ”Våga se och våga fråga” - Mora Tidning
 - Trumps mardröm svors in - Expressen
 - Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
 - Israel återbördar dödade palestinier till Gaza - GP
-- DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
+- Trump benådar tidigare Tottenhamägaren Lewis - GP
 - Saab får beställningar på sensorsystemet Arexis till tyska Eurofighter - Cision News
 - Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
-- Räntebaksmälla pressar politiken: ”Snöbollseffekt” - Dagens Nyheter
-- Strateg om röda börserna: ”Lagom korrektioner är bra” - Omni
+- Europabörserna: Teknikoro pressade röda börser - Dagens industri
+- Affärsvärlden ger säljråd för Academedia inför valåret - Affärsvärlden
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
@@ -34,16 +34,16 @@ _Updated: 2025-11-14 20:49_
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
-- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
-- Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Matchdag: NHL.com/sv från Avicii Arena - NHL.com
+- Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -79,7 +79,7 @@ _Updated: 2025-11-14 20:49_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
@@ -121,20 +121,20 @@ _Updated: 2025-11-14 20:49_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- ”Research on bison completely wrong” - Forskning & Framsteg
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
@@ -154,11 +154,11 @@ _Updated: 2025-11-14 20:49_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
