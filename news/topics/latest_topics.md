@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 01:40_
+_Updated: 2025-11-14 04:19_
 
 ## Top Stories
 
-- Här rycker ryssarna fram – aggressivt - SvD
-- Polisbil på utryckning i krock i Malmö - SVT Nyheter
-- Övar för invasion med robotvargar under krisbråket - Aftonbladet
-- USA inleder operation mot ”narkotikaterrorister” - GP
+- Kina kallar upp Japans ambassadör för Taiwanstöd - GP
+- Kvinna död – misstänkt smitning i Töreboda - SVT Nyheter
+- Marianne sökte ny tjänst som 90-åring – fick jobbet - GP
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Stor räddningsinsats i Filipstad – bilist körde ner i vattnet - Dagens Nyheter
-- Fem personer begärs häktade – efter tillslag på anstalt - SVT Nyheter
-- Båt har sjunkit i Mälaren – en person saknas - GP
+- DN Direkt – BBC säger förlåt till Trump – men vill inte betala - Dagens Nyheter
+- Många skadade i ”massiv” rysk attack mot Kiev - GP
+- KVÄLLENS NYHETER: Stor insats efter att bil kört ner i vattnet • Olaglig övningskörning stoppad • Kvinna greps för rån - NWT
+- Bris protest: Klär barnstatyer i fängelsekläder - GP
 - 13 november 13.57, Bedrägeri, Skellefteå - polisen.se
-- Debatt. Reagera och agera om du misstänker att någon utsätts för våld - Corren
+- Fem personer begärs häktade – efter tillslag på anstalt - SVT Nyheter
+- Israel: Fjärde sista gisslan återlämnad - Västerbottens-Kuriren
 - Starka känslor när Paris minns 13 november-attentaten – ”I flera år var jag rädd för starka ljud” - Dagens Nyheter
-- Trumpstyre stämmer Kalifornien om valkretsar - GP
-- ”Sonia” stoppade Paris-terroristen: ”Har inget liv längre” - Dagens Nyheter
-- DN Direkt – Stellan Skarsgård får filmpris i Kalifornien - Dagens Nyheter
-- Cisco och Walt Disney åt skilda håll på Wall Street, S&P 500-index sjunker 0,6 procent - Placera.se
+- USA inleder operation mot ”narkotikaterrorister” - GP
+- Hatt löser ut historiska fallskärmen – kan få miljoner - Aftonbladet
 - Dold ”sjuka” ställer inflationen på ända - SvD
-- Disneys försäljning lägre än väntat – aktien faller - Dagens industri
-- Hård kritik mot KD-förslag: ”Extra märkligt” - SvD
-- Open AI släpper GPT-5.1 – ger fler personligheter i Chat GPT - Computer Sweden
+- Cisco och Walt Disney åt skilda håll på Wall Street, S&P 500-index sjunker 0,6 procent - Placera.se
+- EU granskar Red Bull – misstänks missbruka ställning - Dagens industri
+- Cementfabriken pausar stor satsning på koldioxidinfångning - tidningensyre.se
+- Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 
 ## World News
@@ -35,6 +35,7 @@ _Updated: 2025-11-14 01:40_
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Seoul teen who bridges cultures through Arabic wins top Global Korea Award - The Korea Times
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
@@ -43,7 +44,6 @@ _Updated: 2025-11-14 01:40_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 42 svenska medicinforskare på global topplista - Life Science Sweden
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -52,12 +52,13 @@ _Updated: 2025-11-14 01:40_
 
 - ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -66,10 +67,9 @@ _Updated: 2025-11-14 01:40_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 
 ## Business
 
@@ -112,10 +112,10 @@ _Updated: 2025-11-14 01:40_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Giftinformationscentralen varnar för skador efter e-cigaretter - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -126,13 +126,13 @@ _Updated: 2025-11-14 01:40_
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2025-11-14 01:40_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
