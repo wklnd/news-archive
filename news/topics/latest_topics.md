@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 08:51_
+_Updated: 2025-11-14 09:40_
 
 ## Top Stories
 
 - Kvinna på cykel död efter smitningsolycka – man misstänkt - Aftonbladet
-- Många skadade i ”massiv” rysk attack mot Kiev - Hufvudstadsbladet
+- Varning för halka i Västsverige - GP
+- Ryskt anfall på höghus i Kiev i natt – många skadade - Dagens Nyheter
 - Bil körde ner i vattnet i Filipstad – man död - SVT Nyheter
-- Risk för isiga vägar i Värmland – kylan stannar kvar: ”Inte otänkbart” - NWT
-- Kina kallar upp Japans ambassadör för Taiwanstöd - SVT Nyheter
-- Anna-Maria stötte på morddömda exet på jobbet - Aftonbladet
+- Nya C-ledaren sågar S ekonomiska politik - Västerbottens-Kuriren
+- Debatt: Idrottsrörelsen bygger ett starkare Sverige - NWT
 - M-topp kräver att återvändandecentret stängs - Dagens Nyheter
 - SD vill begränsa lagen om hets mot folkgrupp - Västerbottens-Kuriren
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
 - Unizon: Varje vecka måste vara fri från våld – vi kräver nollvision - Altinget.se
 - Israel: Fjärde sista gisslan återlämnad - Västerbottens-Kuriren
-- Stubb: Är gärna både Trump- och Zelenskyj-viskare - GP
+- Direkt – Kriget i Ukraina – Flera skadade i attack mot Kiev - Dagens Nyheter
+- Stubb om Niinistös Putin-utspel: Tiderna förändras - Hufvudstadsbladet
 - COP30: Tre nordiska länder lovar att bekämpa desinformation - Unric
-- USA inleder operation mot ”narkotikaterrorister” - Västerbottens-Kuriren
-- Dold ”sjuka” ställer inflationen på ända - SvD
+- DN Direkt – Matpriserna upp i oktober – glass och godis dyrare - Dagens Nyheter
 - Hela världen blickar mot solen – draghjälp från jätten - Dagens PS
-- Källor: EFN genomför stora neddragningar - Dagens Media - Placera.se
-- DN Direkt – Kvinna döms – lurade till sig liftkortspengar - Dagens Nyheter
+- Bitcoin under 100.000 dollar igen – faller med techsektorn - Dagens industri
+- Svenskens AI-bolag värderas till 275 miljarder - SvD
 - Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
 - Iphoneutmanaren har mognat – och blivit lite tråkig på köpet - Expressen
 
@@ -29,22 +29,22 @@ _Updated: 2025-11-14 08:51_
 
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
-- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Seoul teen who bridges cultures through Arabic wins top Global Korea Award - The Korea Times
-- Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 42 svenska medicinforskare på global topplista - Life Science Sweden
+- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
-- Karlsson blickar på OS-plats under Global Series - NHL.com
-- Succébandet Bolaget på plats för Global Series - NHL.com
+- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-14 08:51_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-11-14 08:51_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
