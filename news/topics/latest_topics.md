@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 12:45_
+_Updated: 2025-11-14 13:39_
 
 ## Top Stories
 
 - Lurades till gångtunnel och mördades – 17-åringar döms - Aftonbladet
-- Läkemedlet Subutex försvinner från Sverige - GP
-- Efter petningen – Jomshof backar Stegrud - GP
-- Tre män åtalas för synnerligen grovt narkotikabrott vid Umeå tingsrätt - SVT Nyheter
 - DN Direkt – Ebba Busch (KD): Det som driver oss är kärleken till andra - Dagens Nyheter
-- En död efter lägenhetsbrand på Kungsholmen - Mitt i
-- Kvinna hittad död i dike i Töreboda – misstänkt smitningsolycka - GP
+- Missbruksmedicin slutar säljas i Sverige - Västerbottens-Kuriren
+- Efter petningen – Jomshof backar Stegrud - GP
+- Ledare: Tidö blev kaotisk realitysåpa på tre dagar - Omni
 - Bil körde ner i vattnet i Filipstad – man död - SVT Nyheter
-- Reklam för viktläkemedel kan bryta mot lagen - Västerbottens-Kuriren
-- Våldet bakom stängda dörrar måste upp i ljuset – stor polisinsats i Östergötland - polisen.se
+- Kvinna hittad död i dike i Töreboda – misstänkt smitningsolycka - GP
+- Brand i radhus – kvinna fick föras till sjukhus - Hallandsposten
+- Utpekad för Stuvkällarmordet erkänner stöld från blind 90-åring – ”Ångrar mig” - Dagens Nyheter
+- Reklam för bantningsmedicin kan vara olaglig - ETC.se
 - Kraftiga attacker mot Kiev under natten: ”Oerhört tung natt” - SVT Nyheter
+- 12 000 nordkoreaner ska bygga ryska drönare - SvD
 - EU-dom: Ingen gin utan alkohol - GP
-- Trump benådar tidigare Tottenhamägaren Lewis - Västerbottens-Kuriren
-- Israel återbördar dödade palestinier till Gaza - GP
+- Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
 - Arbetslösheten steg i oktober - Dagens industri
 - Citi om Nibes rapport: ”Investerare väntade sig mer” - Dagens industri
 - Kryptokrasch: Bitcoin back 23 procent – 4 000 miljarder upp i rök - Dagens PS
-- Nu tar bostadsmarknadens sorgebarn revansch - Dagens PS
+- Academedia: Ingen aktie för valåret - Affärsvärlden
 - Open AI testar gruppchattar i Chat GPT - Omni
 - Red Dead 1 till PS5, Switch 2 och Xbox Series med "en rad förbättringar" - FZ.se
 
@@ -160,5 +160,5 @@ _Updated: 2025-11-14 12:45_
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
