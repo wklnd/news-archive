@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 15:46_
+_Updated: 2025-11-14 16:42_
 
 ## Top Stories
 
 - Ryskt anfall på höghus i Kiev i natt – många skadade - Dagens Nyheter
-- 17-åring döms för mord i Södertälje - Omni
-- Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
-- Busch: KD garant för en högerregering - Västerbottens-Kuriren
-- Efter petningen – Jomshof backar Stegrud - GP
+- Tonåringar döms för dödsskjutning i Södertälje - Västerbottens-Kuriren
+- Tio granater i ryggsäcken – tre 15-åringar dömda - GP
 - Afrika: Nya investeringar i solenergi - Global Bar Magazine
+- Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
+- Efter petningen – Jomshof backar Stegrud - GP
+- Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
+- Misstanke: Svenska tonårsflickor på morduppdrag - GP
 - Svantesson vill stoppa moms på parkeringsplatser - Västerbottens-Kuriren
-- DN Direkt – Tonårsflickor misstänks för morduppdrag i Danmark – 17-åring utlämnas - Dagens Nyheter
-- Våldet bakom stängda dörrar måste upp i ljuset – stor polisinsats i Östergötland - Polisen.se
-- ”Kan inte ens komma på tanken” - Nerikes Allehanda
-- 12 000 nordkoreaner ska bygga ryska drönare - Västerbottens-Kuriren
-- EU-dom: Ingen gin utan alkohol - GP
+- Lokala insatser i Västerbotten mot våld i nära relation - polisen.se
 - DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
+- 12 000 nordkoreaner ska bygga ryska drönare - Västerbottens-Kuriren
 - Indisk minister: Bildådet i New Delhi var terrorism - Omni
+- Farhågor om massakrer: Staden är en brottsplats - GP
 - Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
 - SCB: Arbetslösheten ökar - Västerbottens-Kuriren
 - Räntebaksmälla pressar politiken: ”Snöbollseffekt” - Dagens Nyheter
-- Svenske Mikael Dolsten drar tillbaka kandidatur till Novo Nordisk styrelse - Dagens industri
-- Steam Frame har presenterats – 7 saker du behöver veta om Valves utmanare till Quest 3 - TechRadar
+- Mikael Dolsten hoppar av kandidatur till Novos styrelse - Life Science Sweden
+- Steam Machine vs Steam Deck: de 4 största skillnaderna förklarade - TechRadar
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 
 ## World News
@@ -75,12 +75,14 @@ _Updated: 2025-11-14 15:46_
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -91,8 +93,6 @@ _Updated: 2025-11-14 15:46_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -104,12 +104,12 @@ _Updated: 2025-11-14 15:46_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -121,23 +121,23 @@ _Updated: 2025-11-14 15:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -154,11 +154,11 @@ _Updated: 2025-11-14 15:46_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
