@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 13:39_
+_Updated: 2025-11-14 15:06_
 
 ## Top Stories
 
-- Lurades till gångtunnel och mördades – 17-åringar döms - Aftonbladet
-- DN Direkt – Ebba Busch (KD): Det som driver oss är kärleken till andra - Dagens Nyheter
-- Missbruksmedicin slutar säljas i Sverige - Västerbottens-Kuriren
+- DN Direkt – Tonåring döms för mord i Södertälje - Dagens Nyheter
+- Höghus attackerade i Kiev – flera döda - GP
+- Busch: KD garant för en högerregering - Västerbottens-Kuriren
+- Tonåring från Halland döms för mordförsök i Danmark - SVT Nyheter
+- Läkemedlet Subutex försvinner från Sverige - GP
 - Efter petningen – Jomshof backar Stegrud - GP
-- Ledare: Tidö blev kaotisk realitysåpa på tre dagar - Omni
-- Bil körde ner i vattnet i Filipstad – man död - SVT Nyheter
-- Kvinna hittad död i dike i Töreboda – misstänkt smitningsolycka - GP
+- DN Direkt – Misstänks för morduppdrag i Danmark – tonårsflicka utlämnas - Dagens Nyheter
 - Brand i radhus – kvinna fick föras till sjukhus - Hallandsposten
+- Kvinna hittad död i dike – misstänkt smitningsolycka - GP
 - Utpekad för Stuvkällarmordet erkänner stöld från blind 90-åring – ”Ångrar mig” - Dagens Nyheter
-- Reklam för bantningsmedicin kan vara olaglig - ETC.se
-- Kraftiga attacker mot Kiev under natten: ”Oerhört tung natt” - SVT Nyheter
-- 12 000 nordkoreaner ska bygga ryska drönare - SvD
+- DN Direkt – Flera dödade i nytt amerikanskt anfall till havs - Dagens Nyheter
+- 12 000 nordkoreaner ska bygga ryska drönare - GP
 - EU-dom: Ingen gin utan alkohol - GP
-- Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
+- Indisk minister: Bildådet i New Delhi var terrorism - Omni
 - Arbetslösheten steg i oktober - Dagens industri
-- Citi om Nibes rapport: ”Investerare väntade sig mer” - Dagens industri
-- Kryptokrasch: Bitcoin back 23 procent – 4 000 miljarder upp i rök - Dagens PS
-- Academedia: Ingen aktie för valåret - Affärsvärlden
-- Open AI testar gruppchattar i Chat GPT - Omni
-- Red Dead 1 till PS5, Switch 2 och Xbox Series med "en rad förbättringar" - FZ.se
+- ”Man lämnar inte när det blåser motvind” - EFN
+- Michael Burry varvar ner Scion när han växer "ur synk" med marknaderna: inuti hans motstridiga samtal - Invezz
+- Datumslarv ledde till vite: ”Vi tar det på största allvar” - Dagligvarunytt
+- Steam Frame har presenterats – 7 saker du behöver veta om Valves utmanare till Quest 3 - TechRadar
+- Open AI testar gruppchattar i Chat GPT - Computer Sweden
 
 ## World News
 
+- Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Continuous improvement mindset drives Solution International to solve real-world parenting challenges - Placera.se
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
-- Succébandet Bolaget på plats för Global Series - NHL.com
-- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Macroeconomic crossroads: Tariffs, Fed policy, and the shifting global landscape | Business News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 42 svenska medicinforskare på global topplista - Life Science Sweden
-- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
+- Sweden at COP30: Global climate plans are insufficient - Sveriges Radio
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -53,13 +53,12 @@ _Updated: 2025-11-14 13:39_
 - ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -67,9 +66,10 @@ _Updated: 2025-11-14 13:39_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 
 ## Business
 
@@ -124,21 +124,21 @@ _Updated: 2025-11-14 13:39_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
