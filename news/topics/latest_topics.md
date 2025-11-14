@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-14 22:42_
+_Updated: 2025-11-14 23:39_
 
 ## Top Stories
 
 - Allvarlig bussolycka på Valhallavägen i Stockholm - Krisinformation.se
+- Just nu: Stopp på E4 på grund av olycka med flera lastbilar - Corren
 - DN Direkt – Tidigare fångvårdare häktade i muthärvan på fängelset - Dagens Nyheter
-- Ny metod ger ledtrådar om mammutens dödsögonblick - Dagens Nyheter
 - Styret vill stänga fyra skolor – en räddas kvar - GP
 - Klart: Miljardböter för familjen bakom Oxycontin - GP
 - Zelenskyjs rykte på spel efter korruptionsskandalen - GP
-- Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
+- Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - En vecka fri från våld: ”Våga se och våga fråga” - Mora Tidning
 - ”Kan inte ens komma på tanken” - Nerikes Allehanda
-- Många skadade i ”massiv” rysk attack mot Kiev - Hufvudstadsbladet
 - Trumps mardröm svors in - Expressen
 - Farhågor om massakrer: Staden är en brottsplats - Västerbottens-Kuriren
 - Israel återbördar dödade palestinier till Gaza - GP
+- Många skadade i ”massiv” rysk attack mot Kiev - Hufvudstadsbladet
 - Saab får beställningar på sensorsystemet Arexis till tyska Eurofighter - Cision News
-- Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
-- Europabörserna: Teknikoro pressade röda börser - Dagens industri
-- Rekordhögt pris på guld i oktober - METALLERochGRUVOR.se
+- Åldersglapp växer – men ”bilden stämmer inte” - SvD
+- VR tar över trafiken med Mälartåg - Publikt
+- Vägledning för leverantörer - SEB Group
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
-- Valve släpper Steam machine – då lanseras nya spelkonsolen - GP
+- Metroid Prime 4: Beyond förhandsgranskningsvideo läcker ut och löser några mysterier om Switch 2-spelet - notebookcheck.se
 
 ## World News
 
+- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - S&P Global Introduces S&P Global Energy - Placera.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- Succébandet Bolaget på plats för Global Series - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Malmöbo utpekad som ”global terrorist” - SVT Nyheter
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Matchdag: NHL.com/sv från Avicii Arena - NHL.com
 - Forsberg, Wilsby vill inspirera barn under Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
@@ -51,13 +51,13 @@ _Updated: 2025-11-14 22:42_
 ## Technology
 
 - ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -66,22 +66,23 @@ _Updated: 2025-11-14 22:42_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2025-11-14 22:42_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
