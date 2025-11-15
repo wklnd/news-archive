@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 15:01_
+_Updated: 2025-11-15 15:40_
 
 ## Top Stories
 
-- Skidskytte: Här går strömmen mitt i skidskyttesprinten i Idre - SVT Nyheter
-- Arbetet med att identifiera offren i bussolyckan fortsätter - Dagens Nyheter
+- DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
 - Skulle informera om återvandring – 20 kom - GP
-- Uppgifter: TV4-profilen ledig vid sexträff - Expressen
-- KD: ”Barnsmaker” på snus borde förbjudas - Omni
+- Uppgifter: TV4-profilen var ledig när han träffade kvinnan - Aftonbladet
+- KD: Förbjud barnsmaker på snus - Dagens Nyheter
+- Knivarna slipas i Köpenhamn - SvD
 - USAID-chefens fruktan: Kan vi hjälpa i framtiden? - SvD
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - Tullverkets larm: ”Extremt smuggeltryck mot Sverige” - Dagens Nyheter
-- Nya C-ledaren sågar S ekonomiska politik - Aftonbladet
+- VIKTOR BARTH-KRON: Så blev Ebba Busch Centerns hjälte - Expressen
 - ”Kan inte ens komma på tanken” - Nerikes Allehanda
-- DN Direkt – Epsteinhärvan: Trump bryter med tung Maga-profil - Dagens Nyheter
-- FN:s säkerhetsråd ska rösta om Trumps fredsplan - Västerbottens-Kuriren
+- Magas ”de fyras gäng” utmanar Trump i kongressen - Västerbottens-Kuriren
+- Nathan Shachar: Israel har förlorat kontrollen över det som sker i Gaza - Dagens Nyheter
 - Viktigast i veckan: Ukraina mellan terror, korruption och stora hjälpbehov - Europaportalen
 - Direkt – Krisen i Mellanöstern – Uppgift: Frigivna ur gisslan på väg för att besöka Trump - Dagens Nyheter
-- Colombia köper Jas Gripen i stor exportaffär - Regeringen.se
 - Ica:s vd Nina Jönsson: Vi har inte gjort otillbörliga prishöjningar 15 november 2025 - Ekots lördagsintervju - Sveriges Radio
+- Colombia köper Jas Gripen i stor exportaffär - Regeringen.se
 - Trump: Jag skrotar tull på kaffe - SvD
 - Se upp under rean – AI-bluffarna allt proffsigare - Västerbottens-Kuriren
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
-- Idag släpps nya ”Call of Duty” – kallas ”det konstigaste spelet i serien” - MovieZine
+- Ubisoft har ställt in ett Splinter Cell-spel som var under utveckling - notebookcheck.se
 
 ## World News
 
@@ -33,7 +33,6 @@ _Updated: 2025-11-15 15:01_
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
@@ -42,11 +41,12 @@ _Updated: 2025-11-15 15:01_
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -74,18 +74,18 @@ _Updated: 2025-11-15 15:01_
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
+- Student and entry-level programs - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
