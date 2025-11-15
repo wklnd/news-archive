@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 17:39_
+_Updated: 2025-11-15 18:43_
 
 ## Top Stories
 
-- 15.50: Sorgen efter bussolyckan – SVT sänder live – Flera döda i bussolycka i centrala Stockholm – följ senaste nytt - SVT Nyheter
-- DN Direkt – Ulf Kristersson besökte olycksplatsen - Dagens Nyheter
-- Knivarna slipas i Köpenhamn - SvD
-- Sänkt aktivitetsstöd drabbar tusentals: ”Pang bom, fem tusenlappar bort” - Dagens Nyheter
-- Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
-- KD: Förbjud barnsmaker på snus - Dagens Nyheter
+- Busschauffören släppt efter olyckan på Östermalm - Dagens Nyheter
+- Misstänkt farligt föremål vid Nordstan i Göteborg – en gripen - SVT Nyheter
+- Trump bryter med Magaprofil efter Epsteinbråk: ”Förrädare” - Dagens Nyheter
+- Trump: Ska stämma BBC på miljardbelopp - GP
+- Centerpartiet vill avkriminalisera narkotika i kroppen - SVT Nyheter
+- En vecka fri från våld i Tibro – besök av sommarpratare: ”Väldigt modig berättelse” - sla.se
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - VIKTOR BARTH-KRON: Så blev Ebba Busch Centerns hjälte - Expressen
-- Trafikolycka i Borås – oklart skadeläge - Expressen
 - Uppgifter: TV4-profilen var ledig när han träffade kvinnan - Aftonbladet
+- Kvinna hittad död i dike – misstänkt smitningsolycka - GP
 - Nathan Shachar: Israel har förlorat kontrollen över det som sker i Gaza - Dagens Nyheter
-- Magas ”de fyras gäng” utmanar Trump i kongressen - Västerbottens-Kuriren
-- DN Direkt – Unga borgmästaren: ”Jag ser dem i ögonen och säger att ’det är jag som leder här’” - Dagens Nyheter
+- Unga borgmästaren: ”Jag ser dem i ögonen och säger att ’det är jag som leder här’” - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Uppgift: Frigivna ur gisslan på väg för att besöka Trump - Dagens Nyheter
+- Kvinna gripen i Östersund misstänkt för mordförsök - SVT Nyheter
 - Colombia köper Jas Gripen i stor exportaffär - Regeringen.se
-- Trump: Jag skrotar tull på kaffe - SvD
-- Ica:s vd Nina Jönsson: Vi har inte gjort otillbörliga prishöjningar 15 november 2025 - Ekots lördagsintervju - Sveriges Radio
-- Se upp under rean – AI-bluffarna allt proffsigare - Västerbottens-Kuriren
+- Se upp under rean – AI-bluffarna allt proffsigare - SvD
+- DN Direkt – USA sänker tullar på kött, kaffe och frukter - Dagens Nyheter
+- STT: Amerikanska undantagstillstånd förenklar försäljningen av Lukoil - Yle
+- Hur mycket påverkar bl a lite brantare gaffel- och sadelrörsvinkel, kortare hjulbas och kortare kedjestag "cykelkänslan"? - Happyride
 - Black Ops 7-kampanjen kan inte pausas, men den kan avbrytas när som helst - notebookcheck.se
-- Ubisoft har ställt in ett Splinter Cell-spel som var under utveckling - notebookcheck.se
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-15 17:39_
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
+- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 
 ## Technology
 
@@ -160,5 +160,5 @@ _Updated: 2025-11-15 17:39_
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
