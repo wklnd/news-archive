@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 06:43_
+_Updated: 2025-11-15 07:41_
 
 ## Top Stories
 
 - Polisen: Tre personer döda i olyckan – Flera döda i bussolycka i centrala Stockholm - SVT Nyheter
+- Efter Taiwanstöd: Kineser avråds resa till Japan - Västerbottens-Kuriren
+- Putins hemliga söner: Isolerat liv i stor rikedom - SvD
 - Sandra Stiskalo: Trump är inte det största hotet mot BBC - Dagens Nyheter
-- Efter Taiwanstöd: Kineser avråds resa till Japan - GP
-- Direkt – Krisen i Mellanöstern – Indonesien redo för stödstyrka till Gaza - Dagens Nyheter
-- Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Två knivskurna på fest – en gripen - Västerbottens-Kuriren
+- FN:s säkerhetsråd ska rösta om Trumps fredsplan - GP
+- Två knivskurna på fest i Bohus – en gripen - Omni
 - Busch: Värderingsstrid på våra gator och torg - Dagens Nyheter
 - Därför kommer Elisabeth Thand Ringqvist se till att din röst är värdelös - Arbetet
 - Tre viltolyckor på tolv minuter - Östersunds-Posten
 - ”Kan inte ens komma på tanken” - Nerikes Allehanda
+- Direkt – Krisen i Mellanöstern – Indonesien redo för stödstyrka till Gaza - Dagens Nyheter
 - Netflix-profil dödad på skolans område - Expressen
 - Trump bryter med Taylor Greene: ”Gnällande galning” - Omni
 - DN Direkt – Regeringen föreslår att språkkrav införs i äldreomsorgen - Dagens Nyheter
-- Är inte ett partis uppgift att ge hopp inför framtiden? - Dagens Arena
 - Klart: Colombia köper 17 Gripenplan - SvD
-- Vägledning för leverantörer - SEB Group
 - Niklas Wykman sätter spiken i kistan för AP6 - Dagens industri
-- Saab får beställningar på sensorsystemet Arexis till tyska Eurofighter - Cision News
+- Etableringsjobb fungerar inte - Företagarna
+- Vägledning för leverantörer - SEB Group
 - Så köper du rätt laptop till ditt barn i jul – tips och råd för barn och studenter - TechRadar
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 
@@ -54,22 +54,22 @@ _Updated: 2025-11-15 06:43_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-11-15 06:43_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
@@ -160,5 +160,5 @@ _Updated: 2025-11-15 06:43_
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
