@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 13:38_
+_Updated: 2025-11-15 15:01_
 
 ## Top Stories
 
+- Skidskytte: Här går strömmen mitt i skidskyttesprinten i Idre - SVT Nyheter
 - Arbetet med att identifiera offren i bussolyckan fortsätter - Dagens Nyheter
 - Skulle informera om återvandring – 20 kom - GP
 - Uppgifter: TV4-profilen ledig vid sexträff - Expressen
-- DN Direkt – Första fallet: Nya fågelviruset smittade amerikan - Dagens Nyheter
+- KD: ”Barnsmaker” på snus borde förbjudas - Omni
 - USAID-chefens fruktan: Kan vi hjälpa i framtiden? - SvD
-- Snälltåget överväger nattåg till Trondheim - Dagens Nyheter
 - Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - Tullverkets larm: ”Extremt smuggeltryck mot Sverige” - Dagens Nyheter
-- Här får kvinnor i klimakteriet rätt hjälp - Dagens Nyheter
-- Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
-- Epsteinhärvan: Trump bryter med tung Maga-profil - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Uppgift: Frigivna ur gisslan på väg för att besöka Trump - Dagens Nyheter
+- Nya C-ledaren sågar S ekonomiska politik - Aftonbladet
+- ”Kan inte ens komma på tanken” - Nerikes Allehanda
+- DN Direkt – Epsteinhärvan: Trump bryter med tung Maga-profil - Dagens Nyheter
+- FN:s säkerhetsråd ska rösta om Trumps fredsplan - Västerbottens-Kuriren
 - Viktigast i veckan: Ukraina mellan terror, korruption och stora hjälpbehov - Europaportalen
-- Uppgifter: Israel ordnade Gazaflyg till Sydafrika - GP
+- Direkt – Krisen i Mellanöstern – Uppgift: Frigivna ur gisslan på väg för att besöka Trump - Dagens Nyheter
 - Colombia köper Jas Gripen i stor exportaffär - Regeringen.se
 - Ica:s vd Nina Jönsson: Vi har inte gjort otillbörliga prishöjningar 15 november 2025 - Ekots lördagsintervju - Sveriges Radio
-- Se upp under rean – AI-bluffarna allt proffsigare - SvD
-- Trump sänker Schweiz tullar till 15 procent - Omni
+- Trump: Jag skrotar tull på kaffe - SvD
+- Se upp under rean – AI-bluffarna allt proffsigare - Västerbottens-Kuriren
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
 - Idag släpps nya ”Call of Duty” – kallas ”det konstigaste spelet i serien” - MovieZine
 
@@ -30,43 +30,43 @@ _Updated: 2025-11-15 13:38_
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - S&P Global Introduces S&P Global Energy - Placera.se
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
-- Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
+- Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 
 ## Technology
 
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
