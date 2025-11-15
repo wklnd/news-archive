@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 22:39_
+_Updated: 2025-11-15 23:37_
 
 ## Top Stories
 
 - DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
 - Pourmokhtari: ”Som klimatperson är jag mer Gates än Thunberg” - Dagens Nyheter
-- Tusentals protesterar på klimatmötet: ”Våra berg blir svarta” - Dagens Nyheter
-- FN:s säkerhetsråd ska rösta om Trumps fredsplan - Västerbottens-Kuriren
+- Hyllar Hitler – ”Finns det gräns för vem de tar in?” - SvD
+- Osäker valutgång väntar Chile - Global Bar Magazine
 - Så lyckades Robot-Rob besegra högerpopulisterna - Dagens Nyheter
-- DN Direkt – Fjällugglan utdöd i Sverige - Dagens Nyheter
-- Ilskan i Eskilstuna – 6 000 demonstrerar - SvD
-- Nu kommer vintern – snö även söderut - SVT Nyheter
-- Busch: Värderingsstrid på våra gator och torg - Dagens Nyheter
-- VIKTOR BARTH-KRON: Så blev Ebba Busch Centerns hjälte - Expressen
+- FN:s säkerhetsråd ska rösta om Trumps fredsplan - Västerbottens-Kuriren
+- Fjällugglan utdöd i Sverige – senast på dyster lista - Västerbottens-Kuriren
+- Rekordstor demonstration mot Senior Materials användning av metylenklorid i Eskilstuna - SVT Nyheter
+- Då kan det snöa i Göteborg och Västsverige - GP
+- 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
+- Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
 - Vinterns regn plågar Gazas tältboende befolkning - Hufvudstadsbladet
-- DN Direkt – Flera bilar i krock på E4 i Stockholm - Dagens Nyheter
-- Bil har kört in i träd efter extremhalka – tre till sjukhus - Expressen
-- Man gripen för mordförsök i Östra göinge - SVT Nyheter
+- Turister döda – hotell i Istanbul evakueras - Västerbottens-Kuriren
+- DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
 - Jas flyger rakt in i Trumps knarkkrig - SvD
-- Se upp under rean – AI-bluffarna allt proffsigare - Västerbottens-Kuriren
 - Bentley visar sin lättaste bil på 85 år: Rena kraftpaketet - Dagens PS
+- Se upp under rean – AI-bluffarna allt proffsigare - Västerbottens-Kuriren
 - Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
 - Biotechföretag har återskapat förhistorisk jättevarg – nu tar de nästa uppseendeväckande steg - Illustrerad Vetenskap
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
@@ -29,9 +29,9 @@ _Updated: 2025-11-15 22:39_
 
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - S&P Global Introduces S&P Global Energy - Placera.se
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
@@ -50,26 +50,26 @@ _Updated: 2025-11-15 22:39_
 
 ## Technology
 
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -112,9 +112,9 @@ _Updated: 2025-11-15 22:39_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -122,23 +122,23 @@ _Updated: 2025-11-15 22:39_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2025-11-15 22:39_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
