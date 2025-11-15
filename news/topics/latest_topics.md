@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 00:39_
+_Updated: 2025-11-16 01:38_
 
 ## Top Stories
 
-- Fotboll: Svensk storförlust mot Schweiz i Potters debut - SVT Nyheter
-- DN Direkt – Fyra till sjukhus efter krock på E4 i Stockholm - Dagens Nyheter
-- Pourmokhtari: ”Som klimatperson är jag mer Gates än Thunberg” - Dagens Nyheter
+- DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
+- Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
 - 27-åring ställer Maga-rörelsen inför ödesfråga - SvD
-- Trafikolycka på E4 vid Skärholmen – fyra till sjukhus - Expressen
-- Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
+- Pourmokhtari: ”Som klimatperson är jag mer Gates än Thunberg” - Dagens Nyheter
+- Schweiz fick fira VM-plats mot Sverige - Svensk fotboll
+- Tusentals protesterar på klimatmötet: ”Våra berg blir svarta” - Dagens Nyheter
 - Fjällugglan utdöd i Sverige – senast på dyster lista - Västerbottens-Kuriren
-- Nu kommer vintern – snö även söderut - SVT Nyheter
 - 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
-- VIKTOR BARTH-KRON: Så blev Ebba Busch Centerns hjälte - Expressen
-- Magas ”de fyras gäng” utmanar Trump i kongressen - Västerbottens-Kuriren
+- Missen i ”Nyhetsmorgon” - Expressen
+- Trafikolycka på E4 vid Skärholmen – fyra till sjukhus - Expressen
+- DN Direkt – Turister döda – hotell i Istanbul evakueras - Dagens Nyheter
 - DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
-- Man gripen för mordförsök i Östra Göinge - SVT Nyheter
-- DN Direkt – Källor: Ökat missnöje med försvarsminister Hegseth - Dagens Nyheter
+- Bil har kört in i träd efter extremhalka – tre till sjukhus - Expressen
+- Forskare varnar – gör inte det här med dina tänder - Marcus Oscarsson
 - Jas flyger rakt in i Trumps knarkkrig - SvD
-- Bentley visar sin lättaste bil på 85 år: Rena kraftpaketet - Dagens PS
 - Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
 - DN Direkt – ECB-topp: Risk att inflationen blir för låg - Dagens Nyheter
+- LEDARE: Ebba Busch har helt rätt om elen - VLT
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
 - Google testar att dela kontaktinfo genom att nudda Android-telefoner - Teknikveckan
 
@@ -36,17 +36,17 @@ _Updated: 2025-11-16 00:39_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
+- Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- 2025 Hot Wheels Legends Tour Global Champion: Mini Rally-Inspired Fiat From Poland to Be Immortalized as a Hot Wheels Die-Cast - Placera.se
 
 ## Technology
 
@@ -75,12 +75,12 @@ _Updated: 2025-11-16 00:39_
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
-- Student and entry-level programs - EY
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -89,8 +89,8 @@ _Updated: 2025-11-16 00:39_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
@@ -143,8 +143,8 @@ _Updated: 2025-11-16 00:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -159,6 +159,6 @@ _Updated: 2025-11-16 00:39_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
