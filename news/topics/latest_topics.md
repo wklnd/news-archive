@@ -1,13 +1,13 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 05:28_
+_Updated: 2025-11-15 05:51_
 
 ## Top Stories
 
-- Tre döda i bussolyckan på Östermalm - Dagens Nyheter
-- Trump: Ska stämma BBC på miljardbelopp - GP
-- Kineser avråds resa till Japan - Västerbottens-Kuriren
-- Två knivskurna på fest i Bohus – en gripen - Omni
+- Polisen: Tre personer döda i olyckan – Flera döda i bussolycka i centrala Stockholm - SVT Nyheter
+- Sandra Stiskalo: Trump är inte det största hotet mot BBC - Dagens Nyheter
+- Efter Taiwanstöd: Kineser avråds resa till Japan - GP
+- Två knivskurna på fest – en gripen - Västerbottens-Kuriren
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
 - Tre män knivskadade i Kalmar – vårdas på skjuhus - SVT Nyheter
 - Busch: Värderingsstrid på våra gator och torg - Dagens Nyheter
@@ -16,12 +16,12 @@ _Updated: 2025-11-15 05:28_
 - Fem personer begärs häktade för grova brott - Åklagarmyndigheten
 - Netflix-profil dödad på skolans område - Expressen
 - DN Direkt – Regeringen föreslår att språkkrav införs i äldreomsorgen - Dagens Nyheter
-- Explosion på polisstation i Indien – sju döda - Expressen
+- Person påkörd av tåg i Umeå - Expressen
 - Israel återbördar dödade palestinier till Gaza - Västerbottens-Kuriren
 - Klart: Colombia köper 17 Gripenplan - SvD
-- Kommentar: Tillväxt krävs för att vända Nibes kräftgång - Dagens industri
 - Saab får beställningar på sensorsystemet Arexis till tyska Eurofighter - Cision News
-- AP3 vill ha KKV:s godkännande av sammanslagning av AP-fonder - Sak & Liv
+- Niklas Wykman sätter spiken i kistan för AP6 - Dagens industri
+- Vägledning för leverantörer - SEB Group
 - OnePlus 15 - recension: telefonen som får full pott med dramatisk batteritid och imponerande hållbarhet - TechRadar
 - Garmins smartklockor får en ny betaversion med förbättringar och buggfixar - notebookcheck.se
 
@@ -29,36 +29,36 @@ _Updated: 2025-11-15 05:28_
 
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - S&P Global Introduces S&P Global Energy - Placera.se
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Succébandet Bolaget på plats för Global Series - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Malmöbo utpekad som ”global terrorist” - SVT Nyheter
 
 ## Technology
 
 - ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -67,22 +67,21 @@ _Updated: 2025-11-15 05:28_
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Bairong Inc. and Shanghai Pudong Development Bank Establish Strategic Ecosystem partnership to Accelerate the Compliant Implementation of "Financial Agents" - Placera.se
 
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Connected cars, in-car payments driving the auto economy - mastercard.com
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2025-11-15 05:28_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -103,62 +103,62 @@ _Updated: 2025-11-15 05:28_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- ”Research on bison completely wrong” - Forskning & Framsteg
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
