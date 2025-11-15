@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 23:37_
+_Updated: 2025-11-16 00:39_
 
 ## Top Stories
 
-- DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
+- Fotboll: Svensk storförlust mot Schweiz i Potters debut - SVT Nyheter
+- DN Direkt – Fyra till sjukhus efter krock på E4 i Stockholm - Dagens Nyheter
 - Pourmokhtari: ”Som klimatperson är jag mer Gates än Thunberg” - Dagens Nyheter
-- Hyllar Hitler – ”Finns det gräns för vem de tar in?” - SvD
-- Osäker valutgång väntar Chile - Global Bar Magazine
-- Så lyckades Robot-Rob besegra högerpopulisterna - Dagens Nyheter
-- FN:s säkerhetsråd ska rösta om Trumps fredsplan - Västerbottens-Kuriren
+- 27-åring ställer Maga-rörelsen inför ödesfråga - SvD
+- Trafikolycka på E4 vid Skärholmen – fyra till sjukhus - Expressen
+- Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
 - Fjällugglan utdöd i Sverige – senast på dyster lista - Västerbottens-Kuriren
-- Rekordstor demonstration mot Senior Materials användning av metylenklorid i Eskilstuna - SVT Nyheter
-- Då kan det snöa i Göteborg och Västsverige - GP
+- Nu kommer vintern – snö även söderut - SVT Nyheter
 - 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
-- Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
-- Vinterns regn plågar Gazas tältboende befolkning - Hufvudstadsbladet
-- Turister döda – hotell i Istanbul evakueras - Västerbottens-Kuriren
+- VIKTOR BARTH-KRON: Så blev Ebba Busch Centerns hjälte - Expressen
+- Magas ”de fyras gäng” utmanar Trump i kongressen - Västerbottens-Kuriren
 - DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
+- Man gripen för mordförsök i Östra Göinge - SVT Nyheter
+- DN Direkt – Källor: Ökat missnöje med försvarsminister Hegseth - Dagens Nyheter
 - Jas flyger rakt in i Trumps knarkkrig - SvD
 - Bentley visar sin lättaste bil på 85 år: Rena kraftpaketet - Dagens PS
-- Se upp under rean – AI-bluffarna allt proffsigare - Västerbottens-Kuriren
 - Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
-- Biotechföretag har återskapat förhistorisk jättevarg – nu tar de nästa uppseendeväckande steg - Illustrerad Vetenskap
+- DN Direkt – ECB-topp: Risk att inflationen blir för låg - Dagens Nyheter
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
+- Google testar att dela kontaktinfo genom att nudda Android-telefoner - Teknikveckan
 
 ## World News
 
@@ -35,7 +35,6 @@ _Updated: 2025-11-15 23:37_
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
-- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -43,10 +42,11 @@ _Updated: 2025-11-15 23:37_
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 2025 Hot Wheels Legends Tour Global Champion: Mini Rally-Inspired Fiat From Poland to Be Immortalized as a Hot Wheels Die-Cast - Placera.se
 
 ## Technology
 
@@ -105,12 +105,12 @@ _Updated: 2025-11-15 23:37_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -119,26 +119,26 @@ _Updated: 2025-11-15 23:37_
 
 ## Science
 
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
