@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2025-11-15 05:55_
+_Updated: 2025-11-15 06:50_
 
-- Trump says he's withdrawing support for Marjorie Taylor Greene, may back primary opponent - CBS News
-- Emails reveal Epstein’s network of the rich and powerful despite sex offender status - PBS
-- Trump Administration Lifts Some Food Tariffs in Effort to Ease Prices - The New York Times
-- Worst of SoCal storm expected Saturday, raising risk of mudslides and flash flooding - Los Angeles Times
+- The Justice Department Will Investigate Epstein Ties. Just Not to Trump. - The New York Times
+- Trump rolls back tariffs on dozens of food products - BBC
+- Millions under flood watches, evacuation orders in place as Southern California burn scar areas brace for storm - abcnews.go.com
+- Trump ends support for Marjorie Taylor Greene amid growing Epstein feud - The Guardian
 - Trump says he's "sort of" made up his mind on Venezuela after top officials spent 3rd day mulling options - CBS News
-- 21 arrested, police officers injured at protest outside ICE processing center in Broadview - Chicago Tribune
+- BBC apologizes for edit of Trump speech but says it won't provide legal compensation - NPR
 - Judge officially drops 3 charges in Georgia's Trump 2020 election interference case - CBS News
-- Indiana Senate Says It Won’t Vote on Redistricting That Trump Sought - The New York Times
-- The seven-day supervisor: Why S.F. Mayor Daniel Lurie’s first big fumble is a crucial one - San Francisco Chronicle
-- 43-year-old democratic socialist who's never held elected office unseats Seattle Mayor in another win for affordability politics - Fortune
-- China Warns Citizens to Avoid Traveling to Japan Amid Taiwan Row - Bloomberg.com
+- Emails reveal Epstein’s network of the rich and powerful despite sex offender status - PBS
+- How California’s ultimate power broker went down - Politico
+- Indiana Senate leader says there aren't enough GOP votes for Trump's redistricting push - NBC News
+- Protesters blockade Cop30 summit over plight of Indigenous peoples - The Guardian
 - What's behind Rachel Reeves's hokey cokey on income tax rises? - BBC
+- China Warns Citizens to Avoid Traveling to Japan Amid Taiwan Row - Bloomberg.com
 - Oil settles up more than 2% as Russian port suspends oil exports after Ukrainian attack - Reuters
-- Japan enlists drones and ex-soldiers to battle surge in bear attacks - Financial Times
 - Disney settles dispute with YouTube TV, allowing ABC and ESPN to return to channel lineups - Los Angeles Times
 - Walmart CEO Doug McMillon announces his surprise retirement at age 59 - AP News
 - Berkshire Added $4 Billion Alphabet Stake and Further Pared Apple Stock - The Wall Street Journal
