@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 18:43_
+_Updated: 2025-11-15 19:37_
 
 ## Top Stories
 
 - Busschauffören släppt efter olyckan på Östermalm - Dagens Nyheter
 - Misstänkt farligt föremål vid Nordstan i Göteborg – en gripen - SVT Nyheter
+- Tre till sjukhus med stickskador – två anhållna - GP
 - Trump bryter med Magaprofil efter Epsteinbråk: ”Förrädare” - Dagens Nyheter
+- Tusentals protesterar på klimatmötet: ”Våra berg blir svarta” - Dagens Nyheter
 - Trump: Ska stämma BBC på miljardbelopp - GP
-- Centerpartiet vill avkriminalisera narkotika i kroppen - SVT Nyheter
-- En vecka fri från våld i Tibro – besök av sommarpratare: ”Väldigt modig berättelse” - sla.se
-- Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
+- C: Avkriminalisera narkotika i kroppen - GP
+- KD säger ja till burkaförbud - Västerbottens-Kuriren
+- Nu drar rysskylan in – SMHI varnar - Expressen
 - VIKTOR BARTH-KRON: Så blev Ebba Busch Centerns hjälte - Expressen
-- Uppgifter: TV4-profilen var ledig när han träffade kvinnan - Aftonbladet
-- Kvinna hittad död i dike – misstänkt smitningsolycka - GP
 - Nathan Shachar: Israel har förlorat kontrollen över det som sker i Gaza - Dagens Nyheter
-- Unga borgmästaren: ”Jag ser dem i ögonen och säger att ’det är jag som leder här’” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Uppgift: Frigivna ur gisslan på väg för att besöka Trump - Dagens Nyheter
+- DN Direkt – Unga borgmästaren: ”Jag ser dem i ögonen och säger att ’det är jag som leder här’” - Dagens Nyheter
 - Kvinna gripen i Östersund misstänkt för mordförsök - SVT Nyheter
+- Missen i ”Nyhetsmorgon” - Expressen
 - Colombia köper Jas Gripen i stor exportaffär - Regeringen.se
 - Se upp under rean – AI-bluffarna allt proffsigare - SvD
 - DN Direkt – USA sänker tullar på kött, kaffe och frukter - Dagens Nyheter
 - STT: Amerikanska undantagstillstånd förenklar försäljningen av Lukoil - Yle
+- Dags att lätta på trycket – spelhelgen är här! - FZ.se
 - Hur mycket påverkar bl a lite brantare gaffel- och sadelrörsvinkel, kortare hjulbas och kortare kedjestag "cykelkänslan"? - Happyride
-- Black Ops 7-kampanjen kan inte pausas, men den kan avbrytas när som helst - notebookcheck.se
 
 ## World News
 
-- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
-- S&P Global Introduces S&P Global Energy - Placera.se
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- S&P Global Introduces S&P Global Energy - Placera.se
+- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
@@ -42,11 +41,12 @@ _Updated: 2025-11-15 18:43_
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 
 ## Technology
 
@@ -54,19 +54,19 @@ _Updated: 2025-11-15 18:43_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
@@ -87,8 +87,8 @@ _Updated: 2025-11-15 18:43_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
