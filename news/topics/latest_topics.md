@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-15 11:38_
+_Updated: 2025-11-15 12:40_
 
 ## Top Stories
 
 - Arbetet med att identifiera offren i bussolyckan fortsätter - Dagens Nyheter
-- Uppgifter: TV4-profilen var ledig när han träffade kvinnan - Aftonbladet
+- Skulle informera om återvandring – 20 kom - GP
 - Snälltåget överväger nattåg till Trondheim - Dagens Nyheter
-- Brand på förskolan Gula Villan i Jönåker - Nykoping.se
-- Forsberg med viktigt mål när NHL gästade Stockholm - Omni
-- Vecka 47 - En vecka fri från våld - Länsstyrelsen
-- Busch: Värderingsstrid på våra gator och torg - Dagens Nyheter
+- Här kan första snön i södra Sverige falla - Expressen
+- Uppgifter: TV4-profilen var ledig när han träffade kvinnan - Aftonbladet
+- Hanna Öberg överlägsen i Sverigepremiären - SvD
+- Förbud mot niqab och burka het fråga på KD:s kongress - Dagens Nyheter
 - Här får kvinnor i klimakteriet rätt hjälp - Dagens Nyheter
 - Sprängningen på Hertsön: "Det var inget pojkstreck" - Kuriren
 - Därför kommer Elisabeth Thand Ringqvist se till att din röst är värdelös - Arbetet
+- Viktigast i veckan: Ukraina mellan terror, korruption och stora hjälpbehov - Europaportalen
 - Direkt – Krisen i Mellanöstern – Uppgift: Frigivna ur gisslan på väg för att besöka Trump - Dagens Nyheter
-- Putins hemliga söner: Isolerat liv i stor rikedom - Västerbottens-Kuriren
-- Många skadade i ”massiv” rysk attack mot Kiev - Hufvudstadsbladet
-- Tre misstänkt knivskadade i Kalmar - GP
-- Colombia köper Jas Gripen i stor exportaffär - Regeringen.se
-- Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
+- Uppgifter: Israel ordnade Gazaflyg till Sydafrika - Västerbottens-Kuriren
+- Tre till sjukhus med stickskador – två anhållna - Folkbladet
+- Colombia köper 17 Gripenplan - SVT Nyheter
+- Ica:s vd Nina Jönsson: Vi har inte gjort otillbörliga prishöjningar 15 november 2025 - Ekots lördagsintervju - Sveriges Radio
+- Trump sänker Schweiz tullar till 15 procent - Omni
 - Vindkraften: "Trumps attityd ett klimathot" - Dagens PS
-- Största Tesla-raset på månader – öppnar för Apple-teknik - EFN
 - Idag släpps nya ”Call of Duty” – kallas ”det konstigaste spelet i serien” - MovieZine
-- Så köper du rätt laptop till ditt barn i jul – tips och råd för barn och studenter - TechRadar
+- Humble Bundle erbjuder VR-spel till ett värde av över 150 dollar för 15 dollar när Steam Frame-hypen byggs upp - notebookcheck.se
 
 ## World News
 
@@ -35,11 +35,11 @@ _Updated: 2025-11-15 11:38_
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Inside Hockey: Positiv mot negativ överraskning i NHL Global Series - hockeysverige.se
-- Succébandet Bolaget på plats för Global Series - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
@@ -50,17 +50,16 @@ _Updated: 2025-11-15 11:38_
 
 ## Technology
 
-- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
@@ -68,6 +67,7 @@ _Updated: 2025-11-15 11:38_
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
@@ -112,15 +112,15 @@ _Updated: 2025-11-15 11:38_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -128,22 +128,21 @@ _Updated: 2025-11-15 11:38_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- ”Research on bison completely wrong” - Forskning & Framsteg
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -162,3 +161,4 @@ _Updated: 2025-11-15 11:38_
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
