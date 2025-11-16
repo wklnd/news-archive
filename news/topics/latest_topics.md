@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 01:38_
+_Updated: 2025-11-16 04:25_
 
 ## Top Stories
 
 - DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
 - Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
-- 27-åring ställer Maga-rörelsen inför ödesfråga - SvD
-- Pourmokhtari: ”Som klimatperson är jag mer Gates än Thunberg” - Dagens Nyheter
+- Flera omkom när båt kapsejsade i USA - Västerbottens-Kuriren
 - Schweiz fick fira VM-plats mot Sverige - Svensk fotboll
-- Tusentals protesterar på klimatmötet: ”Våra berg blir svarta” - Dagens Nyheter
-- Fjällugglan utdöd i Sverige – senast på dyster lista - Västerbottens-Kuriren
-- 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
-- Missen i ”Nyhetsmorgon” - Expressen
-- Trafikolycka på E4 vid Skärholmen – fyra till sjukhus - Expressen
-- DN Direkt – Turister döda – hotell i Istanbul evakueras - Dagens Nyheter
+- Växjö säkrade segern när klockan stod på 59:59 - Omni
+- Vi uppmärksammar våld i nära relationer - polisen.se
+- Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
+- KRÖNIKA: Vi har förlorat ett av de coolaste och häftigaste djuren på jorden - Norrtelje Tidning
+- Trafikolycka i Borås – oklart skadeläge - Expressen
+- Åt hamburgare och dog – gåtan om varför har lösts - Expressen
+- Turister döda – hotell i Istanbul evakueras - Västerbottens-Kuriren
 - DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
-- Bil har kört in i träd efter extremhalka – tre till sjukhus - Expressen
+- Man gripen för mordförsök i Östra Göinge - SVT Nyheter
 - Forskare varnar – gör inte det här med dina tänder - Marcus Oscarsson
 - Jas flyger rakt in i Trumps knarkkrig - SvD
 - Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
 - DN Direkt – ECB-topp: Risk att inflationen blir för låg - Dagens Nyheter
-- LEDARE: Ebba Busch har helt rätt om elen - VLT
+- Trump: Jag skrotar tull på kaffe - SvD
+- Asus ROG Matrix RTX 5090 lanseras för 3 999 USD, dubbelt så mycket som Nvidias referenskort, begränsat till 1 000 enheter i världen - notebookcheck.se
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
-- Google testar att dela kontaktinfo genom att nudda Android-telefoner - Teknikveckan
 
 ## World News
 
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
-- S&P Global Introduces S&P Global Energy - Placera.se
 - Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Succébandet Bolaget på plats för Global Series - NHL.com
-- Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
+- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 
 ## Technology
 
@@ -66,8 +66,8 @@ _Updated: 2025-11-16 01:38_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
@@ -75,12 +75,12 @@ _Updated: 2025-11-16 01:38_
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Student and entry-level programs - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -89,8 +89,8 @@ _Updated: 2025-11-16 01:38_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
@@ -103,8 +103,8 @@ _Updated: 2025-11-16 01:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2025-11-16 01:38_
 
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
