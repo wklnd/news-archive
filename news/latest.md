@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-16 23:48_
+_Updated: 2025-11-17 00:48_
 
-- Marjorie Taylor Greene says Trump policies are 'not America first' in fight over MAGA - NPR
-- US aircraft carrier arrives in the Caribbean in major buildup near Venezuela - Politico
+- Marjorie Taylor Greene Backs Trump but Stands Firm on Epstein Files - The New York Times
+- USS Gerald R. Ford aircraft carrier arrives in Caribbean in major buildup near Venezuela - CBS News
 - Charlotte faces DHS crackdown as agents target 'criminal illegal aliens' - BBC
-- Trump’s investigation into Epstein ties to political foes might be ‘smokescreen’, Republican says - The Guardian
-- Trump's $2,000 tariff checks requires new law, Bessent says - Axios
+- Trump’s Proposed $2,000 Tariff Check Requires New Legislation, Bessent Says - Forbes
 - GOP plans to replace Obamacare have failed. Here’s what lawmakers propose now. - The Washington Post
-- US military carried out 21st strike on alleged drug boat, killing 3 - CNN
+- Britain to announce ‘most significant’ change to asylum rules in years, setting Europe’s longest route to settlement - CNN
+- U.S. strikes another alleged drug boat, killing 3 in Eastern Pacific - CBS News
 - Large-scale search efforts now suspended for missing girl swept into ocean at Garrapata Beach - KSBW
-- Calvin Duncan wins Orleans clerk of court race - Verite News
-- Trump blasts Indiana state lawmakers for not pursuing redistricting efforts - NBC News
-- Immigrant crackdown: UK govt set to overhaul asylum system – what’s changing - The Times of India
+- Sen. Jeanne Shaheen says "we need to put the shutdown behind us, end the circular firing squad" - CBS News
+- New Orleans Elects Exonerated Man, Calvin Duncan, as Criminal Court Clerk - The New York Times
 - China Warns Students in Japan of Safety Risks as Tensions Rise - Bloomberg.com
-- Leader of powerful Ecuadorian drug syndicate targeted by U.S. captured in Spain 4 years after faking his death - CBS News
-- Red Fort explosion: Man arrested over deadly Delhi car bomb blast - BBC
+- India arrests Kashmir resident in connection with deadly Red Fort bomb attack - CNN
+- Leader of Ecuador's Los Lobos drugs gang captured in Spain - BBC
+- Chile votes in a presidential poll pitting a communist against the far right - AP News
 - Powerball jackpot rolls over to $570m as lottery officials hunt for winner who scooped $2m prize thanks to $1 choice - The US Sun
 - Samsung and other South Korean firms pledge larger domestic investments after US tariff deal - Yahoo Finance
-- Popular Zero-Day Options Strategies Keep a Lid on Stock Rallies - Bloomberg.com
-- 6 laid-off Amazon workers share how they got the bad news, and how they're navigating an uncertain job market - Business Insider
+- Your artificial Christmas tree will cost more this year, thanks in part to tariffs - NPR
+- Ford Motor shows off new high-tech HQ. It has a 'crown jewel' showroom and room for 4,000 employees - AP News
 - Apple’s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com
-- Best Buy Week 3 Black Friday Doorbusters now live - 9to5Toys
+- Stereogum soldiers on in the era of streaming and AI - The Verge
