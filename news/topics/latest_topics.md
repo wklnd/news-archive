@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 16:39_
+_Updated: 2025-11-16 17:38_
 
 ## Top Stories
 
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
-- C-toppens lösning: ”M behöver få en bitch slap” - SvD
 - Personbilar kolliderade på E6 vid Löddeköpinge – två till sjukhus - SVT Nyheter
 - Vänninan till ihjälkörda kvinnan: ”Det är förjävligt” - Omni
-- Massiv tredagars-protest i Filippinerna - Västerbottens-Kuriren
-- Putin stramar åt: Högre moms och dyrare vodka - Västerbottens-Kuriren
+- Bakslag för KD-ledning – inget smakförbud på snus - Aftonbladet
+- ”Valframgång kräver också omtyckt sakpolitik” - Helagotland
+- DN Direkt – Astrid Lindgren tema på NK:s julskyltning - Dagens Nyheter
 - Snö väntas i Uppsala och östra Stockholm – SMHI varnar - SVT Nyheter
 - C vill lägga ner Bromma flygplats - GP
-- Jimmie Åkesson om Liberalernas krav: ”De får ge sig, inte vi” - Dagens Nyheter
+- Oro för p-piller sprids i sociala medier - Sydsvenskan
 - Varningen till sjukhusledningen: ”Barn kommer att dö” - Dagens Nyheter
 - Tjernobyl-änka bland de döda i jätteattacken - Hufvudstadsbladet
 - Direkt – Krisen i Mellanöstern – Israelisk oro inför FN-omröstning om fredsplan - Dagens Nyheter
-- Internationellt efterlyst gripen i Stockholm - Expressen
 - JUST NU: Tre personbilar i olycka på E45: ”Halt på vägen” - NWT
+- DN Direkt – Efterlyst man gripen i Stockholm - Dagens Nyheter
 - H&M:s tidigare vd om oväntade avhoppet: ”Fanns inte riktigt någon att fråga” - Dagens industri
 - Marknaden håller andan inför Nvidias besked - Hufvudstadsbladet
-- Största guldfyndet på årtionden: Uppskattat till 50 miljarder - Dagens PS
 - Se upp under rean – AI-bluffarna allt proffsigare - SvD
-- Nvidia RTX Pro 6000 för 10 000 USD blir värdelös när PCIe-kontakten går av: Ingen ersättningsdel tillgänglig - notebookcheck.se
-- Tidigare Humble Bundle-team introducerar Digiphile, erbjuder Steam Deck-spel värda ~ $ 180 för $ 20 - notebookcheck.se
+- Största guldfyndet på årtionden: Uppskattat till 50 miljarder - Dagens PS
+- Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
+- Redmi Note 15 Pro Plus: Första internationella lanseringen tippas ske före slutet av 2025 med billigare Redmi Note 15 och Redmi Note 15 Pro - notebookcheck.se
 
 ## World News
 
@@ -37,14 +37,14 @@ _Updated: 2025-11-16 16:39_
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
-- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 2025 Hot Wheels Legends Tour Global Champion: Mini Rally-Inspired Fiat From Poland to Be Immortalized as a Hot Wheels Die-Cast - Placera.se
-- Succébandet Bolaget på plats för Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 
@@ -52,12 +52,12 @@ _Updated: 2025-11-16 16:39_
 
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -145,6 +145,7 @@ _Updated: 2025-11-16 16:39_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -158,7 +159,6 @@ _Updated: 2025-11-16 16:39_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
