@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 17:38_
+_Updated: 2025-11-16 18:44_
 
 ## Top Stories
 
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
-- Personbilar kolliderade på E6 vid Löddeköpinge – två till sjukhus - SVT Nyheter
-- Vänninan till ihjälkörda kvinnan: ”Det är förjävligt” - Omni
-- Bakslag för KD-ledning – inget smakförbud på snus - Aftonbladet
-- ”Valframgång kräver också omtyckt sakpolitik” - Helagotland
-- DN Direkt – Astrid Lindgren tema på NK:s julskyltning - Dagens Nyheter
+- C-toppens lösning: ”M behöver få en bitch slap” - SvD
+- Fler svenska ubåtar ska säkra Åland - Dagens Nyheter
+- Internationellt efterlyst gripen i Stockholm - Expressen
+- Direkt – Kriget i Ukraina – Stubb: Osannolikt med vapenvila innan våren - Dagens Nyheter
+- Väninnan till ihjälkörda kvinnan: ”Det är förjävligt” - Omni
 - Snö väntas i Uppsala och östra Stockholm – SMHI varnar - SVT Nyheter
 - C vill lägga ner Bromma flygplats - GP
-- Oro för p-piller sprids i sociala medier - Sydsvenskan
-- Varningen till sjukhusledningen: ”Barn kommer att dö” - Dagens Nyheter
+- Oro för p-piller sprids i sociala medier - GP
+- Flerbilskrock på E6 - Expressen
+- Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
+- Israelisk oro inför FN-omröstning om fredsplan - Västerbottens-Kuriren
 - Tjernobyl-änka bland de döda i jätteattacken - Hufvudstadsbladet
-- Direkt – Krisen i Mellanöstern – Israelisk oro inför FN-omröstning om fredsplan - Dagens Nyheter
 - JUST NU: Tre personbilar i olycka på E45: ”Halt på vägen” - NWT
-- DN Direkt – Efterlyst man gripen i Stockholm - Dagens Nyheter
 - H&M:s tidigare vd om oväntade avhoppet: ”Fanns inte riktigt någon att fråga” - Dagens industri
 - Marknaden håller andan inför Nvidias besked - Hufvudstadsbladet
-- Se upp under rean – AI-bluffarna allt proffsigare - SvD
-- Största guldfyndet på årtionden: Uppskattat till 50 miljarder - Dagens PS
+- Sverige satsar miljarder för att få sälja Gripen - SvD
+- Se upp under rean – AI-bluffarna allt proffsigare - SN, Södermanlands Nyheter
 - Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
 - Redmi Note 15 Pro Plus: Första internationella lanseringen tippas ske före slutet av 2025 med billigare Redmi Note 15 och Redmi Note 15 Pro - notebookcheck.se
 
@@ -143,10 +143,9 @@ _Updated: 2025-11-16 17:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -161,4 +160,5 @@ _Updated: 2025-11-16 17:38_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
