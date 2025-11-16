@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 12:41_
+_Updated: 2025-11-16 13:38_
 
 ## Top Stories
 
-- Skidskytte: Elvira Öbergs succé – vann efter uppvisning i sprinten - SVT Nyheter
+- Snö väntas i Uppsala och östra Stockholm – SMHI varnar - SVT Nyheter
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
-- Varningen till sjukhusledningen: ”Barn kommer att dö” - Dagens Nyheter
+- Ledningen varnades tidigt om hjärtläkaren - SVT Nyheter
+- Krock på E6 vid Löddeköpinge – två till sjukhus - Skånska Dagbladet
+- Flirtar Busch med S eller vill hon bara reta Moderaterna? - Omni
+- Vårdbiträdet i Uddevalla om avstängningen: ”Man känner sig utpekad” - Dagens Nyheter
+- Marcus Svensson C bättre rustat för falukorv – men riskerar hamna utanför igen - Sydsvenskan
 - Jimmie Åkesson om Liberalernas krav: ”De får ge sig, inte vi” - Dagens Nyheter
-- Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
-- Rebelltjej intar NK: ”Har ’pippifierat’ allt” - SvD
-- Flerbilskrock på E6 - Expressen
 - Kvinna jagades av man i skog i Eskilstuna kommun - Expressen
 - Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
-- Sänkt aktivitetsstöd drabbar tusentals: ”Pang bom, fem tusenlappar bort” - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Israelisk oro inför FN-omröstning om fredsplan - Dagens Nyheter
 - 120 skadade under demonstration i Mexiko - GP
-- Tävlingsbil körde in i publik i Walcha i Australien – 13 skadade - SVT Nyheter
-- Gul varning för snö i Stockholm - Expressen
+- USA-tips avslöjade barnporr hos försvarsanställd - Västerbottens-Kuriren
+- Ryssland och Ukraina överens om ny fångutväxling - Dagens Nyheter
 - Marknaden håller andan inför Nvidias besked - Sydsvenskan
+- Största guldfyndet på årtionden: Uppskattat till 50 miljarder - Dagens PS
 - Skrämmande siffror: Nästan halva USA är i recession - Dagens PS
-- Se upp under rean – AI-bluffarna allt proffsigare - SvD
 - Lite lyxigare, lite dyrare – lite mer bil för pengarna - Dagens Nyheter
 - Forskare skickade in 41 humlor i en labyrint – då gjorde insekterna något vi har trott var förbehållet människan - Illustrerad Vetenskap
 - Asus ROG Matrix RTX 5090 lanseras för 3 999 USD, dubbelt så mycket som Nvidias referenskort, begränsat till 1 000 enheter i världen - notebookcheck.se
@@ -36,7 +36,6 @@ _Updated: 2025-11-16 12:41_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
@@ -44,9 +43,10 @@ _Updated: 2025-11-16 12:41_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 2025 Hot Wheels Legends Tour Global Champion: Mini Rally-Inspired Fiat From Poland to Be Immortalized as a Hot Wheels Die-Cast - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -74,21 +74,21 @@ _Updated: 2025-11-16 12:41_
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Student and entry-level programs - EY
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2025-11-16 12:41_
 ## Science
 
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- ”Research on bison completely wrong” - Forskning & Framsteg
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2025-11-16 12:41_
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
