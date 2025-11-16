@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 21:38_
+_Updated: 2025-11-16 22:41_
 
 ## Top Stories
 
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
-- Maskerade personer i storbråk i Kortedala - SVT Nyheter
-- SMHI utfärdar gul varning för snöfall: ”Byt till vinterdäck” - UNT
 - ”S och Skolverket bär skulden för skolans ovetenskapliga metoder” - Dagens Nyheter
 - Krav om att öppna norska oljefonden - SvD
-- DN Direkt – FI varnar för meme-aktier: ”Går snabbt utför” - Dagens Nyheter
-- DN Direkt – Bakslag för KD-ledning – inget smakförbud på snus - Dagens Nyheter
+- SMHI utfärdar gul varning för snöfall - SVT Nyheter
+- Stubb tror inte på någon vapenvila innan våren: ”Är inte särskilt optimistisk” - Omni
+- Jimmie Åkesson: ”Kommer inte vara lika lätt att leva i Sverige” - GP
 - Tolv dödsolyckor årligen – så är du säker på isen - Västerbottens-Kuriren
-- ”Vi är körda” – stor uppgivenhet i regeringspartiet - Marcus Oscarsson
-- Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
+- DN Direkt – Bakslag för KD-ledning – inget smakförbud på snus - Dagens Nyheter
+- Därför är hela veckan orange – och det här händer - Dala-Demokraten
+- Oro för p-piller sprids i sociala medier - aftonbladet.se
+- USA:s främsta hangarfartyg på plats i Karibien - SVT Nyheter
 - DN Direkt – Taylor Green ber om ursäkt för toxisk politk - Dagens Nyheter
-- USA:s främsta hangarfartyg på plats i Karibien - Västerbottens-Kuriren
 - Anna-Lena Laurén: Vänsterns politiska stjärnskott nådde inte ända fram - Dagens Nyheter
-- Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
+- Svår gruvolycka i Kongo – över 30 döda - Västerbottens-Kuriren
 - FI varnar för meme-aktier: ”Går snabbt utför” - Dagens industri
 - Helena från Skellefteå avgick som vd för H&M – förklarar varför - Norran
-- Nu blir billiga varor från Kina dyrare: ”Ska inte ha gräddfil” - SVT Nyheter
+- Sverige tvingas investera miljarder för Saabs affär - SvD
 - Oron inför Nvidias delår: Kan blåsa liv i rallyt – eller spräcka AI-bubblan - Omni Ekonomi
-- Insider föreslår att Half-Life 3 kan få ett utgivningsdatum i mars som en lanseringstitel för Steam Machine - notebookcheck.se
+- Europas nya satellit håller koll på havshöjningen - SvD
 - Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
 
 ## World News
 
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Ny global PwC-undersökning bland 50 000 medarbetare: Svenska medarbetare mer skeptiska till förändring - Cision News
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
