@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 04:25_
+_Updated: 2025-11-16 05:36_
 
 ## Top Stories
 
+- Ryssland och Ukraina överens om ny fångutväxling - Västerbottens-Kuriren
+- Storbritannien begränsar skydd för asylsökande - GP
+- Larmet om Putins vapen i hemliga Nato-dokumentet - Expressen
 - DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
-- Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
-- Flera omkom när båt kapsejsade i USA - Västerbottens-Kuriren
-- Schweiz fick fira VM-plats mot Sverige - Svensk fotboll
-- Växjö säkrade segern när klockan stod på 59:59 - Omni
-- Vi uppmärksammar våld i nära relationer - polisen.se
+- Flera omkomna i båtolycka i USA - Västerbottens-Kuriren
+- 120 skadade under demonstration i Mexiko - GP
 - Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
 - KRÖNIKA: Vi har förlorat ett av de coolaste och häftigaste djuren på jorden - Norrtelje Tidning
+- 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
 - Trafikolycka i Borås – oklart skadeläge - Expressen
-- Åt hamburgare och dog – gåtan om varför har lösts - Expressen
-- Turister döda – hotell i Istanbul evakueras - Västerbottens-Kuriren
 - DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
+- Magas ”de fyras gäng” utmanar Trump i kongressen - GP
 - Man gripen för mordförsök i Östra Göinge - SVT Nyheter
 - Forskare varnar – gör inte det här med dina tänder - Marcus Oscarsson
 - Jas flyger rakt in i Trumps knarkkrig - SvD
+- SCB: Arbetslösheten ökar - Västerbottens-Kuriren
 - Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
 - DN Direkt – ECB-topp: Risk att inflationen blir för låg - Dagens Nyheter
-- Trump: Jag skrotar tull på kaffe - SvD
 - Asus ROG Matrix RTX 5090 lanseras för 3 999 USD, dubbelt så mycket som Nvidias referenskort, begränsat till 1 000 enheter i världen - notebookcheck.se
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
 
@@ -36,7 +36,6 @@ _Updated: 2025-11-16 04:25_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -45,6 +44,7 @@ _Updated: 2025-11-16 04:25_
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 
@@ -87,9 +87,9 @@ _Updated: 2025-11-16 04:25_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -157,8 +157,8 @@ _Updated: 2025-11-16 04:25_
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
