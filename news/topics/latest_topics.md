@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 23:37_
+_Updated: 2025-11-17 00:41_
 
 ## Top Stories
 
+- Klart: Norge till fotbolls-VM - GP
 - SMHI utfärdar gul varning för snöfall - SVT Nyheter
 - DN Direkt – USA:s främsta hangarfartyg på plats i Karibien - Dagens Nyheter
+- Person död efter polisingripande i Solna - Omni
 - ”S och Skolverket bär skulden för skolans ovetenskapliga metoder” - Dagens Nyheter
-- Identifieringen av bussolyckan dröjer - Mitt i
-- Stort bråk i Kortedala – maskerade person i slagsmål - GP
 - Krav om att öppna norska oljefonden - SvD
-- Tolv dödsolyckor årligen – så är du säker på isen - Västerbottens-Kuriren
-- Bakslag för KD-ledning – inget smakförbud på snus - GP
+- Tolv dödsolyckor årligen – så är du säker på isen - GP
+- DN Direkt – Bakslag för KD-ledning – inget smakförbud på snus - Dagens Nyheter
+- Tillståndet stabilt för skadade efter bussolyckan - Västerbottens-Kuriren
 - ”En vecka fri från våld” uppmärksammas av Alvesta församling - lokaltidningenvaxjo.se
-- Förare av A-traktor vägrade stanna för kontroll - Affärsnytt Norr
+- DN Direkt – Tre dödade i ny amerikansk attack till havs - Dagens Nyheter
 - Anna-Lena Laurén: Vänsterns politiska stjärnskott nådde inte ända fram - Dagens Nyheter
+- Putin stramar åt: Högre moms och dyrare vodka - Hufvudstadsbladet
 - Gruvolycka i Kongo – minst 32 döda - SVT Nyheter
-- Stort bråk i Göteborg – maskerade män - Expressen
-- Ledningen varnades tidigt om hjärtläkaren som felaktigt friskförklarade 78 barn - Jönköpings-Posten
-- FI varnar för meme-aktier: ”Går snabbt utför” - Dagens industri
 - Sverige tvingas investera miljarder för Saabs affär - SvD
-- Nvidia, AI-bubbla och makrodatans återkomst - Omni Ekonomi
+- FI varnar för meme-aktier: ”Går snabbt utför” - Dagens industri
+- Varnar för bubbla: ”Inte en chans att Open AI överlever” - Omni
 - Chockbeskedet: Tim Cook kliver ner från tronen - Dagens PS
 - Europas nya satellit håller koll på havshöjningen - SvD
-- Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
+- Nvidia RTX Pro 6000 för 10 000 USD blir värdelös när PCIe-kontakten går av: Ingen ersättningsdel tillgänglig - notebookcheck.se
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
-- NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
+- Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
@@ -50,26 +50,26 @@ _Updated: 2025-11-16 23:37_
 
 ## Technology
 
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
 
@@ -101,19 +101,19 @@ _Updated: 2025-11-16 23:37_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
@@ -123,22 +123,22 @@ _Updated: 2025-11-16 23:37_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2025-11-16 23:37_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
