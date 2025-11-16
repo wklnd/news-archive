@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 05:36_
+_Updated: 2025-11-16 06:45_
 
 ## Top Stories
 
 - Ryssland och Ukraina överens om ny fångutväxling - Västerbottens-Kuriren
-- Storbritannien begränsar skydd för asylsökande - GP
-- Larmet om Putins vapen i hemliga Nato-dokumentet - Expressen
 - DN Direkt – S-ledaren om bussolyckan: Reagerade med chock - Dagens Nyheter
+- Storbritannien begränsar skydd för asylsökande - GP
 - Flera omkomna i båtolycka i USA - Västerbottens-Kuriren
 - 120 skadade under demonstration i Mexiko - GP
+- Maduro: USA:s militärsamarbeten ”oansvariga” - GP
 - Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
 - KRÖNIKA: Vi har förlorat ett av de coolaste och häftigaste djuren på jorden - Norrtelje Tidning
 - 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
 - Trafikolycka i Borås – oklart skadeläge - Expressen
 - DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
-- Magas ”de fyras gäng” utmanar Trump i kongressen - GP
-- Man gripen för mordförsök i Östra Göinge - SVT Nyheter
+- Magas ”de fyras gäng” utmanar Trump i kongressen - Västerbottens-Kuriren
+- Misstänkt mordförsök – man gripen - Expressen
 - Forskare varnar – gör inte det här med dina tänder - Marcus Oscarsson
 - Jas flyger rakt in i Trumps knarkkrig - SvD
 - SCB: Arbetslösheten ökar - Västerbottens-Kuriren
@@ -33,15 +33,15 @@ _Updated: 2025-11-16 05:36_
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Succébandet Bolaget på plats för Global Series - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Inför NHL Global Series: Nashville Predators – ett lag i kris - hockeysverige.se
-- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Succébandet Bolaget på plats för Global Series - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
@@ -50,24 +50,24 @@ _Updated: 2025-11-16 05:36_
 
 ## Technology
 
-- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
@@ -87,9 +87,9 @@ _Updated: 2025-11-16 05:36_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -143,22 +143,22 @@ _Updated: 2025-11-16 05:36_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
