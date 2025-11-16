@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 20:46_
+_Updated: 2025-11-16 21:38_
 
 ## Top Stories
 
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
 - Maskerade personer i storbråk i Kortedala - SVT Nyheter
-- Fler svenska ubåtar ska säkra Åland - Dagens Nyheter
 - SMHI utfärdar gul varning för snöfall: ”Byt till vinterdäck” - UNT
-- Direkt – Kriget i Ukraina – Stubb: Osannolikt med vapenvila innan våren - Dagens Nyheter
-- Gruvolycka i Kongo – över 30 döda - Västerbottens-Kuriren
-- Bakslag för KD-ledning – inget smakförbud på snus - GP
-- Oro för p-piller sprids i sociala medier - GP
-- Larmet i L: ”Mohamsson kommer leda partiet ut ur riksdagen” - Omni
+- ”S och Skolverket bär skulden för skolans ovetenskapliga metoder” - Dagens Nyheter
+- Krav om att öppna norska oljefonden - SvD
+- DN Direkt – FI varnar för meme-aktier: ”Går snabbt utför” - Dagens Nyheter
+- DN Direkt – Bakslag för KD-ledning – inget smakförbud på snus - Dagens Nyheter
+- Tolv dödsolyckor årligen – så är du säker på isen - Västerbottens-Kuriren
+- ”Vi är körda” – stor uppgivenhet i regeringspartiet - Marcus Oscarsson
 - Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
+- DN Direkt – Taylor Green ber om ursäkt för toxisk politk - Dagens Nyheter
+- USA:s främsta hangarfartyg på plats i Karibien - Västerbottens-Kuriren
+- Anna-Lena Laurén: Vänsterns politiska stjärnskott nådde inte ända fram - Dagens Nyheter
 - Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
-- Tjernobyl-änka bland de döda i jätteattacken - Hufvudstadsbladet
-- JUST NU: Tre personbilar i olycka på E45: ”Halt på vägen” - NWT
-- Ledningen varnades tidigt om hjärtläkaren som felaktigt friskförklarade 78 barn - Jönköpings-Posten
-- FI varnar för meme-aktier: ”Går snabbt utför” - SvD
-- H&M:s tidigare vd om oväntade avhoppet: ”Fanns inte riktigt någon att fråga” - Dagens industri
-- Klart: Colombia köper Gripen i mångmiljardaffär - Tidningen Näringslivet
+- FI varnar för meme-aktier: ”Går snabbt utför” - Dagens industri
+- Helena från Skellefteå avgick som vd för H&M – förklarar varför - Norran
 - Nu blir billiga varor från Kina dyrare: ”Ska inte ha gräddfil” - SVT Nyheter
+- Oron inför Nvidias delår: Kan blåsa liv i rallyt – eller spräcka AI-bubblan - Omni Ekonomi
 - Insider föreslår att Half-Life 3 kan få ett utgivningsdatum i mars som en lanseringstitel för Steam Machine - notebookcheck.se
 - Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
 
@@ -41,8 +41,8 @@ _Updated: 2025-11-16 20:46_
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
@@ -143,10 +143,9 @@ _Updated: 2025-11-16 20:46_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -161,4 +160,5 @@ _Updated: 2025-11-16 20:46_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
