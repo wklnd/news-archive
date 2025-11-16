@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 22:41_
+_Updated: 2025-11-16 23:37_
 
 ## Top Stories
 
-- Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
-- ”S och Skolverket bär skulden för skolans ovetenskapliga metoder” - Dagens Nyheter
-- Krav om att öppna norska oljefonden - SvD
 - SMHI utfärdar gul varning för snöfall - SVT Nyheter
-- Stubb tror inte på någon vapenvila innan våren: ”Är inte särskilt optimistisk” - Omni
-- Jimmie Åkesson: ”Kommer inte vara lika lätt att leva i Sverige” - GP
+- DN Direkt – USA:s främsta hangarfartyg på plats i Karibien - Dagens Nyheter
+- ”S och Skolverket bär skulden för skolans ovetenskapliga metoder” - Dagens Nyheter
+- Identifieringen av bussolyckan dröjer - Mitt i
+- Stort bråk i Kortedala – maskerade person i slagsmål - GP
+- Krav om att öppna norska oljefonden - SvD
 - Tolv dödsolyckor årligen – så är du säker på isen - Västerbottens-Kuriren
-- DN Direkt – Bakslag för KD-ledning – inget smakförbud på snus - Dagens Nyheter
-- Därför är hela veckan orange – och det här händer - Dala-Demokraten
-- Oro för p-piller sprids i sociala medier - aftonbladet.se
-- USA:s främsta hangarfartyg på plats i Karibien - SVT Nyheter
-- DN Direkt – Taylor Green ber om ursäkt för toxisk politk - Dagens Nyheter
+- Bakslag för KD-ledning – inget smakförbud på snus - GP
+- ”En vecka fri från våld” uppmärksammas av Alvesta församling - lokaltidningenvaxjo.se
+- Förare av A-traktor vägrade stanna för kontroll - Affärsnytt Norr
 - Anna-Lena Laurén: Vänsterns politiska stjärnskott nådde inte ända fram - Dagens Nyheter
-- Svår gruvolycka i Kongo – över 30 döda - Västerbottens-Kuriren
+- Gruvolycka i Kongo – minst 32 döda - SVT Nyheter
+- Stort bråk i Göteborg – maskerade män - Expressen
+- Ledningen varnades tidigt om hjärtläkaren som felaktigt friskförklarade 78 barn - Jönköpings-Posten
 - FI varnar för meme-aktier: ”Går snabbt utför” - Dagens industri
-- Helena från Skellefteå avgick som vd för H&M – förklarar varför - Norran
 - Sverige tvingas investera miljarder för Saabs affär - SvD
-- Oron inför Nvidias delår: Kan blåsa liv i rallyt – eller spräcka AI-bubblan - Omni Ekonomi
+- Nvidia, AI-bubbla och makrodatans återkomst - Omni Ekonomi
+- Chockbeskedet: Tim Cook kliver ner från tronen - Dagens PS
 - Europas nya satellit håller koll på havshöjningen - SvD
 - Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
 
@@ -29,17 +29,17 @@ _Updated: 2025-11-16 22:41_
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
-- Ny global PwC-undersökning bland 50 000 medarbetare: Svenska medarbetare mer skeptiska till förändring - Cision News
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
+- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
@@ -50,26 +50,26 @@ _Updated: 2025-11-16 22:41_
 
 ## Technology
 
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
