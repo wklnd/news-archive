@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 11:39_
+_Updated: 2025-11-16 12:41_
 
 ## Top Stories
 
+- Skidskytte: Elvira Öbergs succé – vann efter uppvisning i sprinten - SVT Nyheter
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
 - Varningen till sjukhusledningen: ”Barn kommer att dö” - Dagens Nyheter
 - Jimmie Åkesson om Liberalernas krav: ”De får ge sig, inte vi” - Dagens Nyheter
-- USA-tips avslöjade barnporr hos försvarsanställd - Västerbottens-Kuriren
-- Förare av A-traktor vägrade stanna för kontroll - Affärsnytt Norr
-- Polisjakt efter knivman – hittades i tält - Ekuriren
+- Karl Dalén: Magarörelsen har blivit större än presidenten själv - Dagens Nyheter
+- Rebelltjej intar NK: ”Har ’pippifierat’ allt” - SvD
+- Flerbilskrock på E6 - Expressen
+- Kvinna jagades av man i skog i Eskilstuna kommun - Expressen
 - Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
 - Sänkt aktivitetsstöd drabbar tusentals: ”Pang bom, fem tusenlappar bort” - Dagens Nyheter
-- Trafikolycka i Borås – oklart skadeläge - Expressen
-- 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
-- Israelisk oro inför FN-omröstning om fredsplan - Västerbottens-Kuriren
-- DN Direkt – 120 skadade under demonstration i Mexiko - Dagens Nyheter
-- Turister döda – hotell i Istanbul evakueras - GP
+- Direkt – Krisen i Mellanöstern – Israelisk oro inför FN-omröstning om fredsplan - Dagens Nyheter
+- 120 skadade under demonstration i Mexiko - GP
 - Tävlingsbil körde in i publik i Walcha i Australien – 13 skadade - SVT Nyheter
-- Stor oro inför Nvidias besked - SvD
-- Se upp under rean – AI-bluffarna allt proffsigare - SN, Södermanlands Nyheter
+- Gul varning för snö i Stockholm - Expressen
+- Marknaden håller andan inför Nvidias besked - Sydsvenskan
+- Skrämmande siffror: Nästan halva USA är i recession - Dagens PS
+- Se upp under rean – AI-bluffarna allt proffsigare - SvD
 - Lite lyxigare, lite dyrare – lite mer bil för pengarna - Dagens Nyheter
-- Klart: Colombia köper 17 Gripenplan - GP
 - Forskare skickade in 41 humlor i en labyrint – då gjorde insekterna något vi har trott var förbehållet människan - Illustrerad Vetenskap
 - Asus ROG Matrix RTX 5090 lanseras för 3 999 USD, dubbelt så mycket som Nvidias referenskort, begränsat till 1 000 enheter i världen - notebookcheck.se
 
 ## World News
 
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
-- Europol spränger cyberimperier – hackerkungar faller i global razzia - Realtid
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
@@ -43,10 +42,11 @@ _Updated: 2025-11-16 11:39_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Succébandet Bolaget på plats för Global Series - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 2025 Hot Wheels Legends Tour Global Champion: Mini Rally-Inspired Fiat From Poland to Be Immortalized as a Hot Wheels Die-Cast - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2025-11-16 11:39_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
@@ -103,42 +103,42 @@ _Updated: 2025-11-16 11:39_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
