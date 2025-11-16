@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 08:49_
+_Updated: 2025-11-16 09:37_
 
 ## Top Stories
 
 - Varningen till sjukhusledningen: ”Barn kommer att dö” - Dagens Nyheter
+- Buss har kört in i busskur i Stockholm – flera döda - GP
 - Detalj i ”Chrippa”-målet får toppjurist att haja till - SvD
 - Jimmie Åkesson om Liberalernas krav: ”De får ge sig, inte vi” - Dagens Nyheter
+- DN Direkt – 120 skadade under demonstration i Mexiko - Dagens Nyheter
 - Viktigast i veckan: Ukraina mellan terror, korruption och stora hjälpbehov - Europaportalen
-- Ryssland och Ukraina överens om ny fångutväxling - Västerbottens-Kuriren
-- Maduro: USA:s militärsamarbeten ”oansvariga” - GP
-- Tre döda i busskrasch på Östermalm – detta har hänt - GP
 - Fossillobbyister i Sveriges delegation på klimatmötet i Brasilien - Dagens Nyheter
 - Trafikolycka i Borås – oklart skadeläge - Expressen
 - 15 november 16.08, Farligt föremål, misstänkt, Göteborg - polisen.se
-- DN Direkt – Flera omkom när båt kapsejsade i USA - Dagens Nyheter
+- Polisen: ”Vi finns kvar i Nynäshamn – även om utredarna har flyttat” - Nynäshamns Posten
+- 120 skadade under demonstration i Mexiko - Västerbottens-Kuriren
+- Polisjakt efter knivman – hittades i tält - Ekuriren
 - DN Direkt – Anhållandet hävt – busschaufför släpps på fri fot - Dagens Nyheter
-- Magas ”de fyras gäng” utmanar Trump i kongressen - Västerbottens-Kuriren
-- En anhållen efter skottlossning i Märsta - Expressen
+- Magas ”de fyras gäng” utmanar Trump i kongressen - GP
 - Jas flyger rakt in i Trumps knarkkrig - SvD
+- Golfbana förvandlas till klimatsmart bostadsområde - Aftonbladet
 - Ica-chefens löfte: Lägre priser när matmomsen sänks - Omni
 - Nu blir billiga varor från Kina dyrare: ”Ska inte ha gräddfil” - SVT Nyheter
-- DN Direkt – USA sänker tullar på kött, kaffe och frukter - Dagens Nyheter
 - Asus ROG Matrix RTX 5090 lanseras för 3 999 USD, dubbelt så mycket som Nvidias referenskort, begränsat till 1 000 enheter i världen - notebookcheck.se
 - Dags att lätta på trycket – spelhelgen är här! - FZ.se
 
@@ -101,21 +101,21 @@ _Updated: 2025-11-16 08:49_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-16 08:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
