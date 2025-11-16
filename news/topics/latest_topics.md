@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 00:41_
+_Updated: 2025-11-17 01:39_
 
 ## Top Stories
 
-- Klart: Norge till fotbolls-VM - GP
-- SMHI utfärdar gul varning för snöfall - SVT Nyheter
+- Person död efter polisingripande i Solna - SVT Nyheter
+- Bilexplosion i Borås – inga personskador - Omni
+- Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
 - DN Direkt – USA:s främsta hangarfartyg på plats i Karibien - Dagens Nyheter
-- Person död efter polisingripande i Solna - Omni
-- ”S och Skolverket bär skulden för skolans ovetenskapliga metoder” - Dagens Nyheter
-- Krav om att öppna norska oljefonden - SvD
+- Luftrummet över Ålborgs flygplats öppnar igen - SVT Nyheter
+- SMHI utfärdar gul varning för snöfall: ”Byt till vinterdäck” - UNT
 - Tolv dödsolyckor årligen – så är du säker på isen - GP
 - DN Direkt – Bakslag för KD-ledning – inget smakförbud på snus - Dagens Nyheter
-- Tillståndet stabilt för skadade efter bussolyckan - Västerbottens-Kuriren
 - ”En vecka fri från våld” uppmärksammas av Alvesta församling - lokaltidningenvaxjo.se
+- Förare av A-traktor vägrade stanna för kontroll - Affärsnytt Norr
 - DN Direkt – Tre dödade i ny amerikansk attack till havs - Dagens Nyheter
-- Anna-Lena Laurén: Vänsterns politiska stjärnskott nådde inte ända fram - Dagens Nyheter
-- Putin stramar åt: Högre moms och dyrare vodka - Hufvudstadsbladet
-- Gruvolycka i Kongo – minst 32 döda - SVT Nyheter
-- Sverige tvingas investera miljarder för Saabs affär - SvD
+- Tjernobyl-änka bland de döda i jätteattacken - Hufvudstadsbladet
+- Bil har krockat med spårvagn - Expressen
+- Ledningen varnades tidigt om hjärtläkaren som felaktigt friskförklarade 78 barn - Jönköpings-Posten
+- Ras i bitcoin – årets uppgång utraderad - Sydsvenskan
 - FI varnar för meme-aktier: ”Går snabbt utför” - Dagens industri
-- Varnar för bubbla: ”Inte en chans att Open AI överlever” - Omni
-- Chockbeskedet: Tim Cook kliver ner från tronen - Dagens PS
-- Europas nya satellit håller koll på havshöjningen - SvD
-- Nvidia RTX Pro 6000 för 10 000 USD blir värdelös när PCIe-kontakten går av: Ingen ersättningsdel tillgänglig - notebookcheck.se
+- Bubblan ”stinker” – varnar för kollaps - SvD
+- Köper Gripenplan – men kräver svenska miljardinvesteringar - Expressen
+- Havsnivån mäts noga – från rymden - SvD
+- Nya Olight ArkPro EDC-ficklampor nu tillgängliga med lanseringsrabatt efter försening - notebookcheck.se
 
 ## World News
 
@@ -32,8 +32,8 @@ _Updated: 2025-11-17 00:41_
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
@@ -52,24 +52,24 @@ _Updated: 2025-11-17 00:41_
 
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -134,8 +134,8 @@ _Updated: 2025-11-17 00:41_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -143,6 +143,7 @@ _Updated: 2025-11-17 00:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -160,5 +161,4 @@ _Updated: 2025-11-17 00:41_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
