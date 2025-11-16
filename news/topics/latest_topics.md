@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-16 18:44_
+_Updated: 2025-11-16 19:39_
 
 ## Top Stories
 
 - Polisen: Bilden klarnar om bussolyckan som dödade tre - Dagens Nyheter
-- C-toppens lösning: ”M behöver få en bitch slap” - SvD
+- DN Direkt – FI varnar för meme-aktier: ”Går snabbt utför” - Dagens Nyheter
 - Fler svenska ubåtar ska säkra Åland - Dagens Nyheter
-- Internationellt efterlyst gripen i Stockholm - Expressen
+- SMHI utfärdar gul varning för snöfall - SVT Nyheter
 - Direkt – Kriget i Ukraina – Stubb: Osannolikt med vapenvila innan våren - Dagens Nyheter
-- Väninnan till ihjälkörda kvinnan: ”Det är förjävligt” - Omni
-- Snö väntas i Uppsala och östra Stockholm – SMHI varnar - SVT Nyheter
-- C vill lägga ner Bromma flygplats - GP
+- Storbritannien begränsar skydd för asylsökande - GP
+- Bakslag för KD-ledning – inget smakförbud på snus - GP
 - Oro för p-piller sprids i sociala medier - GP
-- Flerbilskrock på E6 - Expressen
-- Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
-- Israelisk oro inför FN-omröstning om fredsplan - Västerbottens-Kuriren
+- C vill lägga ner Bromma flygplats - GP
+- Gul varning för snöfall i Uppsala – kan bli trafikproblem - UNT
 - Tjernobyl-änka bland de döda i jätteattacken - Hufvudstadsbladet
 - JUST NU: Tre personbilar i olycka på E45: ”Halt på vägen” - NWT
+- Israelisk oro inför FN-omröstning om fredsplan - Västerbottens-Kuriren
+- Ledningen varnades tidigt om hjärtläkaren som felaktigt friskförklarade 78 barn - Jönköpings-Posten
+- FI varnar för meme-aktier: ”Går snabbt utför” - SvD
+- Sverige tvingas investera miljarder för Saabs affär - SvD
 - H&M:s tidigare vd om oväntade avhoppet: ”Fanns inte riktigt någon att fråga” - Dagens industri
-- Marknaden håller andan inför Nvidias besked - Hufvudstadsbladet
-- Sverige satsar miljarder för att få sälja Gripen - SvD
-- Se upp under rean – AI-bluffarna allt proffsigare - SN, Södermanlands Nyheter
+- Mekaniker slår larm: En knapp i bilen kan förkorta motorns liv rejält - Dagens PS
+- Insider föreslår att Half-Life 3 kan få ett utgivningsdatum i mars som en lanseringstitel för Steam Machine - notebookcheck.se
 - Nya spelhanddatorer ryktas lanseras med Intel Panther Lake och Arc B380 - notebookcheck.se
-- Redmi Note 15 Pro Plus: Första internationella lanseringen tippas ske före slutet av 2025 med billigare Redmi Note 15 och Redmi Note 15 Pro - notebookcheck.se
 
 ## World News
 
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
-- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- Ny global PwC-undersökning bland 50 000 medarbetare: Svenska medarbetare mer skeptiska till förändring - Cision News
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Global donation till Leksands IF:s ungdomssektion - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Internationellt symposium med fokus på global hälsa och tuberkulos - Karolinska Institutet
-- Succébandet Bolaget på plats för Global Series - NHL.com
+- Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 2025 Hot Wheels Legends Tour Global Champion: Mini Rally-Inspired Fiat From Poland to Be Immortalized as a Hot Wheels Die-Cast - Placera.se
+- Succébandet Bolaget på plats för Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
@@ -50,23 +50,23 @@ _Updated: 2025-11-16 18:44_
 
 ## Technology
 
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
@@ -101,21 +101,21 @@ _Updated: 2025-11-16 18:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -143,6 +143,7 @@ _Updated: 2025-11-16 18:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -160,5 +161,4 @@ _Updated: 2025-11-16 18:44_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
