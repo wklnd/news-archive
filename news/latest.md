@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-16 21:48_
+_Updated: 2025-11-16 22:48_
 
-- Marjorie Taylor Greene says Trump policies are 'not America first' in fight over MAGA - NPR
-- Epstein Emails Reveal a Lost New York - The New York Times
+- Marjorie Taylor Greene doubles down on calls to release Epstein files - BBC
+- US aircraft carrier arrives in the Caribbean in major buildup near Venezuela - Politico
+- 81 people arrested in Border Patrol's 1st day of Charlotte immigration enforcement operation - WRAL
 - Massie: '100 or more' House Republicans could vote to release Epstein files - abcnews.go.com
-- Homeland Security Missions Falter Amid Focus on Deportations - The New York Times
+- Trump's $2,000 tariff checks requires legislation, Bessent says - Axios
 - Britain to announce ‘most significant’ change to asylum rules in years, setting Europe’s longest route to settlement - CNN
-- Hundreds of National Guard members to leave Portland, Chicago, source says - CBS News
-- Charlotte faces DHS crackdown as agents target 'criminal illegal aliens' - BBC
-- US aircraft carrier arrives in the Caribbean in major buildup near Venezuela - AP News
+- Army secretary says drones pose "threat of humanity's lifetime," but he's "optimistic" about U.S. approach - CBS News
+- Epstein Emails Reveal a Lost New York - The New York Times
 - Trump’s broadside against health insurers is a cautionary tale for industry - Politico
-- Transcript: Sen. Bill Cassidy on "Face the Nation with Margaret Brennan," Nov. 16, 2025 - CBS News
-- China Warns Its Students in Japan of Risks as Tensions Rise - Bloomberg.com
+- Cassidy, Shaheen split over urgency of Obamacare credits - Politico
 - Alleged leader of Ecuadorian drug trafficking gang Los Lobos arrested in Spain - CNN
-- Thousands protest crime and corruption in Mexico City as ‘Gen Z’ protests gain momentum - Politico
 - What to Know About Chile’s Election on Sunday - The New York Times
+- China Warns Students in Japan of Safety Risks as Tensions Rise - Bloomberg.com
+- Red Fort explosion: Man arrested over deadly Delhi car bomb blast - BBC
+- Inside Ford's new world headquarters: Scratch kitchens, rotisserie chickens and design secrets - CNBC
 - Samsung and other South Korean firms pledge larger domestic investments after US tariff deal - Yahoo Finance
-- Ford Motor shows off new high-tech HQ. It has a 'crown jewel' showroom and room for 4,000 employees - AP News
 - MacKenzie Scott says her college roommate loaned her $1,000 so she wouldn't have to drop out—and is now inspiring her to give away billions - Fortune
-- Popular Zero-Day Options Strategies Keep a Lid on Stock Rallies - Bloomberg.com
-- Best Buy Week 3 Black Friday Doorbusters now live - 9to5Toys
-- Steam Machine Offers Equal or Better Performance Than 70% of Gaming PC Rigs, Says Valve - Wccftech
+- Trump's Biggest Economic Mistake yet: Prices, Affordability Blunder - Business Insider
+- OnePlus 15 is now global, we test the eSIM iPhone 17 Pro's battery, Week 46 in review - GSMArena.com news - GSMArena.com
+- Apple’s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com
