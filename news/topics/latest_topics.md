@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 06:47_
+_Updated: 2025-11-17 07:43_
 
 ## Top Stories
 
-- Explosion i bil i Borås – VMA utfärdat - SvD
-- Brand i radhuslänga i Höganäs - Expressen
-- Nej till amerikanska militärbaser i Ecuador - Västerbottens-Kuriren
+- Viktigt meddelande till allmänheten i Söderkulla i Borås kommun, Västra Götalands län - Krisinformation.se
+- Person död efter polisingripande i Solna - SVT Nyheter
 - Göteborgsbolaget har inga chefer: ”Flyttar runt rollerna” - GP
-- Person som omhändertogs för fylla dog i polisbilen - Omni
 - Jimmie Åkesson: ”Kommer inte vara lika lätt att leva i Sverige” - GP
+- Varningen: Blixthalka på vägar och cykelbanor - Ekuriren
+- Jimmie Åkesson om Liberalernas krav: ”De får ge sig, inte vi” - Dagens Nyheter
+- Statssekreterare Helena Dyrssen deltar i COP30 - Regeringen.se
 - Fler råttor i Norrköping – här är riskerna du måste känna till - Sveriges Radio
 - Altinget sätter betyg på Centerpartiets stämma - Altinget.SE
 - Därför är hela veckan orange – och det här händer - Dala-Demokraten
-- Tillståndet stabilt för skadade efter bussolyckan - GP
+- SvD Morgonrapport: Trump vänder: Vill offentliggöra Epsteinhandlingar - SvD
 - Presidentvalet i Chile: Jara och Kast ställs mot varandra - SVT Nyheter
-- Nedåt på Asienbörserna efter kinesisk resevarning - Dagens industri
-- Larm om bilexplosion i Borås - Expressen
-- DN Direkt – USA:s främsta hangarfartyg på plats i Karibien - Dagens Nyheter
+- DN Direkt – Tre dödade i ny amerikansk attack till havs - Dagens Nyheter
+- Nedåt på Asienbörserna efter kinesisk resevarning - Västerbottens-Kuriren
 - Ras i bitcoin – årets uppgång utraderad - Aftonbladet
 - Bubblan ”stinker” – varnar för kollaps - SvD
 - Svenska kronans segertåg fortsätter - GP
-- H&M:s tidigare vd om oväntade avhoppet: ”Fanns inte riktigt någon att fråga” - Dagens industri
+- Colombia köper Jas Gripen i stor exportaffär - Örebronyheter
 - Nya Olight ArkPro EDC-ficklampor nu tillgängliga med lanseringsrabatt efter försening - notebookcheck.se
 - Nya Seiko Prospex automatiska klockor i begränsad upplaga dyker upp i nya hands-on-videor - notebookcheck.se
 
@@ -121,44 +121,44 @@ _Updated: 2025-11-17 06:47_
 
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
