@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 23:40_
+_Updated: 2025-11-18 00:42_
 
 ## Top Stories
 
-- Polisen: Tre kvinnor dog i bussolyckan i centrala Stockholm - SVT Nyheter
-- Tvärbanan har spårat ur i Hammarby Sjöstad - SVT Nyheter
+- Medarbetare på Karolinska död i svåra bussolyckan - Läkartidningen
+- Snö i veckan i Göteborg – men är ändå inte vinter - GP
+- FN:s säkerhetsråd ger grönt ljus åt internationell fredsstyrka i Gaza - SVT Nyheter
 - Dödsfall efter utbrott av blödarfeber i Etiopien - GP
-- DN Direkt – Sju års fängelse för skott i dansk frisörsalong - Dagens Nyheter
-- Västra Götaland uppmärksammar En vecka fri från våld - Länsstyrelsen
-- 55 franska lok till Ukraina - Dagens Nyheter
+- Mångfald bland hundar redan för 11 000 år sedan - Aftonbladet
+- Unga pratar med unga – nytt utbildningsmaterial om våld i nära relationer - polisen.se
 - Brist på ansjovis i jul – “begränsat” - Västerbottens-Kuriren
 - Peter Alestig: I ögonen på en tjej från Sri Lanka syns varför klimatmötet behövs - Dagens Nyheter
-- Svensk strategi mot antimikrobiell resistens 2026-2035 - Regeringen.se
+- Svensk 18-åring dömd i Danmark - SVT Nyheter
 - Explosion i Borås – stor polisinsats i natt - GP
 - Trump svänger om Epsteindokument - SVT Nyheter
 - DN Direkt – Taylor Green ber om ursäkt för ”toxisk politik” - Dagens Nyheter
-- Den franska sjukan hotar hela Europa: ”Vissa är lite bortskämda” - Dagens Nyheter
 - Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
-- DN Direkt – Trump: Kommer sälja F-35 till Saudiarabien - Dagens Nyheter
-- Storbritannien förbereder motdrag till EU:s ståltullar - Dagens industri
-- Mörka konkurssiffror för restauranger i Stockholm - Omni
-- Leon skulle slå till på Black Week – var dyrare än innan - Expressen
+- Påven äter lasagne och kyckling med behövande - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- 26-årige AI-svensken blir dollarmiljardär - SvD
+- Buffetts intåg lyfter Alphabet mot strömmen på Wall Street - Dagens industri
+- Storbolag riskerar vite för vilseledande priser - Aftonbladet
+- Fler restauranger i konkurs – nya öppnar i tufft läge - Dagens Nyheter
 - Disputation: Karin Berggren - Karolinska Institutet
 - Galaxy Buds 4 Pro kommer kunna styras med huvudrörelser - m3.se
 
@@ -34,15 +34,15 @@ _Updated: 2025-11-17 23:40_
 - IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
+- Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Series-besvikelsen stoppar inte Rakell - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
@@ -98,44 +98,44 @@ _Updated: 2025-11-17 23:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
+- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -143,9 +143,9 @@ _Updated: 2025-11-17 23:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -156,9 +156,9 @@ _Updated: 2025-11-17 23:40_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
