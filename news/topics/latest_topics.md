@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 22:41_
+_Updated: 2025-11-17 23:40_
 
 ## Top Stories
 
 - Polisen: Tre kvinnor dog i bussolyckan i centrala Stockholm - SVT Nyheter
-- Den franska sjukan hotar hela Europa: ”Vissa är lite bortskämda” - Dagens Nyheter
-- 55 franska lok till Ukraina - Dagens Nyheter
-- Anderssons löfte: 50-årig satsning på försvaret - Omni
-- Taliah Pollack: Nu pekas judar ut som folkmördare tills motsatsen bevisas - Dagens Nyheter
+- Tvärbanan har spårat ur i Hammarby Sjöstad - SVT Nyheter
+- Dödsfall efter utbrott av blödarfeber i Etiopien - GP
+- DN Direkt – Sju års fängelse för skott i dansk frisörsalong - Dagens Nyheter
 - Västra Götaland uppmärksammar En vecka fri från våld - Länsstyrelsen
+- 55 franska lok till Ukraina - Dagens Nyheter
 - Brist på ansjovis i jul – “begränsat” - Västerbottens-Kuriren
 - Peter Alestig: I ögonen på en tjej från Sri Lanka syns varför klimatmötet behövs - Dagens Nyheter
-- Svensk 18-åring döms för mordförsök i Danmark - GP
+- Svensk strategi mot antimikrobiell resistens 2026-2035 - Regeringen.se
 - Explosion i Borås – stor polisinsats i natt - GP
 - Trump svänger om Epsteindokument - SVT Nyheter
 - DN Direkt – Taylor Green ber om ursäkt för ”toxisk politik” - Dagens Nyheter
-- Skolelever bortförda av beväpnade män i Nigeria - SVT Nyheter
-- Ukraina vill köpa upp till 100 franska stridsplan - Dagens Nyheter
+- Den franska sjukan hotar hela Europa: ”Vissa är lite bortskämda” - Dagens Nyheter
+- Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
 - DN Direkt – Trump: Kommer sälja F-35 till Saudiarabien - Dagens Nyheter
-- Leon skulle slå till på Black Week – var dyrare än innan - Expressen
 - Storbritannien förbereder motdrag till EU:s ståltullar - Dagens industri
-- Då kan en liten svensk stad bli avgörande för Europas försvar - Dagens PS
+- Mörka konkurssiffror för restauranger i Stockholm - Omni
+- Leon skulle slå till på Black Week – var dyrare än innan - Expressen
 - Disputation: Karin Berggren - Karolinska Institutet
 - Galaxy Buds 4 Pro kommer kunna styras med huvudrörelser - m3.se
 
@@ -38,8 +38,8 @@ _Updated: 2025-11-17 22:41_
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Series-besvikelsen stoppar inte Rakell - NHL.com
@@ -50,26 +50,26 @@ _Updated: 2025-11-17 22:41_
 
 ## Technology
 
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-17 22:41_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
