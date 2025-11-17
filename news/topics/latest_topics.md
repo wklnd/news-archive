@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 08:52_
+_Updated: 2025-11-17 09:40_
 
 ## Top Stories
 
-- Svarthalka i Västsverige – risk för besvärlig morgon - Omni
-- DN Direkt – Explosion i Borås – VMA utfärdades - Dagens Nyheter
-- Dödade partners – nästan var fjärde återfaller i brott - Aftonbladet
+- Flera olyckor i trafiken: "Väldigt halt" - Dagens Nyheter
+- Fyra bilar i krock på E22 vid Hörby – halt på platsen - SVT Nyheter
+- Det brinner i ett hyreshus på Hertsön - SVT Nyheter
+- Friskolornas oro för regeringens politik: ”Ansvarslöst” - Dagens Nyheter
 - ”Unga och starka – ser ner på gamla gubbarna” - SvD
-- Flera dödade i robotnedslag i Ukraina - Västerbottens-Kuriren
-- Göteborgsbolaget har inga chefer: ”Flyttar runt rollerna” - GP
+- Dödade partners – nästan var fjärde återfaller i brott - Aftonbladet
 - Liberalerna går till strid om röda linjen mot SD - Corren
 - Statssekreterare Helena Dyrssen deltar i COP30 - Regeringen.se
+- Explosion i Borås – VMA utfärdades - GP
 - 17 november 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Person död efter polisingripande i Solna - SVT Nyheter
 - SvD Morgonrapport: Trump vänder: Vill offentliggöra Epsteinhandlingar - SvD
+- Nedåt på Asienbörserna efter kinesisk resevarning - Västerbottens-Kuriren
+- USA:s storflygplatser återupptar normal trafik - Aftonbladet
 - DN Direkt – Tre dödade i ny amerikansk attack till havs - Dagens Nyheter
-- DN Direkt – Hanna Öberg överlägsen i Sverigepremiären - Dagens Nyheter
-- Kommunist mot Pinochet-vän i Chiles presidentval - Västerbottens-Kuriren
 - Ras i bitcoin – årets uppgång utraderad - Aftonbladet
 - Svenska kronans segertåg fortsätter - Dagens industri
 - Trendbrott när BNP-tillväxten faller i Japan - Dagens PS
-- Varnar för bubbla: ”Inte en chans att Open AI överlever” - Omni
-- Europeisk satellit med svensk teknik håller koll på havshöjningen - NyTeknik
-- Nya Olight ArkPro EDC-ficklampor nu tillgängliga med lanseringsrabatt efter försening - notebookcheck.se
+- Därför ökar oron om AI-bubblan - SvD
+- Stor manifestation mot vapenvåld - Västerbottens-Kuriren
+- ”VK har blivit både sämre och dyrare” - Västerbottens-Kuriren
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Matchdag: Övertygande Penguins-seger - NHL.com
+- Foppas kritik efter NHL Global Series - Aftonbladet
+- Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
 - Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Foppas kritik efter NHL Global Series - Aftonbladet
-- Ny global PwC-undersökning bland 50 000 medarbetare: Svenska medarbetare mer skeptiska till förändring - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
@@ -78,21 +78,21 @@ _Updated: 2025-11-17 08:52_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Student and entry-level programs - EY
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -138,7 +138,7 @@ _Updated: 2025-11-17 08:52_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2025-11-17 08:52_
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
