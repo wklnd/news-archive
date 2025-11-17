@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-17 23:48_
+_Updated: 2025-11-18 00:49_
 
-- Trump does Epstein U-turn as House Republicans prepare to spurn him - Politico
-- Judge Says Justice Dept. May Have Committed Misconduct in Comey Case - The New York Times
-- Bangladesh's ousted leader Sheikh Hasina sentenced to death for crackdown on student uprising - AP News
-- FEMA head resigns. Richardson had been hard to reach during Texas floods. - The Washington Post
-- Poland rail explosion: PM says blast was 'unprecedented act of sabotage' - BBC
-- Charlotte, North Carolina reels as 81 people arrested in immigration raids - The Guardian
+- Trump says he would sign bill to release Epstein files if it reaches his desk - abcnews.go.com
+- Judge finds 'profound' missteps in US probe of FBI ex-chief James Comey - Reuters
+- Acting FEMA head resigns - NBC News
+- UN Security Council backs Trump plan for Gaza - BBC
+- Bangladesh's ousted prime minister sentenced to death for role in protest crackdown - NPR
+- Poland Says Rail Explosion Was ‘Unprecedented Act of Sabotage’ - The Wall Street Journal
+- Man Charged in Shooting of Cleaning Woman Who Arrived at Wrong House in Indiana - The New York Times
 - New international student enrolment drops 17% at US universities - BBC
-- Indiana man charged in fatal shooting of cleaning woman who accidentally went to wrong home - abcnews.go.com
-- Trump hasn’t made decision on striking Venezuela, officials say - CNN
-- New Passport Rule Sends Blunt and Sweeping Message to Trans Americans - The New York Times
-- UN to vote on Gaza stabilisation force plan that references Palestinian state - The Guardian
-- Key takeaways: What are the proposed asylum system reforms? - BBC
+- Trump signals meeting with Mamdani, says ‘we’ll work something out’ - The Washington Post
+- Charlotte, North Carolina reels as 81 people arrested in immigration raids - The Guardian
+- U.K. proposes new asylum policy with 20-year wait and asset seizures - The Washington Post
 - Trump, ignoring MAGA critics, is set to deepen US commitment to Saudi Arabia - Politico
-- Japan says warplanes scrambled as Chinese drone detected near southern island close to Taiwan - CBS News
+- Chile's presidential race heads to a runoff between a communist and a pro-Trump conservative - AP News
+- 25 Girls Abducted From School in Nigeria - The New York Times
 - Dow closes down more than 550 points, dragged down by Nvidia, tech shares - CNBC
-- Bitcoin Just Erased All of Its 2025 Gains—And the 'Picture Remains Fragile', Says Analyst - Decrypt
 - Novo Nordisk cuts Wegovy price as CEO pledges to go 'all in' on weight loss pill - Reuters
-- Will Nvidia Stock Rally After Its Q3 Earnings Report? - Investor's Business Daily
+- Bitcoin Just Erased All of Its 2025 Gains—And the 'Picture Remains Fragile', Says Analyst - Decrypt
+- Sinclair buys a stake in Scripps, as deregulation push now makes a merger possible - MarketWatch
 - For the Steam Machine to change PC gaming, Valve must solve Linux's anti-cheat problem - Engadget
-- Apple’s iPhone accessories could start getting a lot more powerful, per leak - 9to5Mac
+- Apple Exploring Touch-Sensitive Layers Built Into Official iPhone Cases - MacRumors
