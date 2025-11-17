@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-17 18:56_
+_Updated: 2025-11-17 19:49_
 
-- Trump does Epstein U-turn as House Republicans prepare to spurn him - Politico
-- Bangladesh’s ousted PM Sheikh Hasina sentenced to death for student uprising crackdown - AP News
-- Trump Administration Escalates Pressure on Venezuela - The New York Times
+- 'It’s time to bring the secrets out of the shadows': Epstein survivors' video message urges release of files - abcnews.go.com
+- Bangladesh's ousted prime minister sentenced to death for role in protest crackdown - NPR
 - Marjorie Taylor Greene blasts Trump for 'vicious' attacks after saying her company received a pipe bomb threat - NBC News
-- Ukraine and France ink deal for jets and missile defenses, Paris says - abcnews.go.com
-- An early test of a Mamdani-Trump relationship? Security clearance. - Politico
+- Judge says possible errors by Lindsey Halligan could imperil Comey case - Politico
+- Charlotte, North Carolina reels as 81 people arrested in immigration raids - The Guardian
+- Trump Administration Escalates Pressure on Venezuela - The New York Times
 - US lifts restrictions on flights in time for Thanksgiving travel - BBC
 - How foreign student enrollment is shifting in the U.S., in 6 charts - The Washington Post
-- Supreme Court turns away dispute over pregame prayer at high school football games - CBS News
-- Wettest November on record for downtown L.A. as more rain moves in - Los Angeles Times
-- Japan says warplanes scrambled as Chinese drone detected near southern island close to Taiwan - CBS News
-- UN Security Council to vote on Trump peace plan for Gaza - BBC
-- Britain’s Labour Government Plans New, Tougher System for Asylum Seekers - The New York Times
+- Supreme Court to review rescinded Trump policy of turning away asylum seekers at the border - CNN
+- New Passport Rule Sends Blunt and Sweeping Message to Trans Americans - The New York Times
+- 491,000 Japan-bound air tickets cancelled as China warns people to avoid travel - South China Morning Post
+- Home secretary says asylum reforms will 'unite a divided country' as full plans published - BBC
+- Ukraine signs deal to obtain 100 French-made Rafale warplanes - Reuters
 - Poland railway blast was unprecedented act of sabotage, says Donald Tusk - The Guardian
-- Novo Nordisk cuts direct-to-consumer prices for Wegovy, Ozempic to $349 a month - CNBC
-- You can now buy pre-owned Ford vehicles on Amazon - The Verge
-- New analysis shows more US consumers are falling behind on their utility bills - AP News
-- UBS chair talked to Scott Bessent about moving bank to US - Financial Times
+- Novo Nordisk cuts Wegovy price as CEO pledges to go 'all in' on weight loss pill - Reuters
+- 'Does not feel like a cycle-peak': Bernstein says bitcoin's 25% slide reflects short-term correction - theblock.co
+- Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus - TechCrunch
+- How to Not Get Kidnapped for Your Bitcoin - The New York Times
 - For the Steam Machine to change PC gaming, Valve must solve Linux's anti-cheat problem - Engadget
-- Paradox Interactive parts ways with Cities: Skylines studio after over 15 years, as publisher's misfortunes continue - Eurogamer
+- Apple Planning Largest-Ever Upgrade to iPhone - PYMNTS.com
