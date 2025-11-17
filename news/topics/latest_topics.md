@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 18:51_
+_Updated: 2025-11-17 19:42_
 
 ## Top Stories
 
 - Polisen: Tre kvinnor dog i bussolyckan i centrala Stockholm - SVT Nyheter
 - Svensk 18-åring döms för mordförsök i Danmark - Aftonbladet
+- Man åtalas för grova ekobrott i Kinesiska muren i Malmö - SVT Nyheter
 - Direkt – Kriget i Ukraina – Flera dödade efter robotnedslag i Charkiv - Dagens Nyheter
-- DN Direkt – Styrelseledamot i vanskött förening åtalas - Dagens Nyheter
-- Person allvarligt skadad – påkörd av bil - Västerbottens-Kuriren
-- SD i Malmö vill satsa 40 miljoner på återvandring - Omni
+- Snö i veckan i Göteborg – men är ändå inte vinter - GP
+- Influencer misstänks för grova ekobrott – nu startar rättegången - SVT Nyheter
+- Barns rättigheter och våldsförebyggande arbete - Länsstyrelsen
 - Nooshi Dadgostar och Maria Forsberg presenterade förslaget till valplattform - Vänsterpartiet
-- Unga pratar med unga – nytt utbildningsmaterial om våld i nära relationer - polisen.se
-- Regeringen skärper reglerna för antibiotika - TV4 Nyheterna
+- Socialministern berättar om Sveriges nya antibiotikastrategi på Antibiotikaforum i Jönköping - NewsMachine AB
 - Så länge jobbar kvinnor gratis varje dag - GP
 - Trump svänger om Epsteindokument - SVT Nyheter
 - Ukraina vill köpa upp till 100 franska stridsplan - Dagens Nyheter
-- ”Mystiskt” plan med flyktingar från Gaza skapar förvirring i Sydafrika - Dagens Nyheter
-- DN Direkt – Person hittad död i Lidköping – misstänkt brott - Dagens Nyheter
-- Stockholmsbörsen ned för tredje dagen i rad – Saab lyfte på Colombia-affär - Dagens industri
-- Morgan Stanley höjer målet S&P 500 index - ser potential på nästan 16 procent fram till årsskiftet 26/27 - Börsvärlden
-- ”Ankareffekt” bakom uteblivna budgivningar - SvD
-- SSAB: Stora möjligheter, stora risker - Affärsvärlden
-- Låga Football Manager 26-betyg rör om i FZ High Score-toppen - FZ.se
-- ”Den bästa Knives Out-filmen hittills” kommer till Netflix om en månad – spana in nya trailern! - MovieZine
+- Skolelever bortförda av beväpnade män i Nigeria - SVT Nyheter
+- EU: Tre varianter för Ukraina-stöd - GP
+- Affärsvärlden står vid sidlinjen med neutralt råd för SSAB - Placera.se
+- Storbank: USA-börserna ska upp till nya rekord - Dagens industri
+- 3 idéer som hjälper investerare att förbereda sig för 2026 - Morningstar Canada
+- Intresset för bomber och granater växer - Dagens PS
+- Spana in de första bilderna ur "The Legend of Zelda"! - MovieZine
+- Xiaomi bekräftar Poco F8 Pro och Poco F8 Ultra som mål för förestående globalt lanseringsevenemang - notebookcheck.se
 
 ## World News
 
 - Hockeyn förenade under NHL Global Series - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Foppas kritik efter NHL Global Series - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
+- IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -41,9 +41,9 @@ _Updated: 2025-11-17 18:51_
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
-- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -54,22 +54,22 @@ _Updated: 2025-11-17 18:51_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-17 18:51_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
