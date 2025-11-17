@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 19:42_
+_Updated: 2025-11-17 20:50_
 
 ## Top Stories
 
 - Polisen: Tre kvinnor dog i bussolyckan i centrala Stockholm - SVT Nyheter
-- Svensk 18-åring döms för mordförsök i Danmark - Aftonbladet
-- Man åtalas för grova ekobrott i Kinesiska muren i Malmö - SVT Nyheter
-- Direkt – Kriget i Ukraina – Flera dödade efter robotnedslag i Charkiv - Dagens Nyheter
-- Snö i veckan i Göteborg – men är ändå inte vinter - GP
-- Influencer misstänks för grova ekobrott – nu startar rättegången - SVT Nyheter
-- Barns rättigheter och våldsförebyggande arbete - Länsstyrelsen
-- Nooshi Dadgostar och Maria Forsberg presenterade förslaget till valplattform - Vänsterpartiet
-- Socialministern berättar om Sveriges nya antibiotikastrategi på Antibiotikaforum i Jönköping - NewsMachine AB
-- Så länge jobbar kvinnor gratis varje dag - GP
+- Den franska sjukan hotar hela Europa: ”Vissa är lite bortskämda” - Dagens Nyheter
+- Person allvarligt skadad – påkörd av bil - Aftonbladet
+- S-löfte om försvaret: Aldrig mer tappa kontrollen - Västerbottens-Kuriren
 - Trump svänger om Epsteindokument - SVT Nyheter
-- Ukraina vill köpa upp till 100 franska stridsplan - Dagens Nyheter
+- Rapport: Fler palestinier dör i israeliska fängelser - Dagens Nyheter
+- DN Direkt – Sju års fängelse för skott i dansk frisörsalong - Dagens Nyheter
+- Nooshi Dadgostar och Maria Forsberg presenterade förslaget till valplattform - Vänsterpartiet
+- Barns rättigheter och våldsförebyggande arbete - Länsstyrelsen
+- Så länge jobbar kvinnor gratis varje dag - GP
+- EU: Tre varianter för Ukraina-stöd - Västerbottens-Kuriren
 - Skolelever bortförda av beväpnade män i Nigeria - SVT Nyheter
-- EU: Tre varianter för Ukraina-stöd - GP
-- Affärsvärlden står vid sidlinjen med neutralt råd för SSAB - Placera.se
-- Storbank: USA-börserna ska upp till nya rekord - Dagens industri
-- 3 idéer som hjälper investerare att förbereda sig för 2026 - Morningstar Canada
-- Intresset för bomber och granater växer - Dagens PS
+- Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
+- Många drunknade vid skeppsbrott - Västerbottens-Kuriren
+- Leon, 12, skulle slå till på rea – var dyrare än innan - Expressen
+- Då kan en liten svensk stad bli avgörande för Europas försvar - Dagens PS
+- Storbritannien förbereder motdrag till EU:s ståltullar - Dagens industri
+- Fler restauranger i konkurs – nya öppnar i tufft läge - Dagens Nyheter
 - Spana in de första bilderna ur "The Legend of Zelda"! - MovieZine
 - Xiaomi bekräftar Poco F8 Pro och Poco F8 Ultra som mål för förestående globalt lanseringsevenemang - notebookcheck.se
 
@@ -41,9 +41,9 @@ _Updated: 2025-11-17 19:42_
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -68,8 +68,8 @@ _Updated: 2025-11-17 19:42_
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Safe Pro Group Accelerates Growth Across AI, Drone Services, and Ballistic Divisions Following $20+ Million in Strategic Investments - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -101,19 +101,19 @@ _Updated: 2025-11-17 19:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-17 19:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- ”Research on bison completely wrong” - Forskning & Framsteg
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
