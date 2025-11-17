@@ -1,38 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 09:40_
+_Updated: 2025-11-17 10:51_
 
 ## Top Stories
 
-- Flera olyckor i trafiken: "Väldigt halt" - Dagens Nyheter
-- Fyra bilar i krock på E22 vid Hörby – halt på platsen - SVT Nyheter
+- Flera barn blev vittnen till bussolyckan – nu är de tillbaka i skolan - Dagens Nyheter
+- Flera trafikolyckor i Skåne – halt på vägar - SvD
+- Trump svänger om Epsteindokument - SVT Nyheter
+- Halkvarning på E22 – kör i 30 kilometer i timmen - Skånska Dagbladet
 - Det brinner i ett hyreshus på Hertsön - SVT Nyheter
 - Friskolornas oro för regeringens politik: ”Ansvarslöst” - Dagens Nyheter
-- ”Unga och starka – ser ner på gamla gubbarna” - SvD
-- Dödade partners – nästan var fjärde återfaller i brott - Aftonbladet
 - Liberalerna går till strid om röda linjen mot SD - Corren
 - Statssekreterare Helena Dyrssen deltar i COP30 - Regeringen.se
-- Explosion i Borås – VMA utfärdades - GP
+- Barns rättigheter och våldsförebyggande arbete - Länsstyrelsen
 - 17 november 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- SvD Morgonrapport: Trump vänder: Vill offentliggöra Epsteinhandlingar - SvD
-- Nedåt på Asienbörserna efter kinesisk resevarning - Västerbottens-Kuriren
+- Säkerhetsrådet ska rösta om planen för Gaza - Dagens Nyheter
 - USA:s storflygplatser återupptar normal trafik - Aftonbladet
-- DN Direkt – Tre dödade i ny amerikansk attack till havs - Dagens Nyheter
-- Ras i bitcoin – årets uppgång utraderad - Aftonbladet
-- Svenska kronans segertåg fortsätter - Dagens industri
-- Trendbrott när BNP-tillväxten faller i Japan - Dagens PS
+- Tre dödade i ny amerikansk attack till havs - Västerbottens-Kuriren
+- Tjernobyl-änka bland de döda i jätteattacken - Hufvudstadsbladet
+- Bitcoin faller – tusentals miljarder upp i rök - Dagens industri
 - Därför ökar oron om AI-bubblan - SvD
-- Stor manifestation mot vapenvåld - Västerbottens-Kuriren
-- ”VK har blivit både sämre och dyrare” - Västerbottens-Kuriren
+- Svenska kronans segertåg fortsätter - Aftonbladet
+- Embracer Group avser att notera Coffee Stain med en proforma nettokassaposition per 30 September 2025 om 500 miljoner SEK (MFN) - Aktiellt
+- DN Direkt – Chile går mot en andra valomgång - Dagens Nyheter
+- Hela listan: Så många miljoner kostade dyraste villan i Hagfors kommun senaste månaden - NWT
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Foppas kritik efter NHL Global Series - Aftonbladet
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
-- Panelens kritik mot Global Series: ”Det är pinsamt” - hockeysverige.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- NHL Global Series Sverige 2025: TV/stream, datum, matcher och biljetter - news.bet365.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
@@ -41,26 +39,27 @@ _Updated: 2025-11-17 09:40_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Ny global PwC-undersökning bland 50 000 medarbetare: Svenska medarbetare mer skeptiska till förändring - Cision News
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
-- Succébandet Bolaget på plats för Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Succébandet Bolaget på plats för Global Series - NHL.com
 
 ## Technology
 
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -68,8 +67,9 @@ _Updated: 2025-11-17 09:40_
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -107,13 +107,13 @@ _Updated: 2025-11-17 09:40_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
@@ -138,7 +138,7 @@ _Updated: 2025-11-17 09:40_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
