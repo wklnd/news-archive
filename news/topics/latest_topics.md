@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-17 12:47_
+_Updated: 2025-11-17 13:40_
 
 ## Top Stories
 
-- Flera barn blev vittnen till bussolyckan – nu är de tillbaka i skolan - Dagens Nyheter
-- Nooshi Dadgostar och Maria Forsberg presenterade förslaget till valplattform - Vänsterpartiet
+- Källa: Akut sjukdom bakom bussolyckan - Dagens Nyheter
+- Efter dödsfallet i Berget – TV4 pekar ut underleverantörer: ”Allas ansvar” - SVT Nyheter
+- Styrelseledamot i vanskött förening åtalas - Aftonbladet
 - Libaan Warsames son blev ihjälskjuten: ”Det är våra barn som mördas” - Dagens Nyheter
 - Friskolornas oro för regeringens politik: ”Ansvarslöst” - Dagens Nyheter
-- Det brinner i ett hyreshus på Hertsön - SVT Nyheter
-- DN Direkt – Taylor Green ber om ursäkt för ”toxisk politik” - Dagens Nyheter
+- Barns rättigheter och våldsförebyggande arbete - Länsstyrelsen
 - Skarp gräns för antibiotika i ny strategi - Västerbottens-Kuriren
 - Meteorologens varning: Risk för svarthalka - GP
 - Liberalerna går till strid om röda linjen mot SD - GP
-- Pressbriefing på COP30 i Brasilien - Regeringen.se
-- Trump svänger om Epsteindokument - SVT Nyheter
+- Statssekreterare Helena Dyrssen deltar i COP30 - Regeringen.se
 - Polen: Explosion på tågräls var sabotage - Dagens Nyheter
-- EU:s utrikesministrar har en hemlig Signal-grupp – Kaja Kallas pressas i EU-parlamentet - Dagens Nyheter
+- Albanien i full fart mot EU - Aftonbladet
+- Trump svänger om Epsteindokument - SVT Nyheter
 - Säkerhetsrådet ska rösta om planen för Gaza - Västerbottens-Kuriren
-- Ras i bitcoin – årets uppgång utraderad - Aftonbladet
-- SEB: Saabs Gripen-försäljning värd 3 kronor per aktie - Dagens industri
-- Svenska kronans segertåg fortsätter - Tidningen Näringslivet
 - Därför ökar oron om AI-bubblan - SvD
-- Stor manifestation mot vapenvåld - Västerbottens-Kuriren
-- Det här är de bästa bärbara datorerna att köpa hösten 2025 - 41 bärbara datorer i en tuff konflikt - notebookcheck.se
+- Ras i bitcoin – årets uppgång utraderad - Aftonbladet
+- DEBATT: Minskade klimatambitioner – farlig väg för finanssektorn - Dagens industri
+- Svenska kronans segertåg fortsätter - Tidningen Näringslivet
+- DN Direkt – Chile går mot en andra valomgång - Dagens Nyheter
+- Microsoft effektiviserar sin Xbox Publishing Guide och uppgraderar samtidigt intäktsmodellen för indiebolag - notebookcheck.se
 
 ## World News
 
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Foppas kritik efter NHL Global Series - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ny global PwC-undersökning bland 50 000 medarbetare: Svenska medarbetare mer skeptiska till förändring - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Series-aktuella Karlsson given kandidat till OS - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
@@ -153,12 +153,12 @@ _Updated: 2025-11-17 12:47_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Tio jordbruksaktier för depån - Placera.se
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
