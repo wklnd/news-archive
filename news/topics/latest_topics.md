@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-18 00:42_
+_Updated: 2025-11-18 01:40_
 
 ## Top Stories
 
-- Medarbetare på Karolinska död i svåra bussolyckan - Läkartidningen
-- Snö i veckan i Göteborg – men är ändå inte vinter - GP
-- FN:s säkerhetsråd ger grönt ljus åt internationell fredsstyrka i Gaza - SVT Nyheter
-- Dödsfall efter utbrott av blödarfeber i Etiopien - GP
-- Mångfald bland hundar redan för 11 000 år sedan - Aftonbladet
+- Polisen: Tre kvinnor dog i bussolyckan i centrala Stockholm - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Säkerhetsrådet ger grönt ljus för USA:s fredsplan - Dagens Nyheter
+- Växande militärmakt varnar sabotörer - Dagens PS
 - Unga pratar med unga – nytt utbildningsmaterial om våld i nära relationer - polisen.se
-- Brist på ansjovis i jul – “begränsat” - Västerbottens-Kuriren
-- Peter Alestig: I ögonen på en tjej från Sri Lanka syns varför klimatmötet behövs - Dagens Nyheter
-- Svensk 18-åring dömd i Danmark - SVT Nyheter
+- Mångfald bland hundar redan för 11 000 år sedan - Aftonbladet
 - Explosion i Borås – stor polisinsats i natt - GP
+- Peter Alestig: I ögonen på en tjej från Sri Lanka syns varför klimatmötet behövs - Dagens Nyheter
+- Tomas Ramberg: Nu kan Dadgostar inte vika sig utan att förnedras - Dagens Nyheter
+- Brist på ansjovis i jul – “begränsat” - Västerbottens-Kuriren
+- Urspårning på Tvärbanan - Expressen
 - Trump svänger om Epsteindokument - SVT Nyheter
 - DN Direkt – Taylor Green ber om ursäkt för ”toxisk politik” - Dagens Nyheter
-- Storbritannien skär ner på stöd till asylsökande – vill minska invandringen - SVT Nyheter
+- DN Direkt – Storbritannien föreslå skärpta flyktingregler – 20 år för uppehållstillstånd - Dagens Nyheter
 - Påven äter lasagne och kyckling med behövande - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- Berkshire Hathaway: Apple, Bank of America och Verisign-försäljningar uppvägs av Alphabet och Chubb-köp - Morningstar Canada
 - 26-årige AI-svensken blir dollarmiljardär - SvD
-- Buffetts intåg lyfter Alphabet mot strömmen på Wall Street - Dagens industri
-- Storbolag riskerar vite för vilseledande priser - Aftonbladet
-- Fler restauranger i konkurs – nya öppnar i tufft läge - Dagens Nyheter
+- DN Direkt – Trump: Kommer sälja F-35 till Saudiarabien - Dagens Nyheter
+- Svensk resort hyllas av världens viktigaste resemagasin - Dagens PS
 - Disputation: Karin Berggren - Karolinska Institutet
-- Galaxy Buds 4 Pro kommer kunna styras med huvudrörelser - m3.se
+- Garmin ska leverera avancerad hårdvara för digital krona på framtida Fenix smartwatch-liknande - notebookcheck.se
 
 ## World News
 
-- Hockeyn förenade under NHL Global Series - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Foppas kritik efter NHL Global Series - Aftonbladet
 - Matchdag: Vem tar hem det andra mötet i NHL Global Series? - NHL.com
-- IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
+- Foppas kritik efter NHL Global Series - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Hockeyn förenade under NHL Global Series - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
@@ -98,24 +98,24 @@ _Updated: 2025-11-18 00:42_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
@@ -143,9 +143,9 @@ _Updated: 2025-11-18 00:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -153,12 +153,12 @@ _Updated: 2025-11-18 00:42_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Tio jordbruksaktier för depån - Placera.se
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
