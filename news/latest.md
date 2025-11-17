@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-17 01:48_
+_Updated: 2025-11-17 04:23_
 
-- Marjorie Taylor Greene says Trump policies are 'not America first' in fight over MAGA - NPR
-- Trump’s investigation into Epstein ties to political foes might be ‘smokescreen’, Republican says - The Guardian
-- Border Patrol Fans Out Across Charlotte, N.C., Arresting 81 People on First Day - The New York Times
-- USS Gerald R. Ford aircraft carrier arrives in Caribbean in major buildup near Venezuela - CBS News
-- Trump's $2,000 tariff checks requires new law, Bessent says - Axios
-- GOP plans to replace Obamacare have failed. Here’s what lawmakers propose now. - The Washington Post
-- Large-scale search efforts now suspended for missing girl swept into ocean at Garrapata Beach - KSBW
-- New Orleans Elects Exonerated Man, Calvin Duncan, as Criminal Court Clerk - The New York Times
-- Trump blasts Indiana state lawmakers for not pursuing redistricting efforts - NBC News
-- Epstein Emails Reveal a Lost New York - The New York Times
+- Marjorie Taylor Greene doubles down on calls to release Epstein files - BBC
+- Dozens reportedly arrested in Charlotte, North Carolina, amid immigration crackdown - The Guardian
+- Latest U.S. Strike on Boat in Pacific Kills 3, Southern Command Says - The New York Times
 - Britain’s Labour Government Plans New, Tougher System for Asylum Seekers - The New York Times
+- The USS Gerald R. Ford aircraft carrier is in the Caribbean. Here's its backstory - NPR
+- Chile faces presidential run-off between leftist Jara and far-right’s Kast - Al Jazeera
+- FAA will lift emergency flight reductions Monday - NBC News
+- Body of missing girl believed found after man who drowned off Calif. beach ID'd - SFGATE
+- A New Orleans man who had his murder conviction tossed wins election as city’s chief record keeper - CNN
+- Trump news at a glance: Another Republican challenges Trump over Epstein files - The Guardian
 - Red Fort explosion: Man arrested over deadly Delhi car bomb blast - BBC
-- Friends Say a Suspect in the Louvre Heist Had Tried to Leave a Rough Past Behind - The New York Times
 - Leader of powerful Ecuadorian drug syndicate targeted by U.S. captured in Spain 4 years after faking his death - CBS News
-- Powerball jackpot rolls over to $570m as lottery officials hunt for winner who scooped $2m prize thanks to $1 choice - The US Sun
+- China Warns Its Students in Japan of Risks as Tensions Rise - Bloomberg.com
+- Friends Say a Suspect in the Louvre Heist Had Tried to Leave a Rough Past Behind - The New York Times
+- Japan economy contracts less than expected in September quarter - CNBC
+- Bitcoin Erases Year’s Gain as Crypto Bear Market Deepens - Bloomberg.com
+- Hidden homeownership costs hit nearly $16,000 a year, Zillow says - Seeking Alpha
 - Your artificial Christmas tree will cost more this year, thanks in part to tariffs - NPR
-- 6 laid-off Amazon workers share how they got the bad news, and how they're navigating an uncertain job market - Business Insider
-- Zillow raises red flag on mortgage rates, homes - TheStreet
+- OnePlus 15 is now global, we test the eSIM iPhone 17 Pro's battery, Week 46 in review - GSMArena.com news - GSMArena.com
 - Google is preparing big Android 17 gaming upgrades for fans of real controllers - Android Authority
-- Apple’s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com
