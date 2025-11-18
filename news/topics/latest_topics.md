@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-18 01:40_
+_Updated: 2025-11-18 04:19_
 
 ## Top Stories
 
-- Polisen: Tre kvinnor dog i bussolyckan i centrala Stockholm - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Säkerhetsrådet ger grönt ljus för USA:s fredsplan - Dagens Nyheter
-- Växande militärmakt varnar sabotörer - Dagens PS
+- Maduro redo för Trumpsamtal ”ansikte mot ansikte" - GP
+- Tre kvinnor omkom i bussolyckan - Bussmagasinet
+- Liseberg krävs på 6,4 miljoner – för gratis åkpass - GP
 - Unga pratar med unga – nytt utbildningsmaterial om våld i nära relationer - polisen.se
-- Mångfald bland hundar redan för 11 000 år sedan - Aftonbladet
 - Explosion i Borås – stor polisinsats i natt - GP
-- Peter Alestig: I ögonen på en tjej från Sri Lanka syns varför klimatmötet behövs - Dagens Nyheter
 - Tomas Ramberg: Nu kan Dadgostar inte vika sig utan att förnedras - Dagens Nyheter
-- Brist på ansjovis i jul – “begränsat” - Västerbottens-Kuriren
+- Oenighet i viktiga frågor vid FN:s klimatmöte - Västerbottens-Kuriren
 - Urspårning på Tvärbanan - Expressen
+- Så länge jobbar kvinnor gratis varje dag - GP
 - Trump svänger om Epsteindokument - SVT Nyheter
-- DN Direkt – Taylor Green ber om ursäkt för ”toxisk politik” - Dagens Nyheter
-- DN Direkt – Storbritannien föreslå skärpta flyktingregler – 20 år för uppehållstillstånd - Dagens Nyheter
 - Påven äter lasagne och kyckling med behövande - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- DN Direkt – Storbritanniens förslag – 20 år för att få uppehållstillstånd - Dagens Nyheter
+- EU: Tre alternativ för Ukraina-stöd - Dagens Nyheter
 - Berkshire Hathaway: Apple, Bank of America och Verisign-försäljningar uppvägs av Alphabet och Chubb-köp - Morningstar Canada
-- 26-årige AI-svensken blir dollarmiljardär - SvD
-- DN Direkt – Trump: Kommer sälja F-35 till Saudiarabien - Dagens Nyheter
+- Storbolag riskerar vite för vilseledande priser - Aftonbladet
+- Uppgifter: Chevron lockat att köpa Lukoil - Dagens industri
 - Svensk resort hyllas av världens viktigaste resemagasin - Dagens PS
-- Disputation: Karin Berggren - Karolinska Institutet
 - Garmin ska leverera avancerad hårdvara för digital krona på framtida Fenix smartwatch-liknande - notebookcheck.se
+- Disputation: Karin Berggren - Karolinska Institutet
 
 ## World News
 
@@ -50,13 +50,13 @@ _Updated: 2025-11-18 01:40_
 
 ## Technology
 
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -98,24 +98,24 @@ _Updated: 2025-11-18 01:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
@@ -125,27 +125,27 @@ _Updated: 2025-11-18 01:40_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -153,12 +153,12 @@ _Updated: 2025-11-18 01:40_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Tio jordbruksaktier för depån - Placera.se
+- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
