@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-18 07:49_
+_Updated: 2025-11-18 08:54_
 
-- Trump Has the Power to Release the Epstein Files. Why Doesn’t He? - The New York Times
-- UN security council votes to endorse Donald Trump’s Gaza plan - The Guardian
+- Trump Bows to Reality on Epstein Files Vote, in a Rare Retreat - The New York Times
 - 'Deeply ashamed': Larry Summers steps away from public life after Epstein emails - abcnews.go.com
-- Federal judge blasts potential ‘government misconduct’ in Comey case - The Washington Post
-- Immigration arrests in Charlotte have sparked fears, leading businesses to close - NBC News
+- UN security council votes to endorse Donald Trump’s Gaza plan - The Guardian
+- US Border Patrol arrests over 130 in first 48 hours of Charlotte immigration operation - Reuters
+- Judge Finds ‘Profound’ Missteps in DOJ’s Indictment of Comey - Bloomberg.com
 - Trump says Americans are ‘damn lucky’ he’s in office in first affordability pitch - Politico
 - Man charged in fatal shooting of house cleaner who arrived at wrong home - The Washington Post
-- MacKenzie Scott Gives $700 Million to Historically Black Colleges - The New York Times
+- Tennessee judge blocks Trump's use of National Guard in Memphis but gives time for government appeal - AP News
 - What to know about Trump's U.S. gunboat diplomacy near Venezuela - Axios
-- Scoop: House Democrats' infighting is poised to get even worse - Axios
-- U.K. proposes new asylum policy with 20-year wait and asset seizures - The Washington Post
 - Bangladesh's ousted prime minister sentenced to death for role in protest crackdown - NPR
-- Japan says warplanes scrambled as Chinese drone detected near southern island close to Taiwan - CBS News
-- Ukraine plans to buy up to 100 Rafale warplanes and air defense systems from France - AP News
-- Asian Stocks Set for Declines as Selloff Deepens: Markets Wrap - Bloomberg.com
-- Bitcoin Price News: BTC Plunges Under $90,000, Will it Recover? - CoinDesk
+- Key takeaways: What are the proposed asylum system reforms? - BBC
+- Japan warns citizens in China about safety as diplomatic crisis deepens - Reuters
+- As nations push for more ambition at climate talks, chairman says they may get it - AP News
+- Bitcoin Drops Below $90,000 for the First Time in Seven Months - Bloomberg.com
+- Bill Ackman's 'May I meet you?' line for talking to women goes viral, quickly gets the meme treatment - Business Insider
+- Stocks slip as markets eye US data barrage, Japan PM's meet with BOJ chief - Reuters
 - Elon Musk Calls Jeff Bezos ‘Copycat’ For Reported Launch Of $6.2 Billion AI Startup - Forbes
-- I've studied pickup artists, so trust me: Bill Ackman's line is awkward — but he's onto something - Business Insider
 - Apple is reportedly working on touch-sensitive cases for future iPhone Pros - GSMArena.com news - GSMArena.com
-- The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com
+- YouTube Music rolls out a time-saving playlist feature but not for Android users - Android Police
+- Samsung Internet's brand new design for One UI 8.5 leaks - SamMobile
