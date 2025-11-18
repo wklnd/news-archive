@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-18 08:51_
+_Updated: 2025-11-18 09:40_
 
 ## Top Stories
 
-- DN Direkt – Brand i restaurang på Djurgården - Dagens Nyheter
-- Japan manar medborgare i Kina till försiktighet - Västerbottens-Kuriren
-- FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
-- Hela listan: Så mycket tjänar vd:arna på Göteborgs bostadsjättar - GP
 - Liberalerna går till strid om röda linjen mot SD - GP
-- Karin Eriksson: Glöm New York – detta kan bli vänsterns verkliga fäste - Dagens Nyheter
+- Japan manar medborgare i Kina till försiktighet - Västerbottens-Kuriren
+- Hela listan: Så mycket tjänar vd:arna på Göteborgs bostadsjättar - GP
+- Efter dödsolyckan i Umeå – rutschbana återkallas - Västerbottens-Kuriren
+- FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
+- 18 november 07.50, Sammanfattning natt, Östergötlands län - polisen.se
 - Bussförare efter dödliga SL-olyckan: ”Väldigt stressigt” - Arbetet
 - Män måste kliva fram – våldet mot kvinnor är vårt ansvar - Länsstyrelsen
-- Oenighet i viktiga frågor vid FN:s klimatmöte - Västerbottens-Kuriren
-- 17 november 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- 18 november 07.50, Sammanfattning natt, Södermanlands län - polisen.se
+- Svensk strategi mot antimikrobiell resistens 2026-2035 - Regeringen.se
+- JUST NU: Anrika restaurangen i lågor: ”Smäll” - Expressen
+- Vänstervåg kan peta S från makten i Köpenhamn - GP
 - Påven äter lasagne och kyckling med behövande - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Direkt – Kriget i Ukraina – Ukrainsk attack skadar kraftverk i ryskkontrollerade Donetsk - Dagens Nyheter
 - Trump svänger om Epsteindokument - SVT Nyheter
-- Trinidad och Tobago: USA får ej attackera från oss - GP
 - Bixias vinterprognos: Mild vinter ger låga elpriser – men stora skillnader mellan norr och syd - Cision News
 - Nio av tio tåg kom i tid i oktober – en rekordmånad för persontågen - Via TT
-- Bitcoin faller under 90.000 dollar - Dagens industri
 - Saabs vd: Colombia ger ringar på vattnet - SvD
-- Google tar fortfarande emot data från sina osupporterade Nest-termostatrar - Teknikveckan
-- ”Mac har aldrig varit bättre” – säger Apple, fem år efter att de dumpade Intel - Macworld.se
+- Bitcoin faller under 90.000 dollar - Dagens industri
+- Google blir bättre på att förutspå väder - mobil.se
+- Keychrons mus överträffar alla mina förväntningar - PC för Alla
 
 ## World News
 
@@ -34,15 +34,15 @@ _Updated: 2025-11-18 08:51_
 - IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - Global donation till Leksands IF:s ungdomssektion - NHL.com
@@ -74,25 +74,25 @@ _Updated: 2025-11-18 08:51_
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Student and entry-level programs - EY
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -122,22 +122,22 @@ _Updated: 2025-11-18 08:51_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -145,20 +145,20 @@ _Updated: 2025-11-18 08:51_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
