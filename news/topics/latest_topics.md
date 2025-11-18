@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-18 10:49_
+_Updated: 2025-11-18 11:44_
 
 ## Top Stories
 
-- Clas Ohlson stärker erbjudandet inom teknik, tillbehör och reservdelar – förvärvar Phonelife och Reservdelaronline - Cision News
-- DN Direkt – Brand i restaurang på Djurgården - Dagens Nyheter
+- 18-åring erkänner terrorplanerna: ”Hade allvarligt kunnat skada Sverige” - ETC.se
+- Gick till knivattack mot ambulanspersonal – åtalas för mord - Dagens Nyheter
+- Källor: Mohamsson ville egentligen stryka den röda linjen - Omni
+- Efter dödsolyckan i Umeå – rutschbana återkallas - Västerbottens-Kuriren
 - Bebis med känd donator krävde ett års övertalning - Dagens Nyheter
-- Japan manar medborgare i Kina till försiktighet - Västerbottens-Kuriren
-- FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
-- Efter dödsolycka – rutschbana återkallas - GP
-- Fick två nya händer i somras – äter med bestick - Västerbottens-Kuriren
-- Åtalad 18-åring erkänner terrorplaner mot Kulturfestivalen - Dagens Nyheter
+- S och M överens: Förbjud aktivklubbarna - SvD
+- Stopp på E6 i Helsingborg - Expressen
+- Fick två nya händer i somras – äter med bestick - GP
 - Nya sexfenomenet är livsfarligt - UNT
-- Bussförare efter dödliga SL-olyckan: ”Väldigt stressigt” - Arbetet
+- 18 november 07.50, Sammanfattning natt, Östergötlands län - polisen.se
+- FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
+- Japan manar medborgare i Kina till försiktighet - Västerbottens-Kuriren
 - Påven äter lasagne och kyckling med behövande - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Trump svänger om Epsteindokument - SVT Nyheter
-- Vänstervåg kan peta S från makten i Köpenhamn - GP
 - Europas största glaciär dör inför turisternas ögon - Sydsvenskan
-- Saabs vd: Colombia ger ringar på vattnet - SvD
-- Börsen idag: Öppning nedåt väntas - Placera.se
-- Motorn hackar men krogen och hotellen drar Göteborg ur lågkonjunkturen - Dagens Nyheter
-- Bixias vinterprognos: Mild vinter ger låga elpriser – men stora skillnader mellan norr och syd - Cision News
+- Phonelife och Reservdelaronline välkomnas till Spares och Clas Ohlson! - Mynewsdesk
+- Bixia spår låga elpriser i vinter – men högre än i fjol - Placera.se
+- Rekordmånad - nästan alla persontåg i tid i oktober - JARNVAGSnyheter.se
+- Bitcoin faller under 90.000 dollar - Dagens industri
+- 5 tips för att spara pengar när du köper en surfplatta - TechRadar
 - Apple släpper sin Sports-app i Sverige - Macworld.se
-- iOS 26.2 beta 3 ger oss en ny AirDrop-funktion - Teknikveckan
 
 ## World News
 
@@ -50,21 +50,21 @@ _Updated: 2025-11-18 10:49_
 
 ## Technology
 
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Schneider Electric Debuts One Digital Grid Platform to Help Utilities Modernize and Address Energy Costs - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -74,25 +74,25 @@ _Updated: 2025-11-18 10:49_
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Student and entry-level programs - EY
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
