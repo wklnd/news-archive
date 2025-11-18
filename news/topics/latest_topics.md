@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-18 23:41_
+_Updated: 2025-11-19 00:42_
 
 ## Top Stories
 
+- Plusbetyg: Sverige–Slovenien - Aftonbladet
+- Drama i Sveriges playoff-motstånd – länderna som kan ryka - FotbollDirekt
+- Representanthuset röstar ja om Epsteindokument - Dagens Nyheter
+- Två allvarligt skadade efter olycka på E4 utanför Piteå - SVT Nyheter
 - En gripen på Stockholms central – misstänkt föremål var ofarligt - SVT Nyheter
-- DN Direkt – Fem döda i snöstorm i Chile - Dagens Nyheter
-- Fem personer till sjukhus efter olycka på E4 - Västerbottens-Kuriren
-- Smäll i trapphus – boende inrymda - GP
-- Ryssagenter pekas ut för Polendåd - SVT Nyheter
-- Bosättarrörelsen exploderar inifrån på Västbanken – men det är palestinska hus som bränns - Dagens Nyheter
-- Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
+- Explosion i flerfamiljshus i Värnamo - Hem - Värnamo
 - Uppgifter: Polisvapen användes vid skjutningar - GP
+- Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
 - Professorn om p-pillerrädslan: ”Obefogad oro" - Dagens Nyheter
 - Bussförare efter dödliga SL-olyckan: ”Väldigt stressigt” - Arbetet
-- Trump rullade ut röda mattan för bin Salman - GP
+- Trump rullade ut röda mattan för bin Salman - Västerbottens-Kuriren
 - FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
-- Trump till Vita huset-journalist: ”Tyst, lilla gris” - Omni
-- Brand på köpcentrum i Uddevalla - Expressen
+- Bosättarrörelsen exploderar inifrån på Västbanken – men det är palestinska hus som bränns - Dagens Nyheter
+- Fem turister döda i Chile - Aftonbladet
 - Åklagaren om beslagtagna Intellego-miljonerna: ”Kommande företagsbot” - Dagens industri
-- Klarnas förlust sväller: ”Vi har bara börjat” - SvD
 - DN Direkt – Klarna rasade på börsen i USA - Dagens Nyheter
 - Google-vd:ns varning – om AI-bubblan spricker - GP
+- Meta vinner i domstol – anses inte ha monopol - Aftonbladet
 - Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
 - Fynden du inte vill missa – 16 reatips - Aftonbladet
 
@@ -31,7 +31,6 @@ _Updated: 2025-11-18 23:41_
 - IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
 - Foppas kritik efter NHL Global Series - Aftonbladet
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -40,36 +39,37 @@ _Updated: 2025-11-18 23:41_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
 - Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
 
 ## Technology
 
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- Safe Pro Group Accelerates Growth Across AI, Drone Services, and Ballistic Divisions Following $20+ Million in Strategic Investments - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -101,10 +101,10 @@ _Updated: 2025-11-18 23:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2025-11-18 23:41_
 
 ## Science
 
+- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
 
