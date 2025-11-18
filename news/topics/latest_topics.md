@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-18 18:52_
+_Updated: 2025-11-18 19:42_
 
 ## Top Stories
 
 - Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
 - Uppgifter: Polisvapen har använts vid två skjutningar - Aftonbladet
-- Malin Lernfelt Hoten mot politiker hotar vår demokrati - TTELA
-- ”Bachmuts slaktare” står inför ödesbeslut - SvD
 - Ukrainare pekas ut för järnvägsdåd i Polen - Hufvudstadsbladet
-- En vecka fri från våld - Kriminalvården
-- Strul på internet – bland annat Chat GPT har tekniska problem - Aftonbladet
-- SMHI varnar för snöfall i Västra Götaland – risk för trafikproblem - SVT Nyheter
+- Malin Lernfelt Hoten mot politiker hotar vår demokrati - TTELA
+- Kronoberg och Connect Bus går skilda vägar – bryter avtal i förtid (uppdaterad) - Bussmagasinet
+- Kritisk omröstning om Epsteinfilerna i kväll - Skånska Dagbladet
+- Fem personer till sjukhus efter olycka på E4 - SVT Nyheter
+- Kraftigt snöfall väntar i Värmland – SMHI utfärdar gul varning: ”Sakta ner” - NWT
 - Bussförare efter dödliga SL-olyckan: ”Väldigt stressigt” - Arbetet
 - Sverige och Tyskland undertecknar nytt samförståndsavtal om försvarssamarbete - Regeringen.se
 - Nathan Shachar: Bin Salmans besök hos Trump en röra av storpolitik och privataffärer - Dagens Nyheter
 - FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
-- Trump svänger om Epsteindokument - SVT Nyheter
 - Trump till Vita huset-journalist: ”Tyst, lilla gris” - Omni
+- Fullt utvecklad villabrand i Torsås – risk för spridning - Expressen
 - Intellegos vd anhållen för grovt svindleri - EFN
 - Flat Capital dras med i Klarnas rapportras - Dagens industri
-- Kritiken mot Gripen-affär: ”Värdelös” - Expressen
-- Bred nedgång på europeiska börser - SVT Nyheter
+- Norska näringsministern kallar till krismöte - tullarna kan slå hårt mot industrin - Metal Supply
+- Microsoft och Nvidia investerar totalt 15 miljarder dollar i Anthropic - Placera.se
+- Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
 - Flera svenska spel nominerade till Game Awards - Aftonbladet
-- 5 saker vi vill se från iPhone 18 och iPhone 18 Pro - TechRadar
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-18 18:52_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - IonQ to Acquire U.S. Optical Communications Leader Skyloom Global to Accelerate Worldwide QuantumNetworking and Sensing Infrastructure - Placera.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - ACI Worldwide to Discuss Payments Modernization and Fraud Trends at Three Investor Conferences - Placera.se
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Hockeyn förenade under NHL Global Series - NHL.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
+- Hockeyn förenade under NHL Global Series - NHL.com
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
-- Matchdag: Predators vinnare av första Global Series-mötet - NHL.com
-- Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
-- Snöplig förlust för Penguins, Karlsson i Global Series - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
 
 ## Technology
 
@@ -124,21 +124,21 @@ _Updated: 2025-11-18 18:52_
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-11-18 18:52_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Tio jordbruksaktier för depån - Placera.se
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
