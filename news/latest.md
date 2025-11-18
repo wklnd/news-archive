@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-18 21:48_
+_Updated: 2025-11-18 23:48_
 
-- Federal court blocks Texas from using new congressional gerrymander in 2026 midterms - The Texas Tribune
-- Trump defends Saudi crown price, who U.S. intelligence found ordered killing of Washington Post columnist - Politico
-- House set to vote on release of Epstein documents after Trump U-turn - The Guardian
-- Trump administration shares new moves to dismantle more of the Education Department - NPR
-- Brian Walshe pleads guilty to lesser charges related to death of his wife as murder trial is set to begin - CNN
-- GOP Rep. Marjorie Taylor Greene hits back at Trump: 'I've never owed him anything' - abcnews.go.com
-- Larry Summers to Step Back From Public Commitments Over Epstein Emails - The New York Times
-- Federal immigration agents will expand enforcement action in North Carolina to Raleigh, mayor says - AP News
+- Epstein files bill passes resoundingly in House with only 1 no vote - abcnews.go.com
+- Trump defends Saudi crown prince, who US intelligence found ordered killing of Washington Post columnist - Politico
 - Chuy García was the first signer of top aide’s ballot petitions , document shows - Politico
+- U.S. Department of Education Announces Six New Agency Partnerships to Break Up Federal Bureaucracy - U.S. Department of Education (.gov)
+- Trump faces criticism for referring to female Bloomberg reporter as ‘piggy’ - The Guardian
+- Federal Court Blocks Texas’ Republican-Friendly Congressional Map - The New York Times
+- Federal immigration agents will expand enforcement action in North Carolina to Raleigh, mayor says - AP News
+- Brian Walshe pleads guilty to lesser charges related to death of his wife as murder trial begins - CNN
+- Federal probe faults ship’s wire failure, lack of bridge reinforcement for Key Bridge disaster - Politico
+- Larry Summers steps back from public role after Epstein emails emerge - BBC
 - U.N. Support Propels Trump Gaza Plan, but Road Ahead Is Still Rough - The New York Times
-- Hasina's death sentence sets stage for volatile Bangladesh vote - Reuters
 - UK will not tolerate Chinese spying, minister says after MI5 alert - BBC
-- Ukraine’s Zelenskyy headed to Turkiye in bid to resuscitate peace talks - Al Jazeera
-- Meta Did Not Violate Antitrust Law, Judge Rules - The New York Times
-- Crypto market sheds more than $1tn in six weeks amid fears of tech bubble - The Guardian
-- Kroger Evolves eCommerce Offerings to Improve the Customer Experience, Drive Profitable Sales Growth - Kroger
-- Stock Market Today: Dow Jones Tries To Dig Out; Microsoft And Nvidia Partner Up But Still Tumble (Live Coverage) - Investor's Business Daily
+- Polish PM says two responsible for railway blast worked for Russian intelligence - Reuters
+- Bangladesh remains calm a day after tribunal issues death sentence for ousted prime minister - AP News
+- Dow closes down nearly 500 points, S&P logs its longest slide since August - CNBC
+- Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals - Bloomberg.com
+- Cloudflare outage briefly disrupts ChatGPT, X and dozens of apps - The Washington Post
+- Google is launching Gemini 3, its ‘most intelligent’ AI model yet - The Verge
 - Steam Machine and Steam Frame: your questions answered - The Verge
-- The Analogue 3D is the modern N64 fans have been waiting for - Ars Technica
-- Has Samsung Installed ‘Unremovable Israeli Spyware’ On Your Phone? - Forbes
+- New Windows 11 AI agents can work in the background but create new security risks - Ars Technica
