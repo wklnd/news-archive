@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-18 13:48_
+_Updated: 2025-11-18 15:19_
 
-- House to vote on full Epstein files' release -- the move Speaker Mike Johnson fought for months - abcnews.go.com
+- After months of infighting, House GOP could vote today to release the Epstein files - NPR
+- Trump has elaborate welcome planned for MBS during Saudi crown prince's White House visit - CBS News
 - Larry Summers steps back from public role after Epstein emails emerge - BBC
-- US Border Patrol arrests over 130 in first 48 hours of Charlotte immigration operation - Reuters
-- Trump says he will sell F-35s to Saudi Arabia - Politico
-- Judge Finds ‘Profound’ Missteps in DOJ’s Indictment of Comey - Bloomberg.com
-- U.N. Security Council approves Trump’s 20-point peace plan for Gaza - The Washington Post
-- Indiana fatal shooting renews questions about stand-your-ground laws and their limits. Here’s what to know - CNN
+- Charlotte’s Web: What’s happening with North Carolina immigration raids? - Al Jazeera
+- Exclusive: AOC says Jeffries primary challenge not a "good idea" - Axios
+- UN security council votes to endorse Donald Trump’s Gaza plan - The Guardian
+- Indiana homeowner charged in fatal shooting of house cleaner who showed up at wrong door - Politico
 - Trump administration sues California for banning federal agents from wearing face coverings - CBS News
-- MacKenzie Scott Gives $700 Million to Historically Black Colleges - The New York Times
+- Judge scolds Justice Department for ‘profound investigative missteps’ in Comey case - AP News
 - How Trump's comments about Fuentes and Carlson could prolong a Republican rift over antisemitism - AP News
-- After years away from Washington, Saudi crown prince to get warm embrace from Trump, US business - AP News
-- Japan warns citizens in China about safety as diplomatic crisis deepens - Reuters
-- Key takeaways: What are the proposed asylum system reforms? - BBC
-- Bangladesh's ousted prime minister sentenced to death for role in protest crackdown - NPR
+- Bangladesh Former Prime Minister Sheikh Hasina Sentenced to Death - Democracy Now!
+- Japan movie releases postponed in China after Taiwan row - BBC
+- Mysterious poisoning case deepens after deaths of 2 children and their parents at popular Istanbul tourist site - CBS News
+- Ukraine’s Zelenskyy headed to Turkiye in bid to resuscitate peace talks - Al Jazeera
 - Home Depot cuts earnings outlook as home improvement demand falls short of expectations - CNBC
-- US has warned others to avoid loans from Chinese state banks. But it's the biggest recipient of all - abcnews.go.com
-- ‘Ugly’ Technicals Put the US Stock Rally at Risk of Correction - Bloomberg.com
-- Trump International Maldives Hotel Will Offer Tokenized Real Estate Investments - Decrypt
-- Apple releases iOS 26.2 beta 3 for iPhone - 9to5Mac
+- Panera lost diners by cutting portions and staff. It's reversing course to win them back - CNBC
+- Crypto Plunge Adds to Angst as Markets Extend Broad Retreat - Bloomberg.com
+- Cloudflare is down, causing outages at X, OpenAI, and even taking some multiplayer games offline - Windows Central
 - Windows boss defends 'agentic OS' push as users plead for reliability - theregister.com
+- Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family - Android Authority
