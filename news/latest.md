@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-18 16:52_
+_Updated: 2025-11-18 17:52_
 
 - Cloudflare down: X and more apps hit by internet outage - BBC
-- After months of infighting, House GOP could vote today to release the Epstein files - NPR
+- Scoop: Mike Johnson to back Epstein files discharge petition - Axios
+- The Growing Cost of Keeping Close Ties with Jeffrey Epstein - The New York Times
 - Trump has elaborate welcome planned for MBS during Saudi crown prince's White House visit - CBS News
-- 'Deeply ashamed': Larry Summers steps away from public life after Epstein emails - abcnews.go.com
-- Exclusive: AOC says Chi Ossé primary challenge against Jeffries not a "good idea" - Axios
-- UN security council votes to endorse Donald Trump’s Gaza plan - The Guardian
 - Federal agents to begin immigration operations in Raleigh, mayor says - abcnews.go.com
+- Netanyahu applauds UN adoption of Trump’s Gaza plan and Hamas rejects it - AP News
 - Indiana homeowner charged in fatal shooting of house cleaner who showed up at wrong door - Politico
+- Man charged after migrant boat capsizes near San Diego, killing 4 passengers - CBS News
 - MacKenzie Scott Gives $700 Million to Historically Black Colleges - The New York Times
-- How Trump's comments about Fuentes and Carlson could prolong a Republican rift over antisemitism - AP News
-- Poland rail explosion: PM says blast was 'unprecedented act of sabotage' - BBC
+- Mahmood Mamdani on Zohran, Uganda and forced expulsion: ‘Who is part of the nation and who is not?’ - The Guardian
+- Poland says 2 Ukrainians working for Russia are suspected of being involved in railway blast - AP News
+- China Accuses Takaichi of Reviving Japan’s ‘Militarist Demons’ - Bloomberg.com
 - Bangladesh Former Prime Minister Sheikh Hasina Sentenced to Death - Democracy Now!
-- Chinese travellers cancel hundreds of thousands of trips to Japan amid rising tensions - The Guardian
 - Mysterious poisoning case deepens after deaths of 2 children and their parents at popular Istanbul tourist site - CBS News
-- S&P 500 Set to Slide for a Fourth Day on AI, Crypto Jitters - Bloomberg.com
-- Home Depot’s stock sinks as good weather and housing weakness lead to a profit miss - MarketWatch
+- Stock Market Today: Dow Jones Index Sinks 600 Points As Nvidia, Home Depot See More Losses (Live Coverage) - Investor's Business Daily
 - Panera lost diners by cutting portions and staff. It's reversing course to win them back - CNBC
-- Crypto market sheds more than $1tn in six weeks amid fears of tech bubble - The Guardian
+- Is a 50-year mortgage really that much crazier than a 30-year one? : Planet Money - NPR
+- Musk Calls Bezos 'Copycat' For AI Startup Project Prometheus - Forbes
 - Steam Machine and Steam Frame: your questions answered - The Verge
-- Apple confirms side-button support for third-party voice assistants other than Siri in Japan - 9to5Mac
+- Windows 11 to add an AI agent that runs in background with access to personal folders, warns of security risk - Windows Latest
