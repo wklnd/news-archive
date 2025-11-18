@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-18 19:49_
+_Updated: 2025-11-18 20:55_
 
-- Trump and Saudi's crown prince talking to media in Oval Office - BBC
-- Epstein survivors speak out ahead of House vote, take aim at Trump - abcnews.go.com
-- Trump administration moving some Education Department offices to other agencies as part of dismantling effort - CNN
-- Larry Summers to Step Back From Public Commitments Over Epstein Emails - The New York Times
+- Trump greets Saudi crown prince in lavish reception for 1st visit since Khashoggi murder - abcnews.go.com
+- "Don't muck it up" : Massie urges Senate to pass Epstein bill as House vote looms - Axios
+- Trump administration to announce dismantling of much of Education Dept. - The Washington Post
+- Larry Summers steps back from public role after Epstein emails emerge - BBC
+- Federal court blocks Texas from using new congressional gerrymander in 2026 midterms - The Texas Tribune
 - Brian Walshe pleads guilty to lesser charges related to death of his wife as murder trial is set to begin - CNN
-- Feds bringing North Carolina immigration enforcement actions to Raleigh, mayor says, as they stay in Charlotte as well - CBS News
-- Indiana homeowner charged in fatal shooting of house cleaner who showed up at wrong door - Politico
-- GOP Rep. Marjorie Taylor Greene hits back at Trump: 'I've never owed him anything' - abcnews.go.com
-- College students help police make arrest in 1991 cold case murder investigation - NBC News
+- Federal immigration agents will expand enforcement action in North Carolina to Raleigh, mayor says - AP News
+- 7 signs Trump is losing his groove - Politico
+- Whitestown man charged in shooting death of cleaning woman who went to wrong house - WFYI
 - Man charged after migrant boat capsizes near San Diego, killing 4 passengers - CBS News
 - U.N. Support Propels Trump Gaza Plan, but Road Ahead Is Still Rough - The New York Times
+- Hasina's death sentence sets stage for volatile Bangladesh vote - Reuters
 - Poland says 2 Ukrainians working for Russia are suspected in railway track blast - AP News
-- Can India Deny Dhaka's Request To Extradite Sheikh Hasina? What Rules Say - NDTV
-- Chinese travellers cancel hundreds of thousands of trips to Japan amid rising tensions - The Guardian
+- UK will not tolerate Chinese spying, minister says after MI5 alert - BBC
 - Cloudflare outage impacts thousands, disrupts transit systems, ChatGPT, X and more - AP News
-- Stock Market Today: Dow Drops, Home Depot Shares Fall— Live Updates - The Wall Street Journal
-- Bitcoin slides below $90,000 as traders grow cautious - Reuters
-- Home Depot Earnings: CEO Blames Storms, Stock Drops - Barron's
+- Stock Market Today: AI Bubble Fear Rattles Stocks; Dow Drops — Live Updates - The Wall Street Journal
+- Kroger Evolves eCommerce Offerings to Improve the Customer Experience, Drive Profitable Sales Growth - Kroger
+- Roblox blocks children from chatting to adult strangers - BBC
 - Analogue3D Review - IGN
 - Steam Machine and Steam Frame: your questions answered - The Verge
