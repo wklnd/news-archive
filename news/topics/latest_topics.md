@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 06:45_
+_Updated: 2025-11-19 07:43_
 
 ## Top Stories
 
 - Ja även i senaten om Epsteindokument – nu upp till Trump - Dagens Nyheter
+- Morgonrapporten: Nu kommer första snön - Västerås Tidning
+- Hög risk för självmord efter upprepad psykiatrisk tvångsvård - Socialstyrelsen
+- Bara 3 av 10 000 saknar id – tillfälliga kontrollerna kvar efter tio år - HD – Nyheter Dygnet Runt
+- Ukrainare pekas ut – misstänks för sabotaget - Expressen
 - Forskare kräver skärpta kostråd mot ultraprocessad mat - Dagens Nyheter
-- Oavgjort för Sverige i VM-kvalet - Aftonbladet
-- Stor guide: Så tar sig Sverige till fotbolls-VM 2026 i Nordamerika - GP
-- Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
-- Insiderjägarnas nya vapen: ”Otrolig skillnad” - SvD
 - Tonåringar till sjukhus efter krock med epatraktor - SVT Nyheter
-- ”Ett under att det inte skett fler olyckor här” - Dagens Nyheter
-- En gripen på Stockholms central – misstänkt föremål var ofarligt - SVT Nyheter
-- Två allvarligt skadade efter olycka på E4 - GP
+- Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
+- Insändare. Det osynliga våldet bland äldre risker att förbi okänt - Enköpingsposten
+- Nya sexfenomenet är livsfarligt - UNT
+- Trump: Dra in ABC:s tillstånd - GP
 - FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
-- Ukraina: Attackerade i Ryssland med Atacms - GP
 - Saudiarabiens kronprins i Vita huset – frågor om Khashoggi avfärdas - SVT Nyheter
-- Japan varnar medborgare i Kina - GP
-- DN Direkt – Klarna rasade på börsen i USA - Dagens Nyheter
-- Åklagaren om beslagtagna Intellego-miljonerna: ”Kommande företagsbot” - Dagens industri
-- Meta vinner i domstol – anses inte ha monopol - Aftonbladet
-- Alphabet-chefen: Alla drabbas när AI-bubblan spricker – ”även vi” - NyTeknik
+- Ukraina: Attackerade i Ryssland med Atacms - GP
+- Expert på finanskrascher: Finns många tecken nu - SvD
+- Mitt ex flyttade ut – nu har han skickat en faktura - Dagens Nyheter
+- Fortsatt negativt på börsen i USA - Sydsvenskan
+- Ekobrottsmyndigheten slog till mot Intellego - Omni
 - Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
 - Fynden du inte vill missa – 16 reatips - Aftonbladet
 
@@ -156,9 +156,9 @@ _Updated: 2025-11-19 06:45_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
