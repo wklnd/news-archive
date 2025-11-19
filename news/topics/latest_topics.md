@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 08:51_
+_Updated: 2025-11-19 09:40_
 
 ## Top Stories
 
-- JUST NU: SMHI tvärvänder – drar tillbaka varningen: ”Försvunnit” - NWT
+- SMHI: Gul varning för snö i Västsverige - GP
 - Karl Dalén: Epsteins offer gjorde det svårt att rösta nej - Dagens Nyheter
-- Hög risk för självmord efter upprepad psykiatrisk tvångsvård - Socialstyrelsen
+- DN Direkt – Efter mer än 100 år – S förlorar i Köpenhamn - Dagens Nyheter
 - Fick miljard till barn – flyr från Sverige - Expressen
-- INSÄNDARE: Orange Week visar vägen i arbetet mot våldet - Kristianstadsbladet
-- Bara 3 av 10 000 saknar id – tillfälliga kontrollerna kvar efter tio år - HD – Nyheter Dygnet Runt
-- Liberalernas väljarstöd slår bottenrekord: ”Ett parti i spagat” - Dagens Nyheter
-- Granskning: Få elever klarar SFI - Dagens Arena
+- Hög risk för självmord efter upprepad psykiatrisk tvångsvård - Socialstyrelsen
 - EU och Latinamerika kan rädda klimatet från Trump - Altinget.SE
-- Tonåringar till sjukhus efter krock med epatraktor - SVT Nyheter
-- Brand på sopstation – kraftig rök över E6 och E4 - Expressen
-- FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
-- Trump till Vita huset-journalist: ”Tyst, lilla gris” - Omni
-- Många skadade i attack mot Charkiv - GP
+- Liberalernas väljarstöd slår bottenrekord: ”Ett parti i spagat” - Dagens Nyheter
+- Bara 3 av 10 000 saknar id – tillfälliga kontrollerna kvar efter tio år - HD – Nyheter Dygnet Runt
+- 19 november 08.04, Sammanfattning natt, Östergötlands län - polisen.se
+- Granskning: Få elever klarar SFI - Dagens Arena
+- Ukraina: Minst nio dödade i en rysk attack - GP
+- Sov med pilbåge – tagen av polis - Expressen
+- Källor: USA arbetar på ny fredsplan för Ukraina - EFN
+- Stödet för Donald Trump faller till lägstanivåer - Dagens industri
 - En tredjedel av butikerna i småstäder borta - Aftonbladet
+- AI-jätten Nvidia släpper ”ödesrapport” för börsen • Tele2 granskas av PTS - Omni
 - Mitt ex flyttade ut – nu har han skickat en faktura - Dagens Nyheter
 - Expert: Finns många tecken på ny finanskrasch - Hufvudstadsbladet
-- Ekobrottsmyndigheten slog till mot Intellego - Omni
 - Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
 - iPhone 17 vs iPhone 17 Pro – bör du välja Pro-modellen? - TechRadar
 
@@ -39,14 +39,14 @@ _Updated: 2025-11-19 08:51_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
-- Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
+- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
 - DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
+- Spire Global Ships Nine Satellites to Launch Site - Placera.se
 
 ## Technology
 
@@ -83,16 +83,16 @@ _Updated: 2025-11-19 08:51_
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
