@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 09:40_
+_Updated: 2025-11-19 10:49_
 
 ## Top Stories
 
-- SMHI: Gul varning för snö i Västsverige - GP
-- Karl Dalén: Epsteins offer gjorde det svårt att rösta nej - Dagens Nyheter
-- DN Direkt – Efter mer än 100 år – S förlorar i Köpenhamn - Dagens Nyheter
-- Fick miljard till barn – flyr från Sverige - Expressen
+- Gul varning för snö i Västsverige - GP
+- Efter mer än 100 år – S förlorar i Köpenhamn - Västerbottens-Kuriren
+- Misstänkt farligt föremål i Malmö oskadliggjort - SVT Nyheter
 - Hög risk för självmord efter upprepad psykiatrisk tvångsvård - Socialstyrelsen
-- EU och Latinamerika kan rädda klimatet från Trump - Altinget.SE
+- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - polisen.se
+- Ukraina: Minst nio dödade i en rysk attack - Dagens Nyheter
 - Liberalernas väljarstöd slår bottenrekord: ”Ett parti i spagat” - Dagens Nyheter
-- Bara 3 av 10 000 saknar id – tillfälliga kontrollerna kvar efter tio år - HD – Nyheter Dygnet Runt
-- 19 november 08.04, Sammanfattning natt, Östergötlands län - polisen.se
+- ”Ett under att det inte skett fler olyckor här” - Dagens Nyheter
 - Granskning: Få elever klarar SFI - Dagens Arena
-- Ukraina: Minst nio dödade i en rysk attack - GP
-- Sov med pilbåge – tagen av polis - Expressen
-- Källor: USA arbetar på ny fredsplan för Ukraina - EFN
-- Stödet för Donald Trump faller till lägstanivåer - Dagens industri
-- En tredjedel av butikerna i småstäder borta - Aftonbladet
+- 19 november 08.04, Sammanfattning natt, Östergötlands län - polisen.se
+- Direkt – Kriget i Ukraina – Uppgifter: USA och Ryssland jobbar på fredsplan - Dagens Nyheter
+- Karl Dalén: Epsteins offer gjorde det svårt att rösta nej - Dagens Nyheter
+- Gänguppgörelse i Norge – fyra svenskar dömda - Västerbottens-Kuriren
+- Två tonåringar till sjukhus – bil krockade med A-traktor - Expressen
+- En tredjedel av butikerna i småstäder borta - Tidningen Näringslivet
+- Hyreshushåll betalar störst andel för boendet - Dagens Nyheter
 - AI-jätten Nvidia släpper ”ödesrapport” för börsen • Tele2 granskas av PTS - Omni
 - Mitt ex flyttade ut – nu har han skickat en faktura - Dagens Nyheter
-- Expert: Finns många tecken på ny finanskrasch - Hufvudstadsbladet
+- ”Call of duty" sjunker djupare ned i galenskapen - GP
 - Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
-- iPhone 17 vs iPhone 17 Pro – bör du välja Pro-modellen? - TechRadar
 
 ## World News
 
@@ -35,16 +35,16 @@ _Updated: 2025-11-19 09:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
-- Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
 - Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
+- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
 - Spire Global Ships Nine Satellites to Launch Site - Placera.se
 
@@ -60,16 +60,16 @@ _Updated: 2025-11-19 09:40_
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
