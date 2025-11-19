@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 16:46_
+_Updated: 2025-11-19 17:41_
 
 ## Top Stories
 
-- Kritiserad friskolefest på Sagerska flyttad - GP
-- Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
-- KD vill slopa de svenska klimatmålen - Västerbottens-Kuriren
-- Ukraina: Minst tio dödade i en rysk attack - HD
+- Ymnigt snöfall i länet – gul varning utfärdas - Dagens Nyheter
 - Epsteinutredningen släpps & Schulman vs Pourmokhtari – P3 Nyheter med Babs Drougge - Sveriges Radio
-- Pourmokhtari om striden i L: ”Finns många mossiga gamla politiker” - Dagens Nyheter
+- Kritiserad friskolefest på Sagerska flyttad - GP
+- KD vill slopa svenska klimatmålen - SVT Nyheter
+- Klart: Judisk filmfestival hålls på Palladium i Malmö - SVT Nyheter
+- Ukraina: Minst tio dödade i en rysk attack - HD
 - Brand i bowlinghall i Norrtälje - SVT Nyheter
+- Pourmokhtari om striden i L: ”Finns många mossiga gamla politiker” - Dagens Nyheter
 - Kommentar: Liberalerna på bottennivå inför ödeshelgen - GP
-- Dubbla lyxbilar togs av polisen – visar bilder - Expressen
-- Skådespelare döms till fängelse – höll fast och våldtog kvinna - Expressen
+- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - polisen.se
 - Ingmar Nevéus: Trump trappar upp attackerna mot kvinnliga journalister - Dagens Nyheter
 - Ministrar sparkas efter Ukrainas korruptionshärva - GP
-- Uppgifter: USA och Ryssland jobbar på fredsplan - Västerbottens-Kuriren
-- Följer ryskt fartyg utanför kusten: ”Vi ser er” - GP
-- Ensamstående kvinnor i hyresrätt lägger mest på boendet - tidningensyre.se
+- Ryska spionfartyget Yantar utanför Skottlands kust - TV4 Nyheterna
+- Palestinier fortsatt positiva till attacken mot Israel – och vill inte att Hamas avväpnas - Dagen
+- Hushåll i hyresrätt lägger störst andel av sin inkomst på boendet - Statistikmyndigheten SCB
 - Nokias Nvidia-rally upp i rök - Dagens industri
-- Färre klick om kakor när EU slopar dataregler - SvD
-- DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
+- Färre klick om kakor när EU slopar dataregler - Tidningen Näringslivet
+- UPPÅT INFÖR NVIDIAS RAPPORT, S&P500 +0,7% - Placera.se
 - Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
-- DJI släpper Osmo Action 6 - kameran som hänger med överallt - dopest.se
+- Iphone 17 vs Iphone 16: ny studie visar tydlig wifi-vinnare - Macworld.se
 
 ## World News
 
@@ -35,11 +35,11 @@ _Updated: 2025-11-19 16:46_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
@@ -159,6 +159,6 @@ _Updated: 2025-11-19 16:46_
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
