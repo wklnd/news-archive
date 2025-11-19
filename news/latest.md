@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-19 01:48_
+_Updated: 2025-11-19 04:21_
 
-- Live Updates: House Begins Vote on Epstein Files Amid Trump Reversal - The New York Times
-- Trump defends Saudi crown prince over Khashoggi killing - The Washington Post
-- Federal court blocks Texas Republicans' redrawn congressional map - NBC News
-- Trump administration launches plan to dismantle Education Department - Politico
-- Two dozens House Democrats vote with Republicans to rebuke one of their members - Axios
-- Trump faces criticism for referring to female Bloomberg reporter as ‘piggy’ - The Guardian
-- Cargo ship initially lost power due to loose wire before crashing into Key Bridge: NTSB - abcnews.go.com
+- After House Vote to Release Epstein Files, Senate Agrees to Send Bill to Trump: Live Updates - The New York Times
+- Trump defends Saudi crown prince over question about killing of Khashoggi - NPR
+- In blow to Trump, federal judges block new Texas congressional map - Politico
+- Republicans move to oust Democrat Plaskett from House Intel panel over Epstein texts - Axios
+- House reprimands Illinois congressman over succession plan, angering Democrats - AP News
+- Trump administration announces dismantling of parts of Education Dept. - The Washington Post
 - Fear spreads as federal immigration crackdown in North Carolina expands to Raleigh - AP News
-- Larry Summers steps back from public role after Epstein emails emerge - BBC
-- Brian Walshe pleads guilty to lesser charges related to death of his wife as murder trial is set to begin - CNN
+- FBI probing stepsibling in cruise ship death of Florida teen, filing suggests - CBS News
+- Trump faces criticism for referring to female Bloomberg reporter as ‘piggy’ - The Guardian
 - UK will not tolerate Chinese spying, minister says after MI5 alert - BBC
 - UN security council votes to endorse Donald Trump’s Gaza plan - The Guardian
-- South Africa foreign minister says charter flights part of a plan to clear Palestinians out of Gaza - AP News
-- Clamour for change inside the world's COP30 climate negotiations - Reuters
-- Stock Market Today: AI Bubble Fear Rattles Stocks; Dow Drops — Live Updates - The Wall Street Journal
+- Double down on push to abandon fossil fuels, 82 countries urge at climate summit - Politico
+- Polish PM says two responsible for railway blast worked for Russian intelligence - Reuters
 - Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals - Bloomberg.com
-- Cloudflare traces hours-long outage to one single file - Axios
 - Google unveils Gemini 3 AI model and AI-first IDE called Antigravity - Ars Technica
-- Steam Machine and Steam Frame: your questions answered - The Verge
+- Stock futures little changed as S&P 500 notches fourth-straight loss, Nvidia earnings loom: Live updates - CNBC
+- Speech by Governor Barr on bank supervision - Federal Reserve Board (.gov)
 - PlayStation 2025 Black Friday deals announced: Sony is taking $100 off PS5 consoles starting on Friday - Engadget
+- Steam Machine and Steam Frame: your questions answered - The Verge
+- Microsoft tries to head off the “novel security risks” of Windows 11 AI agents - Ars Technica
