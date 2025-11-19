@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 15:08_
+_Updated: 2025-11-19 15:49_
 
 ## Top Stories
 
-- I dag kommer snön: "Som ett skyfall" - UNT
+- Kökrock utanför Norberg: ”Noll sikt” – Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
+- KD vill slopa de svenska klimatmålen - Västerbottens-Kuriren
 - Ukraina: Minst 19 dödade i en rysk attack - Dagens Nyheter
 - Ingmar Nevéus: Trump trappar upp attackerna mot kvinnliga journalister - Dagens Nyheter
-- Han blir ny partisekreterare – 298 dagar till val 2026 – följ senaste nytt - SVT Nyheter
+- Debatt: En skola är mer än byggnader och personallistor - NWT
 - Valentine evakuerades från kriget – tros vara mördad - Aftonbladet
-- Området skulle bli Göteborgs Kødbyen – nu ger staden upp - GP
-- Liberalernas väljarstöd slår bottenrekord: ”Ett parti i spagat” - Dagens Nyheter
+- Kommentar: Liberalerna på bottennivå inför ödeshelgen - GP
 - Skådespelare döms till fängelse – höll fast och våldtog kvinna - Expressen
+- Brittisk superinfluensa har nått Sverige – kan dominera säsongen - Expressen
 - 26-åringen åtalas för mordet på Helena Löfgren - Hudiksvalls Tidning
-- Fem personer till sjukhus - Expressen
-- Uppgifter: USA och Ryssland jobbar på fredsplan - GP
-- Ukrainas justitieminister sparkas - Västerbottens-Kuriren
-- Ryskt spionskepp nära brittiska vatten – riktade laser mot brittiska piloter - Dagens Nyheter
+- Ministrar sparkas efter Ukrainas korruptionshärva - GP
+- kriget i Ukraina: Dubbla budskap om fredsförslag från USA - Dagens Nyheter
+- Följer ryskt fartyg utanför kusten: ”Vi ser er” - Västerbottens-Kuriren
 - Palestinier fortsatt positiva till attacken mot Israel – och vill inte att Hamas avväpnas - Dagen
 - Ensamstående kvinnor i hyresrätt lägger mest på boendet - tidningensyre.se
-- Småsparare säljer Nvidia inför ödesrapporten - SvD
-- Nokia omorganiserar och sätter nytt vinstmål - Dagens industri
-- Svenska folket snuvas på 6 miljarder kronor – varje år: “Oansvarigt” - Dagens PS
-- Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
+- DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
+- Nokia organiserar om med AI-fokus - Aftonbladet
+- Färre kakor när EU slopar dataregler - SvD
+- ”Call of duty" sjunker djupare ned i galenskapen - GP
 - Vad gör Gemini 3-lanseringen till Googles största AI-satsning hittills? - Invezz
 
 ## World News
 
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Foppas kritik efter NHL Global Series - Aftonbladet
 - Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
@@ -38,15 +39,14 @@ _Updated: 2025-11-19 15:08_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
-- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
-- U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
+- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
+- U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
+- Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
 
 ## Technology
 
@@ -83,8 +83,8 @@ _Updated: 2025-11-19 15:08_
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
