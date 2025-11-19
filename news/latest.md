@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 00:48_
+_Updated: 2025-11-20 01:48_
 
-- Nvidia beats earnings expectations, even as bubble concerns mount - CNN
-- Trump's words loom over Comey case as judge weighs tossing indictment - ABC News
+- Justice Dept. acknowledges full grand jury never saw final Comey indictment - The Washington Post
 - Trump to sign bill to compel release of more files related to Jeffrey Epstein - The Guardian
-- Judge Boasberg to resume contempt proceedings over Alien Enemies Act deportations - Politico
+- Yantar: How serious is the Russian spy ship move? - BBC
+- US Army secretary arrives in Kyiv for high-level talks to restart peace talks, military says - ABC News
+- Larry Summers resigns from OpenAI board as scrutiny over Jeffrey Epstein emails intensifies - CNN
 - What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia - NPR
-- Harvard Will Open a New Inquiry Into Faculty Ties to Epstein - The New York Times
-- Ryan Wedding, Olympic snowboarder turned alleged drug kingpin, charged in death of federal witness - NBC News
-- Arrests now top 250 in immigration crackdown across North Carolina - AP News
 - Man Charged With Terrorism After Woman Is Set on Fire on Chicago Train - The New York Times
-- Judge Orders Texas School Districts to Remove Ten Commandments Displays in Response to New Lawsuit Filed by Families - American Civil Liberties Union
+- Ryan Wedding, Olympic snowboarder turned alleged drug kingpin, charged in death of federal witness - NBC News
+- Nancy Mace seeks to censure and remove fellow House Republican Cory Mills from committees - CNN
+- Woman who became U.S. citizen this year temporarily closes bakery in Charlotte amid immigration crackdown - CBS News
+- Chinese SOEs ask workers to cancel their Japan holidays amid diplomatic row - South China Morning Post
 - At least 25 killed in Russian attacks on war-torn Ukraine - Al Jazeera
-- Israel’s military carries out strikes in Lebanon and Gaza, killing dozens of people - AP News
 - UN Security Council resolution a violation of Palestinian right of self-determination and UN Charter, UN expert warns - ohchr
-- Cuba struggles to ease power cuts amid reduced fuel supplies from Venezuela, Mexico - Reuters
-- Black Friday fashion deals for 2025 are up to 75% off Kate Spade, Hoka, Patagonia and more - Yahoo
-- Stocks close higher, snapping losing streak as Nvidia rebounds ahead of earnings report - CNBC
-- After Shutdown, Labor Dept. Says Some Data Is Gone for Good - The New York Times
-- Many Fed policymakers at last meeting were opposed to December rate cut - Reuters
-- Galaxy Buds 4 Pro leak with revamped design and ‘find your phone’ feature [Gallery] - 9to5Google
-- There will be no new F1 26 game, EA Sports announces - Motorsport.com
+- An existential battle of interests: what the Sudanese war is actually about - The Guardian
+- Nvidia’s Profit Jumps 65% to $31.9 Billion. Is It Enough for Wall Street? - The New York Times
+- Trump Quips He’ll Fire Bessent If Interest Rates Are Not Lowered - Bloomberg.com
+- Gemini 3 Pro rolling out to Android as iPhone app gets redesign - 9to5Google
+- AWS expands deal with Saudi AI firm Humain to deploy Nvidia, Trainium chips (AMZN:NASDAQ) - Seeking Alpha
+- Critics scoff after Microsoft warns AI feature can infect machines and pilfer data - Ars Technica
+- 10 Reasons to Wait for Next Year's iPhone 18 Pro - MacRumors
