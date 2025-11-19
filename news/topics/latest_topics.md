@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 05:56_
+_Updated: 2025-11-19 06:45_
 
 ## Top Stories
 
-- DN Direkt – Representanthuset röstar ja om Epsteindokument - Dagens Nyheter
-- Källa: Artisten D4vd misstänkt i fall om död 15-årig flicka - SVT Nyheter
-- INSÄNDARE: Orange Week visar vägen i arbetet mot våldet - Kristianstadsbladet
-- Många skadade i attack mot Charkiv - GP
+- Ja även i senaten om Epsteindokument – nu upp till Trump - Dagens Nyheter
+- Forskare kräver skärpta kostråd mot ultraprocessad mat - Dagens Nyheter
 - Oavgjort för Sverige i VM-kvalet - Aftonbladet
-- Fem personer till sjukhus - Expressen
+- Stor guide: Så tar sig Sverige till fotbolls-VM 2026 i Nordamerika - GP
+- Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
+- Insiderjägarnas nya vapen: ”Otrolig skillnad” - SvD
 - Tonåringar till sjukhus efter krock med epatraktor - SVT Nyheter
-- En gripen på Stockholms central – misstänkt föremål var ofarligt - SVT Nyheter
 - ”Ett under att det inte skett fler olyckor här” - Dagens Nyheter
-- Henrik Brandão Jönsson: FN:s klimattoppmöte ger greenwashing ett nytt ansikte - Dagens Nyheter
+- En gripen på Stockholms central – misstänkt föremål var ofarligt - SVT Nyheter
+- Två allvarligt skadade efter olycka på E4 - GP
 - FN röstade ja till Trumps fredsplan för Gaza - Hufvudstadsbladet
 - Ukraina: Attackerade i Ryssland med Atacms - GP
 - Saudiarabiens kronprins i Vita huset – frågor om Khashoggi avfärdas - SVT Nyheter
 - Japan varnar medborgare i Kina - GP
-- Åklagaren om beslagtagna Intellego-miljonerna: ”Kommande företagsbot” - Dagens industri
 - DN Direkt – Klarna rasade på börsen i USA - Dagens Nyheter
-- Breda nedgångar på börserna i New York inför Nvidias delår - Omni Ekonomi
+- Åklagaren om beslagtagna Intellego-miljonerna: ”Kommande företagsbot” - Dagens industri
 - Meta vinner i domstol – anses inte ha monopol - Aftonbladet
+- Alphabet-chefen: Alla drabbas när AI-bubblan spricker – ”även vi” - NyTeknik
 - Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
 - Fynden du inte vill missa – 16 reatips - Aftonbladet
 
@@ -34,42 +34,42 @@ _Updated: 2025-11-19 05:56_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
-- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
+- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
+- DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
 
 ## Technology
 
-- Schneider Electric Debuts One Digital Grid Platform to Help Utilities Modernize and Address Energy Costs - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 
 ## Business
 
@@ -124,21 +124,21 @@ _Updated: 2025-11-19 05:56_
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-11-19 05:56_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
