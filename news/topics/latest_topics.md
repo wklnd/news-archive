@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 10:49_
+_Updated: 2025-11-19 11:43_
 
 ## Top Stories
 
-- Gul varning för snö i Västsverige - GP
-- Efter mer än 100 år – S förlorar i Köpenhamn - Västerbottens-Kuriren
-- Misstänkt farligt föremål i Malmö oskadliggjort - SVT Nyheter
-- Hög risk för självmord efter upprepad psykiatrisk tvångsvård - Socialstyrelsen
-- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - polisen.se
-- Ukraina: Minst nio dödade i en rysk attack - Dagens Nyheter
-- Liberalernas väljarstöd slår bottenrekord: ”Ett parti i spagat” - Dagens Nyheter
-- ”Ett under att det inte skett fler olyckor här” - Dagens Nyheter
-- Granskning: Få elever klarar SFI - Dagens Arena
-- 19 november 08.04, Sammanfattning natt, Östergötlands län - polisen.se
+- I dag kommer snön: "Som ett skyfall" - UNT
+- Centerns partisekreterare Karin Ernlund slutar - GP
+- Mördaren larmade själv till SOS om hoten – ambulansen fick aldrig veta - Arbetet
 - Direkt – Kriget i Ukraina – Uppgifter: USA och Ryssland jobbar på fredsplan - Dagens Nyheter
-- Karl Dalén: Epsteins offer gjorde det svårt att rösta nej - Dagens Nyheter
-- Gänguppgörelse i Norge – fyra svenskar dömda - Västerbottens-Kuriren
-- Två tonåringar till sjukhus – bil krockade med A-traktor - Expressen
-- En tredjedel av butikerna i småstäder borta - Tidningen Näringslivet
+- Åtal väckt för bland annat försök till mord i Katrineholm - Åklagarmyndigheten
+- Hög risk för självmord efter upprepad psykiatrisk tvångsvård - Socialstyrelsen
+- Kommentar: Liberalerna på bottennivå inför ödeshelgen - GP
+- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - polisen.se
+- Granskning: Få elever klarar SFI - Dagens Arena
+- Den 19 november firar vi FN:s internationella världstoalettdag - havochvatten.se
+- Ukraina: Minst nio dödade i en rysk attack - GP
+- Representanthuset röstar ja till att släppa Epsteindokumenten - Expressen
+- Påven uppmanar till vapenvila i Ukraina och dialog - Vatican News
+- Efter långa bråket – Musk tillbaka i Vita huset - Omni
 - Hyreshushåll betalar störst andel för boendet - Dagens Nyheter
+- En tredjedel av butikerna i småstäder borta - Tidningen Näringslivet
 - AI-jätten Nvidia släpper ”ödesrapport” för börsen • Tele2 granskas av PTS - Omni
-- Mitt ex flyttade ut – nu har han skickat en faktura - Dagens Nyheter
+- Expert: Finns många tecken på ny finanskrasch - Hufvudstadsbladet
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Google svarar uppstickarna: Mer AI i sökmotorn - Dagens industri
+- Arbetsplatsolycka i Umeå – kranförare bröt båda handlederna - Folkbladet
 
 ## World News
 
@@ -60,16 +60,16 @@ _Updated: 2025-11-19 10:49_
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
 
 ## Business
 
@@ -83,7 +83,6 @@ _Updated: 2025-11-19 10:49_
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-11-19 10:49_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
