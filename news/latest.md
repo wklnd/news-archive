@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-19 18:55_
+_Updated: 2025-11-19 19:48_
 
 - Senate sends Epstein files bill to Trump - Politico
-- Larry Summers resigns from OpenAI board after Epstein emails made public - BBC
-- Russia Pounds Ukraine Even as Zelensky Aims to Revive Peace Talks - The New York Times
+- Judge grills government over apparent lapses in Comey indictment - ABC News
+- Larry Summers resigns from OpenAI board, Harvard launches probe after Epstein emails - NBC News
+- Russia pummels Ukraine with missiles and drones, killing at least 25 as U.S. tries to revive peace talks - CBS News
 - What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia - NPR
-- James Comey seeks to dismiss 'selective and vindictive' case against him in key hearing - NBC News
 - Poll shows Democrats with biggest generic ballot lead since 2017 - Axios
-- US Customs and Border Protection agents shift immigration enforcement focus back to Charlotte after sparking fear in Raleigh, NC - ABC11
-- US: Baltimore bridge collapse caused by one faulty wire - DW
-- Jessica Tisch Will Remain Police Commissioner Under Mamdani - The New York Times
-- Judge orders some Texas public schools to remove Ten Commandments posters - The Washington Post
-- China punishes Japan’s new leader with harsh words and economic pain - The Washington Post
+- Border Patrol Expands North Carolina Operations to More Liberal Cities - The New York Times
+- Woman pleads guilty to falsely claiming astronaut ex committed crime in space - CBS News
+- House to vote on repealing shutdown deal provision allowing $500,000 lawsuits from senators - CBS News
+- Teen who died on Carnival cruise was found under bed, stepbrother under investigation: Source - ABC News
+- Japanese seafood caught up in escalating diplomatic dispute with China - Reuters
+- Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people - NPR
 - Zelensky Under Siege as Corruption Case Shatters Ukraine’s Wartime Unity - The New York Times
-- Student escapes as authorities search for 24 other girls abducted in Nigeria - NPR
-- Prime Minister's Questions live: Keir Starmer facing Kemi Badenoch - BBC
-- Target Lowers Top End of Profit Outlook on Soft Demand - Bloomberg.com
+- Israel targets senior Hamas terrorist in Gaza City strike - The Jerusalem Post
+- Quarterly profit slide at Target hints at a challenging holiday season for the retailer - AP News
+- Trump’s Tariffs Sent Trade Plummeting in August - The New York Times
 - Dutch government suspends intervention into chipmaker Nexperia - BBC
-- Google's Gemini 3 Pro AI is here: How does it fare against ChatGPT, Grok and Claude? - livemint.com
-- Blue Owl calls off merger of its two private-credit funds after announcement rattles stock, sources say - CNBC
+- Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk - CNBC
 - OnePlus 15 review: The end of range anxiety - Ars Technica
-- Mystery Megabonk developer withdraws from The Game Awards following incorrect nomination - Eurogamer
+- TikTok will now give you badges for limiting your doomscrolling - TechCrunch
