@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 21:39_
+_Updated: 2025-11-19 22:39_
 
 ## Top Stories
 
-- Källor: USA vill att Ukraina ger upp hela Donbass - Dagens Nyheter
-- Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
+- SMHI varnar för kraftigt snöfall – Trafikverket redo med bandvagnar - Dagens Nyheter
+- Anders i Vrigstad fick en lastbil i sin trädgård: ”Hörde en kraftig smäll” - SVT Nyheter
 - Historiskt maktskifte i Köpenhamn – S tappar styret efter ett mer än ett sekel - Dagens Nyheter
 - Nya busskurer på plats vid olycksplatsen - Omni
-- Bara 3 av 10 000 saknar id – ändå är gränskontrollerna kvar efter tio år - HD
 - Expert: Atacms kan tvinga Ryssland att omplanera - Dagens Nyheter
+- Källor: USA vill att Ukraina ger upp hela Donbass - Dagens Nyheter
+- Världsbandets replokal skadad: ”Katastrof” - Norrtelje Tidning
+- DN Direkt – Rätt att neka präst som inte viger samkönade jobb - Dagens Nyheter
+- Gränskontroll döms ut som dyr och ineffektiv - GP
 - DN Direkt – Virusmutation kan försvaga vaccineffekt - Dagens Nyheter
-- Kyrkomötet: Tillåtet att neka jobb till präster som inte viger samkönade par - Dagen
-- Brand i bowlinghall i Norrtälje - SVT Nyheter
-- Kaoset växer – fler prov ska skrivas på papper - Vi Lärare
-- Minst tio dödade i en rysk attack - Hufvudstadsbladet
+- Minst 25 döda i ryska attacker mot höghus - GP
 - Ministrar sparkas efter Ukrainas korruptionshärva - GP
-- Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
-- UD uppmanar svenskar att lämna Mali - Corren
-- Trevande börsöppning på Wall Street inför Nvidias rapport - Dagens industri
+- Kristersson: Vill se tydligare ”commitment” från USA - Aftonbladet
+- Trump: ”Ska börja ta itu med Sudan” - SVT Nyheter
+- UPPÅT INFÖR NVIDIAS RAPPORT, S&P500 +0,7% - Placera.se
 - DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
-- Kanada överväger Jas Gripen igen - Placera.se
-- Expert om AI-bubblan: ”Vi kommer se en backlash” - ETC.se
+- Blackrock-topp spår AI-boom på Europas börser - Dagens PS
+- Färre klick om kakor när EU slopar dataregler - Tidningen Näringslivet
 - Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
-- Samsung lanserar Smart Keyboard som konkurrerar med populära Logitech MX Keys Mini med Bluetooth 5.4 och trevägsanslutning till flera enheter - notebookcheck.se
+- Ny Zigbee-standard ska göra smarta hem bättre - mobil.se
 
 ## World News
 
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Foppas kritik efter NHL Global Series - Aftonbladet
-- Hockeyn förenade under NHL Global Series - NHL.com
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Hockeyn förenade under NHL Global Series - NHL.com
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
-- Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
 - Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
-- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
 - DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
+- Spire Global Ships Nine Satellites to Launch Site - Placera.se
 
 ## Technology
 
@@ -124,41 +124,41 @@ _Updated: 2025-11-19 21:39_
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
