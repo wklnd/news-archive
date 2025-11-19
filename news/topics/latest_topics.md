@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 17:41_
+_Updated: 2025-11-19 18:50_
 
 ## Top Stories
 
-- Ymnigt snöfall i länet – gul varning utfärdas - Dagens Nyheter
-- Epsteinutredningen släpps & Schulman vs Pourmokhtari – P3 Nyheter med Babs Drougge - Sveriges Radio
-- Kritiserad friskolefest på Sagerska flyttad - GP
-- KD vill slopa svenska klimatmålen - SVT Nyheter
-- Klart: Judisk filmfestival hålls på Palladium i Malmö - SVT Nyheter
-- Ukraina: Minst tio dödade i en rysk attack - HD
+- Kraftigt snöfall i delar av södra och mellersta Sverige - Sveriges Radio
+- DN Direkt – Efter DN:s avslöjande – friskola backar om middag hos statsministern - Dagens Nyheter
+- Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
+- Uppgifter: Minst 25 döda i bombade höghus - Dagens Nyheter
+- Fler digitala prov ställs in - GP
+- Friskolemiddag flyttas från Sagerska - Expressen
 - Brand i bowlinghall i Norrtälje - SVT Nyheter
 - Pourmokhtari om striden i L: ”Finns många mossiga gamla politiker” - Dagens Nyheter
 - Kommentar: Liberalerna på bottennivå inför ödeshelgen - GP
-- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - polisen.se
-- Ingmar Nevéus: Trump trappar upp attackerna mot kvinnliga journalister - Dagens Nyheter
+- Vill skrota mål: ”Rycker skolbarnens köttbullar” - Aftonbladet
+- Trump: Dra in ABC:s tillstånd - GP
 - Ministrar sparkas efter Ukrainas korruptionshärva - GP
-- Ryska spionfartyget Yantar utanför Skottlands kust - TV4 Nyheterna
-- Palestinier fortsatt positiva till attacken mot Israel – och vill inte att Hamas avväpnas - Dagen
-- Hushåll i hyresrätt lägger störst andel av sin inkomst på boendet - Statistikmyndigheten SCB
+- Ryskt spionskepp nära brittiska vatten – riktade laser mot brittiska piloter - Dagens Nyheter
+- DN Direkt – Sverige sjunker på världsrankingen – igen - Dagens Nyheter
+- Ensamstående kvinnor i hyresrätt lägger mest på boendet - tidningensyre.se
 - Nokias Nvidia-rally upp i rök - Dagens industri
-- Färre klick om kakor när EU slopar dataregler - Tidningen Näringslivet
-- UPPÅT INFÖR NVIDIAS RAPPORT, S&P500 +0,7% - Placera.se
+- Expert om AI-bubblan: ”Vi kommer se en backlash” - ETC.se
+- Kanada bekräftar intresse för Gripen - Dagens industri
 - Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
 - Iphone 17 vs Iphone 16: ny studie visar tydlig wifi-vinnare - Macworld.se
 
@@ -34,13 +34,13 @@ _Updated: 2025-11-19 17:41_
 - Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
 - Globalstar Reaches Key Milestone in $2 Billion ITU Pledge, Completing Over Half of Its Commitment to Advance Global Connectivity - Placera.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Johnnie Walker Unveils the Next Chapter of Its Iconic 'Keep Walking' Global Campaign - Placera.se
@@ -50,26 +50,26 @@ _Updated: 2025-11-19 17:41_
 
 ## Technology
 
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - MicroCloud Hologram Inc. Releases Next-Generation Quantum Convolutional Neural Network Multi-Class Classification Technology, Driving Quantum Machine Learning Towards Practicalization - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -130,7 +130,6 @@ _Updated: 2025-11-19 17:41_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
@@ -139,6 +138,7 @@ _Updated: 2025-11-19 17:41_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
