@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-19 19:48_
+_Updated: 2025-11-19 20:52_
 
-- Senate sends Epstein files bill to Trump - Politico
+- Trump to sign bill to compel release of more files related to Jeffrey Epstein - The Guardian
 - Judge grills government over apparent lapses in Comey indictment - ABC News
-- Larry Summers resigns from OpenAI board, Harvard launches probe after Epstein emails - NBC News
+- MBS tells Trump he wants to join Abraham Accords subject to path for Palestinian state - Axios
+- Larry Summers Resigns From OpenAI’s Board - The New York Times
 - Russia pummels Ukraine with missiles and drones, killing at least 25 as U.S. tries to revive peace talks - CBS News
-- What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia - NPR
-- Poll shows Democrats with biggest generic ballot lead since 2017 - Axios
-- Border Patrol Expands North Carolina Operations to More Liberal Cities - The New York Times
+- Nancy Mace to force vote on ousting fellow GOP Rep. Cory Mills from committees - Axios
+- Arrests now top 250 in immigration crackdown across North Carolina - AP News
+- Billionaire hedge fund founder Tom Steyer is running for governor - Los Angeles Times
 - Woman pleads guilty to falsely claiming astronaut ex committed crime in space - CBS News
-- House to vote on repealing shutdown deal provision allowing $500,000 lawsuits from senators - CBS News
-- Teen who died on Carnival cruise was found under bed, stepbrother under investigation: Source - ABC News
-- Japanese seafood caught up in escalating diplomatic dispute with China - Reuters
-- Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people - NPR
-- Zelensky Under Siege as Corruption Case Shatters Ukraine’s Wartime Unity - The New York Times
-- Israel targets senior Hamas terrorist in Gaza City strike - The Jerusalem Post
-- Quarterly profit slide at Target hints at a challenging holiday season for the retailer - AP News
-- Trump’s Tariffs Sent Trade Plummeting in August - The New York Times
-- Dutch government suspends intervention into chipmaker Nexperia - BBC
-- Nvidia earnings, Target's profit outlook, Meta's antitrust victory and more in Morning Squawk - CNBC
+- F.B.I. Trainee Sues After Being Abruptly Fired Over Display of Gay Pride Flag - The New York Times
+- Fire burning in southwestern Japan damages 170 homes and forces evacuations - NBC News
+- Far-right uptick in Spain raises spectre of Franco 50 years after his death - Reuters
+- Student escapes as authorities search for 24 other girls abducted in Nigeria - NPR
+- China to reimpose ban on Japanese seafood imports amid row over Taiwan, reports say - The Japan Times
+- Nvidia reports third-quarter results after the bell. Here's what Wall Street expects - CNBC
+- Senators Ask DOJ for “Non-Biased” Review of Any Deal for Warner Bros. Discovery Amid “Cloud of Political Favoritism and Corruption” (Exclusive) - The Hollywood Reporter
+- Trump picks new CFPB director amid efforts to close agency - Politico
+- Stock Market Today: Nvidia Shares Rally Ahead of Earnings; Nasdaq, S&P 500 Rise — Live Updates - The Wall Street Journal
 - OnePlus 15 review: The end of range anxiety - Ars Technica
-- TikTok will now give you badges for limiting your doomscrolling - TechCrunch
+- Interplay co-founder and pioneering game developer Rebecca Heineman dies at 62 - Ars Technica
