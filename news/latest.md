@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-19 12:52_
+_Updated: 2025-11-19 13:48_
 
-- Republican Clay Higgins Was the Sole Vote Against Releasing the Epstein Files - The New York Times
-- MBS tells Trump Saudis will increase investments in U.S. to near $1 trillion - CBS News
-- Republicans fail in vote to oust Stacey Plaskett from House Intel over Epstein texts - Axios
+- Thune denies Johnson’s demand for Epstein bill changes - Politico
+- Boebert yells at Republicans on House floor after censure of Democrat fails - The Hill
 - Texas appeals ruling that Trump-urged voting map is racial gerrymandering - NPR
+- Trump’s Capitol Hill dreams are at odds with GOP reality - Politico
+- Poll: Democrats have biggest advantage for control of Congress in 8 years - NPR
 - How well did Bill Clinton know Jeffrey Epstein? - abcnews.go.com
-- House votes to rebuke García for election maneuvers - Politico
 - Fear spreads as federal immigration crackdown in North Carolina expands to Raleigh - AP News
 - Judge orders some Texas public schools to remove Ten Commandments posters - The Washington Post
 - US: Baltimore bridge collapse caused by one faulty wire - DW
-- Why Republicans are worried about Trump’s plans to split the Education Department - Politico
-- The US plan for Gaza won UN backing. Carrying it out could be far more difficult - AP News
-- UK will not tolerate Chinese spying, minister says after MI5 alert - BBC
-- 13 killed in Israeli strike on Palestinian refugee camp in Lebanon - The Washington Post
-- Tense Japan-China Talks Stoke Concerns Over Economic Fallout - Bloomberg.com
-- Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals - Bloomberg.com
-- Asia markets teeter ahead of Nvidia earnings test - Reuters
-- Elon Musk’s one-word reply to Sundar Pichai’s ‘Geminiii’ tweet amid release of Gemini 3 | Hindustan Times - Hindustan Times
-- Warner Bros Discovery Bid Updates: Will Middle East Investors Step Up? - Deadline
+- The Situation: Malevolence, Incompetence, and the Strange Case of Lindsey Halligan - Lawfare
+- China warns there is ‘no market’ for Japanese seafood exports as spat over Taiwan comments escalates - CNN
+- Student escapes as authorities search for 24 other girls abducted in Nigeria - AP News
+- Ten killed and 40 wounded in heavy Russian attack on Ukraine, officials say - Reuters
+- Lebanon says Israeli strike killed 13 people near Palestinian refugee camp - BBC
+- Stock futures rise with Nvidia earnings ahead, S&P 500 and Dow try to snap 4-day losing streak: Live updates - CNBC
+- Target will report earnings before the bell. Here's what to expect - CNBC
+- Warner Bros Discovery wants Paramount to raise its offer to $30 per share, Axios reports - Reuters
+- Google's Antigravity puts coding productivity before AI hype - and the result is astonishing - ZDNET
 - WhatsApp will finally support multiple accounts on the same iPhone - 9to5Mac
-- Snapchat rolls out ‘Topic Chats’ for public conversations - TechCrunch
+- Review: Kirby Air Riders (Switch 2) - Incredibly Chaotic, But Satisfyingly Deep & Rewarding Racing - Nintendo Life
