@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 20:49_
+_Updated: 2025-11-19 21:39_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Uppgifter: USA och Ryssland jobbar på fredsplan - Dagens Nyheter
+- Källor: USA vill att Ukraina ger upp hela Donbass - Dagens Nyheter
 - Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
+- Historiskt maktskifte i Köpenhamn – S tappar styret efter ett mer än ett sekel - Dagens Nyheter
 - Nya busskurer på plats vid olycksplatsen - Omni
-- Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
-- Expert: Atacms kan tvinga Ryssland att omplanera - Dagens Nyheter
 - Bara 3 av 10 000 saknar id – ändå är gränskontrollerna kvar efter tio år - HD
-- Brand i bowlinghall i Norrtälje - SVT Nyheter
+- Expert: Atacms kan tvinga Ryssland att omplanera - Dagens Nyheter
 - DN Direkt – Virusmutation kan försvaga vaccineffekt - Dagens Nyheter
-- Pourmokhtari om striden i L: ”Finns många mossiga gamla politiker” - Dagens Nyheter
-- Tiotal fordon i krock utanför Norberg: ”Absolut noll sikt” - SVT Nyheter
-- Ministrar sparkas efter Ukrainas korruptionshärva - GP
+- Kyrkomötet: Tillåtet att neka jobb till präster som inte viger samkönade par - Dagen
+- Brand i bowlinghall i Norrtälje - SVT Nyheter
+- Kaoset växer – fler prov ska skrivas på papper - Vi Lärare
 - Minst tio dödade i en rysk attack - Hufvudstadsbladet
-- Kristersson: Vill se tydligare ”commitment” från USA - Dagens Nyheter
-- Karl Dalén: Epsteins offer gjorde det svårt att rösta nej - Dagens Nyheter
-- Minirekyl väntas på New York-börserna - Dagens industri
+- Ministrar sparkas efter Ukrainas korruptionshärva - GP
+- Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
+- UD uppmanar svenskar att lämna Mali - Corren
+- Trevande börsöppning på Wall Street inför Nvidias rapport - Dagens industri
 - DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
-- Kanada bekräftar intresse för Saab och Gripen - Omni
+- Kanada överväger Jas Gripen igen - Placera.se
 - Expert om AI-bubblan: ”Vi kommer se en backlash” - ETC.se
 - Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
 - Samsung lanserar Smart Keyboard som konkurrerar med populära Logitech MX Keys Mini med Bluetooth 5.4 och trevägsanslutning till flera enheter - notebookcheck.se
@@ -35,8 +35,6 @@ _Updated: 2025-11-19 20:49_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Trump administration targets European antifa groups as ‘global terrorists’ - Al Jazeera
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
@@ -47,6 +45,8 @@ _Updated: 2025-11-19 20:49_
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
 - Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
+- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
+- DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
 
 ## Technology
 
@@ -143,9 +143,9 @@ _Updated: 2025-11-19 20:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,10 +155,10 @@ _Updated: 2025-11-19 20:49_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
