@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-19 10:55_
+_Updated: 2025-11-19 11:49_
 
-- Senate agrees to pass Epstein files bill after near-unanimous House vote - The Guardian
-- MBS tells Trump Saudis will increase investments in U.S. to near $1 trillion - CBS News
+- Thune denies Johnson’s demand for Epstein bill changes - Politico
+- MBS tells Trump he wants to join Abraham Accords subject to path for Palestinian state - Axios
 - Texas appeals ruling that Trump-urged voting map is racial gerrymandering - NPR
-- Republicans fail in vote to oust Stacey Plaskett from House Intel over Epstein texts - Axios
-- Chuy García was the first signer of top aide’s ballot petitions , document shows - Politico
-- Trump Berates Mary Bruce of ABC News After Question About Jamal Khashoggi - The New York Times
-- Fear spreads as federal immigration crackdown in North Carolina expands to Raleigh - AP News
-- Investigators Zero In on Cause of Ship Outage Before Bridge Crash: A Misplaced Label - The New York Times
-- Judge Orders Texas School Districts to Remove Ten Commandments Displays in Response to New Lawsuit Filed by Families - American Civil Liberties Union
-- FBI probing stepsibling in cruise ship death of Florida teen, filing suggests - CBS News
+- Boebert yells at Republicans on House floor after censure of Democrat fails - The Hill
+- Two dozens House Democrats vote with Republicans to rebuke one of their members - Axios
+- Woman who became U.S. citizen this year temporarily closes bakery in Charlotte amid immigration crackdown - CBS News
+- Judge orders some Texas public schools to remove Ten Commandments posters - The Washington Post
+- Loose wire on ship may have led to Baltimore bridge collapse, report says - BBC
+- Step-sibling of cheerleader found dead on Carnival cruise may face charges: Filing - abcnews.go.com
+- Redistricting rift growing among Indiana Republicans - Indiana Capital Chronicle
 - Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people, Lebanese ministry says - AP News
+- U.N. Support Propels Trump Gaza Plan, but Road Ahead Is Still Rough - The New York Times
 - UK will not tolerate Chinese spying, minister says after MI5 alert - BBC
 - Japan counts cost of China's travel boycott as tensions flare - Reuters
-- U.N. Security Council approves Trump’s 20-point peace plan for Gaza - The Washington Post
+- Elon Musk’s one-word reply to Sundar Pichai’s ‘Geminiii’ tweet amid release of Gemini 3 | Hindustan Times - Hindustan Times
 - Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals - Bloomberg.com
-- Futures: Nvidia Earnings Key For AI Stocks - Investor's Business Daily
-- Kroger closing automated fulfillment facilities to bolster e-commerce profitability - Grocery Dive
+- Futures Rise With Nvidia Due After Stocks Extend Slide - Investor's Business Daily
 - Target will report earnings before the bell. Here's what to expect - CNBC
+- WhatsApp will finally support multiple accounts on the same iPhone - 9to5Mac
 - Snapchat rolls out ‘Topic Chats’ for public conversations - TechCrunch
-- Microsoft tries to head off the “novel security risks” of Windows 11 AI agents - Ars Technica
