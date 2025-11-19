@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 19:39_
+_Updated: 2025-11-19 20:49_
 
 ## Top Stories
 
-- Kraftigt snöfall i delar av södra och mellersta Sverige - Sveriges Radio
+- Direkt – Kriget i Ukraina – Uppgifter: USA och Ryssland jobbar på fredsplan - Dagens Nyheter
+- Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
 - Nya busskurer på plats vid olycksplatsen - Omni
 - Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
-- Historiskt maktskifte i Köpenhamn – S tappar styret efter ett mer än ett sekel - Dagens Nyheter
-- Fler digitala prov ställs in - GP
-- Uppgifter: Minst 25 döda i bombade höghus - HD
-- DN Direkt – Virusmutation kan försvaga vaccineffekt - Dagens Nyheter
+- Expert: Atacms kan tvinga Ryssland att omplanera - Dagens Nyheter
+- Bara 3 av 10 000 saknar id – ändå är gränskontrollerna kvar efter tio år - HD
 - Brand i bowlinghall i Norrtälje - SVT Nyheter
+- DN Direkt – Virusmutation kan försvaga vaccineffekt - Dagens Nyheter
 - Pourmokhtari om striden i L: ”Finns många mossiga gamla politiker” - Dagens Nyheter
-- Dubbla lyxbilar togs av polisen – visar bilder - Expressen
+- Tiotal fordon i krock utanför Norberg: ”Absolut noll sikt” - SVT Nyheter
 - Ministrar sparkas efter Ukrainas korruptionshärva - GP
-- Uppgifter: USA och Ryssland jobbar på fredsplan - Västerbottens-Kuriren
+- Minst tio dödade i en rysk attack - Hufvudstadsbladet
+- Kristersson: Vill se tydligare ”commitment” från USA - Dagens Nyheter
 - Karl Dalén: Epsteins offer gjorde det svårt att rösta nej - Dagens Nyheter
-- Ingmar Nevéus: Trump trappar upp attackerna mot kvinnliga journalister - Dagens Nyheter
+- Minirekyl väntas på New York-börserna - Dagens industri
 - DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
-- Kanada bekräftar intresse för Gripen - Dagens industri
+- Kanada bekräftar intresse för Saab och Gripen - Omni
 - Expert om AI-bubblan: ”Vi kommer se en backlash” - ETC.se
-- Nokia stöps om för fokus på AI – aktien föll tungt - Omni Ekonomi
 - Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
-- Iphone 17 vs Iphone 16: ny studie visar tydlig wifi-vinnare - Macworld.se
+- Samsung lanserar Smart Keyboard som konkurrerar med populära Logitech MX Keys Mini med Bluetooth 5.4 och trevägsanslutning till flera enheter - notebookcheck.se
 
 ## World News
 
@@ -105,7 +105,7 @@ _Updated: 2025-11-19 19:39_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -119,46 +119,46 @@ _Updated: 2025-11-19 19:39_
 
 ## Science
 
+- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- ”Research on bison completely wrong” - Forskning & Framsteg
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
