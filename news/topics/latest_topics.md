@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-19 15:49_
+_Updated: 2025-11-19 16:46_
 
 ## Top Stories
 
-- Kökrock utanför Norberg: ”Noll sikt” – Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
+- Kritiserad friskolefest på Sagerska flyttad - GP
+- Gul varning för snöfall i stora delar av Sverige – följ senaste nytt - SVT Nyheter
 - KD vill slopa de svenska klimatmålen - Västerbottens-Kuriren
-- Ukraina: Minst 19 dödade i en rysk attack - Dagens Nyheter
-- Ingmar Nevéus: Trump trappar upp attackerna mot kvinnliga journalister - Dagens Nyheter
-- Debatt: En skola är mer än byggnader och personallistor - NWT
-- Valentine evakuerades från kriget – tros vara mördad - Aftonbladet
+- Ukraina: Minst tio dödade i en rysk attack - HD
+- Epsteinutredningen släpps & Schulman vs Pourmokhtari – P3 Nyheter med Babs Drougge - Sveriges Radio
+- Pourmokhtari om striden i L: ”Finns många mossiga gamla politiker” - Dagens Nyheter
+- Brand i bowlinghall i Norrtälje - SVT Nyheter
 - Kommentar: Liberalerna på bottennivå inför ödeshelgen - GP
+- Dubbla lyxbilar togs av polisen – visar bilder - Expressen
 - Skådespelare döms till fängelse – höll fast och våldtog kvinna - Expressen
-- Brittisk superinfluensa har nått Sverige – kan dominera säsongen - Expressen
-- 26-åringen åtalas för mordet på Helena Löfgren - Hudiksvalls Tidning
+- Ingmar Nevéus: Trump trappar upp attackerna mot kvinnliga journalister - Dagens Nyheter
 - Ministrar sparkas efter Ukrainas korruptionshärva - GP
-- kriget i Ukraina: Dubbla budskap om fredsförslag från USA - Dagens Nyheter
-- Följer ryskt fartyg utanför kusten: ”Vi ser er” - Västerbottens-Kuriren
-- Palestinier fortsatt positiva till attacken mot Israel – och vill inte att Hamas avväpnas - Dagen
+- Uppgifter: USA och Ryssland jobbar på fredsplan - Västerbottens-Kuriren
+- Följer ryskt fartyg utanför kusten: ”Vi ser er” - GP
 - Ensamstående kvinnor i hyresrätt lägger mest på boendet - tidningensyre.se
+- Nokias Nvidia-rally upp i rök - Dagens industri
+- Färre klick om kakor när EU slopar dataregler - SvD
 - DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
-- Nokia organiserar om med AI-fokus - Aftonbladet
-- Färre kakor när EU slopar dataregler - SvD
-- ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Vad gör Gemini 3-lanseringen till Googles största AI-satsning hittills? - Invezz
+- Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
+- DJI släpper Osmo Action 6 - kameran som hänger med överallt - dopest.se
 
 ## World News
 
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Foppas kritik efter NHL Global Series - Aftonbladet
-- Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Hockeyn förenade under NHL Global Series - NHL.com
+- Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -79,7 +79,6 @@ _Updated: 2025-11-19 15:49_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- PVH Corp. Announces CFO Transition - Placera.se
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2025-11-19 15:49_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -101,11 +101,11 @@ _Updated: 2025-11-19 15:49_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2025-11-19 15:49_
 
 ## Science
 
+- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- ”Research on bison completely wrong” - Forskning & Framsteg
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
