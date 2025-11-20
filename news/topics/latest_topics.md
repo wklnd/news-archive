@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 10:49_
+_Updated: 2025-11-20 11:42_
 
 ## Top Stories
 
-- SMHI varnar för snökaos: ”Ta hänsyn” - Aftonbladet
+- DN Direkt – Trafikverket: Bandvagnar är på väg - Dagens Nyheter
 - Talmannen reser med sin fru för skattepengar - Dagens Nyheter
 - Professorn sågar förslag om slopad reavinstskatt - Omni
 - Karl Dalén: Det här händer nu med Epsteinutredningen - Dagens Nyheter
 - Man åtalas misstänkt för flera grova terrorbrott - SVT Nyheter
 - ORANGE WEEK: Vårdpersonal vid Skaraborgs Sjukhus arbetar aktivt för att upptäcka våld i nära relationer - Via TT
+- Rätt att neka präst jobb som inte viger samkönade - UNT
 - KD vill slopa de svenska klimatmålen - GP
 - Fler digitala prov ställs in - Västerbottens-Kuriren
-- Rätt att neka präst jobb som inte viger samkönade - UNT
 - LISTA: Då plogas vägarna vid dig - Jönköpings-Posten
+- Trump och Mamdani möts i Vita huset - Hufvudstadsbladet
 - DN Direkt – Tågkrock i Tjecken – tiotals skadade - Dagens Nyheter
-- Minst 25 döda i ryska attacker mot höghus - GP
-- Nästa klimattoppmöte i Turkiet - SVT Nyheter
-- Uppgifter: USA vill halvera Ukrainas militär - Västerbottens-Kuriren
-- Börsrusning i Asien efter Nvidia-rapport - Dagens industri
-- Så reagerar Stockholmsbörsen på Nvidias rapport - SVT Nyheter
-- SBAB: Hushållen lyfter ekonomin - Aftonbladet
-- DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
+- Experten: USA-sanktioner kan slå hårt mot ryska ekonomin - Omni
+- Hisingsbron fast i öppet läge - Expressen
+- UPPGÅNG VÄNTAS MED BRÄNSLE FRÅN STARK NVIDIA-RAPPORT - Placera.se
+- SBAB: Hushållen lyfter ekonomin - Tidningen Näringslivet
+- Hushållen ökar sitt likvida sparande - Statistikmyndigheten SCB
+- Nvidia och Lovable hetast just nu - SvD
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Windows 11 kan låta AI-appar få tillgång till personliga filer - PC för Alla
+- Här är måste-ha-tillbehören för din iPhone 17 - dopest.se
 
 ## World News
 
@@ -123,42 +123,42 @@ _Updated: 2025-11-20 10:49_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
