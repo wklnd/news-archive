@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 06:44_
+_Updated: 2025-11-20 07:43_
 
 ## Top Stories
 
+- Karl Dalén: Det här händer nu med Epsteinutredningen - Dagens Nyheter
 - Flera olyckor i kraftiga snöfallet – bärgare redo - GP
-- Källor: USA vill att Ukraina ger upp hela Donbass - Dagens Nyheter
-- Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
-- Uppgifter: Minst 25 döda i bombade höghus - Dagens Nyheter
-- Anders i Vrigstad fick en lastbil i sin trädgård: ”Hörde en kraftig smäll” - SVT Nyheter
-- Bam! – därför är det en vanlig syn på COP30 - Aktuell Hållbarhet
+- Källor: Halverad ukrainsk militär i ny USA-plan - GP
+- Flera trafikolyckor i Gävleborg efter vädervarning - SVT Nyheter
+- Klart: Så förändras skolorna i Göteborg till hösten - GP
+- Så har SD förändrats för att kunna nå makten - GP
 - Rätt att neka präst jobb som inte viger samkönade - Aftonbladet
-- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - Polisen.se
-- 26-åringen: ”Måste man bli seriemördare för att få uppmärksamhet?” - Dagens Nyheter
 - Kaoset växer – fler prov ska skrivas på papper - Vi Lärare
-- Ministrar sparkas efter Ukrainas korruptionshärva - GP
-- SD: Portar journalister som är ”partiska” - Dagens Nyheter
+- 26-åringen: ”Måste man bli seriemördare för att få uppmärksamhet?” - Dagens Nyheter
+- Lista: Sex händelser som skakat Vemyra - Tidningen Ångermanland
+- Minst tio dödade i en rysk attack - Hufvudstadsbladet
+- Trump och Mamdani ska träffas - Expressen
 - Kristerssons presschef: ”Tveksam att sätta våra politiker i intervju med DN” - SVT Nyheter
 - Ökände kultledaren erkänner – ville massförgifta judiska barn - TV4 Nyheterna
 - Börsrusning i Asien efter Nvidia-rapport - Dagens industri
+- SBAB: Hushållen lyfter ekonomin - Aftonbladet
 - DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
-- En vecka efter jätteledningen till Finland – elpriset rusar - NSD
-- PTS avslutar 1800-MHz-auktionen – 652 miljoner till staten - Evertiq
+- P1900 jagar nya äventyr – väntas gå för miljonbelopp - Dagens PS
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Google presenterar årets bästa appar - mobil.se
+- Bästa benledningshörlurarna 2025: håll koll på omgivningen på vägen, i poolen och på kontoret - global.techradar.com
 
 ## World News
 
@@ -34,42 +34,42 @@ _Updated: 2025-11-20 06:44_
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - Travel News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - U.S. Companies Adjust to Evolving Trade Environment, HSBC Global Trade Pulse Survey Finds - Placera.se
 - Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
-- DoubleVerify Releases 2025 Global Insights Report on Walled Gardens, Unpacking Consumer and Marketer Trends Across the World’s Most Influential Platforms - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Spire Global Ships Nine Satellites to Launch Site - Placera.se
+- EXPLORING THE GLOBAL TRANSFORMATION OF HEALTH CARE WITH ELI LILLY's CEO DAVE RICKS - Placera.se
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - vietnam.vn
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -99,27 +99,27 @@ _Updated: 2025-11-20 06:44_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
-- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - vietnam.vn
+- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
