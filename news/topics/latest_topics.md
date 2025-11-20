@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 16:42_
+_Updated: 2025-11-20 17:44_
 
 ## Top Stories
 
-- Ställer in tåg mellan Kalmar och Linköping – Snö och halka i flera delar av Sverige – följ senaste nytt - SVT Nyheter
+- DN Direkt – Sverige lottat mot Ukraina i VM-playoff - Dagens Nyheter
+- Trafikverket: Oklart när vägarna är fullt farbara – Snö och halka i flera delar av Sverige – följ senaste nytt - SVT Nyheter
+- INSÄNDARE: MP: Tidöregeringen ger andra länder en ursäkt att bromsa klimatarbetet - Smålands Dagblad
 - Riksdagen var tyst om talmannens frus resor - Dagens Nyheter
-- Slutstrid på klimatmötet – här är avgörande frågorna - Dagens Nyheter
-- EU kräver plats vid bordet när ny fredsplan diskuteras – skarpt svenskt utfall om mer Ukrainastöd - Europaportalen
-- Vapenfrågan som ledde till SD-kris – Jomshof avgick - GP
-- Kulturdebatt. Storstjärnan Pablo Veron dansar i Putins Ryssland och vägrar backa - Dagens Nyheter
-- DN Direkt – 14 års fängelse för handgranatattack - Dagens Nyheter
+- Mutation gör influensavaccin ännu viktigare - Dagens Nyheter
+- Trump och Mamdani möts i Vita huset - Hufvudstadsbladet
+- DN Direkt – Tareq Taylor släpper jullåt av Camilla Läckberg - Dagens Nyheter
 - Partierna eniga: Agera mot barnsexdockor - Västerbottens-Kuriren
-- Sjuksköterskan Isabel pendlar två timmar varje dag till jobbet: ”Hade behövt tiden till återhämtning” - ETC.se
+- 23-åring åtalas – hade bombmanual i telefonen - SvD
 - Svenskars kaffe bidrar till Amazonas avskogning - Omni
+- EU kräver plats vid bordet när ny fredsplan diskuteras – skarpt svenskt utfall om mer Ukrainastöd - Europaportalen
 - Minst 25 döda i ryska attacker mot höghus - GP
-- Trump: Ska träffa ”kommunisten” Zohran Mamdani - GP
 - Kräver mer stöd till Ukraina: ”Bedrövligt” - Västerbottens-Kuriren
 - Sudan: Tiotusentals uppges ha kunnat fly - Corren
 - Fler amerikanska jobb än väntat – börsen lyfter - Aftonbladet
-- Buschs Trump-känga: ”Hotar oss inte till avtal” - SvD
+- Här försöker Busch sälja Gripen i kanadensisk tv – ger kängor till Trump - Sydsvenskan
+- Affärsvärlden börjar se bubbelvarning i börsens gruvjättar, säljråd för Lundin Gold - Placera.se
 - Carl Johan von Seth: Frågan är när – inte om – AI-bubblan spricker - Dagens Nyheter
-- UPPGÅNG VÄNTAS MED BRÄNSLE FRÅN STARK NVIDIA-RAPPORT - Placera.se
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
 - Microsofts nya AI-agenter kan förändra Windows för alltid - Dagens PS
 
@@ -29,29 +29,29 @@ _Updated: 2025-11-20 16:42_
 
 - Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
-- Foppas kritik efter NHL Global Series - Aftonbladet
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Foppas kritik efter NHL Global Series - Aftonbladet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
-- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 
 ## Technology
 
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
@@ -91,8 +91,8 @@ _Updated: 2025-11-20 16:42_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-20 16:42_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
