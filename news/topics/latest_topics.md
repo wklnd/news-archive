@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 22:42_
+_Updated: 2025-11-20 23:37_
 
 ## Top Stories
 
-- Klimattoppmöte avbröts på grund av brand - GP
-- Bilar fast på E6 – ”ge er inte ut på vägarna” - SvD
-- Michael Winiarski: Rysk-amerikansk fredsplan oacceptabel för Ukraina - Dagens Nyheter
-- EU-lag som ska bromsa skövling av regnskogar kan fördröjas - Dagens Nyheter
-- 23-åring åtalas för grova terrorbrott – kopplas till IS - Omni
-- Barnkonventionen är en naturlig del av vardagen i förskolan - Håbo
-- Många trafikolyckor i södra Sverige i snövädret - Dagens Nyheter
+- Olyckor i kraftigt snöfall – E22 avstängd - GP
+- Brand på FN:s klimattoppmöte i Brasilien - Corren
+- ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
+- Misstänkt våldsbrott i Timrå – man förd till sjukhus - SVT Nyheter
+- Mutation gör influensavaccin ännu viktigare - Dagens Nyheter
+- Bandvagnarna har kommit fram till Västervik – Snö och halka i flera delar av Sverige – följ senaste nytt - SVT Nyheter
+- Robert satt fast i lastbilen i över fem timmar: ”Det var snökaos” - Dagens Nyheter
 - DN Direkt – Buss har kört av vägen i Emmaboda – riskerar välta - Dagens Nyheter
 - Frustration i riksdagen över talmansfruns resor - Dagens Nyheter
-- Två fall där barn dött utreds – kopplas till barnhjärtläkaren - Dagens Nyheter
-- Brand i COP30-byggnaden – besökare evakuerades - SVT Nyheter
+- JRF om beskedet: "Stod i begrepp att överklaga" - Jakt & Jägare
+- Michael Winiarski: Rysk-amerikansk fredsplan oacceptabel för Ukraina - Dagens Nyheter
 - Kräver mer stöd till Ukraina: ”Bedrövligt” - Västerbottens-Kuriren
-- Sudan: Tiotusentals uppges ha kunnat fly - GP
 - Många fler befaras döda i bombade höghus - Corren
+- Sudan: Tiotusentals uppges ha kunnat fly - Västerbottens-Kuriren
 - Efter Di:s förutsägelse: Kinneviks vd Georgi Ganev lämnar - Dagens industri
-- Verizon: 13 000 tjänster ska bort - Aftonbladet
+- Fler amerikanska jobb än väntat – börsen lyfter - Aftonbladet
+- Här försöker Busch sälja Gripen i kanadensisk tv – ger kängor till Trump - Sydsvenskan
 - Tiktok låter användarna bestämma om AI-innehåll - Expressen
-- Nytt besked – inga jobbsiffror från USA - SvD
-- Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
+- Nya bilder på sällsynt besökare i vårt solsystem - Dagens Nyheter
 - SVA: "Bättre att förebygga än att behandla" - Ridsport
 
 ## World News
 
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
+- Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -51,25 +51,25 @@ _Updated: 2025-11-20 22:42_
 ## Technology
 
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -91,54 +91,54 @@ _Updated: 2025-11-20 22:42_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- ADDI Medical lanserar nu den prisbelönta digitala föräldrautbildningen HOPE Gravid - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Chordate Medical presenterar framgångsrika resultat från migrän-studie på American Headache Society - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
