@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 05:55_
+_Updated: 2025-11-20 06:44_
 
 ## Top Stories
 
 - Flera olyckor i kraftiga snöfallet – bärgare redo - GP
 - Källor: USA vill att Ukraina ger upp hela Donbass - Dagens Nyheter
-- Såg när huset träffades: ”Som tryckvågor i mig” - SvD
 - Nathan Shachar: Kronprinsen fick allt han pekade på när han mötte Trump - Dagens Nyheter
-- ”En skandal om presidenten visste om det” - Dagens Nyheter
+- Uppgifter: Minst 25 döda i bombade höghus - Dagens Nyheter
 - Anders i Vrigstad fick en lastbil i sin trädgård: ”Hörde en kraftig smäll” - SVT Nyheter
+- Bam! – därför är det en vanlig syn på COP30 - Aktuell Hållbarhet
+- Rätt att neka präst jobb som inte viger samkönade - Aftonbladet
+- Debatt i Halland: Män måste kliva fram – våldet mot kvinnor är vårt ansvar - Polisen.se
 - 26-åringen: ”Måste man bli seriemördare för att få uppmärksamhet?” - Dagens Nyheter
-- Lista: Sex händelser som skakat Vemyra - Tidningen Ångermanland
-- Niklas Orrenius: Nazisterna döms – men politiker fortsätter peka ut invandrare som problem - Dagens Nyheter
-- Gps-kravet under vargjakten slopas i Västra Götaland - Jakt & Jägare
+- Kaoset växer – fler prov ska skrivas på papper - Vi Lärare
 - Ministrar sparkas efter Ukrainas korruptionshärva - GP
 - SD: Portar journalister som är ”partiska” - Dagens Nyheter
 - Kristerssons presschef: ”Tveksam att sätta våra politiker i intervju med DN” - SVT Nyheter
 - Ökände kultledaren erkänner – ville massförgifta judiska barn - TV4 Nyheterna
-- Uppåt för Nvidia inför rapport – S&P 500-index ökar - Placera.se
+- Börsrusning i Asien efter Nvidia-rapport - Dagens industri
 - DN Direkt – Handelsstopp kvarstår i Intellego - Dagens Nyheter
 - En vecka efter jätteledningen till Finland – elpriset rusar - NSD
-- ”De digitala nationella proven är en pinsam cirkus” | Skolledaren - Skolledaren
-- Politikerns kritik mot AI i nya Call of Duty: ”Vi behöver reglering” - Expressen
+- PTS avslutar 1800-MHz-auktionen – 652 miljoner till staten - Evertiq
+- ”Call of duty" sjunker djupare ned i galenskapen - GP
 - Google presenterar årets bästa appar - mobil.se
 
 ## World News
@@ -52,14 +52,14 @@ _Updated: 2025-11-20 05:55_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
+- Juridisk teknologi som ägs av vietnameser - vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
@@ -89,10 +89,10 @@ _Updated: 2025-11-20 05:55_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -119,7 +119,7 @@ _Updated: 2025-11-20 05:55_
 
 ## Science
 
-- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - Vietnam.vn
+- 19 ämnen vann 2025 års studentpris för vetenskaplig forskning i Da Nang City - vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -149,16 +149,16 @@ _Updated: 2025-11-20 05:55_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
