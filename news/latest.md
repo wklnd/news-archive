@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-21 00:48_
+_Updated: 2025-11-21 01:48_
 
 - Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders - NBC News
-- Donald Trump and JD Vance snubbed for Dick Cheney’s funeral - The Guardian
+- Tears and solemnity at Cheney funeral – but no memorial for those killed in Iraq - The Guardian
 - Judge rules Trump’s DC National Guard deployment was illegal - Politico
 - DOJ, FBI probing top Trump administration officials over investigations of president's adversaries: Sources - ABC News
 - DOJ case against Comey faces troubles. And, powerful figures in latest Epstein docs - NPR
-- Trump administration proposes opening waters off California and Florida to oil drilling - Politico
-- Before Fatal UPS Plane Crash, Engine Brace Had Cracked, Safety Agency Says - The New York Times
+- Trump's full 28-point Ukraine-Russia peace plan - Axios
 - Republican to force vote on expelling Cherfilus-McCormick from Congress after indictment - Axios
-- Decades after their feud, Cornel West sees poetic justice for Larry Summers - Politico
+- Two decades later, Cornel West’s critique of Larry Summers hits differently - Politico
 - Lindsey Graham blocks House-passed bill to repeal shutdown deal provision allowing $500,000 lawsuits from senators - CBS News
-- Fire forces evacuation from climate summit as talks reach critical stage - Politico
-- With a sushi lunch, Taiwan president shows support for Japan in China dispute - Reuters
+- Appeals Court Blocks Release of Hundreds of Chicago-Area Immigration Detainees - The New York Times
+- COP30 climate talks evacuated after fire breaks out - BBC
+- UK’s Covid response was ‘too little, too late’ and cost thousands of lives, inquiry says - CNN
 - Surf's down! Munich, until now an inland surfing hotspot, has lost its biggest wave - NPR
-- Israeli airstrikes kill 33 people in Gaza in escalation of post-ceasefire attacks - The Guardian
-- Stocks tumble, Nasdaq closes 2% lower after stunning reversal in AI, Nvidia stocks - CNBC
-- What Do Nvidia's Earnings Mean for the AI Trade and Markets? Experts Weigh In - Investopedia
+- Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire's start - AP News
+- AI bubble fears return as Wall Street falls back from short-lived rally - The Guardian
+- Live Updates: September Jobs Report Shows Hiring Continued, but Unemployment Rate Rose - The New York Times
 - Walmart Q3 earnings: Stock surges as sales rise - NBC News
-- Why Is The Stock Market Down Today, 11/20/2025? - TipRanks
+- What Do Nvidia's Earnings Mean for the AI Trade and Markets? Experts Weigh In - Investopedia
 - Google Gemini is getting better at identifying AI fakes - The Verge
-- The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop - Ars Technica
+- Android Quick Share now works with Apple's AirDrop feature on Pixel 10 phones - Engadget
