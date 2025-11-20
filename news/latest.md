@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 23:48_
+_Updated: 2025-11-21 00:48_
 
-- Trump: Democrats ‘traitors’ for telling military not to follow unlawful orders - The Washington Post
-- Dick Cheney remembered at funeral as having "devotion to America" over party - CBS News
-- Trump administration proposes opening waters off California and Florida to oil drilling - Politico
+- Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders - NBC News
+- Donald Trump and JD Vance snubbed for Dick Cheney’s funeral - The Guardian
 - Judge rules Trump’s DC National Guard deployment was illegal - Politico
-- DOJ, Halligan slam judge in Comey case following hearing - ABC News
-- A federal grand jury is investigating the handling of the Adam Schiff criminal probe - NBC News
+- DOJ, FBI probing top Trump administration officials over investigations of president's adversaries: Sources - ABC News
+- DOJ case against Comey faces troubles. And, powerful figures in latest Epstein docs - NPR
+- Trump administration proposes opening waters off California and Florida to oil drilling - Politico
 - Before Fatal UPS Plane Crash, Engine Brace Had Cracked, Safety Agency Says - The New York Times
 - Republican to force vote on expelling Cherfilus-McCormick from Congress after indictment - Axios
-- U.S. House rejects payout provision that leaves out Butler Rep. Mike Kelly, benefits senators - Pittsburgh Post-Gazette
-- Europe to Trump: Your Ukraine peace plan is no plan at all - politico.eu
-- Fire Breaks Out at COP30 Climate Talks in Brazil - The New York Times
+- Decades after their feud, Cornel West sees poetic justice for Larry Summers - Politico
+- Lindsey Graham blocks House-passed bill to repeal shutdown deal provision allowing $500,000 lawsuits from senators - CBS News
+- Fire forces evacuation from climate summit as talks reach critical stage - Politico
 - With a sushi lunch, Taiwan president shows support for Japan in China dispute - Reuters
 - Surf's down! Munich, until now an inland surfing hotspot, has lost its biggest wave - NPR
-- Move Over, Netflix: Ukraine’s Corruption Investigators Bring the Drama - The New York Times
-- Nvidia, Exact Sciences, Walmart, AMD, Alphabet, and More Stock Movers - Barron's
-- September Jobs Report Injects More Uncertainty Into Fed’s December Decision - The New York Times
+- Israeli airstrikes kill 33 people in Gaza in escalation of post-ceasefire attacks - The Guardian
 - Stocks tumble, Nasdaq closes 2% lower after stunning reversal in AI, Nvidia stocks - CNBC
-- Walmart Q3 earnings: Sales surge thanks to bargain hunters - NBC News
+- What Do Nvidia's Earnings Mean for the AI Trade and Markets? Experts Weigh In - Investopedia
+- Walmart Q3 earnings: Stock surges as sales rise - NBC News
+- Why Is The Stock Market Down Today, 11/20/2025? - TipRanks
 - Google Gemini is getting better at identifying AI fakes - The Verge
-- Apple Black Friday deal: up to $250 gift card with purchase of Mac, iPhone, iPad and more - 9to5Mac
+- The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop - Ars Technica
