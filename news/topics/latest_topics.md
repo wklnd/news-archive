@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 11:42_
+_Updated: 2025-11-20 12:45_
 
 ## Top Stories
 
-- DN Direkt – Trafikverket: Bandvagnar är på väg - Dagens Nyheter
+- Trafikverket: Bandvagnar på väg till Söderhamn - SVT Nyheter
+- SMHI varnar för snökaos: ”Ta hänsyn” - Aftonbladet
+- Ledare: Ett parti som drar åt alla håll kan inte sätta riktning för landet - NWT
 - Talmannen reser med sin fru för skattepengar - Dagens Nyheter
 - Professorn sågar förslag om slopad reavinstskatt - Omni
-- Karl Dalén: Det här händer nu med Epsteinutredningen - Dagens Nyheter
-- Man åtalas misstänkt för flera grova terrorbrott - SVT Nyheter
-- ORANGE WEEK: Vårdpersonal vid Skaraborgs Sjukhus arbetar aktivt för att upptäcka våld i nära relationer - Via TT
-- Rätt att neka präst jobb som inte viger samkönade - UNT
-- KD vill slopa de svenska klimatmålen - GP
-- Fler digitala prov ställs in - Västerbottens-Kuriren
+- Vill ha bidrag – inte lån: ”Dubbel orättvisa” - SvD
+- Präster kan nu nekas jobb om de inte viger samkönade par - Omni
+- Sjuksköterskan Isabel pendlar två timmar varje dag till jobbet: ”Hade behövt den tiden till återhämtning” - ETC.se
+- Slutför­handlingar på klimatmötet: ”Länderna är inte där med goda avsikter” - Arbetaren
 - LISTA: Då plogas vägarna vid dig - Jönköpings-Posten
-- Trump och Mamdani möts i Vita huset - Hufvudstadsbladet
 - DN Direkt – Tågkrock i Tjecken – tiotals skadade - Dagens Nyheter
+- Trump och Mamdani möts i Vita huset - Hufvudstadsbladet
 - Experten: USA-sanktioner kan slå hårt mot ryska ekonomin - Omni
-- Hisingsbron fast i öppet läge - Expressen
+- Sanna Torén Björling: Fördel Ryssland när korruptionsskandalen pressar Zelenskyj - Dagens Nyheter
 - UPPGÅNG VÄNTAS MED BRÄNSLE FRÅN STARK NVIDIA-RAPPORT - Placera.se
 - SBAB: Hushållen lyfter ekonomin - Tidningen Näringslivet
+- WeSports-grundaren om IPO-värderingen: ”Min åsikt som ägare” - Affärsvärlden
 - Hushållen ökar sitt likvida sparande - Statistikmyndigheten SCB
-- Nvidia och Lovable hetast just nu - SvD
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Här är måste-ha-tillbehören för din iPhone 17 - dopest.se
+- Fenix E06R Pro: Ny EDC-ficklampa med laser och flera lysdioder tillkännages - notebookcheck.se
 
 ## World News
 
@@ -52,23 +52,23 @@ _Updated: 2025-11-20 11:42_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- TELUS Sovereign AI Factory named Canada's fastest and most powerful supercomputer - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
@@ -108,11 +108,11 @@ _Updated: 2025-11-20 11:42_
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -123,22 +123,22 @@ _Updated: 2025-11-20 11:42_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
