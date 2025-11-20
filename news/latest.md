@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 01:48_
+_Updated: 2025-11-20 04:19_
 
-- Justice Dept. acknowledges full grand jury never saw final Comey indictment - The Washington Post
 - Trump to sign bill to compel release of more files related to Jeffrey Epstein - The Guardian
-- Yantar: How serious is the Russian spy ship move? - BBC
-- US Army secretary arrives in Kyiv for high-level talks to restart peace talks, military says - ABC News
-- Larry Summers resigns from OpenAI board as scrutiny over Jeffrey Epstein emails intensifies - CNN
-- What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia - NPR
-- Man Charged With Terrorism After Woman Is Set on Fire on Chicago Train - The New York Times
-- Ryan Wedding, Olympic snowboarder turned alleged drug kingpin, charged in death of federal witness - NBC News
-- Nancy Mace seeks to censure and remove fellow House Republican Cory Mills from committees - CNN
-- Woman who became U.S. citizen this year temporarily closes bakery in Charlotte amid immigration crackdown - CBS News
-- Chinese SOEs ask workers to cancel their Japan holidays amid diplomatic row - South China Morning Post
-- At least 25 killed in Russian attacks on war-torn Ukraine - Al Jazeera
-- UN Security Council resolution a violation of Palestinian right of self-determination and UN Charter, UN expert warns - ohchr
-- An existential battle of interests: what the Sudanese war is actually about - The Guardian
-- Nvidia’s Profit Jumps 65% to $31.9 Billion. Is It Enough for Wall Street? - The New York Times
-- Trump Quips He’ll Fire Bessent If Interest Rates Are Not Lowered - Bloomberg.com
-- Gemini 3 Pro rolling out to Android as iPhone app gets redesign - 9to5Google
-- AWS expands deal with Saudi AI firm Humain to deploy Nvidia, Trainium chips (AMZN:NASDAQ) - Seeking Alpha
-- Critics scoff after Microsoft warns AI feature can infect machines and pilfer data - Ars Technica
-- 10 Reasons to Wait for Next Year's iPhone 18 Pro - MacRumors
+- Comey case hanging by a thread as judge squeezes DOJ over Halligan’s handling - Politico
+- Lawrence Summers to Stop Teaching at Harvard While It Investigates His Epstein Ties - The New York Times
+- Trump administration drafts an executive order challenging state AI laws - NBC News
+- Trump Moves to Weaken the Endangered Species Act - The New York Times
+- Democratic Rep. Sheila Cherfilus-McCormick indicted, could face up to 53 years in prison - Axios
+- Arrests now top 250 in immigration crackdown across North Carolina - AP News
+- Judge Jeffrey Brown draws attacks from one-time GOP allies - The Texas Tribune
+- Senate GOP split over how to amend the Jack Smith phone data measure - Politico
+- 10 Arrested in Federal Indictment Charging Olympic Athlete-Turned-Cocaine Trafficker with Ordering Murder of Witness in January - Department of Justice (.gov)
+- Indian seafood exporters rally after report of China suspending Japanese imports - Reuters
+- Turkey set to host COP31 as Australia steps aside - BBC
+- Russian spy ship enters UK waters and aims lasers at military pilots, Britain says - CNN
+- Russian attack kills 25 in Ukraine’s Ternopil as Zelenskyy meets Erdogan in Turkey - AP News
+- Stock futures higher as Nvidia's strong forecast reignites the AI trade: Live updates - CNBC
+- Traders Nearly Price Out December Cut as BLS Cancels Jobs Report - Bloomberg.com
+- Facebook and Instagram to start kicking Australian teenagers off platforms as social media ban looms - The Guardian
+- Trump says he’d ‘love to fire’ Powell, renewing attacks on Fed chair - The Washington Post
+- Attacks Confirmed—Google Issues Emergency Update For 2 Billion Chrome Users - Forbes
+- Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows - TechCrunch
