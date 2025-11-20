@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 06:50_
+_Updated: 2025-11-20 07:49_
 
-- Trump says he signed bill to release Epstein files - Al Jazeera
+- Trump signs bill ordering DOJ to release Epstein files - Axios
 - Lawrence Summers to Stop Teaching at Harvard While It Investigates His Epstein Ties - The New York Times
+- Democratic congresswoman charged with stealing $5M in FEMA funds, making illegal campaign contributions: DOJ - ABC News
 - Comey case hanging by a thread as judge squeezes DOJ over Halligan’s handling - Politico
 - Trump and Mamdani to meet at the White House on Friday - Axios
-- ‘Unforgivable’: Trump’s ‘piggy’ insult is stoking more outrage than usual - The Guardian
-- Trump administration drafts an executive order to challenge state AI laws - NBC News
-- Witkoff’s back-channel push on Ukraine alarms allies - Politico
+- US and Russian officials draft plan to end Ukraine war based on capitulation from Kyiv - The Guardian
 - House blocks GOP Rep. Nancy Mace's censure effort against fellow Republican Cory Mills - CBS News
-- ‘Nobel prize for fiction’: judge excoriates colleague in Texas redistricting case - The Guardian
+- Man accused of setting woman on fire aboard Chicago train is charged with terrorism - PBS
 - Appeals Court Blocks Limits on Federal Agents’ Use of Force in Chicago Area - The New York Times
-- At least 25 killed in Russian attacks on war-torn Ukraine - Al Jazeera
-- China to suspend imports of Japanese seafood in latest escalation over Taiwan comments - ABC News
-- UK says 'military options' ready as Russian ship points lasers at RAF pilots - Reuters
+- Chinese state media calls for research into Ryukyu history amid row with Japan - South China Morning Post
+- Suspect arrested in assassination of Mexican mayor who pushed government to tackle violent crime - CBS News
+- Russian spy ship enters UK waters and aims lasers at military pilots, Britain says - CNN
 - Turkey set to host COP31 after reaching compromise with Australia - BBC
 - Stock futures higher as Nvidia's strong forecast reignites the AI trade: Live updates - CNBC
 - Many Fed policymakers at last meeting were opposed to December rate cut - Reuters
-- Nvidia delivers big once again, and investors brush aside the bigger picture about AI spending - CNBC
+- Walmart's Earnings Will Illustrate How the American Consumer Is Doing - Investopedia
 - Trump says he’d ‘love to fire’ Powell, renewing attacks on Fed chair - The Washington Post
-- YouTube tests bringing back direct messages, a ‘top feature request’ - 9to5Google
 - Megabonk withdraws from The Game Awards: "It's an honour but I don't think it qualifies for Debut Indie Game" - GamesIndustry.biz
+- YouTube tests bringing back direct messages, a ‘top feature request’ - 9to5Google
+- Thieves are hilariously turning down Android devices - Android Police
