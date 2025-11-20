@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 12:45_
+_Updated: 2025-11-20 13:39_
 
 ## Top Stories
 
-- Trafikverket: Bandvagnar på väg till Söderhamn - SVT Nyheter
-- SMHI varnar för snökaos: ”Ta hänsyn” - Aftonbladet
+- Snövarningar och stopp i trafiken - Dagens Nyheter
 - Ledare: Ett parti som drar åt alla håll kan inte sätta riktning för landet - NWT
 - Talmannen reser med sin fru för skattepengar - Dagens Nyheter
-- Professorn sågar förslag om slopad reavinstskatt - Omni
-- Vill ha bidrag – inte lån: ”Dubbel orättvisa” - SvD
+- Karl Dalén: Det här händer nu med Epsteinutredningen - Dagens Nyheter
+- Stenergard: Nordens stora stöd till Ukraina ”inte rättvist och inte hållbart” - Omni
+- OECD-statistik visar – Sverige bäst i klassen - SvD
 - Präster kan nu nekas jobb om de inte viger samkönade par - Omni
 - Sjuksköterskan Isabel pendlar två timmar varje dag till jobbet: ”Hade behövt den tiden till återhämtning” - ETC.se
 - Slutför­handlingar på klimatmötet: ”Länderna är inte där med goda avsikter” - Arbetaren
 - LISTA: Då plogas vägarna vid dig - Jönköpings-Posten
-- DN Direkt – Tågkrock i Tjecken – tiotals skadade - Dagens Nyheter
+- Minst 25 döda i ryska attacker mot höghus - GP
 - Trump och Mamdani möts i Vita huset - Hufvudstadsbladet
-- Experten: USA-sanktioner kan slå hårt mot ryska ekonomin - Omni
+- DN Direkt – Tågkrock i Tjecken – tiotals skadade - Dagens Nyheter
 - Sanna Torén Björling: Fördel Ryssland när korruptionsskandalen pressar Zelenskyj - Dagens Nyheter
 - UPPGÅNG VÄNTAS MED BRÄNSLE FRÅN STARK NVIDIA-RAPPORT - Placera.se
+- EU-ja till stöd för arbetslösa efter Northvolts konkurs - Dagens industri
+- Starka siffror från Embracers avknoppning Asmodee - Dagens industri
 - SBAB: Hushållen lyfter ekonomin - Tidningen Näringslivet
-- WeSports-grundaren om IPO-värderingen: ”Min åsikt som ägare” - Affärsvärlden
-- Hushållen ökar sitt likvida sparande - Statistikmyndigheten SCB
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Fenix E06R Pro: Ny EDC-ficklampa med laser och flera lysdioder tillkännages - notebookcheck.se
+- Aoostar lanserar Nex395 mini-PC med AMD Ryzen AI Max+ 395 och upp till 128 GB RAM - notebookcheck.se
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-11-20 12:45_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- TELUS Sovereign AI Factory named Canada's fastest and most powerful supercomputer - Placera.se
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-20 12:45_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
