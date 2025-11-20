@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 13:39_
+_Updated: 2025-11-20 15:07_
 
 ## Top Stories
 
-- Snövarningar och stopp i trafiken - Dagens Nyheter
+- Fotboll: Sverige ställs mot Ukraina i playoff till VM - SVT Nyheter
+- SMHI varnar för snökaos: ”Ta hänsyn” - Aftonbladet
+- Snökaos – Jennie har suttit fast på E4 hela natten - Expressen
+- Riksdagen var tyst om talmannens frus resor - Dagens Nyheter
 - Ledare: Ett parti som drar åt alla håll kan inte sätta riktning för landet - NWT
-- Talmannen reser med sin fru för skattepengar - Dagens Nyheter
-- Karl Dalén: Det här händer nu med Epsteinutredningen - Dagens Nyheter
-- Stenergard: Nordens stora stöd till Ukraina ”inte rättvist och inte hållbart” - Omni
-- OECD-statistik visar – Sverige bäst i klassen - SvD
-- Präster kan nu nekas jobb om de inte viger samkönade par - Omni
-- Sjuksköterskan Isabel pendlar två timmar varje dag till jobbet: ”Hade behövt den tiden till återhämtning” - ETC.se
+- Fredrik missade bussen – skulle jobbat vid kuren som krossades - Arbetet
+- Sjuksköterskan Isabel pendlar två timmar varje dag till jobbet: ”Hade behövt tiden till återhämtning” - ETC.se
+- Svenskars kaffe bidrar till Amazonas avskogning - Omni
 - Slutför­handlingar på klimatmötet: ”Länderna är inte där med goda avsikter” - Arbetaren
 - LISTA: Då plogas vägarna vid dig - Jönköpings-Posten
-- Minst 25 döda i ryska attacker mot höghus - GP
+- Zelenskyj möter amerikaner efter Witkoffs nobb - Västerbottens-Kuriren
+- Minst tio dödade i en rysk attack - Hufvudstadsbladet
 - Trump och Mamdani möts i Vita huset - Hufvudstadsbladet
-- DN Direkt – Tågkrock i Tjecken – tiotals skadade - Dagens Nyheter
-- Sanna Torén Björling: Fördel Ryssland när korruptionsskandalen pressar Zelenskyj - Dagens Nyheter
-- UPPGÅNG VÄNTAS MED BRÄNSLE FRÅN STARK NVIDIA-RAPPORT - Placera.se
-- EU-ja till stöd för arbetslösa efter Northvolts konkurs - Dagens industri
-- Starka siffror från Embracers avknoppning Asmodee - Dagens industri
+- Karl Dalén: Det här händer nu med Epsteinutredningen - Dagens Nyheter
+- Carl Johan von Seth: Frågan är när – inte om – AI-bubblan spricker - Dagens Nyheter
+- Analytikerna överrens: Tydligt rapportlyft väntar Asmodee - Dagens industri
 - SBAB: Hushållen lyfter ekonomin - Tidningen Näringslivet
+- EU-ja till Northvolt-stöd - Aftonbladet
 - ”Call of duty" sjunker djupare ned i galenskapen - GP
-- Aoostar lanserar Nex395 mini-PC med AMD Ryzen AI Max+ 395 och upp till 128 GB RAM - notebookcheck.se
+- Första exen: Koenigsegg tillverkar ny hyperbil - Carup.se
 
 ## World News
 
 - Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Foppas kritik efter NHL Global Series - Aftonbladet
 - Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - Travel News
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Foppas kritik efter NHL Global Series - Aftonbladet
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Benny Boquists dröm bakom kulisserna på Global Series - NHL.com
 - Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
-- EXPLORING THE GLOBAL TRANSFORMATION OF HEALTH CARE WITH ELI LILLY's CEO DAVE RICKS - Placera.se
+- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2025-11-20 13:39_
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-20 13:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Digital whiteboard – Överallt - Lantbruksnytt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
