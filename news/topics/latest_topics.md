@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-20 21:38_
+_Updated: 2025-11-20 22:42_
 
 ## Top Stories
 
-- Snövarningar och stopp i trafiken - Dagens Nyheter
-- Brand på klimatkonferens i Brasilien - GP
-- Stora journalistpriset för Landerholm-granskning - GP
+- Klimattoppmöte avbröts på grund av brand - GP
+- Bilar fast på E6 – ”ge er inte ut på vägarna” - SvD
 - Michael Winiarski: Rysk-amerikansk fredsplan oacceptabel för Ukraina - Dagens Nyheter
 - EU-lag som ska bromsa skövling av regnskogar kan fördröjas - Dagens Nyheter
-- 23-åring åtalas – hade bombmanual i telefonen - SvD
+- 23-åring åtalas för grova terrorbrott – kopplas till IS - Omni
+- Barnkonventionen är en naturlig del av vardagen i förskolan - Håbo
+- Många trafikolyckor i södra Sverige i snövädret - Dagens Nyheter
 - DN Direkt – Buss har kört av vägen i Emmaboda – riskerar välta - Dagens Nyheter
+- Frustration i riksdagen över talmansfruns resor - Dagens Nyheter
 - Två fall där barn dött utreds – kopplas till barnhjärtläkaren - Dagens Nyheter
-- Väljarna vill se ökat fokus på viktigaste frågorna - Omni
-- S kräver reglering av spelplattformar - GP
-- Brand har brutit ut i COP30-byggnaden - Dagens Nyheter
+- Brand i COP30-byggnaden – besökare evakuerades - SVT Nyheter
 - Kräver mer stöd till Ukraina: ”Bedrövligt” - Västerbottens-Kuriren
-- Sudan: Tiotusentals uppges ha kunnat fly - Corren
-- DN Direkt – Sydafrika: USA har ändrat sig om G20-mötet - Dagens Nyheter
-- Kinneviks vd Georgi Ganev lämnar - Dagens industri
-- Här försöker Busch sälja Gripen i kanadensisk tv – ger kängor till Trump - Sydsvenskan
-- Brand i bil på E22 – vägen avstängd - Expressen
-- Affärsvärlden börjar se bubbelvarning i börsens gruvjättar, säljråd för Lundin Gold - Placera.se
-- Mystiskt fynd på Mars: Ovanligt objekt som absolut inte hör hemma på den röda planeten - Illustrerad Vetenskap
+- Sudan: Tiotusentals uppges ha kunnat fly - GP
+- Många fler befaras döda i bombade höghus - Corren
+- Efter Di:s förutsägelse: Kinneviks vd Georgi Ganev lämnar - Dagens industri
+- Verizon: 13 000 tjänster ska bort - Aftonbladet
+- Tiktok låter användarna bestämma om AI-innehåll - Expressen
+- Nytt besked – inga jobbsiffror från USA - SvD
+- Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
 - SVA: "Bättre att förebygga än att behandla" - Ridsport
 
 ## World News
 
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Xiaomi G34WQi 2026: Böjd spelmonitor får global lansering - notebookcheck.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Foppas kritik efter NHL Global Series - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Due to Strong Demand, Autozi Internet Technology (Global) Ltd. Announced the Signing of a $1 Billion Cross-border Sales Cooperation Agreement with Wanshan International Ltd. - Placera.se
-- EXPLORING THE GLOBAL TRANSFORMATION OF HEALTH CARE WITH ELI LILLY's CEO DAVE RICKS - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -91,8 +91,8 @@ _Updated: 2025-11-20 21:38_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
