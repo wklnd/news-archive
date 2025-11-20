@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 22:48_
+_Updated: 2025-11-20 23:48_
 
-- Mike Johnson defends Trump’s ‘sedition’ attacks on Democrats - Politico
-- Donald Trump and JD Vance snubbed for Dick Cheney’s funeral - The Guardian
+- Trump: Democrats ‘traitors’ for telling military not to follow unlawful orders - The Washington Post
+- Dick Cheney remembered at funeral as having "devotion to America" over party - CBS News
+- Trump administration proposes opening waters off California and Florida to oil drilling - Politico
+- Judge rules Trump’s DC National Guard deployment was illegal - Politico
 - DOJ, Halligan slam judge in Comey case following hearing - ABC News
 - A federal grand jury is investigating the handling of the Adam Schiff criminal probe - NBC News
-- Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan - BBC
-- COP30 climate talks evacuated after fire breaks out - BBC
-- Republican to force vote on expelling Cherfilus-McCormick from Congress after indictment - Axios
 - Before Fatal UPS Plane Crash, Engine Brace Had Cracked, Safety Agency Says - The New York Times
-- Summers Will Not Finish Semester of Teaching as Harvard Investigates Epstein Ties - The Harvard Crimson
-- Multicultural New Orleans awaits arrival of ‘Swamp Sweep’ immigration crackdown - AP News
+- Republican to force vote on expelling Cherfilus-McCormick from Congress after indictment - Axios
+- U.S. House rejects payout provision that leaves out Butler Rep. Mike Kelly, benefits senators - Pittsburgh Post-Gazette
+- Europe to Trump: Your Ukraine peace plan is no plan at all - politico.eu
+- Fire Breaks Out at COP30 Climate Talks in Brazil - The New York Times
 - With a sushi lunch, Taiwan president shows support for Japan in China dispute - Reuters
 - Surf's down! Munich, until now an inland surfing hotspot, has lost its biggest wave - NPR
-- A corruption scandal pressures Ukraine’s Zelenskyy to show greater accountability - AP News
-- Israeli airstrikes kill 33 people in Gaza in escalation of post-ceasefire attacks - The Guardian
-- Wall Street Cheers Bullish Nvidia Report. But AI Stock Rally Falters. - Investor's Business Daily
+- Move Over, Netflix: Ukraine’s Corruption Investigators Bring the Drama - The New York Times
+- Nvidia, Exact Sciences, Walmart, AMD, Alphabet, and More Stock Movers - Barron's
+- September Jobs Report Injects More Uncertainty Into Fed’s December Decision - The New York Times
+- Stocks tumble, Nasdaq closes 2% lower after stunning reversal in AI, Nvidia stocks - CNBC
 - Walmart Q3 earnings: Sales surge thanks to bargain hunters - NBC News
-- 'There's Definitely a Bubble' In Markets, Ray Dalio Says. Here's His Latest Advice. - Investopedia
-- Another fire breaks out at aluminum plant that supplies Ford - TechCrunch
-- Google releases Nano Banana Pro, its latest image-generation model - TechCrunch
-- Android Quick Share now works with Apple's AirDrop feature on Pixel 10 phones - Engadget
+- Google Gemini is getting better at identifying AI fakes - The Verge
+- Apple Black Friday deal: up to $250 gift card with purchase of Mac, iPhone, iPad and more - 9to5Mac
