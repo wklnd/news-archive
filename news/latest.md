@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 19:48_
+_Updated: 2025-11-20 20:55_
 
-- Dick Cheney funeral: Cheney's casket arrives as guests pack Washington National Cathedral - ABC News
-- Trump calls for Democratic lawmakers to face trial for ‘seditious behavior’ - Politico
-- Dissenting judge slams colleagues for blocking Texas congressional map - Reuters
-- DOJ case against Comey faces troubles. And, powerful figures in latest Epstein docs - NPR
-- Trump approves 28-point Ukraine-Russia peace plan, but no indication Ukraine is on board yet - CBS News
-- Republican to force vote on expelling Cherfilus-McCormick from Congress after indictment - Axios
-- Trump and Mamdani Will Meet at White House on Friday - The New York Times
-- Summers Will Not Finish Semester of Teaching as Harvard Investigates Epstein Ties - The Harvard Crimson
-- After Trump signs Epstein files bill, focus shifts to release timeline - ABC News
-- Jets, chips and a clean slate: Saudi Arabia’s crown prince got almost everything he wanted from Trump - CNN
-- Amnesia, nostalgia, healing: Spain grapples with Franco legacy 50 years on - Al Jazeera
-- With a sushi lunch, Taiwan president shows support for Japan in China dispute - Reuters
+- Donald Trump and JD Vance snubbed for Dick Cheney’s funeral - The Guardian
+- DOJ, Halligan slam judge in Comey case following hearing - ABC News
+- ‘Punishable by DEATH’: Trump threatens Democrats with sedition charges - Al Jazeera
+- NTSB releases frame-by-frame images of engine separating during deadly UPS crash in Louisville - CNN
+- Zelensky agrees to negotiate on Trump's peace plan for Ukraine - Axios
+- Judge Jeffrey Brown draws attacks from one-time GOP allies - The Texas Tribune
+- Democratic Rep. Sheila Cherfilus-McCormick indicted, could face up to 53 years in prison - Axios
+- Sources: Border Patrol operation in Charlotte ends - WSOC TV
+- President Trump to meet with NYC Mayor-elect Zohran Mamdani at White House on Friday - ABC7 New York
+- Trump renews effort to block states from regulating AI, raising alarms about safety - CNN
+- US ‘has Sanae Takaichi’s back’ in Japan’s escalating row with China - Financial Times
+- COP30 climate talks evacuated after fire breaks out - BBC
 - Surf's down! Munich, until now an inland surfing hotspot, has lost its biggest wave - NPR
-- Some migrants to face 20-year wait for settled status - BBC
+- Amnesia, nostalgia, healing: Spain grapples with Franco legacy 50 years on - Al Jazeera
 - Live Updates: September Jobs Report Shows Hiring Continued, but Unemployment Rate Rose - The New York Times
-- Wall St climbs more than 1% after jobs data, Nvidia results - Reuters
-- The latest Fed minutes read like another nail in the coffin for a December interest rate cut - Fortune
-- Walmart Q3 earnings: Sales surge thanks to bargain hunters - NBC News
-- Google releases Nano Banana Pro, its latest image generation model - TechCrunch
-- Windows turns 40 — here's the 20 best (and worst) moments in Windows history - Tom's Guide
+- Stock Market Today: Dow Up Nearly 700 Points As Nvidia Earnings Impress; Broadcom Hits Entry (Live Coverage) - Investor's Business Daily
+- Walmart bumps up outlook ahead of holidays, plans listing switch to Nasdaq - Reuters
+- Existing home sales see small October gain, but supply is now dropping - CNBC
+- Apple Black Friday deal: up to $250 gift card with purchase of Mac, iPhone, iPad and more - 9to5Mac
+- Pixel 10 phones are now compatible with AirDrop - The Verge
