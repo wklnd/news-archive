@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-20 11:49_
+_Updated: 2025-11-20 12:51_
 
-- Trump Approves the Epstein Files Release, but Some May Be Withheld - The New York Times
+- Trump signs bill ordering DOJ to release Epstein files - Axios
 - Witkoff’s back-channel push on Ukraine alarms allies - Politico
-- Summers Will Not Finish Semester of Teaching as Harvard Investigates Epstein Ties - The Harvard Crimson
-- Trump and Mamdani to meet in Oval Office on Friday after months of bickering - The Guardian
-- Inside Jeffrey Epstein’s web of power, revealed in new emails - CNN
-- DOJ says full grand jury in Comey case was not presented copy of final indictment - PBS
 - U.S. Rep. Cherfilus-McCormick indicted on charges of stealing $5M in disaster funds - NPR
+- Summers Will Not Finish Semester of Teaching as Harvard Investigates Epstein Ties - The Harvard Crimson
+- The latest Epstein emails reveal the powerful people who sought his counsel - NPR
+- Trump and Mamdani Will Meet at White House on Friday - The New York Times
 - 'You're a disgrace': Dramatic scene as House avoids Rep. Cory Mills censure vote - ABC News
 - Man accused of setting woman on fire aboard Chicago train is charged with terrorism - PBS
-- Federal appeals court halts ruling that curbed use of force during immigration campaign - Chicago Sun-Times
-- Offhand remark, symbolic suit signal long winter for Japan-China ties - Reuters
+- Arrests now top 250 in immigration crackdown across North Carolina - AP News
+- Comey case hanging by a thread as judge squeezes DOJ over Halligan’s handling - Politico
+- Israeli strikes in Gaza kill 25 Palestinians, health ministry says - BBC
+- Taiwan president shows support for Japan in China dispute with sushi lunch - Reuters
+- Franco Died 50 Years Ago, but He’s Still Winning New Fans in Spain - The New York Times
 - Pakistan’s Army Chief, Trump’s ‘Favorite Field Marshal,’ Cements Power - The Wall Street Journal
-- Russian attack kills 25 in Ukraine’s Ternopil as Zelenskyy meets Erdogan in Turkey - AP News
-- Early COP30 climate deal eludes Brazil, but Lula remains upbeat - Reuters
-- Stocks soar on Nvidia earnings relief as markets brace for US jobs data - Reuters
-- Walmart will report earnings before the bell. Here's what to expect - CNBC
+- Stock Market Today: S&P 500 Futures Rally After Nvidia Earnings; Jobs Report in Focus — Live Updates - The Wall Street Journal
+- BLS cancels October jobs report due to government shutdown - Axios
 - Meta alerts young Australians to download their data before a social media ban - AP News
-- LIVE: Amazon Black Friday – 30 best early deals for creatives, handpicked - Creative Bloq
-- YouTube is once again trying to make DMs happen - Engadget
+- The Amazon Black Friday Sale Is Live With the Best Deal Prices of 2025 So Far - IGN
 - Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics - WIRED
+- 10 Reasons to Wait for Next Year's iPhone 18 Pro - MacRumors
