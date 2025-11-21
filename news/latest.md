@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-21 16:50_
+_Updated: 2025-11-21 17:47_
 
-- Trump: Democrats' message to troops seditious behavior, punishable by death - BBC
-- Here's what's in the Trump administration's proposed 28-point Russia-Ukraine peace plan - CBS News
+- House Democratic leaders contact Capitol Police after Trump "death threats" against vets - Axios
+- Draft of US-backed peace proposal for Ukraine - Reuters
 - After calling him a 'communist,' Trump will meet Mamdani in the Oval Office Friday - NPR
+- Mamdani at the White House, and the Coast Guard’s New Policy on Swastikas and Nooses - The New York Times
+- Party of one: Trump chews up and spits out his inner circle - Axios
 - Eric Swalwell enters California governor’s race - Politico
-- UN climate summit drops mention of fossil fuels from draft deal - BBC
-- Two decades later, Cornel West’s critique of Larry Summers hits differently - Politico
 - UPS cargo plane involved in deadly crash had cracks in engine mount, investigators say - PBS
-- In reversal, Coast Guard again classifies swastikas, nooses as hate symbols - The Washington Post
-- Trump’s All-but-Forgotten Border Wall Reaches an Angry Laredo, Texas - The New York Times
-- Abbott, lawmaker comments helped doom Texas’ new voting map - The Texas Tribune
+- Police say a man has been shot and killed after wielding a knife at St. Louis airport - NBC News
+- Poll: Voters support gerrymandering to win the midterms - Politico
+- Attempt stalls to repeal controversial provision that allows 'senators to sue the government for doing its job' - ABC News
 - Japan’s Takaichi Rejects China Demand to Retract Taiwan Remarks - Bloomberg.com
-- Indian fighter jet pilot killed in crash at Dubai airshow - BBC
-- Archaeologists lift the lid on a 1,700-year-old Roman sarcophagus hidden beneath Budapest - ABC News
+- 1,700-year-old Roman sarcophagus unearthed, revealing treasures buried with woman of "higher social status" - CBS News
 - Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation - NPR
+- Indian fighter jet pilot killed in crash at Dubai airshow - BBC
 - Stock Market Today: Dow Rises; Global Chip Stocks Drop; Bitcoin Falls Further — Live Markets - The Wall Street Journal
-- Crypto plunge wipes out nearly $400 billion in a week - Axios
-- 65+ best Black Friday deals 2025: Apple, Kindle, Ninja on sale - Mashable
-- Wildest Trading Day Since Tariff Shock to Test Dip Buyers’ Nerve - Bloomberg.com
-- OnePlus 15 phone has world's fastest mobile processor so it can easily record hypercars with no blur and you can get one for free - supercarblondie.com
-- Shop rare price drops on new Apple tech at Amazon’s Black Friday sale 🍎 - USA Today
+- Crypto liquidations near $2 billion as bitcoin rout deepens - theblock.co
+- Eli Lilly hits $1 trillion market value, a first for a health-care company - CNBC
+- Goldman Sachs, JPMorgan and BofA drop verdicts on Nvidia earnings - TheStreet
+- Hands On With Google’s Nano Banana Pro Image Generator - WIRED
+- Stoke Space goes for broke to solve the only launch problem that “moves the needle” - Ars Technica
