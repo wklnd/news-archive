@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 06:45_
+_Updated: 2025-11-21 07:43_
 
 ## Top Stories
 
 - Bandvagnar hjälper till vid snökaoset på E6 - SvD
-- Det här är innehållet i fredsplanen för Ukraina - Västerbottens-Kuriren
-- Brand på FN:s klimattoppmöte i Brasilien - Corren
-- Johannes Klenell: Därför undrade Björn Söder om Trump kunde stämma SVT - Dagens Nyheter
-- De knackar dörr – vill ha tips om våld i nära relation - SVT Nyheter
-- Så jobbar förskolan med barnkonventionen - Uddevalla kommun
-- Andreas Norlén kritiseras för resor med frun - NT
+- Ukraina skulle bli av med flera regioner enligt nya fredsplanen - Hufvudstadsbladet
+- LEDARE: Liberalerna riskerar att ryka – och det vore en katastrof - UNT
+- Explosion vid port i Malmö - Västerbottens-Kuriren
+- Så stor blir nya tippen i Högsbo – plats för hundratals besökare - GP
+- Talmannen kritiseras för Instagraminlägg: ”En enda tomatröra” - Dagens Nyheter
+- Häst i pool – räddningstjänst på väg - Expressen
 - Lastbilschauffören Björn rasar mot Trafikverket: ”Hemskt att höra” - Expressen
 - Vemyras personal i ovisshet: ”Det är en ständig oro” - Tidningen Ångermanland
 - Svenskars kaffe bidrar till Amazonas avskogning - Omni
-- Kräver mer stöd till Ukraina: ”Bedrövligt” - GP
-- Många saknas ännu efter attack mot höghus - Corren
+- Kräver mer stöd till Ukraina: ”Bedrövligt” - Västerbottens-Kuriren
+- Många saknas ännu efter attack mot höghus - GP
 - Nästa klimattoppmöte i Turkiet - SVT Nyheter
-- Sudan: Tiotusentals uppges ha kunnat fly - Västerbottens-Kuriren
-- Fler amerikanska jobb än väntat – börsen lyfter - Aftonbladet
+- ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
+- Tre sockerfällor som låtsas vara nyttiga - Dagens PS
+- BMW iX3 körde rekordlångt på en laddning - Dagens PS
 - Carl Johan von Seth: Frågan är när – inte om – AI-bubblan spricker - Dagens Nyheter
 - Kalla Fakta avslöjar: AI-undret Lovable har inte betalat moms - NyTeknik
-- EU-kommissionär Jessika Roswall besökte Fastighetsägarnas Hållbarhetsråd med fokus på cirkulär ekonomi och återbruk - Via TT
 - Nya bilder på sällsynt besökare i vårt solsystem - Dagens Nyheter
 - Epic Games Store ställer upp med flerfaldigt prisbelönt titel som sista gratisspel för PC i november 2025 - notebookcheck.se
 
@@ -53,23 +53,23 @@ _Updated: 2025-11-21 06:45_
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -146,19 +146,19 @@ _Updated: 2025-11-21 06:45_
 - Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
