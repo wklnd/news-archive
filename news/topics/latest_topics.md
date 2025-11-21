@@ -1,98 +1,98 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 13:38_
+_Updated: 2025-11-21 15:05_
 
 ## Top Stories
 
-- Trumps fredsplan för Ukraina sågas – ”rysk önskelista” - Dagens Nyheter
-- Trafikverket varnar för dåligt väglag i Uppland - UNT
+- DN Direkt – Trafikverket om snökaoset: Ett samarbete som måste fungera - Dagens Nyheter
+- Kristersson om fredsplan: Går Ryssland till mötes - GP
+- SD-toppen Marianne Sandström lämnar partiet: ”Rädd för starka kvinnor” - Expressen
 - Fyra skadade i bussolycka i Malmö - Bussmagasinet
-- Person påkörd av grävmaskin – allvarligt skadad - Aftonbladet
-- Regeringens och svenska myndigheters arbete för att skydda de allmänna valen 2026 mot otillbörlig påverkan - Regeringen.se
-- DN Direkt – Livstidsstraff fastställs för mord på svensk - Dagens Nyheter
-- DN Direkt – Åklagaren om bussolyckan på Östermalm: Inget uppsåt - Dagens Nyheter
+- Regeringen skärper cyberförsvaret inför valet - Nordisk infrastruktur
+- P4-journalist hotades med tortyr – man döms till fängelse - SVT Nyheter
 - Liberaler i upprop: Stoppa SD-samarbetet - GP
-- Lann: Nationell plan ska stärka hjärt-kärlvården - GP
-- Slutför­handlingar på klimatmötet: ”Länderna är inte där med goda avsikter” - Arbetaren
-- Svenska EU-parlamentariker i konflikt om klimatpolitiken - Europaportalen
-- Många saknas ännu efter attack mot höghus - GP
+- DN Direkt – Åklagaren om bussolyckan på Östermalm: Inget uppsåt - Dagens Nyheter
+- Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
+- Livstidsstraff fastställs för mord på svensk - GP
+- Över 30 döda i ryska attacken i Ternopil - GP
+- Ryssland: Vi har inte fått några fredsplaner från USA - Expressen
 - Talmannen kritiseras för Instagraminlägg: ”En enda tomatröra” - Dagens Nyheter
-- Blev sjuka av Ozempic – får ersättning - Aftonbladet
-- Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
+- ÖB: Ryssland redo att ta enorma risker - SVT Nyheter
+- Så ska regeringen stoppa smyghöjda matpriser - SvD
+- Hushåll handlar för flera miljarder mer under Black Week - Statistikmyndigheten SCB
 - Lägre kaffepris efter Trumps besked - DI
-- Regeringen inför matpriskommission för att säkra genomslag av sänkt matmoms - Placera.se
-- Martin Blomgren: Det enda som är märkligt med Kinneviks vd-byte - EFN
-- Mystisk besökare från främmande solsystem nu fotad av Kina och Nasa - NyTeknik
-- Windows 11 får två nya smarta sätt att rädda din dator - Teknikveckan
+- Danmark utökar beställning av stridsfordon inom nordiskt samarbete - FMV
+- Google ”knäckte” Apple Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
+- Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
 
 ## World News
 
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- HUMAIN och Global AI bildar strategiskt partnerskap för AI-infrastruktur av Investing.com - Investing.com Sverige
+- Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Kia's PV5 wins the '2026 International Van of the Year' - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Astra Zeneca's Covid-19 vaccine Vaxzevria is being withdrawn worldwide - Life Science Sweden
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Hockeyn förenade under NHL Global Series - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- HUMAIN och Global AI bildar strategiskt partnerskap för AI-infrastruktur av Investing.com - Investing.com Sverige
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 
 ## Technology
 
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -149,16 +149,16 @@ _Updated: 2025-11-21 13:38_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
