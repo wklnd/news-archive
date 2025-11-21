@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 19:41_
+_Updated: 2025-11-21 20:47_
 
 ## Top Stories
 
-- Trump pressar Zelenskyj: Vill ha svar på torsdag - Västerbottens-Kuriren
-- Flera olyckor på E18/E20 – polisen varnar för halka - Aftonbladet
+- Källor: USA pressar Ukraina att skriva på fredsavtal inom en vecka - Dagens Nyheter
+- Ilska på klimatmötets slutspurt – ”Slösar vår tid” - Dagens Nyheter
+- Långa köer efter dubbla olyckor på E18/E20 - SVT Nyheter
 - Uppdatering i ärende om bussolycka i Stockholm - Åklagarmyndigheten
-- Man häktas efter utlämning: ”Omfattande utredning” - Dagens Nyheter
-- L väntas säga klart nej till SD i regering - GP
-- SD kräver ministerposter: ”Det är väldigt tydligt” - Omni
-- Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
+- Rån mot butik i Kosta – tre män gripna - SVT Nyheter
+- Väderdramat fortsätter – frosthalka i natt - Sydsvenskan
+- Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - Dagens Nyheter
 - P4-journalist hotades med tortyr – man döms till fängelse - SVT Nyheter
-- S KU-anmäler ministrar efter Somaliapengar - GP
-- EU ger Sverige bakläxa om vargen – och förening vill sätta stopp för licensjakten - NLT
-- Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
-- SMHI varnar för plötslig ishalka - Expressen
+- SD-beslut öppnar för skånska som regionalt språk - Skånska Dagbladet
+- Familj utvisas – kommun tar strid mot regeringen - Dagens Nyheter
 - ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
+- Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
-- Stockholmsbörsen begär att Intellego ska avnoteras - DI
+- Häst i pool – räddningstjänst på väg - Expressen
 - Danmark utökar beställning av stridsfordon inom nordiskt samarbete - FMV
-- Mark- och miljööverdomstolen fastställer tillståndet för SSAB:s nya stålverk i Luleå - Metal Supply
 - Oljan störtdyker efter oväntad lagerboom - Dagens PS
+- Mark- och miljööverdomstolen fastställer tillståndet för SSAB:s nya stålverk i Luleå - Metal Supply
+- Martin Blomgren: Det enda som är märkligt med Kinneviks vd-byte - EFN
 - Google ”knäckte” Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
 - Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-21 19:41_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -98,67 +98,67 @@ _Updated: 2025-11-21 19:41_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
