@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-21 12:51_
+_Updated: 2025-11-21 13:48_
 
-- Trump Calls Democrats’ Military Video ‘Seditious Behavior, Punishable by Death’ - The New York Times
 - US revives Ukraine-Russia peace push with Zelenskyy on the defensive - ABC News
-- Coast Guard releases new policy on display of swastikas and nooses - NBC News
-- Eric Swalwell enters California governor’s race - Politico
+- Mamdani’s meeting with Trump comes with a power disadvantage - Politico
+- Coast Guard Says Swastika and Noose Displays Are No Longer Hate Incidents - The New York Times
+- Trump: Democrats' message to troops seditious behavior, punishable by death - BBC
+- A Former Trump Impeachment Manager Will Run for California Governor - The New York Times
 - Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation - NPR
-- Larry Summers takes leave from Harvard after Epstein emails release - Axios
-- Donald Trump and Zohran Mamdani set for high-stakes Oval Office face-off - Financial Times
-- White House press secretary defends Trump’s ‘piggy’ insult - The Guardian
-- Trump administration ordered to halt ‘unlawful’ Guard deployment in D.C. - The Washington Post
-- Scoop: Mike Johnson wants changes after being outflanked on Epstein files - Axios
+- Dramatic photos of doomed UPS plane show the aircraft on fire and its engine flying off - AP News
+- In Harvard Classrooms, Summers’ Co-Instructors Address His Sudden Exit - The Harvard Crimson
+- Congressman Ro Khanna warns officials not to impede Epstein files release: ‘They will be prosecuted’ - The Guardian
+- Trump officials unveil plan to drill off California, sparking a fight - The Washington Post
 - Japan’s Takaichi Rejects China Demand To Retract Taiwan Remarks - Bloomberg.com
-- At least three killed as magnitude 5.5 earthquake hits Bangladesh - Al Jazeera
-- Israeli airstrikes kill 33 people in Gaza in escalation of post-ceasefire attacks - The Guardian
-- Iran cancels new nuclear inspections it agreed to after bombing campaign - The Washington Post
-- US and Asia stocks slide as AI jitters persist - BBC
+- Ukraine war briefing: Buildings engulfed in flames as Russian air attack on Zaporizhzhia kills five - The Guardian
+- Reform UK's former Wales leader Nathan Gill to be sentenced over pro-Russian bribes - BBC
+- Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire's start - AP News
+- Stock futures are mixed as Wall Street tries to recover from Thursday's big reversal: Live updates - CNBC
 - Live Updates: September Jobs Report Shows Hiring Continued, but Unemployment Rate Rose - The New York Times
-- Asia Tech Rout Resumes as Stocks Slide on AI Valuation Fears - Bloomberg.com
-- Gap CEO says its viral denim campaign wasn't just a hit online — it drove double-digit growth in sales, fueled by Gen Z - Business Insider
-- Chrome is finally getting a highly requested feature that its rivals have long had - Android Authority
+- CEO Jensen Huang told staff 'the whole world would've fallen apart' if Nvidia delivered a bad quarter - Business Insider
+- Paramount, Comcast and Netflix Make Official Bids for Warner Bros. Discovery as High-Stakes Fight for the Company Begins - The Hollywood Reporter
 - Hands On With Google’s Nano Banana Pro Image Generator - wired.com
+- Chrome is finally getting a highly requested feature that its rivals have long had - Android Authority
