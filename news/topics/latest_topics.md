@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 22:42_
+_Updated: 2025-11-21 23:39_
 
 ## Top Stories
 
+- Trump efter mötet med Mamdani: ”produktivt möte” - SVT Nyheter
 - Trump pressar Zelenskyj: Vill ha svar på torsdag - GP
-- 15-åring döms för barnporr – laddade ner nakenbild - Aftonbladet
-- Långa köer efter dubbla olyckor på E18/E20 - SVT Nyheter
-- Så blev en före detta hypnotisör den brittiska vänsterns frälsare - dn.se
+- Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - Dagens Nyheter
+- 21 november 16.12, Trafikolycka, Örebro - Polisen.se
 - Större explosion på SSAB i Oxelösund - SN, Södermanlands Nyheter
-- Elever heilade på skolgård – polisanmäls - Expressen
-- Barnhjärtläkare anmäls av sin gamla arbetsgivare: ”Allvarliga brister” - dn.se
-- Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - dn.se
+- Henrik Jönssons hemliga projekt: ”Många miljoner” - Expressen
+- DN Direkt – 15-åring döms för barnporr – laddade ner nakenbild - Dagens Nyheter
+- Inget uppsåt i samband med bussolyckan - Västerbottens-Kuriren
 - Chatt: SVT:s reportrar svarade på era frågor om COP 30 - SVT Nyheter
-- SD-beslut öppnar för skånska som regionalt språk - Skånska Dagbladet
-- Grizzlybjörn gick till attack mot skolgrupp i Kanada – elva skadade - Expressen
+- Vägar öppna efter snökaoset – risk för halka - GP
+- Grizzlybjörn gick till attack – skolbarn skadade - Aftonbladet
+- Trump mötte prinsen - 8 Sidor
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
-- ÖB: Ryssland redo att ta enorma risker - dn.se
 - Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
+- Fyra orosmoln för börsen – utöver AI-bubblan - Dagens Nyheter
 - Hägglunds säkrar ny miljardorder: ”Enorm utveckling” - DI
 - Kinneviks vd Georgi Ganev lämnar: "Betydande förändringsresa" - Breakit
-- 91-åringen älskar jobbet – vägrar gå i pension - Dagens PS
 - Google ”knäckte” Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
-- Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
+- Apple iPhone 17e och iPad 12:e generationen är på väg att lanseras våren 2026 tillsammans med en nedgraderad budget-MacBook som kan börja med bara 8 GB RAM - notebookcheck.se
 
 ## World News
 
+- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -35,18 +36,17 @@ _Updated: 2025-11-21 22:42_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global produktion på stål minskar - DI
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - AGCO to Present at the UBS 2025 Global Industrials & Transportation Conference - Placera.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2025-11-21 22:42_
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -78,44 +78,44 @@ _Updated: 2025-11-21 22:42_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
 
