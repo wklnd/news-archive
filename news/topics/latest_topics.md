@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 17:37_
+_Updated: 2025-11-21 18:46_
 
 ## Top Stories
 
-- Ukrainare om fredsplanen: ”Om vi inte kan försvara oss kommer de att döda oss” - Dagens Nyheter
-- Beslut från Landsmötet 2025 - Liberalerna
-- Uppdatering i ärende om bussolycka i Stockholm - Åklagarmyndigheten
-- Trafikverkets generaldirektör: Vi var bättre förberedda den här gången - HD
-- P4-journalist hotades med tortyr – man döms till fängelse - SVT Nyheter
-- Man häktas efter utlämning: ”Omfattande utredning” - Västerbottens-Kuriren
-- Region Jönköpings län anmäler barnläkaren – har visat på flera brister - SVT Nyheter
-- Efter Somaliapengarna: S KU-anmäler ministrar - Dagens Nyheter
-- Fyra till sjukhus efter bussolycka – långa köer - Aftonbladet
-- Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
+- Källor: Ukraina och europeiska länder arbetar med motförslag - Dagens Nyheter
+- Liberalernas framtid står på spel – nu ska ödesbeslutet fattas - GP
+- Polisens identifieringsarbete vid större olyckor - polisen.se
+- SD kräver ministerposter – "kan inte misstolkas" - SvD
+- Man häktas efter utlämning: ”Omfattande utredning” - Dagens Nyheter
+- Rån mot butik i Kosta – tre män gripna - SVT Nyheter
+- Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
+- Chatt: Våga fråga om klimatmötet COP30 i Brasilien - SVT Nyheter
+- Fängelse för tortyrhot mot journalist - GP
+- EU ger Sverige bakläxa om vargen – och förening vill sätta stopp för licensjakten - NLT
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
+- ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
-- ÖB: Ryssland redo att ta enorma risker - SVT Nyheter
 - Talmannen kritiseras för Instagraminlägg: ”En enda tomatröra” - Dagens Nyheter
 - Stockholmsbörsen begär att Intellego ska avnoteras - DI
-- Danmark utökar beställning av stridsfordon inom nordiskt samarbete - FMV
-- SSAB: Mark- och miljööverdomstolen fastställer tillståndet för nytt stålverk i Luleå (Cision) - Aktiellt
 - Lägre kaffepris efter Trumps besked - Sydsvenskan
+- Danmark utökar beställning av stridsfordon inom nordiskt samarbete - FMV
+- Varför AI-bubblan är på väg att spricka, enligt Rajiv Jain från GQG - Morningstar Canada
 - Google ”knäckte” Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
 - Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
 
 ## World News
 
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
-- HUMAIN och Global AI bildar strategiskt partnerskap för AI-infrastruktur av Investing.com - Investing.com Sverige
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
-- AGCO to Present at the UBS 2025 Global Industrials & Transportation Conference - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 
 ## Business
@@ -82,14 +82,14 @@ _Updated: 2025-11-21 17:37_
 - A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -107,10 +107,10 @@ _Updated: 2025-11-21 17:37_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -121,44 +121,44 @@ _Updated: 2025-11-21 17:37_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Mjau_gåvoshop_mars - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Mjau Svenska Smaker i gele-Abborre.jpg - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
-- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
