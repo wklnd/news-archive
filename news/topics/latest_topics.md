@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 21:38_
+_Updated: 2025-11-21 22:42_
 
 ## Top Stories
 
-- Källor: USA pressar Ukraina att skriva på fredsavtal inom en vecka - Dagens Nyheter
+- Trump pressar Zelenskyj: Vill ha svar på torsdag - GP
+- 15-åring döms för barnporr – laddade ner nakenbild - Aftonbladet
 - Långa köer efter dubbla olyckor på E18/E20 - SVT Nyheter
-- Uppdatering i ärende om bussolycka i Stockholm - Åklagarmyndigheten
-- Så blev en före detta hypnotisör den brittiska vänsterns frälsare - Dagens Nyheter
-- Rån mot butik i Kosta – tre män gripna - SVT Nyheter
-- Ilska på klimatmötets slutspurt – ”Slösar vår tid” - Dagens Nyheter
-- Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - Dagens Nyheter
+- Så blev en före detta hypnotisör den brittiska vänsterns frälsare - dn.se
+- Större explosion på SSAB i Oxelösund - SN, Södermanlands Nyheter
+- Elever heilade på skolgård – polisanmäls - Expressen
+- Barnhjärtläkare anmäls av sin gamla arbetsgivare: ”Allvarliga brister” - dn.se
+- Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - dn.se
+- Chatt: SVT:s reportrar svarade på era frågor om COP 30 - SVT Nyheter
 - SD-beslut öppnar för skånska som regionalt språk - Skånska Dagbladet
-- Trafikverket om kaoset: Mer snö än väntat - Dagens Nyheter
-- Barnhjärtläkare anmäls av sin gamla arbetsgivare: ”Allvarliga brister” - Dagens Nyheter
-- ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
+- Grizzlybjörn gick till attack mot skolgrupp i Kanada – elva skadade - Expressen
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
-- Häst i pool – räddningstjänst på väg - Expressen
-- Danmark utökar beställning av stridsfordon inom nordiskt samarbete - FMV
-- Martin Blomgren: Det enda som är märkligt med Kinneviks vd-byte - EFN
+- ÖB: Ryssland redo att ta enorma risker - dn.se
+- Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
+- Hägglunds säkrar ny miljardorder: ”Enorm utveckling” - DI
+- Kinneviks vd Georgi Ganev lämnar: "Betydande förändringsresa" - Breakit
 - 91-åringen älskar jobbet – vägrar gå i pension - Dagens PS
-- Tokmanni: Tokbilligt eller bara tokigt? - Affärsvärlden
 - Google ”knäckte” Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
 - Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
 
@@ -29,24 +29,24 @@ _Updated: 2025-11-21 21:38_
 
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Hazardous Waste US : acquisition of Clean Earth - Veolia
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global produktion på stål minskar - DI
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
-- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
+- AGCO to Present at the UBS 2025 Global Industrials & Transportation Conference - Placera.se
 
 ## Technology
 
@@ -75,47 +75,47 @@ _Updated: 2025-11-21 21:38_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
 
@@ -125,40 +125,40 @@ _Updated: 2025-11-21 21:38_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
