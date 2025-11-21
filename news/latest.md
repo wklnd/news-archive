@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-21 13:48_
+_Updated: 2025-11-21 15:16_
 
-- US revives Ukraine-Russia peace push with Zelenskyy on the defensive - ABC News
-- Mamdani’s meeting with Trump comes with a power disadvantage - Politico
-- Coast Guard Says Swastika and Noose Displays Are No Longer Hate Incidents - The New York Times
 - Trump: Democrats' message to troops seditious behavior, punishable by death - BBC
-- A Former Trump Impeachment Manager Will Run for California Governor - The New York Times
-- Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation - NPR
+- Here's what's in the Trump administration's proposed 28-point Russia-Ukraine peace plan - CBS News
+- After calling him a 'communist,' Trump will meet Mamdani in the Oval Office Friday - NPR
+- Eric Swalwell enters California governor’s race - Politico
+- Mamdani at the White House, and the Coast Guard’s New Policy on Swastikas and Nooses - The New York Times
+- Two decades later, Cornel West’s critique of Larry Summers hits differently - Politico
 - Dramatic photos of doomed UPS plane show the aircraft on fire and its engine flying off - AP News
-- In Harvard Classrooms, Summers’ Co-Instructors Address His Sudden Exit - The Harvard Crimson
 - Congressman Ro Khanna warns officials not to impede Epstein files release: ‘They will be prosecuted’ - The Guardian
-- Trump officials unveil plan to drill off California, sparking a fight - The Washington Post
+- Trump reveals new offshore drilling plan for areas that haven't seen drilling in decades - Axios
 - Japan’s Takaichi Rejects China Demand To Retract Taiwan Remarks - Bloomberg.com
-- Ukraine war briefing: Buildings engulfed in flames as Russian air attack on Zaporizhzhia kills five - The Guardian
-- Reform UK's former Wales leader Nathan Gill to be sentenced over pro-Russian bribes - BBC
-- Death toll reaches 33 in some of the deadliest Israeli strikes in Gaza since the ceasefire's start - AP News
-- Stock futures are mixed as Wall Street tries to recover from Thursday's big reversal: Live updates - CNBC
-- Live Updates: September Jobs Report Shows Hiring Continued, but Unemployment Rate Rose - The New York Times
+- Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation - NPR
+- At least five killed as magnitude 5.5 earthquake hits Bangladesh - Al Jazeera
+- Sanna Marin Led Finland Through Covid and Russian Threats. But She’s Famous for a Shimmy. - The New York Times
+- Market Reverses At Critical Levels; What To Do Now - Investor's Business Daily
+- US Employers Added 119,000 Jobs in September, Unemployment Rose - Bloomberg.com
 - CEO Jensen Huang told staff 'the whole world would've fallen apart' if Nvidia delivered a bad quarter - Business Insider
-- Paramount, Comcast and Netflix Make Official Bids for Warner Bros. Discovery as High-Stakes Fight for the Company Begins - The Hollywood Reporter
-- Hands On With Google’s Nano Banana Pro Image Generator - wired.com
-- Chrome is finally getting a highly requested feature that its rivals have long had - Android Authority
+- Global Markets Fall as Tech Bubble Jitters Resurface - The Wall Street Journal
+- Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple’s AirDrop - Bloomberg.com
+- Stoke Space goes for broke to solve the only launch problem that “moves the needle” - Ars Technica
+- Apple’s second limited-edition iPhone accessory in a month is all about accessibility - 9to5Mac
