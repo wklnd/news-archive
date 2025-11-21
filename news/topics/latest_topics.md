@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 05:55_
+_Updated: 2025-11-21 06:45_
 
 ## Top Stories
 
 - Bandvagnar hjälper till vid snökaoset på E6 - SvD
-- Michael Winiarski: Rysk-amerikansk fredsplan oacceptabel för Ukraina - Dagens Nyheter
+- Det här är innehållet i fredsplanen för Ukraina - Västerbottens-Kuriren
 - Brand på FN:s klimattoppmöte i Brasilien - Corren
+- Johannes Klenell: Därför undrade Björn Söder om Trump kunde stämma SVT - Dagens Nyheter
 - De knackar dörr – vill ha tips om våld i nära relation - SVT Nyheter
 - Så jobbar förskolan med barnkonventionen - Uddevalla kommun
+- Andreas Norlén kritiseras för resor med frun - NT
 - Lastbilschauffören Björn rasar mot Trafikverket: ”Hemskt att höra” - Expressen
-- Riksdagen var tyst om talmannens frus resor - Dagens Nyheter
 - Vemyras personal i ovisshet: ”Det är en ständig oro” - Tidningen Ångermanland
 - Svenskars kaffe bidrar till Amazonas avskogning - Omni
-- Minibuss och två bilar i krock på E18 i Karlstad: ”Någon form av kökrock” - NWT
-- Kräver mer stöd till Ukraina: ”Bedrövligt” - Västerbottens-Kuriren
-- Många saknas ännu efter attack mot höghus - GP
+- Kräver mer stöd till Ukraina: ”Bedrövligt” - GP
+- Många saknas ännu efter attack mot höghus - Corren
 - Nästa klimattoppmöte i Turkiet - SVT Nyheter
-- Sudan: Tiotusentals uppges ha kunnat fly - Corren
+- Sudan: Tiotusentals uppges ha kunnat fly - Västerbottens-Kuriren
 - Fler amerikanska jobb än väntat – börsen lyfter - Aftonbladet
-- Efter Di:s förutsägelse: Kinneviks vd Georgi Ganev lämnar - DI
-- Verizon: 13 000 tjänster ska bort - Sydsvenskan
 - Carl Johan von Seth: Frågan är när – inte om – AI-bubblan spricker - Dagens Nyheter
+- Kalla Fakta avslöjar: AI-undret Lovable har inte betalat moms - NyTeknik
+- EU-kommissionär Jessika Roswall besökte Fastighetsägarnas Hållbarhetsråd med fokus på cirkulär ekonomi och återbruk - Via TT
 - Nya bilder på sällsynt besökare i vårt solsystem - Dagens Nyheter
-- SVA: "Bättre att förebygga än att behandla" - Ridsport
+- Epic Games Store ställer upp med flerfaldigt prisbelönt titel som sista gratisspel för PC i november 2025 - notebookcheck.se
 
 ## World News
 
@@ -35,28 +35,28 @@ _Updated: 2025-11-21 05:55_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - HUMAIN AND ADOBE ANNOUNCE GLOBAL STRATEGIC PARTNERSHIP TO BUILD AI MODELS AND AI-POWERED APPLICATIONS TUNED FOR THE ARAB WORLD AT THE U.S.-SAUDI INVESTMENT FORUM - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Hockeyn förenade under NHL Global Series - NHL.com
-- EXPLORING THE GLOBAL TRANSFORMATION OF HEALTH CARE WITH ELI LILLY's CEO DAVE RICKS - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
