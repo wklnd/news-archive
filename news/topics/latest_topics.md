@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 10:49_
+_Updated: 2025-11-21 11:42_
 
 ## Top Stories
 
-- Buss körde in i bropelare i Malmö – en person skadad - SVT Nyheter
+- Fyra skadade i bussolycka i Malmö - Bussmagasinet
 - Utkast till fredsplan: Ukraina släpper regioner - Dagens Nyheter
 - 21 november 07.12, Trafikolycka, Skåne län - polisen.se
-- På varje liberal går det tio sverigedemokrater - ALTinget.SE
-- Misstänkt mordförsök i Trollhättan – man stickskadad - SVT Nyheter
+- LEDARE: Så här kan ”tragedin” Mohamsson vinna kvinnor och unga i Västerås - VLT
 - Klimattoppmöte avbröts på grund av brand - Västerbottens-Kuriren
-- Talmannen kritiseras för Instagraminlägg: ”En enda tomatröra” - Dagens Nyheter
-- Mycket besvärligt väglag i delar av södra och mellersta Sverige - Krisinformation.se
+- Professorn: Nu måste eleverna nivågrupperas i engelska - Vi Lärare
+- Regeringen satsar på hjärthälsa med ny nationell handlingsplan - Regeringen.se
+- Talmanens tomatinlägg på Instagram kan vara reklam - Omni
+- Andreas Norlén kritiseras för resor med frun - NT
 - Kvinnorna fällde svindlaren – men sitter kvar med skulderna - Dagens Nyheter
-- Bara 3 av 10 000 saknar id – ändå är gränskontrollerna kvar - Skånska Dagbladet
+- Trumps kommentar om Gaza-resolutionen säger allt - en grotesk parodi på internationell diplomati! - internationalen.se
 - Många saknas ännu efter attack mot höghus - GP
-- Domare lämnar skönhetstävlingen Miss Universum - Dagens Nyheter
-- Explosion i klisterfabrik – 15 döda - Folkbladet
-- Kräver mer stöd till Ukraina: ”Bedrövligt” - Västerbottens-Kuriren
-- Matpriskommission ska följa effekterna av sänkt moms på livsmedel - Regeringen.se
+- Explosion i klisterfabrik – 15 döda - Västerbottens-Kuriren
+- Statsministern håller pressträff om valpåverkan - Regeringen.se
+- Så ska regeringen stoppa smyghöjda matpriser - SvD
+- Svenska hushåll bränner 7 miljarder mer under Black Week - DI
+- VD CLAES LINDAHL BEGÄRS HÄKTAD MED RESTRIKTIONER - DN - Placera.se
 - Varför AI-bubblan är på väg att spricka, enligt Rajiv Jain från GQG - Morningstar Canada
-- STÄNGDE UPPÅT INFÖR NVIDIA-RAPPORT, S&P500 +0,4% (OMS) - Placera.se
-- Trumpfamiljens nya guldrush – miljardaffärer i skuggan av makten - Dagens PS
-- Nya bilder på sällsynt besökare i vårt solsystem - Dagens Nyheter
+- Mystisk besökare från främmande solsystem nu fotad av Kina och Nasa - NyTeknik
 - Valde bort Sverige: ”Svårt att sparka folk” - SvD
 
 ## World News
@@ -51,10 +51,10 @@ _Updated: 2025-11-21 10:49_
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
@@ -85,11 +85,11 @@ _Updated: 2025-11-21 10:49_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -143,22 +143,22 @@ _Updated: 2025-11-21 10:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
