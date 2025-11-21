@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-21 15:50_
+_Updated: 2025-11-21 16:50_
 
 - Trump: Democrats' message to troops seditious behavior, punishable by death - BBC
 - Here's what's in the Trump administration's proposed 28-point Russia-Ukraine peace plan - CBS News
-- Mamdani’s meeting with Trump comes with a power disadvantage - Politico
-- A Former Trump Impeachment Manager Will Run for California Governor - The New York Times
+- After calling him a 'communist,' Trump will meet Mamdani in the Oval Office Friday - NPR
+- Eric Swalwell enters California governor’s race - Politico
+- UN climate summit drops mention of fossil fuels from draft deal - BBC
 - Two decades later, Cornel West’s critique of Larry Summers hits differently - Politico
-- Coast Guard reverses course on policy to call swastikas and nooses ‘potentially divisive’ - AP News
 - UPS cargo plane involved in deadly crash had cracks in engine mount, investigators say - PBS
-- Congressman Ro Khanna warns officials not to impede Epstein files release: ‘They will be prosecuted’ - The Guardian
-- Trump reveals new offshore drilling plan for areas that haven't seen drilling in decades - Axios
-- Japan’s Takaichi Rejects China Demand To Retract Taiwan Remarks - Bloomberg.com
-- At least five killed as magnitude 5.5 earthquake hits Bangladesh - Al Jazeera
+- In reversal, Coast Guard again classifies swastikas, nooses as hate symbols - The Washington Post
+- Trump’s All-but-Forgotten Border Wall Reaches an Angry Laredo, Texas - The New York Times
+- Abbott, lawmaker comments helped doom Texas’ new voting map - The Texas Tribune
+- Japan’s Takaichi Rejects China Demand to Retract Taiwan Remarks - Bloomberg.com
+- Indian fighter jet pilot killed in crash at Dubai airshow - BBC
+- Archaeologists lift the lid on a 1,700-year-old Roman sarcophagus hidden beneath Budapest - ABC News
 - Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation - NPR
-- Michael Gove apologises after Covid report alleges 'toxic' culture - BBC
-- Wall Street set to open lower, global stocks set for weekly fall - Reuters
-- Bitcoin falls below $82,000 as selling isn’t letting up. Here’s why stock-market investors are keeping close watch. - MarketWatch
-- Global Markets Fall as Tech Bubble Jitters Resurface - The Wall Street Journal
-- US Employers Added 119,000 Jobs in September, Unemployment Rose - Bloomberg.com
-- Stoke Space goes for broke to solve the only launch problem that “moves the needle” - Ars Technica
-- Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple’s AirDrop - Bloomberg.com
-- Apple’s second limited-edition iPhone accessory in a month is all about accessibility - 9to5Mac
+- Stock Market Today: Dow Rises; Global Chip Stocks Drop; Bitcoin Falls Further — Live Markets - The Wall Street Journal
+- Crypto plunge wipes out nearly $400 billion in a week - Axios
+- 65+ best Black Friday deals 2025: Apple, Kindle, Ninja on sale - Mashable
+- Wildest Trading Day Since Tariff Shock to Test Dip Buyers’ Nerve - Bloomberg.com
+- OnePlus 15 phone has world's fastest mobile processor so it can easily record hypercars with no blur and you can get one for free - supercarblondie.com
+- Shop rare price drops on new Apple tech at Amazon’s Black Friday sale 🍎 - USA Today
