@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-21 18:46_
+_Updated: 2025-11-21 19:41_
 
 ## Top Stories
 
-- Källor: Ukraina och europeiska länder arbetar med motförslag - Dagens Nyheter
-- Liberalernas framtid står på spel – nu ska ödesbeslutet fattas - GP
-- Polisens identifieringsarbete vid större olyckor - polisen.se
-- SD kräver ministerposter – "kan inte misstolkas" - SvD
+- Trump pressar Zelenskyj: Vill ha svar på torsdag - Västerbottens-Kuriren
+- Flera olyckor på E18/E20 – polisen varnar för halka - Aftonbladet
+- Uppdatering i ärende om bussolycka i Stockholm - Åklagarmyndigheten
 - Man häktas efter utlämning: ”Omfattande utredning” - Dagens Nyheter
-- Rån mot butik i Kosta – tre män gripna - SVT Nyheter
+- L väntas säga klart nej till SD i regering - GP
+- SD kräver ministerposter: ”Det är väldigt tydligt” - Omni
 - Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
-- Chatt: Våga fråga om klimatmötet COP30 i Brasilien - SVT Nyheter
-- Fängelse för tortyrhot mot journalist - GP
+- P4-journalist hotades med tortyr – man döms till fängelse - SVT Nyheter
+- S KU-anmäler ministrar efter Somaliapengar - GP
 - EU ger Sverige bakläxa om vargen – och förening vill sätta stopp för licensjakten - NLT
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
+- SMHI varnar för plötslig ishalka - Expressen
 - ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
-- Talmannen kritiseras för Instagraminlägg: ”En enda tomatröra” - Dagens Nyheter
 - Stockholmsbörsen begär att Intellego ska avnoteras - DI
-- Lägre kaffepris efter Trumps besked - Sydsvenskan
 - Danmark utökar beställning av stridsfordon inom nordiskt samarbete - FMV
-- Varför AI-bubblan är på väg att spricka, enligt Rajiv Jain från GQG - Morningstar Canada
+- Mark- och miljööverdomstolen fastställer tillståndet för SSAB:s nya stålverk i Luleå - Metal Supply
+- Oljan störtdyker efter oväntad lagerboom - Dagens PS
 - Google ”knäckte” Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
 - Nya bilder på sällsynt besökare i vårt solsystem - Aftonbladet
 
@@ -29,24 +29,24 @@ _Updated: 2025-11-21 18:46_
 
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Hazardous Waste US : acquisition of Clean Earth - Veolia
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -84,11 +84,11 @@ _Updated: 2025-11-21 18:46_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
