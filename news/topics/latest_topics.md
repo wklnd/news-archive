@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 10:45_
+_Updated: 2025-11-22 11:38_
 
 ## Top Stories
 
-- Buss har kört i diket på E45 i Vilhelmina kommun - SVT Nyheter
-- Klart: L säger nej till SD i regering - TV4 Nyheterna
-- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
-- Uppgifter: Flicka hittad i Köpenhamn efter misstänkt kidnappning - Aftonbladet
-- Körde i fatt bil – och försökte misshandla förare - UNT
-- Brand på Nydala inatt – man allvarligt skadad - Skånska Dagbladet
-- SD kräver ministerposter – ”kan inte misstolkas” - Dagens Nyheter
-- EU-toppens uttalande väcker förvirring på klimatmötet - Dagens Nyheter
-- EU kritiserar Sveriges vargpolitik – JRF: ”Vetenskapen visar något helt annat” - Jakt & Jägare
-- Trafikverket om kaoset: Mer snö än väntat - Dagens Nyheter
+- Buss har vält på E45 – över 40 passagerare ombord - Aftonbladet
+- Klart: Liberalerna har fattat avgörande beslutet om SD - GP
 - Ukraina i möte med europeiska ledare om fredsplanen - SVT Nyheter
+- I NATT: Stor polisinsats efter mordförsök: ”Allvarligt våldsbrott” - NWT
+- 22 november 08.11, Sammanfattning natt, Norrbottens län - polisen.se
+- Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
+- Uppgifter: Barn kidnappat – insats på Kastrup - Västerbottens-Kuriren
+- Carl Bildt: Jag har numera inget jobb, vilket är rätt angenämt - Dagens Nyheter
+- EU-toppens uttalande väcker förvirring på klimatmötet - Dagens Nyheter
+- Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
 - ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
+- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
 - Ny prognos: Så mycket dyrare blir CSN-lånet - SvD
 - Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
+- Boomers i en klass för sig: Rikaste generationen någonsin - Dagens PS
 - Här är världens 15 starkaste aktier just nu – enligt ny global analys - Dagens PS
-- Grok: Elon Musk är bäst i världen på nästan allt – och ChatGPT och Gemini håller med - Breakit
 - Ny forskning utmanar Einstein: Starkaste gravitationsvågorna någonsin upptäckta - Dagens PS
 - Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
-- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
