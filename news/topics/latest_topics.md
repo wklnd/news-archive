@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 14:59_
+_Updated: 2025-11-22 15:39_
 
 ## Top Stories
 
 - Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
+- Statsminister Ulf Kristersson (M) besöker L och SD - GP
 - Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
-- Ukraina och USA ska mötas om fredsförslaget - GP
-- DN erfar: Klimatmötet mot avgörande – överenskommelse kan klubbas inom kort - Dagens Nyheter
-- Kristersson besöker SD:s landsdagar - GP
-- 600 svenska kriminella ska exporteras till fängelset i deras stad: ”Det blir pengar för oss” - HD
-- Mohamsson (L): Regeringen ska utreda minskade skolklasser - GP
-- L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
+- Simona Mohamssons landsmötestal 2025 - Liberalerna
+- Källor: Överenskommelse nära att klubbas på COP30 - Omni
+- DN Direkt – Kristersson på scenen på Liberalernas landsmöte - Dagens Nyheter
 - Åkesson: ”Nollvision för sexuella övergrepp mot barn” - GP
-- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
+- Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - Dagens Nyheter
+- Carl Bildt: Jag har numera inget jobb, vilket är rätt angenämt - Dagens Nyheter
+- Hård kritik mot Sverige efter vargbeslut - Östersunds-Posten
+- Ukraina och USA möts om fredsplan - SVT Nyheter
 - ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
+- Trump efter mötet med Mamdani: ”Han kan göra ett bra jobb” - SVT Nyheter
 - DN Direkt – Tv- och radioprofilen Jonas Hallberg är död - Dagens Nyheter
-- Man försökte köra på annan man i Öregrund - Expressen
-- I NATT: Polis utreder mordförsök efter bråk med tillhyggen: ”Allvarligt våldsbrott” - NWT
 - Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
 - Ny prognos: Så mycket dyrare blir CSN-lånet - SvD
-- Kommunen vill höja föreningens markhyra med 132 procent: ”Jätteoroliga” - Dagens Nyheter
 - Svag veckoavslutning på börsen – Kinnevik steg på vd-byte - DI
+- Kommunen vill höja föreningens markhyra med 132 procent: ”Jätteoroliga” - Dagens Nyheter
 - Ny upptäckt: Den här 12 000 år gamla klumpen kan visa på en avgörande vändpunkt i människans historia - Illustrerad Vetenskap
 - Operations Assistant till Academic Work på Academic Work - Ingenjörsjobb
 
@@ -32,19 +32,19 @@ _Updated: 2025-11-22 14:59_
 - Global produktion på stål minskar - DI
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
 - Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
 
@@ -54,9 +54,9 @@ _Updated: 2025-11-22 14:59_
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -85,7 +85,6 @@ _Updated: 2025-11-22 14:59_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,22 +92,23 @@ _Updated: 2025-11-22 14:59_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -122,23 +122,23 @@ _Updated: 2025-11-22 14:59_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- ”Research on bison completely wrong” - Forskning & Framsteg
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
