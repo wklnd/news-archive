@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 18:44_
+_Updated: 2025-11-22 19:39_
 
 ## Top Stories
 
-- Ukraina och USA ska mötas om fredsförslaget - Hufvudstadsbladet
-- Åkesson pekar ut ministerportföljer: ”Rimliga poster för SD” - Dagens Nyheter
-- Knivattack vid matbutik i Gunnilse - GP
-- Ledare: Daniel Persson: Liberaler utan valfrihet på väg ut - NWT
-- Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
-- Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
 - Klimatmötet mot avgörande – överenskommelse kan klubbas inom kort - Dagens Nyheter
-- Kristersson besöker SD:s landsdagar - UNT
-- SD vill ha nollvision mot sexuella barnövergrepp - Expressen
+- 22 november 16.20, Mord/dråp, försök, Göteborg - polisen.se
+- Häst i krock med buss på E22 utanför Hörby - SVT Nyheter
+- Just nu: ”I nuläget har ingen livshotande skador” - Västerbottens-Kuriren
+- Ukraina och USA ska mötas om fredsförslaget - UNT
+- Statsminister Ulf Kristersson (M) besöker L och SD - GP
+- Åkesson pekar ut ministerportföljer: ”Rimliga poster för SD” - Dagens Nyheter
+- Åkesson: Nollvision för sexövergrepp mot barn - Omni
+- Mohamsson (L): Regeringen ska utreda minskade skolklasser - GP
 - Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
-- Zelenskyj hårt pressad av miljardkorruption - Västerbottens-Kuriren
 - Australien först ut att förbjuda sociala medier för unga - Dagens Nyheter
 - 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
-- Trump efter mötet med Mamdani: ”Han kan göra ett bra jobb” - SVT Nyheter
+- Man försökte köra på annan man i Öregrund - Expressen
+- Trumps vändning om ”ärkefienden” - Expressen
 - Ny avgiftsfälla – tänk på detta som köpare - SvD
 - Astra Zeneca och Kinnevik lyfte på röd börs - DI
-- Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
-- Test Mazda 6e – konsten att göra våld på sig själv - Dagens PS
+- Fyra orosmoln för börsen – utöver AI-bubblan - Dagens Nyheter
+- Här är världens 15 starkaste aktier just nu – enligt ny global analys - Dagens PS
 - Analogue 3D återinförs i lager den 24 november och får även en prishöjning - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
 
@@ -39,11 +39,11 @@ _Updated: 2025-11-22 18:44_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
