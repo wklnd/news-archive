@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 07:40_
+_Updated: 2025-11-22 08:47_
 
 ## Top Stories
 
-- Trump hyllade Mamdani efter möte: ”Kommer överraska” - GP
-- L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
+- Trumps oväntade ord om Mamdani - Expressen
+- DN Direkt – L-beslutet klart: Inga ministerposter till SD - Dagens Nyheter
+- Samtliga 28 punkter i USA:s utkast till fredsplan - GP
 - Marjorie Taylor Greene lämnar kongressen - Västerbottens-Kuriren
-- Ukraina i samtal med Europa om fredsplan - GP
-- Zelenskyj hårt pressad av miljardkorruption - SvD
-- Explosion i Jönköping – trapphus rökfyllt - GP
-- DN Direkt – Åklagaren om bussolyckan på Östermalm: Inget uppsåt - Dagens Nyheter
+- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
+- Carl Bildt: Jag har numera inget jobb, vilket är rätt angenämt - Dagens Nyheter
+- SD kräver ministerposter – "kan inte misstolkas" - Västerbottens-Kuriren
+- Inget uppsåt i samband med bussolyckan - GP
 - Klimatmötet på väg in på övertid - Hufvudstadsbladet
 - Delseger för L-ledningen i första ronden: Nej till bolagsskolor - Dagens Nyheter
-- Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
 - Colombia: 14 ton kokain beslagtaget - Västerbottens-Kuriren
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
 - ÖB: ”Ryssland kan anfalla i morgon” - Aftonbladet
+- Grok: Elon Musk är bäst i världen på nästan allt – och ChatGPT och Gemini håller med - Breakit
+- Här är världens 15 starkaste aktier just nu – enligt ny global analys - Dagens PS
 - Vattentornet som blivit lyxhem – nu kan det bli ditt - Dagens PS
-- Lägre kaffepris efter Trumps besked - DI
-- INSÄNDARE: Effektavgiften och dess öde - LT
-- Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
+- Ny prognos: Så mycket dyrare blir CSN-lånet - SvD
 - Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
 - Microsoft släpper spelklassikern Zork som öppen källkod - PC för Alla
 
@@ -38,12 +38,12 @@ _Updated: 2025-11-22 07:40_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
 - Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
@@ -52,24 +52,24 @@ _Updated: 2025-11-22 07:40_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -78,14 +78,14 @@ _Updated: 2025-11-22 07:40_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -98,17 +98,17 @@ _Updated: 2025-11-22 07:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -144,14 +144,15 @@ _Updated: 2025-11-22 07:40_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2025-11-22 07:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
