@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 19:39_
+_Updated: 2025-11-22 21:38_
 
 ## Top Stories
 
-- Klimatmötet mot avgörande – överenskommelse kan klubbas inom kort - Dagens Nyheter
-- 22 november 16.20, Mord/dråp, försök, Göteborg - polisen.se
-- Häst i krock med buss på E22 utanför Hörby - SVT Nyheter
-- Just nu: ”I nuläget har ingen livshotande skador” - Västerbottens-Kuriren
-- Ukraina och USA ska mötas om fredsförslaget - UNT
-- Statsminister Ulf Kristersson (M) besöker L och SD - GP
-- Åkesson pekar ut ministerportföljer: ”Rimliga poster för SD” - Dagens Nyheter
-- Åkesson: Nollvision för sexövergrepp mot barn - Omni
-- Mohamsson (L): Regeringen ska utreda minskade skolklasser - GP
+- DN Direkt – Avtal klubbat på klimatmötet i Brasilien - Dagens Nyheter
+- Trump öppnar för ändringar i fredsförslaget - GP
+- 22 november 16.20, Mord/dråp, försök, Göteborg - Polisen.se
+- Simona Mohamssons landsmötestal 2025 - Liberalerna
+- Häst död efter krock med buss på E22 utanför Hörby – föraren skadad - SVT Nyheter
+- SMHI VARNAR: Plötslig ishalka i Värmland - NWT
+- Bild på Hamas används i annons för Palestinademonstration i Göteborg - Dagens Nyheter
 - Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
+- Statsminister Ulf Kristersson (M) besöker L och SD - GP
+- Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
+- Erik Esbjörnsson: Trump bojkottar G20-mötet – gruppens framtid står på spel - Dagens Nyheter
 - Australien först ut att förbjuda sociala medier för unga - Dagens Nyheter
-- 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
-- Man försökte köra på annan man i Öregrund - Expressen
-- Trumps vändning om ”ärkefienden” - Expressen
+- Bolsonaro förd till fängelse – dömd till 27 år - Hufvudstadsbladet
+- Zelenskyj hårt pressad av miljardkorruption - Västerbottens-Kuriren
 - Ny avgiftsfälla – tänk på detta som köpare - SvD
-- Astra Zeneca och Kinnevik lyfte på röd börs - DI
+- Analytiker: Bitcoins öde visar vägen för börsen till veckan - Omni Ekonomi
 - Fyra orosmoln för börsen – utöver AI-bubblan - Dagens Nyheter
 - Här är världens 15 starkaste aktier just nu – enligt ny global analys - Dagens PS
 - Analogue 3D återinförs i lager den 24 november och får även en prishöjning - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
@@ -38,15 +38,15 @@ _Updated: 2025-11-22 19:39_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
+- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
@@ -54,20 +54,20 @@ _Updated: 2025-11-22 19:39_
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
@@ -122,8 +122,7 @@ _Updated: 2025-11-22 19:39_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -131,11 +130,12 @@ _Updated: 2025-11-22 19:39_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
