@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 13:38_
+_Updated: 2025-11-22 14:59_
 
 ## Top Stories
 
-- DN Direkt – Tv- och radioprofilen Jonas Hallberg är död - Dagens Nyheter
-- Bussolycka på E45 utanför Storuman – sex personer till sjukhus - SVT Nyheter
-- Simona Mohamssons landsmötestal 2025 - Liberalerna
+- Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
+- Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
+- Ukraina och USA ska mötas om fredsförslaget - GP
+- DN erfar: Klimatmötet mot avgörande – överenskommelse kan klubbas inom kort - Dagens Nyheter
+- Kristersson besöker SD:s landsdagar - GP
 - 600 svenska kriminella ska exporteras till fängelset i deras stad: ”Det blir pengar för oss” - HD
-- SD: Nollvision för sexövergrepp mot barn - Västerbottens-Kuriren
-- JUST NU: SMHI varnar för ishalka i Värmland - NWT
-- Klart: Liberalerna har fattat avgörande beslutet om SD - GP
-- Uppgifter: Barn kidnappat – insats på Kastrup - GP
+- Mohamsson (L): Regeringen ska utreda minskade skolklasser - GP
+- L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
+- Åkesson: ”Nollvision för sexuella övergrepp mot barn” - GP
 - Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
-- EU isolerat på COP30 – överväger att hoppa av - Omni
 - ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
-- Ukraina i möte med europeiska ledare om fredsplanen - SVT Nyheter
-- Trumps vändning om ”ärkefienden” - Expressen
-- Tre män anhållna efter mordförsök i natt: ”Allvarligt våldsbrott” - NWT
+- DN Direkt – Tv- och radioprofilen Jonas Hallberg är död - Dagens Nyheter
+- Man försökte köra på annan man i Öregrund - Expressen
+- I NATT: Polis utreder mordförsök efter bråk med tillhyggen: ”Allvarligt våldsbrott” - NWT
 - Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
 - Ny prognos: Så mycket dyrare blir CSN-lånet - SvD
 - Kommunen vill höja föreningens markhyra med 132 procent: ”Jätteoroliga” - Dagens Nyheter
@@ -29,21 +29,21 @@ _Updated: 2025-11-22 13:38_
 
 - Så blev bastubadandet en global trend - SvD
 - Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Global produktion på stål minskar - DI
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- S&P Global Introduces S&P Global Energy - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Lilly to participate in Citi's 2025 Global Healthcare Conference - Placera.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
 - Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
@@ -104,13 +104,13 @@ _Updated: 2025-11-22 13:38_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -120,45 +120,45 @@ _Updated: 2025-11-22 13:38_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Digital whiteboard – Överallt - Lantbruksnytt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
