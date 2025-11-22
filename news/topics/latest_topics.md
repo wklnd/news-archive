@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 15:39_
+_Updated: 2025-11-22 16:39_
 
 ## Top Stories
 
 - Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
-- Statsminister Ulf Kristersson (M) besöker L och SD - GP
-- Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
+- Klimatministern: EU kan nog säga ja till avtal - GP
 - Simona Mohamssons landsmötestal 2025 - Liberalerna
-- Källor: Överenskommelse nära att klubbas på COP30 - Omni
-- DN Direkt – Kristersson på scenen på Liberalernas landsmöte - Dagens Nyheter
-- Åkesson: ”Nollvision för sexuella övergrepp mot barn” - GP
+- Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
+- DN Direkt – Kristersson besöker L och SD:s landsdagar - Dagens Nyheter
 - Tomas Ramberg: Åkesson har en mjuk röst och en stor käpp - Dagens Nyheter
-- Carl Bildt: Jag har numera inget jobb, vilket är rätt angenämt - Dagens Nyheter
-- Hård kritik mot Sverige efter vargbeslut - Östersunds-Posten
+- Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
+- Liberalkritik mot lådvin: ”Inte bra för folkhälsan” - GP
+- SMHI varnar för plötslig ishalka i nordvästra Götaland - Dagens Nyheter
+- Micael Bydén och Linda Staaf gifter sig - Expressen
 - Ukraina och USA möts om fredsplan - SVT Nyheter
-- ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
-- Trump efter mötet med Mamdani: ”Han kan göra ett bra jobb” - SVT Nyheter
+- ÖB: ”Ryssland kan anfalla i morgon” - Aftonbladet
 - DN Direkt – Tv- och radioprofilen Jonas Hallberg är död - Dagens Nyheter
+- Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
-- Ny prognos: Så mycket dyrare blir CSN-lånet - SvD
-- Svag veckoavslutning på börsen – Kinnevik steg på vd-byte - DI
-- Kommunen vill höja föreningens markhyra med 132 procent: ”Jätteoroliga” - Dagens Nyheter
+- Test Mazda 6e – konsten att göra våld på sig själv - Dagens PS
+- Astra Zeneca och Kinnevik lyfte på röd börs - DI
+- ”De tror att jag är ett riktigt underbarn” - SvD
 - Ny upptäckt: Den här 12 000 år gamla klumpen kan visa på en avgörande vändpunkt i människans historia - Illustrerad Vetenskap
-- Operations Assistant till Academic Work på Academic Work - Ingenjörsjobb
+- Analogue 3D återinförs i lager den 24 november och får även en prishöjning - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2025-11-22 15:39_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- S&P Global Introduces S&P Global Energy - Placera.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
-- Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
 
 ## Technology
 
@@ -54,13 +54,13 @@ _Updated: 2025-11-22 15:39_
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -98,17 +98,17 @@ _Updated: 2025-11-22 15:39_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -122,29 +122,29 @@ _Updated: 2025-11-22 15:39_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,6 +152,7 @@ _Updated: 2025-11-22 15:39_
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2025-11-22 15:39_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
