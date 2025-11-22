@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 11:38_
+_Updated: 2025-11-22 12:40_
 
 ## Top Stories
 
-- Buss har vält på E45 – över 40 passagerare ombord - Aftonbladet
-- Klart: Liberalerna har fattat avgörande beslutet om SD - GP
-- Ukraina i möte med europeiska ledare om fredsplanen - SVT Nyheter
-- I NATT: Stor polisinsats efter mordförsök: ”Allvarligt våldsbrott” - NWT
-- 22 november 08.11, Sammanfattning natt, Norrbottens län - polisen.se
-- Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
+- Beachvolleyboll: Svenska drömmen – David Åhman och Jonatan Hellvig till VM-final - SVT Nyheter
+- Buss har vält på E45 – två till sjukhus - Aftonbladet
+- SD oroas inte av L:s röda linje - GP
+- 600 svenska kriminella ska exporteras till fängelset i deras stad: ”Det blir pengar för oss” - HD
+- JUST NU: SMHI varnar för ishalka i Värmland - NWT
+- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
 - Uppgifter: Barn kidnappat – insats på Kastrup - Västerbottens-Kuriren
 - Carl Bildt: Jag har numera inget jobb, vilket är rätt angenämt - Dagens Nyheter
-- EU-toppens uttalande väcker förvirring på klimatmötet - Dagens Nyheter
-- Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
+- Osämja om fossila bränslen i slutspurten av COP30 - GP
+- Hård kritik mot Sverige efter vargbeslut - Östersunds-Posten
 - ÖB: Ryssland redo att ta enorma risker - Dagens Nyheter
-- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
-- Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
-- Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
+- Ukraina i möte med europeiska ledare om fredsplanen - SVT Nyheter
+- Trumps vändning om ”ärkefienden” - Expressen
+- I NATT: Polis utreder mordförsök efter bråk med tillhyggen: ”Allvarligt våldsbrott” - NWT
 - Ny prognos: Så mycket dyrare blir CSN-lånet - SvD
 - Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
+- Svag veckoavslutning på börsen – Kinnevik steg på vd-byte - DI
 - Boomers i en klass för sig: Rikaste generationen någonsin - Dagens PS
-- Här är världens 15 starkaste aktier just nu – enligt ny global analys - Dagens PS
-- Ny forskning utmanar Einstein: Starkaste gravitationsvågorna någonsin upptäckta - Dagens PS
 - Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
+- Intel Panther Lake ES CPU fotograferad med 16 GB LPDDR5X: Ingenjörsexemplar visar 10-kärnig design och 25 W PL1, 65 W PL2 - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2025-11-22 11:38_
 - Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
@@ -44,7 +43,8 @@ _Updated: 2025-11-22 11:38_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
 
@@ -98,16 +98,16 @@ _Updated: 2025-11-22 11:38_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -124,41 +124,41 @@ _Updated: 2025-11-22 11:38_
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - ”Research on bison completely wrong” - Forskning & Framsteg
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Digital whiteboard – Överallt - Lantbruksnytt
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
