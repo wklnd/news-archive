@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-22 22:48_
+_Updated: 2025-11-22 23:48_
 
 - Politicians shocked by Marjorie Taylor Greene’s surprise resignation announcement - The Guardian
-- American senators rip Trump’s Ukraine peace proposal at international security conference in Canada - ABC News
+- US senators slam Trump’s Russia-Ukraine peace plan as rewarding aggression - ABC News
 - Deal or ‘meh’ deal? Climate summit ends on a deflating note - Politico
-- The Surprise Ending to the Trump-Mamdani Buddy Movie Has Heads Spinning - The New York Times
-- Electrical fire that erupted on cargo ship at Port of Los Angeles now ‘substantially contained’ after no injuries reported - CNN
-- 4 people wounded in shooting at North Carolina Christmas tree lighting ceremony - CBS News
-- Justice Dept. attacks judge after prosecutors’ stumbles in Comey case - The Washington Post
-- ‘Horribly wrong’: US veterans condemn Trump’s politicization of military - The Guardian
+- Inside Trump and Mamdani's surprising bond of convenience - Axios
+- Chicago crime: Teen killed, 8 injured in Loop shootings on State Street, near Dearborn, Monroe, police, Mayor Johnson say - ABC7 Chicago
+- JFK's granddaughter Tatiana Schlossberg reveals terminal cancer diagnosis - NBC News
+- Comey Prosecution on the Ropes After Series of Missteps - The Wall Street Journal
+- Amid GOP grumbling, White House makes course corrections - Politico
 - In North Carolina, the Border Patrol’s Presence Divides a Swing State - The New York Times
-- Trump refused to send disaster aid to Chicago after 2 devastating storms - Politico
+- Stepbrother investigated in death of Florida high schooler on cruise ship - The Guardian
 - More than 300 children were abducted in an attack on a Catholic school in Nigeria - NPR
 - 20 Killed in Israeli Strikes as Israel and Hamas Trade Blame Over Truce - The New York Times
-- G20 summit in South Africa adopts declaration despite U.S. boycott and opposition - CBS News
 - Ukrainians Wait in Pain as Hope to Find Strike Survivors Fades - The New York Times
-- Babies who drank ByHeart formula got sick months before botulism outbreak, parents say - AP News
+- G20 summit in South Africa adopts declaration despite U.S. boycott and opposition - CBS News
 - Wall Street eyes a possible culprit in this week’s head-spinning stock market reversal: Bitcoin - Fortune
-- Fed's Collins: Monetary policy currently in right place, hesitant about cutting rates - Yahoo Finance
 - The A.I. Boom Is Driving the Economy. What Happens if It Falters? - The New York Times
+- A Fed rate cut next month seemed doubtful. Here’s why it’s now likely to happen. - MarketWatch
+- Daily Mail owner agrees to buy Daily Telegraph for £500m - BBC
 - Apple Launches Second Limited-Edition iPhone Accessory in a Month - MacRumors
-- Best Apple Black Friday deals: Save up to 44 percent on AirPods, iPads, MacBooks, Apple Watches and AirTags - Engadget
+- Spotify simplifies importing playlists from other streaming services - The Verge
