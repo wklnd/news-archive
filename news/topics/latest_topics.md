@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 04:13_
+_Updated: 2025-11-22 05:26_
 
 ## Top Stories
 
 - L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
-- Trump hyllade Mamdani efter möte: ”Kommer överraska” - GP
-- Ukraina i samtal med Europa om fredsplan - Västerbottens-Kuriren
-- Chatt: SVT:s reportrar svarade på era frågor om COP 30 - SVT Nyheter
-- Marjorie Taylor Greene lämnar kongressen - GP
-- SMHI varnar för plötslig ishalka - Expressen
+- Samtliga 28 punkter i USA:s utkast till fredsplan - GP
+- Trump efter mötet med Mamdani: ”Han kan göra ett bra jobb” - SVT Nyheter
+- Högerprofilens hemliga projekt: ”Många miljoner” - Expressen
+- EU-toppens uttalande väcker förvirring på klimatmötet - Dagens Nyheter
+- Brand på åttonde våningen – en person förd till sjukhus - Skånska Dagbladet
 - Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
-- ”Regeringsmakten SD:s nästa stora projekt” - Aftonbladet
+- SD kräver ministerposter – ”kan inte misstolkas” - Dagens Nyheter
 - Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
 - Trafikverket om kaoset: Mer snö än väntat - Dagens Nyheter
+- Colombia: 14 ton kokain beslagtaget - Västerbottens-Kuriren
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
 - Grizzlybjörn gick till attack mot skolgrupp i Kanada – elva skadade - Expressen
 - SD:s partistyrelse överkörd om könskirurgi - Aftonbladet
-- Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
 - Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
-- Fem fackliga nyheter från veckan som gått - Dagens Arena
 - Ei förbereder för att Sverige ska vara redo att genomföra de nya EU-reglerna om flexibilitet - Energimarknadsinspektionen
-- SCB-siffror: Så stor skillnad gör Black Week för handeln - Dagens Handel
-- Slaget är avgjort – så gick det för Team FZ - FZ.se
-- Google ”knäckte” Airdrop – skickar trådlöst mellan Android och Iphone - NyTeknik
+- De ska säkerställa att sänkt matmoms leder till lägre priser - Jordbruksaktuellt
+- Wall Street stängde stadigt efter darrig vecka - Aftonbladet
+- Battlefield 6: Redsec Elite Series lanseras som en eSport-blockbuster med en prispott på 1 miljon dollar, uppdatering 1.1.2.0 live - notebookcheck.se
+- Sapphire Edge AI: Mini-PC-comeback med AMD Ryzen AI 9 HX 370 och magnetiskt lock recension - notebookcheck.se
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
-- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
 - Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
-- AGCO to Present at the UBS 2025 Global Industrials & Transportation Conference - Placera.se
 
 ## Technology
 
@@ -112,8 +112,8 @@ _Updated: 2025-11-22 04:13_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
@@ -122,37 +122,36 @@ _Updated: 2025-11-22 04:13_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- ”Research on bison completely wrong” - Forskning & Framsteg
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2025-11-22 04:13_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
