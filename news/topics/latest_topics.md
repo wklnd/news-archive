@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 17:38_
+_Updated: 2025-11-22 18:44_
 
 ## Top Stories
 
-- Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
-- DN Direkt – Kristersson till SD: ”Vi har fattat de beslut som krävs” - Dagens Nyheter
-- Ukraina och USA ska mötas om fredsförslaget - GP
+- Ukraina och USA ska mötas om fredsförslaget - Hufvudstadsbladet
+- Åkesson pekar ut ministerportföljer: ”Rimliga poster för SD” - Dagens Nyheter
+- Knivattack vid matbutik i Gunnilse - GP
 - Ledare: Daniel Persson: Liberaler utan valfrihet på väg ut - NWT
+- Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
 - Taylor Greene lämnar kongressen efter Trumpbråk - Dagens Nyheter
-- Klimatministern: EU kan nog säga ja till avtal - GP
-- Liberalkritik mot lådvin: ”Inte bra för folkhälsan” - GP
-- Eriks depression behandlades med psykedelisk svamp - Dagens Nyheter
-- Micael Bydén och Linda Staaf gifter sig - Expressen
-- SMHI varnar för plötslig ishalka i nordvästra Götaland - Dagens Nyheter
-- Bolsonaro förd till häktet för att minska rymningsrisk - Dagens Nyheter
+- Klimatmötet mot avgörande – överenskommelse kan klubbas inom kort - Dagens Nyheter
+- Kristersson besöker SD:s landsdagar - UNT
+- SD vill ha nollvision mot sexuella barnövergrepp - Expressen
+- Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
 - Zelenskyj hårt pressad av miljardkorruption - Västerbottens-Kuriren
+- Australien först ut att förbjuda sociala medier för unga - Dagens Nyheter
+- 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
 - Trump efter mötet med Mamdani: ”Han kan göra ett bra jobb” - SVT Nyheter
-- Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
+- Ny avgiftsfälla – tänk på detta som köpare - SvD
 - Astra Zeneca och Kinnevik lyfte på röd börs - DI
 - Ras för Spotify efter Daniel Eks avhopp - Aftonbladet
 - Test Mazda 6e – konsten att göra våld på sig själv - Dagens PS
-- ”De tror att jag är ett riktigt underbarn” - SvD
 - Analogue 3D återinförs i lager den 24 november och får även en prishöjning - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
 
@@ -32,21 +32,21 @@ _Updated: 2025-11-22 17:38_
 - Global produktion på stål minskar - DI
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
-- Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2025-11-22 17:38_
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -122,23 +122,23 @@ _Updated: 2025-11-22 17:38_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2025-11-22 17:38_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
