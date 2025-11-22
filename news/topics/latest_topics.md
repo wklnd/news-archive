@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 23:38_
+_Updated: 2025-11-23 00:41_
 
 ## Top Stories
 
+- DN Direkt – Uppgifter: USA:s alternativ inkluderar att störta Maduro - Dagens Nyheter
 - Trump öppnar för ändringar i fredsförslaget - GP
-- DN Direkt – Två skadade efter bråk utanför mataffär – en gripen - Dagens Nyheter
-- DN Direkt – Kristersson till SD: ”Vi har fattat de beslut som krävs” - Dagens Nyheter
-- Marie, 54, snuvades på drömresan till Svalbard - Aftonbladet
-- Ministern om avtalet från klimatmötet: ”En besvikelse” - NWT
-- Maten som känns nyttig – men är ultraprocessad - GP
+- 22 november 16.20, Mord/dråp, försök, Göteborg - polisen.se
+- Kristersson på SD:s landsdagar – för första gången - Västerbottens-Kuriren
+- Marie, 54, snuvades av SAS på drömresan till Svalbard - Aftonbladet
+- Uppgifter: USA redo för ny fas av operationer i Venezuela - SVT Nyheter
+- Peter Alestig: En mindre revolution inträffade på klimatmötet - Dagens Nyheter
 - Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
 - Bild på Hamas används i annons för Palestinademonstration i Göteborg - Dagens Nyheter
-- Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
 - Liberalerna säger nej till aktiebolag i skolan - Dagens Nyheter
 - Drönarlarm i Nederländerna – flygplats avstängd - Västerbottens-Kuriren
-- Erik Esbjörnsson: Trump bojkottar G20-mötet – gruppens framtid står på spel - Dagens Nyheter
+- G20 enas om uttalande – trots USA:s bojkott - Hufvudstadsbladet
 - Rädslan i Finland: Har ingen koll på ryska kärnkraftverk - Dagens Nyheter
-- Bolsonaro förd till fängelse – dömd till 27 år - Hufvudstadsbladet
+- 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
+- ”Skillnad i elpriser är helt orimlig” - SvD
 - Analytiker: Bitcoins öde visar vägen för börsen till veckan - Omni Ekonomi
 - Massiv kritik mot nya Blocket: ”Katastrof” - Aftonbladet
-- ”Skillnad i elpriser är helt orimlig” - SvD
 - SCB-siffror: Så stor skillnad gör Black Week för handeln - Dagens Handel
 - 150 000 Saabar skrotade – kan vara jättemiss - Carup.se
-- Unika kometen 3I/Atlas på väg – kommer från annat solsystem - TV4 Nyheterna
+- Seger för Komet borta mot Umeå 2 - Västerbottens-Kuriren
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
-- Global produktion på stål minskar - DI
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
+- Global produktion på stål minskar - DI
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- S&P Global Introduces S&P Global Energy - Placera.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
 
@@ -105,10 +105,10 @@ _Updated: 2025-11-22 23:38_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -144,7 +144,6 @@ _Updated: 2025-11-22 23:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +151,14 @@ _Updated: 2025-11-22 23:38_
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
