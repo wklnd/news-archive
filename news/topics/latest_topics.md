@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 05:50_
+_Updated: 2025-11-22 06:43_
 
 ## Top Stories
 
 - L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
-- Samtliga 28 punkter i USA:s utkast till fredsplan - GP
-- Trump tog emot Mamdani: ”Har en sak gemensamt” - Västerbottens-Kuriren
+- Trump hyllade Mamdani efter möte: ”Kommer överraska” - GP
+- Ukraina i samtal med Europa om fredsplan - Västerbottens-Kuriren
+- Marjorie Taylor Greene lämnar kongressen - Västerbottens-Kuriren
 - Högerprofilens hemliga projekt: ”Många miljoner” - Expressen
-- Chatt: SVT:s reportrar svarade på era frågor om COP 30 - SVT Nyheter
-- Brand på åttonde våningen – en person förd till sjukhus - Skånska Dagbladet
+- EU-toppens uttalande väcker förvirring på klimatmötet - Dagens Nyheter
 - Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
 - Inget uppsåt i samband med bussolyckan - GP
-- ”Regeringsmakten SD:s nästa stora projekt” - Aftonbladet
+- SD kräver ministerposter – ”kan inte misstolkas” - Dagens Nyheter
 - Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
 - Colombia: 14 ton kokain beslagtaget - Västerbottens-Kuriren
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
-- Grizzlybjörn gick till attack – skolbarn skadade - GP
-- SD:s partistyrelse överkörd om könskirurgi - Aftonbladet
+- ÖB: ”Ryssland kan anfalla i morgon” - Aftonbladet
+- Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
 - Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
 - Ei förbereder för att Sverige ska vara redo att genomföra de nya EU-reglerna om flexibilitet - Energimarknadsinspektionen
 - De ska säkerställa att sänkt matmoms leder till lägre priser - Jordbruksaktuellt
-- Wall Street stängde stadigt efter darrig vecka - Aftonbladet
-- Battlefield 6: Redsec Elite Series lanseras som en eSport-blockbuster med en prispott på 1 miljon dollar, uppdatering 1.1.2.0 live - notebookcheck.se
+- SCB-siffror: Så stor skillnad gör Black Week för handeln - Dagens Handel
 - Sapphire Edge AI: Mini-PC-comeback med AMD Ryzen AI 9 HX 370 och magnetiskt lock recension - notebookcheck.se
+- Från 29,99 dollar till 0 dollar: Kritikerrosat spel som utspelar sig i Warhammer-universumet är gratis att behålla på Steam under en begränsad tid - notebookcheck.se
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2025-11-22 05:50_
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
+- Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
 
 ## Technology
 
@@ -78,21 +78,21 @@ _Updated: 2025-11-22 05:50_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- A tap and ride first: Expanding open loop payment nationwide - Mastercard Newsroom - mastercard.com
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -119,40 +119,39 @@ _Updated: 2025-11-22 05:50_
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- ”Research on bison completely wrong” - Forskning & Framsteg
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2025-11-22 05:50_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
