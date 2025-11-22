@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-22 01:48_
+_Updated: 2025-11-22 04:15_
 
-- Trump, Mamdani promise to work to help NYC and tackle affordability in cordial meeting - ABC News
-- Zelenskyy says Ukraine has impossible choice as Trump pushes plan to end war - The Guardian
-- Stepbrother eyed in cruise ship death of Florida teen may be called to testify in custody dispute, attorney says - CBS News
-- Huge storms produced wettest November on record for parts of Southern California - Los Angeles Times
-- Party of one: Trump chews up and spits out his inner circle - Axios
-- South Africa hosts G20 as tensions with U.S. flare amid boycott - NPR
-- Trump: Military courts may investigate Democrats' video he called "punishable by death" - Axios
-- In reversal, Coast Guard again classifies swastikas, nooses as hate symbols - The Washington Post
-- Ohio officer found not guilty of murder in Ta'Kiya Young's shooting death - ABC News
-- The Situation: The Inanities Continue in the Comey Case - Lawfare
+- Rep. Marjorie Taylor Greene says she's resigning from Congress - CBS News
+- ‘I’ll stick up for you’: key moments from the cordial Trump-Mamdani meeting - The Guardian
+- Zelensky warns Ukraine risks losing US support over White House peace plan - BBC
+- Texas Asks Supreme Court to Clear Way for Republican-Friendly Congressional Map - The New York Times
+- Comey's lawyers move to dismiss indictment citing grand jury issues - ABC News
+- Teen found dead on Carnival cruise died by asphyxiation resulting from a bar hold: Source - ABC News
+- Officer acquitted of murder in shooting death of Ta'Kiya Young, pregnant Black mother accused of shoplifting - CBS News
+- Democratic Rep. Eric Swalwell enters crowded California governor's race - NBC News
+- Democrats file police complaints over Trump’s posts accusing them of sedition - Politico
+- 4 questions — and answers — about the Epstein files release - Politico
 - Grizzly bear on loose after attacking school group in Canada, injuring 11 - BBC
-- Japan’s Takaichi Rejects China Demand to Retract Taiwan Remarks - Bloomberg.com
-- Pilot killed after Indian fighter jet crashes at Dubai Air Show - The Independent
+- Cop30 delegates ‘far apart’ on phasing out fossil fuels and cutting carbon - The Guardian
 - Former Reform U.K. Politician Sent to Prison for Taking Pro-Russia Bribes - The New York Times
+- Japan’s Takaichi Rejects China Demand to Retract Taiwan Remarks - Bloomberg.com
 - Stock Market Tumbles On Nvidia, Bitcoin; Walmart, Google Strong: Weekly Review - Investor's Business Daily
-- Why trouble for the biggest foreign buyer of U.S. debt could ripple through America’s bond market - MarketWatch
-- Crypto plunge wipes out nearly $400 billion in a week - Axios
-- Uneasiness Over A.I. Spending Looms Over Markets - The New York Times
-- Apple Launches Second Limited-Edition iPhone Accessory in a Month - MacRumors
+- Bitcoin, XRP and Dogecoin Pummeled as Crypto Liquidations Top $2.2 Billion - Decrypt
+- Eli Lilly Reaches $1 Trillion in Value, Buoyed by Demand for Its Weight Loss Drugs - The New York Times
+- Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals - Fortune
 - Starting today, Full Screen Experience for Windows 11 PCs is available for Xbox Insiders! - Xbox Wire
+- SpaceX's 1st 'Version 3' Super Heavy Starship booster buckles under pressure during initial tests - Space
