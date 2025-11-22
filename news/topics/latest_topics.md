@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 22:40_
+_Updated: 2025-11-22 23:38_
 
 ## Top Stories
 
-- Ordföranden om protesterna: ”Har inte sovit” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Trump öppnar för ändringar i fredsförslaget - Hufvudstadsbladet
-- Våldsbrott i Gunnilse – två skadade - Aftonbladet
+- Trump öppnar för ändringar i fredsförslaget - GP
+- DN Direkt – Två skadade efter bråk utanför mataffär – en gripen - Dagens Nyheter
 - DN Direkt – Kristersson till SD: ”Vi har fattat de beslut som krävs” - Dagens Nyheter
-- Häst död i trafikolycka – påkörd av buss - Ridsport
-- Åkesson: L måste backa i regeringsfrågan - Västerbottens-Kuriren
+- Marie, 54, snuvades på drömresan till Svalbard - Aftonbladet
+- Ministern om avtalet från klimatmötet: ”En besvikelse” - NWT
+- Maten som känns nyttig – men är ultraprocessad - GP
+- Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
 - Bild på Hamas används i annons för Palestinademonstration i Göteborg - Dagens Nyheter
-- L-kravet: Inför maxtak i skolan - DI
-- SMHI varnar för plötslig ishalka i nordvästra Götaland - Dagens Nyheter
-- Bussolycka på E45 utanför Storuman – tio personer till sjukhus - SVT Nyheter
+- Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
+- Liberalerna säger nej till aktiebolag i skolan - Dagens Nyheter
+- Drönarlarm i Nederländerna – flygplats avstängd - Västerbottens-Kuriren
 - Erik Esbjörnsson: Trump bojkottar G20-mötet – gruppens framtid står på spel - Dagens Nyheter
+- Rädslan i Finland: Har ingen koll på ryska kärnkraftverk - Dagens Nyheter
 - Bolsonaro förd till fängelse – dömd till 27 år - Hufvudstadsbladet
-- 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
-- Zelenskyj hårt pressad av miljardkorruption - Västerbottens-Kuriren
 - Analytiker: Bitcoins öde visar vägen för börsen till veckan - Omni Ekonomi
 - Massiv kritik mot nya Blocket: ”Katastrof” - Aftonbladet
-- Ny avgiftsfälla – tänk på detta som köpare - SvD
-- ”Skillnaderna i elpriser har blivit extrema” - Omni
-- Analogue 3D återinförs i lager den 24 november och får även en prishöjning - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
+- ”Skillnad i elpriser är helt orimlig” - SvD
+- SCB-siffror: Så stor skillnad gör Black Week för handeln - Dagens Handel
+- 150 000 Saabar skrotade – kan vara jättemiss - Carup.se
+- Unika kometen 3I/Atlas på väg – kommer från annat solsystem - TV4 Nyheterna
 
 ## World News
 
@@ -32,44 +32,44 @@ _Updated: 2025-11-22 22:40_
 - Global produktion på stål minskar - DI
 - Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- S&P Global Introduces S&P Global Energy - Placera.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 - Analog Devices to Participate in the UBS Global Technology Conference - Placera.se
-- Kimberly-Clark To Webcast Its Presentation At Morgan Stanley's Global Consumer & Retail Conference - Placera.se
-- AGCO to Present at the UBS 2025 Global Industrials & Transportation Conference - Placera.se
 
 ## Technology
 
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -123,28 +123,28 @@ _Updated: 2025-11-22 22:40_
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,6 +152,7 @@ _Updated: 2025-11-22 22:40_
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2025-11-22 22:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
