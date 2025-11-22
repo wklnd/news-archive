@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-22 06:43_
+_Updated: 2025-11-22 07:40_
 
 ## Top Stories
 
-- L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
 - Trump hyllade Mamdani efter möte: ”Kommer överraska” - GP
-- Ukraina i samtal med Europa om fredsplan - Västerbottens-Kuriren
+- L-beslutet klubbat: Inga ministerposter till SD - Dagens Nyheter
 - Marjorie Taylor Greene lämnar kongressen - Västerbottens-Kuriren
-- Högerprofilens hemliga projekt: ”Många miljoner” - Expressen
-- EU-toppens uttalande väcker förvirring på klimatmötet - Dagens Nyheter
+- Ukraina i samtal med Europa om fredsplan - GP
+- Zelenskyj hårt pressad av miljardkorruption - SvD
+- Explosion i Jönköping – trapphus rökfyllt - GP
+- DN Direkt – Åklagaren om bussolyckan på Östermalm: Inget uppsåt - Dagens Nyheter
+- Klimatmötet på väg in på övertid - Hufvudstadsbladet
+- Delseger för L-ledningen i första ronden: Nej till bolagsskolor - Dagens Nyheter
 - Läkare friskförklarade barn felaktigt – anmäls - Västerbottens-Kuriren
-- Inget uppsåt i samband med bussolyckan - GP
-- SD kräver ministerposter – ”kan inte misstolkas” - Dagens Nyheter
-- Sveriges vargförvaltning döms ut av EU – ”inte i linje med vetenskapen” - Dagens Nyheter
 - Colombia: 14 ton kokain beslagtaget - Västerbottens-Kuriren
 - Det ryskockuperade Donbass utan el: därför slår Ukraina tillbaka just nu - Bulletin
-- ÖB: ”Ryssland kan anfalla i morgon” - Aftonbladet
 - Indiskt stridsflygplan har kraschat – pilot död - Aftonbladet
+- ÖB: ”Ryssland kan anfalla i morgon” - Aftonbladet
+- Vattentornet som blivit lyxhem – nu kan det bli ditt - Dagens PS
+- Lägre kaffepris efter Trumps besked - DI
+- INSÄNDARE: Effektavgiften och dess öde - LT
 - Börsprofilerna om krisen i Intellego: ”Kan avnoteras” - EFN
-- Ei förbereder för att Sverige ska vara redo att genomföra de nya EU-reglerna om flexibilitet - Energimarknadsinspektionen
-- De ska säkerställa att sänkt matmoms leder till lägre priser - Jordbruksaktuellt
-- SCB-siffror: Så stor skillnad gör Black Week för handeln - Dagens Handel
-- Sapphire Edge AI: Mini-PC-comeback med AMD Ryzen AI 9 HX 370 och magnetiskt lock recension - notebookcheck.se
-- Från 29,99 dollar till 0 dollar: Kritikerrosat spel som utspelar sig i Warhammer-universumet är gratis att behålla på Steam under en begränsad tid - notebookcheck.se
+- Microsoft släpper fullskärmsläget från Xbox Ally till fler handhållna datorer - PC för Alla
+- Microsoft släpper spelklassikern Zork som öppen källkod - PC för Alla
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-11-22 06:43_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -78,14 +78,13 @@ _Updated: 2025-11-22 06:43_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-11-22 06:43_
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
