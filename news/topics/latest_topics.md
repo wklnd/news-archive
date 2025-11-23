@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 16:39_
+_Updated: 2025-11-23 18:44_
 
 ## Top Stories
 
-- Trumps fredsplan ifrågasätts internt – kan vara rysk från början - Dagens Nyheter
-- Staten försökte minska rökande – då blev det trendigt att röka - GP
-- Uppgifter: USA redo för ny fas av operationer i Venezuela - SVT Nyheter
-- Bil överkörd av lastbil på E4 - Expressen
-- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
-- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
+- Hund fick värma sig på polisstation i Bollnäs - Expressen
 - SD vill begränsa lagen om hets mot folkgrupp - tillåter hatiska kommentarer på Facebook - Dagens Nyheter
-- Klimatbistånd går till projekt utan klimatkoppling - Västerbottens-Kuriren
+- Danska turister fast på ö i Osbysjön - Sydsvenskan
+- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
+- En lastbilschaufför misstänks för brott efter trafikolyckan - Piteå-Tidningen
+- Expert: Saudiarabien "förstörde festen" i Belém - Västerbottens-Kuriren
 - Väljarnas dom: L och C vacklar hit och dit - Dagens Nyheter
-- 23 november 04.44, Explosion, Norrköping - polisen.se
+- Åtta ikoniska filmklipp som berättar allt om svensk politik just nu - HD
+- Klimatbistånd går till projekt utan klimatkoppling - Västerbottens-Kuriren
+- Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
+- Trumps fredsplan ifrågasätts internt – kan vara rysk från början - Dagens Nyheter
 - Leo XIV: Fred är att ta ställning när människans värdighet kränks - Vatican News
-- Soldat räddade person ur vattnet vid Skeppsbron - Aftonbladet
-- John F. Kennedys barnbarn dödligt sjuk i leukemi - GP
-- Marjorie Taylor Greene funderar på presidentval - Expressen
-- DN Direkt – Åhman och Hellvig tar VM-guld i beachvolley - Dagens Nyheter
-- Villaägarnas Riksförbund: ”Skillnaden i elpriser är helt orimlig” - svenskbyggtidning -
-- Par­ekonomin som vinner – så sparar ni ihop framgångsrikt - Dagens PS
-- Sociala medier publicerad i TV4 202511 - Novus - Kunskap och undersökningar - novus.se
-- Resident Evil Requiem kommer återbesökas av karaktärer från Racoon City-incidenten - FZ.se
-- Bästa trådbundna hörlurar 2025 – alla testade av TechRadars experter - TechRadar
+- Elever kidnappades – 50 har lyckats rymma - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Hamasföreträdare i Kairo: Samtal om fas två i vapenvilan - Dagens Nyheter
+- Ingela, 70, lurades av Tele 2 – beställning drogs tillbaka - Expressen
+- Doge läggs ned – nya toppjobb väntar - SvD
+- Ny bostadssmäll väntar – värmen lyfter hyran igen - Tidningen Näringslivet
+- Sparpsykologen: Impulsiva personer är hett villebråd under Black week - Dagens Nyheter
+- Bygga en julgran tillsammans och be bort julklappar! - FZ.se
+- Dagens Dubbel Tips Färjestad 24/11 - Travcash
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global produktion på stål minskar - DI
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
@@ -98,16 +98,16 @@ _Updated: 2025-11-23 16:39_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -124,8 +124,8 @@ _Updated: 2025-11-23 16:39_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
