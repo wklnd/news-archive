@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 13:38_
+_Updated: 2025-11-23 14:59_
 
 ## Top Stories
 
+- Ishockey: Lars-Gunnar Jansson har dött - SVT Nyheter
 - Trumps fredsplan ifrågasätts internt – kan vara rysk från början - Dagens Nyheter
-- Bussolycka på E45 utanför Storuman – 23 personer vårdas på sjukhus - SVT Nyheter
-- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
 - Här får barnen jobb – för att slippa gängen - Dagens Nyheter
-- 23 november 04.44, Explosion, Norrköping - polisen.se
-- Nytt klimatavtal – stort missnöje - GP
-- Misstänkt våldtäkt i centrala Stockholm - SVT Nyheter
-- Buss i krock med häst – förare till sjukhus - Västerbottens-Kuriren
-- Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
-- Åtal: Våldtog styvdottern nästan 200 gånger i Eslöv – kallar henne ”labbråtta” - Skånska Dagbladet
-- Marjorie Taylor Greene hoppar av kongressen - GP
+- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
+- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
+- Explosion vid trapphus i Norrköping – ”Flög upp ur sängen” - SVT Nyheter
+- Nattens händelser från polisen - Örebronyheter
+- Misstänkt överfallsvåldtäkt i centrala Stockholm - Aftonbladet
+- Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
 - Grov misshandel på restaurang i Västerås – två till sjukhus - Expressen
-- John F. Kennedys barnbarn dödligt sjuk i leukemi - GP
 - Soldat räddade person ur vattnet vid Skeppsbron - Aftonbladet
-- De ger inte upp elmotorcyklarna - Dagens Nyheter
+- ”Tokiga Marjorie” – så kollapsade relationen med Trump - Dagens Nyheter
+- John F. Kennedys barnbarn dödligt sjuk i leukemi - GP
+- Kristersson: ”Min roll är inte att odla stjärnstatus i Europa” - Dagens Nyheter
 - Par­ekonomin som vinner – så sparar ni ihop framgångsrikt - Dagens PS
+- ”Skillnad i elpriser är helt orimlig” - SvD
 - Dödläge hotar Fed inför räntebeskedet - Dagens PS
 - Intellegohärvan fördjupas – VD häktad och börsen kräver avnotering - Finanstid
 - Remaken av Assassin’s Creed: Black Flag kan släppas innan sommaren - FZ.se
@@ -41,8 +41,8 @@ _Updated: 2025-11-23 13:38_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
@@ -125,40 +125,40 @@ _Updated: 2025-11-23 13:38_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
