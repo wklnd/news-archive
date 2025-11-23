@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 09:38_
+_Updated: 2025-11-23 10:45_
 
 ## Top Stories
 
-- Kraftig explosion i Norrköping – en till sjukhus - Aftonbladet
-- Avgörande möte om Trumps fredsplan i Genève - GP
-- DN Direkt – Misstänkt våldtäkt utomhus i centrala Stockholm - Dagens Nyheter
 - Kristersson: ”Min roll är inte att odla stjärnstatus i Europa” - Dagens Nyheter
-- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
-- Ett mål kan vara som sex – det vet fans utan vetenskapen - Dagens Nyheter
+- Kraftig explosion i Norrköping – en till sjukhus - Aftonbladet
+- Trump öppnar för ändringar i fredsförslaget - GP
+- Avtal klart på klimattoppmötet - SVT Nyheter
+- President dömdes till fängelse – ny ledare väljs - GP
+- 23 november 07.55, Sammanfattning natt, Jämtlands län - polisen.se
+- Misstänkt våldtäkt i centrala Stockholm - SVT Nyheter
 - L: Inför allmän flaggdag för EU i Sverige - Omni
 - Liberalerna säger nej till aktiebolag i skolan - Dagens Nyheter
 - Varnar för ishalka – ”blir halt väldigt snabbt” - Dagens Nyheter
-- Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
 - Källor: USA överväger störta Maduros regering – flyg ställs in - Dagens Nyheter
-- Drönarlarm i Nederländerna – flygplats avstängd - GP
+- Drönarlarm i Nederländerna – flygplats avstängd - Västerbottens-Kuriren
 - JFK:s barnbarn dödssjuk – fick veta när hon fött - Aftonbladet
 - Erik Esbjörnsson: Trump bojkottar G20-mötet – gruppens framtid står på spel - Dagens Nyheter
-- Topplistan: Här är bilarna med bekvämast säten - Dagens PS
-- Forskare överraskade: Kustvattnen förändras i snabb takt - Dagens PS
 - Massiv kritik mot nya Blocket: ”Katastrof” - Aftonbladet
 - Black Friday kannibaliserar på julhandelns marginaler - EFN.se
+- Postnord backar: Okej med vapen i paket - SVT Nyheter
+- ”Skillnad i elpriser är helt orimlig” - SvD
 - Anhöriga vill stoppa stor gåva till ALS-forskning - Folkbladet
-- Vantrue N4 Pro S recension: Tydlig täckning med en bakre kamera som kommer nära och personligt - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Därför funkar inte video i webbläsare på Dell och HP - SweClockers
 
 ## World News
 
@@ -77,20 +77,20 @@ _Updated: 2025-11-23 09:38_
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Sthlm Beauty Week - Photo Daniel Söderberg www.greenpix.se-03906.jpg - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
@@ -144,7 +144,7 @@ _Updated: 2025-11-23 09:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Ba Farm Dak To är fast beslutna att utveckla ett grönt jordbruk. - Vietnam.vn
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +152,13 @@ _Updated: 2025-11-23 09:38_
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
