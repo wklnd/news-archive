@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 01:39_
+_Updated: 2025-11-23 04:34_
 
 ## Top Stories
 
-- DN Direkt – Uppgifter: USA:s alternativ inkluderar att störta Maduro - Dagens Nyheter
-- Trump öppnar för ändringar i fredsförslaget - GP
-- 22 november 16.20, Mord/dråp, försök, Göteborg - polisen.se
-- Kristersson på SD:s landsdagar – för första gången - Västerbottens-Kuriren
-- Marie, 54, snuvades av SAS på drömresan till Svalbard - Aftonbladet
-- Nytt klimatavtal – stort missnöje - GP
-- Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
+- Trumpstyret: Står bakom fredsplanen för Ukraina - Västerbottens-Kuriren
+- Uppgifter: USA redo för ny fas av operationer i Venezuela - SVT Nyheter
+- Statsminister Ulf Kristersson (M) besöker L och SD - GP
+- Klimatministern om avtalet: ”en besvikelse” - Västerbottens-Kuriren
 - Liberalerna säger nej till aktiebolag i skolan - Dagens Nyheter
+- Tusentals i protest mot kvinnovåld - SVT Nyheter
+- Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
 - Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
 - Varnar för ishalka – ”blir halt väldigt snabbt” - Dagens Nyheter
-- Källor: USA överväger störta Maduros regering – flyg ställs in - Dagens Nyheter
+- Just nu: ”I nuläget har ingen livshotande skador” - Västerbottens-Kuriren
 - Drönarlarm i Nederländerna – flygplats avstängd - Västerbottens-Kuriren
-- G20 enas om uttalande – trots USA:s bojkott - Hufvudstadsbladet
-- Rädslan i Finland: Har ingen koll på ryska kärnkraftverk - Dagens Nyheter
-- ”Skillnad i elpriser är helt orimlig” - SvD
+- Erik Esbjörnsson: Trump bojkottar G20-mötet – gruppens framtid står på spel - Dagens Nyheter
+- Knivattack vid matbutik – område avspärrat - GP
+- 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
+- NY PROGNOS: Så mycket dyrare blir CSN-lånet - NWT
 - Tjuvarna skyr elbilar: Nästan omöjliga att stjäla - Dagens PS
-- Analytiker: Bitcoins öde visar vägen för börsen till veckan - Omni Ekonomi
 - Massiv kritik mot nya Blocket: ”Katastrof” - Aftonbladet
-- 150 000 Saabar skrotade – kan vara jättemiss - Carup.se
-- Seger för Komet borta mot Umeå 2 - Västerbottens-Kuriren
+- ”Skillnad i elpriser är helt orimlig” - SvD
+- Minecraft ser mer realistiskt ut än någonsin med en RTX 5090, 4K-upplösning och flera mods - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Valve-intervju bekräftar att Steam Machine-priset kommer att motsvara en gaming-PC, men har konsolfördelar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -39,12 +39,12 @@ _Updated: 2025-11-23 01:39_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
 
@@ -144,6 +144,7 @@ _Updated: 2025-11-23 01:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -151,14 +152,13 @@ _Updated: 2025-11-23 01:39_
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
