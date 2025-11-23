@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-23 01:48_
+_Updated: 2025-11-23 04:36_
 
-- Politicians shocked by Marjorie Taylor Greene’s surprise resignation announcement - The Guardian
-- US senators slam Trump’s Russia-Ukraine peace plan as rewarding aggression - ABC News
-- JFK's granddaughter Tatiana Schlossberg reveals terminal cancer diagnosis - NBC News
+- Trump says Ukraine deal is not ‘final offer’ as officials gather for Geneva summit - The Guardian
+- For Marjorie Taylor Greene, a Rough Education in MAGA Politics - The New York Times
 - COP30: UN climate talks fail to secure new fossil fuel promises - BBC
-- Chicago Shootings Leave One Dead and 8 Teenagers Wounded - The New York Times
-- 4 people wounded in shooting at North Carolina Christmas tree lighting ceremony - CBS News
-- What Trump’s Mamdani praise — and MTG’s ouster — says about MAGA’s future - Politico
-- Comey Prosecution on the Ropes After Series of Missteps - The Wall Street Journal
+- 14-year-old killed, 8 injured in shootings during holiday festivities in downtown Chicago - ABC News
+- JFK's granddaughter Tatiana Schlossberg reveals terminal cancer diagnosis - NBC News
+- New Yorkers praise Zohran Mamdani’s charm offensive on Trump, say they remain cautiously optimistic - CNN
 - In North Carolina, the Border Patrol’s Presence Divides a Swing State - The New York Times
 - Shelter-in-place order lifted for San Pedro, Wilmington over cargo ship blaze as fire battle continues - Los Angeles Times
-- More than 300 children were abducted in an attack on a Catholic school in Nigeria - NPR
-- 20 Killed in Israeli Strikes as Israel and Hamas Trade Blame Over Truce - The New York Times
-- After Russian Strike on Apartment Buildings, Ukraine’s Hope for Survivors Fades - The New York Times
-- Japan Blasts China’s ‘Entirely Baseless’ Claims After UN Letter - Bloomberg.com
-- Wall Street eyes a possible culprit in this week’s head-spinning stock market reversal: Bitcoin - Fortune
+- DOJ makes a new attempt to unseal Epstein grand jury records - Politico
+- Supreme court blocks order that found Texas congressional map was likely racially biased - The Guardian
+- Security fears rise in Nigeria after more than 300 schoolchildren kidnapped - The Guardian
+- Africa's first G20 summit adopts declaration despite US boycott - Euronews.com
+- Japan Blasts China’s UN Letter Claim as Baseless, Urges Dialogue - Bloomberg.com
+- Israel says IDF strikes kill 5 Hamas officials, as terror group issues threat to end truce - The Times of Israel
+- Fed Watchers Turn to Vote Counting as December Rate Drama Grows - Bloomberg.com
 - Trump’s Net Worth Drops $1.1 Billion - Forbes
-- Babies who drank ByHeart formula got sick months before botulism outbreak, parents say - AP News
-- A Fed rate cut next month seemed doubtful. Here’s why it’s now likely to happen. - MarketWatch
-- One more iPhone 17 model is coming, with big camera upgrade rumored - 9to5Mac
-- Apple Launches Second Limited-Edition iPhone Accessory in a Month - MacRumors
+- Wall Street eyes a possible culprit in this week’s head-spinning stock market reversal: Bitcoin - Fortune
+- Daily Mail owner strikes $650 million deal to buy the Telegraph - CNN
+- Elon Musk's X rolls out feature that shows users' country of origin – then suddenly removes it - Mashable
+- Microsoft could be forced into raising the price of Xbox consoles again given global RAM shortage, leaker claims - Eurogamer
