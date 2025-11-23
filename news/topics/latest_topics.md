@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 04:34_
+_Updated: 2025-11-23 05:46_
 
 ## Top Stories
 
-- Trumpstyret: Står bakom fredsplanen för Ukraina - Västerbottens-Kuriren
-- Uppgifter: USA redo för ny fas av operationer i Venezuela - SVT Nyheter
-- Statsminister Ulf Kristersson (M) besöker L och SD - GP
+- Trumpstyret: Står bakom fredsplanen för Ukraina - GP
+- Källor: USA överväger störta Maduros regering – flyg ställs in - Dagens Nyheter
+- Kristersson på SD:s landsdagar – för första gången - Västerbottens-Kuriren
 - Klimatministern om avtalet: ”en besvikelse” - Västerbottens-Kuriren
-- Liberalerna säger nej till aktiebolag i skolan - Dagens Nyheter
-- Tusentals i protest mot kvinnovåld - SVT Nyheter
+- 90 döda i översvämningar i Vietnam - GP
+- Simona Mohamssons landsmötestal 2025 - Liberalerna
 - Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
 - Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
 - Varnar för ishalka – ”blir halt väldigt snabbt” - Dagens Nyheter
-- Just nu: ”I nuläget har ingen livshotande skador” - Västerbottens-Kuriren
-- Drönarlarm i Nederländerna – flygplats avstängd - Västerbottens-Kuriren
-- Erik Esbjörnsson: Trump bojkottar G20-mötet – gruppens framtid står på spel - Dagens Nyheter
+- SD kräver ministerposter – "kan inte misstolkas" - Aftonbladet
+- G20 enas om uttalande – trots USA:s bojkott - Hufvudstadsbladet
 - Knivattack vid matbutik – område avspärrat - GP
-- 32 döda i Ternopil: ”Alla gråter när de tänker på Ruslan, 17” - Aftonbladet
+- Orbáns krav – och Trumps vändning - Expressen
+- JFK:s barnbarn dödssjuk – fick veta när hon fött - Aftonbladet
 - NY PROGNOS: Så mycket dyrare blir CSN-lånet - NWT
-- Tjuvarna skyr elbilar: Nästan omöjliga att stjäla - Dagens PS
 - Massiv kritik mot nya Blocket: ”Katastrof” - Aftonbladet
+- Tjuvarna skyr elbilar: Nästan omöjliga att stjäla - Dagens PS
 - ”Skillnad i elpriser är helt orimlig” - SvD
+- Säljer unik terräng-Mustang - Carup.se
 - Minecraft ser mer realistiskt ut än någonsin med en RTX 5090, 4K-upplösning och flera mods - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Valve-intervju bekräftar att Steam Machine-priset kommer att motsvara en gaming-PC, men har konsolfördelar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-23 04:34_
 - Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- QUANTA SERVICES TO PARTICIPATE IN THE UBS GLOBAL INDUSTRIALS AND TRANSPORTATION CONFERENCE - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -58,9 +58,8 @@ _Updated: 2025-11-23 04:34_
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-23 04:34_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -92,53 +92,53 @@ _Updated: 2025-11-23 04:34_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
