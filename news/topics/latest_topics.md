@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 15:39_
+_Updated: 2025-11-23 16:39_
 
 ## Top Stories
 
 - Trumps fredsplan ifrågasätts internt – kan vara rysk från början - Dagens Nyheter
-- Avtal klart på klimattoppmötet - SVT Nyheter
 - Staten försökte minska rökande – då blev det trendigt att röka - GP
-- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
 - Uppgifter: USA redo för ny fas av operationer i Venezuela - SVT Nyheter
-- 23 november 04.44, Explosion, Norrköping - polisen.se
+- Bil överkörd av lastbil på E4 - Expressen
+- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
+- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
 - SD vill begränsa lagen om hets mot folkgrupp - tillåter hatiska kommentarer på Facebook - Dagens Nyheter
-- Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
-- Nattens händelser från polisen - Örebronyheter
-- DN Direkt – Misstänkt våldtäkt utomhus i centrala Stockholm - Dagens Nyheter
+- Klimatbistånd går till projekt utan klimatkoppling - Västerbottens-Kuriren
+- Väljarnas dom: L och C vacklar hit och dit - Dagens Nyheter
+- 23 november 04.44, Explosion, Norrköping - polisen.se
+- Leo XIV: Fred är att ta ställning när människans värdighet kränks - Vatican News
 - Soldat räddade person ur vattnet vid Skeppsbron - Aftonbladet
-- ”Tokiga Marjorie” – så kollapsade relationen med Trump - Dagens Nyheter
 - John F. Kennedys barnbarn dödligt sjuk i leukemi - GP
-- Knivattack vid matbutik – område avspärrat - GP
+- Marjorie Taylor Greene funderar på presidentval - Expressen
+- DN Direkt – Åhman och Hellvig tar VM-guld i beachvolley - Dagens Nyheter
+- Villaägarnas Riksförbund: ”Skillnaden i elpriser är helt orimlig” - svenskbyggtidning -
 - Par­ekonomin som vinner – så sparar ni ihop framgångsrikt - Dagens PS
-- ”Skillnad i elpriser är helt orimlig” - SvD
-- Ny bostadssmäll väntar – värmen lyfter hyran igen - NWT
-- Sparpsykologen: Impulsiva personer är hett villebråd under Black week - Dagens Nyheter
+- Sociala medier publicerad i TV4 202511 - Novus - Kunskap och undersökningar - novus.se
 - Resident Evil Requiem kommer återbesökas av karaktärer från Racoon City-incidenten - FZ.se
 - Bästa trådbundna hörlurar 2025 – alla testade av TechRadars experter - TechRadar
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-23 15:39_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- FiscalNote Continues Global Momentum Amid Ongoing PolicyNote Adoption - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -59,16 +59,16 @@ _Updated: 2025-11-23 15:39_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
@@ -98,12 +98,12 @@ _Updated: 2025-11-23 15:39_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -144,14 +144,14 @@ _Updated: 2025-11-23 15:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
