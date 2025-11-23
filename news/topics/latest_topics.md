@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 14:59_
+_Updated: 2025-11-23 15:39_
 
 ## Top Stories
 
-- Ishockey: Lars-Gunnar Jansson har dött - SVT Nyheter
 - Trumps fredsplan ifrågasätts internt – kan vara rysk från början - Dagens Nyheter
-- Här får barnen jobb – för att slippa gängen - Dagens Nyheter
+- Avtal klart på klimattoppmötet - SVT Nyheter
+- Staten försökte minska rökande – då blev det trendigt att röka - GP
 - Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
-- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
-- Explosion vid trapphus i Norrköping – ”Flög upp ur sängen” - SVT Nyheter
-- Nattens händelser från polisen - Örebronyheter
-- Misstänkt överfallsvåldtäkt i centrala Stockholm - Aftonbladet
+- Uppgifter: USA redo för ny fas av operationer i Venezuela - SVT Nyheter
+- 23 november 04.44, Explosion, Norrköping - polisen.se
+- SD vill begränsa lagen om hets mot folkgrupp - tillåter hatiska kommentarer på Facebook - Dagens Nyheter
 - Häst död efter krock med buss på E22 utanför Hörby - SVT Nyheter
-- Grov misshandel på restaurang i Västerås – två till sjukhus - Expressen
+- Nattens händelser från polisen - Örebronyheter
+- DN Direkt – Misstänkt våldtäkt utomhus i centrala Stockholm - Dagens Nyheter
 - Soldat räddade person ur vattnet vid Skeppsbron - Aftonbladet
 - ”Tokiga Marjorie” – så kollapsade relationen med Trump - Dagens Nyheter
 - John F. Kennedys barnbarn dödligt sjuk i leukemi - GP
-- Kristersson: ”Min roll är inte att odla stjärnstatus i Europa” - Dagens Nyheter
+- Knivattack vid matbutik – område avspärrat - GP
 - Par­ekonomin som vinner – så sparar ni ihop framgångsrikt - Dagens PS
 - ”Skillnad i elpriser är helt orimlig” - SvD
-- Dödläge hotar Fed inför räntebeskedet - Dagens PS
-- Intellegohärvan fördjupas – VD häktad och börsen kräver avnotering - Finanstid
-- Remaken av Assassin’s Creed: Black Flag kan släppas innan sommaren - FZ.se
+- Ny bostadssmäll väntar – värmen lyfter hyran igen - NWT
+- Sparpsykologen: Impulsiva personer är hett villebråd under Black week - Dagens Nyheter
+- Resident Evil Requiem kommer återbesökas av karaktärer från Racoon City-incidenten - FZ.se
 - Bästa trådbundna hörlurar 2025 – alla testade av TechRadars experter - TechRadar
 
 ## World News
@@ -92,7 +92,7 @@ _Updated: 2025-11-23 14:59_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -125,20 +125,20 @@ _Updated: 2025-11-23 14:59_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
