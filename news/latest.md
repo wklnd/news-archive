@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-23 19:48_
+_Updated: 2025-11-23 20:52_
 
-- Full text of European counter-proposal to US Ukraine peace plan - Reuters
-- Trump says Ukraine has ‘zero gratitude’ for peace plan amid international talks - The Guardian
-- Trump’s accusations of treason draw bipartisan rebuke - ABC News
-- The surprising issue driving a wedge between Trump and his MAGA base - The Washington Post
+- U.S., Ukraine make progress on Trump's peace plan, Rubio says - Axios
+- Mamdani and Trump Tamp Down Fears Over National Guard in New York City - The New York Times
+- Transcript: Sen. Mark Kelly on "Face the Nation with Margaret Brennan," Nov. 23, 2025 - CBS News
+- Trump accuses Ukraine of ingratitude as officials meet in Geneva on US peace plan - Reuters
+- Israel targets key Hezbollah official in first attack on Beirut in months - BBC
 - Exclusive: DOGE 'doesn't exist' with eight months left on its charter - Reuters
+- ‘Is the price of doing this worth it?’: North Carolina Republicans worry about Trump immigration raids - Politico
 - Marjorie Taylor Greene says she doesn’t want to run for president in 2028 - CNN
-- Charlotte activists met the immigration crackdown with ‘bless your heart’ resistance - The Guardian
 - Obamacare premiums are skyrocketing. Republicans can’t figure out what to do. - Politico
-- Mamdani, Trump lovefest shakes up NY's political landscape ... for now - Gothamist
 - Trump Renews Calls for Federal Intervention in Chicago After Deadly Shooting - The Wall Street Journal
-- Israel targets Hezbollah chief of staff with first strike on Beirut in months - CNN
-- Fifty children escape after mass school abduction in Nigeria - BBC
-- The G20 summit in South Africa ends with the glaring absence of the US after Trump's boycott - AP News
-- COP30 climate talks end with more fizzle than bang - DW
-- Nvidia Didn’t Save the Market. What’s Next for the AI Trade? - Bloomberg.com
+- Fifty kidnapped Catholic school students in Nigeria escape - Reuters
+- UN warns world losing climate battle but fragile Cop30 deal keeps up the fight - The Guardian
+- Transport Secretary Heidi Alexander denies Budget leaks damaged economy - BBC
+- G20 adopts declaration despite US boycott - DW
 - AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build ‘Stargate’—but a Yale expert says it violates 135 years of antitrust law - Fortune
-- JPMorgan, Citi, Morgan Stanley client data may be exposed by vendor's hack, NYT reports - Reuters
-- Analyst who called the dot-com bubble says Americans are turning a deaf ear to AI warnings—and a worse meltdown than 2008 looms - Fortune
+- Nvidia Didn’t Save the Market. What’s Next for the AI Trade? - Bloomberg.com
+- Analyst who called the dot-com bubble says Americans are turning a deaf ear to AI warnings—and a worse meltdown than 2008 looms - Yahoo Finance
+- Babies who drank ByHeart formula got sick months before botulism outbreak, parents say - AP News
 - Best Apple Black Friday deals: Save up to 44 percent on AirPods, iPads, MacBooks, Apple Watches and AirTags - Engadget
-- Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday - The Verge
+- The Steam Machine Isn’t Going to Be Subsidized, Valve Confirms – Prepare for High Price - Wccftech
