@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 22:41_
+_Updated: 2025-11-23 23:38_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Rubio: Trump är ”ganska nöjd” med framstegen i fredsamtalen - Dagens Nyheter
-- Buss har vält på E45 – en fastklämd - GP
+- Rubio: Trump är "ganska nöjd" med framstegen i fredsamtalen - Dagens Nyheter
+- Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
 - Harald Mix – på flykt från stålstormen - Dagens Nyheter
-- Israel: Attackerat Hizbollahledare i Beirut - Västerbottens-Kuriren
-- Elever kidnappades – 50 har lyckats rymma - GP
+- Nigeria: 50 kidnappade elever har lyckats rymma - SVT Nyheter
+- Nytt klimatavtal – stort missnöje - GP
 - M: Sälj Spy bar-huset och Hötorgshallen - SvD
-- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
 - Karolinska kan tvingas spara hundratals miljoner - Dagens Nyheter
-- SD vill göra om lagen om hets mot folkgrupp - UNT
+- Flera viltolyckor i Norrbotten – inga personskador - NSD
 - Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
+- 23 november 14.08, Trafikkontroll, Norrbottens län - polisen.se
+- Hizbollah-topp dödad i Beirut - SVT Nyheter
 - President dömdes till fängelse – ny ledare väljs - Västerbottens-Kuriren
-- Effektiviseringsorganet Doge läggs ned i förtid - Aftonbladet
 - Analyser: Putin får mycket, men lär ändå säga nej - Omni
-- USA: ”Produktiva samtal” med Ukraina - Expressen
+- Doge läggs ned – nya toppjobb väntar - SvD
 - Ny bostadssmäll väntar – värmen lyfter hyran igen - Tidningen Näringslivet
-- Ingelas drömdeal för ny Iphone försvann: ”Väldigt oetiskt” - Expressen
-- Ovanligt öppen splittring i Fed inför räntebeslut - Sydsvenskan
 - Strateg: Finns risk för att börsen tar rygg på bitcoin - Omni Ekonomi
+- Ovanligt öppen splittring i Fed inför räntebeslut - Aftonbladet
+- Ingelas drömdeal för ny Iphone försvann: ”Väldigt oetiskt” - Expressen
 - Det är svårt att ta in att Xbox 360 är 20 år gammalt - FZ.se
 - Racerbana säljs – komplett med 14 bilar - Dagens PS
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global produktion på stål minskar - DI
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
 ## Business
 
@@ -92,7 +92,7 @@ _Updated: 2025-11-23 22:41_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -143,6 +143,7 @@ _Updated: 2025-11-23 22:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -151,14 +152,13 @@ _Updated: 2025-11-23 22:41_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
