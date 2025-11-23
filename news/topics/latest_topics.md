@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 18:44_
+_Updated: 2025-11-23 19:39_
 
 ## Top Stories
 
-- Hund fick värma sig på polisstation i Bollnäs - Expressen
+- ÖSK kvar i superettan efter sanslösa dramat - Aftonbladet
+- Trump: Ukraina visar ”noll tacksamhet” för USAs ansträngningar - Dagens Nyheter
+- DN Direkt – Turister fast på ö i Kristianstad – isen stoppar hemfärd - Dagens Nyheter
 - SD vill begränsa lagen om hets mot folkgrupp - tillåter hatiska kommentarer på Facebook - Dagens Nyheter
-- Danska turister fast på ö i Osbysjön - Sydsvenskan
-- Fyra till sjukhus – polisen utreder mordbrand - Aftonbladet
-- En lastbilschaufför misstänks för brott efter trafikolyckan - Piteå-Tidningen
-- Expert: Saudiarabien "förstörde festen" i Belém - Västerbottens-Kuriren
-- Väljarnas dom: L och C vacklar hit och dit - Dagens Nyheter
+- Nytt klimatavtal – stort missnöje - GP
+- Elever kidnappades – 50 har lyckats rymma - GP
 - Åtta ikoniska filmklipp som berättar allt om svensk politik just nu - HD
-- Klimatbistånd går till projekt utan klimatkoppling - Västerbottens-Kuriren
+- Väljarnas dom: L och C vacklar hit och dit - Dagens Nyheter
+- Kvinna allvarligt skadad efter brand i Karlstad - SVT Nyheter
 - Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
-- Trumps fredsplan ifrågasätts internt – kan vara rysk från början - Dagens Nyheter
+- Olycka på E18 – köer in mot Stockholm - Expressen
 - Leo XIV: Fred är att ta ställning när människans värdighet kränks - Vatican News
-- Elever kidnappades – 50 har lyckats rymma - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Hamasföreträdare i Kairo: Samtal om fas två i vapenvilan - Dagens Nyheter
+- SD: Gör ”Du gamla, du fria” till nationalsång - UNT
+- ”Tokiga Marjorie” – så kollapsade relationen med Trump - Dagens Nyheter
 - Ingela, 70, lurades av Tele 2 – beställning drogs tillbaka - Expressen
-- Doge läggs ned – nya toppjobb väntar - SvD
-- Ny bostadssmäll väntar – värmen lyfter hyran igen - Tidningen Näringslivet
-- Sparpsykologen: Impulsiva personer är hett villebråd under Black week - Dagens Nyheter
+- Bitcoin riskerar sämsta månaden sedan 2022 - Tidningen Näringslivet
+- Villaägarnas Riksförbund: ”Skillnaden i elpriser är helt orimlig” - svenskbyggtidning -
+- Ny bostadssmäll väntar – värmen lyfter hyran igen - NWT
 - Bygga en julgran tillsammans och be bort julklappar! - FZ.se
 - Dagens Dubbel Tips Färjestad 24/11 - Travcash
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global produktion på stål minskar - DI
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 
 ## Technology
 
@@ -151,7 +151,7 @@ _Updated: 2025-11-23 18:44_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
