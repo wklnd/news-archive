@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 11:39_
+_Updated: 2025-11-23 12:41_
 
 ## Top Stories
 
-- Kristersson: ”Min roll är inte att odla stjärnstatus i Europa” - Dagens Nyheter
+- Vunnit allt – men det här väger tyngst - SvD
 - Uppdatering om skadeläget efter bussolyckan på E45 - Mynewsdesk
-- Kraftig explosion i Norrköping – en till sjukhus - Aftonbladet
-- Trump öppnar för ändringar i fredsförslaget - GP
+- Kristersson: ”Min roll är inte att odla stjärnstatus i Europa” - Dagens Nyheter
+- Här får barnen jobb – för att slippa gängen - Dagens Nyheter
+- 23 november 04.44, Explosion, Norrköping - polisen.se
 - Avtal klart på klimattoppmötet - SVT Nyheter
-- Polisen utreder misstänkt våldtäkt i centrala Stockholm - Aftonbladet
-- Liberalerna säger nej till aktiebolag i skolan - Dagens Nyheter
-- Varnar för ishalka – ”blir halt väldigt snabbt” - Dagens Nyheter
-- Tomas Ramberg: Inte konstigt att Åkesson inte tror på Liberalernas hot - Dagens Nyheter
-- SD kräver ministerposter – "kan inte misstolkas" - Aftonbladet
-- DN Direkt – Flera bolag ställer in flyg till Venezuela efter varning från USA - Dagens Nyheter
+- Misstänkt våldtäkt i centrala Stockholm - SVT Nyheter
+- DN Direkt – Buss i krock med häst – föraren förd till sjukhus - Dagens Nyheter
+- Nattens händelser från polisen - Örebronyheter
+- Åtal: Våldtog styvdottern nästan 200 gånger i Eslöv – kallar henne ”labbråtta” - Skånska Dagbladet
+- Avgörande möte om Trumps fredsplan i Genève - Hufvudstadsbladet
+- ”Tokiga Marjorie” – så kollapsade relationen med Trump - Dagens Nyheter
 - Grov misshandel på restaurang i Västerås – två till sjukhus - Expressen
-- Drönarlarm i Nederländerna – flygplats avstängd - Västerbottens-Kuriren
 - John F. Kennedys barnbarn dödligt sjuk i leukemi - GP
 - De ger inte upp elmotorcyklarna - Dagens Nyheter
+- Par­ekonomin som vinner – så sparar ni ihop framgångsrikt - Dagens PS
 - Nya regler dåliga nyheter för äldre förare - Dagens PS
-- Postnord backar: Okej med vapen i paket - SVT Nyheter
-- Ny bostadssmäll väntar – värmen lyfter hyran igen - SvD
+- Dödläge hotar Fed inför räntebeskedet - Dagens PS
+- Remaken av Assassin’s Creed: Black Flag kan släppas innan sommaren - FZ.se
 - Bästa trådbundna hörlurar 2025 – alla testade av TechRadars experter - TechRadar
-- Anhöriga vill stoppa stor gåva till ALS-forskning - Folkbladet
 
 ## World News
 
@@ -144,7 +144,6 @@ _Updated: 2025-11-23 11:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +151,14 @@ _Updated: 2025-11-23 11:39_
 - Digital whiteboard – Överallt - Lantbruksnytt
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
