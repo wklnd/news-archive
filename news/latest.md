@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-23 17:48_
+_Updated: 2025-11-23 18:50_
 
-- US, Ukrainian and European officials meet in Geneva for talks on peace plan - Reuters
+- Rubio Insists U.S. Authored the Ukraine Peace Plan - The New York Times
+- Reaction pours in after Marjorie Taylor Greene announces resignation - FOX 5 Atlanta
+- Exclusive: DOGE 'doesn't exist' with eight months left on its charter - Reuters
 - The surprising issue driving a wedge between Trump and his MAGA base - The Washington Post
 - New Yorkers praise Zohran Mamdani’s charm offensive on Trump, say they remain cautiously optimistic - CNN
-- Georgia Voters Stand by Marjorie Taylor Greene After She Stood Up to Trump - The New York Times
-- Trump’s accusations of treason draw bipartisan rebuke - ABC News
-- The G20 summit in South Africa ends with the glaring absence of the US after Trump's boycott - AP News
-- Republicans left the Obamacare cliff to the last minute. Some are regretting it. - Politico
+- 'Entitled,' 'complacent,' and 'sloppy': Inside the workplace tension at the world's largest HR organization - Business Insider
+- ‘Is the price of doing this worth it?’: North Carolina Republicans worry about Trump immigration raids - Politico
+- Obamacare premiums are skyrocketing. Republicans can’t figure out what to do. - Politico
 - Trump Renews Calls for Federal Intervention in Chicago After Deadly Shooting - The Wall Street Journal
-- Charlotte activists met the immigration crackdown with ‘bless your heart’ resistance - The Guardian
-- Exclusive-DOGE 'doesn't exist' with eight months left on its charter - Yahoo
+- Trump’s accusations of treason draw bipartisan rebuke - ABC News
+- Israel targets Hezbollah chief of staff with first strike on Beirut in months - CNN
 - Fifty students escape captors after mass kidnapping in Nigeria but more than 250 still held - CNN
-- Israel tries to assassinate Hezbollah's top military commander in Beirut - Axios
 - How the EU banished its climate demons and salvaged a weak COP30 deal - politico.eu
-- Japan ‘crossed a red line’ with Taiwan remarks, Chinese foreign minister says - Politico
-- Here's why concerns about an AI bubble are bigger than ever - NPR
-- Christmas tree retailers find lots to like at a Pennsylvania wholesale auction - AP News
+- China says Japan sent 'shocking' wrong signal on Taiwan - Reuters
+- Nvidia Didn’t Save the Market. What’s Next for the AI Trade? - Bloomberg.com
 - JPMorgan, Citi, Morgan Stanley client data may be exposed by vendor's hack, NYT reports - Reuters
-- The 7 ugly trends that show America is closer to a recession than you think - Business Insider
+- Babies who drank ByHeart formula got sick months before botulism outbreak, parents say - AP News
+- What OpenAI Did When ChatGPT Users Lost Touch With Reality - The New York Times
 - Best Apple Black Friday deals: Save up to 44 percent on AirPods, iPads, MacBooks, Apple Watches and AirTags - Engadget
-- The app that will instantly improve your Windows PC - The Verge
+- Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday - The Verge
