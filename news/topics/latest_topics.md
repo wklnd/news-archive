@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-23 19:39_
+_Updated: 2025-11-23 20:47_
 
 ## Top Stories
 
-- ÖSK kvar i superettan efter sanslösa dramat - Aftonbladet
+- Fotboll: Örebro SK vann kvalet mot Hammarby TFF – stannar kvar i superettan - SVT Nyheter
 - Trump: Ukraina visar ”noll tacksamhet” för USAs ansträngningar - Dagens Nyheter
-- DN Direkt – Turister fast på ö i Kristianstad – isen stoppar hemfärd - Dagens Nyheter
+- Buss har vält på E45 – en fastklämd - GP
+- Hund fick värma sig på polisstation i Bollnäs - Expressen
+- Harald Mix – på flykt från stålstormen - Dagens Nyheter
 - SD vill begränsa lagen om hets mot folkgrupp - tillåter hatiska kommentarer på Facebook - Dagens Nyheter
-- Nytt klimatavtal – stort missnöje - GP
-- Elever kidnappades – 50 har lyckats rymma - GP
+- Karolinska kan tvingas spara hundratals miljoner - Dagens Nyheter
 - Åtta ikoniska filmklipp som berättar allt om svensk politik just nu - HD
-- Väljarnas dom: L och C vacklar hit och dit - Dagens Nyheter
-- Kvinna allvarligt skadad efter brand i Karlstad - SVT Nyheter
+- Nytt klimatavtal – stort missnöje - GP
 - Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
-- Olycka på E18 – köer in mot Stockholm - Expressen
+- DN Direkt – Effektiviseringsorganet Doge läggs ned i förtid - Dagens Nyheter
 - Leo XIV: Fred är att ta ställning när människans värdighet kränks - Vatican News
-- SD: Gör ”Du gamla, du fria” till nationalsång - UNT
-- ”Tokiga Marjorie” – så kollapsade relationen med Trump - Dagens Nyheter
-- Ingela, 70, lurades av Tele 2 – beställning drogs tillbaka - Expressen
+- SD: Gör ”Du gamla, du fria” till nationalsång - GP
+- Israel: Attackerat Hizbollahledare i Beirut - Västerbottens-Kuriren
+- Ingelas drömdeal för ny Iphone försvann: ”Väldigt oetiskt” - Expressen
 - Bitcoin riskerar sämsta månaden sedan 2022 - Tidningen Näringslivet
+- Tekniskt underhåll för Mina sidor kl. 21.00 - 01.00 - CSN
 - Villaägarnas Riksförbund: ”Skillnaden i elpriser är helt orimlig” - svenskbyggtidning -
-- Ny bostadssmäll väntar – värmen lyfter hyran igen - NWT
+- Resident Evil Requiem kommer återbesökas av karaktärer från Racoon City-incidenten - FZ.se
 - Bygga en julgran tillsammans och be bort julklappar! - FZ.se
-- Dagens Dubbel Tips Färjestad 24/11 - Travcash
 
 ## World News
 
@@ -56,15 +56,15 @@ _Updated: 2025-11-23 19:39_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
@@ -98,16 +98,16 @@ _Updated: 2025-11-23 19:39_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -151,14 +151,14 @@ _Updated: 2025-11-23 19:39_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
