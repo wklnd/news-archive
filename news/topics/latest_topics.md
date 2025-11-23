@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 00:41_
+_Updated: 2025-11-24 01:39_
 
 ## Top Stories
 
-- Trump ”ganska nöjd” med framstegen i fredssamtalen - GP
-- Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
-- Flera dödade i ryska attacker mot Charkiv - Västerbottens-Kuriren
-- Hizbollah-topp dödad i israelisk attack – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Nigeria: 50 kidnappade elever har lyckats rymma - SVT Nyheter
-- Darfurs slaktare blev en skuggarmé i krigets Sudan - SvD
-- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
-- Karolinska kan tvingas spara hundratals miljoner - Dagens Nyheter
 - Ny explosion i Norrköping - SVT Nyheter
-- Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
-- President dömdes till fängelse – ny ledare väljs - Västerbottens-Kuriren
+- Bildt: Europa försöker stärka Ukrainas position - Västerbottens-Kuriren
+- Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
+- Flera dödade i ryska attacker mot Charkiv - GP
+- Sudans arméchef förkastar fredsförslag från USA - SvD
+- Direkt – Krisen i Mellanöstern – Israelisk attack mot Beirut - Dagens Nyheter
+- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
+- Elon Musks utspel – om Olof Palme: ”Förstörde Sverige” - Expressen
+- Åtal: Våldtog styvdottern nästan 200 gånger i Eslöv – kallar henne ”labbråtta” - Skånska Dagbladet
+- Karolinska kan tvingas spara hundratals miljoner - Dagens Nyheter
+- Avsatte presidentens kandidat verkar vinna - Västerbottens-Kuriren
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
-- Elon Musks Doge har lagts ner i hemlighet - Omni
-- Storbråk i Örebro – 20-tal inblandade - Expressen
+- Han pekas ut som ”Ali Baba” i miljardskandal - Expressen
+- Hund fick värma sig på polisstation i Bollnäs - Expressen
 - Ny bostadssmäll väntar – värmen lyfter hyran igen - Tidningen Näringslivet
 - Ovanligt öppen splittring i Fed inför räntebeslut - Aftonbladet
 - Strateg: Finns risk för att börsen tar rygg på bitcoin - Omni Ekonomi
-- Tekniskt underhåll för Mina sidor kl. 21.00 - 01.00 - CSN
+- Kokain och guld – nytt framgångsrecept som ger dubbel utdelning - Dagens PS
+- Glömde miljon-Merca i P-hus – i 17 år - Carup.se
 - Det är svårt att ta in att Xbox 360 är 20 år gammalt - FZ.se
-- Racerbana säljs – komplett med 14 bilar - Dagens PS
 
 ## World News
 
@@ -52,23 +52,23 @@ _Updated: 2025-11-24 00:41_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
@@ -104,12 +104,12 @@ _Updated: 2025-11-24 00:41_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2025-11-24 00:41_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
