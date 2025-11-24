@@ -1,45 +1,45 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 10:51_
+_Updated: 2025-11-24 11:46_
 
 ## Top Stories
 
-- Samtalen mellan USA och Ukraina fortsätter i Genève – utan Rubio - Dagens Nyheter
-- 23 november 23.09, Explosion, Norrköping - Polisen.se
+- Explosion i Norrköping – vid vårdcentral - SvD
+- Flera tonåringar skadade i olycka på Gotland - GP
+- Sanna Torén Björling: Här är punkten i fredsplanen som Ukraina aldrig kan acceptera - Dagens Nyheter
 - Tre till sjukhus efter polisjakt i Mölndal - SVT Nyheter
-- Tre dagars jättestrejk inleds i Belgien - Västerbottens-Kuriren
+- Krävde pussar mot vodka i Nordstan – våldtog barn i Göteborg - GP
 - Trump om partikrisen: "Slödder" - Expressen
-- COP30 - delseger för vattensektorn trots svag kompromiss - DagensNaringsliv.se
 - Handels backar – slopar krav på högskoleprov - Dagens Nyheter
-- Tonåring allvarligt skadad efter olycka på Gotland - SVT Nyheter
-- 24 november 07.03, Sammanfattning natt, Norrbottens län - Polisen.se
-- Undersökt föremål i Malmö var ofarligt - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Hamasföreträdare i Kairo: Samtal om fas två i vapenvilan - Dagens Nyheter
-- Avsatte presidentens kandidat verkar vinna - GP
-- Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
-- Slender Man-flickan gripen efter rymning - Expressen
+- Misstänkt föremål i Malmö var ofarligt - SVT Nyheter
+- Ministern om avtalet från klimatmötet: ”En besvikelse” - NWT
+- 24 november 07.03, Sammanfattning natt, Norrbottens län - polisen.se
+- Generaler straffas efter 7 oktober-attackerna - Västerbottens-Kuriren
+- Tre dagars jättestrejk inleds i Belgien - GP
+- EU-ländernas ledare i nytt möte om Ukraina på måndagen - Dagens Nyheter
+- Netanyahu: Attackerar Hamas vid överträdelser – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Så passar bedragarna på under Black Week - SvD
-- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
 - Så hög blir den nya ISK-skatten - Tidningen Näringslivet
+- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
 - Google inför digital skamvrå – nu hängs "tjuvarna" ut - Dagens PS
+- Steam Machine-priset – som en pc med samma kraft - FZ.se
 - Programmera med AI – så enkelt kommer du igång - PC för Alla
-- Apple tänker satsa på bättre kvalitet och prestanda i iOS 27 - Teknikveckan
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global produktion på stål minskar - DI
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -52,22 +52,22 @@ _Updated: 2025-11-24 10:51_
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
@@ -120,8 +120,6 @@ _Updated: 2025-11-24 10:51_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -131,14 +129,16 @@ _Updated: 2025-11-24 10:51_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
