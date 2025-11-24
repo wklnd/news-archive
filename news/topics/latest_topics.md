@@ -1,57 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 08:52_
+_Updated: 2025-11-24 09:40_
 
 ## Top Stories
 
-- Samtalen mellan USA och Ukraina fortsätter i Genève – utan Rubio - Dagens Nyheter
-- 23 november 23.09, Explosion, Norrköping - polisen.se
 - Tonåring allvarligt skadad efter olycka på Gotland - SVT Nyheter
+- Samtalen mellan USA och Ukraina fortsätter i Genève – utan Rubio - Dagens Nyheter
+- Misstänkt farligt föremål i Malmö - Omni
+- 23 november 23.09, Explosion, Norrköping - Polisen.se
 - Tre personer till sjukhus efter polisjakt - Västerbottens-Kuriren
-- Brand i industriområde i Agnesberg - GP
-- Jobbet: hitta Ukrainas 35 000 saknade barn - SvD
-- 24 november 07.03, Sammanfattning natt, Norrbottens län - polisen.se
+- 24 november 07.03, Sammanfattning natt, Norrbottens län - Polisen.se
+- Ministern om avtalet från klimatmötet: ”En besvikelse” - NWT
+- Polisen rapporterar om en händelserik natt - Örebro Tribune
 - Steg närmare åtal för motorvägsskredet – konsulter hotas av skadestånd - Dagens Nyheter
-- Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
-- Avtal klart på COP30 – ingen skrivning om utfasning av fossila bränslen - SVT Nyheter
-- Netanyahu: Attackerar Hamas vid överträdelser – Senaste nytt om kriget i Gaza - SVT Nyheter
+- DN Direkt – Tre dagars jättestrejk inleds i Belgien - Dagens Nyheter
+- Israel: Hamasledare dödad i Gaza - GP
 - Avsatte presidentens kandidat verkar vinna - Västerbottens-Kuriren
-- Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
 - Bedragarnas stora högtid är här – så undviker du att bli lurad - Dagens Nyheter
-- Så hög blir den nya ISK-skatten - SvD
+- MORGONENS NYHETER: Så hög blir den nya skatten på ditt sparande • Lastbil av vägen på riksväg • Så många elever kränks i skolan i din kommun - NWT
 - Di: Intrum på rätt väg – köp aktien - Privata Affärer
-- Jätteoffensiv i öst: Audis nya modeller skakar om marknaden - Dagens PS
-- Chieftec The Cube: Premium m-ATX PC-chassi med boxig design inspirerad av ljudhögtalare - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Starlink lanserar ett mer prisvärt internetabonnemang på 200 Mbps i hela USA - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Bitcoin riskerar sämsta månaden sedan 2022 – aktiemarknaden kan följa efter - Ny Teknik
+- Programmera med AI – så enkelt kommer du igång - PC för Alla
+- Bästa trådlösa mikrofonerna 2025: bästa bärbara mikrofoner för kreatörer - TechRadar
+- Steam Machine-priset – som en pc med samma kraft - FZ.se
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
 - Global produktion på stål minskar - DI
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Schemat för Global Series-helgen i Sverige - NHL.com
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
@@ -62,12 +63,11 @@ _Updated: 2025-11-24 08:52_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
 
@@ -121,6 +121,7 @@ _Updated: 2025-11-24 08:52_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -130,15 +131,14 @@ _Updated: 2025-11-24 08:52_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-11-24 08:52_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
