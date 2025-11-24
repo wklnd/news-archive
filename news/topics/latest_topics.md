@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 17:45_
+_Updated: 2025-11-24 18:46_
 
 ## Top Stories
 
-- Svenska ministrar på besök i Syrien – ska träffa presidenten - SVT Nyheter
-- Skandalomsusad lyxchokladimportör stäms - food-supply.se
-- Ryska medier: Europas fredsförslag om Ukraina är ”bisarrt” - Dagens Nyheter
-- Köpte vodka till flickor och våldtog dem – döms - Aftonbladet
-- Insändare Med nya regler kan snart fler unga i Nynäshamn flytta hemifrån – men mer behöver göras - Nynäshamns Posten
-- Sjukhuschef stoppade utredning av sin make - GP
-- Intagen hittad död i sin cell på anstalten i Kumla - SVT Nyheter
-- DN Direkt – Här måste kyrkovalet tas om – valsedlar förstörda - Dagens Nyheter
+- Lars Adaktusson gör comeback i KD - GP
 - 23 november 23.09, Explosion, Norrköping - Polisen.se
-- DN Direkt – Lars Adaktusson gör comeback i KD - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Putin till Erdogan: Trumps plan kan vara grund för fred - Dagens Nyheter
+- Ryska medier: Europas fredsförslag om Ukraina är ”bisarrt” - Dagens Nyheter
+- Skandalomsusad lyxchokladimportör stäms - food-supply.se
+- USA och Ukraina överens om ny fredsplan - Hufvudstadsbladet
+- Stor vattenläcka i Stockholm - Aftonbladet
+- Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
+- Frankrike vill sälja krigsfartyg till Sverige - UNT
+- Nattens händelser från polisen - Örebronyheter
+- 24 november 13.26, Trafikkontroll, Västerbottens län - Polisen.se
+- Greta Thunberg portad från Venedig - Expressen
+- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
 - Bussolycka norr om Voxna – föraren till sjukhus - Ljusnan
-- Slender Man-flickan gripen efter rymning - Expressen
-- Black Week drar igång – då varnar polisen för bedrägerier - Breakit
 - Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
 - Misstankar mot sparkad Intellego-vd har stärkts - Aftonbladet
 - Området i en klass för sig: ”Hög efterfrågan” - SvD
+- Sverige i täten – en av världens hetaste M&A-marknader - Affärsvärlden
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 - Valve antyder hög prislapp för Steam Machine - Nordichardware
 
 ## World News
 
-- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
+- DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
 - Så blev bastubadandet en global trend - SvD
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
+- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Global produktion på stål minskar - DI
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
@@ -98,14 +98,15 @@ _Updated: 2025-11-24 17:45_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -115,30 +116,29 @@ _Updated: 2025-11-24 17:45_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
