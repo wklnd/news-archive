@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 22:41_
+_Updated: 2025-11-24 23:40_
 
 ## Top Stories
 
-- Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
-- Flera gripna efter explosioner i Norrköping - Västerbottens-Kuriren
+- Putinlojal fixare bakom ryskamerikanska fredsplanen - Dagens Nyheter
 - Svenskar strandsatta på ö i Antarktis - SVT Nyheter
+- DN Direkt – S-bolagets försvar: Missvisande att partiet står för innehållet - Dagens Nyheter
+- Uppgifter: Kopplingar till ”ung man med historik i gängmiljö” - Omni
 - Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
-- Adaktusson gör comeback i KD – har försonats med Busch - Världen idag
-- Två chefer sparkas efter hemtjänstskandalen i Uddevalla: ”Inte vidtagits åtgärder” - Arbetet
+- COP30: Ingen färdplan för utfasning av fossila bränslen - Sveriges Natur
 - Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
-- Insändare: Klimatomställningen sker lokalt - Arvika Nyheter
+- Lars Adaktusson gör comeback i KD - Västerbottens-Kuriren
 - 24 november 19.58, Trafikolycka, vilt, Norrbottens län - Polisen.se
 - 24 november 07.03, Sammanfattning natt, Norrbottens län - Polisen.se
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - Domare ogiltigförklarar åtal mot Comey och James - Aftonbladet
 - ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
-- Direkt – Krisen i Mellanöstern – Hizbollah bekräftar: Ledare var måltavla i attack - Dagens Nyheter
+- Emma Bouvin: Hamasledare i Gaza spanar troligen på Hizbollahs nästa drag - Dagens Nyheter
+- Smällen mot småspararna: ”Uppseendeväckande” - EFN
 - Volvo bygger ny fabrik i Eskilstuna – ska tillverka grävmaskiner - SVT Nyheter
-- Misstankar mot sparkad Intellego-vd har stärkts - Aftonbladet
+- Kraftig ökning av falska butiker och bedrägerier inför Black Friday - Computer Sweden
 - Blankarna fast i Intellego: "Kan kosta vad som helst" - Affärsvärlden
-- Norska teknikbolaget får neutralt råd – stark tillväxt men osäker kortsiktig utveckling - Börskollen
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 - Besked: Klassisk Umeåbutik lägger ned - Västerbottens-Kuriren
 
@@ -90,23 +90,24 @@ _Updated: 2025-11-24 22:41_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2025-11-24 22:41_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -130,7 +130,6 @@ _Updated: 2025-11-24 22:41_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -138,6 +137,7 @@ _Updated: 2025-11-24 22:41_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
