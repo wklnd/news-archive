@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 07:45_
+_Updated: 2025-11-24 08:52_
 
 ## Top Stories
 
 - Samtalen mellan USA och Ukraina fortsätter i Genève – utan Rubio - Dagens Nyheter
-- Explosion vid port – dubbla insatser i Norrköping - SvD
-- Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
-- Tre till sjukhus efter polisjakt i Mölndal - SVT Nyheter
-- Han ska hitta Ukrainas 35 000 saknade barn - SvD
-- Hizbollah-topp dödad i israelisk attack – Senaste nytt om kriget i Gaza - SVT Nyheter
+- 23 november 23.09, Explosion, Norrköping - polisen.se
+- Tonåring allvarligt skadad efter olycka på Gotland - SVT Nyheter
+- Tre personer till sjukhus efter polisjakt - Västerbottens-Kuriren
+- Brand i industriområde i Agnesberg - GP
+- Jobbet: hitta Ukrainas 35 000 saknade barn - SvD
+- 24 november 07.03, Sammanfattning natt, Norrbottens län - polisen.se
 - Steg närmare åtal för motorvägsskredet – konsulter hotas av skadestånd - Dagens Nyheter
+- Natt till söndag i polisområde Örebro. - Brottsplatskartan.se
 - Avtal klart på COP30 – ingen skrivning om utfasning av fossila bränslen - SVT Nyheter
-- Ett antal viltolytckor har rapporterats in till polisens ledningscentral under förmiddagen. - Brottsplatskartan.se
-- Åtal: Våldtog styvdottern nästan 200 gånger i Eslöv – kallar henne ”labbråtta” - Skånska Dagbladet
-- Självmordsbombare utförde attack i Pakistan - Västerbottens-Kuriren
+- Netanyahu: Attackerar Hamas vid överträdelser – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Avsatte presidentens kandidat verkar vinna - Västerbottens-Kuriren
+- Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
-- Källor: USA överväger störta Maduros regering – flyg ställs in - Dagens Nyheter
-- Ukrainas försvar granskas efter korruptionshärvan - Omni
-- Ovanligt öppen splittring i Fed inför räntebeslut - Tidningen Näringslivet
+- Bedragarnas stora högtid är här – så undviker du att bli lurad - Dagens Nyheter
 - Så hög blir den nya ISK-skatten - SvD
+- Di: Intrum på rätt väg – köp aktien - Privata Affärer
 - Jätteoffensiv i öst: Audis nya modeller skakar om marknaden - Dagens PS
-- DN Direkt – Optimism inom e-handeln inför Black Week och jul - Dagens Nyheter
 - Chieftec The Cube: Premium m-ATX PC-chassi med boxig design inspirerad av ljudhögtalare - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Starlink lanserar ett mer prisvärt internetabonnemang på 200 Mbps i hela USA - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
@@ -79,13 +79,13 @@ _Updated: 2025-11-24 07:45_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -101,8 +101,8 @@ _Updated: 2025-11-24 07:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
@@ -121,24 +121,24 @@ _Updated: 2025-11-24 07:45_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -151,7 +151,6 @@ _Updated: 2025-11-24 07:45_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
@@ -162,3 +161,4 @@ _Updated: 2025-11-24 07:45_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
