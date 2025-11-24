@@ -1,65 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 09:40_
+_Updated: 2025-11-24 10:51_
 
 ## Top Stories
 
-- Tonåring allvarligt skadad efter olycka på Gotland - SVT Nyheter
 - Samtalen mellan USA och Ukraina fortsätter i Genève – utan Rubio - Dagens Nyheter
-- Misstänkt farligt föremål i Malmö - Omni
 - 23 november 23.09, Explosion, Norrköping - Polisen.se
-- Tre personer till sjukhus efter polisjakt - Västerbottens-Kuriren
+- Tre till sjukhus efter polisjakt i Mölndal - SVT Nyheter
+- Tre dagars jättestrejk inleds i Belgien - Västerbottens-Kuriren
+- Trump om partikrisen: "Slödder" - Expressen
+- COP30 - delseger för vattensektorn trots svag kompromiss - DagensNaringsliv.se
+- Handels backar – slopar krav på högskoleprov - Dagens Nyheter
+- Tonåring allvarligt skadad efter olycka på Gotland - SVT Nyheter
 - 24 november 07.03, Sammanfattning natt, Norrbottens län - Polisen.se
-- Ministern om avtalet från klimatmötet: ”En besvikelse” - NWT
-- Polisen rapporterar om en händelserik natt - Örebro Tribune
-- Steg närmare åtal för motorvägsskredet – konsulter hotas av skadestånd - Dagens Nyheter
-- DN Direkt – Tre dagars jättestrejk inleds i Belgien - Dagens Nyheter
-- Israel: Hamasledare dödad i Gaza - GP
-- Avsatte presidentens kandidat verkar vinna - Västerbottens-Kuriren
+- Undersökt föremål i Malmö var ofarligt - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Hamasföreträdare i Kairo: Samtal om fas två i vapenvilan - Dagens Nyheter
+- Avsatte presidentens kandidat verkar vinna - GP
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
-- Bedragarnas stora högtid är här – så undviker du att bli lurad - Dagens Nyheter
-- MORGONENS NYHETER: Så hög blir den nya skatten på ditt sparande • Lastbil av vägen på riksväg • Så många elever kränks i skolan i din kommun - NWT
-- Di: Intrum på rätt väg – köp aktien - Privata Affärer
-- Bitcoin riskerar sämsta månaden sedan 2022 – aktiemarknaden kan följa efter - Ny Teknik
+- Slender Man-flickan gripen efter rymning - Expressen
+- Så passar bedragarna på under Black Week - SvD
+- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
+- Så hög blir den nya ISK-skatten - Tidningen Näringslivet
+- Google inför digital skamvrå – nu hängs "tjuvarna" ut - Dagens PS
 - Programmera med AI – så enkelt kommer du igång - PC för Alla
-- Bästa trådlösa mikrofonerna 2025: bästa bärbara mikrofoner för kreatörer - TechRadar
-- Steam Machine-priset – som en pc med samma kraft - FZ.se
+- Apple tänker satsa på bättre kvalitet och prestanda i iOS 27 - Teknikveckan
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
-- Worldwide Diversified Holdings, Inc. Acquires Control of American Lithium Minerals, Inc. to Launch Global Mineral and Rare Earth Initiative - Placera.se
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global produktion på stål minskar - DI
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Schemat för Global Series-helgen i Sverige - NHL.com
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -79,13 +79,13 @@ _Updated: 2025-11-24 09:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -101,15 +101,15 @@ _Updated: 2025-11-24 09:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
