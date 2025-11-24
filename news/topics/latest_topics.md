@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 18:46_
+_Updated: 2025-11-24 19:43_
 
 ## Top Stories
 
-- Lars Adaktusson gör comeback i KD - GP
-- 23 november 23.09, Explosion, Norrköping - Polisen.se
+- Anna-Lena Laurén Putinlojal finansman och fixare bakom den rysk-amerikanska fredsplanen - Hufvudstadsbladet
+- DN Direkt – SD vill kalla SVT:s ledning att förklara sig i kulturutskottet - Dagens Nyheter
+- Lars Adaktusson gör comeback i KD - Västerbottens-Kuriren
+- Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
+- DN Direkt – Thunberg utslängd från Venedig - Dagens Nyheter
 - Ryska medier: Europas fredsförslag om Ukraina är ”bisarrt” - Dagens Nyheter
-- Skandalomsusad lyxchokladimportör stäms - food-supply.se
-- USA och Ukraina överens om ny fredsplan - Hufvudstadsbladet
-- Stor vattenläcka i Stockholm - Aftonbladet
 - Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
+- 23 november 23.09, Explosion, Norrköping - polisen.se
+- Intagen hittad död i sin cell på anstalten i Kumla - SVT Nyheter
 - Frankrike vill sälja krigsfartyg till Sverige - UNT
-- Nattens händelser från polisen - Örebronyheter
-- 24 november 13.26, Trafikkontroll, Västerbottens län - Polisen.se
-- Greta Thunberg portad från Venedig - Expressen
+- Israel dödar Hizbollahledare i södra Beirut - Västerbottens-Kuriren
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
 - Bussolycka norr om Voxna – föraren till sjukhus - Ljusnan
 - Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
 - Misstankar mot sparkad Intellego-vd har stärkts - Aftonbladet
-- Området i en klass för sig: ”Hög efterfrågan” - SvD
 - Sverige i täten – en av världens hetaste M&A-marknader - Affärsvärlden
+- Så hög blir den nya ISK-skatten - Tidningen Näringslivet
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 - Valve antyder hög prislapp för Steam Machine - Nordichardware
 
@@ -54,11 +54,11 @@ _Updated: 2025-11-24 18:46_
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
@@ -78,6 +78,7 @@ _Updated: 2025-11-24 18:46_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -92,19 +93,18 @@ _Updated: 2025-11-24 18:46_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -144,21 +144,21 @@ _Updated: 2025-11-24 18:46_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
