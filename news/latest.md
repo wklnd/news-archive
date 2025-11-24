@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-25 00:48_
+_Updated: 2025-11-25 01:48_
 
-- Judge rebukes Trump’s prosecutor over James Comey and Letitia James charges – live - The Guardian
-- Mark Kelly Under Pentagon Investigation for ‘Illegal Orders’ Video - The New York Times
-- Updated peace plan could be a deal Ukraine will take - eventually - BBC
+- Comey, James cases dismissed as judge disqualifies interim US attorney Lindsey Halligan - Politico
+- Pentagon launches 'thorough review' into Democratic Sen. Mark Kelly over video to troops - ABC News
+- Volodymyr Zelensky warns against giving away territory to Russia, as latest Ukraine talks end - BBC
+- Family speaks out after stepbrother emerges as suspect in death of Florida teen on cruise - The Guardian
 - Trump plans to propose extending Obamacare subsidies, report says - Reuters
-- Anna Kepner's death on cruise ship ruled a homicide - ABC News
-- X Displays Users’ Locations, Fueling Scrutiny Over Political Accounts - The New York Times
-- LAUNCHING THE GENESIS MISSION - The White House (.gov)
+- Trump administration formally designates Venezuela’s Maduro as member of a foreign terrorist organization - CNN
 - Here’s Where Weather May Slow Your Thanksgiving Travel This Week - The New York Times
-- 'Just Google' me: Slender Man stabber is recaptured after fleeing her group home - NPR
-- Maga world heads left spinning by Trump’s warm welcome for Mamdani - The Guardian
+- Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home - AP News
+- Former Sen. Doug Jones jumps into Alabama governor’s race - Politico
 - Australia senator condemned for burka stunt in parliament - BBC
-- Trump touts 'extremely strong' China relations after call with Xi - Reuters
-- Niger state kidnap: Nigerian father felt helpless as he saw children taken from Catholic school in Papiri - BBC
-- Ethiopian volcano erupts for first time in 12,000 years - The Guardian
+- Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year - AP News
+- Nigeria school kidnapping: Who’s behind it, why were children targeted? - Al Jazeera
+- G20 declaration in defiance of US marks rare victory for multilateralism - Reuters
 - Stock Market Today: Nasdaq Rises Nearly 2%; Google Gains; Chip Stocks Rally — Live Updates - The Wall Street Journal
-- Obesity drug semaglutide fails to slow Alzheimer's - BBC
+- Ozempic Drug Fails to Quell Alzheimer’s in Novo Nordisk Trials - The New York Times
+- Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns - The Verge
 - VOTE: Have meat prices affected your Thanksgiving dinner plans? - KOMO
-- Apple Cuts Jobs Across Its Sales Organization in Rare Layoff - Bloomberg.com
-- Black Friday subscription deals include discounts on HBO Max, Apple TV+, MasterClass, Rosetta Stone and more - Engadget
 - Microsoft is speeding up and decluttering File Explorer in Windows 11 - The Verge
+- Google's new 'Aluminium OS' project brings Android to PC: Here's what we know - Android Authority
+- Meta tests trade-in program for Ray-Ban and Oakley smart glasses - 9to5Google
