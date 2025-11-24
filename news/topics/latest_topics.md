@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 01:39_
+_Updated: 2025-11-24 04:28_
 
 ## Top Stories
 
-- Ny explosion i Norrköping - SVT Nyheter
-- Bildt: Europa försöker stärka Ukrainas position - Västerbottens-Kuriren
+- Ukraina och USA: Nytt fredsramverk efter samtal - Västerbottens-Kuriren
+- Explosion vid port – dubbla insatser i Norrköping - SvD
 - Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
-- Flera dödade i ryska attacker mot Charkiv - GP
-- Sudans arméchef förkastar fredsförslag från USA - SvD
-- Direkt – Krisen i Mellanöstern – Israelisk attack mot Beirut - Dagens Nyheter
+- Hizbollah-topp dödad i israelisk attack – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Tre personer till sjukhus efter polisjakt - GP
+- Flera dödade i rysk attack mot Charkiv - GP
 - Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
-- Elon Musks utspel – om Olof Palme: ”Förstörde Sverige” - Expressen
 - Åtal: Våldtog styvdottern nästan 200 gånger i Eslöv – kallar henne ”labbråtta” - Skånska Dagbladet
-- Karolinska kan tvingas spara hundratals miljoner - Dagens Nyheter
-- Avsatte presidentens kandidat verkar vinna - Västerbottens-Kuriren
+- Elon Musks utspel – om Olof Palme: ”Förstörde Sverige” - Expressen
+- Forskare: Snart fungerar inga antibiotika längre - Omni
+- Avsatte presidentens kandidat verkar vinna - GP
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
 - Han pekas ut som ”Ali Baba” i miljardskandal - Expressen
-- Hund fick värma sig på polisstation i Bollnäs - Expressen
-- Ny bostadssmäll väntar – värmen lyfter hyran igen - Tidningen Näringslivet
-- Ovanligt öppen splittring i Fed inför räntebeslut - Aftonbladet
+- Källor: USA överväger störta Maduros regering – flyg ställs in - Dagens Nyheter
+- Ovanligt öppen splittring i Fed inför räntebeslut - Tidningen Näringslivet
+- Tekniskt underhåll för Mina sidor kl. 21.00 - 01.00 - CSN
 - Strateg: Finns risk för att börsen tar rygg på bitcoin - Omni Ekonomi
 - Kokain och guld – nytt framgångsrecept som ger dubbel utdelning - Dagens PS
-- Glömde miljon-Merca i P-hus – i 17 år - Carup.se
-- Det är svårt att ta in att Xbox 360 är 20 år gammalt - FZ.se
+- Chieftec The Cube: Premium m-ATX PC-chassi med boxig design inspirerad av ljudhögtalare - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Starlink lanserar ett mer prisvärt internetabonnemang på 200 Mbps i hela USA - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-11-24 01:39_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
 
 ## Technology
 
@@ -79,13 +79,13 @@ _Updated: 2025-11-24 01:39_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -119,7 +119,7 @@ _Updated: 2025-11-24 01:39_
 
 ## Science
 
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Olika slutsatser från samma data - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -143,6 +143,7 @@ _Updated: 2025-11-24 01:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -151,14 +152,13 @@ _Updated: 2025-11-24 01:39_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
