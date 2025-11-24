@@ -5,7 +5,7 @@
 This project automatically fetches top news headlines from a news RSS feed and archives them in a GitHub repository by creating timestamped markdown files.
 
 
-## Word Cloud — 2025-11-22
+## Word Cloud — 2025-11-23
 
 ![Word Cloud](https://raw.githubusercontent.com/wklnd/news-archive/main/media/wordcloud-yesterday.png)
 
