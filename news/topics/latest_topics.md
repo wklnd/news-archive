@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 15:09_
+_Updated: 2025-11-24 15:51_
 
 ## Top Stories
 
-- DN Direkt – Reggaeikonen Jimmy Cliff är död - Dagens Nyheter
-- Här är svenska skidtruppen till världscuppremiären i Ruka - Sveriges Radio
-- Europa presenterar motförslag till USA – kräver starkare skydd för Ukraina - Europaportalen
+- Ryska medier: Europas fredsförslag om Ukraina är ”bisarrt” - Dagens Nyheter
 - 23 november 23.09, Explosion, Norrköping - polisen.se
 - Köpte vodka till flickor och våldtog dem – döms - Aftonbladet
 - Insändare Med nya regler kan snart fler unga i Nynäshamn flytta hemifrån – men mer behöver göras - Nynäshamns Posten
+- Sjukhuschef stoppade utredning av sin make - GP
+- Västmanlands polischef åtalas för flera brott - Fagersta-Posten
 - Intagen hittad död i sin cell på anstalten i Kumla - SVT Nyheter
 - Undersökt föremål i Malmö var ofarligt - GP
 - ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
-- Handels backar – slopar krav på högskoleprov - Dagens Nyheter
+- DN Direkt – Tio dagar efter olyckan – alla anhöriga informerade - Dagens Nyheter
 - Generaler straffas efter 7 oktober-attackerna - Västerbottens-Kuriren
 - Flera tonåringar skadade i olycka på Gotland - GP
-- ”Riket”-skådespelaren Udo Kier död - Dagens Nyheter
+- Hemliga besöket – svenska ministrar i Syrien - Expressen
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
 - Black Week drar igång – då varnar polisen för bedrägerier - Breakit
-- Kryptoraset slår hårt mot Trumpfamiljen - Sydsvenskan
-- Bioarctic upp på Novo Nordisk studiemiss – Saab backar - DI
 - Clas Ohlson gör långsiktig investering i distributionscentralen i Insjön - Cision News
+- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - dagensinfrastruktur -
+- Trumpfamiljen miljarder fattigare efter kryptoraset - Omni
 - Steam Machine-priset – som en pc med samma kraft - FZ.se
 - Programmera med AI – så enkelt kommer du igång - PC för Alla
 
@@ -29,24 +29,24 @@ _Updated: 2025-11-24 15:09_
 
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Så blev bastubadandet en global trend - SvD
-- Global produktion på stål minskar - DI
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global produktion på stål minskar - DI
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Hyperscale Data Joins the Global Top 100 Public Bitcoin Treasury Companies with Current Holdings of Approximately 382 Bitcoin - Placera.se
 
 ## Technology
 
@@ -75,12 +75,9 @@ _Updated: 2025-11-24 15:09_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Student and entry-level programs - EY
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -93,16 +90,20 @@ _Updated: 2025-11-24 15:09_
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-11-24 15:09_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
