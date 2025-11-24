@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 20:52_
+_Updated: 2025-11-24 21:38_
 
 ## Top Stories
 
-- USA och Ukraina lägger fram utkast till ny fredsplan - Dagens Nyheter
-- Strömmer till Norrköping efter sprängdåden - SvD
-- Lars Adaktusson gör comeback i KD - Västerbottens-Kuriren
-- SD:s kritik mot SVT efter AI-klipp: Systemfel - GP
-- Kvinna biten av hund i Borlänge – fördes till sjukhus - Expressen
-- Soldat räddade kvinna ur vattnet vid Kungliga slottet - Omni
+- DN Direkt – Strömmer till Norrköping efter sprängdåden - Dagens Nyheter
+- Ukraina och USA överens om 19 fredspunkter - GP
+- Adaktusson gör comeback i KD – har försonats med Busch - Världen idag
+- Efter avslöjande om gängkopplingar – kommunen tar över omstridd tingsrätt - Dagens Nyheter
+- Politiker bar burka – senaten stängdes ner - GP
+- COP30: Ingen färdplan för utfasning av fossila bränslen - Sveriges Natur
 - Försvaret: Ryskt militärt hot ökar till 2030 - Dagens Nyheter
 - Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
-- Frankrike vill sälja krigsfartyg till Sverige - UNT
-- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
+- 24 november 19.58, Trafikolycka, vilt, Norrbottens län - Polisen.se
+- 24 november 07.03, Sammanfattning natt, Norrbottens län - Polisen.se
 - Israel dödar Hizbollahledare i södra Beirut - GP
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
 - Bussolycka norr om Voxna – föraren till sjukhus - Ljusnan
 - Volvo bygger ny fabrik i Eskilstuna – ska tillverka grävmaskiner - SVT Nyheter
-- Gamethrill, Elekta och Verisure – Här är veckans alla rapporter - Finanstid
-- Norbit: Norskt tillväxtunder på djupet - Affärsvärlden
-- Så förbereder du dig inför Black Friday – forskarens tips för smartare konsumtion - Notified
+- Misstankar mot sparkad Intellego-vd har stärkts - Aftonbladet
+- Blankarna fast i Intellego: "Kan kosta vad som helst" - Affärsvärlden
+- Norska teknikbolaget får neutralt råd – stark tillväxt men osäker kortsiktig utveckling - Börskollen
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 - Valve antyder hög prislapp för Steam Machine - Nordichardware
 
@@ -37,16 +37,16 @@ _Updated: 2025-11-24 20:52_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - Travel News
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Global produktion på stål minskar - DI
-- Avlyssningsskandalen växer - Journalisten
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Global produktion på stål minskar - DI
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Avlyssningsskandalen växer - Journalisten
 
 ## Technology
 
@@ -78,7 +78,6 @@ _Updated: 2025-11-24 20:52_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -90,6 +89,7 @@ _Updated: 2025-11-24 20:52_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
@@ -98,16 +98,15 @@ _Updated: 2025-11-24 20:52_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
@@ -116,29 +115,30 @@ _Updated: 2025-11-24 20:52_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-11-24 20:52_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
