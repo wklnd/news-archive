@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-24 16:53_
+_Updated: 2025-11-24 17:52_
 
-- How Trump's 28-point plan for Ukraine shocked the world - Axios
-- Slender Man Waukesha stabbing: assailant Morgan Geyser arrested in Posen, Illinois after fleeing group home, police say - ABC7 Chicago
+- US and Ukraine draft new 19-point peace plan but defer biggest decisions - Financial Times
+- Family of 18-year-old who died on cruise speaks out as stepbrother is named 'suspect' - ABC News
+- Friend of Wisconsin "Slender Man" stabber Morgan Geyser arrested for obstruction after pair captured in Illinois - CBS News
 - G20 declaration in defiance of US marks rare victory for multilateralism - Reuters
-- US senator slams Republicans’ silence on Trump’s violent threats to Democrats - The Guardian
-- Cold snap tied to polar vortex set to threaten Thanksgiving travel - Axios
-- 'Nobody wants to come': What if the U.S. can no longer attract immigrant physicians? - NPR
-- Mamdani reiterates Trump is a ‘fascist’ just days after cordial meeting - The Guardian
-- "Quite frankly I was pissed off!" Growing online page chronicles Trump Justice Dept. resignation letters - CBS News
-- Trump's peace plan for Ukraine. And, why Marjorie Taylor Greene is resigning - NPR
-- Winter storm watch expands south in Minnesota; up to 10 inches of snow possible - Bring Me The News
-- China criticises Japan's plan to deploy missiles on island near Taiwan - Reuters
-- The aftermath of the latest Israeli strikes on Gaza - Al Jazeera
+- Russia keeping "stolen" Ukrainian territory "the main problem" with U.S. peace proposal, Zelenskyy says - CBS News
+- Trump administration formally designates Venezuela’s Maduro as member of a foreign terrorist organization - CNN
+- Missouri judge who wore Elvis Presley wig and played singer's music in court forced to step down - CBS News
+- 'You can’t just talk about gas and groceries’: GOP grapples with housing affordability message - Politico
+- Mamdani still thinks Trump's a fascist, but he'll work with him - Axios
+- The Education Department gave another agency power to distribute money. It hasn’t gone smoothly. - Politico
+- Australian far-right Senator Pauline Hanson slammed for wearing burqa to parliament to demand ban - CBS News
+- Beijing blasts Japan’s ‘extremely dangerous’ missile deployment near Taiwan - South China Morning Post
 - Israeli strike on Beirut kills top Hezbollah military official - The Washington Post
-- ‘Engraved with initials’: Titanic passenger's gold pocket watch sold for 1.78m pounds; memorabilia auctio - Times of India
-- Novo Nordisk Alzheimer's drug trials fail in blow to weight-loss giant - Reuters
+- Thai woman found alive in coffin after being brought in for cremation - AP News
 - Suddenly, the Fed interest rate cut in December looks like it is very much back on the table - Fortune
-- Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google - Business Insider
-- Give thanks for the discounts: the feast will cost a little less this year - NPR
+- Novo Nordisk Alzheimer's drug trials fail in blow to weight-loss giant - Reuters
+- Michael Saylor's MSTR Appears Break Six-Week BTC Buy Streak - CoinDesk
+- Will technology provide a boost to truck drivers — or will it replace them? - NPR
 - Microsoft is speeding up and decluttering File Explorer in Windows 11 - The Verge
-- iOS 27 will reportedly focus on performance improvements and AI upgrades - Engadget
+- OnePlus 15R will get a late launch next month - The Verge
