@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 19:43_
+_Updated: 2025-11-24 20:52_
 
 ## Top Stories
 
-- Anna-Lena Laurén Putinlojal finansman och fixare bakom den rysk-amerikanska fredsplanen - Hufvudstadsbladet
-- DN Direkt – SD vill kalla SVT:s ledning att förklara sig i kulturutskottet - Dagens Nyheter
+- USA och Ukraina lägger fram utkast till ny fredsplan - Dagens Nyheter
+- Strömmer till Norrköping efter sprängdåden - SvD
 - Lars Adaktusson gör comeback i KD - Västerbottens-Kuriren
-- Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
-- DN Direkt – Thunberg utslängd från Venedig - Dagens Nyheter
-- Ryska medier: Europas fredsförslag om Ukraina är ”bisarrt” - Dagens Nyheter
+- SD:s kritik mot SVT efter AI-klipp: Systemfel - GP
+- Kvinna biten av hund i Borlänge – fördes till sjukhus - Expressen
+- Soldat räddade kvinna ur vattnet vid Kungliga slottet - Omni
+- Försvaret: Ryskt militärt hot ökar till 2030 - Dagens Nyheter
 - Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
-- 23 november 23.09, Explosion, Norrköping - polisen.se
-- Intagen hittad död i sin cell på anstalten i Kumla - SVT Nyheter
 - Frankrike vill sälja krigsfartyg till Sverige - UNT
-- Israel dödar Hizbollahledare i södra Beirut - Västerbottens-Kuriren
+- Peter Alestig: Det är inte F-ordet som är viktigast i klimatavtalet – det är O-ordet - Dagens Nyheter
+- Israel dödar Hizbollahledare i södra Beirut - GP
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
 - Bussolycka norr om Voxna – föraren till sjukhus - Ljusnan
-- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
-- Misstankar mot sparkad Intellego-vd har stärkts - Aftonbladet
-- Sverige i täten – en av världens hetaste M&A-marknader - Affärsvärlden
-- Så hög blir den nya ISK-skatten - Tidningen Näringslivet
+- Volvo bygger ny fabrik i Eskilstuna – ska tillverka grävmaskiner - SVT Nyheter
+- Gamethrill, Elekta och Verisure – Här är veckans alla rapporter - Finanstid
+- Norbit: Norskt tillväxtunder på djupet - Affärsvärlden
+- Så förbereder du dig inför Black Friday – forskarens tips för smartare konsumtion - Notified
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 - Valve antyder hög prislapp för Steam Machine - Nordichardware
 
@@ -32,13 +32,13 @@ _Updated: 2025-11-24 19:43_
 - Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - Travel News
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
@@ -103,7 +103,7 @@ _Updated: 2025-11-24 19:43_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -120,25 +120,25 @@ _Updated: 2025-11-24 19:43_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -153,10 +153,10 @@ _Updated: 2025-11-24 19:43_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
