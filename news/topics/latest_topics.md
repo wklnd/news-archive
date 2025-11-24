@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 06:53_
+_Updated: 2025-11-24 07:45_
 
 ## Top Stories
 
-- Ukraina och USA: Nytt fredsramverk efter samtal - GP
-- 23 november 23.09, Explosion, Norrköping - polisen.se
-- Tre till sjukhus efter polisjakt i Mölndal - SVT Nyheter
+- Samtalen mellan USA och Ukraina fortsätter i Genève – utan Rubio - Dagens Nyheter
+- Explosion vid port – dubbla insatser i Norrköping - SvD
 - Här är Trumps bundsförvanter som hamnat ute i kylan - Dagens Nyheter
-- Hizbollah-topp dödad i israelisk attack – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Tre till sjukhus efter polisjakt i Mölndal - SVT Nyheter
 - Han ska hitta Ukrainas 35 000 saknade barn - SvD
+- Hizbollah-topp dödad i israelisk attack – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Steg närmare åtal för motorvägsskredet – konsulter hotas av skadestånd - Dagens Nyheter
 - Avtal klart på COP30 – ingen skrivning om utfasning av fossila bränslen - SVT Nyheter
-- Flera viltolyckor i Norrbotten – inga personskador - NSD
+- Ett antal viltolytckor har rapporterats in till polisens ledningscentral under förmiddagen. - Brottsplatskartan.se
 - Åtal: Våldtog styvdottern nästan 200 gånger i Eslöv – kallar henne ”labbråtta” - Skånska Dagbladet
-- Forskare: Snart fungerar inga antibiotika längre - Omni
-- Avsatte presidentens kandidat verkar vinna - Västerbottens-Kuriren
+- Självmordsbombare utförde attack i Pakistan - Västerbottens-Kuriren
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
-- Leo XIV: Fred är att ta ställning när människans värdighet kränks - Vatican News
-- Darfurs slaktare blev en skuggarmé i krigets Sudan - GP
+- Källor: USA överväger störta Maduros regering – flyg ställs in - Dagens Nyheter
+- Ukrainas försvar granskas efter korruptionshärvan - Omni
+- Ovanligt öppen splittring i Fed inför räntebeslut - Tidningen Näringslivet
+- Så hög blir den nya ISK-skatten - SvD
 - Jätteoffensiv i öst: Audis nya modeller skakar om marknaden - Dagens PS
-- Tekniskt underhåll för Mina sidor kl. 21.00 - 01.00 - CSN
-- Betalade för hög hyra – får tillbaka 175 000 - Aftonbladet
-- Josefin Lilja: Black Friday förmörkar novemberhimlen - Dagen
+- DN Direkt – Optimism inom e-handeln inför Black Week och jul - Dagens Nyheter
 - Chieftec The Cube: Premium m-ATX PC-chassi med boxig design inspirerad av ljudhögtalare - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Starlink lanserar ett mer prisvärt internetabonnemang på 200 Mbps i hela USA - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
 - Så blev bastubadandet en global trend - SvD
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Global produktion på stål minskar - DI
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
-- Röda Korsets svar till Gates: Ingen konflikt mellan klimat och global hälsa - Aktuell Hållbarhet
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Schemat för Global Series-helgen i Sverige - NHL.com
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 
 ## Technology
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-24 06:53_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -152,11 +152,11 @@ _Updated: 2025-11-24 06:53_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
