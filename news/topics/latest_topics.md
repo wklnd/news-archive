@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 00:42_
+_Updated: 2025-11-25 01:40_
 
 ## Top Stories
 
 - Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
-- Strömmer till Norrköping efter sprängdåden - GP
 - Svenskar blev strandsatta på ö i Antarktis - SVT Nyheter
+- Strömmer till Norrköping efter sprängdåden - GP
+- Flyg över Venezuela ställs in – efter USA:s varning - GP
 - Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
-- Kvinna biten av hund i Borlänge – fördes till sjukhus - Expressen
-- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
+- Det hände på COP30 – klimattoppmötet i 10 punkter - Aktuell Hållbarhet
+- Aktivister erkänner aktion på Nationalmuseum - Västerbottens-Kuriren
 - Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
+- Lars Adaktusson gör comeback i KD - Aftonbladet
 - Två chefer sparkas efter hemtjänstskandalen i Uddevalla: ”Inte vidtagits åtgärder” - Arbetet
-- Adaktusson: Därför vill jag tillbaka till riksdagen - Dagen
-- 24 november 07.03, Sammanfattning natt, Norrbottens län - Polisen.se
-- Thailändska skulle kremeras – knackade inifrån kistan - Dagens Nyheter
+- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - Domare ogiltigförklarar åtal mot Comey och James - Aftonbladet
 - ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
 - Emma Bouvin: Hamasledare i Gaza spanar troligen på Hizbollahs nästa drag - Dagens Nyheter
-- Smällen mot småspararna: ”Uppseendeväckande” - EFN
-- Volvo bygger ny fabrik i Eskilstuna – ska tillverka grävmaskiner - SVT Nyheter
-- Så undviker du bluffarna i julhandeln - Senioren
+- Kraftig ökning av falska butiker och bedrägerier inför Black Friday - Computer Sweden
+- Flygbranschen blir hårdare mot stökiga passagerare - Flygtorget
 - Ny rapport ger lägesbild av hur AI förändrar arbetsmarknaden - Fremia
+- Så hög blir den nya ISK-skatten - Tidningen Näringslivet
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 - Plan för reningsverket aktuell igen – träd som den skulle skydda fälls - Frilagt Hässleholm
 
@@ -40,30 +40,30 @@ _Updated: 2025-11-25 00:42_
 - MSC Cruises markerar global infrastrukturvåg - Travel News
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- “Too big to fail” – därför saknas global plan för fossila bränslen - DI
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global produktion på stål minskar - DI
 - Avlyssningsskandalen växer - Journalisten
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -102,7 +102,7 @@ _Updated: 2025-11-25 00:42_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -123,28 +123,27 @@ _Updated: 2025-11-25 00:42_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -157,6 +156,7 @@ _Updated: 2025-11-25 00:42_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
