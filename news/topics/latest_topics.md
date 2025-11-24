@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-24 13:40_
+_Updated: 2025-11-24 15:09_
 
 ## Top Stories
 
-- Intagen hittad död i sin cell på anstalten i Kumla - SVT Nyheter
+- DN Direkt – Reggaeikonen Jimmy Cliff är död - Dagens Nyheter
+- Här är svenska skidtruppen till världscuppremiären i Ruka - Sveriges Radio
 - Europa presenterar motförslag till USA – kräver starkare skydd för Ukraina - Europaportalen
 - 23 november 23.09, Explosion, Norrköping - polisen.se
-- DN Direkt – Rasrisk efter översvämning i bostadsområde i Stockholm - Dagens Nyheter
 - Köpte vodka till flickor och våldtog dem – döms - Aftonbladet
-- Varg förföljde jakthund – skjuten - Västerbottens-Kuriren
-- Handels backar – slopar krav på högskoleprov - Dagens Nyheter
-- Larm om misstänkt föremål i Malmö – var kvarglömd termos - SVT Nyheter
+- Insändare Med nya regler kan snart fler unga i Nynäshamn flytta hemifrån – men mer behöver göras - Nynäshamns Posten
+- Intagen hittad död i sin cell på anstalten i Kumla - SVT Nyheter
+- Undersökt föremål i Malmö var ofarligt - GP
 - ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
-- DN Direkt – Misstänkt farligt föremål i Malmö - Dagens Nyheter
-- EU-ländernas ledare i nytt möte om Ukraina på måndagen - Dagens Nyheter
-- Formella påföljder för generaler efter 7 oktober-attackerna – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Handels backar – slopar krav på högskoleprov - Dagens Nyheter
+- Generaler straffas efter 7 oktober-attackerna - Västerbottens-Kuriren
+- Flera tonåringar skadade i olycka på Gotland - GP
+- ”Riket”-skådespelaren Udo Kier död - Dagens Nyheter
 - Uppgifter: Stökigt vid middag i riksdagen – person utkastad - Aftonbladet
-- Hund fick värma sig på polisstation i Bollnäs - Expressen
 - Black Week drar igång – då varnar polisen för bedrägerier - Breakit
-- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
 - Kryptoraset slår hårt mot Trumpfamiljen - Sydsvenskan
-- Clas Ohlson satsar uppemot 450 miljoner på utbyggnad i Insjön - DI
+- Bioarctic upp på Novo Nordisk studiemiss – Saab backar - DI
+- Clas Ohlson gör långsiktig investering i distributionscentralen i Insjön - Cision News
 - Steam Machine-priset – som en pc med samma kraft - FZ.se
 - Programmera med AI – så enkelt kommer du igång - PC för Alla
 
@@ -40,22 +40,22 @@ _Updated: 2025-11-24 13:40_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 
 ## Technology
 
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Juridisk teknologi som ägs av vietnameser - Vietnam.vn
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -67,9 +67,9 @@ _Updated: 2025-11-24 13:40_
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - OptAI Wins CES 2026 Innovation Award for its AI Optimization Solution, OptHancer - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -84,8 +84,8 @@ _Updated: 2025-11-24 13:40_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -98,12 +98,11 @@ _Updated: 2025-11-24 13:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2025-11-24 13:40_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -152,11 +152,11 @@ _Updated: 2025-11-24 13:40_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
