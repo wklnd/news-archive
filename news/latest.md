@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-24 07:51_
+_Updated: 2025-11-24 08:56_
 
-- U.S. Ukraine say they made "meaningful progress" on Trump's peace plan - Axios
-- Mamdani’s Meeting With Trump Scrambled the MAGA-Sphere - The New York Times
+- U.S., Ukraine agree to change draft of peace plan that appeased Russia - The Washington Post
+- 'Slender Man' stabbing assailant Morgan Geyser taken into custody after fleeing group home: Police - ABC News
+- Mamdani reiterates Trump is a ‘fascist’ just days after cordial meeting - The Guardian
 - G20 summit closes in South Africa after U.S. absence - NPR
 - Transcript: Rep. Jason Crow on "Face the Nation with Margaret Brennan," Nov. 23, 2025 - CBS News
-- US woman behind Slender Man stabbing is missing after leaving group home - The Guardian
-- Israel kills top Hezbollah official in first attack on Beirut in months - BBC
-- Crockett: MTG couldn’t ’take the heat’ from Trump - Politico
+- Trump to push new Republican plan on Obamacare subsidies - Axios
+- Marjorie Taylor Greene rules out run for president after shocking resignation - MassLive.com
+- 14-year-old killed in downtown shooting during Friday ‘teen takover’ identified, his death ruled a homicide - Chicago Tribune
 - Kristi Noem delivers bonus checks to some MSP Airport TSA employees in move union calls "illegal" - CBS News
-- "Quite frankly I was pissed off!" Growing online page chronicles Trump Justice Dept. resignation letters - CBS News
-- A proposal earlier this year sought to sell off public land. In Big Sky Country, Montanans put up a fight. - CBS News
-- Gunfire, explosions at paramilitary HQ in Pakistan’s Peshawar: Reports - Al Jazeera
-- UN warns world losing climate battle but fragile Cop30 deal keeps up the fight - The Guardian
+- DOGE has quietly ceased to exist well ahead of schedule, report says - Fortune
+- Six killed in suicide attack on paramilitary complex in Pakistan’s Peshawar - Al Jazeera
+- Israeli strike on Beirut kills top Hezbollah military official - The Washington Post
+- Budget 2025: What can nervous businesses expect from the Budget? - BBC
 - Fifty kidnapped Catholic school students in Nigeria escape - Reuters
-- Japan 'crossed a red line' with Taiwan military intervention remarks, Chinese foreign minister says - AP News
-- Asian Stocks Poised for Cautiously Upbeat Open: Markets Wrap - Bloomberg.com
+- Stocks rise as traders ramp up bets of December Fed cut - Reuters
 - Wall Street banks scramble to assess fallout from hack of real-estate data firm - KSL.com
-- Qube enters exclusivity deed after Macquarie offers to buy in $7.50 billion deal - Reuters
-- Japan's gamble to turn island of flowers into global chip hub - BBC
-- Google keeps poking holes in Apple’s walled garden, but who’s switching? - 9to5Google
-- Super Mario Odyssey Gets a Big Black Friday Discount With a Free Switch 2 Upgrade - IGN
+- 'It didn't have to be this way' — Top economist warns affordability crisis will continue - Fortune
+- Dow futures rise over 100 points as market attempts rebound into the holiday week: Live updates - CNBC
+- iOS 27 will reportedly focus on performance improvements and AI upgrades - Engadget
+- Apple Quietly Dumps iPad Air on Amazon Only, Selling for Pocket Change Where Early Buyers Won't Look - Kotaku
