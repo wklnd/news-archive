@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 11:45_
+_Updated: 2025-11-25 12:49_
 
 ## Top Stories
 
-- Granskning: Alternativ mördare i Knutbyfallet - SvD
-- Krångel med CSN:s utbetalningar – studenter utan pengar - SVT Nyheter
-- Trots prognos om ännu fler fordon – därför byggs inte E6 ut - Skånska Dagbladet
-- Direkt – Kriget i Ukraina – Kreml: Ryssland håller sig till Trumps ursprungliga fredsplan - Dagens Nyheter
 - Sverige köper nytt luftvärn till armén - SVT Nyheter
-- Svenskar strandsatta på ö i Antarktis - GP
-- Kvinna till sjukhus efter smitningsolycka - UNT
-- Därför lyser Lisebergshjulet och Scandinavium i orange - GP
-- 25 november 07.40, Sammanfattning natt, Norrbottens län - polisen.se
-- DN Direkt – Strömmer till Norrköping efter sprängdåden - Dagens Nyheter
+- Granskning: Alternativ mördare i Knutbyfallet - SvD
+- Trots prognos om ännu fler fordon – därför byggs inte E6 ut - Skånska Dagbladet
 - Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
+- Hovrätten friar misstänkt rysk spion - Aftonbladet
+- Uddevallabron öppen igen - SVT Nyheter
+- Man kritiskt skadad efter arbetsplatsolycka i Österåker - SVT Nyheter
+- Nattens händelser från polisen - Örebronyheter
+- Man allvarligt skadad efter brand - Västerbottens-Kuriren
+- DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
+- Direkt – Kriget i Ukraina – Kreml: Ryssland håller sig till Trumps ursprungliga fredsplan - Dagens Nyheter
+- Samkönade äktenskap måste erkännas i hela EU - Västerbottens-Kuriren
+- Politiker bar burka i parlamentet – blev avstängd - Dagens Nyheter
 - Ryssland och Ukraina i samtal - Expressen
-- Uddevallabron stängs av efter risk för fallande is - Expressen
-- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
-- Rekordhöga elpriser i syd – nära fem kronor - SvD
+- Rekordhöga elpriser i syd – nära fem kronor - Tidningen Näringslivet
 - Svenskarnas fondförmögenhet på ny rekordnivå - DI
-- Ny betaltjänst med Swish lanseras - Aftonbladet
-- Sänkta riktkurser för Novo Nordisk efter studiebesvikelse, SHB tror kursraset beror på prognos - Börsvärlden
+- Bakslaget för Novo Nordisk – semaglutid bromsar inte Alzheimers - Svensk Farmaci
+- Krångel med CSN:s utbetalningar – studenter utan pengar - SVT Nyheter
 - Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
-- TCLs charmiga jättemobil faller på batteritiden - m3.se
+- Peak Design Pro – ny serie professionella stativ i kolfiber - Kamera & Bild
 
 ## World News
 
@@ -39,24 +39,24 @@ _Updated: 2025-11-25 11:45_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -98,24 +98,24 @@ _Updated: 2025-11-25 11:45_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2025-11-25 11:45_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
