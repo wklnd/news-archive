@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-25 15:53_
+_Updated: 2025-11-25 16:51_
 
+- Ukraine agrees to peace proposal, with only "minor details" to settle, official says, but no word from Russia - CBS News
 - Judge Tosses Criminal Charges Against James Comey and Letitia James - The New York Times
-- US official says Ukrainian delegation has agreed on terms of potential peace deal - ABC News
 - Republicans balk at Trump’s health care proposal before it’s even released - CNN
 - New limits on school loans could narrow physician and nurse pipeline, educators warn - NPR
 - What happens next for Marjorie Taylor Greene after exit from Congress? - BBC
-- 6 dead as Russian missiles 'rain down' in Kyiv, Ukrainian officials say - ABC News
+- Trump Administration Is Taking Billions in Stakes in Firms Like Intel - The New York Times
 - Trump’s Mamdani embrace complicates Elise Stefanik’s path to governor - Politico
-- Ukraine agrees to peace proposal, with only "minor details" to settle, official says, but no word from Russia - CBS News
-- Drugs soaked into pages of "Hillbilly Elegy" were snuck into Ohio prison - CBS News
-- Higher snowfall and winds possible for Twin Cities area Tuesday night - MPR News
-- Taiwan Pleased Trump Didn’t Mention Island in Readout of Xi Call - Bloomberg.com
-- China launches Shenzhou 22 spacecraft to assist in return of 3 stranded astronauts - NPR
-- Same-sex marriage must be recognized across EU, court rules - DW
-- 2 climbers die and 2 more rescued on New Zealand’s highest peak - AP News
+- ‘An American nightmare’: L.A. hosts first congressional hearing on effect of immigration raids - Los Angeles Times
+- Winter Storm Watch expands into Lower Michigan, now 16 counties including Traverse City, Cadillac - MLive.com
+- Drugs sneaked into Ohio prison soaked into the pages of ‘Hillbilly Elegy’ - AP News
+- Russia Bombards Kyiv Even as Ukraine Claims Progress in Peace Talks - The New York Times
+- Paris prosecutor reports 4 more arrests in connection with Louvre jewel heist - AP News
+- China’s Xi Calls Trump in Unusual Move to Discuss Taiwan, Ukraine - The Wall Street Journal
+- German 'hammer gang' trial for seven accused of extreme-left violence - BBC
+- Best Buy hikes sales forecast as shoppers upgrade tech, splurge on devices - CNBC
 - We're shopping our feelings this Black Friday. Here are 3 things to know - NPR
 - Abercrombie shares soar 18% on Hollister growth, strong earnings beat - CNBC
-- Best Buy hikes sales forecast as shoppers upgrade tech, splurge on devices - CNBC
 - Fed Chair Powell’s Allies Provide Opening for December Rate Cut - The Wall Street Journal
 - Walmart Black Friday deals include the AirPods Pro 2 for their lowest price yet - Engadget
-- Google says Gemini isn’t trained on Gmail, pushing back on ‘misleading reports’ - 9to5Google
+- Around 100 iPhone Folds made after ‘breakthrough’ in eliminating the crease - 9to5Mac
