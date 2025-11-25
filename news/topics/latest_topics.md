@@ -1,65 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 10:51_
+_Updated: 2025-11-25 11:45_
 
 ## Top Stories
 
-- Rekordhöga elpriser i syd – nära fem kronor - SvD
-- Granskning: Alternativ mördare i Knutbyfallet - Hufvudstadsbladet
-- Direkt – Kriget i Ukraina – Kreml: Ryssland håller sig till Trumps ursprungliga fredsplan - Dagens Nyheter
+- Granskning: Alternativ mördare i Knutbyfallet - SvD
+- Krångel med CSN:s utbetalningar – studenter utan pengar - SVT Nyheter
 - Trots prognos om ännu fler fordon – därför byggs inte E6 ut - Skånska Dagbladet
-- Svenskar strandsatta på Antarktisö - SVT Nyheter
-- Dödliga attacker i Ukraina och Ryssland - GP
-- DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
+- Direkt – Kriget i Ukraina – Kreml: Ryssland håller sig till Trumps ursprungliga fredsplan - Dagens Nyheter
+- Sverige köper nytt luftvärn till armén - SVT Nyheter
+- Svenskar strandsatta på ö i Antarktis - GP
+- Kvinna till sjukhus efter smitningsolycka - UNT
+- Därför lyser Lisebergshjulet och Scandinavium i orange - GP
 - 25 november 07.40, Sammanfattning natt, Norrbottens län - polisen.se
 - DN Direkt – Strömmer till Norrköping efter sprängdåden - Dagens Nyheter
-- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
 - Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
+- Ryssland och Ukraina i samtal - Expressen
 - Uddevallabron stängs av efter risk för fallande is - Expressen
-- Presidenten terrorstämplas av USA – konflikten trappas upp - Dagens PS
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
-- Handelsbanken och SEB lanserar en ny betaltjänst med Swish - Aftonbladet
-- DN Direkt – Europeisk bilförsäljning stiger – Tesla rasar - Dagens Nyheter
-- Volvo CE bygger ny fabrik i Eskilstuna – ska tillverka grävmaskiner - SVT Nyheter
-- SHB: Marknadsoro för nästa prognos sänkte Novo Nordisk - DI
+- Rekordhöga elpriser i syd – nära fem kronor - SvD
+- Svenskarnas fondförmögenhet på ny rekordnivå - DI
+- Ny betaltjänst med Swish lanseras - Aftonbladet
+- Sänkta riktkurser för Novo Nordisk efter studiebesvikelse, SHB tror kursraset beror på prognos - Börsvärlden
+- Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
 - TCLs charmiga jättemobil faller på batteritiden - m3.se
-- Samsung vänder sig till LG-partner för att testa kommande Galaxy S26 Exynos-chip - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
 - DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
 - Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
-- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- MSC Cruises markerar global infrastrukturvåg - Travel News
+- Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Avlyssningsskandalen växer - Journalisten
-- Resepriserna i Europa stiger trots global nedgång - Travel News
-- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
-- Hyperscale Data Joins the Global Top 100 Public Bitcoin Treasury Companies with Current Holdings of Approximately 382 Bitcoin - Placera.se
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -75,41 +75,41 @@ _Updated: 2025-11-25 10:51_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -120,7 +120,6 @@ _Updated: 2025-11-25 10:51_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
@@ -130,15 +129,16 @@ _Updated: 2025-11-25 10:51_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
