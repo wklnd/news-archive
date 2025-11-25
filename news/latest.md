@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-25 13:48_
+_Updated: 2025-11-25 15:21_
 
-- "Malevolence": James Comey warns Trump's revenge push isn't over - Axios
-- What to Know About Trump’s Peace Plan for Russia and Ukraine - The New York Times
-- US holds secret meetings with Russians in Abu Dhabi on Ukraine - ABC News
-- Pentagon threatens US Senator Mark Kelly with legal action over ‘seditious’ video - Financial Times
-- 6 dead as Russian missiles 'rain down' in Kyiv, Ukrainian officials say - ABC News
+- Judge Tosses Criminal Charges Against James Comey and Letitia James - The New York Times
+- US official says Ukrainian delegation has agreed on terms of potential peace deal - ABC News
+- U.S. ready to cut support to Scouts, accusing them of attacking 'boy-friendly spaces' - NPR
 - Republicans balk at Trump’s health care proposal before it’s even released - CNN
+- Pentagon says it’s investigating Arizona Sen. Mark Kelly after video urging troops to defy ‘illegal orders’ - PBS
+- Trump Administration Is Taking Billions in Stakes in Firms Like Intel - The New York Times
 - Trump’s Mamdani embrace complicates Elise Stefanik’s path to governor - Politico
-- What happens next for Marjorie Taylor Greene after exit from Congress? - BBC
-- Gramma the Galápagos tortoise, oldest resident of San Diego Zoo, dies at about 141 - CNN
-- Drugs sneaked into Ohio prison soaked into the pages of ‘Hillbilly Elegy’ - AP News
+- How Marjorie Taylor Greene Locked In Her Taxpayer-Funded Pension For Life - Forbes
+- Drugs soaked into pages of "Hillbilly Elegy" were snuck into Ohio prison - CBS News
+- Higher snowfall and winds possible for Twin Cities area Tuesday night - MPR News
+- 6 dead as Russian missiles 'rain down' in Kyiv, Ukrainian officials say - ABC News
 - Taiwan Pleased Trump Didn’t Mention Island in Readout of Xi Call - Bloomberg.com
 - China launches Shenzhou 22 spacecraft to assist in return of 3 astronauts stranded on space station - AP News
-- 2 climbers die and 2 more rescued on New Zealand’s highest peak - AP News
-- Italy's Campi Flegrei supervolcano is stirring. Could this seismic giant soon erupt? - NPR
-- Alphabet’s Rally Threatens World’s Most Valuable Stock Standings - Bloomberg.com
-- Stocks get boost from rising chances of Fed cut; dollar steady - Reuters
-- Tyson’s beef plant closure in Nebraska will impact a reliant town and ranchers nationwide - AP News
+- EU court says same sex marriage should be recognised throughout bloc - Reuters
 - We're shopping our feelings this Black Friday. Here are 3 things to know - NPR
-- New rumor makes ‘iPhone Ultra’ foldable next year seem more likely - 9to5Mac
+- Fed Chair Powell’s Allies Provide Opening for December Rate Cut - The Wall Street Journal
+- Abercrombie shares soar 18% on Hollister growth, strong earnings beat - CNBC
+- Best Buy hikes sales forecast as shoppers upgrade tech, splurge on devices - CNBC
 - Google says Gemini isn’t trained on Gmail, pushing back on ‘misleading reports’ - 9to5Google
+- Microsoft is speeding up and decluttering File Explorer in Windows 11 - The Verge
