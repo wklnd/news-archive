@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 05:36_
+_Updated: 2025-11-25 06:47_
 
 ## Top Stories
 
 - Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
-- Flyg över Venezuela ställs in – efter USA:s varning - GP
 - Svenskar blev strandsatta på ö i Antarktis - SVT Nyheter
-- FN: 50 000 kvinnor dödades av någon i sin närhet förra året - Expressen
-- Efter sprängningarna: Trygghetsfrågor dominerade debatten - NT
-- Sjukhuschef stoppade utredning av sin make - Dagens Medicin
-- Ewa Stenberg: ÖB satsar allt på Nato – men vad händer om USA sviker? - Dagens Nyheter
-- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
-- Insändare: Mäns våld mot kvinnor pågår dygnet runt - VF
-- Viltskador mäts med drönare och AI: ”Objektiv och mätbar metod” - Svensk Jakt
-- Ukraina: Flera skadade i attack mot Kiev - GP
-- DN Direkt – Bolsonaro: ”Paranoia” fick mig att manipulera fotbojan - Dagens Nyheter
+- 6 frågetecken i Knutbydramat - Aftonbladet
+- Unga gängmördare ska kartläggas - SvD
+- Man allvarligt skadad efter brand - GP
+- Hanna Hellquist: Plötsligt känns min värdelösa livmoder som en välsignelse - Dagens Nyheter
+- Aktivister erkänner aktion på Nationalmuseum - GP
+- Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
+- 23 november 23.09, Explosion, Norrköping - polisen.se
+- DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
+- Talibanstyret: Tio döda i attacker - Aftonbladet
 - Sudans paramilitära RSF utropar ensidig vapenvila - SVT Nyheter
-- USA med digitalt tryck på EU - GP
+- Uppgift: Trumps attacker – för att hämnas förlust - Aftonbladet
+- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - Eklund: Bolåneräntan att slå till på - Privata Affärer
 - Så hög blir den nya ISK-skatten - Tidningen Näringslivet
 - E.ON ökar satsningen på flexibilitetsmarknader till 25 miljoner – och gör det enklare för fler att delta - Via TT
 - Satsade 510 miljoner på långtidsarbetslösa – gav 84 jobb: ”Missnöjd” - Aftonbladet
+- Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
 - Samsung vänder sig till LG-partner för att testa kommande Galaxy S26 Exynos-chip - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Oneplus lanserar ny mobil, surfplatta och klocka - mobil.se
 
 ## World News
 
@@ -33,43 +33,43 @@ _Updated: 2025-11-25 05:36_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Resepriserna i Europa stiger trots global nedgång - Travel News
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- “Too big to fail” – därför saknas global plan för fossila bränslen - DI
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - Travel News
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Global produktion på stål minskar - DI
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
+- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Oron: Då tar datan på internet slut - SvD
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -83,11 +83,11 @@ _Updated: 2025-11-25 05:36_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -101,8 +101,8 @@ _Updated: 2025-11-25 05:36_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -144,7 +144,6 @@ _Updated: 2025-11-25 05:36_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -153,6 +152,7 @@ _Updated: 2025-11-25 05:36_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
