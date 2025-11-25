@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 18:52_
+_Updated: 2025-11-25 19:43_
 
 ## Top Stories
 
 - Intensiva förhandlingar om fred i Ukraina - Västerbottens-Kuriren
-- Polis använde elchockvapen mot 13-åring – döms för misshandel - SVT Nyheter
-- DN Direkt – Grävjournalisten Tomas Bresky är död - Dagens Nyheter
-- Fyra till sjukhus efter frontalkrock i Sjöbo – en allvarligt skadad - Skånska Dagbladet
-- GHF lägger ned: ”En otroligt destruktiv kraft” - SvD
-- Höjning av Västtrafiks biljettpriser skjuts upp - GP
 - Knutby-åklagaren: ”Kommer gå igenom utredningen på nytt” - SVT Nyheter
+- Polis döms för misshandel av 13-åring i Mariestad – blir av med jobbet - Mariestads-Tidningen
+- Fyra till sjukhus efter frontalkrock i Sjöbo – en allvarligt skadad - Skånska Dagbladet
+- DN Direkt – Grävjournalisten Tomas Bresky är död - Dagens Nyheter
+- GHF lägger ned: ”En otroligt destruktiv kraft” - SvD
+- Utskottet röstar nej till avskaffat karensavdrag - Dagens Arena
 - DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
-- 25 november 07.40, Sammanfattning natt, Norrbottens län - Polisen.se
 - Vindkantring i klimatfrågan - Kvartal
-- Media advisory - Informal video conference of foreign affairs ministers of 26 November 2025 - consilium.europa.eu
-- Många döda i översvämning i Thailand - GP
-- Samkönade äktenskap måste erkännas i hela EU - Aftonbladet
+- Köper nytt luftvärnssystem för miljarder: ”Kraftfull förstärkning” - Expressen
+- Senator dök upp i burka – stängs av - Västerbottens-Kuriren
 - Clas Ohlson återkallar krok – risk för fallskador - Expressen
-- Nygamla chipet hotar Nvidias AI-dominans - DI
-- Investerarens varning: ”Pannkaka om du sprinklar AI på allt” - Dagens Nyheter
+- Tur för Europa och Ukraina att Marco Rubio finns - Expressen
+- Många döda i översvämning i Thailand - GP
+- Nvidia blöder pengar – sämsta börsdagen på länge för halvledarjätten - Aftonbladet
 - Åklagaren nedringd av småsparare i Intellego: ”Blockerar telefonen” - EFN.se
-- Svenskarnas fondförmögenhet på ny rekordnivå - DI
+- Investerarens varning: ”Pannkaka om du sprinklar AI på allt” - Dagens Nyheter
+- Kicks timer vilseledde kunder – kan vara olagligt - Omni
 - Medicinsk sekreterare Klinisk Patologi - Region Kalmar Län
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
 
@@ -52,7 +52,6 @@ _Updated: 2025-11-25 18:52_
 
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -60,15 +59,16 @@ _Updated: 2025-11-25 18:52_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
@@ -79,13 +79,11 @@ _Updated: 2025-11-25 18:52_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,6 +91,8 @@ _Updated: 2025-11-25 18:52_
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
