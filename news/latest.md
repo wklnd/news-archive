@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-25 19:50_
+_Updated: 2025-11-25 20:54_
 
 - Zelensky ready to meet Trump over Thanksgiving on Ukraine-Russia deal - Axios
-- US official says Ukrainian delegation has agreed with US on terms of potential peace deal - ABC News
+- FBI probes congressional Democrats who warned military about illegal orders - Reuters
 - Johnson told White House that Republicans aren't interested in extending ACA subsidies, sources say - CBS News
+- Live updates: Trump to pardon turkeys ahead of Thanksgiving - BBC
 - U.S. Rep. Marjorie Taylor Greene’s resignation could lead to ‘dominos falling’ under Gold Dome - Georgia Recorder
-- Images of dog rescuing cat in Thai floods likely used AI, expert says - BBC
-- Lindsey Halligan is disqualified — but there are major questions about what comes next - Politico
-- Trump’s Mamdani embrace complicates Elise Stefanik’s path to governor - Politico
-- FBI seeks interviews with congressional Democrats who warned military about illegal orders, official says - Reuters
-- Winter Storm Watch expands into Lower Michigan, now 16 counties including Traverse City, Cadillac - MLive.com
+- 6 dead as Russian missiles 'rain down' in Kyiv, Ukrainian officials say - ABC News
+- Trump Live Updates: James Comey and Letitia James Cases, Ukraine Peace Talks and More - The New York Times
+- Live updates: Thanksgiving holiday travel kicks off - CNN
+- Killer identified half a century after young mom murdered in her home, New Hampshire authorities say - CBS News
 - A storm will give these states a snowy Thanksgiving - The Washington Post
 - 4 more arrested in $102M Louvre jewel heist, Paris prosecutor says - AP News
 - Australian Senator Suspended for Burqa-Wearing Stunt in Parliament - The New York Times
-- Israel says Red Cross receives remains of deceased Gaza captive - Al Jazeera
-- Starmer apologises for leading pupils in 6-7 dance - BBC
-- Consumer confidence hits lowest point since April as job worries grow - CNBC
+- Israel receives coffin that Hamas says contains Gaza hostage's body - BBC
+- Italian man ‘dressed as dead mother in order to claim her pension’ - The Guardian
 - Stock Market Today: Nasdaq Sinks; Nvidia Drops as Alphabet Rallies on AI Chip Rivalry — Live Updates - The Wall Street Journal
-- 2 reasons the latest bitcoin meltdown will be harder to recover from than prior crashes - Business Insider
+- Consumer confidence hits lowest point since April as job worries grow - CNBC
 - Sellers are taking their homes off the market at the fastest pace in nearly a decade - CNBC
+- Bitcoin Traders See Signs of Selloff Easing as Token Steadies - Bloomberg.com
 - Huge discounts hit iPad, iPad Air, and more for Black Friday (from $274) - 9to5Mac
 - Aluminium OS will be Google’s take on Android for PC - The Verge
