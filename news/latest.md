@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-25 20:54_
+_Updated: 2025-11-25 21:48_
 
+- FBI plans to interview Sen. Mark Kelly, other Democrats Trump accused of seditious behavior: reports - CNBC
 - Zelensky ready to meet Trump over Thanksgiving on Ukraine-Russia deal - Axios
-- FBI probes congressional Democrats who warned military about illegal orders - Reuters
-- Johnson told White House that Republicans aren't interested in extending ACA subsidies, sources say - CBS News
+- US official says Ukrainian delegation has agreed with US on terms of potential peace deal - ABC News
 - Live updates: Trump to pardon turkeys ahead of Thanksgiving - BBC
 - U.S. Rep. Marjorie Taylor Greene’s resignation could lead to ‘dominos falling’ under Gold Dome - Georgia Recorder
-- 6 dead as Russian missiles 'rain down' in Kyiv, Ukrainian officials say - ABC News
+- U.S. plans to cut ties with Boy Scouts. And, Comey and James' criminal cases dismissed - NPR
 - Trump Live Updates: James Comey and Letitia James Cases, Ukraine Peace Talks and More - The New York Times
-- Live updates: Thanksgiving holiday travel kicks off - CNN
-- Killer identified half a century after young mom murdered in her home, New Hampshire authorities say - CBS News
+- Exclusive | Speaker Johnson Warns White House GOP Is Wary of Trump’s Healthcare Push - The Wall Street Journal
 - A storm will give these states a snowy Thanksgiving - The Washington Post
+- Mark Kelly: call for troops to disobey illegal orders is ‘non-controversial’ - The Guardian
 - 4 more arrested in $102M Louvre jewel heist, Paris prosecutor says - AP News
-- Australian Senator Suspended for Burqa-Wearing Stunt in Parliament - The New York Times
-- Israel receives coffin that Hamas says contains Gaza hostage's body - BBC
 - Italian man ‘dressed as dead mother in order to claim her pension’ - The Guardian
-- Stock Market Today: Nasdaq Sinks; Nvidia Drops as Alphabet Rallies on AI Chip Rivalry — Live Updates - The Wall Street Journal
+- Australian Senator Pauline Hanson banned from parliament for 7 days for wearing burqa to demand they be banned - CBS News
+- Even the U.K. Prime Minister Can’t Resist ‘6-7’ - The New York Times
+- Nvidia shares fall on signs Google gaining upper hand in AI - Financial Times
 - Consumer confidence hits lowest point since April as job worries grow - CNBC
-- Sellers are taking their homes off the market at the fastest pace in nearly a decade - CNBC
-- Bitcoin Traders See Signs of Selloff Easing as Token Steadies - Bloomberg.com
+- New limits for a rent algorithm that prosecutors say let landlords drive up prices - AP News
+- What Dick's Sporting Goods' earnings report tells us about Nike's turnaround - CNBC
 - Huge discounts hit iPad, iPad Air, and more for Black Friday (from $274) - 9to5Mac
 - Aluminium OS will be Google’s take on Android for PC - The Verge
