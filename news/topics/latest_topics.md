@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 12:49_
+_Updated: 2025-11-25 13:40_
 
 ## Top Stories
 
-- Sverige köper nytt luftvärn till armén - SVT Nyheter
+- USA och Ukraina enades om 19-punktsplan – känsliga frågor lämnas åt Trump och Zelenskyj - Europaportalen
 - Granskning: Alternativ mördare i Knutbyfallet - SvD
-- Trots prognos om ännu fler fordon – därför byggs inte E6 ut - Skånska Dagbladet
-- Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
-- Hovrätten friar misstänkt rysk spion - Aftonbladet
-- Uddevallabron öppen igen - SVT Nyheter
-- Man kritiskt skadad efter arbetsplatsolycka i Österåker - SVT Nyheter
-- Nattens händelser från polisen - Örebronyheter
-- Man allvarligt skadad efter brand - Västerbottens-Kuriren
-- DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
-- Direkt – Kriget i Ukraina – Kreml: Ryssland håller sig till Trumps ursprungliga fredsplan - Dagens Nyheter
-- Samkönade äktenskap måste erkännas i hela EU - Västerbottens-Kuriren
-- Politiker bar burka i parlamentet – blev avstängd - Dagens Nyheter
-- Ryssland och Ukraina i samtal - Expressen
-- Rekordhöga elpriser i syd – nära fem kronor - Tidningen Näringslivet
-- Svenskarnas fondförmögenhet på ny rekordnivå - DI
-- Bakslaget för Novo Nordisk – semaglutid bromsar inte Alzheimers - Svensk Farmaci
 - Krångel med CSN:s utbetalningar – studenter utan pengar - SVT Nyheter
+- DN Direkt – Många döda i översvämning i Thailand - Dagens Nyheter
+- Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
+- Politiker bar burka i parlamentet – blev avstängd - Dagens Nyheter
+- DN Direkt – Försvarsministern: 3,5 miljarder till luftvärnssystem - Dagens Nyheter
+- Man kritiskt skadad efter arbetsplatsolycka i Österåker - SVT Nyheter
+- Svenskar i majoritet bland Danmarks gängtorpeder - Västerbottens-Kuriren
+- Nattens händelser från polisen - Örebronyheter
+- Samkönade äktenskap måste erkännas i hela EU - Västerbottens-Kuriren
+- Misstänktes vara rysk spion – frias även i hovrätten - Expressen
+- Presidenten terrorstämplas av USA – konflikten trappas upp - Dagens PS
+- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
+- Rekordhöga elpriser i syd – nära fem kronor - SvD
+- Svenskarnas fondförmögenhet på ny rekordnivå - DI
+- Volvo Cars dotterbolag läggs ned – över 200 anställda varslas - Metal Supply
+- Ny betaltjänst med Swish lanseras - Aftonbladet
 - Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
-- Peak Design Pro – ny serie professionella stativ i kolfiber - Kamera & Bild
+- Klimatet får glaciärer i fjällen att krympa - Västerbottens-Kuriren
 
 ## World News
 
 - DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
 - Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -55,11 +55,12 @@ _Updated: 2025-11-25 12:49_
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-11-25 12:49_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -100,7 +100,6 @@ _Updated: 2025-11-25 12:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
@@ -111,34 +110,35 @@ _Updated: 2025-11-25 12:49_
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
