@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 01:40_
+_Updated: 2025-11-25 04:20_
 
 ## Top Stories
 
 - Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
-- Svenskar blev strandsatta på ö i Antarktis - SVT Nyheter
-- Strömmer till Norrköping efter sprängdåden - GP
+- Svenskar strandsatta på ö i Antarktis - GP
 - Flyg över Venezuela ställs in – efter USA:s varning - GP
-- Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
-- Det hände på COP30 – klimattoppmötet i 10 punkter - Aktuell Hållbarhet
-- Aktivister erkänner aktion på Nationalmuseum - Västerbottens-Kuriren
-- Röstsedlar förstördes – nu blir det omval i Vårgårda pastorat - SVT Nyheter
-- Lars Adaktusson gör comeback i KD - Aftonbladet
+- Strömmer till Norrköping efter sprängdåden - Folkbladet
+- FN: 50 000 kvinnor dödades av någon i sin närhet - SvD
+- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
+- Aktivister erkänner aktion på Nationalmuseum - GP
+- Ewa Stenberg: ÖB satsar allt på Nato – men vad händer om USA sviker? - Dagens Nyheter
+- Insändare: Mäns våld mot kvinnor pågår dygnet runt - VF
 - Två chefer sparkas efter hemtjänstskandalen i Uddevalla: ”Inte vidtagits åtgärder” - Arbetet
+- Direkt – Kriget i Ukraina – AFP: Kraftfulla explosioner i Kiev - Dagens Nyheter
+- DN Direkt – Bolsonaro: ”Paranoia” fick mig att manipulera fotbojan - Dagens Nyheter
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - Domare ogiltigförklarar åtal mot Comey och James - Aftonbladet
-- ÖB varnar: Politisk polarisering ”godisaffär” för Putin - Expressen
-- Emma Bouvin: Hamasledare i Gaza spanar troligen på Hizbollahs nästa drag - Dagens Nyheter
-- Kraftig ökning av falska butiker och bedrägerier inför Black Friday - Computer Sweden
-- Flygbranschen blir hårdare mot stökiga passagerare - Flygtorget
-- Ny rapport ger lägesbild av hur AI förändrar arbetsmarknaden - Fremia
+- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
+- Eklund: Bolåneräntan att slå till på - Privata Affärer
+- Misstankar mot sparkad Intellego-vd har stärkts - Västerbottens-Kuriren
 - Så hög blir den nya ISK-skatten - Tidningen Näringslivet
+- Oneplus lanserar ny mobil, surfplatta och klocka - mobil.se
 - Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
-- Plan för reningsverket aktuell igen – träd som den skulle skydda fälls - Frilagt Hässleholm
 
 ## World News
 
 - DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
-- Så blev bastubadandet en global trend - SvD
 - Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
-- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -41,12 +40,13 @@ _Updated: 2025-11-25 01:40_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Global produktion på stål minskar - DI
 - Avlyssningsskandalen växer - Journalisten
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
 
 ## Technology
 
@@ -61,6 +61,7 @@ _Updated: 2025-11-25 01:40_
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Oron: Då tar datan på internet slut - SvD
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-11-25 01:40_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -78,6 +78,7 @@ _Updated: 2025-11-25 01:40_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -89,10 +90,9 @@ _Updated: 2025-11-25 01:40_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -101,8 +101,8 @@ _Updated: 2025-11-25 01:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -120,25 +120,25 @@ _Updated: 2025-11-25 01:40_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
