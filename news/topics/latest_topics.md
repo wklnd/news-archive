@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 09:40_
+_Updated: 2025-11-25 10:51_
 
 ## Top Stories
 
-- Bilförsäljningen i EU ökar – Teslaraset fortsätter - DI
-- Granskning: Alternativ mördare i Knutbyfallet - SvD
+- Rekordhöga elpriser i syd – nära fem kronor - SvD
+- Granskning: Alternativ mördare i Knutbyfallet - Hufvudstadsbladet
+- Direkt – Kriget i Ukraina – Kreml: Ryssland håller sig till Trumps ursprungliga fredsplan - Dagens Nyheter
 - Trots prognos om ännu fler fordon – därför byggs inte E6 ut - Skånska Dagbladet
-- Dödliga attacker i Ukraina och Ryssland - Hufvudstadsbladet
 - Svenskar strandsatta på Antarktisö - SVT Nyheter
-- Direkt – Kriget i Ukraina – Fredssamtal mellan USA och Ryssland i Abu Dhabi - Dagens Nyheter
+- Dödliga attacker i Ukraina och Ryssland - GP
 - DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
 - 25 november 07.40, Sammanfattning natt, Norrbottens län - polisen.se
 - DN Direkt – Strömmer till Norrköping efter sprängdåden - Dagens Nyheter
-- Hanna Hellquist: Plötsligt känns min värdelösa livmoder som en välsignelse - Dagens Nyheter
+- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
 - Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
-- Uppgift: Trumps attacker – för att hämnas förlust - Aftonbladet
+- Uddevallabron stängs av efter risk för fallande is - Expressen
+- Presidenten terrorstämplas av USA – konflikten trappas upp - Dagens PS
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
-- Domare ogiltigförklarar åtal mot Comey och James - Aftonbladet
-- Rekordhöga elpriser i syd – nära fem kronor - SvD
-- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
+- Handelsbanken och SEB lanserar en ny betaltjänst med Swish - Aftonbladet
+- DN Direkt – Europeisk bilförsäljning stiger – Tesla rasar - Dagens Nyheter
+- Volvo CE bygger ny fabrik i Eskilstuna – ska tillverka grävmaskiner - SVT Nyheter
 - SHB: Marknadsoro för nästa prognos sänkte Novo Nordisk - DI
-- Han satsade hela pensionen på krypto – nu är livet förstört - Dagens PS
-- Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
+- TCLs charmiga jättemobil faller på batteritiden - m3.se
 - Samsung vänder sig till LG-partner för att testa kommande Galaxy S26 Exynos-chip - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
@@ -30,36 +30,35 @@ _Updated: 2025-11-25 09:40_
 - DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
 - Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
+- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- MSC Cruises markerar global infrastrukturvåg - Travel News
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Avlyssningsskandalen växer - Journalisten
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- S&P Global Introduces S&P Global Energy - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - Travel News
 - AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
 - Hyperscale Data Joins the Global Top 100 Public Bitcoin Treasury Companies with Current Holdings of Approximately 382 Bitcoin - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-25 09:40_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -99,17 +99,17 @@ _Updated: 2025-11-25 09:40_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -152,7 +152,7 @@ _Updated: 2025-11-25 09:40_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -160,5 +160,5 @@ _Updated: 2025-11-25 09:40_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
