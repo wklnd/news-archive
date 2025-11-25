@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 06:47_
+_Updated: 2025-11-25 07:44_
 
 ## Top Stories
 
-- Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
-- Svenskar blev strandsatta på ö i Antarktis - SVT Nyheter
-- 6 frågetecken i Knutbydramat - Aftonbladet
+- Direkt – Kriget i Ukraina – AFP: Kraftfulla explosioner i Kiev - Dagens Nyheter
+- Knutby: Sex, död och Kristi Brud - Aftonbladet
+- Talibanstyret: Tio döda i attacker - Folkbladet
+- En person allvarligt skadad efter brand i Helsingborg - SVT Nyheter
 - Unga gängmördare ska kartläggas - SvD
-- Man allvarligt skadad efter brand - GP
 - Hanna Hellquist: Plötsligt känns min värdelösa livmoder som en välsignelse - Dagens Nyheter
-- Aktivister erkänner aktion på Nationalmuseum - GP
 - Försvarsmaktens överväganden inför framtidens militära försvar - Försvarsmakten
 - 23 november 23.09, Explosion, Norrköping - polisen.se
 - DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
-- Talibanstyret: Tio döda i attacker - Aftonbladet
-- Sudans paramilitära RSF utropar ensidig vapenvila - SVT Nyheter
-- Uppgift: Trumps attacker – för att hämnas förlust - Aftonbladet
+- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
+- Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ryssland: Icke-konstruktiva förslag från europeiska länder - Dagens Nyheter
 - Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
+- Svenskar blev strandsatta på ö i Antarktis - Expressen
 - Eklund: Bolåneräntan att slå till på - Privata Affärer
 - Så hög blir den nya ISK-skatten - Tidningen Näringslivet
 - E.ON ökar satsningen på flexibilitetsmarknader till 25 miljoner – och gör det enklare för fler att delta - Via TT
-- Satsade 510 miljoner på långtidsarbetslösa – gav 84 jobb: ”Missnöjd” - Aftonbladet
+- Kraftig ökning av falska butiker och bedrägerier inför Black Friday - Computer Sweden
 - Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
 - Samsung vänder sig till LG-partner för att testa kommande Galaxy S26 Exynos-chip - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
@@ -31,31 +31,31 @@ _Updated: 2025-11-25 06:47_
 - Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - Travel News
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- “Too big to fail” – därför saknas global plan för fossila bränslen - DI
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Avlyssningsskandalen växer - Journalisten
 - Global produktion på stål minskar - DI
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Resepriserna i Europa stiger trots global nedgång - Travel News
 - AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Hyperscale Data Joins the Global Top 100 Public Bitcoin Treasury Companies with Current Holdings of Approximately 382 Bitcoin - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -83,15 +83,15 @@ _Updated: 2025-11-25 06:47_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
@@ -144,6 +144,7 @@ _Updated: 2025-11-25 06:47_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -152,7 +153,6 @@ _Updated: 2025-11-25 06:47_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
