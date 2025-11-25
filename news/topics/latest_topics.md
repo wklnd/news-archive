@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 23:40_
+_Updated: 2025-11-26 00:43_
 
 ## Top Stories
 
-- Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
 - Ukraina redo att gå vidare med fredsförslag - Dagens Nyheter
 - KVÄLLENS NYHETER De fixar soppan till buren • Nya uppgifter i Knutbyfallet • 20 kilo föll nästan på anställd - NWT
-- Fågelinfluensa slår mot nya arter: ”Ökad risk” - SvD
+- Över 50 bilar skadade efter parkeringsbranden vid Mobilia - Skånska Dagbladet
+- Tillfälligt avbrott i Rapport-sändning - TV4 Nyheterna
 - Bortrövade skolflickor i Nigeria släppta - GP
-- Leksakers säkerhet: Nya regler för bättre skydd av barns hälsa - European Parliament
+- Ihållande regn översvämmar tält och toaletter i Gaza - Omni
+- Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
 - Värmlandsfödde grävjournalisten Tomas Bresky är död - NWT
-- Frontalkrock i Sjöbo – två allvarligt skadade - Västerbottens-Kuriren
+- Frontalkrock i Sjöbo – flera allvarligt skadade - GP
 - Den 25 november är internationella dagen mot våld mot kvinnor – statsrådets byggnader blir upplysta i orange - Ulkoministeriö
-- Kvinna attackerad mitt på parkering - Expressen
-- Krav i EU: Inga sociala medier före 16 år - SvD
 - Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff - SVT Nyheter
-- Kvarlevor överlämnade till otåligt Israel - Aftonbladet
+- Kravet: Inga sociala medier före 16 år - SvD
+- Direkt – Kriget i Ukraina – Macron: Få tecken på att Ryssland vill ha vapenvila - Dagens Nyheter
 - Talibanstyret: Tio döda i attacker - GP
-- Åklagaren nedringd av småsparare i Intellego: ”Blockerar telefonen” - EFN.se
-- DN Direkt – Uppåt på Wall Street – skakigt för Nvidia - Dagens Nyheter
-- DEBATT: Sverige går mot vinter – utan skyddsnät i elsystemet - DI
-- Deutsche Bank höjer riktkursen för Fortum till 15,0 euro (12,8), upprepar sälj - Placera.se
+- USA-börserna på plus – trots fall i flera AI-bolag - DI
+- 12 000 miljarder i krypto upp i rök – vad händer när valarna säljer? - Finanstid
+- Stordalens skattesmäll – tvingas betala hundratals miljoner - Expressen
+- Klarna lanserar egen kryptovaluta - SvD
 - Medicinsk sekreterare Klinisk Patologi - Region Kalmar Län
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
 
@@ -31,22 +31,22 @@ _Updated: 2025-11-25 23:40_
 - Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Global tillgångsförvaltare utnyttjar avancerad Data-analys, driven av API:er, för att engagera investerare - Nasdaq
-- Avlyssningsskandalen växer - Journalisten
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
+- S&P Global Completes $1.8 Billion Acquisition of With Intelligence, Strengthening its Position as a Leader in Private Markets Data & Analytics - Placera.se
 
 ## Technology
 
@@ -98,14 +98,15 @@ _Updated: 2025-11-25 23:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Fysisk aktivitet en viktig medicin - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-11-25 23:40_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-25 23:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 20220407_121141.jpg - Mynewsdesk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Mjau Svenska Smaker i gele-Abborre.jpg - Mynewsdesk
 - 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
