@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-25 01:48_
+_Updated: 2025-11-25 04:23_
 
-- Comey, James cases dismissed as judge disqualifies interim US attorney Lindsey Halligan - Politico
-- Pentagon launches 'thorough review' into Democratic Sen. Mark Kelly over video to troops - ABC News
-- Volodymyr Zelensky warns against giving away territory to Russia, as latest Ukraine talks end - BBC
-- Family speaks out after stepbrother emerges as suspect in death of Florida teen on cruise - The Guardian
-- Trump plans to propose extending Obamacare subsidies, report says - Reuters
-- Trump administration formally designates Venezuela’s Maduro as member of a foreign terrorist organization - CNN
-- Here’s Where Weather May Slow Your Thanksgiving Travel This Week - The New York Times
-- Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home - AP News
-- Former Sen. Doug Jones jumps into Alabama governor’s race - Politico
-- Australia senator condemned for burka stunt in parliament - BBC
-- Trump says he will visit Beijing in April and host China’s Xi for a state visit later next year - AP News
-- Nigeria school kidnapping: Who’s behind it, why were children targeted? - Al Jazeera
-- G20 declaration in defiance of US marks rare victory for multilateralism - Reuters
-- Stock Market Today: Nasdaq Rises Nearly 2%; Google Gains; Chip Stocks Rally — Live Updates - The Wall Street Journal
-- Ozempic Drug Fails to Quell Alzheimer’s in Novo Nordisk Trials - The New York Times
-- Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns - The Verge
+- Judge Tosses Criminal Charges Against James Comey and Letitia James - The New York Times
+- Updated peace plan could be a deal Ukraine will take - eventually - BBC
+- Republicans balk at Trump’s health care proposal before it’s even released - CNN
+- Trump touts 'extremely strong' China relations after call with Xi - Reuters
+- How X's new location feature exposed big US politics accounts - BBC
+- Thanksgiving weather forecast: Where to expect travel delays - ABC News
+- Marjorie Taylor Greene is staying out of the election to replace her - Politico
+- Designation of Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations and Specially Designated Global Terrorists - The White House (.gov)
+- Pentagon threatens to prosecute Senator Mark Kelly by recalling him to Navy service - Reuters
+- 'Just Google' me: Slender Man stabber is recaptured after fleeing her group home - NPR
+- Ethiopian volcano erupts for first time in 12,000 years - The Guardian
+- ‘The Zionists should be worried’: Threats, anti-US chants at funeral of Hezbollah No. 2 - The Times of Israel
+- Australian far-right Senator Pauline Hanson slammed for wearing burqa to parliament to demand ban - CBS News
+- Budget 2025: What can nervous businesses expect from the Budget? - BBC
+- Tyson’s beef plant closure in Nebraska will impact a reliant town and ranchers nationwide - AP News
+- RealPage Reaches Settlement with U.S. Department of Justice Regarding Revenue Management Software - Business Wire
 - VOTE: Have meat prices affected your Thanksgiving dinner plans? - KOMO
-- Microsoft is speeding up and decluttering File Explorer in Windows 11 - The Verge
-- Google's new 'Aluminium OS' project brings Android to PC: Here's what we know - Android Authority
-- Meta tests trade-in program for Ray-Ban and Oakley smart glasses - 9to5Google
+- Broadcast giant Sinclair makes bid to buy out EW Scripps for $7 per share - Yahoo Finance
+- Black Friday Streaming Deals Offered By Hulu, Disney+, HBO Max, Peacock & More - Deadline
+- Google says Gemini isn’t trained on Gmail, pushing back on ‘misleading reports’ - 9to5Google
