@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 04:20_
+_Updated: 2025-11-25 05:36_
 
 ## Top Stories
 
 - Ingmar Nevéus: Spelet kring Ukraina är en duell mellan Trumps kronprinsar - Dagens Nyheter
-- Svenskar strandsatta på ö i Antarktis - GP
 - Flyg över Venezuela ställs in – efter USA:s varning - GP
-- Strömmer till Norrköping efter sprängdåden - Folkbladet
-- FN: 50 000 kvinnor dödades av någon i sin närhet - SvD
-- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
-- Aktivister erkänner aktion på Nationalmuseum - GP
+- Svenskar blev strandsatta på ö i Antarktis - SVT Nyheter
+- FN: 50 000 kvinnor dödades av någon i sin närhet förra året - Expressen
+- Efter sprängningarna: Trygghetsfrågor dominerade debatten - NT
+- Sjukhuschef stoppade utredning av sin make - Dagens Medicin
 - Ewa Stenberg: ÖB satsar allt på Nato – men vad händer om USA sviker? - Dagens Nyheter
+- ”Pinsamt och misslyckat klimatmöte” - Västerbottens-Kuriren
 - Insändare: Mäns våld mot kvinnor pågår dygnet runt - VF
-- Två chefer sparkas efter hemtjänstskandalen i Uddevalla: ”Inte vidtagits åtgärder” - Arbetet
-- Direkt – Kriget i Ukraina – AFP: Kraftfulla explosioner i Kiev - Dagens Nyheter
+- Viltskador mäts med drönare och AI: ”Objektiv och mätbar metod” - Svensk Jakt
+- Ukraina: Flera skadade i attack mot Kiev - GP
 - DN Direkt – Bolsonaro: ”Paranoia” fick mig att manipulera fotbojan - Dagens Nyheter
-- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
-- Domare ogiltigförklarar åtal mot Comey och James - Aftonbladet
-- Volvo Construction Equipment väljer Eskilstuna för sin nya grävmaskinsfabrik - Cision News
+- Sudans paramilitära RSF utropar ensidig vapenvila - SVT Nyheter
+- USA med digitalt tryck på EU - GP
 - Eklund: Bolåneräntan att slå till på - Privata Affärer
-- Misstankar mot sparkad Intellego-vd har stärkts - Västerbottens-Kuriren
 - Så hög blir den nya ISK-skatten - Tidningen Näringslivet
+- E.ON ökar satsningen på flexibilitetsmarknader till 25 miljoner – och gör det enklare för fler att delta - Via TT
+- Satsade 510 miljoner på långtidsarbetslösa – gav 84 jobb: ”Missnöjd” - Aftonbladet
+- Samsung vänder sig till LG-partner för att testa kommande Galaxy S26 Exynos-chip - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Oneplus lanserar ny mobil, surfplatta och klocka - mobil.se
-- Labmed tilldelas medel för att stärka kopplingen mellan utbildning och forskning - Karolinska Institutet
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-25 04:20_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - Travel News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- MSC Cruises markerar global infrastrukturvåg - Travel News
+- Resepriserna i Europa stiger trots global nedgång - Travel News
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- “Too big to fail” – därför saknas global plan för fossila bränslen - DI
 - Avlyssningsskandalen växer - Journalisten
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
-- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - Travel News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -101,8 +101,8 @@ _Updated: 2025-11-25 04:20_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -120,30 +120,31 @@ _Updated: 2025-11-25 04:20_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Da Nang Agricultural Extension förnyar heltäckande för att stödja jordbrukare - Vietnam.vn
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -161,4 +162,3 @@ _Updated: 2025-11-25 04:20_
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
