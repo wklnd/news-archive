@@ -1,67 +1,68 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 13:40_
+_Updated: 2025-11-25 15:09_
 
 ## Top Stories
 
+- Knutby: Sex, död och Kristi brud - Aftonbladet
 - USA och Ukraina enades om 19-punktsplan – känsliga frågor lämnas åt Trump och Zelenskyj - Europaportalen
-- Granskning: Alternativ mördare i Knutbyfallet - SvD
-- Krångel med CSN:s utbetalningar – studenter utan pengar - SVT Nyheter
-- DN Direkt – Många döda i översvämning i Thailand - Dagens Nyheter
-- Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
+- DN Direkt – Europe firar 40 år med Jubileumsturné - Dagens Nyheter
 - Politiker bar burka i parlamentet – blev avstängd - Dagens Nyheter
-- DN Direkt – Försvarsministern: 3,5 miljarder till luftvärnssystem - Dagens Nyheter
+- Uddevallabron stängdes efter risk för fallande is - Expressen
+- Sverige köper nytt luftvärn till armén - SVT Nyheter
+- Hovrätten friar misstänkt rysk spion - Västerbottens-Kuriren
+- SD:s kritik mot SVT efter AI-klipp: Systemfel - GP
 - Man kritiskt skadad efter arbetsplatsolycka i Österåker - SVT Nyheter
-- Svenskar i majoritet bland Danmarks gängtorpeder - Västerbottens-Kuriren
-- Nattens händelser från polisen - Örebronyheter
+- DN Direkt – Svenskar i majoritet bland Danmarks gängtorpeder - Dagens Nyheter
+- DN Direkt – Många döda i översvämning i Thailand - Dagens Nyheter
 - Samkönade äktenskap måste erkännas i hela EU - Västerbottens-Kuriren
-- Misstänktes vara rysk spion – frias även i hovrätten - Expressen
+- Pojke med sällsynt sjukdom först i världen att få genterapi: ”Han springer och pratar oavbrutet” - Dagens Nyheter
 - Presidenten terrorstämplas av USA – konflikten trappas upp - Dagens PS
-- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
 - Rekordhöga elpriser i syd – nära fem kronor - SvD
+- Investerarens varning: ”Pannkaka om du sprinklar AI på allt” - Dagens Nyheter
 - Svenskarnas fondförmögenhet på ny rekordnivå - DI
-- Volvo Cars dotterbolag läggs ned – över 200 anställda varslas - Metal Supply
-- Ny betaltjänst med Swish lanseras - Aftonbladet
+- Bitcoin riskerar sämsta månaden sedan 2022 – aktiemarknaden kan följa efter - NyTeknik
 - Microsoft har inte lyckats väcka entusiasmen för agentisk AI - Computer Sweden
-- Klimatet får glaciärer i fjällen att krympa - Västerbottens-Kuriren
+- TCLs charmiga jättemobil faller på batteritiden - m3.se
 
 ## World News
 
+- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
-- Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
 
 ## Technology
 
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
@@ -69,16 +70,18 @@ _Updated: 2025-11-25 13:40_
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -90,9 +93,6 @@ _Updated: 2025-11-25 13:40_
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-11-25 13:40_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
