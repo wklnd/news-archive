@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-25 16:46_
+_Updated: 2025-11-25 17:45_
 
 ## Top Stories
 
-- Intensiva förhandlingar om fred i Ukraina - Västerbottens-Kuriren
-- DN Direkt – Knutby-åklagaren går igenom utredningen på nytt - Dagens Nyheter
-- Polis använde elchockvapen mot 13-åring – döms för misshandel - SVT Nyheter
+- Direkt – Kriget i Ukraina – Merz diskuterade fredsplanen med Zelenskyj - Dagens Nyheter
+- Knutby-åklagaren: ”Kommer gå igenom utredningen på nytt” - SVT Nyheter
+- Polis döms för misshandel av 13-åring i Mariestad – blir av med jobbet - Mariestads-Tidningen
+- Nya satsningar på Försvarsmaktens luftvärn genomförs - Regeringen.se
 - DN Direkt – Många döda i översvämning i Thailand - Dagens Nyheter
-- DN Direkt – Finland i ekonomisk skamvrå - Dagens Nyheter
-- Bråk under lunchpausen – Chrippa och Youtubeprofilen inblandade - Corren
-- Man kritiskt skadad efter arbetsplatsolycka i Österåker - SVT Nyheter
-- Svenskar i majoritet bland Danmarks gängtorpeder - Västerbottens-Kuriren
-- DN Direkt – Inget stöd för att kalla SVT till utskottet - Dagens Nyheter
-- Nattens händelser från polisen - Örebronyheter
-- DN Direkt – Domstol: EU-länder måste erkänna samkönade äktenskap - Dagens Nyheter
-- Dödliga attacker i Ukraina och Ryssland - Corren
+- Hans Blix lärdomar från Irakkriget - SvD
+- DN Direkt – Kritiskt skadad – hamnade under entreprenadmaskin - Dagens Nyheter
+- Grävjournalisten Tomas Bresky är död - Västerbottens-Kuriren
+- Inget stöd för att kalla SVT till utskottet - GP
+- DEBATT: Vi accepterar inte att Uppsala sviker våldsutsatta kvinnor - UNT
+- Samkönade äktenskap måste erkännas i hela EU - Aftonbladet
+- Dödliga attacker i Ukraina och Ryssland - ETC.se
 - Uddevallabron stängdes efter risk för fallande is - Expressen
-- Thailändsk kvinna på väg att kremeras – bultade inifrån kistan - GP
-- Rekordhöga elpriser – billigare veckoslut väntas - SvD
+- Presidenten terrorstämplas av USA – konflikten trappas upp - Dagens PS
+- Elpriset rusar i Sverige: ”En hel del dyra timmar” - Aftonbladet
 - Investerarens varning: ”Pannkaka om du sprinklar AI på allt” - Dagens Nyheter
-- Danske Bank sänker riktkursen för Novo Nordisk till 480 danska kronor (500), upprepar köp - BN - Placera.se
+- Nygamla chipet hotar Nvidias AI-dominans - DI
 - Svenskarnas fondförmögenhet på ny rekordnivå - DI
 - Medicinsk sekreterare Klinisk Patologi - Region Kalmar Län
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
@@ -28,31 +28,30 @@ _Updated: 2025-11-25 16:46_
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
-- DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
+- Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- DAR GLOBAL RINGS THE LONDON STOCK EXCHANGE OPENING BELL AS SAUDI ARABIA REAL ESTATE OPENS TO THE WORLD - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
+- Chartmetric Integrates NetEase Cloud Music Charts, Offering Global Industry Deeper Insight into China's Streaming Landscape - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
+- Hyperscale Data Joins the Global Top 100 Public Bitcoin Treasury Companies with Current Holdings of Approximately 382 Bitcoin - Placera.se
 
 ## Technology
 
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
-- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -62,13 +61,14 @@ _Updated: 2025-11-25 16:46_
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
@@ -98,28 +98,29 @@ _Updated: 2025-11-25 16:46_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Fysisk aktivitet en viktig medicin - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
@@ -129,16 +130,15 @@ _Updated: 2025-11-25 16:46_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
