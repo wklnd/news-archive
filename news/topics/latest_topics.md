@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 01:40_
+_Updated: 2025-11-26 04:21_
 
 ## Top Stories
 
-- Ukraina redo att gå vidare med fredsförslag - Dagens Nyheter
-- KVÄLLENS NYHETER De fixar soppan till buren • Nya uppgifter i Knutbyfallet • 20 kilo föll nästan på anställd - NWT
-- Över 50 bilar skadade efter parkeringsbranden vid Mobilia - Sydsvenskan
-- Tillfälligt avbrott i Rapport-sändning - TV4 Nyheterna
-- Italiensk man klädde ut sig till sin döda mor – för att hämta ut pension - Dagens Nyheter
-- Bortrövade skolflickor i Nigeria släppta - GP
-- Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
-- Värmlandsfödde grävjournalisten Tomas Bresky är död - NWT
-- Frontalkrock i Sjöbo – tre allvarligt skadade - GP
-- Den 25 november är internationella dagen mot våld mot kvinnor – statsrådets byggnader blir upplysta i orange - Ulkoministeriö
+- Adam Cwejman: Vem tar över om Trump lämnar Ukraina i sticket? - GP
 - Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff - SVT Nyheter
-- Krav i EU: Inga sociala medier före 16 år - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Macron: Få tecken på att Ryssland vill ha vapenvila - Dagens Nyheter
-- Tur för Europa och Ukraina att Marco Rubio finns - Expressen
+- Trump: Tror Witkoff möter Putin nästa vecka - GP
+- Över 50 bilar skadade efter parkeringsbranden vid Mobilia - Sydsvenskan
+- KVÄLLENS NYHETER: De fixar soppan till buren • Nya uppgifter i Knutbyfallet • 20 kilo föll nästan på anställd - NWT
+- Livstid för väskmord i Nya Zeeland - GP
+- Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
+- Frontalkrock i Sjöbo – flera allvarligt skadade - GP
+- Värmlandsfödde grävjournalisten Tomas Bresky är död - NWT
+- ”Arbetet för att avskaffa våld mot kvinnor måste prioriteras” - Västerbottens-Kuriren
+- DN Direkt – 250 hålls fångna efter skolattack i Nigeria - Dagens Nyheter
+- Krav i EU: Inga sociala medier före 16 år - Aftonbladet
+- Direkt – Kriget i Ukraina – Merz diskuterade fredsplanen med Zelenskyj - Dagens Nyheter
+- Sverige redo efter Putins hjärntvätt - Expressen
 - USA-börserna på plus – trots fall i flera AI-bolag - DI
+- Klarna lanserar egen kryptovaluta - SvD
 - 12 000 miljarder i krypto upp i rök – vad händer när valarna säljer? - Finanstid
 - Så påverkas du när 2G- och 3G-näten släcks - SVT Nyheter
-- Klarna lanserar egen kryptovaluta - SvD
-- Medicinsk sekreterare Klinisk Patologi - Region Kalmar Län
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
+- Medicinsk sekreterare Klinisk Patologi - Region Kalmar Län
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2025-11-26 01:40_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - AMGEN TO PRESENT AT CITI'S 2025 GLOBAL HEALTHCARE CONFERENCE - Placera.se
 - S&P Global Completes $1.8 Billion Acquisition of With Intelligence, Strengthening its Position as a Leader in Private Markets Data & Analytics - Placera.se
 
@@ -52,24 +52,24 @@ _Updated: 2025-11-26 01:40_
 
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- ZenaTech’s Drone as a Service Drives 82% of Q3 2025 Revenue as Company Advances Toward Goal of 25 Acquisitions by Mid-2026 - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -98,13 +98,13 @@ _Updated: 2025-11-26 01:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
