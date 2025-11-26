@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 13:39_
+_Updated: 2025-11-26 15:11_
 
 ## Top Stories
 
-- Sensationell nyhet – kan bli resning - SvD
-- Åtal för djurplågeri i Kulla i Umeå kommun - polisen.se
 - DN Direkt – Brand i skyskrapor i Hongkong – minst fyra döda - Dagens Nyheter
-- EU-länder överens: Dina chattar ska inte scannas av - GP
-- En förbättrad elevhälsa - Cision News
+- Kulturkommentar: Aftonbladets Knutbygranskning tar till tröttaste knepet någonsin - GP
+- Åtal för djurplågeri i Kulla i Umeå kommun - polisen.se
+- Kvinna stal från äldre på trygghetsboende – utpekad för 20 år gammalt mord - SVT Nyheter
+- Barn under 16 år ska inte ha sociala medier, menar ledamöterna - European Parliament
 - SD och KD röstade nej till att slopa karensavdraget - tidningensyre.se
+- Magdalena Andersson: Vi har kommit närmare ett samarbete med C - Dagens Nyheter
 - Man död efter arbetsplatsolycka i Österåker - SVT Nyheter
-- Andersson (S) ska prata jobb med nya C-ledaren - Västerbottens-Kuriren
-- Terroråtalad erbjöds halv miljon för ambassaddåd - GP
 - Person hittad död i bostad – en person gripen - UNT
+- Terroråtalad erbjöds halv miljon för ambassaddåd - Västerbottens-Kuriren
 - Trump backar från egen deadline för Ukraina - Dagens Nyheter
-- Fler döda i översvämningar i Thailand - Västerbottens-Kuriren
+- Taiwans regering vill storsatsa på försvaret - Västerbottens-Kuriren
 - Trump skonade kalkonerna – men inte sina motståndare - Dagens Nyheter
 - EU-basen: Gränser får inte ändras med våld - GP
 - Intellego polisanmält av Exportkreditnämnden - SvD
 - DN Direkt – Finansinspektionen varnar: AI-uppgången är sårbar - Dagens Nyheter
-- Galna prisökningen på Black Friday: ”20 miljoner” - Expressen
-- Swedbank: Ökade möjligheter för hushållen att spara och konsumera (Cision) - Aktiellt
+- Anklagas för svarta affärer – lämnar chefsjobbet på Elon - Market.se
+- Black Week-varning: Amazon och Ebays fejkade hemsidor - DI
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
-- SUPERDEAL: Stor Black Friday-rabatt på en av marknadens bästa OLED TV-apparater från Samsung - TechRadar
+- Ny ”Hasselbladkamera” till Onsalas teleskop bidrar till unika färgbilder av svarta hål - Chalmers - Cision News
 
 ## World News
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-26 13:39_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
