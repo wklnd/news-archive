@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 07:43_
+_Updated: 2025-11-26 08:53_
 
 ## Top Stories
 
-- Uppgifter: Ukraina redo att gå med på fredsförslag - Dagens Nyheter
-- Advokat begär resning i Knutbyfallet - GP
-- Liga slog till mot 90-åringar – ledaren misstänks ha styrt från Kriminalvårdens boende - Dagens Nyheter
-- Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff - SVT Nyheter
-- Taiwans president lovar kraftig upprustning - DI
-- Nya sexdiagnosen: inte beroende utan ett tvång - SvD
+- Advokat vill begära resning i Knutbyfallet - GP
+- Trump backar från egen deadline för Ukraina - Dagens Nyheter
+- Polisen utreder misstänkt mord i Almunge – en gripen - SVT Nyheter
+- Nya satsningar på Försvarsmaktens luftvärn genomförs - Regeringen.se
+- Nya sexdiagnosen CSBD: inte ett beroende utan ett tvång - SvD
+- Ukraina: Flera skadade i attack - Dagens Nyheter
 - Polisen: Det här är männen som slår och dödar - Västerbottens-Kuriren
+- Den 25 november är internationella dagen mot våld mot kvinnor – statsrådets byggnader blir upplysta i orange - Ulkoministeriö
 - Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
-- Tre allvarligt skadade i krock – en misstänkt - GP
-- DEBATT: Orange week: Våldet mot unga tjejer måste stoppas - Corren
+- Förslag: Blockera Iran och Kina från upphandlingar - Aftonbladet
 - Livstid för väskmord i Nya Zeeland - Västerbottens-Kuriren
-- ”Ryska mördare ska inte komma undan krigsbrott” - Västerbottens-Kuriren
-- Trump: Tror Witkoff möter Putin nästa vecka - Västerbottens-Kuriren
-- Krav i EU: Inga sociala medier före 16 år - GP
+- Expert om fredsavtal: ”Får för i helvete inte ta barn” - GP
+- Bortrövade skolflickor i Nigeria släppta - SVT Nyheter
+- Trump: USA ska träffa Putin i Moskva - Expressen
 - Larmet: Svenska företag bryter mot ryssanktioner - SvD
+- Swedbank: Ökade möjligheter för hushållen att spara och konsumera (Cision) - Aktiellt
 - USA-börserna på plus – trots fall i flera AI-bolag - DI
 - Så påverkas du när 2G- och 3G-näten släcks - SVT Nyheter
-- Nvidia gör sämsta börsdagen på flera månader - Aftonbladet
 - Varning: Nya Windows-uppdateringar fulla av fel - Realtid
 - Dxomark testar kameran i nya Iphone Air – överraskande bra resultat - Macworld.se
 
@@ -50,8 +50,8 @@ _Updated: 2025-11-26 07:43_
 
 ## Technology
 
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
@@ -105,12 +105,12 @@ _Updated: 2025-11-26 07:43_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Sydkorea beviljar Diamyd Medical precisionsmedicinskt patent för behandling med insulin-antigen vid autoimmun diabetes - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -153,12 +153,12 @@ _Updated: 2025-11-26 07:43_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
