@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 05:35_
+_Updated: 2025-11-26 06:47_
 
 ## Top Stories
 
 - Uppgifter: Ukraina redo att gå med på fredsförslag - Dagens Nyheter
-- Trump: Tror Witkoff möter Putin nästa vecka - GP
-- Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff - SVT Nyheter
-- Kidnapparnas fyra dygn i Kungälv – här har de varit - Kungälvs-Posten
 - Taiwan vill öka försvarsutgifterna - GP
+- Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff - SVT Nyheter
 - KVÄLLENS NYHETER: De fixar soppan till buren • Nya uppgifter i Knutbyfallet • 20 kilo föll nästan på anställd - NWT
-- Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
-- Frontalkrock i Sjöbo – flera allvarligt skadade - GP
-- ”Arbetet för att avskaffa våld mot kvinnor måste prioriteras” - Västerbottens-Kuriren
-- Frågetecken kring skolförslag: ”Går inte att flytta in fler” - Helagotland
+- Nya sexdiagnosen: inte beroende utan ett tvång - SvD
 - Livstid för väskmord i Nya Zeeland - GP
-- DN Direkt – 250 hålls fångna efter skolattack i Nigeria - Dagens Nyheter
-- Sverige redo efter Putins hjärntvätt - Expressen
-- Domare ogiltigförklarar åtal mot Comey och James - Aftonbladet
+- Frontalkrock i Sjöbo – flera allvarligt skadade - GP
+- Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
+- ”Arbetet för att avskaffa våld mot kvinnor måste prioriteras” - Västerbottens-Kuriren
+- Utskottet röstar nej till avskaffat karensavdrag - Dagens Arena
+- Trump: Tror Witkoff möter Putin nästa vecka - Västerbottens-Kuriren
+- Krav i EU: Inga sociala medier före 16 år - GP
+- Bortrövade skolflickor i Nigeria släppta - Västerbottens-Kuriren
+- Clas Ohlson återkallar krok – risk för fallskador - Expressen
 - USA-börserna på plus – trots fall i flera AI-bolag - DI
-- Klarna lanserar egen kryptovaluta - SvD
 - Så påverkas du när 2G- och 3G-näten släcks - SVT Nyheter
 - Nvidia gör sämsta börsdagen på flera månader - Aftonbladet
+- Klarna lanserar egen valuta: ”Snabbare och billigare” - DI
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
-- Medicinsk sekreterare Klinisk Patologi - Region Kalmar Län
+- Oväntad upptäckt: Astronomer har gjort ett förvånande fynd i utkanterna av vårt solsystem - Illustrerad Vetenskap
 
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - S&P Global Completes $1.8 Billion Acquisition of With Intelligence, Strengthening its Position as a Leader in Private Markets Data & Analytics - Placera.se
-- Palladium Global Science Award: Hong Kong Hosts Ceremony Honoring the Most Innovative Palladium-Based Technologies - Placera.se
+- Appian AI Transforms Clinical Workflows for Global Public Health Agencies - Placera.se
+- Edgewell Personal Care to Webcast Fireside Chat at the Morgan Stanley Global Consumer and Retail Conference - Placera.se
 
 ## Technology
 
@@ -57,15 +57,15 @@ _Updated: 2025-11-26 05:35_
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
@@ -79,10 +79,11 @@ _Updated: 2025-11-26 05:35_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-11-26 05:35_
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -105,7 +105,6 @@ _Updated: 2025-11-26 05:35_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-11-26 05:35_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-26 05:35_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
