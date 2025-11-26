@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-26 13:48_
+_Updated: 2025-11-26 15:22_
 
-- Hegseth orders Navy to review Sen. Kelly for 'potentially unlawful conduct' - ABC News
 - Report: US envoy coached Putin aide on how Russian leader should pitch Trump on Ukraine peace plan - AP News
-- Zelensky ready to meet Trump over Thanksgiving on Ukraine-Russia deal - Axios
-- Dan Driscoll: Who is Trump's 'drone guy' taking central role in Ukraine peace talks? - BBC
-- Noem made decision not to turn around deportation flights bound for El Salvador after judge's order, DOJ says - CBS News
 - Huge Fire Engulfs Apartment Buildings in Hong Kong - The New York Times
+- FBI opens inquiry into 6 Democrats appearing in video that urged defying illegal orders, lawmakers say - CBS News
+- DOJ acknowledges Kristi Noem made decision to continue deportation flights to El Salvador despite judge’s order - CNN
+- Rachel Reeves will be hoping this Budget buys her some time - BBC
+- Zelensky ready to meet Trump over Thanksgiving on Ukraine-Russia deal - Axios
 - National Parks to raise fees by $100 for international tourists to popular U.S. parks - NPR
-- At pardoning ceremony, Trump informs turkey of all he’s accomplished - The Washington Post
-- Trump opens the door to Obamacare subsidy extension - Politico
-- Storm update: Snowfall totals and high winds increasing into Wednesday morning. - MPR News
-- Words to watch out for in Rachel Reeves’s budget - The Economist
-- Under glare of world’s media, Pope Leo XIV to visit Turkey and Lebanon on first foreign trip - AP News
-- Social media videos show impact of deadly flooding across south-east Asia - BBC
+- Zachariah Shorty: FBI surge leads to charges in 2020 killing in Native American community - CNN
+- ‘Nobody will ever believe it’: James Comer airs doubts about his own Epstein investigation - Politico
+- Snow to spread rapidly today, near white-out conditions with winds to 60 mph - MLive.com
+- Pope Leo takes message of peace to Middle East on first foreign visit. Here’s what to know - CNN
 - Italy now recognizes the crime of femicide and punishes it with life in prison - NPR
+- A woman who murdered her 2 children and left them in suitcases is jailed for at least 17 years - ABC News
+- Taiwan's President Lai lashes out against Beijing, pledges $40 billion in additional defense budget - CNBC
 - Campbell’s promises its soups are not made with 3D printed meat - The Verge
-- The U.S. produces a lot of food waste. This place wants to address it - NPR
 - Google, the sleeping giant in global AI race, now ‘fully awake’ - Fortune
-- Asia-Pacific markets track Wall Street gains on rising Fed rate-cut expectations - CNBC
+- Stock futures rise after Dow notches third winning session: Live updates - CNBC
+- World stocks climb after Wall Street rallies on hopes for lower interest rates - AP News
+- Sony Goes Zero-Profit on WH-1000XM5, 2x Cheaper Than AirPods Max and Bose - kotaku.com
 - Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5 - The Verge
-- ChatGPT’s voice mode is no longer a separate interface - TechCrunch
