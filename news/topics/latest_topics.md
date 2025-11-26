@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 19:42_
+_Updated: 2025-11-26 20:48_
 
 ## Top Stories
 
-- Snabbmatskedjan Pizza Hut i konstruktion - DI
+- Fotboll: Linda Sembrant slutar i landslaget - SVT Nyheter
 - Åklagaren: Kommer inte att begära resning i Knutbymordet - SVT Nyheter
-- Många döda i Hongkongs jättebrand - GP
-- Åtalade svensken: ”Jag är ingen ängel men inte heller terrorist” - Dagens Nyheter
-- Kommentar: Socialdemokraterna skjuter sig i foten - GP
+- DN Direkt – Brand i skyskrapor i Hongkong – minst fyra döda - Dagens Nyheter
+- Terroråtalad i rätten: ”Jag är inte en ängel” - SvD
+- Högerväljarna splittrade om nästa statsminister - Dagens Nyheter
 - Moskva: ”Seriösa” samtal om fredsplan - GP
-- Uppdrag att ta fram en nationell handlingsplan för att förebygga och behandla hjärt- och kärlsjukdom - Regeringen.se
+- BILDEXTRA: Fackeltåg lyste upp Avesta mot våldet - Avesta Tidning
 - Flera fordon olycka på E18 – två till sjukhus - Expressen
 - EU-länder överens om ”chat control” - SVT Nyheter
 - Man misstänks ha kört på och plågat renar – åtalas vid Umeå tingsrätt - SVT Nyheter
-- Guinea-Bissaus president: ”Jag har blivit avsatt” - Dagens Nyheter
+- Militärkupp i Guinea-Bissau – valprocess avbryts - Västerbottens-Kuriren
+- Ett steg närmare jättelån till Ukraina – ska finansieras med ryska pengar - Dagens Nyheter
 - Sydsudan: Nära halva folket i akut hungersnöd - GP
-- Trumps plan ökar trycket på Bryssel om Ukrainas krigsnota - Dagens Nyheter
 - Media advisory - Informal video conference of foreign affairs ministers of 26 November 2025 - consilium.europa.eu
 - Energimyndigheten beviljar 390 miljoner i stöd till Stegra - Energimyndigheten
+- Sverige och Saab väljs för att leverera nya ubåtar till Polen - Saab
 - Di och EFN är positiva till Verisure efter rapportpremiären - Börsvärlden
-- Klart: Åklagaren får rätt att frysa 230 Intellego-miljoner - DI
-- FI: AI-uppgången är sårbar - Tidningen Näringslivet
-- IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
+- FI varnar: Hushåll sårbara för amerikanskt börsras - DI
 - Wyze släpper säkerhetskamera som håller koll på utomhus inomhus - m3.se
+- IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
 
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Moore Global Named Network of the Year in Unanimous Decision (PR Newswire) - Aktiellt
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -63,8 +63,8 @@ _Updated: 2025-11-26 19:42_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -101,7 +101,6 @@ _Updated: 2025-11-26 19:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -109,13 +108,14 @@ _Updated: 2025-11-26 19:42_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -152,7 +152,7 @@ _Updated: 2025-11-26 19:42_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
@@ -161,4 +161,4 @@ _Updated: 2025-11-26 19:42_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
