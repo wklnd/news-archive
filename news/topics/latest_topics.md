@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 15:51_
+_Updated: 2025-11-26 16:46_
 
 ## Top Stories
 
 - Åklagaren: Kommer inte att begära resning i Knutbymordet - SVT Nyheter
 - Studentboende på Östermalm utsatt för flera misstänkta giftattacker: ”Läskigt” - Dagens Nyheter
-- 13 döda i brand i Hongkong - Västerbottens-Kuriren
-- Barn under 16 år ska inte ha sociala medier, menar ledamöterna - European Parliament
+- Storbrand i lägenhetskomplex i Hongkong – flera döda - GP
 - Utpekad som mördaren i Stuvkällaren – stal från äldre på trygghetsboende - GP
-- Åtal för djurplågeri i Kulla i Umeå kommun - polisen.se
+- Utrikesminister Maria Malmer Stenergard bjuder in till pressbriefing - Regeringen.se
+- Sydsudan: Nära halva folket i akut hungersnöd - Aftonbladet
 - Magdalena Andersson: Vi har kommit närmare ett samarbete med C - Dagens Nyheter
 - Man död i arbetsplatsolycka på golfbana - GP
-- Terroråtalad erbjöds halv miljon för ambassaddåd i Köpenhamn - SVT Nyheter
+- Terroråtalad erbjöds halv miljon för ambassaddåd - SVT Nyheter
 - Kidnappade mor och dotter – liga döms - GP
 - Taiwans regering vill storsatsa på försvaret - Västerbottens-Kuriren
-- Trump skonade kalkonerna – men inte sina motståndare - Dagens Nyheter
-- Utrikesminister Maria Malmer Stenergard bjuder in till pressbriefing - Regeringen.se
-- Trump backar från deadline för fredsplansbesked - GP
+- Trump backar från egen deadline för Ukraina - Dagens Nyheter
+- Trumps plan ökar trycket på Bryssel om Ukrainas krigsnota - Dagens Nyheter
+- Media advisory - Informal video conference of foreign affairs ministers of 26 November 2025 - consilium.europa.eu
 - Energimyndigheten beviljar 390 miljoner i stöd till Stegra - Energimyndigheten
-- DN Direkt – Finansinspektionen varnar: AI-uppgången är sårbar - Dagens Nyheter
+- Polen vill köpa ubåtar från Saab - Aftonbladet
+- FI varnar: Hushåll sårbara för amerikanskt börsras - DI
 - Elon-chef avgår direkt efter SvD:s avslöjande - SvD
-- Intellego polisanmäls av Exportkreditnämnden - Placera.se
 - IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
-- Här är de 12 bästa köpen till vinterlöpningen - Cafe.se
+- YouTuber startar 30.000 W glödlampa så varm att den smälter aluminium - notebookcheck.se
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-11-26 15:51_
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 
 ## Business
 
@@ -77,22 +77,22 @@ _Updated: 2025-11-26 15:51_
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-11-26 15:51_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-11-26 15:51_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - landlantbruk.se
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
