@@ -1,62 +1,62 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 08:53_
+_Updated: 2025-11-26 09:40_
 
 ## Top Stories
 
-- Advokat vill begära resning i Knutbyfallet - GP
+- Bidragsmiljoner har gått till utvisade personer - SVT Nyheter
 - Trump backar från egen deadline för Ukraina - Dagens Nyheter
-- Polisen utreder misstänkt mord i Almunge – en gripen - SVT Nyheter
+- Stjärnadvokaten till Aftonbladet: Vill riva upp domen - UNT
+- En död i Uppsala – mord utreds - Aftonbladet
+- Liga slog till mot 90-åringar – ledaren misstänks ha styrt från Kriminalvårdens boende - Dagens Nyheter
 - Nya satsningar på Försvarsmaktens luftvärn genomförs - Regeringen.se
-- Nya sexdiagnosen CSBD: inte ett beroende utan ett tvång - SvD
-- Ukraina: Flera skadade i attack - Dagens Nyheter
+- Mohamsson: ”Skolan spelar en avgörande roll” - GP
 - Polisen: Det här är männen som slår och dödar - Västerbottens-Kuriren
-- Den 25 november är internationella dagen mot våld mot kvinnor – statsrådets byggnader blir upplysta i orange - Ulkoministeriö
 - Kvinna hittad död i lägenhet i Stockholm – polisen utreder mord - SVT Nyheter
 - Förslag: Blockera Iran och Kina från upphandlingar - Aftonbladet
-- Livstid för väskmord i Nya Zeeland - Västerbottens-Kuriren
-- Expert om fredsavtal: ”Får för i helvete inte ta barn” - GP
-- Bortrövade skolflickor i Nigeria släppta - SVT Nyheter
-- Trump: USA ska träffa Putin i Moskva - Expressen
+- ”Ryska mördare ska inte komma undan krigsbrott” - Västerbottens-Kuriren
+- Livstid för väskmord i Nya Zeeland - GP
+- Krav i EU: Inga sociala medier före 16 år - GP
+- Ukraina: Flera skadade i attack - Corren
 - Larmet: Svenska företag bryter mot ryssanktioner - SvD
 - Swedbank: Ökade möjligheter för hushållen att spara och konsumera (Cision) - Aktiellt
+- Dr Doom avfärdar massiv AI-bubbla: Inte dömd att krascha - Omni Ekonomi
 - USA-börserna på plus – trots fall i flera AI-bolag - DI
-- Så påverkas du när 2G- och 3G-näten släcks - SVT Nyheter
+- Samtal om lungfibros vid medlemsmöte - Västerbottens-Kuriren
 - Varning: Nya Windows-uppdateringar fulla av fel - Realtid
-- Dxomark testar kameran i nya Iphone Air – överraskande bra resultat - Macworld.se
 
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
-- Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
 - Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - S&P Global Completes $1.8 Billion Acquisition of With Intelligence, Strengthening its Position as a Leader in Private Markets Data & Analytics - Placera.se
-- Appian AI Transforms Clinical Workflows for Global Public Health Agencies - Placera.se
-- Edgewell Personal Care to Webcast Fireside Chat at the Morgan Stanley Global Consumer and Retail Conference - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -121,23 +121,23 @@ _Updated: 2025-11-26 08:53_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -145,20 +145,20 @@ _Updated: 2025-11-26 08:53_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
