@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 11:45_
+_Updated: 2025-11-26 12:48_
 
 ## Top Stories
 
-- Kan bli resning efter nya uppgifter om Knutbyfallet | Mårten Schultz - SvD
-- Polisen utreder misstänkt mord öster om Uppsala – en gripen - SVT Nyheter
-- Rättegången fortsätter – Chrippa och Linnea ska frågas ut - Corren
-- Åtal väckt för bland annat mord och förberedelse till mord i Stockholm - Åklagarmyndigheten
-- Renar skars i halsen – man åtalas för grovt djurplågeri - tidningensyre.se
-- Trump backar från egen deadline för Ukraina - Dagens Nyheter
-- Bidragsmiljoner har gått till utvisade - Expressen
-- Mohamsson: ”Skolan spelar en avgörande roll” - GP
-- Kidnappade mor och dotter – liga döms - Västerbottens-Kuriren
-- Förslag: Blockera Iran och Kina från upphandlingar - Aftonbladet
+- Sensationell nyhet – kan bli resning - SvD
 - EU-länder överens om ”chat control” - GP
+- Åtal för djurplågeri i Kulla i Umeå kommun - polisen.se
+- Polisen utreder misstänkt mord öster om Uppsala – en gripen - SVT Nyheter
+- SD och KD röstade nej till att slopa karensavdraget - tidningensyre.se
+- Joakim Lundell vittnar mot sin bror "Chrippa" • Turbulenta tiden: "Mardröm" - Expressen
+- Man död i arbetsplatsolycka på golfbana - GP
+- Studentboende på Östermalm utsatt för flera misstänkta giftattacker: ”Läskigt” - Dagens Nyheter
+- Kidnappade mor och dotter – liga döms - Västerbottens-Kuriren
+- Här klarar tre av tio inte skolan: ”Allvarligt” - GP
+- Trump backar från egen deadline för Ukraina - Dagens Nyheter
 - Fler döda i översvämningar i Thailand - Västerbottens-Kuriren
+- EU-basen: Gränser får inte ändras med våld - GP
 - Dödade sina barn och gömde dem i resväska – kvinna döms till livstids fängelse - GP
-- Direkt – Kriget i Ukraina – Ursula von der Leyen om fredsplanen: ”En startpunkt” - Dagens Nyheter
-- Larmet: Företag bryter mot ryss-sanktioner - SvD
-- EKN och SEK polisanmäler Intellego för misstänkt bedrägeri - DI
+- Intellego polisanmält av Exportkreditnämnden - SvD
+- DN Direkt – Finansinspektionen varnar: AI-uppgången är sårbar - Dagens Nyheter
+- Larmet: Företag bryter mot ryss-sanktioner - Aftonbladet
 - Swedbank: Ökade möjligheter för hushållen att spara och konsumera (Cision) - Aktiellt
-- Finansinspektionen ser återhämtning i sikte men hög osäkerhet i omvärlden kvarstår - stabilitetsrapport - Börsvärlden
 - Ny ”Hasselbladkamera” till Onsalas teleskop bidrar till unika färgbilder av svarta hål - Cision News
-- Drifting och skrikande däck – AMG teasar första egna elbil - Elbilen
+- Sonys testvinnande hörlurar får sitt lägsta pris någonsin under Black Friday - TechRadar
 
 ## World News
 
@@ -41,35 +41,35 @@ _Updated: 2025-11-26 11:45_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - S&P Global Completes $1.8 Billion Acquisition of With Intelligence, Strengthening its Position as a Leader in Private Markets Data & Analytics - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 
 ## Business
 
@@ -101,14 +101,14 @@ _Updated: 2025-11-26 11:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -130,15 +130,15 @@ _Updated: 2025-11-26 11:45_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
