@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-26 12:48_
+_Updated: 2025-11-26 13:39_
 
 ## Top Stories
 
 - Sensationell nyhet – kan bli resning - SvD
-- EU-länder överens om ”chat control” - GP
 - Åtal för djurplågeri i Kulla i Umeå kommun - polisen.se
-- Polisen utreder misstänkt mord öster om Uppsala – en gripen - SVT Nyheter
+- DN Direkt – Brand i skyskrapor i Hongkong – minst fyra döda - Dagens Nyheter
+- EU-länder överens: Dina chattar ska inte scannas av - GP
+- En förbättrad elevhälsa - Cision News
 - SD och KD röstade nej till att slopa karensavdraget - tidningensyre.se
-- Joakim Lundell vittnar mot sin bror "Chrippa" • Turbulenta tiden: "Mardröm" - Expressen
-- Man död i arbetsplatsolycka på golfbana - GP
-- Studentboende på Östermalm utsatt för flera misstänkta giftattacker: ”Läskigt” - Dagens Nyheter
-- Kidnappade mor och dotter – liga döms - Västerbottens-Kuriren
-- Här klarar tre av tio inte skolan: ”Allvarligt” - GP
+- Man död efter arbetsplatsolycka i Österåker - SVT Nyheter
+- Andersson (S) ska prata jobb med nya C-ledaren - Västerbottens-Kuriren
+- Terroråtalad erbjöds halv miljon för ambassaddåd - GP
+- Person hittad död i bostad – en person gripen - UNT
 - Trump backar från egen deadline för Ukraina - Dagens Nyheter
 - Fler döda i översvämningar i Thailand - Västerbottens-Kuriren
+- Trump skonade kalkonerna – men inte sina motståndare - Dagens Nyheter
 - EU-basen: Gränser får inte ändras med våld - GP
-- Dödade sina barn och gömde dem i resväska – kvinna döms till livstids fängelse - GP
 - Intellego polisanmält av Exportkreditnämnden - SvD
 - DN Direkt – Finansinspektionen varnar: AI-uppgången är sårbar - Dagens Nyheter
-- Larmet: Företag bryter mot ryss-sanktioner - Aftonbladet
+- Galna prisökningen på Black Friday: ”20 miljoner” - Expressen
 - Swedbank: Ökade möjligheter för hushållen att spara och konsumera (Cision) - Aktiellt
-- Ny ”Hasselbladkamera” till Onsalas teleskop bidrar till unika färgbilder av svarta hål - Cision News
-- Sonys testvinnande hörlurar får sitt lägsta pris någonsin under Black Friday - TechRadar
+- IKEA presenterar 6 nya Bluetooth-högtalare och lampor som ska ge hem och humör ett varmt lyft - TechRadar
+- SUPERDEAL: Stor Black Friday-rabatt på en av marknadens bästa OLED TV-apparater från Samsung - TechRadar
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2025-11-26 12:48_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - In a first, Indian student to join elite cohort in US think tank for diplomacy | Mumbai news - Hindustan Times
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - S&P Global Completes $1.8 Billion Acquisition of With Intelligence, Strengthening its Position as a Leader in Private Markets Data & Analytics - Placera.se
 
 ## Technology
@@ -53,22 +53,22 @@ _Updated: 2025-11-26 12:48_
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- ZenaTech Reports Record 1,225% Year-Over-Year Revenue Growth in Q3, 2025 and 6X Growth for First Nine Months of Year as Drone as a Service Business Expansion Accelerates - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
@@ -131,8 +131,8 @@ _Updated: 2025-11-26 12:48_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -153,12 +153,12 @@ _Updated: 2025-11-26 12:48_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
