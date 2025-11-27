@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 05:33_
+_Updated: 2025-11-27 05:57_
 
 ## Top Stories
 
 - Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
-- Kvinna död efter hajattack i Australien - SvD
 - Foodora om de bensindrivna mopederna: Ni måste ha sett fel - Dagens Nyheter
 - ”Fred” i Trumps tid - Dagens Arena
 - Kommunen köper hus från Tre stiftelser – affären får hård kritik - GP
 - Ett steg närmare jättelån till Ukraina – ska finansieras med ryska pengar - Dagens Nyheter
+- Många döda i Hongkongs jättebrand - Västerbottens-Kuriren
 - Familjer polisanmäler barnhjärtläkaren - Västerbottens-Kuriren
+- 26 november 19.00, Bedrägeri, Stockholms län - polisen.se
+- Regler om regnskog skjuts upp – igen - GP
 - Åklagaren: Kommer inte att begära resning i Knutbymordet - SVT Nyheter
-- Stökigt på E4 efter olycka – flera fordon körde i fel riktning - Gefle Dagblad
-- Elisabeth Thand Ringqvist (C) duckar frågor om AiP – Senaste nytt om valet 2026 - SVT Nyheter
+- Modedesignern Pam Hogg död - GP
 - Europa kräver "stenhårda garantier" för Ukraina vid fredsavtal - Europaportalen
-- Modedesignern Pam Hogg död - Aftonbladet
 - USA:s sändebud fångades på inspelning: Så övertalar ni Trump - GP
 - Förslag: Blockera Iran och Kina från upphandlingar - Västerbottens-Kuriren
 - Bred uppgång på börsen i USA - Aftonbladet
-- Stegras svar – vill ha mer pengar från staten: ”Får föra en dialog” - EFN.se
 - FI varnar: Hushåll sårbara för amerikanskt börsras - DI
-- Intellego polisanmäls av Exportkreditnämnden - Placera.se
+- Di och EFN är positiva till Verisure efter rapportpremiären - Börsvärlden
+- Sverige och Saab väljs för att leverera nya ubåtar till Polen - Saab
 - Ångrar sexet i Paradise hotel: ”Inte kul för mina småsyskon” • Så gick det sen för deltagarna - Aftonbladet
 - AOC introducerar 27-tums QHD-spelmonitor med 320 Hz Fast IPS-panel för fartentusiaster - notebookcheck.se
 
@@ -30,22 +30,22 @@ _Updated: 2025-11-27 05:33_
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - African man reflects on his journey as an international student at IIT Bombay: ‘Tougher than I expected’ | Trending - Hindustan Times
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 
 ## Technology
@@ -98,47 +98,47 @@ _Updated: 2025-11-27 05:33_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
