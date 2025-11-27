@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 10:50_
+_Updated: 2025-11-27 11:44_
 
 ## Top Stories
 
-- Längdskidor: Krista Pärmäkoski avslutar karriären efter säsongen - SVT Nyheter
+- Alexander Holmberg, 23, döms för terrorplaner mot Eurovision - ETC.se
 - Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
+- Bottennotering för Vänsterpartiet i ny mätning - GP
+- DN Direkt – Äldre man räddad från 31:våningen i brinnande hus - Dagens Nyheter
 - Tusentals gängkriminella försörjer sig på bidrag - Sydsvenskan
-- Vänsterpartiet i ny bottennotering - Aftonbladet
-- Orosmoln för M – trots ljusning för Tidö - SvD
-- DN Direkt – Regeringen om influensan: Väntar oss en markant ökning - Dagens Nyheter
+- ”Fred” i Trumps tid - Dagens Arena
+- Familjer polisanmäler barnhjärtläkaren - Västerbottens-Kuriren
+- Pressinbjudan: Migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing efter sitt besök till Syrien - Regeringen.se
 - Knutbydramat: Sex, Gud och ond bråd död - Dagens Nyheter
 - Socialstyrelsen: Så kan vården stärkas i krig - GP
-- Familjer polisanmäler hjärtläkare för felbehandlingar - Dagens Medicin
-- Personer fördes till sjukhus efter villabrand i natt - Norra Halland
 - USA-politiker kräver utredning av krigsbrott - Västerbottens-Kuriren
-- Utrikesministern: Ryssland ointresserat av fred - GP
+- Leo XIV på väg till Ankara, inleder sin första apostoliska resa - Vatican News
 - Modedesignern Pam Hogg död - Corren
-- Kvinna död efter hajattack i Australien - Aftonbladet
+- Riksprofil medverkade i rysk stats-tv: ”Dum grej” - Omni
+- Vattenfall och Ellevio höjer elnätsavgifterna igen - Dagens Nyheter
 - Black Friday kan vara på väg ut: ”Helt urvattnat” - SvD
-- Eljättarna höjer elnätsavgiften kraftigt - DI
-- Hyresgästföreningen: Höga inkomstkrav fortfarande ett stort problem - Dagens Nyheter
-- Bolån i Riksbankens toppskikt – nu går det neråt - Realtid
-- De vann ”Paradise hotel”: ”Galen i huvudet" - Västerbottens-Kuriren
-- 43-åring startar nytt byggföretag i Umeå - Folkbladet
+- Ny upphandling av strategisk reserv till vintern 2025/2026 - Via TT
+- Oskarshamn: "Hotade reaktorns säkerhet" - Dagens PS
+- Ångrar sexet i Paradise hotel: ”Inte kul för mina småsyskon” • Så gick det sen för deltagarna - Aftonbladet
+- 43-åring startar nytt byggföretag i Umeå - folkbladet.nu
 
 ## World News
 
@@ -41,8 +41,8 @@ _Updated: 2025-11-27 10:50_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- African man reflects on his journey as an international student at IIT Bombay: ‘Tougher than I expected’ | Trending - Hindustan Times
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- African man reflects on his journey as an international student at IIT Bombay: ‘Tougher than I expected’ | Trending - Hindustan Times
 - Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
@@ -121,7 +121,9 @@ _Updated: 2025-11-27 10:50_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -129,16 +131,14 @@ _Updated: 2025-11-27 10:50_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
