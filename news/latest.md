@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-27 22:48_
+_Updated: 2025-11-27 23:48_
 
-- What we know about the 2 National Guard members shot near White House - ABC News
+- D.C. Shooting: What We Know About the National Guard Victims - The New York Times
 - What to know about the deadly apartment fire in Hong Kong - PBS
 - Putin doubles down on demands for Ukrainian territory ahead of talks with US - BBC
-- France brings back limited military service with 3,000 volunteers next year - BBC
+- French president unveils new 10-month voluntary military service for volunteers aged 18 and 19 - ABC News
 - "How did you get this through security?" Pope Leo asks CBS News' Chris Livesay of White Sox baseball bat gift - CBS News
-- South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit - BBC
+- Households face 'dismal' rise in spending power, says IFS - BBC
 - Where the Waters Are Rough, a Fishing Town Confronts Trump’s Priorities - The New York Times
 - Louisiana death row inmate released on bail after conviction overturned in child's death nearly 3 decades later - CBS News
 - N.C. can use Republican-drawn congressional map, judges rule - Axios
-- ‘I never want to hear again that the Democratic Party has a problem with young men’ - Politico
-- Households face 'dismal' rise in spending power, says IFS - BBC
+- Trump criticizes the program that brought Afghan refugees to the US who fought the Taliban - AP News
+- Israeli Forces Filmed Shooting Dead Two Surrendered Palestinians in West Bank City of Jenin - Haaretz
 - Rocket Attack on Iraqi Gas Field Cuts Power to Most of Kurdistan - The New York Times
-- Peru’s ousted ‘president of the poor’ gets 11-year sentence for rebellion - The Guardian
 - Guinea-Bissau soldiers announce general as junta leader, cementing coup days after election - AP News
+- South Africa hits back at ‘punitive’ Trump move to bar it from G20 meeting in Florida - The Guardian
 - Campbell's fires executive for alleged racist rant, disparaging company - Axios
-- Your guide to which Seattle-area stores are OPEN on Black Friday, and when - KOMO
-- JPMorgan to build multi-billion pound tower in London's Canary Wharf - Reuters
+- Here’s when Black Friday starts at all the major U.S. retail stores - Fortune
+- Exclusive: US defense firm Anduril faces setbacks from drone crashes - Reuters
 - 'Big Short' investor Michael Burry reveals 4 stock picks, including Lululemon and Fannie Mae - Business Insider
 - The best Thanksgiving Black Friday deals for 2025: Save on AirPods, PS5 consoles, Disney+ and more - Engadget
-- Rare Apple Watch Black Friday deals at Amazon: Series 11, Ultra 2, SE - USA Today
+- Walmart is offering $200 off the TCL 85” Roku TV for Black Friday - AL.com
