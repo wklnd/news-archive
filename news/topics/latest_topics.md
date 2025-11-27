@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 07:44_
+_Updated: 2025-11-27 08:54_
 
 ## Top Stories
 
-- Två soldater skjutna nära Vita huset - Hufvudstadsbladet
+- Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
 - Hyresgästföreningen: Höga inkomstkrav fortfarande ett stort problem - Dagens Nyheter
 - De flydde Mariupol – för att slippa ryska armén - Västerbottens-Kuriren
 - Orosmoln för M – trots ljusning för Tidö - SvD
-- Kvinna död efter hajattack i Australien - GP
-- ”Fred” i Trumps tid - Dagens Arena
+- Många saknas efter jättebranden i Hongkong - GP
+- Explosion vid villaentré i natt - Nerikes Allehanda
 - Vänsterpartiet i ny bottennotering - Västerbottens-Kuriren
+- Så kan civilplikt stärka vårdens bemanning i krig - Socialstyrelsen
 - Familjer polisanmäler barnhjärtläkaren - GP
-- Foodora om de bensindrivna mopederna: Ni måste ha sett fel - Dagens Nyheter
 - Regler om regnskog skjuts upp – igen - Västerbottens-Kuriren
-- Modedesignern Pam Hogg död - Västerbottens-Kuriren
+- Utrikesministern håller pressträff om Ukraina - Dagens Nyheter
+- Modedesignern Pam Hogg död - UNT
+- Kvinna död efter hajattack i Australien - Corren
 - Europa kräver "stenhårda garantier" för Ukraina vid fredsavtal - Europaportalen
-- Witkoffs tips till Ryssland inför samtalet med Trump - Expressen
-- Ett steg närmare jättelån till Ukraina – ska finansieras med ryska pengar - Dagens Nyheter
+- Vattenfall höjer elnätsavgiften kraftigt - SvD
+- FI: AI-uppgången är sårbar - Tidningen Näringslivet
 - Fakta i frågan: Är Sverige på väg mot en tillväxtkris? - Dagens Nyheter
 - Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
-- FI varnar: Hushåll sårbara för amerikanskt börsras - DI
-- Sverige och Saab väljs för att leverera nya ubåtar till Polen - Saab
-- Ångrar sexet i Paradise hotel: ”Inte kul för mina småsyskon” • Så gick det sen för deltagarna - Aftonbladet
-- Chat GPT och Copilot slängs ut från Whatsapp - m3.se
+- De vann ”Paradise hotel”: ”Galen i huvudet" - Västerbottens-Kuriren
+- Håll koll på Black Friday-priserna med Dealon - Teknikveckan
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2025-11-27 07:44_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - African man reflects on his journey as an international student at IIT Bombay: ‘Tougher than I expected’ | Trending - Hindustan Times
-- Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Moore Global Named Network of the Year in Unanimous Decision (PR Newswire) - Aktiellt
-- PARAMOUNT GLOBAL REPORTS SECOND QUARTER 2025 EARNINGS RESULTS (PR Newswire) - Aktiellt
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- BANORTE, LED BY CARLOS HANK-GONZÁLEZ, IS RECOGNIZED BY WORLD FINANCE AS MEXICO'S BEST RETAIL BANK AND BEST IN CORPORATE GOVERNANCE (PR Newswire) - Aktiellt
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 
 ## Technology
@@ -60,16 +60,16 @@ _Updated: 2025-11-27 07:44_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -104,11 +104,11 @@ _Updated: 2025-11-27 07:44_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
@@ -145,6 +145,7 @@ _Updated: 2025-11-27 07:44_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +153,12 @@ _Updated: 2025-11-27 07:44_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
