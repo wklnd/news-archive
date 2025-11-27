@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 18:48_
+_Updated: 2025-11-27 19:40_
 
 ## Top Stories
 
-- Riksåklagaren om Knutbymordet: ”Begär inte resning” - SVT Nyheter
+- Riksåklagaren om Knutbymordet: Begär inte resning - SVT Nyheter
+- Forssell vill utvisa fler till Syrien - Dagens Nyheter
 - E4 helt avstängd efter dubbla olyckor - Västerbottens-Kuriren
 - Grodmän hämtade kokain från fartygsskrov - Sjöfartstidningen
-- Letar efter sin syster bland brandoffren: ”Så många barn” - Hufvudstadsbladet
 - Var fjärde man dricker hellre tabasco än gråter inför en vän - HD
 - Utredningen mot UD-diplomat inleddes efter Kronofogdens insats - Dagens Nyheter
-- Fler döms för mord på 14-åringar - SVT Nyheter
-- Johan Forssell och Benjamin Dousa har besökt Syrien och Libanon - Regeringen.se
+- Försäkringskassan: Tusentals gängkriminella försörjer sig på bidrag - SVT Nyheter
+- Planerade massmord på Eurovision – svensk terrorist döms i Luxemburg - Aftonbladet
 - Nya regler i plan- och bygglagen från 1 december 2025 - Osby kommun
-- Så vill regeringen strypa bilregister på nätet - Carup.se
-- Putin: Redo att kriga tills sista ukrainaren dör - Dagens Nyheter
+- Fler döms för mord på 14-åringar - Västerbottens-Kuriren
 - Utrikesministern om de ryska tillgångarna: ”Upplever att det rör sig framåt” - ALTinget.SE
-- Ungern vill ta över efter sanktionerna - Västerbottens-Kuriren
-- Nord Stream-misstänkt utlämnad till Tyskland - GP
+- Leo XIV på väg till Ankara, inleder sin första apostoliska resa - Vatican News
+- Dansk nattvakt håller koll på Trump och Grönland - Omni
+- Putin: Redo att kriga tills sista ukrainaren dör - Dagens Nyheter
 - Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
 - Vattenfall och Ellevio höjer elnätsavgifterna från årsskiftet - Placera.se
 - Regeringen vill höja skatten mer på cigaretter - Aftonbladet
@@ -31,21 +31,21 @@ _Updated: 2025-11-27 18:48_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 
 ## Technology
@@ -85,14 +85,14 @@ _Updated: 2025-11-27 18:48_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -101,16 +101,16 @@ _Updated: 2025-11-27 18:48_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -120,25 +120,25 @@ _Updated: 2025-11-27 18:48_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
