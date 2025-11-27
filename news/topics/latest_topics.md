@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 11:44_
+_Updated: 2025-11-27 12:46_
 
 ## Top Stories
 
 - Alexander Holmberg, 23, döms för terrorplaner mot Eurovision - ETC.se
-- Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
-- Bottennotering för Vänsterpartiet i ny mätning - GP
-- DN Direkt – Äldre man räddad från 31:våningen i brinnande hus - Dagens Nyheter
-- Tusentals gängkriminella försörjer sig på bidrag - Sydsvenskan
-- ”Fred” i Trumps tid - Dagens Arena
+- Björn af Kleen: Nu börjar Trumperans farligaste ögonblick - Dagens Nyheter
+- Risk för sorkfeber bland människor - SvD
+- Utrikesministern om de ryska tillgångarna: ”Upplever att det rör sig framåt” - ALTinget.SE
+- Ny rapport: Ökad risk för trängsel på vägar och järnvägar när Fehmarn Bält-förbindelsen öppnar - dagensinfrastruktur -
+- Makabra fyndet som chockade ett helt land - SvD
+- Försäkringskassan: Tusentals gängkriminella försörjer sig på bidrag - SVT Nyheter
 - Familjer polisanmäler barnhjärtläkaren - Västerbottens-Kuriren
 - Pressinbjudan: Migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing efter sitt besök till Syrien - Regeringen.se
-- Knutbydramat: Sex, Gud och ond bråd död - Dagens Nyheter
 - Socialstyrelsen: Så kan vården stärkas i krig - GP
 - USA-politiker kräver utredning av krigsbrott - Västerbottens-Kuriren
 - Leo XIV på väg till Ankara, inleder sin första apostoliska resa - Vatican News
-- Modedesignern Pam Hogg död - Corren
-- Riksprofil medverkade i rysk stats-tv: ”Dum grej” - Omni
-- Vattenfall och Ellevio höjer elnätsavgifterna igen - Dagens Nyheter
-- Black Friday kan vara på väg ut: ”Helt urvattnat” - SvD
-- Ny upphandling av strategisk reserv till vintern 2025/2026 - Via TT
-- Oskarshamn: "Hotade reaktorns säkerhet" - Dagens PS
-- Ångrar sexet i Paradise hotel: ”Inte kul för mina småsyskon” • Så gick det sen för deltagarna - Aftonbladet
-- 43-åring startar nytt byggföretag i Umeå - folkbladet.nu
+- Modedesignern Pam Hogg död - Västerbottens-Kuriren
+- Ett steg närmare jättelån till Ukraina – ska finansieras med ryska pengar - Dagens Nyheter
+- Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
+- DEBATT: Roswall: Fyra reformer för att stärka den europeiska bioekonomin - DI
+- Ny upphandling av elreserv i vinter - Tidningen Energi
+- Afv-analytikerna tipsar: 16 aktier att köpa på Black Friday - Affärsvärlden
+- Philips T6000 och Philips H8000E: Nya hörlurarna övertygar - mobil.se
+- Billiga strump-pung-kopior dyker upp på nätet - Teknikveckan
 
 ## World News
 
@@ -31,27 +31,26 @@ _Updated: 2025-11-27 11:44_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- African man reflects on his journey as an international student at IIT Bombay: ‘Tougher than I expected’ | Trending - Hindustan Times
-- Paperworld China 2025 unveils new features and expanded global participation - DagensNaringsliv.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Pioneering Global Presence, Empowering the World - Zuowei Technology Shining at WHX Miami Medical Expo - Aktiellt
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -65,11 +64,12 @@ _Updated: 2025-11-27 11:44_
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 
 ## Business
 
@@ -101,7 +101,6 @@ _Updated: 2025-11-27 11:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -109,13 +108,14 @@ _Updated: 2025-11-27 11:44_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -131,12 +131,12 @@ _Updated: 2025-11-27 11:44_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
@@ -145,7 +145,6 @@ _Updated: 2025-11-27 11:44_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -155,10 +154,11 @@ _Updated: 2025-11-27 11:44_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
