@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-27 13:48_
+_Updated: 2025-11-27 15:19_
 
-- What to know about shooting of 2 National Guard members in D.C. - Axios
-- What to Know About the Deadly Fire at a Hong Kong Apartment Complex - The New York Times
-- This bodge-it budget does not give Britain what it needs - The Economist
-- Kremlin calls foul on leaked Witkoff call - Politico
+- 2 National Guard members remain in critical condition after 'targeted shooting' near White House - ABC News
+- Hong Kong fire latest: rescue crews search for survivors after 55 killed and hundreds reported missing - The Guardian
+- Pope asks for prayers ahead of visit to Türkiye and Lebanon - Vatican News
 - South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit - BBC
-- Sen. Kelly says Pete Hegseth 'totally unqualified' after being bashed over display of medals - ABC News
-- Judges allow North Carolina to use a map drawn in bid to give Republicans another US House seat - AP News
-- Circuit judge's final order: Schools can't block unvaccinated students citing religious exemptions - WV MetroNews
-- Blizzard conditions, heavy lake effect snow to slam Michigan through Thanksgiving - MLive.com
-- Death row inmate Ralph Menzies dies of natural causes - KSL.com
-- Pope Leo marks Thanksgiving with pumpkin pie as he lands in Turkey on first overseas trip - CNN
+- Leaked Transcript of Witkoff Call Shows U.S. Deference to Russia - The New York Times
+- Where the Waters Are Rough, a Fishing Town Confronts Trump’s Priorities - The New York Times
+- N.C. can use Republican-drawn congressional map, judges rule - Axios
+- State Court Rules School Vaccine Law Can’t Bar Religious Exemptions - The New York Times
+- How Trump targeting these Democrats could backfire - Politico
+- Colorado state senator killed in multi-vehicle crash south of Denver - The Colorado Sun
+- Britain’s budget prioritised Labour's political survival - The Economist
+- St Vincent prime minister seeks record sixth term in tight election - The Guardian
 - Europe strains to speak with one voice as U.S., Russia decide Ukraine’s fate - The Washington Post
 - Soldiers in Guinea-Bissau announce their government takeover on state TV - NPR
-- China's top paper urges US to rein in Japan over Taiwan - Reuters
-- Campbell's fires executive for alleged racist rant, disparaging company - Axios
+- Stocks stage powerful comeback ahead of Thanksgiving. It wasn’t enough to erase November’s losses. - MarketWatch
 - Stocks gain as investors bet on Fed rate cuts; yen locked in intervention zone - Reuters
 - JPMorgan to build huge new tower in London's Canary Wharf - Reuters
-- Asahi says more than 1.5 million customers' data potentially leaked in cyber-attack - BBC
-- Get massive 75-inch QLED 4K TV with ‘over a billion shades of color’ under $380 - Cleveland.com
-- Apple's upcoming iPhone Fold looks to copy Microsoft's Surface Duo — and that's genuinely great news - Windows Central
+- Tesla highlights low running costs amid disappointing India sales - BBC
+- Google Maps gains Gemini enhancements to make navigation simpler - Android Police
+- Xiaomi 17 Ultra's powerful camera specs leak with a triple-lens setup - Notebookcheck
