@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 09:41_
+_Updated: 2025-11-27 10:50_
 
 ## Top Stories
 
-- Elnätsjättarna höjer avgiften kraftigt - Skånska Dagbladet
+- Längdskidor: Krista Pärmäkoski avslutar karriären efter säsongen - SVT Nyheter
 - Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
 - Tusentals gängkriminella försörjer sig på bidrag - Sydsvenskan
-- Vänsterpartiet i ny bottennotering - Västerbottens-Kuriren
+- Vänsterpartiet i ny bottennotering - Aftonbladet
 - Orosmoln för M – trots ljusning för Tidö - SvD
-- Avspärrat – kraftig explosion - Nerikes Allehanda
-- Socialstyrelsen: Så kan vården stärkas i krig - Västerbottens-Kuriren
-- Familjer polisanmäler barnhjärtläkaren - GP
-- Höga halter PFAS i populära märkets byxor: ”Kommer att få problem” - Aftonbladet
-- Regler om regnskog skjuts upp – igen - Västerbottens-Kuriren
-- USA-politiker kräver utredning av krigsbrott - Folkbladet
-- Utrikesministern: Ryssland ointresserat av fred - Västerbottens-Kuriren
-- Modedesignern Pam Hogg död - UNT
-- DN Direkt – Kvinna död efter hajattack i Australien - Dagens Nyheter
+- DN Direkt – Regeringen om influensan: Väntar oss en markant ökning - Dagens Nyheter
+- Knutbydramat: Sex, Gud och ond bråd död - Dagens Nyheter
+- Socialstyrelsen: Så kan vården stärkas i krig - GP
+- Familjer polisanmäler hjärtläkare för felbehandlingar - Dagens Medicin
+- Personer fördes till sjukhus efter villabrand i natt - Norra Halland
+- USA-politiker kräver utredning av krigsbrott - Västerbottens-Kuriren
+- Utrikesministern: Ryssland ointresserat av fred - GP
+- Modedesignern Pam Hogg död - Corren
+- Kvinna död efter hajattack i Australien - Aftonbladet
 - Black Friday kan vara på väg ut: ”Helt urvattnat” - SvD
-- Fakta i frågan: Är Sverige på väg mot en tillväxtkris? - Dagens Nyheter
-- Bred uppgång på börsen i USA - Västerbottens-Kuriren
+- Eljättarna höjer elnätsavgiften kraftigt - DI
 - Hyresgästföreningen: Höga inkomstkrav fortfarande ett stort problem - Dagens Nyheter
+- Bolån i Riksbankens toppskikt – nu går det neråt - Realtid
 - De vann ”Paradise hotel”: ”Galen i huvudet" - Västerbottens-Kuriren
-- Test: Acer Aspire 14 AI R7 – Ryzen fixar batteritiden – inte helheten - PC för Alla
+- 43-åring startar nytt byggföretag i Umeå - Folkbladet
 
 ## World News
 
@@ -51,24 +51,24 @@ _Updated: 2025-11-27 09:41_
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
+- Oron: Då tar datan på internet slut - SvD
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 
 ## Business
@@ -155,7 +155,7 @@ _Updated: 2025-11-27 09:41_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
