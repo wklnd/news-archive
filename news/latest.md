@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-27 23:48_
+_Updated: 2025-11-28 00:47_
 
-- D.C. Shooting: What We Know About the National Guard Victims - The New York Times
-- What to know about the deadly apartment fire in Hong Kong - PBS
+- Trump vows immigration crackdown following DC shooting of National Guard members - ABC News
+- Images From the Deadly High-Rise Fire in Hong Kong - The New York Times
 - Putin doubles down on demands for Ukrainian territory ahead of talks with US - BBC
-- French president unveils new 10-month voluntary military service for volunteers aged 18 and 19 - ABC News
-- "How did you get this through security?" Pope Leo asks CBS News' Chris Livesay of White Sox baseball bat gift - CBS News
+- France brings back limited military service with 3,000 volunteers next year - BBC
 - Households face 'dismal' rise in spending power, says IFS - BBC
-- Where the Waters Are Rough, a Fishing Town Confronts Trump’s Priorities - The New York Times
-- Louisiana death row inmate released on bail after conviction overturned in child's death nearly 3 decades later - CBS News
+- "How did you get this through security?" Pope Leo asks CBS News' Chris Livesay of White Sox baseball bat gift - CBS News
 - N.C. can use Republican-drawn congressional map, judges rule - Axios
-- Trump criticizes the program that brought Afghan refugees to the US who fought the Taliban - AP News
-- Israeli Forces Filmed Shooting Dead Two Surrendered Palestinians in West Bank City of Jenin - Haaretz
+- Putin Defends Witkoff Against Accusations of Pro-Russia Bias - The New York Times
+- Louisiana death row inmate released on bail after conviction overturned in child's death nearly 3 decades later - CBS News
+- Colorado state senator killed in multi-vehicle crash south of Denver - The Colorado Sun
+- Israeli forces kill two in Jenin after apparent surrender - The Jerusalem Post
 - Rocket Attack on Iraqi Gas Field Cuts Power to Most of Kurdistan - The New York Times
 - Guinea-Bissau soldiers announce general as junta leader, cementing coup days after election - AP News
 - South Africa hits back at ‘punitive’ Trump move to bar it from G20 meeting in Florida - The Guardian
 - Campbell's fires executive for alleged racist rant, disparaging company - Axios
-- Here’s when Black Friday starts at all the major U.S. retail stores - Fortune
-- Exclusive: US defense firm Anduril faces setbacks from drone crashes - Reuters
-- 'Big Short' investor Michael Burry reveals 4 stock picks, including Lululemon and Fannie Mae - Business Insider
-- The best Thanksgiving Black Friday deals for 2025: Save on AirPods, PS5 consoles, Disney+ and more - Engadget
-- Walmart is offering $200 off the TCL 85” Roku TV for Black Friday - AL.com
+- Read Warren Buffett’s annual Thanksgiving letter for 2025—his final one to shareholders - Fortune
+- How to talk to grandma about AI - Axios
+- Your guide to which Seattle-area stores are OPEN on Black Friday, and when - KOMO
+- I've Rounded Up All of the Best Black Friday OLED TV Deals From LG, Samsung, and Sony - IGN
+- Chinese brands watched the iPhone Air flop and canceled their own plans – report - 9to5Mac
