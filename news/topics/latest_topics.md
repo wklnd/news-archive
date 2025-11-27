@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 19:40_
+_Updated: 2025-11-27 20:49_
 
 ## Top Stories
 
 - Riksåklagaren om Knutbymordet: Begär inte resning - SVT Nyheter
 - Forssell vill utvisa fler till Syrien - Dagens Nyheter
-- E4 helt avstängd efter dubbla olyckor - Västerbottens-Kuriren
+- Bil i mitträcket – jättekö efter E4 - Kuriren
+- E4 helt avstängd – efter dubbla olyckor i Umeå - Expressen
+- Trump rasar efter frågor om sin ålder: ”Galningar” - Expressen
 - Grodmän hämtade kokain från fartygsskrov - Sjöfartstidningen
-- Var fjärde man dricker hellre tabasco än gråter inför en vän - HD
+- Gängkriminella får sin grundförsörjning via aktivitetsstöd eller annan ersättning - Regeringen.se
+- Dom ändras i omtalat mordfall – två fälls för mordet på Layth - Dagens Nyheter
 - Utredningen mot UD-diplomat inleddes efter Kronofogdens insats - Dagens Nyheter
-- Försäkringskassan: Tusentals gängkriminella försörjer sig på bidrag - SVT Nyheter
-- Planerade massmord på Eurovision – svensk terrorist döms i Luxemburg - Aftonbladet
-- Nya regler i plan- och bygglagen från 1 december 2025 - Osby kommun
-- Fler döms för mord på 14-åringar - Västerbottens-Kuriren
-- Utrikesministern om de ryska tillgångarna: ”Upplever att det rör sig framåt” - ALTinget.SE
-- Leo XIV på väg till Ankara, inleder sin första apostoliska resa - Vatican News
-- Dansk nattvakt håller koll på Trump och Grönland - Omni
+- Var fjärde man dricker hellre tabasco än gråter inför en vän - HD
 - Putin: Redo att kriga tills sista ukrainaren dör - Dagens Nyheter
-- Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
-- Vattenfall och Ellevio höjer elnätsavgifterna från årsskiftet - Placera.se
+- Putin: Slutar strida om Ukraina drar sig tillbaka - Västerbottens-Kuriren
+- Frankrike återinför frivillig militärtjänst - GP
+- Leo XIV på väg till Ankara, inleder sin första apostoliska resa - Vatican News
+- De här produkterna blev dyrare innan Black Friday-rabatterna - Yle
+- Deloitte anmäler Intellego – misstänker bokföringsbrott - DI
 - Regeringen vill höja skatten mer på cigaretter - Aftonbladet
-- Polen ska köpa Saabs ubåtar – blir Sveriges största marina export - newsoresund.se
-- Ny upptäckt på Mars besvarar tidigare olöst fråga om planeten - NyTeknik
+- Förändringar i Affärsverket svenska kraftnäts ledning - Regeringen.se
 - Lancelot Ncube - Dramaten
+- Nytt amerikansk-ryskt besök på rymdstation - Aftonbladet
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2025-11-27 19:40_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 
 ## Technology
@@ -81,18 +81,18 @@ _Updated: 2025-11-27 19:40_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -108,7 +108,6 @@ _Updated: 2025-11-27 19:40_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
@@ -116,36 +115,36 @@ _Updated: 2025-11-27 19:40_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -156,9 +155,10 @@ _Updated: 2025-11-27 19:40_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
