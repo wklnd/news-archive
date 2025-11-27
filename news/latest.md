@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-27 05:59_
+_Updated: 2025-11-27 06:51_
 
 - Suspect in D.C. National Guard shooting identified as 29-year-old Afghan national. Here's what we know. - CBS News
-- Death toll in Hong Kong fire rises to 44 with 279 still missing, authorities say - BBC
-- Kremlin calls foul on leaked Witkoff call - Politico
+- Hong Kong Arrests 3 Tied to Construction Company After Deadly Fire - The New York Times
+- Trump defends key negotiator after leaked phone call appears to show him coaching Russia - NPR
 - North Carolina Can Use Republican-Friendly Congressional Map, Court Says - The New York Times
-- Georgia prosecutor drops election interference case against Trump, others - ABC News
-- Trump urged Japan PM to avoid escalation in China dispute, sources say - Reuters
 - How Trump targeting these Democrats could backfire - Politico
+- Georgia prosecutor drops election interference case against Trump, others - ABC News
 - Death row inmate Ralph Menzies dies of natural causes - KSL.com
-- Colorado doesn’t plan to transfer imprisoned former county clerk to federal custody - AP News
 - Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens - The New York Times
-- Guinea-Bissau’s President Says He Has Been Deposed. The Opposition Says It’s a Trick. - The New York Times
-- Pope Leo XIV to visit Turkey and Lebanon on first foreign trip - NPR
-- UK to raise dividend, property and savings tax rates by 2 percentage points - Reuters
+- Colorado doesn’t plan to transfer imprisoned former county clerk to federal custody - AP News
+- Weekend snowstorm looking more likely, should affect all of Lower Michigan - MLive.com
+- Soldiers in Guinea-Bissau announce their government takeover on state TV - NPR
+- Germany’s Secret Plan for War With Russia - The Wall Street Journal
+- U.K. Budget Plan Calms Markets and Labour Faithful. Will It Appeal to Voters? - The New York Times
 - Trump disinvites South Africa from 2026 G20 summit - Politico
+- US Stocks Climb as Rate-Cut Bets Keep Rally Alive: Markets Wrap - Bloomberg.com
 - Campbell's fires executive accused of making racist remarks - NBC News
-- Stock Market Today: Dow Rises; Nasdaq Leads Gains — Live Updates - The Wall Street Journal
-- Sean Duffy wants more civility in air travel. Not everyone is on board - BBC
-- As Trade Talks Stall, Carney Moves to Shield Canada from Trump Tariffs - The New York Times
+- Gavin Newsom Responds To Sean Duffy’s Airport ‘Dress Up’ Advice In A Nasty Dig At Another MAGA Official - HuffPost
+- Asahi says more than 1.5m customers' data leaked in cyber-attack - BBC
 - Apple's founding document is heading to auction - Engadget
-- December's PS Plus Monthly Games include Lego Horizon Adventures and Neon White - Engadget
+- One UI 8.5 beta program could begin on this date, mark your calendars! - SamMobile
