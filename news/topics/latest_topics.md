@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 23:38_
+_Updated: 2025-11-28 00:41_
 
 ## Top Stories
 
-- Ishockey: Örebro slog HV71 – efter jätteräddning och konstmål - SVT Nyheter
 - Sarah Beckstrom och Andrew Wolfe sköts vid Vita huset - GP
 - PODD: Haavisto: ”Stubbs golfdiplomati har varit speciell” - Hufvudstadsbladet
 - Palestinier lade ned vapnen – sköts - Dagens Nyheter
-- Sa att han ville mörda – skrevs ut från psykiatrin ett dygn senare - Aftonbladet
+- Bil i mitträcket – jättekö efter E4 - NSD
 - Kritiken mot RFK Jr är skakande läsning - SvD
+- Sa att han ville mörda – skrevs ut från psykiatrin ett dygn senare - Aftonbladet
 - Gängkriminella får sin grundförsörjning via aktivitetsstöd eller annan ersättning - Regeringen.se
+- Riksåklagaren om Knutbymordet: Begär inte resning - SVT Nyheter
 - Nya regler i plan- och bygglagen från 1 december 2025 - Osby kommun
 - Man greps för misshandel och narkotikabrott - Örebronyheter
-- Historiskt enigt fullmäktige klubbade igenom budgeten för nästa år - NLT
-- Frankrike återinför frivillig militärtjänst - Västerbottens-Kuriren
+- Efter Washington-dådet: USA ska granska visum - Västerbottens-Kuriren
+- Erik de la Reguera: Är fransmännen redo att förlora sina barn? - Dagens Nyheter
 - Här försöker Ryssland rycka fram i vinter: ”Går inte särskilt fort” - Dagens Nyheter
 - Leo XIV på väg till Ankara, inleder sin första apostoliska resa - Vatican News
-- Flicka till sjukhus efter olycka med elsparkcykel - Aftonbladet
 - Vattenfall och Ellevio höjer elnätsavgifterna från årsskiftet - Placera.se
 - Deloitte anmäler Intellego – misstänker bokföringsbrott - DI
 - Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
-- Regeringen vill höja skatten mer på cigaretter - Aftonbladet
+- Svensk vapenexport på väg mot nya rekord - tidningensyre.se
 - Lancelot Ncube - Dramaten
 - Nytt amerikansk-ryskt besök på rymdstation - Aftonbladet
 
@@ -58,18 +58,18 @@ _Updated: 2025-11-27 23:38_
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- ZAC helping USA achieve Artificial Intelligence (AI) supremacy, with its Cognitive Explainable-AI (CXAI) algorithm breakthroughs (PR Newswire) - Aktiellt
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -145,6 +145,7 @@ _Updated: 2025-11-27 23:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +153,12 @@ _Updated: 2025-11-27 23:38_
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
