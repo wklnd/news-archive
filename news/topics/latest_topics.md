@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 15:49_
+_Updated: 2025-11-27 16:44_
 
 ## Top Stories
 
+- Knivskuren person i Karlskrona: ”Allvarliga skador” - Aftonbladet
 - Hovrätten ändrar uppmärksammad dom: Två döms för mordet på Layth - SVT Nyheter
-- En frihetsberövad efter våldsbrott i Karlskrona - SvD
 - PODD: Haavisto: Turkiet kan bli ny fredsmäklare - Hufvudstadsbladet
-- Alexander Holmberg, 23, döms för terrorplaner mot Eurovision - ETC.se
 - Gängkriminella får sin grundförsörjning via aktivitetsstöd eller annan ersättning - Regeringen.se
-- Stort tillslag – gods för fem miljoner - Aftonbladet
+- Just nu: Olycka med en personbil på E4 - NSD
+- Ny rapport: Ökad risk för trängsel på vägar och järnvägar när Fehmarn Bält-förbindelsen öppnar | Greater Copenhagen - Mynewsdesk
 - Pressinbjudan: Migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing efter sitt besök till Syrien - Regeringen.se
-- Varningen: Risk för sorkfeber bland människor - GP
-- Familjer polisanmäler barnhjärtläkaren - Corren
-- Så vill regeringen strypa bilregister på nätet - Carup.se
-- Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
+- Svensk döms för terrorplaner mot Eurovision - Dagens Nyheter
+- Familjer polisanmäler barnhjärtläkaren - Västerbottens-Kuriren
+- Varningen: Risk för sorkfeber bland människor – så skyddar du dig - Skånska Dagbladet
 - Michael Winiarski: Varför agerar Trumps sändebud som Putins rådgivare? - Dagens Nyheter
 - Ungern vill ta över efter sanktionerna - Västerbottens-Kuriren
-- Journalister frikänns efter Istanbulprotest - GP
-- Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
-- Trots mångmiljardvinster – kraftig höjning av elnätsavgiften - ETC.se
-- Regeringen vill höja tobaksskatter – mest på cigaretter - DI
+- Nord Stream-misstänkt utlämnad till Tyskland - GP
+- Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
+- Regeringen vill höja skatten mer på cigaretter - Aftonbladet
+- Vattenfall och Ellevio höjer elnätsavgifterna igen - Dagens Nyheter
 - Förändringar i Affärsverket svenska kraftnäts ledning - Regeringen.se
+- Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
 - Ny upptäckt på Mars besvarar tidigare olöst fråga om planeten - NyTeknik
-- World of Warcraft: Midnight släpps i vår - FZ.se
+- Ny Citizen Eco-Drive One-klocka avslöjad som en begränsad upplaga - notebookcheck.se
 
 ## World News
 
@@ -43,7 +43,7 @@ _Updated: 2025-11-27 15:49_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Moore Global Named Network of the Year in Unanimous Decision (PR Newswire) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Didi Global ökar omsättning och vinst - Börsvärlden
+- VCI Global förvärvar ytterligare 4 miljoner OOB-tokens för 1 miljon USD - Investing.com Sverige
 - Anhui Unveils Teaser for 2025 World Manufacturing Convention, Extending a Global Invitation to Innovate Together - Aktiellt
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
@@ -51,25 +51,25 @@ _Updated: 2025-11-27 15:49_
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Oron: Då tar datan på internet slut - SvD
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -107,11 +107,11 @@ _Updated: 2025-11-27 15:49_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -133,32 +133,32 @@ _Updated: 2025-11-27 15:49_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
