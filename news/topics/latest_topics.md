@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-27 17:42_
+_Updated: 2025-11-27 18:48_
 
 ## Top Stories
 
-- Putin: Redo att kriga tills sista ukrainaren dör - Dagens Nyheter
-- PODD: Haavisto: Turkiet kan bli ny fredsmäklare - Hufvudstadsbladet
-- Dom i mål om mord på två 14-åriga pojkar - Sveriges Domstolar
-- Kvinna död efter knivattack i Karlskrona - SVT Nyheter
+- Riksåklagaren om Knutbymordet: ”Begär inte resning” - SVT Nyheter
+- E4 helt avstängd efter dubbla olyckor - Västerbottens-Kuriren
 - Grodmän hämtade kokain från fartygsskrov - Sjöfartstidningen
-- Marianne Björklund: Branden kan väcka uppdämt missnöje i Hongkong - Dagens Nyheter
-- Pressinbjudan: Migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing efter sitt besök till Syrien - Regeringen.se
-- Familjer polisanmäler barnhjärtläkaren - Västerbottens-Kuriren
-- Planerade massmord på Eurovision – svensk terrorist döms i Luxemburg - Aftonbladet
+- Letar efter sin syster bland brandoffren: ”Så många barn” - Hufvudstadsbladet
+- Var fjärde man dricker hellre tabasco än gråter inför en vän - HD
+- Utredningen mot UD-diplomat inleddes efter Kronofogdens insats - Dagens Nyheter
+- Fler döms för mord på 14-åringar - SVT Nyheter
+- Johan Forssell och Benjamin Dousa har besökt Syrien och Libanon - Regeringen.se
+- Nya regler i plan- och bygglagen från 1 december 2025 - Osby kommun
 - Så vill regeringen strypa bilregister på nätet - Carup.se
-- Britt-Marie Mattsson: Dådet utanför Vita huset spelar Trump i händerna - GP
+- Putin: Redo att kriga tills sista ukrainaren dör - Dagens Nyheter
+- Utrikesministern om de ryska tillgångarna: ”Upplever att det rör sig framåt” - ALTinget.SE
 - Ungern vill ta över efter sanktionerna - Västerbottens-Kuriren
 - Nord Stream-misstänkt utlämnad till Tyskland - GP
-- Michael Winiarski: Varför agerar Trumps sändebud som Putins rådgivare? - Dagens Nyheter
-- Trots mångmiljardvinster – kraftig höjning av elnätsavgiften - ETC.se
 - Ministerns rea-ilska: ”Bedrövligt – anmäl” - Expressen
+- Vattenfall och Ellevio höjer elnätsavgifterna från årsskiftet - Placera.se
 - Regeringen vill höja skatten mer på cigaretter - Aftonbladet
 - Polen ska köpa Saabs ubåtar – blir Sveriges största marina export - newsoresund.se
 - Ny upptäckt på Mars besvarar tidigare olöst fråga om planeten - NyTeknik
@@ -31,21 +31,21 @@ _Updated: 2025-11-27 17:42_
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 
 ## Technology
@@ -98,24 +98,24 @@ _Updated: 2025-11-27 17:42_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2025-11-27 17:42_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
