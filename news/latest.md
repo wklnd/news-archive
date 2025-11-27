@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-27 15:53_
+_Updated: 2025-11-27 16:51_
 
 - 2 National Guard members remain in critical condition after 'targeted shooting' near White House - ABC News
-- ‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape - The New York Times
-- South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit - BBC
-- Kremlin calls foul on leaked Witkoff call - Politico
+- Fire in Hong Kong high-rise complex kills at least 65 people, hundreds reported missing; 3 arrested - CBS News
+- Pope Leo arrives in Turkey on first foreign trip, six months into papacy - BBC
+- Scoop: Inside the White House meeting that launched the new Ukraine peace talks - Axios
 - Where the Waters Are Rough, a Fishing Town Confronts Trump’s Priorities - The New York Times
+- France brings back limited military service with 3,000 volunteers next year - BBC
 - N.C. can use Republican-drawn congressional map, judges rule - Axios
-- Winter Storm Warning as 24 Inches of Snow To Strike: ‘Blizzard Conditions’ - Newsweek
 - Americans are buckling under medical bills. It could get worse. - Politico
-- State Court Rules School Vaccine Law Can’t Bar Religious Exemptions - The New York Times
-- How Trump targeting these Democrats could backfire - Politico
-- In Turkey, Pope Meets Erdogan With Message of Outreach - The New York Times
-- Guinea-Bissau soldiers announce Gen. Horta N’Ta as junta leader, cementing coup days after election - AP News
-- Britain’s budget prioritised Labour's political survival - The Economist
-- St Vincent prime minister seeks record sixth term in tight election - The Guardian
+- Weekend snowstorm looking more likely, should affect all of Lower Michigan - MLive.com
+- Trump defends key negotiator after leaked phone call appears to show him coaching Russia - NPR
+- U.K. Budget Plan Calms Markets and Labour Faithful. Will It Appeal to Voters? - The New York Times
+- Europe strains to speak with one voice as U.S., Russia decide Ukraine’s fate - The Washington Post
+- Guinea-Bissau soldiers say they have seized power days after national elections - PBS
+- Trump says he's barring South Africa from participating in next year's G20 summit near Miami - AP News
+- ‘Weaker job growth and lower inflation’: It’s all lining up perfectly for a Fed cut in December - Fortune
 - Stocks stage powerful comeback ahead of Thanksgiving. It wasn’t enough to erase November’s losses. - MarketWatch
 - Campbell's exec is out after rant mocking 'poor' customers, '3D-printed chicken' goes viral - Business Insider
-- JPMorgan to build huge new tower in London's Canary Wharf - Reuters
-- Asia stocks rise tracking Wall St; China property jitters, stimulus in focus - Investing.com
-- Black Friday iPad deals are live — I'm tracking the lowest prices on iPad, iPad Air, iPad mini and iPad Pro - Tom's Guide
-- One UI 8.5 beta program could begin on this date, mark your calendars! - SamMobile
+- Black Friday arrives with solid momentum despite tariffs and economic uncertainty - AP News
+- Get massive 75-inch QLED 4K TV with ‘over a billion shades of color’ under $380 - Cleveland.com
+- Sony LYT-901 200MP camera sensor launched for next-gen premium phones - Notebookcheck
