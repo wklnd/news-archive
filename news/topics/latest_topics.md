@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-28 15:46_
+_Updated: 2025-11-28 16:44_
 
 ## Top Stories
 
-- Uppgifter: USA ska erkänna ockuperade områden som ryska - GP
-- Larm om misstänkt farligt föremål på Östermalm - SVT Nyheter
-- Ishalka stoppar kollektivtrafiken i Luleå - GP
-- Regeringen vill kunna använda AI för att hitta brottslingar - Dagens Nyheter
-- Regeringen planerar skjuta fram införandet av digitala nationella prov - Regeringen.se
-- Trump vill stoppa all invandring från ”tredje världen” - Dagens Nyheter
-- Hör polisen: Misstänkta mordvapnet i Karlskrona taget i beslag - SVT Nyheter
-- Polisen om försvunna mannen: ”Oro för att han kan fara illa” - Hudiksvalls Tidning
-- Barn hittades på Kastrup – två begärs häktade - Västerbottens-Kuriren
-- Socialtjänstministern möter e-handelsföretag om sexdockor som föreställer barn - Regeringen.se
-- Dödssiffran stiger efter översvämningar i Thailand – 145 döda - SVT Nyheter
+- DN Direkt – SMHI varnar för ishalka – busstrafik ställs in - Dagens Nyheter
 - Ukraina: Kommer inte att ge upp områden - Västerbottens-Kuriren
-- Kvinnor och barn uppges dödade av Israel i Syrien - GP
+- Regeringen vill kunna använda AI för att hitta brottslingar - Dagens Nyheter
+- Trump vill stoppa all invandring från ”tredje världen” - Dagens Nyheter
+- DC-skytt stred för USA i Kandahar – fick asyl - Aftonbladet
+- Palestinier lade ned vapnen – sköts - Dagens Nyheter
+- Socialtjänstministern möter e-handelsföretag om sexdockor som föreställer barn - Regeringen.se
+- Barn hittades på Kastrup – två begärs häktade - Västerbottens-Kuriren
+- Polisen om försvunna mannen: ”Oro för att han kan fara illa” - Hudiksvalls Tidning
+- Ung Tranåsbo gick bärsärk på flera bilar – häktas - Tranås Tidning
+- Dödssiffran stiger efter översvämningar i Thailand – 145 döda - SVT Nyheter
+- Kvinnor och barn uppges dödade av Israel i Syrien - Västerbottens-Kuriren
+- Skytt avlägsnad inför påvebesök - GP
 - Razzia hos Zelenskyjs stabschef - Dagens Nyheter
 - Ebba Busch kallar upp elnätsbolagen - SvD
-- Finansbluffar vanligare – FI uppdaterar varningslista - DI
-- EU:s mardröm: Överkörd av stormakterna - Dagens PS
 - Däcktestare på väg mot First North - DI
+- Förändringar i Affärsverket svenska kraftnäts ledning - Regeringen.se
+- EU:s mardröm: Överkörd av stormakterna - Dagens PS
 - Siffror från Dell avslöjar klent intresse för Windows 11 - Computer Sweden
 - Kinesiska märken skrotar tunna mobiler efter iPhone Airs dåliga start - Teknikveckan
 
@@ -32,39 +32,39 @@ _Updated: 2025-11-28 15:46_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
@@ -74,25 +74,25 @@ _Updated: 2025-11-28 15:46_
 ## Business
 
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- AKTIS ONCOLOGY APPOINTS KYLE KUVALANKA CHIEF FINANCIAL OFFICER (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -123,11 +123,11 @@ _Updated: 2025-11-28 15:46_
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -135,10 +135,10 @@ _Updated: 2025-11-28 15:46_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
