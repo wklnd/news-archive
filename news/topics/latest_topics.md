@@ -1,19 +1,19 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-28 05:32_
+_Updated: 2025-11-28 05:56_
 
 ## Top Stories
 
 - Två militärer skjutna nära Vita huset i Washington DC - SVT Nyheter
 - Skytt avlägsnad inför påvebesök - SvD
+- Nära 100 döda efter Hongkong-brand - Västerbottens-Kuriren
 - Bil i mitträcket – jättekö efter E4 - NSD
 - Jättehaj gick till ovanlig attack – ung kvinna död - Aftonbladet
 - Man greps för misshandel och narkotikabrott - Örebronyheter
-- Efter larmen – därför måste SFI och Komvux utredas - Vi Lärare
+- Efter larmen: Regeringen utreder komvux - UNT
 - SMHI varnar för plötslig ishalka i norra Värmland - NWT
 - Nya regler i plan- och bygglagen från 1 december 2025 - Osby kommun
 - Personbil körde av vägen på E18 – fyra personer var drabbade - NWT
-- Johan Forssell och Benjamin Dousa har besökt Syrien och Libanon - Regeringen.se
 - Efter Washington-dådet: USA ska granska visum - SVT Nyheter
 - Palestinier lade ned vapnen – sköts - Dagens Nyheter
 - Utrikesministern om de ryska tillgångarna: ”Upplever att det rör sig framåt” - ALTinget.SE
@@ -21,9 +21,9 @@ _Updated: 2025-11-28 05:32_
 - Vattenfall och Ellevio höjer elnätsavgifterna från årsskiftet - Placera.se
 - Stor ökning av klimatutsläppen under Black Friday - Dagens Arena
 - EU:s bioekonomistrategi är lovande men regler bromsar - LRF - Lantbrukarnas Riksförbund
-- Han blir ny statssekreterare - ALTinget.SE
-- Nytt amerikansk-ryskt besök på rymdstation - Aftonbladet
+- Prognos: Så mycket växer svenska statsskulden - Tidningen Näringslivet
 - Titan Jetblack för alla: Samsung ryktas ta med Online Exclusive till Galaxy S26 Ultra för allmän release - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Nytt amerikansk-ryskt besök på rymdstation - Aftonbladet
 
 ## World News
 
@@ -152,13 +152,13 @@ _Updated: 2025-11-28 05:32_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
