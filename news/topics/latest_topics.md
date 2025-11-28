@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-28 07:44_
+_Updated: 2025-11-28 08:53_
 
 ## Top Stories
 
-- Soldat död efter Washington-skjutning - Hufvudstadsbladet
-- Eljättarna höjer elnätsavgiften kraftigt - DI
+- DC-skytt stred för USA i Kandahar – fick asyl - GP
 - Miljöforskaren: ”Mikroplast i hjärnan är bara toppen på ett isberg” - Dagens Nyheter
 - Jättehaj gick till ovanlig attack – ung kvinna död - Aftonbladet
-- Efter Washington-dådet: USA ska granska visum - GP
+- 28 november 07.00, Sammanfattning natt, Västra Götalands län - polisen.se
+- Träningen tog över Lindas liv – fick aldrig barn: ”Väldigt sorgligt” - Sydsvenskan
 - Skytt avlägsnad inför påvebesök - SvD
 - Riksåklagaren om Knutbymordet: Begär inte resning - SVT Nyheter
+- 28 november 07.17, Sammanfattning natt, Örebro län - polisen.se
 - Gängkriminella får sin grundförsörjning via aktivitetsstöd eller annan ersättning - Regeringen.se
-- Man greps för misshandel och narkotikabrott - Örebronyheter
-- SMHI varnar för plötslig ishalka i norra Värmland - NWT
+- 28 november 07.19, Sammanfattning natt, Värmlands län - polisen.se
 - Trump: Ska stoppa droger även på land - GP
-- Utrikesministern om de ryska tillgångarna: ”Upplever att det rör sig framåt” - ALTinget.SE
-- Palestinier skjutna med uppsträckta händer - SVT Nyheter
+- Uppgifter: Orbán till Moskva på fredag - Expressen
 - Dödliga översvämmningar stänger Sri Lanka - Västerbottens-Kuriren
-- Smyghöjningar och felaktiga 30-dagarspriser på årets Black Friday - Notified
-- EU:s bioekonomistrategi är lovande men regler bromsar - LRF - Lantbrukarnas Riksförbund
-- Prognos: Så mycket växer svenska statsskulden - Tidningen Näringslivet
-- Nya regler mot bedrägerier och annat vilseledande genom elektroniska kommunikationer - Regeringen.se
-- Titan Jetblack för alla: Samsung ryktas ta med Online Exclusive till Galaxy S26 Ultra för allmän release - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Sårbarhet upptäckt i flera populära routrar: Uppdatera snarast - PC för Alla
+- Palestinier skjutna efter att ha överlämnat sig - Hufvudstadsbladet
+- Vattenfall och Ellevio höjer elnätsavgifterna från årsskiftet - Placera.se
+- De här produkterna blev dyrare innan Black Friday-rabatterna - Yle
+- November: Aktiespararna säkrar vinst i kursraketerna - Avanza Investor Relations
+- Beslut i korthet - regionstyrelsen 26 november - Region Norrbotten
+- Mysteriet fortsätter: "Jag har lagt alla resurser jag kan" - Västerbottningen
+- Mystiska poddar dyker upp i Apple Podcasts – kan utnyttjas för attacker - Macworld.se
 
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
+- Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Global travelers ahoy! Shanghai International Cruise Festival sets sail (PR Newswire) - Aktiellt
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - DAHON's Global Expansion: A Call to Collaborate on New Opportunities - Placera.se
 - Moore Global Named Network of the Year in Unanimous Decision (PR Newswire) - Aktiellt
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
 
 ## Technology
 
@@ -104,12 +104,12 @@ _Updated: 2025-11-28 07:44_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -152,13 +152,13 @@ _Updated: 2025-11-28 07:44_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
