@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-28 15:51_
+_Updated: 2025-11-28 16:50_
 
 - National guard soldier Sarah Beckstrom has died after Washington DC shooting – Trump - The Guardian
-- Eight more arrested over deadly Hong Kong blaze as toll rises to 128 and hundreds still missing - CNN
 - Trump Uses National Guard Shooting to Cast Suspicion on Refugees - The New York Times
-- Israeli Forces Kill Two Palestinians After They Appear to Surrender, Video Shows - The New York Times
-- 6.0 magnitude earthquake strikes northwest of Anchorage, Alaska: USGS - ABC News
-- Video shows aftermath of deadly Israeli army raid inside Syria - BBC
+- Hong Kong fire: Dozens more bodies recovered after high-rise blaze, raising death toll to 128 - 6abc Philadelphia
+- Pope: Nicaea invites Christians to unity in face of violence, conflict - Vatican News
+- Video shows Israeli soldiers execute 2 Palestinians as they surrender in West Bank raid, rights group says - CBS News
+- Satellites capture rare three-cyclone storm cluster causing deadly Asia floods - BBC
 - More than 220 judges have now rejected the Trump admin’s mass detention policy - Politico
-- 'Expect charges very soon' — Investigators search Zelensky's closest ally in Ukraine's biggest corruption case - The Kyiv Independent
-- Stephen A. Smith Unleashes On Sen. Mark Kelly Over Democrats' ‘Illegal Orders’ Video - HuffPost
-- Lake effect snow piles up in Great Lakes region, impacting Thanksgiving travel - AP News
-- Rescuers step up recovery operations as Southeast Asia flood deaths reach 321 - Reuters
-- Exclusive | Beijing freezes Japan youth exchange programmes over Takaichi Taiwan row - South China Morning Post
-- Did Myanmar’s Junta Demolish Scam Centers Just for Show? - The New York Times
-- Pope Leo to push unity at Nicaea, site of first Christian council - The Washington Post
-- Tech Outage Halts Trading in U.S. Stock Futures, Other Key Markets - The Wall Street Journal
+- The real political shift in New York wasn’t Mamdani — it was everywhere else - Politico
+- Ukrainian President Zelenskyy's chief of staff Andriy Yermak has home raided by anti-corruption officials - CBS News
+- Donald Trump, 79, Turns National Guard Death News Into Selfish Rant - The Daily Beast
+- Six soldiers hurt in gun battle as IDF detains terror suspects in southern Syria - The Times of Israel
+- In remote Venezuelan state, more surveillance follows US boat strikes - Reuters
+- Eel populations are falling, and new protections were defeated. Japan and the US opposed them - AP News
+- Canada Lifts Climate Laws for Alberta Oil Sands, Planning Pipeline - The New York Times
+- Stock futures tick higher after CME halt due to data center issue: Live updates - CNBC
 - What Do You Know About Black Friday? - The New York Times
-- Black Friday kicks off as inflation-burned shoppers scour for deals - The Washington Post
-- Sweden promises action against illegal sex doll sales - AP News
+- Exclusive | American Customers Are Madder Than Ever - The Wall Street Journal
+- The best Black Friday deals on tech for 2025: Get up to 50 percent off gear from Apple, Amazon, Disney+, Lego, Dyson and others - Engadget
 - Apple kicks off its official 2025 Black Friday Shopping Event - 9to5Mac
-- Walmart’s Black Friday laptop deals are wild this year — our TOP picks - Windows Central
+- My favorite Black Friday TV deals from Samsung, Sony, and others are up to 50% off - The Verge
