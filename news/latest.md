@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-28 11:48_
+_Updated: 2025-11-28 12:51_
 
-- National guard member Sarah Beckstrom has died after shooting in Washington DC, Trump announces - The Guardian
-- Hong Kong firefighters make final search for survivors after apartment tower blaze kills 94 - ABC News
+- Trump Says One National Guard Member in DC Shooting Has Died - Bloomberg.com
+- Hong Kong apartment block fire death toll jumps to 128, officials warn could rise further - CNN
 - Trump Uses National Guard Shooting to Cast Suspicion on Refugees - The New York Times
-- Trump: U.S. will stop alleged Venezuelan drug traffickers on land "very soon" - Axios
 - Putin doubles down on demands for Ukrainian territory ahead of talks with US - BBC
+- Trump: U.S. will stop alleged Venezuelan drug traffickers on land "very soon" - Axios
 - 6.0 magnitude earthquake strikes northwest of Anchorage, Alaska: USGS - ABC News
 - Stephen A. Smith Unleashes On Sen. Mark Kelly Over Democrats' ‘Illegal Orders’ Video - HuffPost
-- N.C. can use Republican-drawn congressional map, judges rule - Axios
+- Judges allow North Carolina to use new House map drawn in bid to give GOP another seat - CBS News
+- 'Expect charges very soon' — Investigators search Zelensky's chief of staff in Ukraine's biggest corruption case - The Kyiv Independent
 - Putin Defends Witkoff Against Accusations of Pro-Russia Bias - The New York Times
-- Michigan Weather Video: Focus turns to next imminent snowstorm - MLive.com
 - Israeli forces kill Palestinian men in West Bank after they appear to surrender - AP News
 - Pope Leo to push unity at Nicaea, site of first Christian council - The Washington Post
-- Belgium’s De Wever dials up opposition to Russian frozen assets deal - politico.eu
-- Households face 'dismal' rise in spending power, says IFS - BBC
-- Here’s when Black Friday starts at all the major U.S. retail stores - Fortune
+- What to Know About the Coup in Guinea-Bissau - The New York Times
+- Asia extreme weather: Ninety dead in Indonesia floods as cyclone displaces thousands in Sri Lanka - BBC
+- Tech CEOs Can't Stop Talking About Data Centers in Space - Business Insider
+- The best Black Friday deals on tech for 2025: Get up to 50 percent off gear from Apple, Amazon, Disney+, Lego, Dyson and others - Engadget
 - Here's what to know about the federal ban threatening the market for THC-infused drinks and snacks - AP News
-- Asian Stocks to Ebb as Global Equity Rally Stalls: Markets Wrap - Bloomberg.com
-- Irresistible deals put them in debt. Now they’re trying to manage their overspending - The Seattle Times
+- Black Friday arrives with solid momentum despite tariffs and economic uncertainty - Yahoo Finance
 - I've Rounded Up All of the Best Black Friday OLED TV Deals From LG, Samsung, and Sony - IGN
-- Google limits free Nano Banana Pro image generation usage due to 'high demand' - Engadget
+- 57+ Apple Black Friday deals LIVE: iPhone, AirPods, MacBooks and more - Tom's Guide
