@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-28 13:38_
+_Updated: 2025-11-28 15:07_
 
 ## Top Stories
 
-- Längdskidor: Frida Karlsson vann världscuppremiären i Ruka - SVT Nyheter
-- Regeringen stoppar digitala nationella prov - Västerbottens-Kuriren
-- Ishalka stoppar kollektivtrafiken i Luleå - GP
-- Över en miljon hem förstörda – och mer regn väntas - Dagens Nyheter
+- Regeringen planerar skjuta fram införandet av digitala nationella prov - Regeringen.se
+- DN Direkt – SMHI varnar för ishalka – busstrafik ställs in - Dagens Nyheter
+- Trump vill stoppa all invandring från ”tredje världen” - Dagens Nyheter
 - Regeringen föreslår narkotikaklassificering av tio nya substanser - Regeringen.se
-- Razzia hos Zelenskyjs stabschef - Dagens Nyheter
-- DN Direkt – Man anhållen efter knivmord i Karlskrona - Dagens Nyheter
+- Ingmar Nevéus: Frågan om tragedin i Washington som inte får något svar - Dagens Nyheter
+- Ministern efter mötet om sexdockorna: Bred samsyn - Dagens Nyheter
 - Polisen om försvunna mannen: ”Oro för att han kan fara illa” - Hudiksvalls Tidning
-- Tidigare SD-toppen Paula Bieler Eriksson går till KD - Omni
+- Barn hittades på Kastrup – två begärs häktade - Västerbottens-Kuriren
 - 28 november 07.17, Sammanfattning natt, Örebro län - polisen.se
-- Orban ska träffa Putin - Expressen
-- Miljöforskaren: ”Mikroplast i hjärnan är bara toppen på ett isberg” - Dagens Nyheter
-- Video sprids – uppges visa israelisk avrättning - GP
-- Skytt avlägsnad inför påvebesök - GP
-- Finansbluffar vanligare – FI uppdaterar varningslista - DI
-- Preem AB: Kvartalsrapport Q3: Starkt finansiellt resultat - trots revisionsstopp på raffinaderiet i Lysekil (Cision) - Aktiellt
-- Ny granskande bok - bud pressas av system och konkurser - TRANSPORTochLOGISTIK.se
-- Sveriges finans­minister är Black Fridays värsta fuskare - Arbetet
+- Tävlingar flyttas från Bollnäs till Romme · Senaste nyheterna om trav - Travronden
+- Dödssiffran stiger efter översvämningar i Thailand – 145 döda - SVT Nyheter
+- Razzia hos Zelenskyjs stabschef - Dagens Nyheter
+- Kvinnor och barn uppges dödade av Israel i Syrien - GP
+- Direkt – Kriget i Ukraina – Putin till Orbán: Har gärna toppmöte i Budapest - Dagens Nyheter
+- Ebba Busch kallar upp elnätsbolagen - SvD
+- FI varnar: 38 aktörer utan tillstånd – nu även falsk inlåning - Finansinspektionen
+- EU:s mardröm: Överkörd av stormakterna - Dagens PS
+- Miljardlyft för Preem – men ägarbytet dröjer - DI
 - Siffror från Dell avslöjar klent intresse för Windows 11 - Computer Sweden
 - Företag testar framgångsrikt fjärrstyrda duvor med hjärnimplantat - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
@@ -30,23 +30,23 @@ _Updated: 2025-11-28 13:38_
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Aluminiumburkar lämnar Europa – global kamp om skrot - Dagens PS
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2025-11-28 13:38_
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
 - Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
-- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- BRG Welcomes Former Accenture AI Lead Peter Smith to Enhance Firmwide AI Strategy and Client Technology Solutions (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -121,10 +121,9 @@ _Updated: 2025-11-28 13:38_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -132,13 +131,14 @@ _Updated: 2025-11-28 13:38_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2025-11-28 13:38_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
