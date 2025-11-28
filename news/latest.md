@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-28 01:47_
+_Updated: 2025-11-28 04:20_
 
-- D.C. National Guard shooting investigation live updates as new details emerge about suspect - CBS News
-- What to know about the deadly apartment fire in Hong Kong - PBS
-- Putin says US plan could be ‘basis’ of a Ukraine deal but threatens to take land by force if Kyiv doesn’t withdraw - CNN
+- National guard member Sarah Beckstrom has died after shooting in Washington DC, Trump announces - The Guardian
+- Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses - The New York Times
+- US will reexamine all green cards issued to people from 19 countries as Trump administration ramps up immigration crackdown - CNN
+- Russia ready to 'fight to the last Ukrainian,' Putin says amid US peace drive - ABC News
 - Snowstorm on Saturday could drop 10+ inches on Chicago area - CBS News
 - Households face 'dismal' rise in spending power, says IFS - BBC
-- Pope Leo Visits Turkey on His First Trip as Pontiff - The New York Times
-- N.C. can use Republican-drawn congressional map, judges rule - Axios
+- Stephen A. Smith Unleashes On Sen. Mark Kelly Over Democrat ‘Illegal Orders’ Video - HuffPost
 - Michigan Weather Video: Focus turns to next imminent snowstorm - MLive.com
 - Putin Defends Witkoff Against Accusations of Pro-Russia Bias - The New York Times
-- Next snow event Friday night through Saturday from MSP southward - MPR News
-- Israeli soldiers appear to kill Palestinian men in West Bank after they surrender - Politico
-- General sworn in as new Guinea-Bissau leader, ousted president arrives in Senegal - Reuters
-- Trump’s G-20 at His Miami Golf Resort Will Be an Invite-Only Event - Bloomberg.com
+- Faith Winter, Colorado State Senator, Is Killed in Car Crash - The New York Times
+- Godwin Friday elected as St Vincent’s 7th Prime Minister - St Vincent Times
+- Israeli forces kill Palestinian men in West Bank after they appear to surrender - AP News
 - A crystal Fabergé egg crafted for Russian royalty is expected to sell for more than $26 million - ABC News
-- Campbell's fires executive for alleged racist rant, disparaging company - Axios
-- UPS grounds fleet of planes indefinitely after deadly crash - AP News
-- Read Warren Buffett’s annual Thanksgiving letter for 2025—his final one to shareholders - Fortune
+- What to Know About the Coup in Guinea-Bissau - The New York Times
+- Fleet of UPS planes grounded after deadly crash expected to miss peak delivery season - AP News
 - Exclusive: US defense firm Anduril faces setbacks from drone crashes - Reuters
+- Monte dei Paschi CEO under investigation for alleged market manipulation - Financial Times
+- Campbell's fires executive who was recorded saying company's products are for 'poor people' - WHYY
 - I've Rounded Up All of the Best Black Friday OLED TV Deals From LG, Samsung, and Sony - IGN
-- Chinese brands watched the iPhone Air flop and canceled their own plans – report - 9to5Mac
+- Plex starts paywalling remote streaming to TVs, beginning with its Roku app - Engadget
