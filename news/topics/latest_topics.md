@@ -1,98 +1,98 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-28 22:41_
+_Updated: 2025-11-28 23:38_
 
 ## Top Stories
 
 - Explosioner på fartyg i ryska skuggflottan i Svarta havet - Dagens Nyheter
-- Zelenskyjs stabschef avgår – ”Måste hålla samman” - Västerbottens-Kuriren
+- Man skjuten av polis efter biljakt i Gislaved - SVT Nyheter
+- Zelenskyjs stabschef avgår - SVT Nyheter
+- Hegseths order inför båtattacken: Döda alla - Omni
 - Replik: ”Tittaren missar den viktigaste invändningen mot Aftonbladets tes” - Journalisten
 - Dubbla varningar för ishalka - Expressen
-- Experten: Chockerande – men inte överraskande - GP
-- 2G- och 3G-näten stängs ned – vissa mobiler kan inte ringa 112 - Krisinformation.se
 - Flera fordon i krock på Klarastrandsleden – stor trafikpåverkan - SVT Nyheter
-- Digitala nationella prov ställs in de närmaste åren - Dagens Nyheter
-- Larm om handgranat i Stockholm – var ofarlig - Västerbottens-Kuriren
-- Kritiserat vårdbolag stoppat: ”Vi har sökt dem i alla led” - Dagens Nyheter
-- Ryssland förbjuder Human Rights Watch i landet - Omni
+- 28 november 19.34, Trafikolycka, vilt, Norrbottens län - polisen.se
+- Kollegan blev vittne till dödskraschen: ”Föraren såg förvirrad ut” - Dagens Nyheter
+- 28 november 20.21, Trafikolycka, vilt, Jämtlands län - polisen.se
+- Trump häver merparten av Bidens dekret - SVT Nyheter
 - Orbán besökte Putin – lovar fortsatta oljeköp - Hufvudstadsbladet
-- Trump: Upphäver Joe Bidens dekret - SVT Nyheter
-- Skytt avlägsnad inför påvebesök - GP
+- Experten: Chockerande – men inte överraskande - GP
+- Ukraina: Kommer inte att ge upp områden - HD
 - Revisionsjätten Deloitte misstänker bokföringsbrott i Intellego - Placera.se
-- Ebba Busch kallar upp elnätsbolagen - SvD
-- Aladdin har blivit mindre – och fyra smaker försvunnit - Expressen
-- Mark Zuckerberg polisanmäld för bluffannonserna: “Häpnadsväckande” - Breakit
-- Google stryper gratisanvändares tillgång till Gemini 3 Pro - PC för Alla
+- Årets stora shoppingdag – men Black Friday dissas av många i Lidköping: ”Ifrågasätter priset” - NLT
+- 2G- och 3G-näten stängs ned – vissa mobiler kan inte ringa 112 - Krisinformation.se
+- Det verkliga offret är Mark Zuckerberg - SvD
+- Att lyssna på musik kan vara nyttigt för hjärnan - SvD
 - Tvättar muskelbilen – efter 34 år i ladan - Carup.se
 
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Aluminiumburkar lämnar Europa – global kamp om skrot - Dagens PS
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- Philip Morris International to Present at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - TerraPay Launches Xend - A Global Payments Interoperability Network to Power Borderless Payments for Billions of Wallet Users - Placera.se
-- Annual Report on the Chinese Cultural Symbols International Communication Index Released at World Internet Conference for Third Consecutive Year (PR Newswire) - Aktiellt
+- SEMI and TechSearch International Release 2025 Edition of Worldwide Semiconductor Assembly & Test Facility Database (PR Newswire) - Aktiellt
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- ZenaTech Signs Offer to Acquire Utah Surveying Firm, Expanding Drone as a Service into the Solar Infrastructure Market - Placera.se
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
+- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Republic Business Credit Partners with BKON by providing $2 Million Asset-Based Loan (PR Newswire) - Aktiellt
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- AKTIS ONCOLOGY APPOINTS KYLE KUVALANKA CHIEF FINANCIAL OFFICER (PR Newswire) - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -104,8 +104,8 @@ _Updated: 2025-11-28 22:41_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
