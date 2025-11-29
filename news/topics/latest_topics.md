@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 00:41_
+_Updated: 2025-11-30 01:39_
 
 ## Top Stories
 
 - Trump: Venezuelas luftrum ska ses som stängt - SVT Nyheter
-- DN Direkt – Aktivklubb marcherade i Stockholm - Dagens Nyheter
+- Nazistmanifestation i centrala Stockholm - Expressen
+- ”Sea Babies” mot oljetankrar: ”Nytt modus operandi” - Dagens Nyheter
 - Källor: USA och Ryssland i hemliga samtal om projekt i Arktis och Marsuppdrag - Omni
 - Direkt – Krisen i Mellanöstern – Gaza: 70 000 dödade i kriget - Dagens Nyheter
-- Orsaken bakom stora miljöläckan kartlagd - SvD
-- Källor: Ukraina och USA möts under söndagen - GP
+- Bråk vid busshållsplats – en skadad - Expressen
 - Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
+- Man hittad död i vattnet utanför Hudiksvall - Aftonbladet
 - Tiotusentals mobiler blockeras – kan inte nå 112 - Västerbottens-Kuriren
-- Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
-- Grannsämjan i fara – risken med nya byggregler - NWT
-- Ukraina: Attackerade ryska skuggflottan i Svarta havet - Dagens Nyheter
-- Nazistmanifestation i centrala Stockholm - Expressen
+- Tre anhållna efter razzia mot spelverksamhet - GP
+- Källor: Ukraina och USA möts under söndagen - GP
+- Mässan i Istanbul. Leo XIV: Vårda det som enar - Vatican News
 - Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
-- Skytt avlägsnad inför påvebesök - GP
+- Dubbla fyrhjulingsolyckor – två till sjukhus - LT
 - SAS-plan uppdaterade efter störningar hos Airbus - NWT
 - Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
-- 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
 - Ebba Busch kallar upp elnätsbolagen - Aftonbladet
+- Paasikivi fick sin doktorshatt - Aftonbladet
+- Caviar lanserar den nya Secret Love iPhone 17 Pro-kollektionen från 10.200 dollar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Det blir inget F1 från EA nästa år - Teknikveckan
-- Capcom arbetar enligt uppgift på ett nytt Dead Rising-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -32,7 +32,7 @@ _Updated: 2025-11-30 00:41_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -43,10 +43,10 @@ _Updated: 2025-11-30 00:41_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Virtana Expands International Footprint to Meet Rising Global Demand for Deep Observability (PR Newswire) - Aktiellt
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- CEO Coaching International Achieves World-Class Net Promoter Score in 2025 Annual Client Survey (PR Newswire) - Aktiellt
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -65,11 +65,11 @@ _Updated: 2025-11-30 00:41_
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -101,6 +101,7 @@ _Updated: 2025-11-30 00:41_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
@@ -115,7 +116,6 @@ _Updated: 2025-11-30 00:41_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2025-11-30 00:41_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
