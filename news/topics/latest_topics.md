@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 23:38_
+_Updated: 2025-11-30 00:41_
 
 ## Top Stories
 
 - Trump: Venezuelas luftrum ska ses som stängt - SVT Nyheter
-- DN Direkt – Tonåring dömd för sexbrott mot barn - Dagens Nyheter
+- DN Direkt – Aktivklubb marcherade i Stockholm - Dagens Nyheter
 - Källor: USA och Ryssland i hemliga samtal om projekt i Arktis och Marsuppdrag - Omni
-- Tre anhållna efter razzia mot spelverksamhet - GP
-- Särskild resurs inför Karl XII-demonstrationer - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Gaza: 70 000 dödade i kriget - Dagens Nyheter
+- Orsaken bakom stora miljöläckan kartlagd - SvD
+- Källor: Ukraina och USA möts under söndagen - GP
+- Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
 - Tiotusentals mobiler blockeras – kan inte nå 112 - Västerbottens-Kuriren
 - Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
 - Grannsämjan i fara – risken med nya byggregler - NWT
-- 29 november 07.26, Sammanfattning natt, Värmlands län - polisen.se
-- Källor: Ukraina och USA möts under söndagen - GP
+- Ukraina: Attackerade ryska skuggflottan i Svarta havet - Dagens Nyheter
+- Nazistmanifestation i centrala Stockholm - Expressen
 - Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
-- Zelenskyjs högra hand efter skandalen: ”Jag åker till fronten” - Hufvudstadsbladet
-- Dubbla fyrhjulingsolyckor – två till sjukhus - LT
-- Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
+- Skytt avlägsnad inför påvebesök - GP
 - SAS-plan uppdaterade efter störningar hos Airbus - NWT
+- Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
-- Elbilspremie som delar byn mitt itu - Dagens PS
+- Ebba Busch kallar upp elnätsbolagen - Aftonbladet
 - Det blir inget F1 från EA nästa år - Teknikveckan
 - Capcom arbetar enligt uppgift på ett nytt Dead Rising-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
@@ -32,7 +32,7 @@ _Updated: 2025-11-29 23:38_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -41,12 +41,12 @@ _Updated: 2025-11-29 23:38_
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Virtana Expands International Footprint to Meet Rising Global Demand for Deep Observability (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -147,18 +147,18 @@ _Updated: 2025-11-29 23:38_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
