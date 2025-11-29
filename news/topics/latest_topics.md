@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 11:40_
+_Updated: 2025-11-29 12:42_
 
 ## Top Stories
 
-- Kyrkan varnar: Släpp inte in nunnor från Minsk - SVT Nyheter
-- DN Direkt – Stor polisrazzia mot organiserad brottslighet i Stockholm - Dagens Nyheter
+- Stor polisinsats i natt mot organiserad brottslighet - Dagens Nyheter
+- Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
 - Fler ryska oljetankrar i Östersjön – Sverige trappar upp kontrollen - Dagens Nyheter
-- DN Direkt – Hongkong inleder sorgeperiod efter brandkatastrof - Dagens Nyheter
+- Minst tre döda i nattliga attacker mot Kiev - Dagens Nyheter
+- 29 november 08.18, Sammanfattning natt, Jämtlands län - polisen.se
 - SVT-chefen Anne Lagercrantz slår tillbaka mot SD: ”Politiska förhör” - Expressen
-- Zelenskyjs stabschef avgår – ”Måste hålla samman” - GP
 - Man skjuten av polis efter biljakt i Gislaved - SVT Nyheter
 - Grannsämjan i fara – risken med nya byggregler - unt.se
 - SMHI: Varning för ishalka i norra Sverige - SVT Nyheter
-- 29 november 08.06, Sammanfattning natt, Jönköpings län - Polisen.se
-- DN Direkt – Dödstal stiger efter skyfall i Sydostasien - Dagens Nyheter
-- Tre döda i ryska attacker mot Kiev - Västerbottens-Kuriren
-- Stopp i tågtrafiken genom Hudiksvall - Expressen
-- USA stoppar alla asylbeslut - GP
-- 750 miljoner på frysta konton Sverige - DI
-- Airbus återkallar tusentals flygplan – flygs av Finnair - Hufvudstadsbladet
-- Ebba Busch kallar upp elnätsbolagen - SvD
+- 29 november 07.28, Misshandel, Kristinehamn - polisen.se
+- Zelenskyjs stabschef avgår – ”Måste hålla samman” - GP
+- Dödstal stiger efter skyfall i Sydostasien - Västerbottens-Kuriren
+- USA stoppar alla asylbeslut - Corren
+- Hegseths kalla order: ”Alla måste dödas” - Expressen
+- DN Direkt – Lägre omsättning på årets Black Friday - Dagens Nyheter
+- 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
+- Airbus återkallar 6 000 A320-flygplan - SVT Nyheter
 - Proffsen: Så dyrt kan guldet bli - Dagens PS
+- Den längsta solförmörkelsen i århundradet väntas snart – här hittar du den - Dagens PS
 - Kinesisk x86-processor i nivå med Raptor Lake - SweClockers
-- Vivo S50 Pro Mini dyker upp med Snapdragon 8 Gen 5 och 6.500 mAh batteri i kompakt chassi - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -53,10 +53,10 @@ _Updated: 2025-11-29 11:40_
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
@@ -98,24 +98,24 @@ _Updated: 2025-11-29 11:40_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
