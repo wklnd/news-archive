@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-29 08:54_
+_Updated: 2025-11-29 09:48_
 
-- No West Virginia National Guard troops deployed in D.C. have asked to leave since deadly shooting, governor says - CBS News
+- DC police may pair up with National Guard members after shooting near White House - WTOP
 - Trump’s Response to Shooting Shows Intensified Anti-Migrant Stance - The New York Times
-- Northwestern reaches $75M deal with Trump administration to get federal funding reinstated - Politico
+- Northwestern University agrees to pay $75 million as part of deal with Trump administration that restores frozen funds - CNN
 - Trump to pardon ex-Honduras leader serving drug trafficking sentence in US - The Guardian
-- Trump claims he will nullify executive orders Joe Biden signed by autopen - Al Jazeera
+- Trump says he's canceling all Biden orders that were signed using an autopen - CBS News
 - Three injured in Westfield Valley Fair shopping mall shooting on Black Friday - Los Angeles Times
-- Hegseth order on first Caribbean boat strike, officials say: Kill them all - The Washington Post
-- Flights disrupted after Airbus discovers intense sun radiation could impact flight control data - BBC
+- Hegseth responds to report that boat survivors were killed as a result of his orders to military - ABC News
 - Volodymyr Zelenskyy loses brother-in-arms in Kyiv power shift - Financial Times
+- Airbus calls for 'immediate' software upgrade to A320 aircraft - NPR
 - Hong Kong begins three days of mourning after deadly apartment fires - The Guardian
 - South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia - The New York Times
-- Israeli forces fatally shoot 2 Palestinians after they appeared to surrender - The Washington Post
 - Paris prosecutor says arrested man is thought to be 4th member of Louvre heist gang - AP News
-- Detroiters say the chaos, and spirit, of Black Friday shopping is gone - The Detroit News
+- Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56 - NBC News
 - The best Black Friday deals on tech for 2025: Get up to 50 percent off gear from Apple, Amazon, Disney+, Lego, Dyson and others - Engadget
-- Oil Futures Settle Lower in Slow Black Friday Trade - The Wall Street Journal
-- Worldwide Markets Roiled by Data-Center Snafu in Chicago Suburb - Bloomberg.com
+- Detroiters say the chaos, and spirit, of Black Friday shopping is gone - The Detroit News
+- Oil falls on drawn-out Ukraine peace talks, all eyes on upcoming OPEC+ meeting - Reuters
+- Shoppers are underwhelmed by deals and crowds on Black Friday - Fortune
 - These laptops are still steeply discounted for Black Friday — many are over $400 off - The Verge
 - Samsung Galaxy Z TriFold To Cost Just A Trifle More Than Apple’s iPhone Fold - Wccftech
-- Shop rare Black Friday Apple deals with up to 47% off today 🍎 - USA Today
+- Best Apple Black Friday deals still LIVE: Biggest sales on iPhones, AirPods, MacBooks and more - Tom's Guide
