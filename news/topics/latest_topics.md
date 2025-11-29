@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 13:38_
+_Updated: 2025-11-29 15:03_
 
 ## Top Stories
 
-- Hasselborg ledde Sverige till EM-guld - Dagens Nyheter
 - Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
 - DEBATT: Nya byggregler – detta gäller - Expressen
-- Insats mot pokerklubb på Södermalm i natt - SvD
-- Minst tre döda i nattliga attacker mot Kiev - Dagens Nyheter
 - Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
-- Man skjuten av polis efter biljakt i Gislaved - SVT Nyheter
+- En man anhållen för bland annat grovt rattfylleri i Gislaved - Åklagarmyndigheten
+- Insats mot pokerklubb på Södermalm i natt - SvD
+- Ukrainsk delegation till USA för nya samtal - Aftonbladet
 - SMHI: Varning för ishalka i norra Sverige - SVT Nyheter
-- 29 november 07.28, Misshandel, Kristinehamn - polisen.se
+- 29 november 07.26, Sammanfattning natt, Värmlands län - polisen.se
+- Man begärs häktad efter misstänkta mordet på kvinna i Karlskrona - SVT Nyheter
 - 29 november 08.06, Sammanfattning natt, Jönköpings län - polisen.se
-- Zelenskyjs stabschef avgår – ”Måste hålla samman” - GP
-- Dödstal stiger efter skyfall i Sydostasien - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Zelenskyj: Nya möten med USA i veckan - Dagens Nyheter
-- Fler ryska oljetankrar i Östersjön – Sverige trappar upp kontrollen - Dagens Nyheter
+- Minst tre döda i nattliga attacker mot Kiev - Dagens Nyheter
+- Omkring 600 döda efter skyfall i Sydostasien - SVT Nyheter
+- Zelenskyjs stabschef avgår - Hufvudstadsbladet
+- Stökigt Novemberkalas – över 100 personer avvisade - Expressen
 - DN Direkt – Lägre omsättning på årets Black Friday - Dagens Nyheter
-- Airbus återkallar 6 000 A320-flygplan - SVT Nyheter
+- SAS-plan uppdaterade efter Airbus larm - Di
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
-- Proffsen: Så dyrt kan guldet bli - Dagens PS
+- AI förändrar arbetsmarknaden – här är kompetenserna som blir avgörande - Börskollen
 - Andra expansionen till Assassin’s Creed Shadows skrotas - FZ.se
 - Kinesisk x86-processor i nivå med Raptor Lake - SweClockers
 
 ## World News
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
-- Aluminiumburkar lämnar Europa – global kamp om skrot - Dagens PS
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -43,10 +43,10 @@ _Updated: 2025-11-29 13:38_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
 - Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
+- 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -77,7 +77,6 @@ _Updated: 2025-11-29 13:38_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -88,11 +87,12 @@ _Updated: 2025-11-29 13:38_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -117,35 +117,11 @@ _Updated: 2025-11-29 13:38_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 
-## Science
-
-- Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -153,12 +129,13 @@ _Updated: 2025-11-29 13:38_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
