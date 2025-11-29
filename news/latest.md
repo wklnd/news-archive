@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-29 04:20_
+_Updated: 2025-11-29 05:35_
 
-- DC National Guard shooting suspect to be charged with first-degree murder, Pirro says - ABC News
-- Trump Pauses Domestic Applications for Asylum - The New York Times
-- Volodymyr Zelenskyy loses brother-in-arms in Kyiv power shift - Financial Times
-- Hegseth order on first Caribbean boat strike, officials say: Kill them all - The Washington Post
-- Trump plans to pardon former Honduran President Juan Orlando Hernandez - NPR
+- DC police may pair up with National Guard members after shooting near White House - WTOP
+- Trump Pauses All Asylum Applications and Halts Visas for Afghans - The New York Times
 - Trump pushes long-running attack on Biden autopen use, claiming he’s ‘cancelling’ actions signed with it - CNN
-- Airbus calls for 'immediate' software upgrade to A320 aircraft - NPR
+- Trump plans to pardon former Honduran President Juan Orlando Hernandez - NPR
+- Hegseth order on first Caribbean boat strike, officials say: Kill them all - The Washington Post
+- Trump, Maduro spoke last week, New York Times reports - Reuters
+- Zelensky’s top aide, lead negotiator resigns amid corruption probe - The Washington Post
+- Flight disruption warning as Airbus requests modifications to 6,000 planes - BBC
 - Snow emergencies declared across southern Wisconsin for over the weekend - WMTV 15 NEWS
-- Trump Spoke by Phone Last Week With Maduro, Venezuela’s Leader - The New York Times
-- Hong Kong apartment fire tests Beijing-backed rule as anger mounts - The Washington Post
+- Hong Kong fire: Anti-corruption agency arrests 8 over apartment tower blaze as death toll raises to 128 - ABC7 Los Angeles
 - Paris prosecutor says arrested man is thought to be 4th member of Louvre heist gang - AP News
-- Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56 - NBC News
 - Pope Leo prays for unity at historic Nicaea site - NPR
-- Nasdaq Notches First Monthly Loss Since March as Dow, S&P 500 Make Gains - The Wall Street Journal
-- Worldwide Markets Roiled by Data-Center Snafu in Chicago Suburb - Bloomberg.com
+- Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56 - NBC News
+- Detroiters say the chaos, and spirit, of Black Friday shopping is gone - The Detroit News
+- CME Partially Restores Operations With Restart of Forex Platform - Bloomberg.com
 - The best Black Friday deals on tech for 2025: Get up to 50 percent off gear from Apple, Amazon, Disney+, Lego, Dyson and others - Engadget
-- U.S. crude oil stable after trading resumes - CNBC
-- Apple Watch Black Friday deals: buy today from $199 - 9to5Mac
-- I'm vetting the best Black Friday PS5 deals live — biggest sales on consoles, games and accessories right now - Tom's Guide
-- These laptops are still steeply discounted for Black Friday — many are over $400 off - The Verge
+- Michael Burry just started a massive group chat on Substack, and it's as chaotic as you'd expect - Business Insider
+- Shop rare Black Friday Apple deals with up to 47% off today 🍎 - USA Today
+- Best Black Friday TV deals 2025: Samsung, LG, TCL, and Hisense at record lows - Mashable
+- Black Friday PS5 deals: Sony takes $100 off consoles, plus discounts on PlayStation games, accessories and more - Engadget
