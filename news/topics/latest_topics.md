@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 01:39_
+_Updated: 2025-11-29 04:17_
 
 ## Top Stories
 
-- Man skjuten av polis efter biljakt - Aftonbladet
-- Explosioner på fartyg i ryska skuggflottan i Svarta havet - Dagens Nyheter
-- Zelenskyjs stabschef avgår – ”Måste hålla samman” - GP
-- DN Direkt – Stor polisinsats mot organiserad brottslighet i Stockholm - Dagens Nyheter
+- Stort tillslag mot illegal spelverksamhet - SVT Nyheter
+- Man skjuten av polis efter biljakt i Gislaved - SvD
+- Direkt – Kriget i Ukraina – Explosioner på fartyg i skuggflottan i Svarta havet - Dagens Nyheter
 - Hegseths order inför båtattacken: Döda alla - Omni
-- Replik: ”Tittaren missar den viktigaste invändningen mot Aftonbladets tes” - Journalisten
-- Larm om handgranat i Stockholm – var ofarlig - Västerbottens-Kuriren
-- DN Direkt – Stora trafikstörningar efter olycka i Stockholm - Dagens Nyheter
-- SMHI varnar för plötslig ishalka i norra Värmland - NWT
+- Explosioner i två tankfartyg utanför Turkiets kust - GP
+- USA stoppar alla asylbeslut - Västerbottens-Kuriren
+- DN Direkt – Misstänkt farligt föremål på Östermalm var inte skarpt - Dagens Nyheter
+- Flera fordon i krock på Klarastrandsleden – stor trafikpåverkan - SVT Nyheter
 - 28 november 19.34, Trafikolycka, vilt, Norrbottens län - polisen.se
+- SMHI varnar för plötslig ishalka i norra Värmland - NWT
 - Trump: Upphäver nästan alla Bidens presidentordrar - Dagens Nyheter
-- Orbán besökte Putin – lovar fortsatta oljeköp - Hufvudstadsbladet
 - Namibiske politikern Adolf Hitler slopar Hitler - GP
 - Skytt avlägsnad inför påvebesök - GP
+- PODD: Haavisto: ”Stubbs golfdiplomati har varit speciell” - Hufvudstadsbladet
 - Ebba Busch kallar upp elnätsbolagen - SvD
 - Airbus återkallar 6 000 A320-flygplan - SVT Nyheter
-- Tiotusentals mobiler blockeras nästa år – kan inte ringa nödnumret - Dagens Nyheter
-- Ryanair slopar populärt lojalitetsprogram – för billigt - DI
-- Kinesiska märken skrotar tunna mobiler efter iPhone Airs dåliga start - Teknikveckan
-- Att lyssna på musik kan vara nyttigt för hjärnan - SvD
+- 2G- och 3G-näten stängs ned – vissa mobiler kan inte ringa 112 - Krisinformation.se
+- Årets stora shoppingdag – men Black Friday dissas av många i Lidköping: ”Ifrågasätter priset” - NLT
+- Casio Oceanus OCW-S7000CN-1A: En närmare titt på dess titankonstruktion och safirram i IRL-bilder - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Ayaneo delar Pocket Vert globala lanseringsplaner samtidigt som hon ger ledtrådar om förbeställningsdatum - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -73,49 +73,49 @@ _Updated: 2025-11-29 01:39_
 
 ## Business
 
+- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Republic Business Credit Partners with BKON by providing $2 Million Asset-Based Loan (PR Newswire) - Aktiellt
+- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
