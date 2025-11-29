@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 17:39_
+_Updated: 2025-11-29 18:45_
 
 ## Top Stories
 
 - Stor polisinsats i natt mot organiserad brottslighet - Dagens Nyheter
-- Trump: Venezuelas luftrum ska ses som stängt - Västerbottens-Kuriren
+- Trump: Venezuelas luftrum ska ses som stängt - Hufvudstadsbladet
+- ”Någon åker hem till dig och knackar på dörren” - SvD
 - Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
 - TOVE HOVEMYR: Sverigedemokraterna är inte ett landsbygdsparti - UNT
-- ”Någon åker hem till dig och knackar på dörren” - SvD
-- Två flickor till sjukhus efter fyrhjulingsolyckor - Omni
+- Drönarkränkningen i Moldavien – stängde luftrummet - SvD
+- Tiotusentals mobiler blockeras nästa år – kan inte ringa nödnumret - Dagens Nyheter
 - Man sköts av polis efter biljakt i Gislaved – allvarligt skadad - SVT Nyheter
 - Grannsämjan i fara – risken med nya byggregler - NWT
 - Varning för ishalka i norra Sverige - GP
-- 29 november 07.26, Sammanfattning natt, Värmlands län - polisen.se
 - Ukrainsk delegation till USA för nya samtal - GP
-- Minst tre döda i nattliga attacker mot Kiev - Dagens Nyheter
-- Över 600 döda efter skyfall i Sydostasien - SVT Nyheter
-- Källa: Ukraina bakom attackerna mot tankfartyg - Västerbottens-Kuriren
-- Tiotusentals mobiler blockeras – kan inte nå 112 - Aftonbladet
-- DN Direkt – Ribom diskad – missar semifinalen i Ruka - Dagens Nyheter
+- Flicka fick fyrhjuling över sig – hämtad av helikopter - SN, Södermanlands Nyheter
+- Zelenskyjs högra hand efter skandalen: ”Jag åker till fronten” - Hufvudstadsbladet
+- Skytt avlägsnad inför påvebesök - GP
+- DN Direkt – Lägre omsättning på årets Black Friday - Dagens Nyheter
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
 - SAS-plan uppdaterade efter Airbus larm - DI
+- Trafikverket: "Både stad och landsbygd gynnas i nationell plan" - Järnvägar.nu
 - RedMagic 11 Air-bilder dyker upp online och visar en uppfräschad redesign och slitsar för en kylfläkt - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Andra expansionen till Assassin’s Creed Shadows skrotas - FZ.se
+- Apple AirPods Pro 3 - recension: batteritiden är den enda lilla svagheten i ett annars nästan perfekt par brusreducerande hörlurar - TechRadar
 
 ## World News
 
@@ -33,7 +33,6 @@ _Updated: 2025-11-29 17:39_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
@@ -41,12 +40,13 @@ _Updated: 2025-11-29 17:39_
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
+- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
+- FAGE ENTERS GLOBAL PARTNERSHIP WITH FERRARI HYPERCAR IN THE FIA WORLD ENDURANCE CHAMPIONSHIP (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -79,20 +79,20 @@ _Updated: 2025-11-29 17:39_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2025-11-29 17:39_
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
