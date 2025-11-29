@@ -1,17 +1,17 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 05:32_
+_Updated: 2025-11-29 05:56_
 
 ## Top Stories
 
 - Stort tillslag mot illegal spelverksamhet - SVT Nyheter
 - Explosioner på fartyg i ryska skuggflottan i Svarta havet - Dagens Nyheter
 - Hegseths order inför båtattacken: Döda alla - Omni
-- Man skjuten av polis efter biljakt i Gislaved - SvD
 - USA pausar alla asylbeslut - SVT Nyheter
+- Man skjuten av polis efter biljakt i Gislaved - SvD
 - Experten: Chockerande – men inte överraskande - GP
-- DN Direkt – Stora trafikstörningar efter olycka i Stockholm - Dagens Nyheter
-- Ishalka stoppar kollektivtrafiken i Luleå - GP
+- Flera fordon i krock på Klarastrandsleden – stor trafikpåverkan - SVT Nyheter
+- DN Direkt – SMHI varnar för ishalka – busstrafik ställs in - Dagens Nyheter
 - 28 november 19.34, Trafikolycka, vilt, Norrbottens län - polisen.se
 - 28 november 20.21, Trafikolycka, vilt, Jämtlands län - polisen.se
 - Trump: Upphäver nästan alla Bidens presidentordrar - Dagens Nyheter
@@ -29,24 +29,24 @@ _Updated: 2025-11-29 05:32_
 
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Aluminiumburkar lämnar Europa – global kamp om skrot - Dagens PS
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
-- SEMI and TechSearch International Release 2025 Edition of Worldwide Semiconductor Assembly & Test Facility Database (PR Newswire) - Aktiellt
+- Moore Global Named Network of the Year in Unanimous Decision (PR Newswire) - Aktiellt
+- Global Entertainment Brand Chuck E. Cheese Launching in Turkey (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -77,68 +77,68 @@ _Updated: 2025-11-29 05:32_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 
 ## Science
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-11-29 05:32_
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
