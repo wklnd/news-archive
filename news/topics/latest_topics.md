@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 21:38_
+_Updated: 2025-11-29 22:41_
 
 ## Top Stories
 
-- Norrköping åker ur allsvenskan – Öis går upp - Dagens Nyheter
 - DN Direkt – Aktivklubb demonstrerade i Stockholm - Dagens Nyheter
-- DN Direkt – Örgryte tillbaka i allsvenskan efter skandalkval - Dagens Nyheter
-- Bombhot mot fransk tv – huvudkontor utrymt - Västerbottens-Kuriren
+- Paasikivi fick sin doktorshatt - Aftonbladet
+- Tonåring dömd för sexbrott mot barn - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Gaza: 70 000 dödade i kriget - Dagens Nyheter
+- Källor: Ukraina och USA möts under söndagen - GP
 - Pokerspelare i chock: ”Tvingades sitta med händerna på huvudet i över tre timmar” - Dagens Nyheter
-- Storbråk i Malmö – 16-åring till sjukhus - Omni
 - Tiotusentals mobiler blockeras nästa år – kan inte ringa nödnumret - Dagens Nyheter
 - Grannsämjan i fara – risken med nya byggregler - NWT
 - 29 november 07.26, Sammanfattning natt, Värmlands län - Polisen.se
-- Varning för ishalka i norra Sverige - GP
-- Trump: Venezuelas luftrum ska ses som stängt - Hufvudstadsbladet
-- Ukrainsk delegation till USA för nya samtal - GP
-- Bråk i Malmö – pojke till sjukhus - Expressen
-- JUST NU: Ändrar försvarsstrategi - Expressen
-- Lägre omsättning på årets Black Friday - Sydsvenskan
+- 28 november 19.34, Trafikolycka, vilt, Norrbottens län - Polisen.se
+- Bråk vid busshållsplats – en skadad - Expressen
+- Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
+- Henrik Brandão Jönsson: Stängt luftrum allvarlig eskalering av konflikten - Dagens Nyheter
+- Enorma pressen på Zelenskyj – byter strategi - Expressen
+- Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
+- SAS-plan uppdaterade efter störningar hos Airbus - NWT
+- Ebba Busch kallar upp elnätsbolagen - Sydsvenskan
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
-- Elbilspremie som delar byn mitt itu - Dagens PS
-- Stigande oro för Hedin: ”Det stora bekymret” - EFN.se
-- Capcom arbetar enligt uppgift på ett nytt Dead Rising-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Det blir inget F1 från EA nästa år - Teknikveckan
+- Capcom arbetar enligt uppgift på ett nytt Dead Rising-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -56,12 +56,11 @@ _Updated: 2025-11-29 21:38_
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
@@ -69,6 +68,7 @@ _Updated: 2025-11-29 21:38_
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 
 ## Business
@@ -100,15 +100,14 @@ _Updated: 2025-11-29 21:38_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-11-29 21:38_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
