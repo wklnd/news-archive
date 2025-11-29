@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 22:41_
+_Updated: 2025-11-29 23:38_
 
 ## Top Stories
 
-- DN Direkt – Aktivklubb demonstrerade i Stockholm - Dagens Nyheter
-- Paasikivi fick sin doktorshatt - Aftonbladet
-- Tonåring dömd för sexbrott mot barn - Västerbottens-Kuriren
+- Trump: Venezuelas luftrum ska ses som stängt - SVT Nyheter
+- DN Direkt – Tonåring dömd för sexbrott mot barn - Dagens Nyheter
+- Källor: USA och Ryssland i hemliga samtal om projekt i Arktis och Marsuppdrag - Omni
+- Tre anhållna efter razzia mot spelverksamhet - GP
+- Särskild resurs inför Karl XII-demonstrationer - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Gaza: 70 000 dödade i kriget - Dagens Nyheter
-- Källor: Ukraina och USA möts under söndagen - GP
-- Pokerspelare i chock: ”Tvingades sitta med händerna på huvudet i över tre timmar” - Dagens Nyheter
-- Tiotusentals mobiler blockeras nästa år – kan inte ringa nödnumret - Dagens Nyheter
+- Tiotusentals mobiler blockeras – kan inte nå 112 - Västerbottens-Kuriren
+- Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
 - Grannsämjan i fara – risken med nya byggregler - NWT
-- 29 november 07.26, Sammanfattning natt, Värmlands län - Polisen.se
-- 28 november 19.34, Trafikolycka, vilt, Norrbottens län - Polisen.se
-- Bråk vid busshållsplats – en skadad - Expressen
+- 29 november 07.26, Sammanfattning natt, Värmlands län - polisen.se
+- Källor: Ukraina och USA möts under söndagen - GP
 - Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
-- Henrik Brandão Jönsson: Stängt luftrum allvarlig eskalering av konflikten - Dagens Nyheter
-- Enorma pressen på Zelenskyj – byter strategi - Expressen
+- Zelenskyjs högra hand efter skandalen: ”Jag åker till fronten” - Hufvudstadsbladet
+- Dubbla fyrhjulingsolyckor – två till sjukhus - LT
 - Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
 - SAS-plan uppdaterade efter störningar hos Airbus - NWT
-- Ebba Busch kallar upp elnätsbolagen - Sydsvenskan
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
+- Elbilspremie som delar byn mitt itu - Dagens PS
 - Det blir inget F1 från EA nästa år - Teknikveckan
 - Capcom arbetar enligt uppgift på ett nytt Dead Rising-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
@@ -77,22 +77,22 @@ _Updated: 2025-11-29 22:41_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -100,14 +100,15 @@ _Updated: 2025-11-29 22:41_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2025-11-29 22:41_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
