@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 19:39_
+_Updated: 2025-11-29 20:48_
 
 ## Top Stories
 
-- Trump: Venezuelas luftrum ska ses som stängt - Hufvudstadsbladet
-- Pokerspelare i chock: ”Tvingades sitta med händerna på huvudet i över tre timmar” - Dagens Nyheter
-- ”Någon åker hem till dig och knackar på dörren” - SvD
-- Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
-- Över 70 000 döda i Gazakriget - GP
-- Moldavien: Ny drönarkränkning - GP
+- Polisinsats i centrala Stockholm – banderoller med ”Aktivklubb” - Aftonbladet
+- DN Direkt – Polisen : Arbetar för att ingen ska komma till skada - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Gaza: 70 000 dödade i kriget - Dagens Nyheter
+- Norrköping åker ur allsvenskan – Öis går upp - Västerbottens-Kuriren
+- Reglerna ändras – nu blir det lättare att bygga ut - DI
+- I NATT: Man trängde in i bastu, avlägsnades men kom tillbaka och misshandlade kvinna - NWT
 - Tiotusentals mobiler blockeras nästa år – kan inte ringa nödnumret - Dagens Nyheter
-- Man sköts av polis efter biljakt i Gislaved – allvarligt skadad - SVT Nyheter
-- Grannsämjan i fara – risken med nya byggregler - NWT
-- 29 november 07.26, Sammanfattning natt, Värmlands län - Polisen.se
+- Stor polisinsats i natt mot organiserad brottslighet - Dagens Nyheter
+- SMHI: Varning för ishalka i norra Sverige - SVT Nyheter
+- 28 november 19.34, Trafikolycka, vilt, Norrbottens län - Polisen.se
+- Trump: Venezuelas luftrum ska ses som stängt - Hufvudstadsbladet
 - Ukrainsk delegation till USA för nya samtal - GP
-- DN Direkt – Stora protester mot AFD i Tyskland - Dagens Nyheter
-- Zelenskyjs högra hand efter skandalen: ”Jag åker till fronten” - Hufvudstadsbladet
-- Skytt avlägsnad inför påvebesök - GP
-- Lägre omsättning på årets Black Friday - Sydsvenskan
-- Proffsen: Så dyrt kan guldet bli - Dagens PS
+- JUST NU: Ändrar försvarsstrategi - Expressen
+- DN Direkt – Nytt ungdomsförbund i tyska ytterhögern bildat - Dagens Nyheter
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
+- Elbilspremie som delar byn mitt itu - Dagens PS
+- Stigande oro för Hedin: ”Det stora bekymret” - EFN.se
 - Trafikverket: "Både stad och landsbygd gynnas i nationell plan" - Järnvägar.nu
 - Capcom arbetar enligt uppgift på ett nytt Dead Rising-spel - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Det blir inget F1 från EA nästa år - Teknikveckan
@@ -59,15 +59,15 @@ _Updated: 2025-11-29 19:39_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
+- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 
@@ -76,23 +76,23 @@ _Updated: 2025-11-29 19:39_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -111,11 +111,11 @@ _Updated: 2025-11-29 19:39_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
@@ -147,18 +147,18 @@ _Updated: 2025-11-29 19:39_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
