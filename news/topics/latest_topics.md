@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-29 15:42_
+_Updated: 2025-11-29 16:41_
 
 ## Top Stories
 
-- DN Direkt – Besköts av polis – nu anhållen för rattfylla - Dagens Nyheter
-- DEBATT: Nya byggregler – detta gäller - Expressen
+- DN Direkt – Stor polisrazzia mot organiserad brottslighet i Stockholm - Dagens Nyheter
+- Trump: Venezuelas luftrum ska ses som stängt - Västerbottens-Kuriren
 - Terrordömd kan stängas av från kemistudier på KTH - Dagens Nyheter
-- En man anhållen för bland annat grovt rattfylleri i Gislaved - Åklagarmyndigheten
-- Stor polisinsats i natt mot organiserad brottslighet - Dagens Nyheter
-- Nu bryts tabu – han får tungt uppdrag - SvD
+- TOVE HOVEMYR: Sverigedemokraterna är inte ett landsbygdsparti - UNT
+- Svängde om skolan: ”För många elever drabbas” - SvD
+- DEBATT: Nya byggregler – detta gäller - Expressen
+- Man sköts av polis efter biljakt i Gislaved – allvarligt skadad - SVT Nyheter
 - SMHI: Varning för ishalka i norra Sverige - SVT Nyheter
 - 29 november 07.26, Sammanfattning natt, Värmlands län - polisen.se
 - Man begärs häktad efter misstänkta mordet på kvinna i Karlskrona - SVT Nyheter
-- 29 november 08.06, Sammanfattning natt, Jönköpings län - polisen.se
 - Ukrainsk delegation till USA för nya samtal - GP
 - Minst tre döda i nattliga attacker mot Kiev - Dagens Nyheter
-- Omkring 600 döda efter skyfall i Sydostasien - SVT Nyheter
-- JUST NU: Rysk jättehamn under attack – ”bortom räddning” - Marcus Oscarsson
+- Över 600 döda efter skyfall i Sydostasien - SVT Nyheter
+- Ukraina: Attackerade ryska skuggflottan i Svarta havet - Dagens Nyheter
+- Tiotusentals mobiler blockeras – kan inte nå 112 - SvD
 - DN Direkt – Lägre omsättning på årets Black Friday - Dagens Nyheter
 - SAS-plan uppdaterade efter störningar hos Airbus - NWT
 - 750 miljoner frysta i Sverige – majoritet kopplas till Putin - Omni
-- AI förändrar arbetsmarknaden – här är kompetenserna som blir avgörande - Börskollen
+- RedMagic 11 Air-bilder dyker upp online och visar en uppfräschad redesign och slitsar för en kylfläkt - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Andra expansionen till Assassin’s Creed Shadows skrotas - FZ.se
-- Kinesisk x86-processor i nivå med Raptor Lake - SweClockers
 
 ## World News
 
@@ -42,9 +42,9 @@ _Updated: 2025-11-29 15:42_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
 - 13th World Peace Forum held in Beijing, calls for shared responsibility in global peace (PR Newswire) - Aktiellt
 
@@ -56,18 +56,18 @@ _Updated: 2025-11-29 15:42_
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- The 2025 A.I. Awards Winners Selected (PR Newswire) - Aktiellt
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 
@@ -121,7 +121,8 @@ _Updated: 2025-11-29 15:42_
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -129,16 +130,15 @@ _Updated: 2025-11-29 15:42_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
