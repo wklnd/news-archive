@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 13:37_
+_Updated: 2025-11-30 15:03_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Netanyahu ber presidenten om att bli benådad - Dagens Nyheter
-- På måndag förändras reglerna – blir enklare för tusentals svenskar - Dagens PS
+- Jonna Sundling tar hem segern avslutningen i Ruka - Svenska Skidförbundet
+- Politisk ilska mot nazistisk marsch: ”Osvenskt” - GP
 - Efter knivattacken i Karlskrona: Man häktas på sannolika skäl misstänkt för mord - SVT Nyheter
-- Är britterna på väg att söka nödhjälp? - SvD
-- Ex-rådgivaren om Trump och Putin: "Det är en man crush - GP
 - Två personer med koppling till illegal spelklubb gripna i Spanien - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Netanyahu ber presidenten om att bli benådad - Dagens Nyheter
+- Fler rapporteras döda efter skyfall i Sydostasien - Västerbottens-Kuriren
+- Sa upp sig från försvaret ”Glad att jag klev av i tid” - Dagens Nyheter
 - Drev illegal cigarettfabrik i Skellefteå – undgick 47 miljoner i skatt - Dagens Nyheter
-- 30 november 08.20, Sammanfattning natt, Norrbottens län - Polisen.se
-- 30 november 08.19, Sammanfattning natt, Jämtlands län - Polisen.se
-- Stökig ungdomsfest i Staffanstorp – en skadad med tillhygge - Expressen
-- DN Direkt – Beväpnade män stormade bar i Mexiko – flera dödade - Dagens Nyheter
-- Masskjutning vid kalas i USA – flera döda - SVT Nyheter
+- 30 november 08.20, Sammanfattning natt, Norrbottens län - polisen.se
+- 30 november 08.19, Sammanfattning natt, Jämtlands län - polisen.se
+- Fredsplanerna för Ukraina: Detta har hänt - Västerbottens-Kuriren
 - Källa: Ukraina bakom attackerna mot tankfartyg - Hufvudstadsbladet
-- Polisbil krockade med taxi - Expressen
+- Påven Leo XIV avstod från att be i Blå moskén på sin första utlandsresa - Dagen
+- Venezuela om Trumps flygvarning: ”Kolonialism” - GP
 - Kronans jubelår fortsätter – mest handlade valutan i G10-gruppen - Expressen
 - ”Utmärkt läge” när svenskan tar rodret i Nya Zeeland - Sydsvenskan
-- Forskaren: ”Dåliga på långlevnad i Sverige” - SvD
-- Meta förbjuder Valmyndighetens annonser: ”Demokratiproblem” - Dagens Nyheter
-- Rekord i veteranbilar – bilarna som slipper skatt nu - Carup.se
-- Så här ser (förmodligen) kartan ut i "Grand Theft Auto VI" - MovieZine
+- INSÄNDARE: Den höjda elnätsavgiften är ett felriktat slag - UNT
+- Mobilanvändare utestängs från nödnummer • Ingenjören Frida, 41, blev klimataktivist • De gör upp om segern i Idol - NWT
+- Ny AMD-driven ASRock mini-pc dyker upp med stöd för Ryzen CPU och dGPU för stationära datorer - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Motorola trotsar EU-regler om fem års Android-uppdateringar - Teknikveckan
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-11-30 13:37_
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
-- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -77,7 +77,6 @@ _Updated: 2025-11-30 13:37_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
@@ -93,6 +92,7 @@ _Updated: 2025-11-30 13:37_
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -148,17 +148,17 @@ _Updated: 2025-11-30 13:37_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
