@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 23:39_
+_Updated: 2025-12-01 00:41_
 
 ## Top Stories
 
+- Fredsmöte mellan USA och Ukraina - SVT Nyheter
 - DN Direkt – Man häktas för knivmord i Karlskrona - Dagens Nyheter
-- E4 vid Södertälje avstängd efter krock - Expressen
 - DN Direkt – Trump kräver högergir när Honduras väljer ledare - Dagens Nyheter
+- Ilska mot nazistmarsch: "Avskyvärda åsikter" - GP
 - Zelenskyj i samtal med Rutte och von der Leyen - Västerbottens-Kuriren
-- Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Tjuvar stal sniglar från fransk gård – värda nästan en miljon kronor - Dagens Nyheter
-- Två gripna i Spanien efter tillslag mot spelklubb i Stockholm - SVT Nyheter
-- DN Direkt – E22 i Lund avstängd efter olycka – två till sjukhus - Dagens Nyheter
-- Tonåring dömd för sexbrott mot barn - GP
+- Barn mördades i USA – gärningsman jagas av polis - GP
+- Två svenskar gripna i Spanien efter razzia - Västerbottens-Kuriren
+- Två personer till sjukhus efter olycka på E22 - SVT Nyheter
 - 30 november 08.19, Sammanfattning natt, Jämtlands län - polisen.se
+- Grannsämjan i fara – risken med nya byggregler - NWT
 - Kongressen kräver granskning av Hegseths order: ”Döda allihop” - Dagens Nyheter
+- DN Direkt – Brud och tio brudtärnor bland 26 kidnappade i Nigeria - Dagens Nyheter
+- Netanyahu ber om nåd av Israels president - SVT Nyheter
 - Här bor 42 miljoner människor – världens största stad utsedd - Dagens Nyheter
-- Experter: Netanyahus vädjan extraordinär - Västerbottens-Kuriren
-- Trump kräver högergir när Honduras väljer ledare - GP
+- De blev ekonomiskt oberoende och slutade jobba – så blev livet sen - Dagens Nyheter
 - Så slår den starka svenska kronan mot ditt fondsparande - TV4 Nyheterna
+- Experter: Ingen boom på bostadsmarknaden - Omni
 - INSÄNDARE: Den höjda elnätsavgiften är ett felriktat slag - UNT
-- Mobilanvändare utestängs från nödnummer • Ingenjören Frida, 41, blev klimataktivist • De gör upp om segern i Idol - NWT
-- Meta förbjuder Valmyndighetens annonser: ”Demokratiproblem” - Dagens Nyheter
 - Uppföljaren till Cyberpunk kommer inte släppas innan 2028 - FZ.se
 - En handfull bra ljud med nya JBL Grip - Teknikveckan
 
@@ -75,14 +75,15 @@ _Updated: 2025-11-30 23:39_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -91,7 +92,6 @@ _Updated: 2025-11-30 23:39_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -145,20 +145,20 @@ _Updated: 2025-11-30 23:39_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Jordbruket förtjänar mer än KDs skenhelighet - Land Lantbruk
