@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-30 23:48_
+_Updated: 2025-12-01 00:48_
 
 - U.S. and Ukraine "made additional progress" on Trump's peace plan, Rubio says - Axios
 - Saturday was snowiest November day in Chicago ever, forecasters say - Chicago Sun-Times
-- Lawmakers Suggest Follow-Up Boat Strike Could Be a War Crime - The New York Times
-- Noem says National Guard shooting suspect could have been radicalized in US - ABC News
-- Shooting at central California banquet hall leaves 4 people dead, 11 wounded - PBS
-- Israeli Prime Minister Benjamin Netanyahu submits formal request for pardon in long-running corruption trial - CBS News
-- Rep. Don Bacon says White House lacks 'moral clarity' on Ukraine - Politico
+- Lawmakers warn Hegseth may have committed war crimes following second-strike report - Politico
+- National Guard shooting suspect "radicalized since he's been here in this country," Noem claims - CBS News
+- Stockton mass shooting: 3 children among at least 4 killed at California child's birthday party, officials say; 11 others injured - ABC30 Fresno
+- Benjamin Netanyahu seeks pardon from Israel's president - BBC
+- Rep. Mike Turner says "you can't be America first and pro-Russia" as negotiators seek to broker end to war in Ukraine - CBS News
 - Venezuela calls Trump’s call to close airspace a 'colonialist threat' - NPR
-- Liberal towns backtrack on license plate trackers amid concerns about privacy — and Trump - Politico
 - Hondurans go to the polls in close presidential race under shadow of Trump’s surprise intervention - CNN
-- Death toll rises to 146 in Hong Kong apartment fire: "A wake-up call for everyone" - CBS News
+- Column | In embrace of ‘remigration,’ Trump echoes Europe’s far right - The Washington Post
 - As Pope Leo visits Lebanon, Christians are fleeing the Middle East - The Washington Post
+- Death toll rises to 146 in Hong Kong apartment fire: "A wake-up call for everyone" - CBS News
 - Transcript: Rep. Mike Turner on "Face the Nation with Margaret Brennan," Nov. 30, 2025 - CBS News
-- Death toll passes 900 in Indonesia, Thailand and Sri Lanka floods - The Guardian
-- ChatGPT turns 3 today: Here's how OpenAI has grown since - Seeking Alpha
-- AI helps drive record $11.8 billion in Black Friday online spending - Reuters
-- Cyber Monday 2025: Live updates from Amazon, Apple, Best Buy, Walmart - Mashable
+- Inside the wild launch of Jeremy Corbyn’s ‘Your Party’ - politico.eu
+- Cyber Monday deals on tech for 2025: The best sales from Apple, Amazon, Lego, Dyson, Disney+ and others are up to 50 percent off - Engadget
 - US Options Market Grapples With ‘Concentration Risk’ in Clearing - Bloomberg.com
+- AI helps drive record $11.8 billion in Black Friday online spending - Reuters
+- Airbus orders software fix to thousands of planes due to solar radiation risk - TechCrunch
 - The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The Verge
-- Bose Goes Full Liquidation on New Ultra Earbuds, AirPods Killer Now Selling at Zero Margin - Gizmodo
+- These Are The Best TV Deals This Black Friday Weekend - WIRED
