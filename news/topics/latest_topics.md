@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 06:53_
+_Updated: 2025-11-30 07:43_
 
 ## Top Stories
 
-- Källa: Ukraina bakom attackerna mot tankfartyg - DI
-- DN Direkt – Sjukvården viktigaste väljarfrågan i ny mätning - Dagens Nyheter
-- Beväpnade män stormade bar i Mexiko – flera dödade - SVT Nyheter
+- DN Direkt – Flera döda i skjutning i Kalifornien - Dagens Nyheter
+- ”Jag vägrar läsa fredsförslaget – det gör mig förtvivlad” - Hufvudstadsbladet
 - President på flykt efter kuppen - Västerbottens-Kuriren
-- Masskjutning i amerikanska Stockton - SVT Nyheter
-- Supporterföreningen tar avstånd från kaoset - Omni
+- Emanuels fina julplan: Bjuder alla till firande - GP
+- Källa: Ukraina bakom attackerna mot tankfartyg - DI
+- Sjukvården viktigaste väljarfrågan i ny mätning - SvD
 - Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
 - 2G- och 3G-näten stängs ned – vissa mobiler kan inte ringa 112 - Krisinformation.se
 - Grannsämjan i fara – risken med nya byggregler - NWT
 - 28 november 19.34, Trafikolycka, vilt, Norrbottens län - polisen.se
-- Insändare. Trumps soldater skulle nog tas emot med en kopp kaffe - Dagens Nyheter
-- Mässan i Istanbul. Leo XIV: Vårda det som enar - Vatican News
-- Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
-- Attacken: ”Trump är en springpojke för Putins plan” - Expressen
+- INSÄNDARE: Jag är så imponerad av Biskop Mogrens ställningstagande - VLT
+- Trump: Venezuelas luftrum ska ses som stängt - Hufvudstadsbladet
+- Beväpnade män stormade bar i Mexiko – flera dödade - SVT Nyheter
+- Varningen efter RFK:s nya drag: De kommer fly USA - Expressen
 - Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
-- Ebba Busch kallar upp elnätsbolagen - SvD
+- AI förstör Thanksgiving-recepten - SvD
+- Ebba Busch kallar upp elnätsbolagen - Aftonbladet
 - Årets stora shoppingdag – men Black Friday dissas av många i Lidköping: ”Ifrågasätter priset” - NLT
-- Insändare. Extern granskning kan förhindra nya it-haverier i skolan - Dagens Nyheter
-- Oktober Nintendo Switch 2-försäljningen hamnar efter PS5 i Storbritannien, när Sonys konsol får fart i Europa - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Ayaneo Next II: senaste livestream avslöjar 115Wh batteri, 8-vägs D-pad, dubbla fläktar och mer - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Torras Go-MiniMag Qi2 Power Bank och Ostand-fodral för iPhone 17 recension - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Spela Steam-spel inbyggt på Android med GameHub: En praktisk ... ja ... smärtsam rapport. - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -81,11 +81,11 @@ _Updated: 2025-11-30 06:53_
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -127,7 +127,7 @@ _Updated: 2025-11-30 06:53_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- SND at Almedalsveckan 2024 - snd.se
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -147,18 +147,18 @@ _Updated: 2025-11-30 06:53_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
