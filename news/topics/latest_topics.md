@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 10:44_
+_Updated: 2025-11-30 11:39_
 
 ## Top Stories
 
-- Masskjutning vid kalas i USA – flera döda - SVT Nyheter
-- Källor: Ukraina och USA möts under söndagen - GP
+- På måndag förändras reglerna – blir enklare för tusentals svenskar - Dagens PS
+- Meta förbjuder Valmyndighetens annonser: ”Demokratiproblem” - Dagens Nyheter
 - Trump i ny attack mot medier - SvD
-- Slut för MTV:s musikkanaler - GP
-- Gustaf Westman: ”Jag tycker inte heller att baguettehållaren behövs – jag är inte dum” - Dagens Nyheter
+- De blev ekonomiskt oberoende och slutade jobba – så blev livet sen - Dagens Nyheter
+- Masskjutning vid kalas i USA – flera döda - SVT Nyheter
 - KARL RYDÅ: Jaha, ska man bara lägga sig ner och dö nu? - UNT
-- 30 november 08.20, Sammanfattning natt, Norrbottens län - Polisen.se
-- Storbråk i Malmö – 16-åring till sjukhus - Omni
-- Grannsämjan i fara – risken med nya byggregler - NWT
+- 30 november 08.20, Sammanfattning natt, Norrbottens län - polisen.se
+- Stökig ungdomsfest i Staffanstorp – en skadad med tillhygge - Expressen
+- 30 november 08.19, Sammanfattning natt, Jämtlands län - polisen.se
 - Sjukvården viktigaste väljarfrågan i ny mätning - SVT Nyheter
+- DN Direkt – Tusentals demonstrerar i Manila - Dagens Nyheter
+- Källor: Ukraina och USA möts under söndagen - Västerbottens-Kuriren
 - Barnen togs från Ukraina – tränas av rysk militär - UNT
 - Källa: Ukraina bakom attackerna mot tankfartyg - Hufvudstadsbladet
-- Mässan i Istanbul. Leo XIV: Vårda det som enar - Vatican News
-- Varningen efter RFK:s nya drag: De kommer fly USA - Expressen
+- ”Utmärkt läge” när svenskan tar rodret i Nya Zeeland - Sydsvenskan
 - Mobilanvändare utestängs från nödnummer • Ingenjören Frida, 41, blev klimataktivist • De gör upp om segern i Idol - NWT
-- Sektorns revansch – här är månadens bästa fonder - Privata Affärer
-- Ska du nätshoppa på Black Friday? Läs det här först. - Magasinet Filter
-- Ekonomen: USA:s framgång är en illusion - SvD
+- Här är fonderna som gått bäst och sämst i november - Dagens PS
+- Kronan fortsätter att stärkas - SVT Nyheter
 - Rekord i veteranbilar – bilarna som slipper skatt nu - Carup.se
 - Så här ser (förmodligen) kartan ut i "Grand Theft Auto VI" - MovieZine
 
 ## World News
 
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -76,23 +76,23 @@ _Updated: 2025-11-30 10:44_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -106,6 +106,7 @@ _Updated: 2025-11-30 10:44_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -114,7 +115,6 @@ _Updated: 2025-11-30 10:44_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
@@ -159,6 +159,6 @@ _Updated: 2025-11-30 10:44_
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
