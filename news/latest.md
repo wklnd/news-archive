@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-30 22:49_
+_Updated: 2025-11-30 23:48_
 
-- Shooting at central California banquet hall leaves 4 people dead, 11 wounded - PBS
-- Noem says National Guard shooting suspect could have been radicalized in US - ABC News
-- Winter storm wallops parts of Midwest on one of the biggest travel days of the year - NBC News
-- Venezuela calls Trump’s call to close airspace a 'colonialist threat' - NPR
+- U.S. and Ukraine "made additional progress" on Trump's peace plan, Rubio says - Axios
+- Saturday was snowiest November day in Chicago ever, forecasters say - Chicago Sun-Times
 - Lawmakers Suggest Follow-Up Boat Strike Could Be a War Crime - The New York Times
-- Benjamin Netanyahu seeks pardon from Israel's president - BBC
+- Noem says National Guard shooting suspect could have been radicalized in US - ABC News
+- Shooting at central California banquet hall leaves 4 people dead, 11 wounded - PBS
+- Israeli Prime Minister Benjamin Netanyahu submits formal request for pardon in long-running corruption trial - CBS News
+- Rep. Don Bacon says White House lacks 'moral clarity' on Ukraine - Politico
+- Venezuela calls Trump’s call to close airspace a 'colonialist threat' - NPR
 - Liberal towns backtrack on license plate trackers amid concerns about privacy — and Trump - Politico
-- U.S., Ukrainian Negotiators Meet in Florida to Discuss Halting War - The Wall Street Journal
-- Trump grants clemency to executive convicted in fraud scheme – report - The Guardian
-- Honduras election: Polls open in vote shadowed by Trump aid threats - BBC
-- As Pope Leo visits Lebanon, Christians are fleeing the Middle East - The Washington Post
+- Hondurans go to the polls in close presidential race under shadow of Trump’s surprise intervention - CNN
 - Death toll rises to 146 in Hong Kong apartment fire: "A wake-up call for everyone" - CBS News
+- As Pope Leo visits Lebanon, Christians are fleeing the Middle East - The Washington Post
+- Transcript: Rep. Mike Turner on "Face the Nation with Margaret Brennan," Nov. 30, 2025 - CBS News
 - Death toll passes 900 in Indonesia, Thailand and Sri Lanka floods - The Guardian
-- Swiss voters reject proposed tax on super rich - Reuters
-- ChatGPT's third year rewrites the rules of work - Axios
-- Black Friday sets online spending record of $11.8B, Adobe says - TechCrunch
+- ChatGPT turns 3 today: Here's how OpenAI has grown since - Seeking Alpha
+- AI helps drive record $11.8 billion in Black Friday online spending - Reuters
 - Cyber Monday 2025: Live updates from Amazon, Apple, Best Buy, Walmart - Mashable
-- Powerball Jackpot Reaches $740 Million—Here’s How Much A Winner Would Take Home After Taxes - Forbes
+- US Options Market Grapples With ‘Concentration Risk’ in Clearing - Bloomberg.com
 - The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The Verge
-- This Early Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off - Lifehacker
+- Bose Goes Full Liquidation on New Ultra Earbuds, AirPods Killer Now Selling at Zero Margin - Gizmodo
