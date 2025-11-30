@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 05:46_
+_Updated: 2025-11-30 06:53_
 
 ## Top Stories
 
-- ”Sea Babies” mot oljetankrar: ”Nytt modus operandi” - Dagens Nyheter
-- Beväpnade män stormade bar i Mexiko – flera dödade - GP
-- Sjukvården viktigaste väljarfrågan i ny mätning - GP
-- Norsk budgetkris avstyrd – tillfälligt - SVT Nyheter
+- Källa: Ukraina bakom attackerna mot tankfartyg - DI
+- DN Direkt – Sjukvården viktigaste väljarfrågan i ny mätning - Dagens Nyheter
+- Beväpnade män stormade bar i Mexiko – flera dödade - SVT Nyheter
 - President på flykt efter kuppen - Västerbottens-Kuriren
-- Trump: Luftrummet i Venezuela är stängt - Expressen
+- Masskjutning i amerikanska Stockton - SVT Nyheter
+- Supporterföreningen tar avstånd från kaoset - Omni
 - Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
 - 2G- och 3G-näten stängs ned – vissa mobiler kan inte ringa 112 - Krisinformation.se
 - Grannsämjan i fara – risken med nya byggregler - NWT
 - 28 november 19.34, Trafikolycka, vilt, Norrbottens län - polisen.se
-- Attacken: ”Trump är en springpojke för Putins plan” - Expressen
-- Bråk vid busshållplats – en skadad - Expressen
+- Insändare. Trumps soldater skulle nog tas emot med en kopp kaffe - Dagens Nyheter
 - Mässan i Istanbul. Leo XIV: Vårda det som enar - Vatican News
 - Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
+- Attacken: ”Trump är en springpojke för Putins plan” - Expressen
 - Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
 - Ebba Busch kallar upp elnätsbolagen - SvD
 - Årets stora shoppingdag – men Black Friday dissas av många i Lidköping: ”Ifrågasätter priset” - NLT
@@ -125,20 +125,20 @@ _Updated: 2025-11-30 05:46_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - snd.se
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2025-11-30 05:46_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
