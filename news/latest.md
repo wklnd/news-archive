@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-30 17:48_
+_Updated: 2025-11-30 18:52_
 
-- Suspect in National Guard attack struggled with ‘dark isolation’ as community raised concerns - Politico
-- Israel's Netanyahu seeks pardon in years-long corruption trial - Reuters
-- Venezuela calls Trump airspace closure warning 'colonialist threat' - BBC
+- Noem says National Guard shooting suspect could have been radicalized in US - ABC News
+- Benjamin Netanyahu asks Israel’s president for pardon in corruption case - The Guardian
 - U.S. and Ukrainian officials meet in Miami before Moscow talks - Axios
-- Congressional committees to scrutinize U.S. killing of boat strike survivors - The Washington Post
-- From White House adviser to Trump’s handpicked prosecutor: 63 days with Lindsey Halligan - CNN
+- Major Winter Storm Dumps Snow Across Midwest and Upends Travel - The New York Times
+- Death toll rises to 146 in Hong Kong apartment fire: "A wake-up call for everyone" - CBS News
+- Why no hurricanes made landfall in the US in 2025 - ABC News
+- Sen. Mark Kelly says Trump, Hegseth are 'not serious people' - Politico
 - Four killed and 10 wounded in shooting at child’s party in California, officials say - The Guardian
-- Trump Frees Fraudster Just Days Into Seven-Year Prison Sentence - The New York Times
-- Who killed Kristil Krug? Slain Colorado mom received menacing threats weeks before her murder. - CBS News
+- Airlines cancel 2,500 flights, roll out waivers, as storm disrupts Thanksgiving return - The Points Guy
 - From power brokers to protesters: NYC landlords prepare for battle under Mamdani - Politico
-- Hong Kong’s Migrant Domestic Workers Mourn Their Losses in Deadly Fire - The New York Times
 - As Pope Leo visits Lebanon, Christians are fleeing the Middle East - The Washington Post
+- UK's Reeves says she did not mislead public on the budget - Reuters
 - Indonesia and Thailand floods death toll passes 600 with hundreds still missing - The Guardian
-- ‘Toxic culture’: Chaos in Corbyn’s new far-left UK party as spat overshadows gathering - The Times of Israel
+- Swiss voters reject tax on super-rich and civic duty for women - politico.eu
+- Black Friday retail sales rise 4% despite economic jitters - Axios
+- US Options Market Grapples With ‘Concentration Risk’ in Clearing - Bloomberg.com
 - Cyber Monday 2025: Live updates from Amazon, Apple, Best Buy, Walmart - Mashable
-- AI helps drive record $11.8 billion in Black Friday online spending - Reuters
 - Catalyst Watch: Holiday shopping data, Amazon event, and Salesforce earnings - Seeking Alpha
-- When to expect your Social Security benefits for December - NewsNation
-- Apple AirPods Are Over 40% Off at Walmart with Free Shipping — Going Fast - Athlon Sports
+- The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The Verge
 - Revisiting Jill of the Jungle , the last game Tim Sweeney designed - Ars Technica
