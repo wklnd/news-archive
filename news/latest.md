@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-30 05:48_
+_Updated: 2025-11-30 06:56_
 
 - Trump says airlines should consider Venezuelan airspace closed - The Washington Post
-- Pete Hegseth denies he gave orders to ‘kill everybody’ on alleged ‘narco-boat’ - The Guardian
-- Over 1,400 flights canceled nationwide as snowy weather hits upper Midwest - ABC News
-- The Ex-President Whom Trump Plans to Pardon Flooded America With Cocaine - The New York Times
+- House and Senate committees launch inquiries into reported second strike on alleged drug boat - NBC News
+- Webster Springs, W.Va. United In Grief Over Death of National Guard Specialist Sarah Beckstrom - The New York Times
 - Volodymyr Zelenskyy loses brother-in-arms in Kyiv power shift - Financial Times
-- NYPD Arrest More Than a Dozen Protesting Homeland Security Agents in Tense Confrontation - THE CITY - NYC News
-- Where things stand with the National Guard shooting in D.C. - NPR
-- Trump ally Troy Nehls joins growing group of lawmakers retiring from Congress - Axios
+- The Ex-President Whom Trump Plans to Pardon Flooded America With Cocaine - The New York Times
+- Black Friday shooting at Westfield Valley Fair mall may have been gang-related, police say - Los Angeles Times
+- Protesters Disrupt Federal Immigration Action in Manhattan - Bloomberg.com
+- Over 1,400 flights canceled, 45-car pileup as snowy weather hits Midwest - ABC News
+- Political Confusion as Texas Awaits Supreme Court’s Ruling on Redistricting - The New York Times
 - RFK Jr. is overhauling the program that helps preserve Americans' access to vaccines - Politico
-- Mourners Honor Victims of Hong Kong Apartment Fire - The New York Times
-- Brothers, 8 and 11, killed in south Gaza strike; IDF: ‘Suspects’ crossed Yellow Line - The Times of Israel
-- Pope Leo visits Blue Mosque in Turkiye’s Istanbul - Al Jazeera
-- Ukrainian naval drones strike two Russian oil tankers in Black Sea - The Guardian
-- Global airlines race to fix jets as Airbus apologizes following A320 recall - KSL.com
-- Black Friday retail sales up despite economic jitters - Axios
-- Black Friday deals on tech for 2025 are still live: Up to 50 percent off the best gear from Apple, Amazon, Disney+, Lego, Dyson and others - Engadget
-- Experts say strict new FDA protocol for vaccine approval is ‘dangerous and irresponsible’ - The Guardian
-- The Black Friday deals are still going strong on Apple AirTags, iPads, and more - The Verge
-- Over 60 Black Friday Anker Deals Are Still Live. Add Them to Your Cart While You Can - CNET
-- Black Friday: Apple Watch Ultra 3, M5 MacBook Pro, MacBook Air9to5Mac - 9to5Mac
+- Anger mounts in Hong Kong over apartment fires as Beijing warns against ‘anti-China disruptors’ - The Guardian
+- Gazans Say Israeli Forces Killed Two Children, Amid Persistent Violence - The New York Times
+- Pope visits Istanbul’s Blue Mosque without praying as he focuses on unifying Christians - Politico
+- Tom Stoppard, playwright of electric verve, dies at 88 - The Washington Post
+- Airbus orders software fix to thousands of planes due to solar radiation risk - TechCrunch
+- AI helps drive record $11.8 billion in Black Friday online spending - Reuters
+- The 201 Black Friday deals you can still get - The Verge
+- Experts say top FDA official’s claim that Covid vaccines caused kids’ deaths requires more evidence - statnews.com
+- Anker’s handy little 3-port charger is just 35 bucks - The Verge
+- I found the new 2025 Apple iPad Pro on sale for Cyber Monday - USA Today
