@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-30 01:39_
+_Updated: 2025-11-30 04:33_
 
 ## Top Stories
 
-- Trump: Venezuelas luftrum ska ses som stängt - SVT Nyheter
-- Nazistmanifestation i centrala Stockholm - Expressen
-- ”Sea Babies” mot oljetankrar: ”Nytt modus operandi” - Dagens Nyheter
-- Källor: USA och Ryssland i hemliga samtal om projekt i Arktis och Marsuppdrag - Omni
-- Direkt – Krisen i Mellanöstern – Gaza: 70 000 dödade i kriget - Dagens Nyheter
+- Ukraina: Attackerade ryska skuggflottan i Svarta havet - Dagens Nyheter
+- Norsk budgetkris avstyrd – tillfälligt - SVT Nyheter
+- President på flykt över kontinenten efter kuppen - Västerbottens-Kuriren
+- Ny dödlig rysk attack mot Ukraina - GP
+- Beväpnade män stormade bar i Mexiko – flera dödade - GP
 - Bråk vid busshållsplats – en skadad - Expressen
 - Kyrkan varnar: Släpp inte in nunnor från Minsk - Dagens Nyheter
-- Man hittad död i vattnet utanför Hudiksvall - Aftonbladet
 - Tiotusentals mobiler blockeras – kan inte nå 112 - Västerbottens-Kuriren
-- Tre anhållna efter razzia mot spelverksamhet - GP
+- Man hittad död i vattnet utanför Hudiksvall - Aftonbladet
+- Grannsämjan i fara – risken med nya byggregler - NWT
 - Källor: Ukraina och USA möts under söndagen - GP
+- Trump: Venezuelas luftrum ska ses som stängt - SVT Nyheter
 - Mässan i Istanbul. Leo XIV: Vårda det som enar - Vatican News
 - Bombhot mot fransk tv – huvudkontor utrymt - Hufvudstadsbladet
-- Dubbla fyrhjulingsolyckor – två till sjukhus - LT
-- SAS-plan uppdaterade efter störningar hos Airbus - NWT
+- AI förändrar arbetsmarknaden – här är kompetenserna som blir avgörande - Börskollen
 - Siffrorna för Black Friday: Omsättningen backar – men snittordern rusar - Ehandel.se
+- SAS-plan uppdaterade efter störningar hos Airbus - NWT
 - Ebba Busch kallar upp elnätsbolagen - Aftonbladet
-- Paasikivi fick sin doktorshatt - Aftonbladet
-- Caviar lanserar den nya Secret Love iPhone 17 Pro-kollektionen från 10.200 dollar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
-- Det blir inget F1 från EA nästa år - Teknikveckan
+- Oktober Nintendo Switch 2-försäljningen hamnar efter PS5 i Storbritannien, när Sonys konsol får fart i Europa - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Ayaneo Next II: senaste livestream avslöjar 115Wh batteri, 8-vägs D-pad, dubbla fläktar och mer - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -59,7 +59,6 @@ _Updated: 2025-11-30 01:39_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
@@ -70,6 +69,7 @@ _Updated: 2025-11-30 01:39_
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -80,19 +80,19 @@ _Updated: 2025-11-30 01:39_
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -100,7 +100,6 @@ _Updated: 2025-11-30 01:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2025-11-30 01:39_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
@@ -147,7 +147,6 @@ _Updated: 2025-11-30 01:39_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -155,10 +154,11 @@ _Updated: 2025-11-30 01:39_
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
