@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 10:53_
+_Updated: 2025-12-01 11:49_
 
 ## Top Stories
 
-- DN Direkt – Miljardorder för Saab - Dagens Nyheter
-- Zelenskyj till Paris – ”fred inom räckhåll” - Hufvudstadsbladet
+- Gick till attack med brandsläckare på buss – Skansbron fick stängas - SVT Nyheter
+- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
+- Erkänner ambulansdåd men förnekar mord - SvD
 - Hårda kritiken mot Försäkringskassan: ”Extremt tufft” - Aftonbladet
 - Två gripna efter biljakt: ”Kunde slutat i katastrof” - Omni
-- Man åtalas för styckmord i Oskarshamn - Västerbottens-Kuriren
 - Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
-- Erkänner ambulansdåd men förnekar mord - Västerbottens-Kuriren
+- DN Direkt – Man åtalas för styckmord i Oskarshamn - Dagens Nyheter
 - Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
 - Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
-- Särskild resurs inför Karl XII-demonstrationer - SVT Nyheter
+- Ilska mot nazistmarsch: "Avskyvärda åsikter" - UNT
 - Man som sköt soldater kan ha radikaliserats i USA - Västerbottens-Kuriren
 - Här bor 42 miljoner människor – världens största stad utsedd - Dagens Nyheter
-- Nära 1 000 döda i skyfallen i Sydostasien - GP
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Stilla matpriser – men bär och kött blir dyrare - SvD
-- Bilförsäljningen rasade i november - DI
+- Nära 1 000 döda i skyfallen i Sydostasien - Västerbottens-Kuriren
+- Bilförsäljningen rasade i november – tunga fall för Volvo-modeller - DI
 - Di:s julkalender 2025: Här får du 24 börstips fram till jul - DI
+- Saab får order på mobilt luftvärn från Litauen - Cision News
 - Sveriges inflation väntas falla kraftigt - SvD
 - Jag har testat Shark Glam Multi-Styler och det är ett coolt koncept som faller på ett märkligt designbeslut - TechRadar
 - Jag har kört nya elbilen Kia EV4 och den gör äntligen halvkombis spännande igen av tre viktiga skäl - TechRadar
@@ -78,11 +78,14 @@ _Updated: 2025-12-01 10:53_
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -90,9 +93,6 @@ _Updated: 2025-12-01 10:53_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -102,12 +102,12 @@ _Updated: 2025-12-01 10:53_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -119,26 +119,26 @@ _Updated: 2025-12-01 10:53_
 
 ## Science
 
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
