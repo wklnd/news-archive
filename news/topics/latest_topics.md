@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 11:49_
+_Updated: 2025-12-01 12:49_
 
 ## Top Stories
 
-- Gick till attack med brandsläckare på buss – Skansbron fick stängas - SVT Nyheter
-- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
-- Erkänner ambulansdåd men förnekar mord - SvD
-- Hårda kritiken mot Försäkringskassan: ”Extremt tufft” - Aftonbladet
-- Två gripna efter biljakt: ”Kunde slutat i katastrof” - Omni
-- Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
-- DN Direkt – Man åtalas för styckmord i Oskarshamn - Dagens Nyheter
-- Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
 - Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
-- Ilska mot nazistmarsch: "Avskyvärda åsikter" - UNT
-- Man som sköt soldater kan ha radikaliserats i USA - Västerbottens-Kuriren
-- Här bor 42 miljoner människor – världens största stad utsedd - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
+- Pressträff om barn och ungas trygghet vid omhändertaganden - Regeringen.se
+- Hårda kritiken mot Försäkringskassan: ”Extremt tufft” - Aftonbladet
+- Nu startar rättegången efter ambulansmordet i Harmånger - SVT Nyheter
+- Två gripna efter biljakt: ”Kunde slutat i katastrof” - Omni
+- DN Direkt – Man åtalas för styckmord i Oskarshamn - Dagens Nyheter
+- Gick till attack med brandsläckare på buss – Skansbron fick stängas - SVT Nyheter
+- Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
+- 01 december 07.01, Sammanfattning natt, Örebro län - polisen.se
+- Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
+- Bekräftat: Witkoff träffar Putin i morgon - Hufvudstadsbladet
+- Trumps ultimatum till Maduro: Avgå direkt, annars anfaller USA - Dagens Nyheter
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Nära 1 000 döda i skyfallen i Sydostasien - Västerbottens-Kuriren
-- Bilförsäljningen rasade i november – tunga fall för Volvo-modeller - DI
-- Di:s julkalender 2025: Här får du 24 börstips fram till jul - DI
-- Saab får order på mobilt luftvärn från Litauen - Cision News
+- Torbjörn Törnqvist säljer sin andel i Gunvor – lämnar som vd - DI
+- Kraftigt nedåt för bilförsäljningen - Aftonbladet
+- Nu ska FI granska marknaden för individuell tjänstepension - Sak & Liv
 - Sveriges inflation väntas falla kraftigt - SvD
 - Jag har testat Shark Glam Multi-Styler och det är ett coolt koncept som faller på ett märkligt designbeslut - TechRadar
 - Jag har kört nya elbilen Kia EV4 och den gör äntligen halvkombis spännande igen av tre viktiga skäl - TechRadar
@@ -38,15 +38,15 @@ _Updated: 2025-12-01 11:49_
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
+- FAGE ENTERS GLOBAL PARTNERSHIP WITH FERRARI HYPERCAR IN THE FIA WORLD ENDURANCE CHAMPIONSHIP (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -100,13 +100,13 @@ _Updated: 2025-12-01 11:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -120,45 +120,45 @@ _Updated: 2025-12-01 11:49_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
