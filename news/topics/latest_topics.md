@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 13:40_
+_Updated: 2025-12-01 15:11_
 
 ## Top Stories
 
-- DN Direkt – Regeringen vill att barn ska kunna tvångsomhändertas i fler fall - Dagens Nyheter
+- Utkast till lagrådsremiss För barns rättigheter och trygghet – en ny lag om omhändertagande för vård av barn och unga - Regeringen.se
 - Amerikanskt sändebud på väg till Moskva efter "produktiva" samtal med Ukraina - Europaportalen
+- Kollegan bevittnade attacken: ”Han säger inget” - SvD
 - Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
-- Hatt har nytt jobb – tar vid där hon slutade - Omni
-- Hårda kritiken mot Försäkringskassan: ”Extremt tufft” - Aftonbladet
-- DN Direkt – Körde mot trafiken på E6 – greps efter biljakt - Dagens Nyheter
-- Erkänner hugg mot ambulansvårdare – men inte mord - Dagens Nyheter
+- ”Sea Babies” mot oljetankrar: ”Nytt modus operandi” - Dagens Nyheter
+- Halva skolan däckad – stort utbrott av influensa - Expressen
+- Jägare sköt man av misstag – slipper fängelse - SVT Nyheter
 - Man åtalas för styckmord i Oskarshamn - Västerbottens-Kuriren
-- Gick till attack med brandsläckare på buss – Skansbron fick stängas - SVT Nyheter
-- 01 december 07.01, Sammanfattning natt, Örebro län - polisen.se
+- QUIZ: Testa dig själv: Vilket år kom julkalendern? - Borlänge Tidning
+- Pojke knivhuggen av maskerade gärningspersoner - GP
 - Uppgifter: Krigsbrott i Afghanistan mörklades - Västerbottens-Kuriren
-- Bekräftat: Witkoff träffar Putin i morgon - Dagens Nyheter
-- Man som sköt soldater kan ha radikaliserats i USA - GP
-- Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
+- Rysk robotattack mot Dnipro – flera döda - GP
+- Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
+- Trumps ultimatum till Maduro: Avgå direkt, annars anfaller USA - Dagens Nyheter
 - Torbjörn Törnqvist säljer sin andel i Gunvor – lämnar som vd - DI
-- Nu ska FI granska marknaden för individuell tjänstepension - Sak & Liv
-- Kraftigt nedåt för bilförsäljningen - Aftonbladet
-- Sparekonomen: Då ska du inte ha ISK-konto - GP
-- Nu är det officiellt: Samsung Galaxy Tab A11 är den bästa kompakta, billiga surfplattan du kan köpa - m3.se
-- Låga Black Ops 7-betyg skakar om i FZ High Score-toppen - FZ.se
+- Sverige köper pansarterrängbilar för 1,5 miljarder - Aftonbladet
+- Kraftigt nedåt för bilförsäljningen - Tidningen Näringslivet
+- Nytt försök upphandla elreserv - Upphandling24
+- Netflix slopar stöd för att strömma från mobil till tv - Omni
+- One UI 8.5-koden pekar på en efterlängtad uppgradering för Samsung Galaxy S26-serien - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
@@ -54,22 +54,22 @@ _Updated: 2025-12-01 13:40_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
-- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
+- Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
+- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
+- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
+- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 
 ## Business
 
@@ -132,33 +132,33 @@ _Updated: 2025-12-01 13:40_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Ökad lönsamhet med regenerativt lantbruk - ja.se
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 615 miljoner extra till svenskt lantbruk - Lantbruksnytt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Maskinförare | Jobb | ATL - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Jordbruket förtjänar mer än KDs skenhelighet - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
