@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 23:37_
+_Updated: 2025-12-02 00:42_
 
 ## Top Stories
 
-- Sverige illa ute i handbolls-VM: ”Väldigt svårt för oss” - Dagens Nyheter
 - Trump kallar till möte om Venezuela-konflikten - SVT Nyheter
 - Ministern i tårar: Nu blir det lex Lilla Hjärtat på riktigt - Altinget.SE
-- DN Direkt – Lastbil och bil i krock – en allvarligt skadad - Dagens Nyheter
 - DN Direkt – Trump undersökte hjärt- och kärlsystemet - Dagens Nyheter
-- HALKAN: ”Rött läge” på akuten vid Skellefteå sjukhus - Norran
+- Tryck på akuten – broddar skyddar inte helt - GP
+- Trumps hemliga mål med fredsplanen: Göra affärer i Arktis - Dagens Nyheter
+- Nya regler för bygglov - Nykoping.se
 - Hesa Fredrik tjöt inte i Linköping, Norrköping eller Söderköping - SVT Nyheter
-- Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
+- SMHI varnar för plötslig ishalka i norra Sverige - SVT Nyheter
 - Polisen slog till mot spellokalen redan 2020 - Dagens Nyheter
-- Gabriel Zetterström: Så får ett dåligt sällskap heila vidare – så länge allt går ”lugnt till” - Dagens Nyheter
+- Åtgärder krävs för ökad produktion i gröna näringarna - LRF - Lantbrukarnas Riksförbund
 - EU: Läget vid gränsen försämras - Hufvudstadsbladet
 - Tecken på första världskriget-gift mot demonstranter - Västerbottens-Kuriren
 - Zelenskyj: Kriget måste ta slut fortast möjligt - Dagens Nyheter
 - Intensiv diplomati kring fredsplanen för Ukraina – det händer nu - SVT Nyheter
-- Sameby bryter samarbete med LKAB – säger nej till jordartsmetaller - Dagens Nyheter
+- Döda flugor och mögel på Vapiano i Göteborg - Aftonbladet
+- Förändring i samverkan mellan LKAB och Gabna sameby i Kiruna - LKAB
+- Deadline i dag för NLL – men en region återstår - Läkartidningen
 - Nvidia investerar i Synopsys, som rusar på börsen - Börsvärlden
-- Saab får order på mobilt luftvärn från Litauen - Cision News
-- Ambu: Köpläge efter luften gått ur aktien - Affärsvärlden
 - Netflix slopar stöd för att strömma från mobil till tv - Omni
 - Apptips: Skicka riktiga julkort från din mobil - mobil.se
 
@@ -35,7 +35,7 @@ _Updated: 2025-12-01 23:37_
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - omoss.svt.se
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -56,7 +56,6 @@ _Updated: 2025-12-01 23:37_
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
@@ -65,11 +64,12 @@ _Updated: 2025-12-01 23:37_
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-12-01 23:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 615 miljoner extra till svenskt lantbruk - Lantbruksnytt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Tuff utmaning för europeiskt lantbruk - Lantbruksnytt
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
