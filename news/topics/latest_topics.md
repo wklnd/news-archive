@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 17:45_
+_Updated: 2025-12-01 18:53_
 
 ## Top Stories
 
-- Det vet vi om de gripna i Spanien - LT
-- Kollegan bevittnade attacken: ”Han säger inget” - SvD
-- Skanderade ”hell seger” – misstänks för brott - GP
-- Polisen varnar för bostadsinbrott – ser en ökning - Mariestads-Tidningen
-- Lämnar Väla efter 35 år – blir vd för hotell, tennis och trädgårdar - HD
-- Hyllade pizzerian öppnar även i Hyllie - Sydsvenskan
-- Tonårspojke knivhuggen i Fagersjö - SVT Nyheter
+- Nato utnämner generalmajor Lena Persson Herlitz till ställföreträdande underrättelsechef - Försvarsmakten
+- Fem begärda häktade efter polisrazzia mot spelklubb - Mitt i
+- Sexköpare recenserar sina brott på nätet: ”Värd pengarna” - Dagens Nyheter
+- Berättar om nya lagen: ”Lite känslosamt i dag” - Expressen
+- Ilska mot nazistmarsch: "Avskyvärda åsikter" - GP
+- Strid om obebyggd tomt – vill stoppa affären - SvD
+- Erkänner hugg mot ambulansvårdare – men inte mord - Dagens Nyheter
+- SMHI varnar för plötslig ishalka i norra Sverige - SVT Nyheter
 - Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
-- Jägare sköt man av misstag – slipper fängelse - SVT Nyheter
-- Bilist fick böter utanför Skellefteå - Norran
+- Trängsel i tingsrätten när Jan Emanuel ställdes inför rätta - Dagens Nyheter
 - Uppgifter: Krigsbrott i Afghanistan mörklades - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
-- Zelenskyj i Paris: Freden måste bli varaktig - Hufvudstadsbladet
-- Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Torbjörn Törnqvist säljer sin andel i Gunvor – lämnar som vd - DI
+- Intensiv diplomati kring fredsplanen för Ukraina – det händer nu - SVT Nyheter
+- Michael Winiarski: Trumps sändebud till Moskva – men hur går förhandlingarna? - Dagens Nyheter
+- Dödssiffran fortsätter öka efter översvämningar i Sydostasien - Dagens Nyheter
 - FMV beställer fler pansarterrängbilar - FMV
-- Kraftigt nedåt för bilförsäljningen - Tidningen Näringslivet
+- Nvidia satsar 19 miljarder i halvledarbolag - Aftonbladet
 - Saab får order på mobilt luftvärn från Litauen - Cision News
+- Bilförsäljningen rasade i november – tunga fall för Volvo-modeller - DI
 - Netflix slopar stöd för att strömma från mobil till tv - Omni
 - Open AI har börjat testa reklam i Chat GPT - Omni
 
 ## World News
 
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - S&P Global Announces Proposed Offering of Senior Notes - Placera.se
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 
 ## Technology
@@ -81,8 +81,8 @@ _Updated: 2025-12-01 17:45_
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -143,22 +143,22 @@ _Updated: 2025-12-01 17:45_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 615 miljoner extra till svenskt lantbruk - Lantbruksnytt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Tuff utmaning för europeiskt lantbruk - Lantbruksnytt
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
