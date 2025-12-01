@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 07:04_
+_Updated: 2025-12-01 07:49_
 
 ## Top Stories
 
+- Ukraina-samtalen i Florida: Positiva och produktiva - Hufvudstadsbladet
 - DN Direkt – Trump kräver högergir när Honduras väljer ledare - Dagens Nyheter
-- Fredsmöte mellan USA och Ukraina - SVT Nyheter
+- Vansinnesfärd på E6 – körde mot trafiken - GP
 - Nu är förorten tryggare än resten av Göteborg - GP
+- Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
 - Så får du i dig mikroplast under en vanlig dag - Dagens Nyheter
-- Pete Hegseth kritiseras för dödsorder mot venezuelanskt fartyg: ”Tydligt krigsbrott” - SVT Nyheter
-- E4 vid Södertälje avstängd efter krock - Expressen
+- Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
+- Nya regler för bygglov - Regeringen.se
+- Regioner förbereder nationell färdplan för precisionsmedicin - Dagens Medicin
 - Två personer till sjukhus efter olycka på E22 - SVT Nyheter
-- Grannsämjan i fara – risken med nya byggregler - NWT
-- 30 november 08.19, Sammanfattning natt, Jämtlands län - Polisen.se
-- Idag får du höra ”Hesa Fredrik” - Lidingö Nyheter
-- DN Direkt – Brud och tio brudtärnor bland 26 kidnappade i Nigeria - Dagens Nyheter
+- Man som sköt soldater kan ha radikaliserats i USA - Västerbottens-Kuriren
+- Pastor och brud bland 26 kidnappade i Nigeria - GP
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
 - Trump bekräftar samtal med Maduro - GP
-- Netanyahu ber om nåd av Israels president - SVT Nyheter
+- Här är fonderna du ska se upp med - Västerbottens-Kuriren
+- Stilla matpriser – men bär och kött blir dyrare - SvD
+- Rekordintäkter för vapentillverkare - Aftonbladet
 - Sommarjobb sjuksköterska/distriktssköterska Primärvården - Region Kalmar Län
-- Valmyndighetens annonser stoppas av Meta - Aftonbladet
-- Världens vapentillverkare visar rekordsiffror - DI
-- Astrit skadades på Scania – stoppades från att gå till läkare - Dagens Arbete
 - Lenovos ThinkPad T16 Gen 4 AMD ger gott om utrymme för förbättringar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Samsung Galaxy S26, S26 Plus och S26 Ultra: Leaker jämför nästan alla specifikationer med Galaxy S25-motsvarigheter - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 2025 International MICE Summit (IMS) to convene global leaders as Vision 2030 powers Saudi Arabia's rise as a global hub for business events (PR Newswire) - Aktiellt
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
+- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 
 ## Technology
 
@@ -77,22 +77,22 @@ _Updated: 2025-12-01 07:04_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -108,14 +108,14 @@ _Updated: 2025-12-01 07:04_
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
@@ -148,16 +148,16 @@ _Updated: 2025-12-01 07:04_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
