@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 12:49_
+_Updated: 2025-12-01 13:40_
 
 ## Top Stories
 
+- DN Direkt – Regeringen vill att barn ska kunna tvångsomhändertas i fler fall - Dagens Nyheter
+- Amerikanskt sändebud på väg till Moskva efter "produktiva" samtal med Ukraina - Europaportalen
 - Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
-- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
-- Pressträff om barn och ungas trygghet vid omhändertaganden - Regeringen.se
+- Hatt har nytt jobb – tar vid där hon slutade - Omni
 - Hårda kritiken mot Försäkringskassan: ”Extremt tufft” - Aftonbladet
-- Nu startar rättegången efter ambulansmordet i Harmånger - SVT Nyheter
-- Två gripna efter biljakt: ”Kunde slutat i katastrof” - Omni
-- DN Direkt – Man åtalas för styckmord i Oskarshamn - Dagens Nyheter
+- DN Direkt – Körde mot trafiken på E6 – greps efter biljakt - Dagens Nyheter
+- Erkänner hugg mot ambulansvårdare – men inte mord - Dagens Nyheter
+- Man åtalas för styckmord i Oskarshamn - Västerbottens-Kuriren
 - Gick till attack med brandsläckare på buss – Skansbron fick stängas - SVT Nyheter
-- Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
 - 01 december 07.01, Sammanfattning natt, Örebro län - polisen.se
+- Uppgifter: Krigsbrott i Afghanistan mörklades - Västerbottens-Kuriren
+- Bekräftat: Witkoff träffar Putin i morgon - Dagens Nyheter
+- Man som sköt soldater kan ha radikaliserats i USA - GP
 - Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
-- Bekräftat: Witkoff träffar Putin i morgon - Hufvudstadsbladet
-- Trumps ultimatum till Maduro: Avgå direkt, annars anfaller USA - Dagens Nyheter
-- Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
 - Torbjörn Törnqvist säljer sin andel i Gunvor – lämnar som vd - DI
-- Kraftigt nedåt för bilförsäljningen - Aftonbladet
 - Nu ska FI granska marknaden för individuell tjänstepension - Sak & Liv
-- Sveriges inflation väntas falla kraftigt - SvD
-- Jag har testat Shark Glam Multi-Styler och det är ett coolt koncept som faller på ett märkligt designbeslut - TechRadar
-- Jag har kört nya elbilen Kia EV4 och den gör äntligen halvkombis spännande igen av tre viktiga skäl - TechRadar
+- Kraftigt nedåt för bilförsäljningen - Aftonbladet
+- Sparekonomen: Då ska du inte ha ISK-konto - GP
+- Nu är det officiellt: Samsung Galaxy Tab A11 är den bästa kompakta, billiga surfplattan du kan köpa - m3.se
+- Låga Black Ops 7-betyg skakar om i FZ High Score-toppen - FZ.se
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2025-12-01 12:49_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
 - Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- FAGE ENTERS GLOBAL PARTNERSHIP WITH FERRARI HYPERCAR IN THE FIA WORLD ENDURANCE CHAMPIONSHIP (PR Newswire) - Aktiellt
+- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-12-01 12:49_
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
-- The 2025 A.I. Awards Winners Selected (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -77,20 +77,20 @@ _Updated: 2025-12-01 12:49_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Jonas Persson proposed as new CEO of subsidiary - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
@@ -100,13 +100,13 @@ _Updated: 2025-12-01 12:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -126,39 +126,39 @@ _Updated: 2025-12-01 12:49_
 - Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 615 miljoner extra till svenskt lantbruk - Lantbruksnytt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Jordbruket förtjänar mer än KDs skenhelighet - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
