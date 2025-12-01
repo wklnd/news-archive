@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 01:39_
+_Updated: 2025-12-01 04:42_
 
 ## Top Stories
 
-- Fredsmöte mellan USA och Ukraina - SVT Nyheter
 - DN Direkt – Trump kräver högergir när Honduras väljer ledare - Dagens Nyheter
-- DN Direkt – Vinterkaos i USA – rekordmycket snö i Chicago - Dagens Nyheter
-- Man häktas för knivmord i Karlskrona - GP
 - Pete Hegseth kritiseras för dödsorder mot venezuelanskt fartyg: ”Tydligt krigsbrott” - SVT Nyheter
-- Dödsskjutning i USA – gärningsman jagas av polis - Västerbottens-Kuriren
-- Två svenskar gripna i Spanien efter razzia - Västerbottens-Kuriren
+- Ukraina-samtalen i Florida: Positiva och produktiva - Västerbottens-Kuriren
+- Trump bekräftar samtal med Maduro - GP
+- Stopp på E4 söder om Södertälje – flera bilar i krock - SVT Nyheter
+- Ambulanssjukvårdaren dödades i tjänsten – nu inleds rättegången - NSD
+- Två svenskar gripna i Spanien efter razzia - GP
 - Två personer till sjukhus efter olycka på E22 - SVT Nyheter
 - Grannsämjan i fara – risken med nya byggregler - NWT
-- 30 november 08.19, Sammanfattning natt, Jämtlands län - polisen.se
-- DN Direkt – Brud och tio brudtärnor bland 26 kidnappade i Nigeria - Dagens Nyheter
-- Experter: Netanyahus vädjan extraordinär - Västerbottens-Kuriren
+- 30 november 08.19, Sammanfattning natt, Jämtlands län - Polisen.se
+- Pastor och brud bland 26 kidnappade i Nigeria - Västerbottens-Kuriren
+- Netanyahu ber om nåd av Israels president - SVT Nyheter
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Nära 1 000 döda i skyfallen i Sydostasien - Corren
-- De blev ekonomiskt oberoende och slutade jobba – så blev livet sen - Dagens Nyheter
+- Barn tränas till strid – mot sitt hemland - Expressen
 - Tråkiga nyheter: OpenAI-effekten är borta - Dagens PS
-- Experter: Ingen boom på bostadsmarknaden - Omni
-- Så slår den starka svenska kronan mot ditt fondsparande - TV4 Nyheterna
-- Uppföljaren till Cyberpunk kommer inte släppas innan 2028 - FZ.se
-- En handfull bra ljud med nya JBL Grip - Teknikveckan
+- Sommarjobb sjuksköterska/distriktssköterska Primärvården - Region Kalmar Län
+- Valmyndighetens annonser stoppas av Meta - Aftonbladet
+- Mobilanvändare utestängs från nödnummer • Ingenjören Frida, 41, blev klimataktivist • De gör upp om segern i Idol - NWT
+- Lenovos ThinkPad T16 Gen 4 AMD ger gott om utrymme för förbättringar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
+- Samsung Galaxy S26, S26 Plus och S26 Ultra: Leaker jämför nästan alla specifikationer med Galaxy S25-motsvarigheter - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- LISA with Leading Thai and International Artists Captivate the World at the Amazing Thailand Countdown 2025, Reinforcing ICONSIAM as the Ultimate Global Countdown Destination (EQS Newswire) - Aktiellt
 
 ## Technology
 
@@ -74,21 +74,21 @@ _Updated: 2025-12-01 01:39_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- First Financial Bancorp to Announce Third Quarter 2025 Financial Results on Thursday, October 23, 2025 - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2025-12-01 01:39_
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-12-01 01:39_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Jordbruket förtjänar mer än KDs skenhelighet - Land Lantbruk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
