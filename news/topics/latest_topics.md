@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 09:43_
+_Updated: 2025-12-01 10:53_
 
 ## Top Stories
 
+- DN Direkt – Miljardorder för Saab - Dagens Nyheter
 - Zelenskyj till Paris – ”fred inom räckhåll” - Hufvudstadsbladet
-- DN Direkt – Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
 - Hårda kritiken mot Försäkringskassan: ”Extremt tufft” - Aftonbladet
-- Nu är förorten tryggare än resten av Göteborg - GP
-- Ena körfältet avstängt på Ölandsbron efter olycka - SVT Nyheter
-- Så får du i dig mikroplast under en vanlig dag - Dagens Nyheter
-- Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
-- Nya regler för bygglov - Regeringen.se
-- Sommarjobb skötare vuxenpsykiatri - Region Kalmar Län
-- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
+- Två gripna efter biljakt: ”Kunde slutat i katastrof” - Omni
+- Man åtalas för styckmord i Oskarshamn - Västerbottens-Kuriren
 - Kampen om Grönland – länderna som vill ha kontroll - Dagens Nyheter
+- Erkänner ambulansdåd men förnekar mord - Västerbottens-Kuriren
+- Testa brandvarnaren på Brandvarnardagen 1 december - Hällekis-Kuriren
+- Nu blir det enklare att bygga ut – utan bygglov • Så stort kan man bygga - GP
+- Särskild resurs inför Karl XII-demonstrationer - SVT Nyheter
 - Man som sköt soldater kan ha radikaliserats i USA - Västerbottens-Kuriren
 - Här bor 42 miljoner människor – världens största stad utsedd - Dagens Nyheter
 - Nära 1 000 döda i skyfallen i Sydostasien - GP
+- Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
 - Stilla matpriser – men bär och kött blir dyrare - SvD
-- Tiotusentals villaägare drabbades av extremväder - Aftonbladet
-- FI varnar för blandfonder: Ska ge värde för pengarna - Omni Ekonomi
+- Bilförsäljningen rasade i november - DI
+- Di:s julkalender 2025: Här får du 24 börstips fram till jul - DI
 - Sveriges inflation väntas falla kraftigt - SvD
+- Jag har testat Shark Glam Multi-Styler och det är ett coolt koncept som faller på ett märkligt designbeslut - TechRadar
 - Jag har kört nya elbilen Kia EV4 och den gör äntligen halvkombis spännande igen av tre viktiga skäl - TechRadar
-- Test: Laptop med rekordbatteri – utan att knäcka budgeten - PC för Alla
 
 ## World News
 
@@ -102,12 +102,12 @@ _Updated: 2025-12-01 09:43_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -123,21 +123,21 @@ _Updated: 2025-12-01 09:43_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
