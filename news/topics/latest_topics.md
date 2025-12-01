@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 06:34_
+_Updated: 2025-12-01 07:04_
 
 ## Top Stories
 
 - DN Direkt – Trump kräver högergir när Honduras väljer ledare - Dagens Nyheter
 - Fredsmöte mellan USA och Ukraina - SVT Nyheter
-- Ambulanssjukvårdaren dödades i tjänsten – nu inleds rättegången - NSD
-- Trump bekräftar samtal med Maduro - GP
+- Nu är förorten tryggare än resten av Göteborg - GP
+- Så får du i dig mikroplast under en vanlig dag - Dagens Nyheter
 - Pete Hegseth kritiseras för dödsorder mot venezuelanskt fartyg: ”Tydligt krigsbrott” - SVT Nyheter
-- Valdemar Möller: Trump tar hatet mot migranter till en ny nivå - tidningensyre.se
+- E4 vid Södertälje avstängd efter krock - Expressen
 - Två personer till sjukhus efter olycka på E22 - SVT Nyheter
-- 30 november 08.19, Sammanfattning natt, Jämtlands län - Polisen.se
 - Grannsämjan i fara – risken med nya byggregler - NWT
+- 30 november 08.19, Sammanfattning natt, Jämtlands län - Polisen.se
 - Idag får du höra ”Hesa Fredrik” - Lidingö Nyheter
-- Pastor och brud bland 26 kidnappade i Nigeria - Västerbottens-Kuriren
-- Netanyahu ber om nåd av Israels president - SVT Nyheter
+- DN Direkt – Brud och tio brudtärnor bland 26 kidnappade i Nigeria - Dagens Nyheter
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Amerikanska gamers tränar på motstånd mot ICE - Omni
+- Trump bekräftar samtal med Maduro - GP
+- Netanyahu ber om nåd av Israels president - SVT Nyheter
 - Sommarjobb sjuksköterska/distriktssköterska Primärvården - Region Kalmar Län
 - Valmyndighetens annonser stoppas av Meta - Aftonbladet
+- Världens vapentillverkare visar rekordsiffror - DI
 - Astrit skadades på Scania – stoppades från att gå till läkare - Dagens Arbete
-- Mobilanvändare utestängs från nödnummer • Ingenjören Frida, 41, blev klimataktivist • De gör upp om segern i Idol - NWT
 - Lenovos ThinkPad T16 Gen 4 AMD ger gott om utrymme för förbättringar - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 - Samsung Galaxy S26, S26 Plus och S26 Ultra: Leaker jämför nästan alla specifikationer med Galaxy S25-motsvarigheter - https://www.notebookcheck.se/Baerbara-datorer-laptops-tester-och-nyheter.69180.0.html
 
 ## World News
 
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 2025 International MICE Summit (IMS) to convene global leaders as Vision 2030 powers Saudi Arabia's rise as a global hub for business events (PR Newswire) - Aktiellt
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -108,14 +108,14 @@ _Updated: 2025-12-01 06:34_
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
