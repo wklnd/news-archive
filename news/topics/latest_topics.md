@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-01 21:41_
+_Updated: 2025-12-01 22:40_
 
 ## Top Stories
 
-- Natos nya strategi: Bli mer aggressiva - Expressen
+- Uppgifter: Trump väntas hålla möte om Venezuela-konflikten - SVT Nyheter
+- Trängsel i tingsrätten när Jan Emanuel ställdes inför rätta - Dagens Nyheter
 - DN Direkt – Lastbil och bil i krock – en allvarligt skadad - Dagens Nyheter
-- Sexköpare recenserar sina brott på nätet: ”Värd pengarna” - Dagens Nyheter
-- Svensk generalmajor får toppjobb i Nato - Expressen
-- Åklagare: Han har erkänt att han utdelat knivhugg - SVT Nyheter
-- Nya regler för bygglov - Nykoping.se
+- Natos nya strategi: Bli mer aggressiva - Expressen
+- ”Ingen människa ska lida till döds” - SvD
+- Polisen slog till mot spellokalen redan 2020 - Dagens Nyheter
 - Hesa Fredrik tjöt inte i Linköping, Norrköping eller Söderköping - SVT Nyheter
 - DN Direkt – SMHI varnar för plötslig ishalka - Dagens Nyheter
-- Man misshandlade sin exfru till döds – döms - Västerbottens-Kuriren
 - Gabriel Zetterström: Så får ett dåligt sällskap heila vidare – så länge allt går ”lugnt till” - Dagens Nyheter
-- Trumps favoritkandidat ser ut att vinna i Honduras - Dagens Nyheter
+- Man misshandlade sin exfru till döds – döms - Västerbottens-Kuriren
+- Zelenskyj: Kriget måste ta slut fortast möjligt - Dagens Nyheter
+- EU: Läget vid gränsen försämras - Hufvudstadsbladet
+- Tecken på första världskriget-gift mot demonstranter - Västerbottens-Kuriren
 - Intensiv diplomati kring fredsplanen för Ukraina – det händer nu - SVT Nyheter
-- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
-- Rysk robotattack mot Dnipro – flera döda - Västerbottens-Kuriren
 - Sameby bryter samarbete med LKAB – säger nej till jordartsmetaller - Dagens Nyheter
-- Sverige köper pansarterrängbilar för 1,5 miljarder - Aftonbladet
-- SIPRI: Rekordintäkter för världens vapenindustri - tidningensyre.se
-- Nvidia köper in sig i ännu ett bolag – lyfter i förhandeln - Di
+- Rekordintäkter för världens vapentillverkare - Hufvudstadsbladet
+- Affärsvärlden ger köpråd för danska Ambu - Börsvärlden
+- Torbjörn Törnqvist säljer sin andel i Gunvor – lämnar som vd - Di
 - Netflix slopar stöd för att strömma från mobil till tv - Omni
-- Open AI har börjat testa reklam i Chat GPT - Omni
+- Motorola ifrågasätter EU‑regel om uppdateringar - mobil.se
 
 ## World News
 
+- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - S&P Global Announces Proposed Offering of Senior Notes - Placera.se
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -66,33 +66,33 @@ _Updated: 2025-12-01 21:41_
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Palladyne AI Establishes Vertically Integrated U.S. Defense Technology Pioneer Through Transformative Acquisitions Delivering Advanced Avionics, Precision Component Manufacturing and Embodied AI - Placera.se
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Jonas Persson proposed as new CEO of subsidiary - Placera.se
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Scotiabank and Davivienda close previously announced transaction to transfer Scotiabank's banking operations in Colombia, Costa Rica and Panama - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -126,19 +126,19 @@ _Updated: 2025-12-01 21:41_
 - Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
