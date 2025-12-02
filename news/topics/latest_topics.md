@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 22:45_
+_Updated: 2025-12-02 23:39_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Mötet i Kreml har börjat - Dagens Nyheter
+- Spelarbetyg: Sverige–Frankrike i Nations League - Aftonbladet
+- Putin: ”Om Europa önskar kriga är vi redo” - Dagens Nyheter
+- Person påkörd av spårvagn i Göteborg – förd till sjukhus - SVT Nyheter
 - Politikerna är eniga: Millennium ska skrotas - GP
-- Person påkörd av spårvagn i Johanneberg – förd till sjukhus - SVT Nyheter
 - Så stöttar nunnorna Rysslands anfallskrig i Ukraina - SvD
-- Förslaget: Polis ska kunna rekommendera utvisning - Omni
-- DN Direkt – Strömmer om utsatta områden: ”På rätt väg” - Dagens Nyheter
+- Israel stäms för journalist-stopp i Gaza - Dagens Nyheter
+- Polisen presenterar ny lägesbild över utsatta områden - polisen.se
 - Hennes uppdrag: Att få invandrare att lämna Sverige - Sydsvenskan
-- Riksrevisionen om Sida: Onödigt omständligt - GP
-- Stor explosionsrisk på mack i Södertälje - Expressen
-- DEBATT: S-trams i vägen för bra lösningar om återvandringen - Norran
-- Israel stäms för journalist-stopp i Gaza - Västerbottens-Kuriren
+- DN Direkt – Förslag: Polis ska få rekommendera utvisning – utan att brott begåtts - Dagens Nyheter
+- Riksrevisionen om Sida: Onödigt omständligt - Västerbottens-Kuriren
 - Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
-- Høibys rättegångskostnader betalda – av mormor - GP
 - Turkiet: Fartyg angripet i Svarta havet - GP
+- Høibys rättegångskostnader betalda – av mormor - Västerbottens-Kuriren
+- UNHCR Sverige - UNHCR - The UN Refugee Agency
+- Hajpade julkalendrar säljs vidare: ”Sålts 350 Caia-kalendrar för totalt en miljon” - Dagens Nyheter
+- Slöseri fick Buffett att sluta ge pengar i julklapp - Dagens PS
 - Affärsvärlden ger ett neutralt råd för Synthetic MR - Börsvärlden
-- Miljardhöst för Saab – blir alltmer utländskt - SvD
-- Ny vd rensar i Ikeas toppskikt - Sydsvenskan
-- Förbättrat resultat för regionägda företagen - Statistikmyndigheten SCB
+- EU:s nya satsning: "Framtiden är elektrisk" - Dagens PS
 - Apple rekryterar AI-expert som byggde Googles Gemini - DI
 - Här är Samsungs dubbelvikta debut – tar upp kampen med Huawei - NyTeknik
 
@@ -83,9 +83,9 @@ _Updated: 2025-12-02 22:45_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -100,7 +100,7 @@ _Updated: 2025-12-02 22:45_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Heidi Stensmyren ska driva på AI-utveckling av vården - dagensmedicin.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -119,42 +119,42 @@ _Updated: 2025-12-02 22:45_
 
 ## Science
 
+- AFTD Grantee Leads Basic Science Study Exploring Role of Protein in Tau-Based Disorders like CBD - AFTD - The Association for Frontotemporal Degeneration
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Simple math behind major bison blunder - Forskning & Framsteg
+- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
