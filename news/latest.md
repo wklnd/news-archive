@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-02 23:48_
+_Updated: 2025-12-03 00:49_
 
 - Trump and Hegseth provide new details on controversial strikes on alleged drug boat - CBS News
-- Witkoff and Kushner meet Putin to discuss Ukraine peace plan - Axios
+- Witkoff and Kushner met Putin for five hours on Ukraine plan - Axios
 - New ICE Operation Is Said to Target Somali Migrants in Minneapolis and St. Paul - The New York Times
-- Former Honduras President Juan Orlando Hernández freed after Trump pardon - AP News
+- Tennessee voters go to the polls in House special election testing Trump’s power - PBS
+- Fact check: Trump delivers long list of false claims at Cabinet meeting - CNN
 - Suspect in DC shooting of 2 National Guard members formally charged with murder - ABC News
-- Why is US President Trump threatening Venezuela's President Maduro? - BBC
-- Small Business Administration head Kelly Loeffler orders investigation into Minnesota COVID fraud - 5 EYEWITNESS NEWS
 - Police were skeptical about tip that led to arrest of UnitedHealthcare CEO shooting suspect - The Guardian
-- Luna pushes to force a vote banning congressional stock trading - Politico
+- Venezuela approves migrant repatriation flight from U.S. - Reuters
 - Winter storm barrels into the Northeast, dropping heavy snow - CNN
+- Luna pushes to force a vote banning congressional stock trading - Politico
 - Pope prays at site of Beirut port blast at end of Lebanon visit - BBC
-- Death toll from Indonesia floods and landslides passes 700 - Reuters
+- In Photos and Video: Devastating Floods Swamp South Asia - The New York Times
 - Sri Lanka grapples with trauma, loss after deadly cyclone that killed hundreds - Reuters
-- Jury trials scrapped for crimes with sentences of less than three years - BBC
-- Michael and Susan Dell donate $6.25 billion to encourage families to claim 'Trump Accounts' - AP News
-- Stocks rebound as bitcoin bounces, tech shares gain: Live updates - CNBC
-- American Eagle stock jumps 15% as it expects a big holiday, raises forecast after Sydney Sweeney ads - CNBC
+- Trump to Expand Travel Ban to Around 30 Countries After Shooting - Bloomberg.com
+- Michael and Susan Dell Pledge $6 Billion in Investment ‘Trump Accounts’ for Children - The New York Times
+- Equities rise on Fed rate cut optimism, Boeing jumps - Reuters
+- Sam Altman issues ‘code red’ at OpenAI as ChatGPT contends with rivals - The Guardian
 - San Francisco Sues Ultraprocessed Food Companies - The New York Times
-- Metroid Prime 4: Beyond is a technical marvel and game design nightmare - NPR
 - Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price - Ars Technica
+- Metroid Prime 4: Beyond Credits Reveal A Plethora Of Assist Devs, Including Next Level Games - Nintendo Life
