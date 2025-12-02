@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 16:49_
+_Updated: 2025-12-02 17:47_
 
 ## Top Stories
 
 - DN Direkt – Strömmer om utsatta områden: ”På rätt väg” - Dagens Nyheter
-- AiP Medias chefredaktör lämnar sin post - SVT Nyheter
 - Regeringen presenterar vintermiljard till Ukraina - Regeringen.se
+- AiP Medias chefredaktör lämnar sin post - SVT Nyheter
 - Två kvinnor misshandlade med föremål - Aftonbladet
-- LVU ersätts av två nya lagar – anknytning ska väga tyngre - Socionomen
-- Trumps ultimatum: Avgå – eller riskera attack - Hufvudstadsbladet
-- Bäst i Sverige på hemtjänst - Senioren
+- Stor explosionsrisk på mack i Södertälje - Expressen
+- Uppgifter: Han tar över som tränare i MFF - Sydsvenskan
 - Yrkar på livstid för mord på ambulanssjukvårdare - Västerbottens-Kuriren
-- Hesa Fredrik uteblev på flera platser - Aftonbladet
-- Övervakad hemma – autistiska Isabelle, 23, tvingades leva med väktare mot sin vilja: ”Lagbrott” - Arbetet
-- Witkoff möter Putin i Moskva - Västerbottens-Kuriren
+- Bäst i Sverige på hemtjänst - Senioren
+- Två kvinnor attackerade i södra Stockholm - Expressen
+- Lina, 50, får sänkt ersättning: ”Befängd människosyn” - Flamman
+- Putin hotar med svar om Europa får gehör i samtal - Västerbottens-Kuriren
 - Nya regler för handbagage skjuts upp - GP
 - UNHCR Sverige - UNHCR - The UN Refugee Agency
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
 - Nya Ikea-vd:n kapar koncernledningen – flera chefer petas - DI
 - Lyxaffären klar: Prada tar över Versace - Aftonbladet
 - Gunvors vd Torbjörn Törnqvist lämnar och säljer alla sina aktier - Börsvärlden
-- Kryptomarknaden skakar – ”rädsla och uppgivenhet” - DI
+- Prisrally på bostadsmarknaden nästa år? Här är 3 hot som kan bromsa uppgången - Börskollen
 - Samsungs nya blir stor som en surfplatta när man viker ut den - Expressen
-- Galaxy S26 Ultra ryktas få snabbare trådlös laddning - Teknikveckan
+- Google knappar in – Altman utlyser ”kod röd” - Omni
 
 ## World News
 
@@ -31,9 +31,9 @@ _Updated: 2025-12-02 16:49_
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -43,9 +43,9 @@ _Updated: 2025-12-02 16:49_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- S&P Global Announces Proposed Offering of Senior Notes - Placera.se
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- S&P Global Announces Proposed Offering of Senior Notes - Placera.se
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 
 ## Technology
@@ -66,8 +66,8 @@ _Updated: 2025-12-02 16:49_
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 
@@ -86,13 +86,13 @@ _Updated: 2025-12-02 16:49_
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
-- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -124,21 +124,21 @@ _Updated: 2025-12-02 16:49_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
