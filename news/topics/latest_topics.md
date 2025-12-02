@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 17:47_
+_Updated: 2025-12-02 18:54_
 
 ## Top Stories
 
-- DN Direkt – Strömmer om utsatta områden: ”På rätt väg” - Dagens Nyheter
-- Regeringen presenterar vintermiljard till Ukraina - Regeringen.se
+- Polisen: 65 utsatta områden i Sverige – varav två i Norrköping - NT
+- Stadsanställda var på fikapaus – blev misshandlade med föremål - Aftonbladet
 - AiP Medias chefredaktör lämnar sin post - SVT Nyheter
-- Två kvinnor misshandlade med föremål - Aftonbladet
-- Stor explosionsrisk på mack i Södertälje - Expressen
-- Uppgifter: Han tar över som tränare i MFF - Sydsvenskan
-- Yrkar på livstid för mord på ambulanssjukvårdare - Västerbottens-Kuriren
+- Hajpade julkalendrar säljs vidare: ”Sålts 350 Caia-kalendrar för totalt en miljon” - Dagens Nyheter
+- Hon var EU:s ansikte i världen – gripen i razzia - SvD
+- Stark KD-kritik mot förslaget om 13-åringar i fängelse: ”Puckat” - Dagens Nyheter
+- Följ rättegången om ambulansmordet i Harmånger - SVT Nyheter
+- Larmet: Omställning till elbilar går för långsamt - Dagens Nyheter
 - Bäst i Sverige på hemtjänst - Senioren
-- Två kvinnor attackerade i södra Stockholm - Expressen
-- Lina, 50, får sänkt ersättning: ”Befängd människosyn” - Flamman
+- Stor explosionsrisk på mack i Södertälje - Expressen
 - Putin hotar med svar om Europa får gehör i samtal - Västerbottens-Kuriren
 - Nya regler för handbagage skjuts upp - GP
-- UNHCR Sverige - UNHCR - The UN Refugee Agency
-- Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
+- Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
+- Høibys rättegångskostnader betalda – av mormor - GP
 - Nya Ikea-vd:n kapar koncernledningen – flera chefer petas - DI
-- Lyxaffären klar: Prada tar över Versace - Aftonbladet
+- Lyxaffären klar – Versace åter i italiensk ägo - habit.se
 - Gunvors vd Torbjörn Törnqvist lämnar och säljer alla sina aktier - Börsvärlden
-- Prisrally på bostadsmarknaden nästa år? Här är 3 hot som kan bromsa uppgången - Börskollen
-- Samsungs nya blir stor som en surfplatta när man viker ut den - Expressen
-- Google knappar in – Altman utlyser ”kod röd” - Omni
+- Avatar ska lära chefer sparka anställda - Dagens PS
+- Här är Samsungs dubbelvikta debut – tar upp kampen med Huawei - NyTeknik
+- ”Kod röd” på Open AI – pressas av konkurrensen - DI
 
 ## World News
 
@@ -86,13 +86,13 @@ _Updated: 2025-12-02 17:47_
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
