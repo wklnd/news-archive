@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 08:55_
+_Updated: 2025-12-02 09:43_
 
 ## Top Stories
 
-- DN Direkt – En död efter olycka utanför Bollnäs - Dagens Nyheter
-- SVT: Inga belägg för Lundells uppgifter om mammans övergrepp - Corren
 - Regeringen presenterar vintermiljard till Ukraina - Regeringen.se
+- DN Direkt – En död efter olycka utanför Bollnäs - Dagens Nyheter
+- Husbåt har sjunkit i Stockholm – två personer ombord - SVT Nyheter
+- Våldsam brand i Vallberga – Radhuslänga i lågor - laholmstidning.se
 - Ministern i tårar: Nu blir det lex Lilla Hjärtat på riktigt - Altinget.SE
-- 24-årige Lowe dog av hjärtstopp: ”Det var som att någon släckte ljuset” - Dagens Nyheter
-- Brand i radhus i Laholm - SVT Nyheter
+- Nu gäller nytt regelverk för bygglov - Hem - Värnamo
 - Feta stillasittande nordbor: ”Ser dåligt ut” - GP
+- 24-årige Lowe dog av hjärtstopp: ”Det var som att någon släckte ljuset” - Dagens Nyheter
 - Kollegan bevittnade attacken: ”Han säger inget” - Västerbottens-Kuriren
 - Gabriel Zetterström: Så får ett dåligt sällskap heila vidare – så länge allt går ”lugnt till” - Dagens Nyheter
-- 02 december 07.23, Sammanfattning natt, Jönköpings län - polisen.se
-- Witkoff möter Putin i Moskva - GP
+- Vita huset försvarar dubbelattacken på Karibiska havet - GP
+- Witkoff möter Putin i Moskva - Västerbottens-Kuriren
 - Kanada går med i europeisk försvarsfond - SVT Nyheter
-- Direkt – Kriget i Ukraina – Putin fick rapporter om erövring av Pokrovsk och Vovtjansk - Dagens Nyheter
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- Guru: Stockholmsbörsen ska upp 10-15 procent - Dagens PS
+- SBAB: Det låga antalet bostadsförsäljningar oroar - DI
+- Netflix ger sig in i budstrid om HBO Max-ägaren – affären klar inom kort - Sydsvenskan
+- Sparande Humble kan sälja – eller köpa: “Drar inte i handbromsen” - Breakit
 - Sameby bryter samarbete med LKAB – säger nej till jordartsmetaller - Dagens Nyheter
-- Statlig app ska installeras på alla mobiltelefoner i Indien - Computer Sweden
-- Nvidia investerar i Synopsys, som rusar på börsen - Börsvärlden
+- Google knappar in – Altman utlyser ”kod röd” - Omni
 - Första generationens Iphone SE är nu officiellt föråldrad - Macworld.se
-- Open AI har börjat testa reklam i Chat GPT - Omni
 
 ## World News
 
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - S&P Global Announces Proposed Offering of Senior Notes - Placera.se
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- Lucid CFO to Speak at UBS Global Industrials and Transportation Conference - Placera.se
 - PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
 - Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
 
@@ -87,12 +87,12 @@ _Updated: 2025-12-02 08:55_
 - Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-02 08:55_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -154,11 +154,11 @@ _Updated: 2025-12-02 08:55_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Tuff utmaning för europeiskt lantbruk - Lantbruksnytt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
