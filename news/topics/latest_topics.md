@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 18:54_
+_Updated: 2025-12-02 19:47_
 
 ## Top Stories
 
-- Polisen: 65 utsatta områden i Sverige – varav två i Norrköping - NT
-- Stadsanställda var på fikapaus – blev misshandlade med föremål - Aftonbladet
-- AiP Medias chefredaktör lämnar sin post - SVT Nyheter
-- Hajpade julkalendrar säljs vidare: ”Sålts 350 Caia-kalendrar för totalt en miljon” - Dagens Nyheter
-- Hon var EU:s ansikte i världen – gripen i razzia - SvD
+- Putin: ”Om Europa önskar kriga är vi redo” - Dagens Nyheter
+- Förskolepersonal trivs med sitt arbete men många upplever stress, visar internationell undersökning - Regeringen.se
+- Svensk gripen i Kosovo efter fem år på flykt - SVT Nyheter
+- Var EU:s ansikte utåt – gripen i razzia - SvD
 - Stark KD-kritik mot förslaget om 13-åringar i fängelse: ”Puckat” - Dagens Nyheter
-- Följ rättegången om ambulansmordet i Harmånger - SVT Nyheter
-- Larmet: Omställning till elbilar går för långsamt - Dagens Nyheter
-- Bäst i Sverige på hemtjänst - Senioren
-- Stor explosionsrisk på mack i Södertälje - Expressen
-- Putin hotar med svar om Europa får gehör i samtal - Västerbottens-Kuriren
-- Nya regler för handbagage skjuts upp - GP
+- Polisen: 65 utsatta områden i Sverige – varav två i Norrköping - NT
+- DN Direkt – Förslag: Polis ska få rekommendera utvisning – utan att brott begåtts - Dagens Nyheter
+- Ny prognos: Elektrifieringen går långsammare än beräknat - SVT Nyheter
+- Explosionsrisk avvärjd vid bensinmack i Södertälje - SVT Nyheter
+- Kräver livstid för ambulansdåd: ”Svårt lidande” - GP
 - Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
 - Høibys rättegångskostnader betalda – av mormor - GP
+- UNHCR Sverige - UNHCR - The UN Refugee Agency
+- Nya regler för handbagage skjuts upp - GP
+- Lyxaffären klar: Prada tar över Versace - Aftonbladet
 - Nya Ikea-vd:n kapar koncernledningen – flera chefer petas - DI
-- Lyxaffären klar – Versace åter i italiensk ägo - habit.se
-- Gunvors vd Torbjörn Törnqvist lämnar och säljer alla sina aktier - Börsvärlden
-- Avatar ska lära chefer sparka anställda - Dagens PS
+- Miljardhöst för Saab – blir alltmer utländskt - SvD
+- Netflix ger sig in i budstrid om HBO Max-ägaren - Västerbottens-Kuriren
+- Apple rekryterar AI-expert som byggde Googles Gemini - DI
 - Här är Samsungs dubbelvikta debut – tar upp kampen med Huawei - NyTeknik
-- ”Kod röd” på Open AI – pressas av konkurrensen - DI
 
 ## World News
 
 - Philip Morris International Presents at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- S&P Global Announces Proposed Offering of Senior Notes - Placera.se
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
+- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2025-12-02 18:54_
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -77,21 +77,21 @@ _Updated: 2025-12-02 18:54_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
@@ -120,25 +120,25 @@ _Updated: 2025-12-02 18:54_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
