@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 20:55_
+_Updated: 2025-12-02 21:40_
 
 ## Top Stories
 
 - Direkt – Kriget i Ukraina – Putin: Om Europa önskar att kriga är vi redo - Dagens Nyheter
 - Politikerna är eniga: Millennium ska skrotas - GP
-- Svensk gripen i Kosovo efter fem år på flykt - SVT Nyheter
-- Förskolepersonal trivs med sitt arbete men många upplever stress, visar internationell undersökning - Regeringen.se
-- Förslaget: Polis ska kunna rekommendera utvisning - Omni
-- Stark KD-kritik mot förslaget om 13-åringar i fängelse: ”Puckat” - Dagens Nyheter
+- USA släpper Honduras expresident ur fängelse - GP
+- Bombdåd riktades mot IFK-spelares bostad i Lorensberg - GP
+- Här är alla skånska kommuner som vill ha möte om återvandring - HD
+- Så stöttar nunnorna Rysslands anfallskrig i Ukraina - SvD
 - Polisen presenterar ny lägesbild över utsatta områden - polisen.se
-- Explosionsrisk avvärjd vid bensinmack i Södertälje - SVT Nyheter
-- Saknade legitimation och stal narkotikapreparat – chef på BB åtalas - Dagens Nyheter
+- Hennes uppdrag: Att få invandrare att lämna Sverige - Sydsvenskan
 - Riksrevisionen om Sida: Onödigt omständligt - Västerbottens-Kuriren
+- Nya regler i plan- och bygglagen från 1 december - Värnamo kommun
 - Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
 - Høibys rättegångskostnader betalda – av mormor - GP
-- Nya regler för handbagage skjuts upp - GP
+- Turkiet: Fartyg angripet i Svarta havet - Västerbottens-Kuriren
 - EU:s tidigare utrikeschef gripen i polistillslag - SVT Nyheter
-- Ny Ikea-boss petar hållbarhetschef från ledningen - Aktuell Hållbarhet
-- Lyxaffären klar: Prada tar över Versace - Aftonbladet
+- Ny vd rensar i Ikeas toppskikt - Aftonbladet
 - Affärsvärlden ger ett neutralt råd för Synthetic MR - Börsvärlden
 - Miljardhöst för Saab – blir alltmer utländskt - SvD
+- Lyxaffären klar – Versace åter i italiensk ägo - habit.se
 - Apple rekryterar AI-expert som byggde Googles Gemini - DI
 - Här är Samsungs dubbelvikta debut – tar upp kampen med Huawei - NyTeknik
 
@@ -30,23 +30,23 @@ _Updated: 2025-12-02 20:55_
 - Philip Morris International Presents at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- S&P Global Announces Proposed Offering of Senior Notes - Placera.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2025-12-02 20:55_
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2025-12-02 20:55_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -126,17 +126,17 @@ _Updated: 2025-12-02 20:55_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
@@ -149,16 +149,16 @@ _Updated: 2025-12-02 20:55_
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
