@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 23:39_
+_Updated: 2025-12-03 00:41_
 
 ## Top Stories
 
-- Spelarbetyg: Sverige–Frankrike i Nations League - Aftonbladet
-- Putin: ”Om Europa önskar kriga är vi redo” - Dagens Nyheter
-- Person påkörd av spårvagn i Göteborg – förd till sjukhus - SVT Nyheter
-- Politikerna är eniga: Millennium ska skrotas - GP
-- Så stöttar nunnorna Rysslands anfallskrig i Ukraina - SvD
+- Direkt – Kriget i Ukraina – Mötet har avslutats - Dagens Nyheter
 - Israel stäms för journalist-stopp i Gaza - Dagens Nyheter
-- Polisen presenterar ny lägesbild över utsatta områden - polisen.se
-- Hennes uppdrag: Att få invandrare att lämna Sverige - Sydsvenskan
-- DN Direkt – Förslag: Polis ska få rekommendera utvisning – utan att brott begåtts - Dagens Nyheter
-- Riksrevisionen om Sida: Onödigt omständligt - Västerbottens-Kuriren
-- Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
+- Så stöttar nunnorna Rysslands anfallskrig i Ukraina - SvD
+- Boende förvånade över att deras kvarter klassas som utsatt - Dagens Nyheter
+- VGR:s regionstyrelse vill skrota Millennium som helhetslösning - Läkartidningen
+- Förslaget: Polis ska kunna rekommendera utvisning - Omni
+- Nya regler i plan- och bygglagen från 1 december - Värnamo kommun
+- DEBATT: S-trams i vägen för bra lösningar om återvandringen - Norran
+- Här är 25 av de roligaste Musikhjälpen-auktionerna just nu - Cafe.se
+- Planen efter hotet från Trump: Ett masskaos - Expressen
+- Fler ryska attacker mot Ukraina i november - Västerbottens-Kuriren
 - Turkiet: Fartyg angripet i Svarta havet - GP
-- Høibys rättegångskostnader betalda – av mormor - Västerbottens-Kuriren
-- UNHCR Sverige - UNHCR - The UN Refugee Agency
+- Man förd till sjukhus – misshandlades med tillhygge - TV4 Nyheterna
+- Hela Beirut gläder sig över Leo XIV - Signum – Katolsk orientering om kyrka, kultur och samhälle
 - Hajpade julkalendrar säljs vidare: ”Sålts 350 Caia-kalendrar för totalt en miljon” - Dagens Nyheter
 - Slöseri fick Buffett att sluta ge pengar i julklapp - Dagens PS
-- Affärsvärlden ger ett neutralt råd för Synthetic MR - Börsvärlden
 - EU:s nya satsning: "Framtiden är elektrisk" - Dagens PS
+- Sommarjobb fysioterpiassistent/arbetsterapiassistent - Region Kalmar Län
 - Apple rekryterar AI-expert som byggde Googles Gemini - DI
 - Här är Samsungs dubbelvikta debut – tar upp kampen med Huawei - NyTeknik
 
 ## World News
 
+- Kroll Elevates Global MDR Services, Migrating Protection to CrowdStrike Falcon Complete Next-Gen MDR - Placera.se
 - Philip Morris International Presents at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
-- PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
@@ -73,26 +73,26 @@ _Updated: 2025-12-02 23:39_
 
 ## Business
 
+- Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -100,65 +100,65 @@ _Updated: 2025-12-02 23:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - dagensmedicin.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
-- AFTD Grantee Leads Basic Science Study Exploring Role of Protein in Tau-Based Disorders like CBD - AFTD - The Association for Frontotemporal Degeneration
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Simple math behind major bison blunder - Forskning & Framsteg
-- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
