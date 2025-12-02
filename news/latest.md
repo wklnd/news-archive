@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-02 21:48_
+_Updated: 2025-12-02 22:52_
 
 - 3 key questions about the US boat strikes that killed survivors - ABC News
-- National Guard member in D.C. shooting shows 'positive sign,' West Virginia governor says - NPR
-- Trump frees ex-Honduran president from prison as country awaits knife-edge election result - The Guardian
-- Putin warns Europe: if you want war, then Russia will defeat you - Reuters
-- Live Results: Tennessee 7th Congressional District special election - PBS
-- Stefanik accuses Johnson of lying, ‘blocking’ her defense bill provision - Politico
-- Upstate NY gets its first widespread snowstorm of the season - Syracuse.com
-- Pope Leo urges US not to attempt military ouster of Venezuela's Maduro - Reuters
 - Witkoff and Kushner meet Putin to discuss Ukraine peace plan - Axios
-- Judge Warned Minnesota About Halting Payments to Welfare Fraud Scheme Org - Newsweek
+- New ICE Operation Is Said to Target Somali Migrants in Minneapolis and St. Paul - The New York Times
+- Live Results: Tennessee 7th Congressional District special election - PBS
+- Former president of Honduras, convicted of trafficking, freed after Trump pardon - The Washington Post
+- Elise Stefanik accuses Mike Johnson of "getting rolled" by Democrats and lying about defense bill provision - CBS News
+- National Guard shooting suspect charged with murder, assault offenses - The Washington Post
+- Police were skeptical about tip that led to arrest of UnitedHealthcare CEO shooting suspect - The Guardian
+- US Homeland Security secretary calls for sweeping travel bans - BBC
+- Winter storm barrels into the Northeast, dropping heavy snow - CNN
 - Pope prays at Beirut port blast site on last day of Lebanon visit - BBC
-- In Photos and Video: Devastating Floods Swamp South Asia - The New York Times
+- Death toll from Indonesia floods and landslides passes 700 - Reuters
 - Sri Lanka grapples with trauma, loss after deadly cyclone that killed hundreds - Reuters
-- Tip of an iceberg: Hong Kong’s deadly blaze raises anger over corruption and safety lapses - AP News
+- Putin Warns Russia May Hit Ukraine Allies’ Ships If Attacks Last - Bloomberg.com
 - Dell CEO pledges $6 billion to ‘Trump accounts’ for American children - The Washington Post
-- Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds — Live Updates - The Wall Street Journal
-- Boeing stock jumps 8% as CFO says company expects higher 737, 787 deliveries next year - CNBC
-- Cohen as Casino Boss Is Latest Pivot for Hedge Fund Mogul - Yahoo Finance
-- Metroid Prime 4: Beyond is a technical marvel and game design nightmare - NPR
+- Stocks rebound as bitcoin bounces, tech shares gain: Live updates - CNBC
+- San Francisco to sue food giants over ultra-processed products - The Guardian
+- Broadcast station owners want to consolidate. They're struggling to get deals to the finish line - CNBC
+- Metroid Prime 4: Beyond Credits Reveal A Plethora Of Assist Devs, Including Next Level Games - Nintendo Life
 - Samsung’s Galaxy Z TriFold is a 10-inch tablet that fits in your pocket - Ars Technica
