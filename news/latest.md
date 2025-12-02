@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-02 01:48_
+_Updated: 2025-12-02 04:25_
 
 - White House says admiral approved second deadly boat strike - Politico
-- Trump to hold Venezuela Oval Office meeting amid growing questions about his military moves - CNN
 - National guard shooting suspect spent ‘weeks on end’ in isolation, emails show - The Guardian
-- Luigi Mangione in court as lawyers seek to rule out notebook, gun and other key evidence - BBC
-- Johnson and Trump Try to Avoid an Upset House Loss in Tennessee - The New York Times
-- Former Trump lawyer Alina Habba is disqualified as top New Jersey prosecutor, US appeals court rules - AP News
-- Yes, “There’s Something Wrong with Walz” — and it Cost Taxpayers $1 Billion - The White House (.gov)
-- Jeffries says Johnson ‘tanked’ Trump’s health care proposal - Politico
-- Thune casts doubt on passing government funding bills before Christmas - Politico
-- After East Wing demolition, White House tours are back just in time for the holidays - NPR
-- Hong Kong arrests 13 on suspicion of manslaughter over apartment fires - The Guardian
+- Donald Trump's MRI test results released by White House doctor - BBC
+- Luigi Mangione returns to court in NYC for pretrial hearings on evidence in UnitedHealthcare CEO's killing - CBS News
 - Zelensky says Ukraine territory 'most difficult' issue, as US envoy prepares to meet Putin - BBC
-- Southeast Asia floods and landslides kill more than 1,000 as climate change turbocharges monsoon season - CBS News
+- Inside the Stockton banquet hall where kids were slaughtered, parents return to a scene of horror - Los Angeles Times
+- Trump holds Venezuela Oval Office meeting amid growing questions about his military moves - CNN
+- After US-Ukraine meeting in Florida, focus shifts to Putin - ABC News
+- Alina Habba: Appeals court disqualifies ex-Trump lawyer as New Jersey prosecutor - BBC
+- Treasury investigating whether Minnesota welfare money went to Somali terror group al Shabaab, Bessent says - CBS News
 - Jamaica Secures a Package of US$6.7 Billion Over Three Years in International Support for Recovery and Reconstruction After Hurricane Melissa - International Monetary Fund
-- Bitcoin Plunges to Below $86,000 in Risk-Off Start to December - Bloomberg.com
-- Dow Jones Today: Stock Indexes Close Lower to Begin December Trading; Big Tech, Crypto-Tied Shares Drop Amid Risk-Off Sentiment - Investopedia
-- Treasury Yields Rise as Markets See Hassett as Likely Fed Appointee - The Wall Street Journal
-- New York Casino Next To Citi Field Approved After Years Of Wrangling; Mets Owner Steve Cohen To Run It - Deadline
-- Netflix Won't Let You Cast Shows From Your Phone to Most TVs Anymore - WIRED
-- After 40 years of adventure games, Ron Gilbert pivots to outrunning Death - Ars Technica
+- Pope Leo visits a wounded Lebanon in his first trip to the Middle East - NPR
+- Hong Kong arrests 13 on suspicion of manslaughter over apartment fires - The Guardian
+- More than 500 dead across Southeast Asia after record rainfall, floods - The Washington Post
+- Bitcoin falls again after weak November as bearish sentiment goes on - Reuters
+- Starbucks to Pay $39 Million in Landmark N.Y.C. Labor Law Settlement - The New York Times
+- Stock Market Today: Dow, Nasdaq Decline; Bitcoin Trades Below $87,000 — Live Updates - The Wall Street Journal
+- Cyber Monday deals on tech for 2025: The best sales from Apple, Amazon, Lego, Dyson, Disney+ and others are up to 50 percent off - Engadget
+- Apple Artificial Intelligence Head to Leave After AI Struggles - Bloomberg.com
+- Samsung’s Z TriFold is official and it looks like a tablet with a phone attached - The Verge
