@@ -1,6 +1,6 @@
 # Top News Headlines
 
-_Updated: 2025-12-02 08:58_
+_Updated: 2025-12-02 09:49_
 
 - Hegseth, with White House help, tries to distance himself from boat strike fallout - The Washington Post
 - National guard shooting suspect spent ‘weeks on end’ in isolation, emails show - The Guardian
@@ -8,17 +8,17 @@ _Updated: 2025-12-02 08:58_
 - After Trump’s M.R.I. Claim, His Doctor’s Memo Offers Little Clarity - The New York Times
 - How a deep red Tennessee House district turned into a political battleground - ABC News
 - Noem reveals sweeping travel ban plan after meeting with Trump - Axios
+- DOJ deciding whether to seek new Comey, James indictments - Politico
 - Trump’s impact is debated in Honduras, where conservatives lead the presidential vote tallies - Politico
-- Justice Department could present a new indictment against James Comey to a grand jury this week - CNN
 - Alina Habba: Appeals court disqualifies ex-Trump lawyer as New Jersey prosecutor - BBC
-- Treasury investigating whether Minnesota welfare money went to Somali terror group al Shabaab, Bessent says - CBS News
-- Unsafe netting used at Hong Kong fire site, officials say, as toll rises to 151 - The Washington Post
-- OBR head's resignation leaves potential landmines for Reeves - BBC
-- Jamaica Secures a Package of US$6.7 Billion Over Three Years in International Support for Recovery and Reconstruction After Hurricane Melissa - International Monetary Fund
-- Vladimir Putin’s visit ties India in knots - Financial Times
-- US Stocks Slip as Crypto Rout Deepens, BOJ Hints at Policy Shift - Bloomberg.com
+- N.J. school closings, delayed openings due to snow, ice for Tuesday (Dec. 2, 2025) - NJ.com
+- Hong Kong orders judge-led probe into fire that killed 151 - Reuters
+- Newspaper headlines: 'OBR chief resigns' and 'Reeves clings on' - BBC
+- Pope Leo visits a wounded Lebanon in his first trip to the Middle East - NPR
+- Putin says Russia has taken control of 2 Ukrainian cities. Ukraine denies claims - ABC News
 - Last call on Cyber Monday 2025: Live updates from Amazon, Apple, Best Buy, Walmart, and more - Mashable
-- UK snack brand Graze to be sold to Jamie Laing's Candy Kittens - BBC
 - Starbucks to pay $35M to NYC workers in settlement as ongoing strike draws pols to picket line - AP News
-- Samsung Debuts Its First Trifold Months Ahead of Folding iPhone - Bloomberg.com
+- Exclusive: Apple to resist India order to preload state-run app as political outcry builds - Reuters
+- US Stocks Slip as Crypto Rout Deepens, BOJ Hints at Policy Shift - Bloomberg.com
 - Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down - TechCrunch
+- Samsung Debuts Its First Trifold Months Ahead of Folding iPhone - Bloomberg.com
