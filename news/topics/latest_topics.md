@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 21:40_
+_Updated: 2025-12-02 22:45_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Putin: Om Europa önskar att kriga är vi redo - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Mötet i Kreml har börjat - Dagens Nyheter
 - Politikerna är eniga: Millennium ska skrotas - GP
-- USA släpper Honduras expresident ur fängelse - GP
-- Bombdåd riktades mot IFK-spelares bostad i Lorensberg - GP
-- Här är alla skånska kommuner som vill ha möte om återvandring - HD
+- Person påkörd av spårvagn i Johanneberg – förd till sjukhus - SVT Nyheter
 - Så stöttar nunnorna Rysslands anfallskrig i Ukraina - SvD
-- Polisen presenterar ny lägesbild över utsatta områden - polisen.se
+- Förslaget: Polis ska kunna rekommendera utvisning - Omni
+- DN Direkt – Strömmer om utsatta områden: ”På rätt väg” - Dagens Nyheter
 - Hennes uppdrag: Att få invandrare att lämna Sverige - Sydsvenskan
-- Riksrevisionen om Sida: Onödigt omständligt - Västerbottens-Kuriren
-- Nya regler i plan- och bygglagen från 1 december - Värnamo kommun
+- Riksrevisionen om Sida: Onödigt omständligt - GP
+- Stor explosionsrisk på mack i Södertälje - Expressen
+- DEBATT: S-trams i vägen för bra lösningar om återvandringen - Norran
+- Israel stäms för journalist-stopp i Gaza - Västerbottens-Kuriren
 - Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
 - Høibys rättegångskostnader betalda – av mormor - GP
-- Turkiet: Fartyg angripet i Svarta havet - Västerbottens-Kuriren
-- EU:s tidigare utrikeschef gripen i polistillslag - SVT Nyheter
-- Ny vd rensar i Ikeas toppskikt - Aftonbladet
+- Turkiet: Fartyg angripet i Svarta havet - GP
 - Affärsvärlden ger ett neutralt råd för Synthetic MR - Börsvärlden
 - Miljardhöst för Saab – blir alltmer utländskt - SvD
-- Lyxaffären klar – Versace åter i italiensk ägo - habit.se
+- Ny vd rensar i Ikeas toppskikt - Sydsvenskan
+- Förbättrat resultat för regionägda företagen - Statistikmyndigheten SCB
 - Apple rekryterar AI-expert som byggde Googles Gemini - DI
 - Här är Samsungs dubbelvikta debut – tar upp kampen med Huawei - NyTeknik
 
@@ -53,27 +53,26 @@ _Updated: 2025-12-02 21:40_
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- The 2025 A.I. Awards Winners Selected (PR Newswire) - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 
 ## Business
 
-- Jonas Persson proposed as new CEO of subsidiary - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
@@ -84,15 +83,16 @@ _Updated: 2025-12-02 21:40_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Scotiabank and Davivienda close previously announced transaction to transfer Scotiabank's banking operations in Colombia, Costa Rica and Panama - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -107,12 +107,12 @@ _Updated: 2025-12-02 21:40_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -135,7 +135,7 @@ _Updated: 2025-12-02 21:40_
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
