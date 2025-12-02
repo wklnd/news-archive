@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 15:54_
+_Updated: 2025-12-02 16:49_
 
 ## Top Stories
 
@@ -9,19 +9,19 @@ _Updated: 2025-12-02 15:54_
 - Regeringen presenterar vintermiljard till Ukraina - Regeringen.se
 - Två kvinnor misshandlade med föremål - Aftonbladet
 - LVU ersätts av två nya lagar – anknytning ska väga tyngre - Socionomen
-- Största avancemanget på ett år för Ryssland - Expressen
+- Trumps ultimatum: Avgå – eller riskera attack - Hufvudstadsbladet
 - Bäst i Sverige på hemtjänst - Senioren
 - Yrkar på livstid för mord på ambulanssjukvårdare - Västerbottens-Kuriren
 - Hesa Fredrik uteblev på flera platser - Aftonbladet
 - Övervakad hemma – autistiska Isabelle, 23, tvingades leva med väktare mot sin vilja: ”Lagbrott” - Arbetet
-- Nya regler för handbagage skjuts upp - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Witkoff till Moskva för att möta Putin på tisdag - Dagens Nyheter
+- Witkoff möter Putin i Moskva - Västerbottens-Kuriren
+- Nya regler för handbagage skjuts upp - GP
 - UNHCR Sverige - UNHCR - The UN Refugee Agency
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
 - Nya Ikea-vd:n kapar koncernledningen – flera chefer petas - DI
 - Lyxaffären klar: Prada tar över Versace - Aftonbladet
-- Kryptomarknaden skakar – ”rädsla och uppgivenhet” - DI
 - Gunvors vd Torbjörn Törnqvist lämnar och säljer alla sina aktier - Börsvärlden
+- Kryptomarknaden skakar – ”rädsla och uppgivenhet” - DI
 - Samsungs nya blir stor som en surfplatta när man viker ut den - Expressen
 - Galaxy S26 Ultra ryktas få snabbare trådlös laddning - Teknikveckan
 
@@ -99,16 +99,14 @@ _Updated: 2025-12-02 15:54_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -116,6 +114,8 @@ _Updated: 2025-12-02 15:54_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-12-02 15:54_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
