@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-02 17:54_
+_Updated: 2025-12-02 18:59_
 
-- US admiral to brief lawmakers as bipartisan scrutiny grows over boat strike - The Guardian
-- Democrats and Republicans are pouring money into a special election in Tennessee. Here's why - NPR
-- US envoy Witkoff and Kushner arrive in Moscow to meet Putin on ending war in Ukraine - Reuters
-- Trump planned to meet with Rubio, Hegseth, top aides on Venezuela, sources say - CBS News
-- Honduran ex-president Juan Orlando Hernández released from US prison after Trump pardon - BBC
+- Trump administration is ‘selling out’ admiral to shield Hegseth over boat strikes, officials say - The Guardian
+- House Republicans sweat Tennessee election, despite Hudson’s assurances - Politico
+- Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon - The New York Times
+- U.S. delegation to meet Putin in latest bid to end Ukraine war - The Washington Post
 - National Guard member in DC shooting shows 'positive sign' West Virginia governor says - NPR
-- Upstate NY gets its first widespread snowstorm of the season - Syracuse.com
+- Hegseth's use of Franklin the Turtle in meme on boat strikes condemned by book series publisher - CBS News
+- More than 50 million on alert for snow and ice from Kentucky to Maine - ABC News
+- Trump rejected Maduro requests on call, options narrow for Venezuela leader, sources say - Reuters
 - Melania Trump was once the one making controversial White House design choices. Now, it's Donald Trump. - Business Insider
 - Capitol agenda: The health care talks to watch - Politico
-- Tip of an iceberg: Hong Kong’s deadly blaze raises anger over corruption and safety lapses - AP News
 - Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast - The New York Times
-- UK budget watchdog head quits over early release of Reeves' budget - Reuters
-- Bulgaria ditches budget plan after tens of thousands join protests - BBC
-- Michael and Susan Dell to donate $6.25 billion to fund 'Trump accounts' for 25 million U.S. kids - CNBC
-- 129+ best extended Cyber Monday deals you can (still!) shop on Tuesday - New York Post
+- In Photos and Video: Devastating Floods Swamp South Asia - The New York Times
+- Ukraine targets Russia’s shadow fleet - Financial Times
+- Death toll from Indonesia floods and landslides passes 700 - Reuters
+- Michael and Susan Dell to fund "Trump accounts" by giving $250 apiece to 25 million U.S. kids - CBS News
+- Boeing stock jumps 7% as CFO says company expects higher 737, 787 deliveries next year - CNBC
 - Prada finalizes purchase of fashion rival Versace for $1.4 billion, launching new era - AP News
-- Shein and Temu face calls for investigation over claims of stealing US designs - BBC
+- Amazon Cyber Monday deals still available to shop: The best final sales from Apple, Dyson, PlayStation and more are up to 70% off - yahoo.com
 - Samsung Debuts Its First Trifold Months Ahead of Folding iPhone - Bloomberg.com
-- Here are 25 great laptop deals you can still grab before Cyber Monday ends - The Verge
-- Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down - TechCrunch
+- Metroid Prime 4: Beyond Credits Reveal A Plethora Of Assist Devs, Including Next Level Games - Nintendo Life
