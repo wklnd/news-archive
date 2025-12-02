@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-02 09:43_
+_Updated: 2025-12-02 10:53_
 
 ## Top Stories
 
-- Regeringen presenterar vintermiljard till Ukraina - Regeringen.se
+- Polisen presenterar ny lägesbild över utsatta områden - polisen.se
+- SVT: Inga belägg för Lundells uppgifter om mammans övergrepp - Corren
 - DN Direkt – En död efter olycka utanför Bollnäs - Dagens Nyheter
-- Husbåt har sjunkit i Stockholm – två personer ombord - SVT Nyheter
-- Våldsam brand i Vallberga – Radhuslänga i lågor - laholmstidning.se
 - Ministern i tårar: Nu blir det lex Lilla Hjärtat på riktigt - Altinget.SE
-- Nu gäller nytt regelverk för bygglov - Hem - Värnamo
+- Husbåt har sjunkit i Stockholm – två personer ombord - SVT Nyheter
+- Nu gäller nytt regelverk för bygglov - Skillingaryd
 - Feta stillasittande nordbor: ”Ser dåligt ut” - GP
-- 24-årige Lowe dog av hjärtstopp: ”Det var som att någon släckte ljuset” - Dagens Nyheter
-- Kollegan bevittnade attacken: ”Han säger inget” - Västerbottens-Kuriren
-- Gabriel Zetterström: Så får ett dåligt sällskap heila vidare – så länge allt går ”lugnt till” - Dagens Nyheter
-- Vita huset försvarar dubbelattacken på Karibiska havet - GP
+- 02 december 07.23, Sammanfattning natt, Jönköpings län - polisen.se
+- Fullt utvecklad radhusbrand i Laholm - GP
+- Regeringen presenterar vintermiljard till Ukraina - Regeringen.se
 - Witkoff möter Putin i Moskva - Västerbottens-Kuriren
 - Kanada går med i europeisk försvarsfond - SVT Nyheter
 - Påve Leo: Turkiet har en viktig roll för freden i Mellanöstern och Ukraina - Vatican News
-- SBAB: Det låga antalet bostadsförsäljningar oroar - DI
+- Vita huset försvarar dubbelattacken på Karibiska havet - GP
+- DN Direkt – Zara-kläder till salu i Ryssland igen - Dagens Nyheter
 - Netflix ger sig in i budstrid om HBO Max-ägaren – affären klar inom kort - Sydsvenskan
+- Sameby bryter med LKAB – säger nej till Per Geijer-gruvan - NyTeknik
 - Sparande Humble kan sälja – eller köpa: “Drar inte i handbromsen” - Breakit
-- Sameby bryter samarbete med LKAB – säger nej till jordartsmetaller - Dagens Nyheter
 - Google knappar in – Altman utlyser ”kod röd” - Omni
-- Första generationens Iphone SE är nu officiellt föråldrad - Macworld.se
+- Samsungs dubbelvikta Galaxy Z Trifold officiellt lanserad med 10 tumsskärm - mobil.se
 
 ## World News
 
+- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- S&P Global Announces Proposed Offering of Senior Notes - Placera.se
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- S&P Global Announces Proposed Offering of Senior Notes - Placera.se
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -73,39 +73,41 @@ _Updated: 2025-12-02 09:43_
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
-- PVH Corp. Announces CFO Transition - Placera.se
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Jonas Persson proposed as new CEO of subsidiary - Placera.se
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Scotiabank and Davivienda close previously announced transaction to transfer Scotiabank's banking operations in Colombia, Costa Rica and Panama - Placera.se
+- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Debatt: "Gör om ISK för att tillåta bredare investeringar" - Placera.se
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -114,8 +116,6 @@ _Updated: 2025-12-02 09:43_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
-- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
@@ -143,11 +143,9 @@ _Updated: 2025-12-02 09:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -159,6 +157,8 @@ _Updated: 2025-12-02 09:43_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Jordbruket förtjänar mer än KDs skenhelighet - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
