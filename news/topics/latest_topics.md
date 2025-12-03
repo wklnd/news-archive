@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 13:41_
+_Updated: 2025-12-03 15:11_
 
 ## Top Stories
 
-- Aggressiv fågelinfluensa sprids - Västerbottens-Kuriren
-- 03 december 07.22, Sammanfattning natt, Västernorrlands län - Polisen.se
-- V-topp lämnar helt – åtalad för misshandel - Expressen
-- DN Direkt – Skickar flera miljoner – till spöktjänster i Somalia - Dagens Nyheter
-- Tågstopp i Ramlösa efter vattenläcka - GP
+- Man gripen på Kap Verde – misstänks för grovt brott i Sverige - SVT Nyheter
+- Dubbla förslag om miljardlån till Ukraina - Dagens Nyheter
+- 03 december 12.31, Övrigt, Malmö - Polisen.se
+- Åtal har i dag väckts för mord den 2 maj 2025 i Änggården, Göteborg - Åklagarmyndigheten
+- Tågstopp i Ramlösa efter vattenläcka - Expressen
 - Putins trumfkort går upp i rök – “stor seger för Europa” - Marcus Oscarsson
-- Billström får jobb inom försvarsindustrin - SVT Nyheter
-- Skärpt straff för bomben i Fullerö - UNT
+- Aggressiv fågelinfluensa sprids - Västerbottens-Kuriren
+- Polisen presenterar ny lägesbild över utsatta områden - Polisen.se
 - Här tjänar förskollärarna mest – ny lönestatistik 2025 - Vi Lärare
-- 03 december 12.06, Trafikkontroll, Västerbottens län - Polisen.se
-- Överenskommelse om rödgrön statsbudget i Norge - SVT Nyheter
-- Israel lovar öppna gräns – Gazabor ska få lämna - Västerbottens-Kuriren
+- DN Direkt – Skickar flera miljoner – till spöktjänster i Somalia - Dagens Nyheter
 - Michael Winiarski: Trump ger Putin mer tid för erövringskriget - Dagens Nyheter
+- Norsk seriemördare död – tog livet av patienter - GP
+- Donald Trumps attack mot somalier: ”Sopor” - Västerbottens-Kuriren
 - Här nickar Trump till under mötet - Dagens Nyheter
+- Mats Qvibergs varning: ”Stor risk för krasch” - EFN
+- Nytt prisrekord för koppar - DI
+- C: ”Stoppa höjningarna av elnätsavgifterna” - Aftonbladet
 - Choklad och kaffe gör matkassen till jul dyrare - Dagens Nyheter
-- Mats Qvibergs börsvarning: ”Stor risk för en krasch” - DI
-- KO tar DNB till ARN för återbetalning till omkring 50 000 kunder - Börsvärlden
-- Vattenfall Eldistribution: Presseminarium om elnätsavgifter den 3 december 2025 - group.vattenfall.com
+- Förändringar i regelverk för rapportering av vårdkontakter - Vårdgivarguiden
 - Därför är vi chanslösa mot en artificiell superintelligens - tidningensyre.se
-- ChatGPT på träningspass med Apple Health - Teknikveckan
 
 ## World News
 
@@ -53,9 +53,10 @@ _Updated: 2025-12-03 13:41_
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
@@ -69,7 +70,6 @@ _Updated: 2025-12-03 13:41_
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
-- Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -151,14 +151,14 @@ _Updated: 2025-12-03 13:41_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
