@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 05:39_
+_Updated: 2025-12-03 06:49_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Mötet har avslutats - Dagens Nyheter
-- Därför vill Trump invadera Venezuela - Arbetaren
+- Direkt – Kriget i Ukraina – Rubio: ”Vissa framsteg” i Ukrainasamtalen - Dagens Nyheter
+- Sökandet efter MH370 återupptas - Folkbladet
 - Äldre man död efter spårvagnsolycka i Göteborg - SVT Nyheter
-- Uppgörelse klar: EU fasar ut rysk gas till hösten 2027 - SVT Nyheter
-- Positiv utveckling i Stockholms utsatta områden - Cision News
-- Hennes uppdrag: Att få invandrare att lämna Sverige - Sydsvenskan
-- DN Direkt – Explosionsrisk när gas läckte på bensinstation i Södertälje - Dagens Nyheter
+- Billström till försvarsindustrin – ska sälja luftvärnsvapen - Dagens Nyheter
+- Därför vill Trump invadera Venezuela - Arbetaren
+- Mötet i Moskva avslutat: ”Ingen kompromiss än" - GP
+- Man död i trafikolycka – körde in i träd - GP
+- Polisens lista: Råslätt pekas ut som utsatt område - SVT Nyheter
 - Nya regler i plan- och bygglagen från 1 december - Värnamo kommun
-- Studenttidningen inne i Musikhjälpen-buren – så gick natten: ”Jag har förbaskat roligt” - Karlstads studenttidning
-- Förslaget: Polis ska kunna rekommendera utvisning - Omni
-- Israel stäms för journalist-stopp i Gaza - Västerbottens-Kuriren
+- UNHCR Sverige - UNHCR - The UN Refugee Agency
 - Hela Beirut gläder sig över Leo XIV - Signum – Katolsk orientering om kyrka, kultur och samhälle
 - Hegseth om dödliga båtattackerna: ”Bara börjat” - Hufvudstadsbladet
-- UNHCR Sverige - UNHCR - The UN Refugee Agency
+- Nytt överfall med tillhygge i Johanneshov – man gripen - Expressen
+- Utrikesminister Maria Malmer Stenergard deltar i Natos utrikesministermöte - Regeringen.se
 - Sommarjobb fysioterpiassistent/arbetsterapiassistent - Region Kalmar Län
 - Regeringen har tagit emot Konkurrensverkets förslag för att öka kvaliteten i offentliga kontrakt - Regeringen.se
-- Resande slår försäljningsrekord från Örebro - Örebronyheter
 - Gruvan vill ha arbetare: “Inga fler platschefer” - Dagens Arbete
-- Apple rekryterar AI-expert som byggde Googles Gemini - DI
+- Resande slår försäljningsrekord från Örebro - Örebronyheter
 - Pixels nästa stora uppdatering är här: Android 16 QPR2 - Swedroid
+- Legendariska sci-fi-serien återvänder efter 18 år: ”Det bästa Switch 2-spelet hittills” - MovieZine.se
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2025-12-03 05:39_
 - Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows - Placera.se
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -81,71 +81,71 @@ _Updated: 2025-12-03 05:39_
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
+- AFTD Grantee Leads Basic Science Study Exploring Role of Protein in Tau-Based Disorders like CBD - AFTD - The Association for Frontotemporal Degeneration
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Simple math behind major bison blunder - Forskning & Framsteg
+- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Får och solparker - en vinst för både lantbruk, får och klimat - solenerginyheter.se
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
