@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-03 04:25_
+_Updated: 2025-12-03 05:41_
 
-- Tennessee House Special Election 2025 Live Results - NBC News
+- Tennessee House Special Election Results 2025 - NBC News
 - Pete Hegseth invokes ‘fog of war’ as backlash grows over strikes on boats - Financial Times
-- Twin Cities leaders rally behind Somalis amid reports feds may target community - MPR News
+- Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community - The Guardian
+- Witkoff and Kushner met Putin for five hours on Ukraine plan - Axios
+- Progressive topples former New Jersey Gov. Jim McGreevey in Jersey City mayoral runoff - Politico
 - U.S. halts all immigration cases — including citizenship ceremonies — for nationals of 19 countries, internal guidance says - CBS News
-- Suspect in DC shooting of 2 National Guard members formally charged with murder - ABC News
-- Trump Calls Affordability a ‘Con Job’ as His Edge on the Economy Slips - The New York Times
-- "More lies from the speaker": Top Republicans erupt in rare public feud - Axios
-- James Solomon Wins Jersey City Mayoral Runoff Election, Beating Jim McGreevey - The New York Times
+- Putin from Moscow: If Europe wants to start a war, we are ready now - Euronews.com
 - University of Oklahoma Instructor on Leave After Failing Student’s Gender Essay - The New York Times
-- Trump administration fires numerous New York immigration judges - Reuters
+- Luigi Mangioni claimed he was a homeless man named 'Mark' in surreal, newly revealed bodycam footage of his arrest - Business Insider
+- U.S. requested resumption of migrant flights to Venezuela after Trump's airspace closure assertion, Maduro's government says - CBS News
+- In Photos and Video: Devastating Floods Swamp Parts of Asia - The New York Times
 - Pope prays at site of Beirut port blast at end of Lebanon visit - BBC
+- China's plan for 'mega' embassy in London faces further delay - ABC News
 - Jury trials scrapped for crimes with sentences of less than three years - BBC
-- Unsafe netting used at Hong Kong fire site, officials say, as toll rises to 151 - The Washington Post
-- First on CNN: DHS recommends travel ban list include at least 10 more countries following DC shooting - CNN
-- Michael and Susan Dell commit $6.25 billion for investment accounts for kids - NPR
+- How do ‘Trump accounts’ work – and who will benefit? - The Guardian
 - Sam Altman declares ‘Code Red’ as Google’s Gemini 3 surges—ChatGPT once caused Pichai to do the same - Fortune
-- Stock Market Today: Nasdaq, Dow Gain; Bitcoin Price Rebounds — Live Updates - The Wall Street Journal
+- San Francisco Sues Ultraprocessed Food Companies - The New York Times
 - American Eagle stock jumps 10% as it expects a big holiday, raises forecast after Sydney Sweeney ads - CNBC
 - Metroid Prime 4: Beyond is a technical marvel and game design nightmare - NPR
 - Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price - Ars Technica
