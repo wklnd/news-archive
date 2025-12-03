@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 07:43_
+_Updated: 2025-12-03 08:54_
 
 ## Top Stories
 
+- Sades upp efter kollegans död: ”Tystnadskultur” - Nerikes Allehanda
+- 03 december 07.22, Sammanfattning natt, Västernorrlands län - polisen.se
 - Därför är Donbass så viktigt för Putin - SvD
 - Kostar miljoner – men ingen vet vilka tjänstemännen är - Dagens Nyheter
-- Polisen: 65 utsatta områden i Sverige – varav två i Norrköping - NT
-- Polis dömd efter våldsam bluesfestival - Västerbottens-Kuriren
-- Varnar för nunnor från Minsk – har tidigare besökt Gotland - Helagotland
-- Kvinna misshandlad – mordförsök - Aftonbladet
+- Uppgörelse klar: EU fasar ut rysk gas till hösten 2027 - SVT Nyheter
+- M-politiker mörkade och smörjde sitt favoritbolag - Dagens PS
 - Billström till försvarsindustrin – ska sälja luftvärnsvapen - Dagens Nyheter
-- Nya regler i plan- och bygglagen från 1 december - Värnamo kommun
-- UNHCR Sverige - UNHCR - The UN Refugee Agency
-- Förslaget: Polis ska kunna rekommendera utvisning - Omni
-- Putins rådgivare: Inte närmare en lösning på krisen i Ukraina - Dagens Nyheter
+- Polisens lista: Råslätt pekas ut som utsatt område - SVT Nyheter
+- Insändare: Återvandringsbidraget ett trubbigt instrument – men vi ska lyssna! - Dalslänningen
+- Ny studie: Barndomstrauma ökar risker vid förlossning - GP
+- Putins hot: Redo för krig med Europa - GP
+- DN Direkt – Misstänkt för skjutning mot nationalgardet åtalas - Dagens Nyheter
 - Sökandet efter försvunna MH370 återupptas - Västerbottens-Kuriren
-- EU-uppgörelse om rysk gas nådd - Sydsvenskan
-- Israeliska bosättare: Vi är ”bland de fredligaste i världen” - Dagen
-- Sades upp efter kollegans död: "Tystnadskultur" - Aftonbladet
+- Direkt – Kriget i Ukraina – Mötet har avslutats - Dagens Nyheter
+- Choklad och kaffe gör matkassen till jul dyrare - SvD
 - Nära 56 miljarder kronor till premiepensionssparare - Pensionsmyndigheten
-- Ny prognos: Då höjs styrräntan igen - DI
-- 3 av 10 handlade second hand i oktober - Svensk Handel
-- Android kan börja visa varför någon ringer dig - m3.se
-- Legendariska sci-fi-serien återvänder efter 18 år: ”Det bästa Switch 2-spelet hittills” - MovieZine.se
+- Svenskarnas nettoförmögenhet steg till ny rekordnivå i tredje kvartalet - SEB:s sparbarometer - Börsvärlden
+- Gabna sameby avbryter samarbete med LKAB - METALLERochGRUVOR.se
+- Apple rekryterar AI-expert som byggde Googles Gemini - DI
+- Därför är vi chanslösa mot en artificiell superintelligens - tidningensyre.se
 
 ## World News
 
@@ -99,23 +99,23 @@ _Updated: 2025-12-03 07:43_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
