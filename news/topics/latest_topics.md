@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 18:54_
+_Updated: 2025-12-03 19:46_
 
 ## Top Stories
 
-- Åklagare yrkar på fängelse för östgötsk influencer - SVT Nyheter
 - Sigrid Melchior: Så ska frysta ryska miljarder skickas till Ukraina - Dagens Nyheter
-- Kostar miljoner – men ingen vet vilka tjänstemännen är - Dagens Nyheter
+- Åklagare yrkar på fängelse för östgötsk influencer - SVT Nyheter
 - Legionella hittat på sjukhus i Mora - Aftonbladet
-- DN Direkt – Äldre får stärkt högkostnadsskydd för tandvård - Dagens Nyheter
+- S vill kalla in FN-organisationer – ”Forssell står med byxorna nere” - Dagens Nyheter
+- Boende i Visbyområdet uppmanas koka sitt dricksvatten - SVT Nyheter
 - 16-åriga Rio sköts ihjäl: ”Ren avrättning” - SvD
 - Aggressiv fågelinfluensa sprids - Västerbottens-Kuriren
-- DN Direkt – Dansk hovrätt skärper straff för svensk tonåring - Dagens Nyheter
+- Dansk hovrätt skärper straff för svensk tonåring - GP
 - De är tvingade till Skåne – ska säkra elen vid krig - HD
-- Polisen presenterar ny lägesbild över utsatta områden - polisen.se
-- Norsk seriemördare död – tog livet av patienter - Västerbottens-Kuriren
+- Allvarlig trafikolycka på E16 i höjd med Engelsfors - SVT Nyheter
+- Kritiken växer mot Trump – kallade somalier ”sopor” - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Ryssland: Natofrågan av avgörande betydelse - Dagens Nyheter
-- Donald Trumps attack mot somalier: ”Sopor” - GP
-- Moskvasamtal utan genombrott – Putin hotar Europa - Europaportalen
+- Norsk seriemördare död – tog livet av patienter - Västerbottens-Kuriren
+- Jättebröllop i Gaza: ”Vill vara lyckliga” - Expressen
 - Arbetsförmedlingen om fiaskot med etableringsjobb: ”Upplevs som svårt” - Arbetet
 - Affärsvärlden sätter köp på Paxman - Affärsvärlden
 - Nytt prisrekord för koppar - DI
-- Kryptoraketer faller tungt – ”en ond cirkel” - SvD
+- Choklad och kaffe gör matkassen till jul dyrare - SvD
 - Förändringar i regelverk för rapportering av vårdkontakter - Vårdgivarguiden
-- En till sjukhus efter krock på E22 - Expressen
+- Därför är vi chanslösa mot en artificiell superintelligens - tidningensyre.se
 
 ## World News
 
@@ -58,41 +58,41 @@ _Updated: 2025-12-03 18:54_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
+- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Agroz Inc. Announces Launch of Agroz Robotics with UBTECH to Integrate AI-Robotics Technology into Farm Operating System - Placera.se
+- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 
 ## Business
 
-- Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - PVH Corp. Announces CFO Transition - Placera.se
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- First Horizon Names Michael Moehn to its Board of Directors (PR Newswire) - Aktiellt
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -107,13 +107,13 @@ _Updated: 2025-12-03 18:54_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-03 18:54_
 
 ## Jordbruk
 
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Tuff utmaning för europeiskt lantbruk - Lantbruksnytt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
