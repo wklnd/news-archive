@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 17:46_
+_Updated: 2025-12-03 18:54_
 
 ## Top Stories
 
-- Tränaren bakom svenska tennisundret är död - Dagens Nyheter
 - Åklagare yrkar på fängelse för östgötsk influencer - SVT Nyheter
-- Kreml: Delar av fredsförslaget är ”oacceptabla” - GP
+- Sigrid Melchior: Så ska frysta ryska miljarder skickas till Ukraina - Dagens Nyheter
 - Kostar miljoner – men ingen vet vilka tjänstemännen är - Dagens Nyheter
-- Ännu en gripen utomlands – misstänks för grovt brott i Sverige - Polisen.se
-- Dubbla förslag om miljardlån till Ukraina - Dagens Nyheter
+- Legionella hittat på sjukhus i Mora - Aftonbladet
 - DN Direkt – Äldre får stärkt högkostnadsskydd för tandvård - Dagens Nyheter
+- 16-åriga Rio sköts ihjäl: ”Ren avrättning” - SvD
 - Aggressiv fågelinfluensa sprids - Västerbottens-Kuriren
-- DN Direkt – Legionella hittat på sjukhus i Mora - Dagens Nyheter
-- Kamerabevakning med drönare i Salem och Rönninge - Polisen.se
+- DN Direkt – Dansk hovrätt skärper straff för svensk tonåring - Dagens Nyheter
+- De är tvingade till Skåne – ska säkra elen vid krig - HD
+- Polisen presenterar ny lägesbild över utsatta områden - polisen.se
 - Norsk seriemördare död – tog livet av patienter - Västerbottens-Kuriren
-- Jättebröllop i Gaza under skör vapenvila - Västerbottens-Kuriren
-- Donald Trumps attack mot somalier: ”Sopor” - Västerbottens-Kuriren
-- Israel lovar öppna gräns – Gazabor ska få lämna - Bohusläningen
+- Direkt – Kriget i Ukraina – Ryssland: Natofrågan av avgörande betydelse - Dagens Nyheter
+- Donald Trumps attack mot somalier: ”Sopor” - GP
+- Moskvasamtal utan genombrott – Putin hotar Europa - Europaportalen
 - Arbetsförmedlingen om fiaskot med etableringsjobb: ”Upplevs som svårt” - Arbetet
-- Nytt prisrekord för koppar - DI
 - Affärsvärlden sätter köp på Paxman - Affärsvärlden
+- Nytt prisrekord för koppar - DI
 - Kryptoraketer faller tungt – ”en ond cirkel” - SvD
 - Förändringar i regelverk för rapportering av vårdkontakter - Vårdgivarguiden
-- Därför är vi chanslösa mot en artificiell superintelligens - tidningensyre.se
+- En till sjukhus efter krock på E22 - Expressen
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2025-12-03 17:46_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -47,6 +46,7 @@ _Updated: 2025-12-03 17:46_
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -107,13 +107,13 @@ _Updated: 2025-12-03 17:46_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 
@@ -125,7 +125,7 @@ _Updated: 2025-12-03 17:46_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - theaftd.org
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -147,18 +147,18 @@ _Updated: 2025-12-03 17:46_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
