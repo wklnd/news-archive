@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 11:46_
+_Updated: 2025-12-03 12:49_
 
 ## Top Stories
 
-- Vatten forsar in på Ramlösa station – stopp i tågtrafiken - Sydsvenskan
 - DN Direkt – Skickar flera miljoner – till spöktjänster i Somalia - Dagens Nyheter
-- Trumps utspel – sen somnar han på mötet - Expressen
-- 03 december 07.22, Sammanfattning natt, Västernorrlands län - Polisen.se
-- Polisinsats vid kanalen i Malmö - SVT Nyheter
 - HD utdömer livstid efter dubbla gängbomber - SVT Nyheter
+- Misstänkt mordförsök på sjukhusområdet i Sundsvall - SVT Nyheter
+- Tågstopp i Ramlösa efter vattenläcka - GP
+- Sålde kontantkort till gängkriminella - åtalas - SvD
+- Rio Berg Aygün, 16, sköts i Fruängen – pojke åtalad för mord - TV4 Nyheterna
 - Billström får jobb inom försvarsindustrin - SVT Nyheter
 - Dynamitkungen Nobel brann men blev nobbad - Dagens Nyheter
 - M-politiker dolde aktieköp – bjöd in bolag till riksdagen - Omni
-- Insändare: Återvandringsbidraget ett trubbigt instrument – men vi ska lyssna! - Dalslänningen
-- DN Direkt – Misstänkt för skjutning mot nationalgardet åtalas - Dagens Nyheter
+- Här tjänar förskollärarna mest – ny lönestatistik 2025 - Vi Lärare
 - Överenskommelse om rödgrön statsbudget i Norge - SVT Nyheter
 - Israel lovar öppna gräns – Gazabor ska få lämna - Västerbottens-Kuriren
-- Putins hot: Redo för krig med Europa - GP
+- Sökandet efter försvunna MH370 återupptas - GP
+- Här nickar Trump till under mötet - Dagens Nyheter
 - Choklad och kaffe gör matkassen till jul dyrare - Dagens Nyheter
+- Presseminarium om elnätsavgifter den 3 december 2025 - Cision News
+- Sellpys nya drag - först i Sverige: "Tiden är knapp" - Ehandel.se
 - Danske Bank höjer tillväxtutsikterna för Sverige - Nordic Outlook - Börsvärlden
-- Amazon utmanar Nvidia med nytt chip - SvD
-- Sades upp efter kollegans död: ”Tystnadskultur” - Aftonbladet
-- Apple rekryterar AI-expert som byggde Googles Gemini - DI
 - Därför är vi chanslösa mot en artificiell superintelligens - tidningensyre.se
+- Test: Realme GT8 Pro – prestandamobil med många intressanta idéer - m3.se
 
 ## World News
 
@@ -31,12 +31,12 @@ _Updated: 2025-12-03 11:46_
 - Philip Morris International Presents at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
@@ -98,17 +98,15 @@ _Updated: 2025-12-03 11:46_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -116,29 +114,31 @@ _Updated: 2025-12-03 11:46_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-12-03 11:46_
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
