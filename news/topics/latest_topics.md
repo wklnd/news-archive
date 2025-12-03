@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 12:49_
+_Updated: 2025-12-03 13:41_
 
 ## Top Stories
 
+- Aggressiv fågelinfluensa sprids - Västerbottens-Kuriren
+- 03 december 07.22, Sammanfattning natt, Västernorrlands län - Polisen.se
+- V-topp lämnar helt – åtalad för misshandel - Expressen
 - DN Direkt – Skickar flera miljoner – till spöktjänster i Somalia - Dagens Nyheter
-- HD utdömer livstid efter dubbla gängbomber - SVT Nyheter
-- Misstänkt mordförsök på sjukhusområdet i Sundsvall - SVT Nyheter
 - Tågstopp i Ramlösa efter vattenläcka - GP
-- Sålde kontantkort till gängkriminella - åtalas - SvD
-- Rio Berg Aygün, 16, sköts i Fruängen – pojke åtalad för mord - TV4 Nyheterna
+- Putins trumfkort går upp i rök – “stor seger för Europa” - Marcus Oscarsson
 - Billström får jobb inom försvarsindustrin - SVT Nyheter
-- Dynamitkungen Nobel brann men blev nobbad - Dagens Nyheter
-- M-politiker dolde aktieköp – bjöd in bolag till riksdagen - Omni
+- Skärpt straff för bomben i Fullerö - UNT
 - Här tjänar förskollärarna mest – ny lönestatistik 2025 - Vi Lärare
+- 03 december 12.06, Trafikkontroll, Västerbottens län - Polisen.se
 - Överenskommelse om rödgrön statsbudget i Norge - SVT Nyheter
 - Israel lovar öppna gräns – Gazabor ska få lämna - Västerbottens-Kuriren
-- Sökandet efter försvunna MH370 återupptas - GP
+- Michael Winiarski: Trump ger Putin mer tid för erövringskriget - Dagens Nyheter
 - Här nickar Trump till under mötet - Dagens Nyheter
 - Choklad och kaffe gör matkassen till jul dyrare - Dagens Nyheter
-- Presseminarium om elnätsavgifter den 3 december 2025 - Cision News
-- Sellpys nya drag - först i Sverige: "Tiden är knapp" - Ehandel.se
-- Danske Bank höjer tillväxtutsikterna för Sverige - Nordic Outlook - Börsvärlden
+- Mats Qvibergs börsvarning: ”Stor risk för en krasch” - DI
+- KO tar DNB till ARN för återbetalning till omkring 50 000 kunder - Börsvärlden
+- Vattenfall Eldistribution: Presseminarium om elnätsavgifter den 3 december 2025 - group.vattenfall.com
 - Därför är vi chanslösa mot en artificiell superintelligens - tidningensyre.se
-- Test: Realme GT8 Pro – prestandamobil med många intressanta idéer - m3.se
+- ChatGPT på träningspass med Apple Health - Teknikveckan
 
 ## World News
 
@@ -31,44 +31,44 @@ _Updated: 2025-12-03 12:49_
 - Philip Morris International Presents at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- CEO Coaching International Achieves World-Class Net Promoter Score in 2025 Annual Client Survey (PR Newswire) - Aktiellt
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- Waterdrop Wins 2025 Global Best Case Brands Award, Empowering Inclusive Protection Through Technological Innovation - Placera.se
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
-- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
-- LISA with Leading Thai and International Artists Captivate the World at the Amazing Thailand Countdown 2025, Reinforcing ICONSIAM as the Ultimate Global Countdown Destination (EQS Newswire) - Aktiellt
-- Moore Global Named Network of the Year in Unanimous Decision (PR Newswire) - Aktiellt
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
+- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
 - Seguritech Announces the Launch of New Artificial Intelligence Platform (PR Newswire) - Aktiellt
 
 ## Business
@@ -98,24 +98,24 @@ _Updated: 2025-12-03 12:49_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
@@ -127,17 +127,17 @@ _Updated: 2025-12-03 12:49_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
