@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-03 13:48_
+_Updated: 2025-12-03 15:23_
 
 - Tennessee's special House election sets stage for affordability focused 2026 midterms - NPR
 - What Trump and Hegseth said after the Sept. 2 strike on an alleged drug-smuggling boat - ABC News
-- Obamacare subsidies expire this month. Many Republicans are shrugging. - Politico
-- ‘We’re not further from peace’: Kushner and Witkoff step into Putin’s war game - politico.eu
-- Ahead of Tariff Ruling, Businesses Race to Secure Refunds - The New York Times
+- Drunk raccoon found passed out on liquor store floor after breaking in - BBC
+- Trump pauses immigration applications for 19 nations on travel ban list - The Washington Post
 - Colombian family files first known formal complaint over deadly US strike in Caribbean - CNN
-- Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community - The Guardian
-- ‘I Knew It Was Him’: Officer Recalls Confronting Mangione at McDonald’s - The New York Times
+- 50 years after the birth of special education, some fear for its future under Trump - NPR
+- West Virginia again bans religious reasons for school vaccine exemptions - AP News
+- Sen. Duckworth demands Transportation Dept. give $10,000 bonus to all air traffic controllers, FAA technicians - CBS News
 - University of Oklahoma Instructor on Leave After Failing Student’s Gender Essay - The New York Times
-- Pentagon says every national guard soldier deployed in Washington DC ‘is now armed’ - The Guardian
-- A search is resuming for the MH370 plane that vanished 11 years ago - AP News
+- Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community - The Guardian
+- Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30 - NPR
+- South Korea's Lee vows 'strict accountability' for martial law perpetrators a year after Yoon’s ‘self-coup' attempt - CNBC
+- Sanchar Saathi: India scraps order to pre-install state-run cyber safety app on smartphones - BBC
 - Putin Warns Russia May Hit Ukraine Allies’ Ships If Attacks Last - Bloomberg.com
-- Chinese mega embassy could bring security advantages, says No 10 - BBC
-- Belarus weather balloons force repeated closures of Lithuania’s main airport - AP News
-- Airbus cuts delivery target after problems with A320 aircraft - Financial Times
-- OpenAI Issues ‘Code Red’ Warning to Staff. Why That’s Good News for Oracle Stock. - Barron's
-- Prada completes purchase of longtime rival Versace for $1.4 billion - The Washington Post
-- American Eagle had Sydney Sweeney. But its lesser-known lingerie brand carried the day. - MarketWatch
+- Airbus cuts plane delivery target amid A320 fuselage problem - The Guardian
+- How Trump accounts for kids will work and more key details following Dell donation - CBS News
+- Macy’s posts strongest growth in more than 3 years, but strikes cautious note on holidays - CNBC
+- A Quick Turnaround As Mega Millions Jackpot Is Won in New Jersey - Mega Millions
 - Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price - Ars Technica
 - Samsung Unveils Its Exynos 2600, Puts Out An Initial Trailer That Says ‘In Silence, We Listened’ And ‘Refined At The Core’ - Wccftech
