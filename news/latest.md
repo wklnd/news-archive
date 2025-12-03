@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-03 06:55_
+_Updated: 2025-12-03 07:50_
 
 - Republican Wins Tennessee House Race After a Trump-Led Rescue Mission - The New York Times
-- Pete Hegseth invokes ‘fog of war’ as backlash grows over strikes on boats - Financial Times
+- Hegseth, citing ‘fog of war,’ says he learned of survivors hours after strike - The Washington Post
+- Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community - The Guardian
 - Kremlin signals no breakthrough after Ukraine talks with US - BBC
 - U.S. halts all immigration cases — including citizenship ceremonies — for nationals of 19 countries, internal guidance says - CBS News
-- Pentagon says every national guard soldier deployed in Washington DC ‘is now armed’ - The Guardian
-- Trump rails against Somali migrants: ‘I don’t want them in our country’ - The Washington Post
-- Luigi Mangioni claimed he was a homeless man named 'Mark' in surreal, newly revealed bodycam footage of his arrest - Business Insider
-- University of Oklahoma Instructor on Leave After Failing Student’s Gender Essay - The New York Times
 - Progressive topples former New Jersey Gov. Jim McGreevey in Jersey City mayoral runoff - Politico
-- The 85-Year-Old Activist Trying to Block the Trump Presidential Library Plan - The New York Times
-- In Photos and Video: Devastating Floods Swamp Parts of Asia - The New York Times
+- Luigi Mangioni claimed he was a homeless man named 'Mark' in surreal, newly revealed bodycam footage of his arrest - Business Insider
+- U.S. requested resumption of migrant flights to Venezuela after Trump's airspace closure assertion, Maduro's government says - CBS News
+- Lawsuit Challenging Border Patrol’s Use of Force in Chicago Area Is Dropped - The New York Times
+- Grisly online searches take center stage in Brian Walshe’s murder trial. Here are takeaways from Day 2 - CNN
+- Death toll from Indonesia floods and landslides passes 700 - Reuters
 - Putin Warns Russia May Hit Ukraine Allies’ Ships If Attacks Last - Bloomberg.com
 - Pope prays at site of Beirut port blast at end of Lebanon visit - BBC
 - China's plan for 'mega' embassy in London faces further delay - ABC News
-- Michael and Susan Dell commit $6.25 billion for investment accounts for kids - NPR
+- What to Know About Trump Accounts for Children and Eligibility After Dell Donation - The New York Times
 - American Eagle lifts outlook as Sydney Sweeney campaign boosts sales - Financial Times
-- San Francisco sues food companies over ultra-processed products - BBC
 - Elon Musk lists his three most important ingredients for AI - CNBC
-- Metroid Prime 4: Beyond is a technical marvel and game design nightmare - NPR
-- Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price - Ars Technica
+- China Services Activity Slows Again in Sign of Frail Economy - Bloomberg.com
+- A Samsung Executive Has A Lame Excuse For Not Using The Snapdragon 8 Elite Gen 5 On The Newly Announced Galaxy Z TriFold - Wccftech
+- Metroid Prime 4: Beyond Credits Reveal A Plethora Of Assist Devs, Including Next Level Games - Nintendo Life
