@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-03 06:49_
+_Updated: 2025-12-03 07:43_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Rubio: ”Vissa framsteg” i Ukrainasamtalen - Dagens Nyheter
-- Sökandet efter MH370 återupptas - Folkbladet
-- Äldre man död efter spårvagnsolycka i Göteborg - SVT Nyheter
+- Därför är Donbass så viktigt för Putin - SvD
+- Kostar miljoner – men ingen vet vilka tjänstemännen är - Dagens Nyheter
+- Polisen: 65 utsatta områden i Sverige – varav två i Norrköping - NT
+- Polis dömd efter våldsam bluesfestival - Västerbottens-Kuriren
+- Varnar för nunnor från Minsk – har tidigare besökt Gotland - Helagotland
+- Kvinna misshandlad – mordförsök - Aftonbladet
 - Billström till försvarsindustrin – ska sälja luftvärnsvapen - Dagens Nyheter
-- Därför vill Trump invadera Venezuela - Arbetaren
-- Mötet i Moskva avslutat: ”Ingen kompromiss än" - GP
-- Man död i trafikolycka – körde in i träd - GP
-- Polisens lista: Råslätt pekas ut som utsatt område - SVT Nyheter
 - Nya regler i plan- och bygglagen från 1 december - Värnamo kommun
 - UNHCR Sverige - UNHCR - The UN Refugee Agency
-- Hela Beirut gläder sig över Leo XIV - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Hegseth om dödliga båtattackerna: ”Bara börjat” - Hufvudstadsbladet
-- Nytt överfall med tillhygge i Johanneshov – man gripen - Expressen
-- Utrikesminister Maria Malmer Stenergard deltar i Natos utrikesministermöte - Regeringen.se
-- Sommarjobb fysioterpiassistent/arbetsterapiassistent - Region Kalmar Län
-- Regeringen har tagit emot Konkurrensverkets förslag för att öka kvaliteten i offentliga kontrakt - Regeringen.se
-- Gruvan vill ha arbetare: “Inga fler platschefer” - Dagens Arbete
-- Resande slår försäljningsrekord från Örebro - Örebronyheter
-- Pixels nästa stora uppdatering är här: Android 16 QPR2 - Swedroid
+- Förslaget: Polis ska kunna rekommendera utvisning - Omni
+- Putins rådgivare: Inte närmare en lösning på krisen i Ukraina - Dagens Nyheter
+- Sökandet efter försvunna MH370 återupptas - Västerbottens-Kuriren
+- EU-uppgörelse om rysk gas nådd - Sydsvenskan
+- Israeliska bosättare: Vi är ”bland de fredligaste i världen” - Dagen
+- Sades upp efter kollegans död: "Tystnadskultur" - Aftonbladet
+- Nära 56 miljarder kronor till premiepensionssparare - Pensionsmyndigheten
+- Ny prognos: Då höjs styrräntan igen - DI
+- 3 av 10 handlade second hand i oktober - Svensk Handel
+- Android kan börja visa varför någon ringer dig - m3.se
 - Legendariska sci-fi-serien återvänder efter 18 år: ”Det bästa Switch 2-spelet hittills” - MovieZine.se
 
 ## World News
@@ -30,8 +30,8 @@ _Updated: 2025-12-03 06:49_
 - Kroll Elevates Global MDR Services, Migrating Protection to CrowdStrike Falcon Complete Next-Gen MDR - Placera.se
 - Philip Morris International Presents at 2025 Morgan Stanley Global Consumer & Retail Conference - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -77,22 +77,22 @@ _Updated: 2025-12-03 06:49_
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-03 06:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
-- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -145,7 +145,7 @@ _Updated: 2025-12-03 06:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - solenerginyheter.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
