@@ -1,22 +1,22 @@
 # Top News Headlines
 
-_Updated: 2025-12-03 08:58_
+_Updated: 2025-12-03 09:50_
 
-- Republican Wins Tennessee House Race After a Trump-Led Rescue Mission - The New York Times
-- Pete Hegseth invokes ‘fog of war’ as backlash grows over strikes on boats - Financial Times
+- Tennessee House Special Election Results 2025 - NBC News
+- Hegseth, citing ‘fog of war,’ says he learned of survivors hours after strike - The Washington Post
 - Trump says he doesn't want Somalis in the U.S., urges them to go back to their homeland and fix it - NPR
-- Russia-US talks on Ukraine peace deal end without breakthrough, Putin aide says - CNN
-- US cancels citizenship ceremonies for migrants from travel ban countries - BBC
-- Progressive topples former New Jersey Gov. Jim McGreevey in Jersey City mayoral runoff - Politico
+- Kremlin signals no breakthrough after Ukraine talks with US - BBC
+- Trump administration halts immigration applications from 19 countries - Axios
+- James Solomon Wins Jersey City Mayoral Runoff Election, Beating Jim McGreevey - The New York Times
 - ‘I Knew It Was Him’: Officer Recalls Confronting Mangione at McDonald’s - The New York Times
-- West Virginia again bans religious reasons for school vaccine exemptions - AP News
 - U.S. requested resumption of migrant flights to Venezuela after Trump's airspace closure assertion, Maduro's government says - CBS News
-- Ex-Honduras president, convicted of drug trafficking, freed on Trump pardon - The Washington Post
-- Global heating and other human activity are making Asia’s floods more lethal - The Guardian
+- Pentagon says every national guard soldier deployed in Washington DC ‘is now armed’ - The Guardian
+- Grisly online searches take center stage in Brian Walshe’s murder trial. Here are takeaways from Day 2 - CNN
+- A search is resuming for the MH370 plane that vanished 11 years ago - AP News
 - Putin Warns Russia May Hit Ukraine Allies’ Ships If Attacks Last - Bloomberg.com
-- South Korea's Lee says on martial law anniversary perpetrators must face justice - Reuters
-- Pope prays at site of Beirut port blast at end of Lebanon visit - BBC
-- What to Know About Trump Accounts for Children and Eligibility After Dell Donation - The New York Times
+- Death toll from Indonesia floods and landslides passes 700 - Reuters
+- Chinese mega embassy could bring security advantages, says No 10 - BBC
+- How Trump accounts for kids will work and more key details following Dell donation - CBS News
 - Airbus to inspect some planes over 'quality issue' with panels - BBC
 - Prada completes purchase of longtime rival Versace for $1.4 billion - The Washington Post
 - American Eagle lifts outlook as Sydney Sweeney campaign boosts sales - Financial Times
