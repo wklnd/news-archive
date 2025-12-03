@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-03 20:57_
+_Updated: 2025-12-03 21:48_
 
-- Column | Surprisingly tough Tennessee election reveals House GOP has base problem - The Washington Post
-- Henry Cuellar: Trump says he is pardoning Democratic congressman in bribery case - BBC
+- House Democrats release new images of Epstein’s private Caribbean island - The Guardian
 - Federal agents begin immigration operations in New Orleans and Minneapolis - NBC News
-- Trump officials say second strike aimed to destroy drug boat instead of crew - The Guardian
-- Never-before-seen images of Epstein’s private island released - PBS
 - Exclusive: Watchdog finds Hegseth risked endangering troops by sharing sensitive war plans on Signal, sources say - CNN
-- Jack Smith subpoenaed for closed-door House Judiciary interview - Politico
-- Chances dwindling for renewal of health care subsidies, risking premium spikes for millions - AP News
+- Column | Surprisingly tough Tennessee election reveals House GOP has base problem - The Washington Post
+- Trump administration halts immigration applications for migrants from 19 travel-ban nations, including Afghanistan and Somalia - PBS
 - 5 things to know about the Somali community in Minnesota after Trump’s attacks - PBS
-- What latest Ukraine talks reveal about Putin's state of mind - BBC
+- Senators warm to Obamacare subsidy talks - Politico
+- Trump pardons Texas Democratic Rep. Cuellar in bribery and conspiracy case - AP News
+- Jack Smith subpoenaed for closed-door testimony before House committee in probe of Trump prosecutions - CBS News
+- Stefanik secures NDAA provision after high-profile fight with Johnson - Politico
 - Israel says it received body from Hamas as it indicates Rafah crossing could open - Reuters
 - A Devastating Fire Has Fueled a National Security Crackdown in Hong Kong - The New York Times
-- What to know about missing Malaysia Airlines Flight MH370 as search resumes - AP News
-- Turkish Shipping Company Ends Russia-Linked Voyages After Tanker Explosions - The Moscow Times
+- Malaysia says search for MH370 to resume this month, 11 years after packed plane vanished without a trace - CBS News
+- Sinking Russia’s ‘shadow fleet’: Has the Ukraine war reached Senegal? - France 24
+- Trump's new lower fuel-economy rules will make cars cheaper, White House says - Axios
 - Dow rises as investors shake off weak jobs data, Microsoft decline: Live updates - CNBC
-- What you need to know about ‘Trump Accounts’ and Michael and Susan Dell’s $6.25 billion donation - CNN
-- Trump plans to weaken vehicle mileage rules that limit air pollution - AP News
-- Airbus cuts plane delivery target amid A320 fuselage problem - The Guardian
+- 'Trump Account' newborns could have $1.9M by 28, Treasury Dept. says. Here's what's required to get that much - Yahoo Finance
+- Check your cheese: Shredded and grated varieties are recalled nationwide - NPR
 - Nikon ZR review: A highly capable cinema camera at a reasonable price - Engadget
-- Google is replacing Discover news headlines with laughably awful AI-generated titles - Android Authority
+- Everything new in Samsung’s next major Galaxy update, One UI 8.5, just leaked - 9to5Google
