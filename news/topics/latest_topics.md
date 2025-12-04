@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 18:54_
+_Updated: 2025-12-04 19:46_
 
 ## Top Stories
 
-- Man död efter skidolycka i Åre - SVT Nyheter
+- Regeringen föreslår nya regler för personer med utvisningsbeslut som inte kan utvisas direkt - Regeringen.se
+- Man död efter skidolycka i Åre - Aftonbladet
 - Ilska och chock hos Malmö stad: Kulturhistorisk byggnad har rivits utan tillstånd - Sydsvenskan
-- Man gripen – placerade bomber vid Kapitolium - SvD
-- Läckta bilder visar över 10 000 försvunna under al-Assads regim - Dagens Nyheter
-- SD-politiker avgår – hade samling med nazistprylar - Omni
-- "Gudalandets" ledare fängslas efter dödshoten - GP
+- Malmer Stenergard: ”Hoppas de anhöriga får veta vad som hänt” - SVT Nyheter
+- Flera frihetsberövade i polisinsats mot kriminellt nätverk - Polisen.se
+- Veteranerna på dataspel är Ukrainas nya krigshjältar - Expressen
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Stoppar bidrag till kyrka efter Säpos larm - SVT Nyheter
-- Se datumen för årets julgransflygning – formationen leds av nya Jas 39 Gripen E - sla.se
 - Föräldrar har inte råd med rätt ytterkläder – nu får förskolor köpa in lånekläder - Dagens Nyheter
+- Polisen i norr varnar för sms-bedrägerier - Norran
 - Läcka: Europeiska ledare varnar för amerikanskt svek - Västerbottens-Kuriren
-- Över 1 500 döda efter skyfall – hundratals saknas - GP
+- Flera israeliska flygräder i Libanon: ”Slog till mot vapenlager” - Dagens Nyheter
 - Pressen ökar på USA:s försvarsminister Pete Hegseth - Dagens Nyheter
-- Utredning: Putin beordrade giftmord i Salisbury - GP
-- Busch: Höjda elnätsavgifter ska granskas - SVT Nyheter
+- Över 1 500 döda efter skyfall – hundratals saknas - GP
 - Svensk inflation lägre än väntat i november - Morningstar Canada
+- Busch: Höjda elnätsavgifter ska granskas - SVT Nyheter
 - Busch: Svenska Kraftnät klarade inte uppgiften - Tidningen Näringslivet
 - Brakförlust för Soho house – sågas hårt - Expressen
 - TEST: Smarta klockor – den ska du satsa på - Aftonbladet
@@ -27,26 +27,26 @@ _Updated: 2025-12-04 18:54_
 
 ## World News
 
-- V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
+- Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- CEO Coaching International Achieves World-Class Net Promoter Score in 2025 Annual Client Survey (PR Newswire) - Aktiellt
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
-- LaSalle announces global leadership transition - Placera.se
-- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
+- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -79,11 +79,10 @@ _Updated: 2025-12-04 18:54_
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-12-04 18:54_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-04 18:54_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
