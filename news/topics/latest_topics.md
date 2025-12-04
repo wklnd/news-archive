@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 06:50_
+_Updated: 2025-12-04 07:44_
 
 ## Top Stories
 
-- DN Direkt – Åkesson och Andersson i debatt om trollfabriker - Dagens Nyheter
+- Sverker Olofsson först ut i polisens kampanj mot äldrebedrägerier - polisen.se
+- Elev anhållen – misstänks för hot på skola i Täby - SVT Nyheter
+- Gängens osynliga gräns delar Biskopsgården i Göteborg - Dagens Nyheter
+- Så ritas kartan om – med L ute ur riksdagen - SvD
+- Striden om tv-duellerna: ”Moderaternas skräck” - Aftonbladet
 - Anhöriga anmäler USA – efter Trumps båtbombningar - GP
-- Thailand: Grönt ljus för alkohol på eftermiddagen - GP
-- Maduro: Respektfullt och hjärtligt samtal med Trump - Omni
-- FN:s generalförsamling: Återför ukrainska barn - Västerbottens-Kuriren
-- Macron: Kina har avgörande inflytande om Ukraina - Aftonbladet
-- Man död efter bilolycka – körde in i träd - SVT Nyheter
-- Emma Bouvin: Smällen låter som att den kommer från mitt andra liv - Dagens Nyheter
-- Äldre får stärkt högkostnadsskydd för tandvård - Västerbottens-Kuriren
+- Hel by kan utplånas när nya stambanan byggs - Skånska Dagbladet
 - Nya byggregler underlättar för fastighetsägare - Arvika Nyheter
-- Trump om mötet i Moskva: ”Krävs två för att dansa tango” - Hufvudstadsbladet
-- DN Direkt – Demokraterna släpper nya bilder på Epsteins ö - Dagens Nyheter
-- EU vill ge frysta ryska tillgångar Ukraina – trots Belgiens motstånd - GP
-- 03 december 19.29, Bedrägeri, Västerbottens län - polisen.se
+- Man död efter bilolycka – körde in i träd - SVT Nyheter
+- Här är SD-politikerns hemliga nazigömma • ”Vad är det här för människa?” - Expressen
+- DN Direkt – Thailand: Grönt ljus för alkohol på eftermiddagen - Dagens Nyheter
+- Putin åker till Indien: Ska lobba för oljeexport - Omni
+- Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
+- Fler ryska attacker mot Ukraina i november - Västerbottens-Kuriren
+- Oväntade draget – så ska hon leda förarlösa racet - SvD
 - Mats Qvibergs varning: ”Stor risk för krasch” - EFN.se
 - Kopparpriset stiger – men gruvorna hänger inte med - Realtid
-- Fords nya FP800S låter historien mullra igen - Dagens PS
-- Källor: Wall Street varnar för Trump-rådgivaren - Omni
+- INVESTERARE VARNADE FÖR UTSE HASSETT TILL FED-CHEF -FT (OMS) - Placera.se
 - Analytiker: Microsoft måste sluta hajpa ”Copilot+”-datorer - Computer Sweden
-- Tio tusen år gamla genom ändrar bilden av människans evolution - Uppsala universitet
+- TEST: Smarta klockor – den ska du satsa på - Aftonbladet
 
 ## World News
 
@@ -91,8 +91,8 @@ _Updated: 2025-12-04 06:50_
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,12 +101,12 @@ _Updated: 2025-12-04 06:50_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -147,18 +147,18 @@ _Updated: 2025-12-04 06:50_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
