@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-04 01:48_
+_Updated: 2025-12-04 04:26_
 
+- New details emerge about controversial Sept. 2 strike on alleged drug boat that killed survivors - ABC News
 - Pentagon watchdog finds Hegseth risked the safety of U.S. forces with use of Signal - NPR
-- What Trump and Hegseth said after the Sept. 2 strike on an alleged drug-smuggling boat - ABC News
-- House Democrats release new images of Epstein’s private Caribbean island - The Guardian
-- What Tennessee Revealed About the G.O.P.’s Trump Trap in the Midterms - The New York Times
-- What latest Ukraine talks reveal about Putin's state of mind - BBC
-- Stefanik says Johnson ‘certainly’ wouldn’t be reelected speaker - Politico
-- Afghans legally in U.S. worry about their future amid Trump immigration crackdown - NBC News
-- DHS launches new immigration sting in New Orleans - The Washington Post
-- Senators warm to Obamacare subsidy talks - Politico
-- Trump describes Somali immigrants as 'garbage' amid feud with Minnesota congresswoman, governor - ABC News
-- Israel says it received body from Hamas as it indicates Rafah crossing could open - Reuters
-- A Devastating Fire Has Fueled a National Security Crackdown in Hong Kong - The New York Times
-- The Princess of Wales makes her dazzling debut in rare ruby and diamond tiara for the German state banquet - Tatler
-- D-Day veteran Charles Shay, who saved lives on Omaha Beach, dies at 101 in France - AP News
-- Trump proposes slashing fuel economy rules in boost for gas vehicles - Reuters
-- Small businesses suffered major job losses in November, ADP says - NBC News
-- Shredded cheeses voluntarily recalled from Target, Walmart and more due to possible metal contamination - ABC News
-- Citi Names 276 New MDs in Its Smallest Class Since 2020 — See the List - Business Insider
-- Apple Design Executive Alan Dye Poached by Meta in Major Coup - Bloomberg
-- Leak reveals Apple Health app might soon connect to ChatGPT - 9to5Mac
+- Republican Anger Erupts at Johnson as Party Frets About Future - The New York Times
+- Trump launches immigration crackdown in New Orleans - Reuters
+- Cheers and alarm: 4 takeaways from the GOP's win in Tennessee special election - Axios
+- A triple-dip Polar vortex is coming. Will your state feel the chill? - USA Today
+- Lawmakers decry Trump’s immigration halt for 19 countries: ‘scapegoating entire nationalities’ - The Guardian
+- How Minnesota became a hub for Somali immigrants in the U.S. - NPR
+- Trump Pardons Henry Cuellar, Texas Democrat Indicted on Bribery Charges - The New York Times
+- Drunk raccoon found passed out on liquor store floor after breaking in - BBC
+- EU proposes using frozen Russian assets or borrowing to give Ukraine 90 bln euros - Reuters
+- Queen Camilla Wears 185-Year-Old Brooch That Supposedly Inspired Princess Diana’s Engagement Ring - instyle.com
+- Israel receives coffin that Hamas says contains Gaza hostage's body - BBC
+- UN warns of ‘strong reasons’ for war crimes - The Jerusalem Post
+- Trump announces plans to weaken fuel efficiency rules for cars and trucks - The Washington Post
+- 1.5 million bags of shredded cheese have been recalled. Check your fridge for these brands - Los Angeles Times
+- Salesforce Stock Rises. What Wall Street Is Excited About in Earnings. - Barron's
+- US private payrolls post largest drop in more than 2-1/2 years in November - Reuters
+- Apple Design Executive Alan Dye Poached by Meta in Major Coup - Bloomberg.com
+- 'Exploitation is imminent' as 39 percent of cloud environs have max-severity React hole - theregister.com
