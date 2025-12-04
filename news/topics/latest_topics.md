@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 19:46_
+_Updated: 2025-12-04 20:54_
 
 ## Top Stories
 
+- Nya regler – Israel får vara med i Eurovision - SvD
 - Regeringen föreslår nya regler för personer med utvisningsbeslut som inte kan utvisas direkt - Regeringen.se
-- Man död efter skidolycka i Åre - Aftonbladet
-- Ilska och chock hos Malmö stad: Kulturhistorisk byggnad har rivits utan tillstånd - Sydsvenskan
+- Polisjakt efter mordförsök i södra Stockholm - Aftonbladet
+- "Gudalandets" ledare fängslas efter dödshoten - GP
 - Malmer Stenergard: ”Hoppas de anhöriga får veta vad som hänt” - SVT Nyheter
-- Flera frihetsberövade i polisinsats mot kriminellt nätverk - Polisen.se
-- Veteranerna på dataspel är Ukrainas nya krigshjältar - Expressen
+- Elevassistenter särskilt utsatt grupp – så ska hot- och våldsincidenterna minska i Stockholm - Cision News
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
-- Stoppar bidrag till kyrka efter Säpos larm - SVT Nyheter
-- Föräldrar har inte råd med rätt ytterkläder – nu får förskolor köpa in lånekläder - Dagens Nyheter
+- Stoppar bidrag till kyrka efter Säpos larm - Västerbottens-Kuriren
+- Flera frihetsberövade i polisinsats mot kriminellt nätverk - Polisen.se
 - Polisen i norr varnar för sms-bedrägerier - Norran
-- Läcka: Europeiska ledare varnar för amerikanskt svek - Västerbottens-Kuriren
+- Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
+- Direkt – Kriget i Ukraina – USA stöder FN:s krav på Ryssland att återlämna ukrainska barn - Dagens Nyheter
 - Flera israeliska flygräder i Libanon: ”Slog till mot vapenlager” - Dagens Nyheter
-- Pressen ökar på USA:s försvarsminister Pete Hegseth - Dagens Nyheter
-- Över 1 500 döda efter skyfall – hundratals saknas - GP
+- Uppgifter: Inflytelserik klanledare dödad i Gaza - Västerbottens-Kuriren
 - Svensk inflation lägre än väntat i november - Morningstar Canada
-- Busch: Höjda elnätsavgifter ska granskas - SVT Nyheter
-- Busch: Svenska Kraftnät klarade inte uppgiften - Tidningen Näringslivet
+- Busch: Höjda elnätsavgifter ska granskas - SvD
 - Brakförlust för Soho house – sågas hårt - Expressen
-- TEST: Smarta klockor – den ska du satsa på - Aftonbladet
+- Busch: Svenska Kraftnät klarade inte uppgiften - Tidningen Näringslivet
+- Motorola släpper specialversion av Edge 70 - mobil.se
 - Nya beteckningar på uppdateringar för Minecraft - m3.se
 
 ## World News
 
-- Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- CEO Coaching International Achieves World-Class Net Promoter Score in 2025 Annual Client Survey (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- LaSalle announces global leadership transition - Placera.se
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2025-12-04 19:46_
 ## Business
 
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
+- PVH Corp. Announces CFO Transition - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Scotiabank and Davivienda close previously announced transaction to transfer Scotiabank's banking operations in Colombia, Costa Rica and Panama - Placera.se
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -104,18 +104,18 @@ _Updated: 2025-12-04 19:46_
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-04 19:46_
 
 ## Jordbruk
 
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
+- Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
