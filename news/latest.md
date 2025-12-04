@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-04 22:53_
+_Updated: 2025-12-04 23:49_
 
-- Lawmakers see video of second strike on boat survivors, say admiral testified there was no kill order - CBS News
-- Follow live: Hunt for Washington DC pipe bomb suspect was like 'finding a needle in a haystack', officials say - BBC
-- The New York Times sues the Pentagon over Defense Secretary Pete Hegseth's media rules - AP News
+- Lawmakers hear from Navy admiral who ordered attack that killed boat strike survivors - AP News
+- FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan. 6 attack - NPR
+- Signalgate report finds Hegseth potentially put U.S. forces at risk - Axios
 - Ilhan Omar says Trump attacks on Somali immigrants 'deflect attention' from scrutiny - NPR
-- Her Roof Was About to Be Fixed. Then Immigration Agents Showed Up. - The New York Times
+- Border Patrol enters an uneasy New Orleans - Politico
 - USCIS Increases Screening, Vetting of Aliens Working in U.S. - USCIS (.gov)
-- A triple-dip Polar vortex is coming. Will your state feel the chill? - USA Today
-- Prosecutor who subpoenaed Letitia James could be disqualified, judge suggests - Politico
 - A Volunteer’s Dire Warnings About the National Guard Shooting Suspect - The New York Times
+- Prosecutor who subpoenaed Letitia James could be disqualified, judge suggests - Politico
+- Trump Vows to Remove US Citizens. Can He Do That? - Bloomberg.com
 - $1.5M raised for 88-year-old Army vet after viral video showed him working in grocery store - NBC News
-- Putin 'morally responsible for Dawn Sturgess Novichok death' - BBC
+- Trump’s crackdown on Russian oil hangs heavy as Putin arrives in India - The Washington Post
 - Ruined Rice Fields and Broken Rail Lines: Sri Lanka Counts Cost of Cyclone - The New York Times
-- Macron reportedly warned Zelenskyy US may ‘betray Ukraine on territory’ - The Guardian
-- UK and Norway will mount joint naval patrols to protect undersea cables and hunt Russian submarines - AP News
-- S&P 500 is little changed as investors look to rate decision next week: Live updates - CNBC
-- Layoff announcements hit the highest level since the pandemic - NBC News
-- Paramount Calls Warner Bros. Sales Process 'Unfair' in Blistering Letter - The Hollywood Reporter
+- UK and Norway form naval alliance to hunt Russian submarines - BBC
+- U.K. sanctions Russia after inquiry finds Putin responsible for nerve agent attack on British soil - CBS News
+- S&P 500, Nasdaq close higher, extending gains for third day as investors await next week's rate decision - CNBC
+- Paramount Skydance Says Warner Bros. Discovery Sales Process 'Tainted,' Favors Netflix Bid - Variety
+- Detroit Three struggle in reliability ranking, but two brands are up - The Detroit News
 - Meta to cut up to 30% of metaverse budget, Bloomberg News reports - Reuters
 - iPhone Air's Resale Value Has Dropped Dramatically, Data Shows - MacRumors
-- Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis - Ars Technica
+- Here's when Samsung will launch the Galaxy Watch Ultra 2 - SamMobile
