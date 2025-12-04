@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 09:42_
+_Updated: 2025-12-04 10:51_
 
 ## Top Stories
 
-- Chefsekonomen jublar: ”Låg inflation i sikte” - DI
+- Det krävs mer för en räntesänkning - DI
+- 10 000 försvunna syrier i läckta bilder – visar Assadregimens tortyr - Hufvudstadsbladet
 - Elev anhållen – misstänks för hot på skola i Täby - SVT Nyheter
-- Friska Julia föll ihop i skolan – var dödssjuk - GP
-- 90 procent av pengarna till dubbelspår saknas – ska ordna sig ändå - Sydsvenskan
-- DN Direkt – Elevassistenter extra våldsutsatta i skolan - Dagens Nyheter
+- Debatt: Ett fredsavtal om icke-fred - VF
 - Macron: Kina har avgörande inflytande om Ukraina - Dagens Nyheter
-- Emma Bouvin: Smällen låter som att den kommer från mitt andra liv - Dagens Nyheter
-- 10 000 läckta bilder visar Assadregimens tortyr - Sydsvenskan
-- Här följer en sammanfattning av nattens händelser. - Brottsplatskartan.se
-- Här är SD-politikerns hemliga nazigömma • ”Vad är det här för människa?” - Expressen
-- Kinarivalitet får Indien att välkomna Putin - DI
-- DN Direkt – Thailand: Grönt ljus för alkohol på eftermiddagen - Dagens Nyheter
-- Ukrainska politikern: ”Zelenskyj borde byta ut hela sin regering” - Dagens Nyheter
-- Fler ryska attacker mot Ukraina i november - Västerbottens-Kuriren
-- Oväntade draget – så ska hon leda förarlösa racet - SvD
-- Ica-butiker ändrade priser i samband med PRO-undersökningen - Dagligvarunytt
-- Aktien har backat 30 procent – Affärsvärlden ser köpläge för den som tål risk - Börskollen
+- Friska Julia föll ihop i skolan – var dödssjuk - GP
+- Tuffare straff för drönarbrott – böter och fängelse - Västerbottens-Kuriren
+- DN Direkt – Elevassistenter extra våldsutsatta i skolan - Dagens Nyheter
+- Det googlade vi på 2025 - Dagens Nyheter
+- Gängens osynliga gräns delar Biskopsgården i Göteborg - Dagens Nyheter
+- Putin står fast: Ska ta Donbass med våld - Dagens Nyheter
+- Grönt ljus för eftermiddagsöl i Thailand - Sydsvenskan
+- Putin åker till Indien: Ska lobba för oljeexport - Omni
+- Sverker Olofsson först ut i polisens kampanj mot äldrebedrägerier - Polisen.se
 - Torsten Jansson avslöjar sina favoritaktier - Dagens PS
-- Analytiker: Microsoft måste sluta hajpa ”Copilot+”-datorer - Computer Sweden
+- Oväntade draget – så ska hon leda förarlösa racet - SvD
+- Aktien har backat 30 procent – Affärsvärlden ser köpläge för den som tål risk - Börskollen
+- Ica-butiker ändrade priser i samband med PRO-undersökningen - Dagligvarunytt
 - TEST: Smarta klockor – den ska du satsa på - Aftonbladet
+- Viaplay gör realityserie i Åre - Västerbottens-Kuriren
 
 ## World News
 
@@ -53,22 +53,22 @@ _Updated: 2025-12-04 09:42_
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Agroz Inc. Announces Launch of Agroz Robotics with UBTECH to Integrate AI-Robotics Technology into Farm Operating System - Placera.se
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
+- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 
 ## Business
@@ -78,21 +78,21 @@ _Updated: 2025-12-04 09:42_
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -104,10 +104,10 @@ _Updated: 2025-12-04 09:42_
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
