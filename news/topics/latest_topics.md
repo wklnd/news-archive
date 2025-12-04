@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 04:23_
+_Updated: 2025-12-04 05:41_
 
 ## Top Stories
 
-- Tomas Ramberg: I sin frånvaro blev Kristersson duellens förlorare - Dagens Nyheter
+- DN Direkt – Åkesson och Andersson i debatt om trollfabriker - Dagens Nyheter
 - Jimmie Åkesson: S lurar ungdomar – trollfabrik på riktigt - SVT Nyheter
-- Maduro om Trump-samtal: Hjärtligt - GP
-- Norge och Storbritannien ska jaga ryska ubåtar - GP
-- Frisörens plan för massmord: ”Ska döda alla” - Aftonbladet
-- Så vill EU säkra miljardstöd till Ukraina - Dagens Nyheter
-- Barndomstrauma ger svårare förlossning - Västerbottens-Kuriren
+- Maduro om Trump-samtal: Hjärtligt - SvD
+- FN:s generalförsamling: Återför ukrainska barn - GP
+- Bättre ekonomi för flertalet 2026 - Statistikmyndigheten SCB
+- S vill kalla in FN-organisationer – ”Forssell står med byxorna nere” - Dagens Nyheter
 - Man död efter bilolycka – körde in i träd - SVT Nyheter
-- Nya byggregler underlättar för fastighetsägare - Arvika Nyheter
+- Barndomstrauma ger svårare förlossning - Västerbottens-Kuriren
 - Äldre får stärkt högkostnadsskydd för tandvård - GP
-- Nya bilder från Epsteins ö släppta - Hufvudstadsbladet
+- Nya byggregler underlättar för fastighetsägare - Arvika Nyheter
 - Sigrid Melchior: Så ska frysta ryska miljarder skickas till Ukraina - Dagens Nyheter
 - Trump om mötet i Moskva: "Ganska bra" - Västerbottens-Kuriren
-- Påven: ”Jag funderade på att gå i pension, men jag överlämnar mig till Guds plan” - Vatican News
+- Arnfinn Nesset är död – var nors seriemördare - Aftonbladet
+- 03 december 19.29, Bedrägeri, Västerbottens län - polisen.se
+- Åldersgräns på sociala medier avfärdas av forskare - Dagens Arena
 - Stor kartläggning: De drar in miljoner på aktietips - Dagens industri
-- Många Åmålsbor lär bli utan Grebbestads ansjovis i sin Jansson – men det finns alternativ - provinstidningen.se
-- EU sjösätter strategi för sällsynta jordartsmetaller - METALLERochGRUVOR.se
+- Arbetsförmedlingen om fiaskot med etableringsjobb: ”Upplevs som svårt” - Arbetet
 - Läkemedels­verket avslutar tillsyn av Millennium - Läkartidningen
 - Tio tusen år gamla genom ändrar bilden av människans evolution - Uppsala universitet
 - Steam och Epic Games vägrar sälja nytt kontroversiellt skräckspel - MovieZine.se
@@ -29,47 +29,47 @@ _Updated: 2025-12-04 04:23_
 
 - V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kroll Elevates Global MDR Services, Migrating Protection to CrowdStrike Falcon Complete Next-Gen MDR - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - LaSalle announces global leadership transition - Placera.se
-- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - Waterdrop Wins 2025 Global Best Case Brands Award, Empowering Inclusive Protection Through Technological Innovation - Placera.se
-- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Ascendion Wins Gold as the Artificial Intelligence Service Provider of the Year in 2025 Globee® Awards (PR Newswire) - Aktiellt
-- Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
+- Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
-- Altair's AI-Powered Engineering in 100 Use Cases (PR Newswire) - Aktiellt
+- Agroz Inc. Announces Launch of Agroz Robotics with UBTECH to Integrate AI-Robotics Technology into Farm Operating System - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
-- XTransfer: Pioneering AI-Driven Transformation in B2B Foreign Trade Payment (PR Newswire) - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
+- Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -138,18 +138,17 @@ _Updated: 2025-12-04 04:23_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
@@ -157,8 +156,9 @@ _Updated: 2025-12-04 04:23_
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
