@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 21:40_
+_Updated: 2025-12-04 22:46_
 
 ## Top Stories
 
-- Tuffare villkor för brottslingar som inte kan utvisas - Dagens Nyheter
-- Ung man svårt skadad efter misshandel i Gröndal - SVT Nyheter
+- 04 december 19.02, Mord/dråp, försök, Stockholm - polisen.se
+- Ökända gängtoppen Denho Acar i exklusiv intervju med NWT: ”Vad fan är det frågan om? - NWT
 - Malmer Stenergard: ”Hoppas de anhöriga får veta vad som hänt” - SVT Nyheter
-- Elevassistenter särskilt utsatt grupp – så ska hot- och våldsincidenterna minska i Stockholm - Cision News
-- "Gudalandets" ledare fängslas efter dödshoten - GP
+- Äldre man beskjuten med grön laser i Göteborg - SVT Nyheter
 - Krigshoten mot Venezuela: Så ser drogernas väg till USA ut i verkligheten - Dagens Nyheter
+- Fackförbund utsatt för cyberattack - GP
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
-- Stoppar bidrag till kyrka efter Säpos larm - GP
-- Nya S-toppen om ”tvångsblandningen”: Desperat skrämselpropaganda - Dagens Nyheter
-- Flera frihetsberövade i polisinsats mot kriminellt nätverk - polisen.se
+- Stoppar bidrag till kyrka efter Säpos larm - SVT Nyheter
+- Liga åtalas för Pokémonstöld - Västerbottens-Kuriren
+- Tuffare villkor för brottslingar som inte kan utvisas - Dagens Nyheter
 - Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
-- Flera israeliska flygräder i Libanon: ”Slog till mot vapenlager” - Dagens Nyheter
-- DN Direkt – Efter fem års utredning – man gripen för rörbomber utanför Kapitolium - Dagens Nyheter
 - Hamaskritisk klanledare dödad i Gaza - Västerbottens-Kuriren
-- Svensk inflation lägre än väntat i november - Morningstar Canada
+- Direkt – Kriget i Ukraina – USA stöder FN:s krav på Ryssland att återlämna ukrainska barn - Dagens Nyheter
+- Över 1 500 döda efter skyfall – hundratals saknas - GP
+- Inflationen sjunker: "Dörren inte stängd för räntesänkning" - Placera.se
 - Busch: Höjda elnätsavgifter ska granskas - SvD
-- Brakförlust för Soho house – sågas hårt - Expressen
-- Affärsvärlden ger rådet att inte teckna i Wesports - Placera.se
+- Tondövhet gör att många nya företag kraschar - Dagens PS
+- WESPORTS NOTERAS INTE TILL NÅGOT FYNDPRIS, TECKNA EJ - AFV - Placera.se
 - Nelson, 9, älskar att virka – köper garn för hela månadspengen - Vimmerby Tidning
 - Galaxy Watch 6-serien börjar få Wear OS 6 - mobil.se
 
 ## World News
 
-- V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
+- Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Alibaba International Releases the World's First AI Agent for Global Trade (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- KVP International Strengthens Its Global Position with Rapid EU and Latin America Expansion (PR Newswire) - Aktiellt
 - LaSalle announces global leadership transition - Placera.se
-- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Agroz Inc. Announces Launch of Agroz Robotics with UBTECH to Integrate AI-Robotics Technology into Farm Operating System - Placera.se
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
+- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
+- Agroz Inc. Announces Launch of Agroz Robotics with UBTECH to Integrate AI-Robotics Technology into Farm Operating System - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -152,8 +152,8 @@ _Updated: 2025-12-04 21:40_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
