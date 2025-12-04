@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-04 17:53_
+_Updated: 2025-12-04 18:59_
 
+- Lawmakers will hear from Navy admiral who ordered attack that killed boat strike survivors - AP News
 - FBI arrests suspect in 2021 D.C. pipe bomb case, sources say - CBS News
-- What to know about Adm. 'Mitch' Bradley, commander at the center of boat strike controversy - ABC News
-- Trump 'garbage' rhetoric about Somalis draws cheers from administration, silence from Republicans and alarm from critics - Reuters
-- A triple-dip Polar vortex is coming. Will your state feel the chill? - USA Today
+- Ilhan Omar says Trump attacks on Somali immigrants 'deflect attention' from scrutiny - NPR
 - The New York Times sues the Pentagon over press restrictions - The Washington Post
-- Ukraine and US negotiators to meet in Florida after Moscow talks, White House says - BBC
-- A Volunteer’s Dire Warnings About the National Guard D.C. Shooting Suspect - The New York Times
+- A triple-dip Polar vortex is coming. Will your state feel the chill? - USA Today
+- Gaza militia leader accused of collaborating with Israel killed: Reports - Al Jazeera
+- Schumer announces health care plan - Politico
 - Trump's lawmaker pardon list stretches beyond Henry Cuellar - Axios
-- Safety volunteer charged with manslaughter in shooting of Salt Lake City 'No Kings' protester - NBC News
-- Almost half of Americans say cost of living is ‘worst it’s ever been’, new poll finds – live - The Guardian
-- Trump’s crackdown on Russian oil hangs heavy over Putin visit to India - The Washington Post
-- Trump to Host Congo and Rwanda Leaders for Peace Talks in Persistent Conflict - The New York Times
+- A Volunteer’s Dire Warnings About the National Guard D.C. Shooting Suspect - The New York Times
+- Detainees at ‘Alligator Alcatraz’ facing ‘harrowing human right violations’, new report alleges - The Guardian
+- Ruined Rice Fields and Broken Rail Lines: Sri Lanka Counts Cost of Cyclone - The New York Times
+- Israel strikes Hezbollah targets across southern Lebanon - The Jerusalem Post
 - U.K. sanctions Russia after inquiry finds Putin responsible for nerve agent attack on British soil - CBS News
-- Kenya Kept a Diplomat in His Job Despite Years of Sex Abuse Accusations - The New York Times
+- Emmanuel Macron warns of ‘disintegration’ risk to world order in Xi Jinping meeting - Financial Times
 - Meta’s Zuckerberg Plans Deep Cuts for Metaverse Efforts - Bloomberg.com
+- Paramount Calls WBD Sale Process "Tilted And Unfair" In Letter To CEO David Zaslav - Deadline
 - Tesla gains in 2026 Consumer Reports' auto brand rankings - CNBC
 - U.S. health care is broken. Here are 3 ways it's getting worse - NPR
-- Exclusive: China state-owned banks soak up dollars to slow yuan gains, sources say - Reuters
-- Watch Samsung Build and Stress Test the Galaxy Z TriFold - Droid Life
 - Gruber: Apple employees ‘giddy’ about Alan Dye’s departure - 9to5Mac
+- Watch Samsung Build and Stress Test the Galaxy Z TriFold - Droid Life
