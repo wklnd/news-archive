@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 05:41_
+_Updated: 2025-12-04 06:50_
 
 ## Top Stories
 
 - DN Direkt – Åkesson och Andersson i debatt om trollfabriker - Dagens Nyheter
-- Jimmie Åkesson: S lurar ungdomar – trollfabrik på riktigt - SVT Nyheter
-- Maduro om Trump-samtal: Hjärtligt - SvD
-- FN:s generalförsamling: Återför ukrainska barn - GP
-- Bättre ekonomi för flertalet 2026 - Statistikmyndigheten SCB
-- S vill kalla in FN-organisationer – ”Forssell står med byxorna nere” - Dagens Nyheter
+- Anhöriga anmäler USA – efter Trumps båtbombningar - GP
+- Thailand: Grönt ljus för alkohol på eftermiddagen - GP
+- Maduro: Respektfullt och hjärtligt samtal med Trump - Omni
+- FN:s generalförsamling: Återför ukrainska barn - Västerbottens-Kuriren
+- Macron: Kina har avgörande inflytande om Ukraina - Aftonbladet
 - Man död efter bilolycka – körde in i träd - SVT Nyheter
-- Barndomstrauma ger svårare förlossning - Västerbottens-Kuriren
-- Äldre får stärkt högkostnadsskydd för tandvård - GP
+- Emma Bouvin: Smällen låter som att den kommer från mitt andra liv - Dagens Nyheter
+- Äldre får stärkt högkostnadsskydd för tandvård - Västerbottens-Kuriren
 - Nya byggregler underlättar för fastighetsägare - Arvika Nyheter
-- Sigrid Melchior: Så ska frysta ryska miljarder skickas till Ukraina - Dagens Nyheter
-- Trump om mötet i Moskva: "Ganska bra" - Västerbottens-Kuriren
-- Arnfinn Nesset är död – var nors seriemördare - Aftonbladet
+- Trump om mötet i Moskva: ”Krävs två för att dansa tango” - Hufvudstadsbladet
+- DN Direkt – Demokraterna släpper nya bilder på Epsteins ö - Dagens Nyheter
+- EU vill ge frysta ryska tillgångar Ukraina – trots Belgiens motstånd - GP
 - 03 december 19.29, Bedrägeri, Västerbottens län - polisen.se
-- Åldersgräns på sociala medier avfärdas av forskare - Dagens Arena
-- Stor kartläggning: De drar in miljoner på aktietips - Dagens industri
-- Arbetsförmedlingen om fiaskot med etableringsjobb: ”Upplevs som svårt” - Arbetet
-- Läkemedels­verket avslutar tillsyn av Millennium - Läkartidningen
+- Mats Qvibergs varning: ”Stor risk för krasch” - EFN.se
+- Kopparpriset stiger – men gruvorna hänger inte med - Realtid
+- Fords nya FP800S låter historien mullra igen - Dagens PS
+- Källor: Wall Street varnar för Trump-rådgivaren - Omni
+- Analytiker: Microsoft måste sluta hajpa ”Copilot+”-datorer - Computer Sweden
 - Tio tusen år gamla genom ändrar bilden av människans evolution - Uppsala universitet
-- Steam och Epic Games vägrar sälja nytt kontroversiellt skräckspel - MovieZine.se
 
 ## World News
 
 - V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - LaSalle announces global leadership transition - Placera.se
-- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - Waterdrop Wins 2025 Global Best Case Brands Award, Empowering Inclusive Protection Through Technological Innovation - Placera.se
+- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
+- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
+- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
+- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -143,12 +143,13 @@ _Updated: 2025-12-04 05:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
@@ -156,9 +157,8 @@ _Updated: 2025-12-04 05:41_
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
