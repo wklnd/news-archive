@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-04 01:39_
+_Updated: 2025-12-04 04:23_
 
 ## Top Stories
 
-- DN Direkt – Åkesson och Andersson i debatt om trollfabriker - Dagens Nyheter
-- Formell protest mot USA – colombiansk man dödades - Ystads Allehanda
+- Tomas Ramberg: I sin frånvaro blev Kristersson duellens förlorare - Dagens Nyheter
 - Jimmie Åkesson: S lurar ungdomar – trollfabrik på riktigt - SVT Nyheter
-- Putin: Pokrovsk tagen – ”psykologisk krigföring” - SvD
-- Dubbla förslag om miljardlån till Ukraina - SvD
-- S vill kalla in FN-organisationer – ”Forssell står med byxorna nere” - Dagens Nyheter
+- Maduro om Trump-samtal: Hjärtligt - GP
+- Norge och Storbritannien ska jaga ryska ubåtar - GP
+- Frisörens plan för massmord: ”Ska döda alla” - Aftonbladet
+- Så vill EU säkra miljardstöd till Ukraina - Dagens Nyheter
 - Barndomstrauma ger svårare förlossning - Västerbottens-Kuriren
-- Polisen börjar nätpatrullera i spelvärlden - GP
+- Man död efter bilolycka – körde in i träd - SVT Nyheter
 - Nya byggregler underlättar för fastighetsägare - Arvika Nyheter
-- DN Direkt – Äldre får stärkt högkostnadsskydd för tandvård - Dagens Nyheter
+- Äldre får stärkt högkostnadsskydd för tandvård - GP
+- Nya bilder från Epsteins ö släppta - Hufvudstadsbladet
+- Sigrid Melchior: Så ska frysta ryska miljarder skickas till Ukraina - Dagens Nyheter
 - Trump om mötet i Moskva: "Ganska bra" - Västerbottens-Kuriren
 - Påven: ”Jag funderade på att gå i pension, men jag överlämnar mig till Guds plan” - Vatican News
-- 03 december 19.29, Bedrägeri, Västerbottens län - Polisen.se
-- Överenskommelse om rödgrön statsbudget i Norge - SVT Nyheter
-- Mats Qvibergs varning: ”Stor risk för krasch” - EFN
-- Kryptoraketer faller tungt – ”en ond cirkel” - SvD
-- Kopparn fortsätter att stiga - nu över 11 500 dollar - Börsvärlden
-- Stor kartläggning: De drar in miljoner på aktietips - DI
+- Stor kartläggning: De drar in miljoner på aktietips - Dagens industri
+- Många Åmålsbor lär bli utan Grebbestads ansjovis i sin Jansson – men det finns alternativ - provinstidningen.se
+- EU sjösätter strategi för sällsynta jordartsmetaller - METALLERochGRUVOR.se
+- Läkemedels­verket avslutar tillsyn av Millennium - Läkartidningen
 - Tio tusen år gamla genom ändrar bilden av människans evolution - Uppsala universitet
-- Förändringar i regelverk för rapportering av vårdkontakter - Vårdgivarguiden
+- Steam och Epic Games vägrar sälja nytt kontroversiellt skräckspel - MovieZine.se
 
 ## World News
 
 - V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kroll Elevates Global MDR Services, Migrating Protection to CrowdStrike Falcon Complete Next-Gen MDR - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - PEPSICO® ANNOUNCES LANDMARK GLOBAL PARTNERSHIP WITH MERCEDES-AMG PETRONAS F1 TEAM FOR 2026 - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - LaSalle announces global leadership transition - Placera.se
+- From Bangkok to the World: Aura Bangkok Clinic Showcases International Standards in Aesthetic Care (PR Newswire) - Aktiellt
 - Waterdrop Wins 2025 Global Best Case Brands Award, Empowering Inclusive Protection Through Technological Innovation - Placera.se
+- World Phygital Community Unveils Global Advisory Council to Shape the Future of Phygital Sport - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-04 01:39_
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- PVH Corp. Announces CFO Transition - Placera.se
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
