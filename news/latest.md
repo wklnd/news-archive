@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-05 20:54_
+_Updated: 2025-12-05 21:48_
 
+- Supreme Court agrees to decide if Trump may end birthright citizenship - CNN
+- Who is the Jan. 6 pipe bomb suspect? And, lawmakers see video of deadly boat strike - NPR
 - Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack - The New York Times
-- Accused DC pipe bomber told FBI he believed the 2020 election was stolen, sources say - CNN
-- Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James - NPR
-- Trump administration National Security Strategy claims Europe facing "civilizational erasure" within 20 years - CBS News
-- Triple polar vortex sends temperatures plunging in central and eastern U.S. as 1st Arctic cold blast moves in - Yahoo
+- Judge will release Jeffrey Epstein grand jury documents - Axios
 - Video shows Luigi Mangione says he didn't want to talk. Police kept asking questions - NPR
-- Donald Trump: American president named inaugural Fifa Peace Prize winner - BBC
-- Trump-allied PACs target Indiana Republicans blocking redistricting push - Politico
-- CDC advisers delay planned vote on hepatitis B vaccine for infants : Shots - Health News - NPR
-- Trump can fire labor, employment board members without cause: Appeals court - CNBC
-- Putin vows oil shipments to India will be ‘uninterrupted’ in defiance of US - The Guardian
-- Prominent Anti-Hamas Militia Leader Killed in Gaza - The Wall Street Journal
-- Stunning treasure trove discovered in ancient Egyptian tomb rewrites history - Daily Mail
-- The ‘Cocaine Superhighway’ Fueled by the U.S. Focus on Fentanyl - The New York Times
+- Indiana House passes new Republican-drawn congressional map - NBC News
+- Supreme Court upholds Texas congressional map, a win for Trump administration - Dallas News
+- Judges lash out at Justice Department for still listing Lindsey Halligan on court documents - CNN
+- Minnesota Somalis fearful but defiant after Trump insults, ICE surge - Reuters
+- Trump administration says Europe faces 'civilisational erasure' - BBC
+- Putin in India: What did Putin and Modi get out of Delhi meeting? - BBC
+- Diamond-encrusted Faberge egg recovered by police 6 days after man allegedly swallowed it - CBS News
+- Treasure trove found in Egyptian tomb solves long-standing mystery of who was buried there - CBS News
+- How the U.S. Focus on Fentanyl Helped Fuel the Cocaine Trade’s Resurgence - The New York Times
 - Trump officials rail against $140 million E.U. fine on Elon Musk’s X - The Washington Post
-- New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work - The New York Times
 - S&P 500 gains for a fourth day, nears record after light inflation reading: Live updates - CNBC
-- Kill Baby Kill: Trump rolls back US fuel economy standards calling it 'green new scam' - Times of India
+- Paramount Skydance offered $30/share for Warner Bros. Discovery - report (WBD:NASDAQ) - Seeking Alpha
+- FACT FOCUS: Trump said weaker gas mileage rules will mean cheaper cars. Experts say don't bet on it - AP News
 - Discord launches ‘Checkpoint 2025’: A full-year recap feature for users; here’s how to see your Discord wr - The Economic Times
-- Alan Dye Was in Tim Cook’s Blind Spot - Daring Fireball
+- Where the hell is Samsung's Ballie robot? - Engadget
