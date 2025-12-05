@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-05 21:48_
+_Updated: 2025-12-05 22:51_
 
-- Supreme Court agrees to decide if Trump may end birthright citizenship - CNN
-- Who is the Jan. 6 pipe bomb suspect? And, lawmakers see video of deadly boat strike - NPR
-- Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack - The New York Times
-- Judge will release Jeffrey Epstein grand jury documents - Axios
-- Video shows Luigi Mangione says he didn't want to talk. Police kept asking questions - NPR
+- 2026 FIFA Men's World Cup draw groups set as USA to face Paraguay, Australia and UEFA playoff winner - CBS News
+- Supreme Court to decide legality of Trump move to limit birthright citizenship - Reuters
+- Accused DC pipe bomber told FBI he believed the 2020 election was stolen, sources say - CNN
+- Judge Approves Release of Epstein Grand Jury Documents in Florida Case - The New York Times
+- Trump's security strategy slams European allies and asserts U.S. power in the Americas - NPR
 - Indiana House passes new Republican-drawn congressional map - NBC News
-- Supreme Court upholds Texas congressional map, a win for Trump administration - Dallas News
+- Donald Trump: US president named inaugural Fifa Peace Prize winner - BBC
+- ‘The national make-or-break issue of the year’: Redistricting fight gets reset after Trump’s Supreme Court win - Politico
 - Judges lash out at Justice Department for still listing Lindsey Halligan on court documents - CNN
-- Minnesota Somalis fearful but defiant after Trump insults, ICE surge - Reuters
-- Trump administration says Europe faces 'civilisational erasure' - BBC
+- Ilhan Omar says Trump made racist anti-Somali tirade because he ‘knows he is failing’ - The Guardian
 - Putin in India: What did Putin and Modi get out of Delhi meeting? - BBC
 - Diamond-encrusted Faberge egg recovered by police 6 days after man allegedly swallowed it - CBS News
 - Treasure trove found in Egyptian tomb solves long-standing mystery of who was buried there - CBS News
 - How the U.S. Focus on Fentanyl Helped Fuel the Cocaine Trade’s Resurgence - The New York Times
 - Trump officials rail against $140 million E.U. fine on Elon Musk’s X - The Washington Post
-- S&P 500 gains for a fourth day, nears record after light inflation reading: Live updates - CNBC
-- Paramount Skydance offered $30/share for Warner Bros. Discovery - report (WBD:NASDAQ) - Seeking Alpha
+- David Ellison's hunt for WBD made David Zaslav richer — and it may not be over - CNBC
 - FACT FOCUS: Trump said weaker gas mileage rules will mean cheaper cars. Experts say don't bet on it - AP News
+- Personal Income and Outlays, September 2025 - Bureau of Economic Analysis (BEA) (.gov)
+- Most iPhone 17 Screen Protectors Could Break A New Display Feature - bgr.com
 - Discord launches ‘Checkpoint 2025’: A full-year recap feature for users; here’s how to see your Discord wr - The Economic Times
-- Where the hell is Samsung's Ballie robot? - Engadget
