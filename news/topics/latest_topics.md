@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 18:50_
+_Updated: 2025-12-05 19:42_
 
 ## Top Stories
 
 - Sverige fasar ut bistånd – ambassader stängs - Västerbottens-Kuriren
-- Trumps officiella strategi pekar ut Europa som en kontinent på väg att ”utraderas” - Dagens Nyheter
-- Varning för plötslig ishalka i flera län - SVT Nyheter
+- Notorisk Lundasnattare vägrar sluta: ”Jag måste kunna överleva” - Sydsvenskan
+- SMHI:s larm: 400 kilometer isbälte - Expressen
 - 52-åriga kvinnan hann namnge sin egen misstänkte mördare - Aftonbladet
 - Kraftig explosion i Johanneberg - GP
-- TV: En person hittad död i brinnande villan - Tidningen Ångermanland
-- Politiska vildar startar nytt vänsterparti - Västerbottens-Kuriren
+- Analysen: Minst 60 000 tros ha dödats i massakern i al-Fashir, Sudan - GP
 - Kockar och mat fastnade i hiss – dagar innan Nobelfesten - Dagens Nyheter
 - Man hittad död i bostad i Visby – polisen startar brottsutredning - Helagotland
+- Politiska vildar startar nytt vänsterparti - Västerbottens-Kuriren
 - Då kan du få fängelse för att flyga med drönare - GP
+- Michael Winiarski: Trumps USA-strategi helt i Putins smak - Dagens Nyheter
 - Uppgifter: USA vill lämna över Natoansvar 2027 - Västerbottens-Kuriren
+- Ballonger får Litauen att utlysa nationell kris - Aftonbladet
 - Källor: USA vill hindra att EU tar ryska miljarder - Hufvudstadsbladet
-- Värnplikt tillbaka i Tyskland – svaret på ryska hotet - Dagens PS
-- ”Exempellös” framgång för Ukraina i Ryssland - Expressen
 - Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
-- Ny Elon-chef får gå efter skandalerna - Dagens Handel
 - Miljardbot för Elon Musks X i EU - Dagens industri
 - Freetrailer: Rullar ut i Europa - Affärsvärlden
+- Ny Elon-chef får gå efter skandalerna - Dagens Handel
 - Proton lanserar totalsträckskrypterad Excel-utmanare - Computer Sweden
 - 3 av 10 går vilse trots GPS – ny Novus-rapport visar stort kartkunskapsglapp - Hällekiskuriren
 
@@ -29,6 +29,7 @@ _Updated: 2025-12-05 18:50_
 
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
@@ -38,15 +39,14 @@ _Updated: 2025-12-05 18:50_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- Kroll Elevates Global MDR Services, Migrating Protection to CrowdStrike Falcon Complete Next-Gen MDR - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- S&P Global Introduces S&P Global Energy (PR Newswire) - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
-- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -81,7 +81,6 @@ _Updated: 2025-12-05 18:50_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
@@ -90,9 +89,10 @@ _Updated: 2025-12-05 18:50_
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-05 18:50_
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
