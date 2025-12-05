@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 08:54_
+_Updated: 2025-12-05 09:41_
 
 ## Top Stories
 
 - Explosion i Göteborg – gärningsperson på fri fot - Dagens Nyheter
 - Pål Jonsson: USA är tydliga med att artikel fem gäller - Dagens Nyheter
 - Avhopparen lämnade gängvåldet bakom sig: ”Biskops är för blodigt” - Dagens Nyheter
-- Max IV räddas i sista stund – får pengar till hyra och el - Sydsvenskan
 - 04 december 19.02, Mord/dråp, försök, Stockholm - Polisen.se
-- Intensivt hjälparbete efter översvämningarna i Asien - Örebronyheter
-- Liga åtalas för Pokémonstöld - Folkbladet
+- Eritreansk kyrka får bidragen indragna efter Säpolarm - Omni
+- Tuffare villkor för brottslingar som inte kan utvisas - Dagens Nyheter
+- Misstänkt mord i Borlänge - SVT Nyheter
 - Två anhållna för stöld på 4H-gården Skälby – skulle ”klappa djuren” - SVT Nyheter
-- Vandelskrav minskar tilliten och ökar misstron - Altinget.se
 - Pressträff om grundlagsändringar på fri- och rättighetsområdet - Regeringen.se
+- 05 december 07.20, Sammanfattning natt, Norrbottens län - Polisen.se
 - Kravet från demokraterna: Publicera klipp på attack mot knarkbåt - Hufvudstadsbladet
 - Texas får grönt ljus för Trumpvänlig valkarta - Västerbottens-Kuriren
+- Över 1 500 döda efter skyfall – hundratals saknas - GP
 - Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
-- Washington minskar pressen på ryska Lukoil - GP
-- Inflationen sjunker: "Dörren inte stängd för räntesänkning" - Placera.se
-- Blandat i Asien – ”Kinas Nvidia” tokrusar i börsdebut - EFN.se
-- Busch: Höjda elnätsavgifter ska granskas - SvD
-- Källor: Netflix på väg att köpa HBO Max - SVT Nyheter
-- 45 kvadratmeter stor stuga i Tärnaby såld - Folkbladet
+- Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
+- Vattenfall höjer nätavgiften – och lovar färre strömavbrott - Mitt i
+- ”Kinas Nvidia” rusar flera hundra procent i börsdebut - Dagens industri
+- Svensk inflation lägre än väntat i november - Morningstar Canada
 - Apple tar bort nattporträtt i Iphone 17 Pro - Macworld.se
+- 45 kvadratmeter stor stuga i Tärnaby såld - Folkbladet
 
 ## World News
 
-- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- LaSalle announces global leadership transition - Placera.se
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-12-05 08:54_
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
-- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
+- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
-- The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
-- PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
+- BRG Welcomes Former Accenture AI Lead Peter Smith to Enhance Firmwide AI Strategy and Client Technology Solutions (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2025-12-05 08:54_
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
 - Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Wells Fargo Bank Decreases Prime Rate to 3.25 Percent - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -119,45 +119,45 @@ _Updated: 2025-12-05 08:54_
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
