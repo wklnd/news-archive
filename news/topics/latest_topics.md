@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 06:50_
+_Updated: 2025-12-05 07:44_
 
 ## Top Stories
 
 - Explosion i Göteborg – gärningsperson på fri fot - Dagens Nyheter
-- Krigshoten mot Venezuela: Så ser drogernas väg till USA ut i verkligheten - Dagens Nyheter
-- Eritreansk kyrka får bidragen indragna efter Säpolarm - Omni
+- Avhopparen lämnade gängvåldet bakom sig: ”Biskops är för blodigt” - Dagens Nyheter
+- ”Kåtbockarna under porrstjärnan” tar Gävlebocken på sängen - Sydsvenskan
 - Över 1 500 döda efter skyfall – hundratals saknas - GP
 - Man död efter skidolycka i Åre - Aftonbladet
-- Putin står fast: Ska ta Donbass med våld - SvD
-- Liga åtalas för Pokémonstöld - Västerbottens-Kuriren
+- Eritreansk kyrka får bidragen indragna efter Säpolarm - Omni
+- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Vandelskrav minskar tilliten och ökar misstron - Altinget.se
-- Polisen ger polisen tillstånd att bevaka hela kommuner med drönare – i tre månader - SVT Nyheter
-- Resultat trygghetsmätning 2025 - lokalpolisområde Eslöv - Polisen.se
+- Liga åtalas för Pokémonstöld - Västerbottens-Kuriren
+- Pressträff om grundlagsändringar på fri- och rättighetsområdet - Regeringen.se
 - Kravet från demokraterna: Publicera klipp på attack mot knarkbåt - Hufvudstadsbladet
 - Läcka: Europeiska ledare varnar för amerikanskt svek - GP
+- Direkt – Kriget i Ukraina – Washington minskar pressen på ryskt oljebolag - Dagens Nyheter
 - Misstanken: Placerade ut rörbomber före stormningen av Kapitolium - SVT Nyheter
-- Putins ex-general i sällsynt kritik: ”Vi var oförberedda” - Expressen
+- Busch: Höjda elnätsavgifter ska granskas - SvD
+- Inflationen sjunker: "Dörren inte stängd för räntesänkning" - Placera.se
+- Stockholm sticker ut – bopriserna fortsätter stiga - DI
 - Alphabets AI-chipstrategi omformar kampen om halvledardominans - Invezz
-- Elon-härvan kan drabba norska världsstjärnan - SvD
-- AKTIEUPPGÅNG EFTER TRUMPS SÄNKTA UTSLÄPPSKRAV MOT SEKTORN - Placera.se
-- Regeringen påskyndar utbyggnaden av laddinfrastruktur - Regeringen.se
-- Här är nya funktionerna som är på väg till Galaxy-ägare - Swedroid
-- Galaxy Watch 6-serien börjar få Wear OS 6 - mobil.se
+- 45 kvadratmeter stor stuga i Tärnaby såld - Folkbladet
+- Apple tar bort nattporträtt i Iphone 17 Pro - Macworld.se
 
 ## World News
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-05 06:50_
 
 ## Business
 
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Wells Fargo Bank Decreases Prime Rate to 3.25 Percent - Placera.se
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-05 06:50_
 
 ## Jordbruk
 
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- PRM v 154.jpg - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
