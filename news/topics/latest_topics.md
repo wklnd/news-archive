@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 17:45_
+_Updated: 2025-12-05 18:50_
 
 ## Top Stories
 
-- Regeringens drag mot gängtopparna - Expressen
-- Varning för plötslig ishalka i flera län - SVT Nyheter
-- Knivskärning på skola i Helsingborg – pojke gripen - HD
-- 52-åriga kvinnan hann namnge sin egen mördare - Aftonbladet
-- Hård kritik mot strypt bistånd: ”Överger” - Västerbottens-Kuriren
+- Sverige fasar ut bistånd – ambassader stängs - Västerbottens-Kuriren
 - Trumps officiella strategi pekar ut Europa som en kontinent på väg att ”utraderas” - Dagens Nyheter
-- Avhoppade V-politiker startar nytt parti - Dagens Nyheter
+- Varning för plötslig ishalka i flera län - SVT Nyheter
+- 52-åriga kvinnan hann namnge sin egen misstänkte mördare - Aftonbladet
+- Kraftig explosion i Johanneberg - GP
+- TV: En person hittad död i brinnande villan - Tidningen Ångermanland
+- Politiska vildar startar nytt vänsterparti - Västerbottens-Kuriren
 - Kockar och mat fastnade i hiss – dagar innan Nobelfesten - Dagens Nyheter
 - Man hittad död i bostad i Visby – polisen startar brottsutredning - Helagotland
-- Region Gotland har skrivit på klimatkontrakt - Region Gotland
+- Då kan du få fängelse för att flyga med drönare - GP
 - Uppgifter: USA vill lämna över Natoansvar 2027 - Västerbottens-Kuriren
-- Värnplikt tillbaka i Tyskland – svaret på ryska hotet - Dagens PS
-- Putin fick varmt välkomnade av Modi – men hur resilient är deras relation egentligen? - Yle
 - Källor: USA vill hindra att EU tar ryska miljarder - Hufvudstadsbladet
-- Ny Elon-chef får gå efter skandalerna - Dagens Handel
-- Strul på internet (igen!) – flera stora sajter ligger nere - Breakit
+- Värnplikt tillbaka i Tyskland – svaret på ryska hotet - Dagens PS
+- ”Exempellös” framgång för Ukraina i Ryssland - Expressen
 - Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
+- Ny Elon-chef får gå efter skandalerna - Dagens Handel
 - Miljardbot för Elon Musks X i EU - Dagens industri
-- Helt galet fynd: Astronomer upptäcker ett 49 miljoner ljusår stort objekt; kan vara det största någonsin - Illustrerad Vetenskap
+- Freetrailer: Rullar ut i Europa - Affärsvärlden
+- Proton lanserar totalsträckskrypterad Excel-utmanare - Computer Sweden
 - 3 av 10 går vilse trots GPS – ny Novus-rapport visar stort kartkunskapsglapp - Hällekiskuriren
 
 ## World News
@@ -32,8 +32,8 @@ _Updated: 2025-12-05 17:45_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- NETFLIX TO ACQUIRE WARNER BROS. FOLLOWING THE SEPARATION OF DISCOVERY GLOBAL FOR A TOTAL ENTERPRISE VALUE OF $82.7 BILLION (Equity Value of $72.0 Billion) - PR Newswire
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -41,12 +41,12 @@ _Updated: 2025-12-05 17:45_
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
-- Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-05 17:45_
 
 ## Business
 
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -106,7 +106,7 @@ _Updated: 2025-12-05 17:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -119,46 +119,46 @@ _Updated: 2025-12-05 17:45_
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
