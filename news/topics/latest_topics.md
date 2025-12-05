@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 23:40_
+_Updated: 2025-12-06 00:42_
 
 ## Top Stories
 
 - Trumps nya doktrin: vill avsätta Kristersson och andra EU-ledare - Arbetet
-- Skistar efter döds- olyckan: ”Ett felskär” - Expressen
-- Hård kritik mot strypt bistånd: ”Överger” - Aftonbladet
+- Polisen om olyckan i Åre: ”Fallit i backen” - Omni
+- Uppgifter: Nya USA-Ukraina-samtal - SVT Nyheter
 - Skotrar genom isen – tre personer i vattnet - Västerbottens-Kuriren
-- Kraftig explosion i Johanneberg - GP
-- Notorisk Lundasnattare vägrar sluta: ”Jag måste kunna överleva” - Sydsvenskan
+- Hård kritik mot strypt bistånd: ”Överger” - Aftonbladet
+- SMHI:s larm: 400 kilometer isbälte - Expressen
+- Polisen inför högerextrema marschen: ”Blir en oro” - Västerbottens-Kuriren
 - Självhypnos kan minska värmevallningar i klimakteriet - Dagens Nyheter
-- Flera myndigheter sågar regeringens förslag om utsläpp av uran - Dagens Nyheter
-- Man hittad död i bostad i Visby – polisen startar brottsutredning - Helagotland
 - Region Gotland har skrivit på klimatkontrakt - Region Gotland
-- Ballonger får Litauen att utlysa nationell kris - Västerbottens-Kuriren
-- Uppgifter: USA vill lämna över Natoansvar 2027 - GP
-- Kvinna bet butiksanställd i Örebro - Expressen
-- Kravet från demokraterna: Publicera klipp på attack mot knarkbåt - Hufvudstadsbladet
-- Teknikkedjans jättemiss – 2 000 varor fick fel pris - Expressen
+- Tvättbjörn siktad utanför Linköping: "Sökinsats igång" - Corren
+- Flera länder oroas av Israels gränsöppning - GP
+- Ballonger får Litauen att utlysa nationell kris - GP
+- Uppgifter: USA vill lämna över Natoansvar 2027 - Västerbottens-Kuriren
+- Uppgifter: Ramzan Kadyrovs hälsoläge fömsämrat - Expressen
+- Teknikkedjans miss – varor fick fel pris - Expressen
+- Vita huset rasar mot EU:s miljardbot till Musks X - Dagens industri
 - ”Kommer aldrig att fungera superperfekt” - SvD
 - Ny Elon-chef får gå efter skandalerna - Dagens Handel
-- Miljardbot för Elon Musks X i EU - Dagens industri
 - Professorns teori ska förklara vad som händer efter döden – anklagas för pseudovetenskap - Dagens Nyheter
-- Samsung kan ta fram en snabbare trådlös laddare - m3.se
+- Nu tar vi spelhelg – i rymden, under havsytan och i Örebro - FZ.se
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2025-12-05 23:40_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
@@ -47,6 +46,7 @@ _Updated: 2025-12-05 23:40_
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-05 23:40_
 
 ## Business
 
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
 - PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Wells Fargo Bank Decreases Prime Rate to 3.25 Percent - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-12-05 23:40_
 ## Jordbruk
 
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
