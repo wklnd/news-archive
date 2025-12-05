@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-05 23:48_
+_Updated: 2025-12-06 00:48_
 
-- 2026 FIFA Men's World Cup groups are set. See the USA matchups and possible "Group of Death." - CBS News
-- Supreme Court to decide legality of Trump move to limit birthright citizenship - Reuters
-- Accused DC pipe bomber told FBI he believed the 2020 election was stolen, sources say - CNN
-- US federal judge orders release of Epstein grand jury materials - The Guardian
-- Second Strike Scrutiny Obscures Larger Question About Trump’s Boat Attacks - The New York Times
+- US Supreme Court agrees to hear case challenging birthright citizenship - BBC
+- What We Know About the Arrest in the D.C. Pipe Bomb Case - The New York Times
+- Exclusive: Boat at center of double-tap strike controversy was meeting vessel headed to Suriname, admiral told lawmakers - CNN
 - Indiana House passes new Republican-drawn congressional map - NBC News
-- Donald Trump: American president named inaugural Fifa Peace Prize winner - BBC
-- ‘The national make-or-break issue of the year’: Redistricting fight gets reset after Trump’s Supreme Court win - Politico
-- Judges lash out at Justice Department for still listing Lindsey Halligan on court documents - CNN
+- Trump's security strategy slams European allies and asserts U.S. power in the Americas - NPR
+- Halligan Continues as U.S. Attorney, Prompting Criticism From Judges - The New York Times
+- Donald Trump: US president named inaugural Fifa Peace Prize winner - BBC
+- The Supreme Court gave Trump a big redistricting win. But the fight is just getting started. - Politico
 - Minnesota Somalis fearful but defiant after Trump insults, ICE surge - Reuters
-- Trump strategy document revives Monroe Doctrine, slams Europe - Reuters
-- Putin visits India, offers "uninterrupted supply" of Russian fuel as Trump tries to curb Moscow's energy sales - CBS News
-- Police 'naturally' recover a $19,000 Fabergé egg swallowed by alleged thief - NBC News
+- US federal judge orders release of Epstein grand jury materials - The Guardian
+- Putin in India: What did Putin and Modi get out of Delhi meeting? - BBC
 - Treasure trove found in Egyptian tomb solves long-standing mystery of who was buried there - CBS News
+- Hong Kong fire: Arrest over petition stirs public debate - BBC
+- Police recover Faberge egg swallowed by suspected thief - DW
 - Trump officials rail against $140 million E.U. fine on Elon Musk’s X - The Washington Post
-- David Ellison's hunt for WBD made David Zaslav richer — and it may not be over - CNBC
-- Personal Income and Outlays, September 2025 - Bureau of Economic Analysis (BEA) (.gov)
+- S&P 500 closes higher, notching four-day win streak and nearing record after light inflation reading - CNBC
 - New York Times sues AI startup for ‘illegal’ copying of millions of articles - The Guardian
-- Discord launches ‘Checkpoint 2025’: A full-year recap feature for users; here’s how to see your Discord wr - The Economic Times
-- Alan Dye Was in Tim Cook’s Blind Spot - Daring Fireball
+- Donald Trump likes Paramount's Larry and David Ellison. Will he try to stop the Netflix-WBD deal for them? - Business Insider
+- Where the hell is Samsung's Ballie robot? - Engadget
+- Chamberlain blocks smart home integrations with its garage door openers — again - The Verge
