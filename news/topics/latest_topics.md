@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 01:40_
+_Updated: 2025-12-05 04:24_
 
 ## Top Stories
 
-- Nazisterna marscherar i Salem igen – florister och antifascister tar striden - ETC.se
+- Explosion i Göteborg – gärningsperson på fri fot - SvD
+- USA: Ny attack mot fartyg i Stilla havet - SVT Nyheter
 - Krigshoten mot Venezuela: Så ser drogernas väg till USA ut i verkligheten - Dagens Nyheter
 - Putin trappar upp russifieringen: ”Utraderar ukrainsk identitet” - Dagens Nyheter
-- Man död efter skidolycka i Åre - Aftonbladet
-- Nu får familjerna veta mer - 8 Sidor
 - Konflikt om storleken på Trumps balsal – presidenten byter arkitekt - Dagens Nyheter
+- Man död efter skidolycka i Åre - Aftonbladet
 - Liga åtalas för Pokémonstöld - Västerbottens-Kuriren
-- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
-- Nya S-toppen om ”tvångsblandningen”: Desperat skrämselpropaganda - Dagens Nyheter
-- Regeringen föreslår nya regler för personer med utvisningsbeslut som inte kan utvisas direkt - Regeringen.se
-- Pressen ökar på USA:s försvarsminister Pete Hegseth - Dagens Nyheter
-- Hamaskritisk klanledare dödad i Gaza - Västerbottens-Kuriren
-- Putin står fast: Ska ta Donbass med våld - GP
-- Direkt – Kriget i Ukraina – USA stöder FN:s krav på Ryssland att återlämna ukrainska barn - Dagens Nyheter
-- Busch: Höjda elnätsavgifter ska granskas - SvD
+- Tuffare villkor för brottslingar som inte kan utvisas - Dagens Nyheter
+- Stoppar bidrag till kyrka efter Säpos larm - SVT Nyheter
+- France 24: Sudans armé har använt kemiska vapen - Aftonbladet
+- Putin: Ska ta Donbass med våld - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Uppgifter: Hamaskritisk klanledare dödad i Gaza - Dagens Nyheter
+- DN Direkt – Efter fem års utredning – man gripen för rörbomber utanför Kapitolium - Dagens Nyheter
+- Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
 - Hon är världens yngsta self-made kvinnliga miljardär - Breakit
 - Inflationen sjunker: "Dörren inte stängd för räntesänkning" - Placera.se
-- Googles starka comeback - SvD
+- Bank of America lyfte europeiska fordonsaktier - DI
+- Regeringen påskyndar utbyggnaden av laddinfrastruktur - Regeringen.se
 - Galaxy Watch 6-serien börjar få Wear OS 6 - mobil.se
 - Nelson, 9, älskar att virka – köper garn för hela månadspengen - Vimmerby Tidning
 
@@ -29,69 +29,69 @@ _Updated: 2025-12-05 01:40_
 
 - Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- V2X Wins $980 Million IDIQ Contract to Support Global Warfighter Test Systems - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- 2025 International MICE Summit (IMS) to convene global leaders as Vision 2030 powers Saudi Arabia's rise as a global hub for business events (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
-- LaSalle announces global leadership transition - Placera.se
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 
 ## Technology
 
 - APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Agroz Inc. Announces Launch of Agroz Robotics with UBTECH to Integrate AI-Robotics Technology into Farm Operating System - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - The Monaco Energy Boat Challenge enters a new era with AI on board (GlobeNewswire) - Aktiellt
+- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
+- The 2025 A.I. Awards Winners Selected (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 
 ## Business
 
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- PVH Corp. Announces CFO Transition - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- Champion Homes Appoints Dave McKinstray as EVP, Chief Financial Officer and Treasurer - Placera.se
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -136,13 +136,14 @@ _Updated: 2025-12-05 01:40_
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
@@ -151,7 +152,6 @@ _Updated: 2025-12-05 01:40_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL
@@ -160,5 +160,5 @@ _Updated: 2025-12-05 01:40_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
