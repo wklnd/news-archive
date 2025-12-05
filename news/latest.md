@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-05 19:49_
+_Updated: 2025-12-05 20:54_
 
-- What We Know About the Arrest in the D.C. Pipe Bomb Case - The New York Times
-- Trump administration says Europe risks 'civilisational erasure', drawing outcry - Reuters
-- US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows - The Guardian
-- Putin in India: What did Putin and Modi get out of Delhi meeting? - BBC
-- Judges lash out at Justice Department for still listing Lindsey Halligan on court documents - CNN
-- Trump’s Approval Rating Dips as Views of His Handling of the Economy Sour - The New York Times
-- Minnesota officials saw signs of massive fraud even before COVID hit - CBS News
-- Trump ventures deeper into anti-immigrant language by calling people from Somalia 'garbage' - AP News
-- Supreme Court allows GOP-backed Texas congressional map - Axios
-- Homeland security head reveals plans to widen US travel ban to more than 30 countries - The Guardian
-- As Hong Kong reckons with worst fire in decades, many see echoes of 2019 - Al Jazeera
+- Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack - The New York Times
+- Accused DC pipe bomber told FBI he believed the 2020 election was stolen, sources say - CNN
+- Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James - NPR
+- Trump administration National Security Strategy claims Europe facing "civilizational erasure" within 20 years - CBS News
+- Triple polar vortex sends temperatures plunging in central and eastern U.S. as 1st Arctic cold blast moves in - Yahoo
+- Video shows Luigi Mangione says he didn't want to talk. Police kept asking questions - NPR
+- Donald Trump: American president named inaugural Fifa Peace Prize winner - BBC
+- Trump-allied PACs target Indiana Republicans blocking redistricting push - Politico
+- CDC advisers delay planned vote on hepatitis B vaccine for infants : Shots - Health News - NPR
+- Trump can fire labor, employment board members without cause: Appeals court - CNBC
+- Putin vows oil shipments to India will be ‘uninterrupted’ in defiance of US - The Guardian
 - Prominent Anti-Hamas Militia Leader Killed in Gaza - The Wall Street Journal
-- China in diplomatic push to isolate Japan in feud over Taiwan issue - NPR
+- Stunning treasure trove discovered in ancient Egyptian tomb rewrites history - Daily Mail
 - The ‘Cocaine Superhighway’ Fueled by the U.S. Focus on Fentanyl - The New York Times
+- Trump officials rail against $140 million E.U. fine on Elon Musk’s X - The Washington Post
 - New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work - The New York Times
-- Elon Musk’s X fined $140 million by European Commission over 'deceptive' blue checkmark and lack of transparency - CNBC
-- Wall St gains as PCE data boosts Fed rate-cut bets - Reuters
-- India withdraws pilot restrictions after largest airline cancels flights and disrupts airports - AP News
+- S&P 500 gains for a fourth day, nears record after light inflation reading: Live updates - CNBC
+- Kill Baby Kill: Trump rolls back US fuel economy standards calling it 'green new scam' - Times of India
 - Discord launches ‘Checkpoint 2025’: A full-year recap feature for users; here’s how to see your Discord wr - The Economic Times
-- Acclaimed Apple designer says he ‘could not be more excited’ for new design era - 9to5Mac
+- Alan Dye Was in Tim Cook’s Blind Spot - Daring Fireball
