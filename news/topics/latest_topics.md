@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 05:39_
+_Updated: 2025-12-05 06:50_
 
 ## Top Stories
 
-- Explosion i Göteborg – gärningsperson på fri fot - SvD
-- USA: Ny attack mot fartyg i Stilla havet - SVT Nyheter
+- Explosion i Göteborg – gärningsperson på fri fot - Dagens Nyheter
 - Krigshoten mot Venezuela: Så ser drogernas väg till USA ut i verkligheten - Dagens Nyheter
-- Konflikt om storleken på Trumps balsal – presidenten byter arkitekt - Dagens Nyheter
 - Eritreansk kyrka får bidragen indragna efter Säpolarm - Omni
 - Över 1 500 döda efter skyfall – hundratals saknas - GP
+- Man död efter skidolycka i Åre - Aftonbladet
+- Putin står fast: Ska ta Donbass med våld - SvD
 - Liga åtalas för Pokémonstöld - Västerbottens-Kuriren
-- Tuffare villkor för brottslingar som inte kan utvisas - Dagens Nyheter
-- France 24: Sudans armé har använt kemiska vapen - Aftonbladet
-- Resultat trygghetsmätning 2025 - lokalpolisområde Eslöv - polisen.se
-- Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
-- Putin står fast: Ska ta Donbass med våld - Dagens Nyheter
+- Vandelskrav minskar tilliten och ökar misstron - Altinget.se
+- Polisen ger polisen tillstånd att bevaka hela kommuner med drönare – i tre månader - SVT Nyheter
+- Resultat trygghetsmätning 2025 - lokalpolisområde Eslöv - Polisen.se
+- Kravet från demokraterna: Publicera klipp på attack mot knarkbåt - Hufvudstadsbladet
+- Läcka: Europeiska ledare varnar för amerikanskt svek - GP
 - Misstanken: Placerade ut rörbomber före stormningen av Kapitolium - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Uppgifter: Hamaskritisk klanledare dödad i Gaza - Dagens Nyheter
-- Hon är världens yngsta self-made kvinnliga miljardär - Breakit
-- Inflationen sjunker: "Dörren inte stängd för räntesänkning" - Placera.se
-- Europeiska bilaktier lyfter på Trumps U-sväng kring bränsleregler - Börsvärlden
+- Putins ex-general i sällsynt kritik: ”Vi var oförberedda” - Expressen
+- Alphabets AI-chipstrategi omformar kampen om halvledardominans - Invezz
+- Elon-härvan kan drabba norska världsstjärnan - SvD
+- AKTIEUPPGÅNG EFTER TRUMPS SÄNKTA UTSLÄPPSKRAV MOT SEKTORN - Placera.se
 - Regeringen påskyndar utbyggnaden av laddinfrastruktur - Regeringen.se
+- Här är nya funktionerna som är på väg till Galaxy-ägare - Swedroid
 - Galaxy Watch 6-serien börjar få Wear OS 6 - mobil.se
-- TEST: Smarta klockor – den ska du satsa på - Aftonbladet
 
 ## World News
 
-- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
-- Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
+- LaSalle announces global leadership transition - Placera.se
+- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
+- The 8th China International Circus Festival Celebrates a Week of World-Class Performances at Hengqin Chimelong - Aktiellt
 
 ## Technology
 
