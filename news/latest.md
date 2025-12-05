@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-06 00:48_
+_Updated: 2025-12-06 01:47_
 
 - US Supreme Court agrees to hear case challenging birthright citizenship - BBC
-- What We Know About the Arrest in the D.C. Pipe Bomb Case - The New York Times
 - Exclusive: Boat at center of double-tap strike controversy was meeting vessel headed to Suriname, admiral told lawmakers - CNN
+- Brian Cole Jr., suspect in D.C. pipe bomb case, believed to be Trump supporter - CBS News
+- Trump strategy document revives Monroe Doctrine, slams Europe - Reuters
 - Indiana House passes new Republican-drawn congressional map - NBC News
-- Trump's security strategy slams European allies and asserts U.S. power in the Americas - NPR
-- Halligan Continues as U.S. Attorney, Prompting Criticism From Judges - The New York Times
-- Donald Trump: US president named inaugural Fifa Peace Prize winner - BBC
-- The Supreme Court gave Trump a big redistricting win. But the fight is just getting started. - Politico
-- Minnesota Somalis fearful but defiant after Trump insults, ICE surge - Reuters
 - US federal judge orders release of Epstein grand jury materials - The Guardian
-- Putin in India: What did Putin and Modi get out of Delhi meeting? - BBC
+- The Supreme Court gave Trump a big redistricting win. But the fight is just getting started. - Politico
+- Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy - AP News
+- Frank Gehry: Legendary US architect dies aged 96 - BBC
+- Gianni Infantino’s Trump problem - Politico
+- Putin and Modi expand India-Russia economic ties in talks in New Delhi - NPR
+- As Hong Kong reckons with worst fire in decades, many see echoes of 2019 - Al Jazeera
 - Treasure trove found in Egyptian tomb solves long-standing mystery of who was buried there - CBS News
-- Hong Kong fire: Arrest over petition stirs public debate - BBC
-- Police recover Faberge egg swallowed by suspected thief - DW
+- Germany: New military service law polarizes society - DW
 - Trump officials rail against $140 million E.U. fine on Elon Musk’s X - The Washington Post
-- S&P 500 closes higher, notching four-day win streak and nearing record after light inflation reading - CNBC
-- New York Times sues AI startup for ‘illegal’ copying of millions of articles - The Guardian
-- Donald Trump likes Paramount's Larry and David Ellison. Will he try to stop the Netflix-WBD deal for them? - Business Insider
+- Personal Income and Outlays, September 2025 - Bureau of Economic Analysis (BEA) (.gov)
+- David Ellison's hunt for WBD made David Zaslav richer — and it may not be over - CNBC
+- Exclusive | SpaceX in Talks for $800 Billion Valuation Ahead of Potential 2026 IPO - The Wall Street Journal
+- Pixel Watch rolling out always-on Media Controls, Timer, & Stopwatch - 9to5Google
 - Where the hell is Samsung's Ballie robot? - Engadget
-- Chamberlain blocks smart home integrations with its garage door openers — again - The Verge
