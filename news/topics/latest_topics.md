@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 07:44_
+_Updated: 2025-12-05 08:54_
 
 ## Top Stories
 
 - Explosion i Göteborg – gärningsperson på fri fot - Dagens Nyheter
+- Pål Jonsson: USA är tydliga med att artikel fem gäller - Dagens Nyheter
 - Avhopparen lämnade gängvåldet bakom sig: ”Biskops är för blodigt” - Dagens Nyheter
-- ”Kåtbockarna under porrstjärnan” tar Gävlebocken på sängen - Sydsvenskan
-- Över 1 500 döda efter skyfall – hundratals saknas - GP
-- Man död efter skidolycka i Åre - Aftonbladet
-- Eritreansk kyrka får bidragen indragna efter Säpolarm - Omni
-- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
+- Max IV räddas i sista stund – får pengar till hyra och el - Sydsvenskan
+- 04 december 19.02, Mord/dråp, försök, Stockholm - Polisen.se
+- Intensivt hjälparbete efter översvämningarna i Asien - Örebronyheter
+- Liga åtalas för Pokémonstöld - Folkbladet
+- Två anhållna för stöld på 4H-gården Skälby – skulle ”klappa djuren” - SVT Nyheter
 - Vandelskrav minskar tilliten och ökar misstron - Altinget.se
-- Liga åtalas för Pokémonstöld - Västerbottens-Kuriren
 - Pressträff om grundlagsändringar på fri- och rättighetsområdet - Regeringen.se
 - Kravet från demokraterna: Publicera klipp på attack mot knarkbåt - Hufvudstadsbladet
-- Läcka: Europeiska ledare varnar för amerikanskt svek - GP
-- Direkt – Kriget i Ukraina – Washington minskar pressen på ryskt oljebolag - Dagens Nyheter
-- Misstanken: Placerade ut rörbomber före stormningen av Kapitolium - SVT Nyheter
-- Busch: Höjda elnätsavgifter ska granskas - SvD
+- Texas får grönt ljus för Trumpvänlig valkarta - Västerbottens-Kuriren
+- Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
+- Washington minskar pressen på ryska Lukoil - GP
 - Inflationen sjunker: "Dörren inte stängd för räntesänkning" - Placera.se
-- Stockholm sticker ut – bopriserna fortsätter stiga - DI
-- Alphabets AI-chipstrategi omformar kampen om halvledardominans - Invezz
+- Blandat i Asien – ”Kinas Nvidia” tokrusar i börsdebut - EFN.se
+- Busch: Höjda elnätsavgifter ska granskas - SvD
+- Källor: Netflix på väg att köpa HBO Max - SVT Nyheter
 - 45 kvadratmeter stor stuga i Tärnaby såld - Folkbladet
 - Apple tar bort nattporträtt i Iphone 17 Pro - Macworld.se
 
 ## World News
 
+- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
+- Jayud Global Logistics Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - JYD - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NovaChargeX Draws Global Attention After Winning World Future Award 2025 (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
-- LaSalle announces global leadership transition - Placera.se
-- Insight Global Exceeds 10 Countries Supported in Latin America (PR Newswire) - Aktiellt
-- The 8th China International Circus Festival Celebrates a Week of World-Class Performances at Hengqin Chimelong - Aktiellt
+- STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -101,12 +101,12 @@ _Updated: 2025-12-05 07:44_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -142,23 +142,23 @@ _Updated: 2025-12-05 07:44_
 
 ## Jordbruk
 
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- PRM v 154.jpg - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
