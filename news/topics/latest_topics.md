@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-05 09:41_
+_Updated: 2025-12-05 10:50_
 
 ## Top Stories
 
-- Explosion i Göteborg – gärningsperson på fri fot - Dagens Nyheter
-- Pål Jonsson: USA är tydliga med att artikel fem gäller - Dagens Nyheter
+- Explosion i Johanneberg – person flydde till fots - GP
+- Murad, 20, sköts till döds – rättegång inleds - Aftonbladet
+- Jonson mötte Hegseth: ”Måste öka tryck på Ryssland” - Omni
 - Avhopparen lämnade gängvåldet bakom sig: ”Biskops är för blodigt” - Dagens Nyheter
-- 04 december 19.02, Mord/dråp, försök, Stockholm - Polisen.se
+- 04 december 19.02, Mord/dråp, försök, Stockholm - polisen.se
 - Eritreansk kyrka får bidragen indragna efter Säpolarm - Omni
-- Tuffare villkor för brottslingar som inte kan utvisas - Dagens Nyheter
 - Misstänkt mord i Borlänge - SVT Nyheter
-- Två anhållna för stöld på 4H-gården Skälby – skulle ”klappa djuren” - SVT Nyheter
+- Vandelskrav minskar tilliten och ökar misstron - Altinget.se
 - Pressträff om grundlagsändringar på fri- och rättighetsområdet - Regeringen.se
-- 05 december 07.20, Sammanfattning natt, Norrbottens län - Polisen.se
+- 05 december 07.20, Sammanfattning natt, Norrbottens län - polisen.se
 - Kravet från demokraterna: Publicera klipp på attack mot knarkbåt - Hufvudstadsbladet
 - Texas får grönt ljus för Trumpvänlig valkarta - Västerbottens-Kuriren
-- Över 1 500 döda efter skyfall – hundratals saknas - GP
-- Stubb i läckt samtal: Kan inte lämna Volodymyr ensam - Hufvudstadsbladet
-- Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
+- Näst sista ur gisslan identifierad - GP
+- Direkt – Kriget i Ukraina – Tyskland skickar stridsflyg till Polen - Dagens Nyheter
+- Netflix på väg att köpa HBO Max - SvD
 - Vattenfall höjer nätavgiften – och lovar färre strömavbrott - Mitt i
 - ”Kinas Nvidia” rusar flera hundra procent i börsdebut - Dagens industri
 - Svensk inflation lägre än väntat i november - Morningstar Canada
+- Trendig digital vardagslyx i Sverige idag - - helahisingen.se
 - Apple tar bort nattporträtt i Iphone 17 Pro - Macworld.se
-- 45 kvadratmeter stor stuga i Tärnaby såld - Folkbladet
 
 ## World News
 
@@ -44,78 +44,78 @@ _Updated: 2025-12-05 09:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- LaSalle announces global leadership transition - Placera.se
 - Aurora World Announces Global Rebrand of Palm Pals® (PR Newswire) - Aktiellt
+- Stanley Black & Decker Appoints Agustin Lopez Diaz as Chief Global Supply Chain Officer - Placera.se
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 
 ## Technology
 
-- APUS Offers New Courses with MIT Computer Science and Artificial Intelligence Lab (CSAIL)-Powered Content on AI - Placera.se
 - LCPC AI Launches Global Strategy to Integrate Blockchain and AI for Trusted Infrastructure (PR Newswire) - Aktiellt
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
+- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
+- Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
-- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
-- BRG Welcomes Former Accenture AI Lead Peter Smith to Enhance Firmwide AI Strategy and Client Technology Solutions (PR Newswire) - Aktiellt
+- PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
+- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- PVH Corp. Announces CFO Transition - Placera.se
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
-- Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Republic Business Credit Supports Growth of Innovative Ice Cream Manufacturer with $1 Million Factoring Facility - Aktiellt
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Equinix Implements Finance Leadership Succession Plan as CFO Keith Taylor Plans to Retire - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
