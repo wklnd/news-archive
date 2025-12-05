@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-05 04:26_
+_Updated: 2025-12-05 05:41_
 
-- Pentagon announces it has killed four men in another boat strike in Pacific - The Guardian
-- FBI arrests Virginia man in Jan. 6 pipe bomb case - The Washington Post
-- Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats - NPR
-- Grand Jury Said to Decline to Re-Indict Letitia James - The New York Times
+- Exclusive: Survivors clinging to capsized boat didn’t radio for backup, admiral overseeing double-tap strike tells lawmakers - CNN
+- Supreme Court Clears Way for Texas to Use Republican-Friendly Redistricting Maps - The New York Times
+- Grand jury rejects DOJ's attempt to revive fraud case against New York AG Letitia James: Sources - ABC News
+- FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan. 6 attack - NPR
 - Signalgate report finds Hegseth potentially put U.S. forces at risk - Axios
-- Florida House barrels ahead on redistricting despite DeSantis' proposed timeline - Politico
+- Signing of the Washington Accords for Peace and Prosperity Between the Democratic Republic of the Congo and Rwanda - U.S. Department of State (.gov)
+- Several people arrested in New Orleans amid ICE ‘siege’: ‘It’s racial profiling’ - The Guardian
 - Mike Johnson scrambles to pass Pentagon bill as GOP ranks seethe - Politico
+- National Guard can stay in D.C. for now, appeals court says - The Washington Post
 - Triple polar vortex to plunge central and eastern U.S. into Arctic cold through mid-December - Yahoo
-- Her Roof Was About to Be Fixed. Then Immigration Agents Showed Up. - The New York Times
-- Modi Rolls Out Red Carpet for Putin, Defying US Pressure - Bloomberg.com
+- Russia's Putin to hold summit talks with India's Modi in Delhi - Reuters
 - Navy deployment marred by friendly fire, lost jets, collision at sea - The Washington Post
 - Amid Russian Sabotage, U.K. Points Finger at Putin Over Novichok Death - The New York Times
 - Australia says the world will follow social media ban as Meta starts blocking teens - Reuters
-- Anonymous A-Listers Lobby Congress Against Netflix-WBD Acquisition - Variety
 - Apple’s executive shake-up continues with departures of general counsel and policy head - TechCrunch
-- Detroit Three struggle in reliability ranking, but two brands are up - The Detroit News
-- Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter - CNBC
+- Kill Baby Kill: Trump rolls back US fuel economy standards calling it 'green new scam' - Times of India
+- Anonymous A-Listers Lobby Congress Against Netflix-WBD Acquisition - Variety
+- TOYOTA GAZOO Racing World Premieres GR GT & GR GT3 - TOYOTA GAZOO Racing
 - Gruber: Apple employees ‘giddy’ about Alan Dye’s departure - 9to5Mac
-- Congress told there needs to be “consequences” for NASA delays amid China’s rise - Ars Technica
-- Antigravity’s 360-degree drone is here to help you forget DJI - The Verge
+- Congress warned that NASA’s current plan for Artemis “cannot work” - Ars Technica
