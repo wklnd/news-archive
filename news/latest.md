@@ -1,13 +1,13 @@
 # Top News Headlines
 
-_Updated: 2025-12-06 05:57_
+_Updated: 2025-12-06 06:50_
 
-- Supreme Court will hear case on Trump’s ban on birthright citizenship - The Washington Post
-- Brian Cole Jr., suspect in D.C. pipe bomb case, believed to be Trump supporter - CBS News
-- Exclusive: Boat at center of double-tap strike controversy was meeting vessel headed to Suriname, admiral told lawmakers - CNN
-- Ten Jolting Takeaways from Trump’s New National Security Strategy - War on the Rocks
-- More than $1.7 million raised for 88-year-old Army veteran working at grocery store - CBS News
+- US Supreme Court agrees to hear case challenging birthright citizenship - BBC
+- Survivors of Sept. 2 boat strike were waving before second attack, sources say - CBS News
+- Trump lays bare his contempt for Europe in blistering new national security plan - CNN
+- Pipe bomb suspect was 'disappointed' in 2020 election results, US attorney says - ABC News
 - HHS changed the name of transgender health leader on her official portrait - NPR
+- More than $1.7 million raised for 88-year-old Army veteran working at grocery store - CBS News
 - The Supreme Court gave Trump a big redistricting win. But the fight is just getting started. - Politico
 - Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy - AP News
 - Mayor-elect Helena Moreno demanding Border Patrol agents change tactics in New Orleans sweeps - NOLA.com
@@ -18,7 +18,7 @@ _Updated: 2025-12-06 05:57_
 - As Hong Kong reckons with worst fire in decades, many see echoes of 2019 - Al Jazeera
 - ‘An attack on all American tech platforms’: Trump admin decries EU fine on Musk’s X - Politico
 - Carvana, CRH, Comfort Systems to join S&P 500 in rebalancing - Yahoo Finance
+- David Ellison's hunt for WBD made David Zaslav richer — and it may not be over - CNBC
 - US Oil Rig Count Stages A Comeback After Last Week's Losses - Crude Oil Prices Today | OilPrice.com
-- Railroads will be allowed to reduce inspections and rely more on technology to spot track problems - AP News
+- New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC - TechCrunch
 - The Apple AirPods 4 with ANC are at their lowest price - The Verge
-- Microsoft's Copilot+ AI PC plan fizzled, but it still served a purpose - Engadget
