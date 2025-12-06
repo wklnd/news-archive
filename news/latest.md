@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-06 04:19_
+_Updated: 2025-12-06 05:33_
 
-- Survivors of Sept. 2 boat strike were waving before second attack, sources say - CBS News
-- US Supreme Court agrees to hear case challenging birthright citizenship - BBC
-- Who is the Jan. 6 pipe bomb suspect? And, lawmakers see video of deadly boat strike - NPR
+- Supreme Court will hear case on Trump’s ban on birthright citizenship - The Washington Post
+- Exclusive: Boat at center of double-tap strike controversy was meeting vessel headed to Suriname, admiral told lawmakers - CNN
 - Trump strategy document revives Monroe Doctrine, slams Europe - Reuters
-- Indiana House passes new Republican-drawn congressional map - NBC News
-- US federal judge orders release of Epstein grand jury materials | Jeffrey Epstein - The Guardian
+- Brian Cole Jr., suspect in D.C. pipe bomb case, believed to be Trump supporter - CBS News
+- More than $1.7 million raised for 88-year-old Army veteran working at grocery store - CBS News
+- HHS changed the name of transgender health leader on her official portrait - NPR
 - The Supreme Court gave Trump a big redistricting win. But the fight is just getting started. - Politico
-- Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy - AP News
-- Biden Says Republicans Aim to Turn L.G.B.T.Q. Identity Into ‘Something Scary’ - The New York Times
-- Republicans have a mess on their hands over health care subsidies - Axios
-- Putin and Modi expand India-Russia economic ties in talks in New Delhi - NPR
+- Vanity Fair and journalist Olivia Nuzzi part ways - NBC News
+- Mayor-elect Helena Moreno demanding Border Patrol agents change tactics in New Orleans sweeps - NOLA.com
+- Florida judge grants DOJ motion to unseal Epstein grand jury transcripts - ABC News
+- Putin vows oil shipments to India will be ‘uninterrupted’ in defiance of US - The Guardian
 - Bolsonaro's eldest son says he'll run for Brazil presidency in 2026 - NBC News
 - Man Who Swallowed Stolen Fabergé Egg Passes It Naturally, Police Say - The New York Times
 - Treasure trove found in Egyptian tomb solves long-standing mystery of who was buried there - CBS News
-- Carvana, CRH, Comfort Systems to join S&P 500 in rebalancing - Yahoo Finance
-- David Ellison's hunt for WBD made David Zaslav richer — and it may not be over - CNBC
 - ‘An attack on all American tech platforms’: Trump admin decries EU fine on Musk’s X - Politico
-- SpaceX to Offer Insider Shares at Record-Setting Valuation - Bloomberg.com
+- Carvana, CRH, Comfort Systems to join S&P 500 in rebalancing - Yahoo Finance
+- Oil climbs to 2-week high on Fed rate-cut signals, supply concerns - Reuters
+- US Oil Rig Count Stages A Comeback After Last Week's Losses - Crude Oil Prices Today | OilPrice.com
 - New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC - TechCrunch
-- Pixel Watch rolling out always-on Media Controls, Timer, & Stopwatch - 9to5Google
+- The Apple AirPods 4 with ANC are at their lowest price - The Verge
