@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 23:38_
+_Updated: 2025-12-07 00:41_
 
 ## Top Stories
 
+- Tuva Råwall vinner finalen i ”Idol” - SVT Nyheter
 - Stökigt vid högerextrem demonstration i Salem - GP
 - Tjernobyl: All strålning blockeras inte - SVT Nyheter
-- 06 december 19.26, Mord/dråp, försök, Boden - polisen.se
-- Här skryter ingen om släktskapet med Trump - SvD
+- Svår influensavåg – tar tillbaka munskydden - SvD
 - Henne vill japanerna ha som kejsarinna – men lagen sätter stopp - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Orbán skickar affärsdelegation till Ryssland - Dagens Nyheter
-- 80-plussare tvingas klippa gräset i Danderyd - Dagens Nyheter
+- Här skryter ingen om släktskapet med Trump - SvD
 - Uppsala: En anhållen för förgiftningar på sjukhus - SVT Nyheter
-- Ny attack med grön laser i Göteborg - SVT Nyheter
-- Sparbanken Nord Sport & simhall – officiellt invigd! - Arvidsjaurs kommun
-- Nytt ballonglarm – Vilnius flygplats stänger - SVT Nyheter
+- 80-plussare tvingas klippa gräset i Danderyd - Dagens Nyheter
+- Socialdemokraterna vill se en tioårspakt för att knäcka gängkriminaliteten - Socialdemokraterna
+- Här vill naziledaren rekrytera oss – ”Vissa får utegångsförbud av sina mammor” - Aftonbladet
+- Nytt ballonglarm – Vilnius flygplats stängde - SVT Nyheter
+- Qatar: Kritiskt ögonblick för vapenvilan - GP
 - Israel slänger ut våldsamma bosättare på Västbanken - Dagens Nyheter
-- Granen pyntad i Betlehem – julfirandet tillbaka - Aftonbladet
-- Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
-- Teknikkedjans miss – varor fick fel pris - Expressen
-- Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
+- Granen pyntad i Betlehem – julfirandet tillbaka - Västerbottens-Kuriren
 - Forskare: Det skapar övervinster i elbolagen - SvD
 - Bråttom för BRF:er att begära tillbaka momspengar - Aftonbladet
+- Tindras utmaning: Max en timmes skärmtid om dagen - Västerbottens-Kuriren
+- Republikaner vill att Trump tar priskrisen på allvar - Omni
 - Lista: Dyraste husen i länet förre månaden - Västerbottens-Kuriren
 - Recension – Hyrule Warriors: Age of Imprisonment Recension - varvat.se
 
@@ -35,16 +35,16 @@ _Updated: 2025-12-06 23:38_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - FIFA delar ut 2025 års fredspris till Trump för handlingar för global enhet i fotboll - Mix Vale
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- PHNOM PENH'S TECHO INTERNATIONAL AIRPORT OPENS: CAMBODIA'S NEW GLOBAL GATEWAY (PR Newswire) - Aktiellt
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
@@ -145,20 +145,20 @@ _Updated: 2025-12-06 23:38_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
