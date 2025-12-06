@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-06 18:51_
+_Updated: 2025-12-06 19:48_
 
-- Trump’s Security Strategy Focuses on Profit, Not Spreading Democracy - The New York Times
-- West Virginians question National Guard deployments after attack on 2 of their own - NPR
+- Russia bombards Ukraine as US says progress made in talks with Kyiv - BBC
+- Unpacking a Trump Twist of the National Security Strategy - Council on Foreign Relations
 - Pressure grows on ‘reckless’ Hegseth as twin scandals engulf Pentagon chief - The Guardian
-- At least 11 killed in South Africa mass shooting - BBC
-- U.S., Ukrainian officials will meet again Saturday on peace plan, say "real progress" depends on Russia - CBS News
-- Texas Democrats face tough choices after map upheld - The Texas Tribune
+- West Virginians question National Guard deployments after attack on 2 of their own - NPR
+- Trump's 'garbage' comment met with disappointment in Somalia - NPR
+- South Africa shooting leaves 12 dead, including young child: Police - Al Jazeera
+- Joe Biden slams Republicans for turning transgender rights into ‘political football’ - The Guardian
 - National parks add Trump's birthday to list of fee-free days and remove MLK Day, Juneteenth - CBS News
-- Russia launches massive attack at Ukraine amid ongoing peace efforts - Euronews.com
-- National Guard member who survived D.C. attack 'slowly healing,' West Virginia's governor says - NBC News
+- Trump administration will expand travel ban to more than 30 countries, Noem says - CNBC
 - Threats pile up as Indiana Republicans confront pressure from Trump on redistricting - AP News
 - Indonesians climb over logs in walk to aid centre as flood deaths exceed 900 - Reuters
-- Sudanese paramilitary drone attack kills 50, including 33 children, doctor group says - NPR
 - ‘No Going Back’: Survivors of Deadly Hong Kong Fire Are in Limbo - The New York Times
+- Sudanese paramilitary drone attack kills 50, including 33 children, doctor group says - NPR
 - Nobel laureate Maria Corina Machado to travel to Oslo to receive peace prize despite threats from Venezuelan leaders - CBS News
 - From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion - CNBC
-- Musk threatens ‘response’ against individuals who imposed €120M X penalty - politico.eu
+- Trump Accounts, Baby Bonds: Giving Directly to Kids Is an Idea Right and Left Could Love - The New York Times
+- Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing - Fortune
 - India caps airfares as IndiGo crisis leaves hundreds stranded for fifth day - Reuters
-- Giving Money Directly to Children Is an Idea the Right and Left Could Love - The New York Times
 - Stop Charging Your Android Watch Daily. Here Are 7 Tips for Longer Battery Life - CNET
-- How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup - Business Insider
+- Engadget review recap: Dell 16 Premium, Nikon ZR, Ooni Volt 2 and more - Engadget
