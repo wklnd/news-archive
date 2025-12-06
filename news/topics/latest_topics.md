@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 22:40_
+_Updated: 2025-12-06 23:38_
 
 ## Top Stories
 
-- DN Direkt – 15 omhändertagna efter motdemonstration - Dagens Nyheter
-- Många döda när migrantbåt kapsejsade - SVT Nyheter
-- 80-plussare tvingas klippa gräset i Danderyd - Dagens Nyheter
-- Malmöbo försökte sätta eld på sin flickvän – döms för sadistiskt våld - Sydsvenskan
-- Orbán skickar affärsdelegation till Ryssland - GP
-- Förskolepersonal åtalas – misstänks ha fotat och gjort AI-barnporr - Aftonbladet
-- Statsministern fördömer Salemmarschen: ”Förfärlig människosyn” - SVT Nyheter
-- En anhållen efter förgiftningarna på Akademiska - GP
-- Ny attack med grön laser i Göteborg - SVT Nyheter
+- Stökigt vid högerextrem demonstration i Salem - GP
 - Tjernobyl: All strålning blockeras inte - SVT Nyheter
+- 06 december 19.26, Mord/dråp, försök, Boden - polisen.se
+- Här skryter ingen om släktskapet med Trump - SvD
+- Henne vill japanerna ha som kejsarinna – men lagen sätter stopp - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Orbán skickar affärsdelegation till Ryssland - Dagens Nyheter
+- 80-plussare tvingas klippa gräset i Danderyd - Dagens Nyheter
+- Uppsala: En anhållen för förgiftningar på sjukhus - SVT Nyheter
+- Ny attack med grön laser i Göteborg - SVT Nyheter
+- Sparbanken Nord Sport & simhall – officiellt invigd! - Arvidsjaurs kommun
 - Nytt ballonglarm – Vilnius flygplats stänger - SVT Nyheter
 - Israel slänger ut våldsamma bosättare på Västbanken - Dagens Nyheter
 - Granen pyntad i Betlehem – julfirandet tillbaka - Aftonbladet
 - Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
 - Teknikkedjans miss – varor fick fel pris - Expressen
-- Spara pengar – genom att tvätta och ladda nattetid - Smålands Dagblad
+- Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
 - Forskare: Det skapar övervinster i elbolagen - SvD
 - Bråttom för BRF:er att begära tillbaka momspengar - Aftonbladet
 - Lista: Dyraste husen i länet förre månaden - Västerbottens-Kuriren
@@ -35,8 +35,8 @@ _Updated: 2025-12-06 22:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - FIFA delar ut 2025 års fredspris till Trump för handlingar för global enhet i fotboll - Mix Vale
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Good News · Senaste nyheterna om trav - Travronden
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
@@ -44,7 +44,7 @@ _Updated: 2025-12-06 22:40_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- 2025 International MICE Summit (IMS) to convene global leaders as Vision 2030 powers Saudi Arabia's rise as a global hub for business events (PR Newswire) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
@@ -74,25 +74,25 @@ _Updated: 2025-12-06 22:40_
 ## Business
 
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- PVH Corp. Announces CFO Transition - Placera.se
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- PVH Corp. Announces CFO Transition - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -153,12 +153,12 @@ _Updated: 2025-12-06 22:40_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- De blev grönsaksodlare tack vare lokalt stöd - Tidningen Land
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
