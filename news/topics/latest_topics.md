@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 15:42_
+_Updated: 2025-12-06 16:40_
 
 ## Top Stories
 
-- Socialdemokraterna vill se en tioårspakt för att knäcka gängkriminaliteten - Socialdemokraterna
+- En person anhållen för förgiftningar på Akademiska sjukhuset i Uppsala - Åklagarmyndigheten
+- DN Direkt – Stök i Salem redan innan marsch inletts - Dagens Nyheter
 - Varnar för plötslig ishalka längs Västerbottenskusten - SVT Nyheter
-- DN Direkt – En anhållen efter sjukhusförgiftningarna - Dagens Nyheter
 - Hård kritik mot Magdalena Anderssons besök i Göteborg - GP
-- LEDARE: Brotten är problemet – inte polisens lista med utsatta områden - Kristianstadsbladet
-- Frivilliga i propellerplan jagar ryska drönare - Dagens Nyheter
-- EM-guld i forskning – nu vill 19-årige Dani inspirera unga att våga tro på sin egen nyfikenhet - Dagens Nyheter
-- Polisen inför högerextrema marschen: ”Blir en oro” - Västerbottens-Kuriren
+- DN Direkt – En anhållen efter sjukhusförgiftningarna - Dagens Nyheter
+- Fredspristagaren Machado kommer till Oslo - GP
+- Socialdemokraterna vill se en tioårspakt för att knäcka gängkriminaliteten - Socialdemokraterna
 - Skotrar genom isen – tre i vattnet - GP
-- En person anhållen efter förgiftningar på Akademiska sjukhuset - SVT Nyheter
-- Flera döda i skjutning i Pretoria - Västerbottens-Kuriren
+- Sparbanken Nord Sport & simhall – officiellt invigd! - Arvidsjaurs kommun
+- DEBATT: Människor ska inte styras med rädsla - Nerikes Allehanda
 - Egypten: Internationell styrka i Gaza snarast - Västerbottens-Kuriren
 - Släppta utan rättegång efter 18 år i eritreanskt fängelse - Dagens Nyheter
-- USA/Ukraina-samtalen fortsätter på lördagen - SVT Nyheter
-- Forskare: Det skapar övervinster i elbolagen - SvD
+- Frivilliga i propellerplan jagar ryska drönare - Dagens Nyheter
+- DN Direkt – HD prövar Trumps order att stoppa födslorätt - Dagens Nyheter
+- AI-trenden för 2026: ”Jag är orolig för mellancheferna” - EFN.se
 - Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
 - 33-åring lever utan smartphone – ägt samma Nokia 3310 i 20 år - Dagens PS
-- Så mycket spenderar svenskarna på julklappar - Dagens Nyheter
+- Forskare: Det skapar övervinster i elbolagen - SvD
 - Indiska astronomer har upptäckt galaxen Alaknanda, som har två markanta spiralarmar - Illustrerad Vetenskap
-- Postal: Bullet Paradise läggs ned en dag efter utannonseringen - FZ.se
+- Stor ändring väntar alla med Samsung-telefon - Marcus Oscarsson
 
 ## World News
 
@@ -74,70 +74,70 @@ _Updated: 2025-12-06 15:42_
 ## Business
 
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
+- Early experiments in accelerating science with GPT-5 - OpenAI
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -160,5 +160,5 @@ _Updated: 2025-12-06 15:42_
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
