@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 01:39_
+_Updated: 2025-12-06 04:17_
 
 ## Top Stories
 
+- ”Konstruktiva” samtal mellan USA och Ukraina fortsätter på lördagen - Dagens Nyheter
 - Polisen om olyckan i Åre: ”Fallit i backen” - Omni
-- Skotrar genom isen – tre i vattnet - GP
 - Ungdomar i protest – efter tyska beskedet - SvD
-- Uppgifter: Nya USA-Ukraina-samtal - SVT Nyheter
-- Sverige fasar ut bistånd till fem länder – pengarna ska gå till Ukraina - Dagens Nyheter
-- SMHI:s larm: 400 kilometer isbälte - Expressen
-- Polisen inför högerextrema marschen: ”Blir en oro” - Västerbottens-Kuriren
-- Självhypnos kan minska värmevallningar i klimakteriet - Dagens Nyheter
+- Trumps officiella strategi pekar ut Europa som en kontinent på väg att ”utraderas” - Dagens Nyheter
+- Skotrar genom isen – tre i vattnet - Västerbottens-Kuriren
+- Flera länder oroas av Israels gränsöppning - Aftonbladet
+- Polisen inför högerextrema marschen: ”Blir en oro” - GP
 - Region Gotland har skrivit på klimatkontrakt - Region Gotland
-- Vill kunna ta gängtoppars medborgarskap - Corren
-- Flera länder oroas av Israels gränsöppning - GP
+- Varning för plötslig ishalka i norra Värmland - NWT
+- Krock mellan personbilar i Boden - Kuriren
 - Misstänkte bombmannen i rätten – fick stöd av familjen - Dagens Nyheter
-- Ballonger får Litauen att utlysa nationell kris - Västerbottens-Kuriren
-- Trumps nya doktrin: vill avsätta Kristersson och andra EU-ledare - Arbetet
-- ”Kommer aldrig att fungera superperfekt” - SvD
-- Teknikkedjans miss – varor fick fel pris - Expressen
-- Vita huset rasar mot EU:s miljardbot till Musks X - Dagens industri
-- Vattenfall höjer nätavgiften – och lovar färre strömavbrott - Mitt i
+- Direkt – Kriget i Ukraina – Ryssland lanserar propagandakanal i Indien - Dagens Nyheter
+- Ballonger får Litauen att utlysa nationell kris - GP
+- Regeringen fasar ut utvecklingsbiståndet till Zimbabwe, Tanzania, Mocambique, Liberia och Bolivia - Regeringen.se
+- Rubio: Böter mot X en attack mot folket - SvD
+- Bidraget höjs till bostadsbolagens laddplatser - Sveriges Allmännytta
+- Lyckoforskaren: Därför blir du olycklig när du äntligen blir ekonomiskt oberoende - Dagens PS
+- Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
+- Samsung kan ta fram en snabbare trådlös laddare - m3.se
 - Professorns teori ska förklara vad som händer efter döden – anklagas för pseudovetenskap - Dagens Nyheter
-- Danska rådet: Ta det lugnt − om du är över 40 - SvD
 
 ## World News
 
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- FIFA delar ut 2025 års fredspris till Trump för handlingar för global enhet i fotboll - Mix Vale
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -46,7 +47,6 @@ _Updated: 2025-12-06 01:39_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - STUDIO PILATES INTERNATIONAL ANNOUNCES FIRST GERMAN STUDIO, ACCELERATING GLOBAL GROWTH - Aktiellt
 - Lingnan University in Hong Kong debuts in THE World University Rankings: Comes 47th globally in International Outlook (PR Newswire) - Aktiellt
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2025-12-06 01:39_
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
 - Pieces Technologies Debuts Advanced Mobile Personal Assistant and Conversational AI for Clinical Documentation - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 - BRG Welcomes Former Accenture AI Lead Peter Smith to Enhance Firmwide AI Strategy and Client Technology Solutions (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2025-12-06 01:39_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - WhiteHorse Finance, Inc. Announces Third Quarter 2025 Earnings Results, Stock Repurchase Program up to $15.0 Million And Declares Quarterly Distribution of $0.25 Per Share - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -106,9 +106,9 @@ _Updated: 2025-12-06 01:39_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -126,8 +126,8 @@ _Updated: 2025-12-06 01:39_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -138,7 +138,7 @@ _Updated: 2025-12-06 01:39_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
