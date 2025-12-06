@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-06 15:48_
+_Updated: 2025-12-06 16:48_
 
 - Texas Democrats face tough choices after map upheld - The Texas Tribune
-- Supreme Court to decide if Trump's birthright citizenship order can stand - Axios
-- Europe will be 'unrecognizable' in 20 years due to immigration, White House strategy document claims - NBC News
-- ‘No Going Back’: Survivors of Deadly Hong Kong Fire Are in Limbo - The New York Times
-- U.S., Ukrainian officials will meet again Saturday on peace plan, say "real progress" depends on Russia - CBS News
+- Trump’s Security Strategy Focuses on Profit, Not Spreading Democracy - The New York Times
 - West Virginians question National Guard deployments after attack on 2 of their own - NPR
+- U.S. and Ukraine hold marathon talks in Miami on Trump's peace plan - Axios
+- NATO fighters scrambled in Poland as Russia bombards Ukraine - ABC News
+- Democrats press for expanding inquiry into Caribbean boat strike - The Washington Post
+- Moreno demands details on 'Catahoula Crunch' as Border Patrol operation continues - NOLA.com
 - National Guard member who survived D.C. attack 'slowly healing,' West Virginia's governor says - NBC News
-- What to Know About New Orleans’s Immigrant Community Amid Trump Crackdown - The New York Times
+- Supreme Court will hear case on Trump’s ban on birthright citizenship - The Washington Post
 - Biden Slams Republicans for Using L.G.B.T.Q. Identity as ‘Political Football’ - The New York Times
-- Boat Strike Survivors Clung to Wreckage for Some 45 Minutes Before U.S. Military Killed Them - The Intercept
-- How a cocktail of rogue storms and climate chaos unleashed deadly flooding across Asia - CNN
-- India's elaborate welcome of Putin strains Western ties - DW
-- EXCLUSIVE: Labour women’s conference plan and locals campaign priorities revealed - LabourList
-- Treasure trove found in Egyptian tomb solves long-standing mystery of who was buried there - CBS News
-- What are India's pilot safety rules that hit IndiGo operations and air travel - Reuters
-- Oil climbs to 2-week high on Fed rate-cut signals, supply concerns By Reuters - Investing.com
-- Volatility Vanishes Across Wall Street Just Before Fed Meeting - Bloomberg.com
+- Indonesians climb over logs in walk to aid centre as flood deaths rise over 900 - Reuters
+- At least 11 killed in South Africa mass shooting - BBC
+- Hong Kong Summons International News Media for Rare Warning - Bloomberg.com
+- Trans women will not be allowed to attend main Labour Women's Conference events - BBC
+- Stock Market News, Dec. 5, 2025: Warner Bros. Rallies on Netflix Deal; Paramount Slides - The Wall Street Journal
+- India caps airfares as IndiGo crisis leaves hundreds stranded for fifth day - Reuters
+- FAA launches investigation into US airlines over flight cuts ordered during the shutdown - AP News
 - Wall St Week Ahead Fed's internal split puts spotlight on Powell's rate guidance, dissents - Reuters
+- Samsung just leaked Galaxy S26 series designs via its software - Android Authority
 - The Apple AirPods 4 with ANC are at their lowest price - The Verge
-- Samsung microSD Card Falls to $0.08 per GB After Skipping Black Friday, the Cheapest Storage Option for Switch and Steam Deck - Kotaku
