@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 12:42_
+_Updated: 2025-12-06 13:38_
 
 ## Top Stories
 
-- S vill ingå tioårspakt med M mot gängen - Dagens Nyheter
 - Expo: Så många väntas delta i nya Salemmarschen - SVT Nyheter
 - Varnar för plötslig ishalka längs Västerbottenskusten - SVT Nyheter
-- Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
-- Osynliga gränser och verkliga hot – livet i delade Biskopsgården - Dagens Nyheter
-- Adna om skräcknatten på demensboendet: "Var rädd för att dö" - GP
+- S vill ingå tioårspakt med M mot gängen - Dagens Nyheter
+- Frivilliga i propellerplan jagar ryska drönare - Dagens Nyheter
+- DN Direkt – Osynliga gränser och verkliga hot – livet i delade Biskopsgården - Dagens Nyheter
+- Tidösamarbete på export – EU:s ytterhöger allt mäktigare - SvD
 - Skotrar genom isen – tre i vattnet - GP
-- En tung strid rasar om de inavlade hundraserna - Dagens Nyheter
+- DEBATT: Människor ska inte styras med rädsla - Nerikes Allehanda
 - 06 december 07.05, Sammanfattning kväll och natt, Hallands län - polisen.se
 - 06 december 07.34, Sammanfattning natt, Norrbottens län - polisen.se
+- Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
 - DN Direkt – Minst tio döda i skjutning i Pretoria - Dagens Nyheter
-- Nya strider mellan Afghanistan och Pakistan - SVT Nyheter
-- Putin använder kidnappade barn för att pressa Ukraina - Sydsvenskan
-- Värnplikt tillbaka i Tyskland – svaret på ryska hotet - Dagens PS
+- Nya Afghanistan/Pakistan-strider - SVT Nyheter
+- Bekräftat: Tredje dag av Ukraina-samtal i USA - Hufvudstadsbladet
 - Forskare: Det skapar övervinster i elbolagen - SvD
 - Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
-- Vita huset rasar mot EU:s miljardbot till Musks X - Dagens industri
-- Unga allt mer oroliga över AI - så gör du för att ligga steget före - Börskollen
+- EU ger Musks X miljardböter - Omni
+- Konkurs i bilbranschen – ny tung aktör faller - Dagens PS
+- Indiska astronomer har upptäckt galaxen Alaknanda, som har två markanta spiralarmar - Illustrerad Vetenskap
 - Proton lanserar totalsträckskrypterad Excel-utmanare - Computer Sweden
-- KRÖNIKA: Jakten pågår för fullt – svårare att hitta riktigt mörker i Skåne - Skånska Dagbladet
 
 ## World News
 
@@ -33,7 +33,8 @@ _Updated: 2025-12-06 12:42_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - FIFA delar ut 2025 års fredspris till Trump för handlingar för global enhet i fotboll - Mix Vale
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
+- 2025 International MICE Summit (IMS) to convene global leaders as Vision 2030 powers Saudi Arabia's rise as a global hub for business events (PR Newswire) - Aktiellt
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -41,7 +42,6 @@ _Updated: 2025-12-06 12:42_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -55,21 +55,21 @@ _Updated: 2025-12-06 12:42_
 - 2024 AI and IoT Technology Market Review: Insights from BCC Research (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Exactech Showcases Groundbreaking Research in AI and Personalized Surgical Technologies (PR Newswire) - Aktiellt
-- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
+- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Hire AI Developers from Hyperlink InfoSystem To Power Businesses With Intelligent Tech Solutions (PR Newswire) - Aktiellt
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
-- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- The 2025 A.I. Awards Winners Selected (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
-- Expert.ai Introduces New AI Solutions to Accelerate Pharma & Life Sciences Innovation (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -104,15 +104,15 @@ _Updated: 2025-12-06 12:42_
 - Johan von Schreeb - Karolinska Institutet
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
@@ -152,13 +152,13 @@ _Updated: 2025-12-06 12:42_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
