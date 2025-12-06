@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 05:54_
+_Updated: 2025-12-06 06:44_
 
 ## Top Stories
 
-- Kanada lyfter Syrien-sanktioner - Västerbottens-Kuriren
 - ”Konstruktiva” samtal mellan USA och Ukraina fortsätter på lördagen - Dagens Nyheter
+- Kanada lyfter Syrien-sanktioner - Västerbottens-Kuriren
 - Skistar efter döds- olyckan: ”Ett felskär” - Expressen
 - Afghanistan och Pakistan i strider - Västerbottens-Kuriren
 - Region Gotland har skrivit på klimatkontrakt - Region Gotland
-- INSÄNDARE: Biståndet cementerar fattigdom – dags att halvera budgeten - Norran
-- Skotrar genom isen – tre i vattnet - GP
+- Sverige fasar ut bistånd till fem länder – pengarna ska gå till Ukraina - Dagens Nyheter
+- Skotrar genom isen – tre i vattnet - Västerbottens-Kuriren
 - Varning för plötslig ishalka i norra Värmland - NWT
-- Polisen inför högerextrema marschen: ”Blir en oro” - Västerbottens-Kuriren
+- Polisen inför högerextrema marschen: ”Blir en oro” - GP
 - Krock mellan personbilar i Boden - Kuriren
 - Flera länder oroas av Israels gränsöppning - Västerbottens-Kuriren
 - Misstänkte bombmannen i rätten – fick stöd av familjen - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Ryssland lanserar propagandakanal i Indien - Dagens Nyheter
-- Ballonger får Litauen att utlysa nationell kris - GP
-- Bidraget höjs till bostadsbolagens laddplatser - Sveriges Allmännytta
+- Ryska hotet mot EU- toppkvinnorna: ”Ska göra slut på dem” - Expressen
 - Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
+- Bidraget höjs till bostadsbolagens laddplatser - Sveriges Allmännytta
+- Vattenfall höjer nätavgiften – och lovar färre strömavbrott - Mitt i
 - Strul på internet (igen!) – flera stora sajter ligger nere - Breakit
-- Nya momsregler förändrar avdragsrätten - Fastighetstidningen
 - Samsung kan ta fram en snabbare trådlös laddare - m3.se
 - Professorns teori ska förklara vad som händer efter döden – anklagas för pseudovetenskap - Dagens Nyheter
 
@@ -98,47 +98,47 @@ _Updated: 2025-12-06 05:54_
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
 
 ## Science
 
+- AFTD Grantee Leads Basic Science Study Exploring Role of Protein in Tau-Based Disorders like CBD - AFTD - The Association for Frontotemporal Degeneration
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- 5 myter om öppen vetenskap - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 
 ## Jordbruk
 
