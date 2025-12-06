@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 19:39_
+_Updated: 2025-12-06 20:47_
 
 ## Top Stories
 
-- Stökigt inför den högerextrema Salemmarschen - SVT Nyheter
+- 15 motdemonstranter fördes bort inför högerextrema Salemmarschen - SVT Nyheter
+- 80-plussare tvingas klippa gräset i Danderyd - Dagens Nyheter
 - Malmöbo försökte sätta eld på sin flickvän – döms för sadistiskt våld - Sydsvenskan
-- Direkt – Kriget i Ukraina – Zelenskyj träffar europeiska ledare i London på måndag - Dagens Nyheter
-- Valsta nedklassades i polisens utsatthetsbedömning - märsta.nu
-- VIKTOR BARTH-KRON: Årets julklapp är en utebliven pakt - Expressen
-- En person anhållen för förgiftningar på Akademiska sjukhuset i Uppsala - Åklagarmyndigheten
-- Förskola träffad i Sudan – över 30 barn döda - GP
-- Här vill naziledaren rekrytera oss – ”Vissa får utegångsförbud av sina mammor” - Aftonbladet
+- Förskolepersonal åtalas – misstänks ha fotat och gjort AI-barnporr - Aftonbladet
+- Zelenskyj till toppmöte i London - GP
+- Statsministern fördömer Salemmarschen: ”Förfärlig människosyn” - SVT Nyheter
+- Uppsala: En anhållen för förgiftningar på sjukhus - SVT Nyheter
+- Socialdemokraterna vill se en tioårspakt för att knäcka gängkriminaliteten - Socialdemokraterna
 - Tjernobyls strålskydd behöver repareras - GP
-- Gängtopp hittad död – på Kumla - Expressen
-- Direkt – Krisen i Mellanöstern – Granen pyntad i Betlehem – julfirandet tillbaka - Dagens Nyheter
-- Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
+- Här vill naziledaren rekrytera oss – ”Vissa får utegångsförbud av sina mammor” - Aftonbladet
 - Nathan Shachar: Israeliska robotar Natos nya skydd mot öst - Dagens Nyheter
+- Granen pyntad i Betlehem – julfirandet tillbaka - Sydsvenskan
 - Sälunge gick på krogen – lockades ut med lax - Hufvudstadsbladet
+- Egypten: Internationell styrka i Gaza snarast - Västerbottens-Kuriren
 - Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
 - AI-trenden för 2026: ”Jag är orolig för mellancheferna” - EFN.se
 - Hon blir yngsta kvinnan någonsin att nå miljardärstatus på egen hand - Börskollen
 - Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
-- Postal: Bullet Paradise läggs ned en dag efter utannonseringen - FZ.se
-- Här är de bästa molntjänsterna 2025 - Expressen
+- Capcom ber oss att ge Monster Hunter Wilds en ny chans - FZ.se
+- Rockstar har börjat sälja doften av Vice City - Teknikveckan
 
 ## World News
 
@@ -83,8 +83,9 @@ _Updated: 2025-12-06 19:39_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
+- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
 - DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -92,30 +93,29 @@ _Updated: 2025-12-06 19:39_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Episurf Medical ingår ytterligare distributionsavtal med exklusiva distributörer för DePuy Synthes - it-halsa.se
+- Elos Medtech AB förvärvar Klingel Medical genom garanterad företrädesemission - it-halsa.se
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-12-06 19:39_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
