@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 18:46_
+_Updated: 2025-12-06 19:39_
 
 ## Top Stories
 
 - Stökigt inför den högerextrema Salemmarschen - SVT Nyheter
 - Malmöbo försökte sätta eld på sin flickvän – döms för sadistiskt våld - Sydsvenskan
-- Nathan Shachar: Israeliska robotar Natos nya skydd mot öst - Dagens Nyheter
-- Zelenskyj till toppmöte i London - GP
-- Egypten: Internationell styrka i Gaza snarast - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Zelenskyj träffar europeiska ledare i London på måndag - Dagens Nyheter
+- Valsta nedklassades i polisens utsatthetsbedömning - märsta.nu
+- VIKTOR BARTH-KRON: Årets julklapp är en utebliven pakt - Expressen
 - En person anhållen för förgiftningar på Akademiska sjukhuset i Uppsala - Åklagarmyndigheten
-- Socialdemokraterna vill se en tioårspakt för att knäcka gängkriminaliteten - Socialdemokraterna
-- Sparbanken Nord Sport & simhall – officiellt invigd! - Arvidsjaurs kommun
-- DEBATT: Människor ska inte styras med rädsla - Nerikes Allehanda
+- Förskola träffad i Sudan – över 30 barn döda - GP
 - Här vill naziledaren rekrytera oss – ”Vissa får utegångsförbud av sina mammor” - Aftonbladet
+- Tjernobyls strålskydd behöver repareras - GP
+- Gängtopp hittad död – på Kumla - Expressen
 - Direkt – Krisen i Mellanöstern – Granen pyntad i Betlehem – julfirandet tillbaka - Dagens Nyheter
+- Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
+- Nathan Shachar: Israeliska robotar Natos nya skydd mot öst - Dagens Nyheter
 - Sälunge gick på krogen – lockades ut med lax - Hufvudstadsbladet
-- Flera döda i skjutning i Pretoria - GP
-- DN Direkt – 18 döda i flyganfall i Myanmar - Dagens Nyheter
+- Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
 - AI-trenden för 2026: ”Jag är orolig för mellancheferna” - EFN.se
-- Forskare: Det skapar övervinster i elbolagen - SvD
-- 33-åring lever utan smartphone – ägt samma Nokia 3310 i 20 år - Dagens PS
-- Nobel-vd: ”Jag blir lite tagen varje dag” - Aftonbladet
+- Hon blir yngsta kvinnan någonsin att nå miljardärstatus på egen hand - Börskollen
+- Kommentar till Svensk Mäklarstatistik: Bostadsmarknaden går rakt in i vintermörkret - Mynewsdesk
 - Postal: Bullet Paradise läggs ned en dag efter utannonseringen - FZ.se
 - Här är de bästa molntjänsterna 2025 - Expressen
 
@@ -73,39 +73,39 @@ _Updated: 2025-12-06 18:46_
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
-- PVH Corp. Announces CFO Transition - Placera.se
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
+- Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ally Financial declares dividend on common stock and Series B and Series C preferred stock (PR Newswire) - Aktiellt
+- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
