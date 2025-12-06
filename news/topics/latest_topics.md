@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-06 11:40_
+_Updated: 2025-12-06 12:42_
 
 ## Top Stories
 
-- Varnar för plötslig ishalka längs Västerbottenskusten - SVT Nyheter
+- S vill ingå tioårspakt med M mot gängen - Dagens Nyheter
 - Expo: Så många väntas delta i nya Salemmarschen - SVT Nyheter
+- Varnar för plötslig ishalka längs Västerbottenskusten - SVT Nyheter
 - Marinen: Ryska ubåtar i Östersjön ”nästan varje vecka” - GP
 - Osynliga gränser och verkliga hot – livet i delade Biskopsgården - Dagens Nyheter
 - Adna om skräcknatten på demensboendet: "Var rädd för att dö" - GP
-- USA/Ukraina-samtalen fortsätter på lördagen - SVT Nyheter
-- S vill ingå tioårspakt med M mot gängen - SVT Nyheter
 - Skotrar genom isen – tre i vattnet - GP
 - En tung strid rasar om de inavlade hundraserna - Dagens Nyheter
 - 06 december 07.05, Sammanfattning kväll och natt, Hallands län - polisen.se
+- 06 december 07.34, Sammanfattning natt, Norrbottens län - polisen.se
+- DN Direkt – Minst tio döda i skjutning i Pretoria - Dagens Nyheter
 - Nya strider mellan Afghanistan och Pakistan - SVT Nyheter
+- Putin använder kidnappade barn för att pressa Ukraina - Sydsvenskan
 - Värnplikt tillbaka i Tyskland – svaret på ryska hotet - Dagens PS
-- Direkt – Kriget i Ukraina – Ryssland lanserar propagandakanal i Indien - Dagens Nyheter
-- Slog huvudet i flygplan: "Blödde kraftigt" - UNT
 - Forskare: Det skapar övervinster i elbolagen - SvD
 - Uppror mot elavgifterna – Göteborg kräver undantag för lägenheter - Dagens Nyheter
-- EU ger Musks X miljardböter - Omni
-- Kollaps: Bilhandlare med 500 anställda i konkurs - Carup.se
+- Vita huset rasar mot EU:s miljardbot till Musks X - Dagens industri
+- Unga allt mer oroliga över AI - så gör du för att ligga steget före - Börskollen
 - Proton lanserar totalsträckskrypterad Excel-utmanare - Computer Sweden
 - KRÖNIKA: Jakten pågår för fullt – svårare att hitta riktigt mörker i Skåne - Skånska Dagbladet
 
 ## World News
 
+- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- FIFA delar ut 2025 års fredspris till Trump för handlingar för global enhet i fotboll - Mix Vale
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- FIFA delar ut 2025 års fredspris till Trump för handlingar för global enhet i fotboll - Mix Vale
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - World Padel Network™ Launches: Find and Rate Padel Clubs Worldwide (PR Newswire) - Aktiellt
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -38,7 +39,6 @@ _Updated: 2025-12-06 11:40_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
@@ -107,58 +107,58 @@ _Updated: 2025-12-06 11:40_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 
 ## Jordbruk
 
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
