@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-07 22:41_
+_Updated: 2025-12-07 23:38_
 
 ## Top Stories
 
 - Starka vågor på Teneriffa – flera döda - SVT Nyheter
+- DN Direkt – Fyra mordförsök i Boden i lördags - Dagens Nyheter
+- Efter Francis, 4, succé – så mycket samlade Musikhjälpen in - GP
 - Paasikivi: USA:s nya strategi ”skitfarlig” - Hufvudstadsbladet
-- Nytt rekord i "Musikhjälpen" - GP
 - Otrogen kattvakt i Lund ledde polisen till knark värt miljoner - Sydsvenskan
 - Hon jobbar med gängkriminella: ”De leker macho, men alla gråter i sin cell” - GP
-- Tidö - Lär av Strängnäs när ni ses hemma hos Ulf Kristersson - Cision News
-- Lastbil har vält – en till sjukhus med allvarliga skador - SVT Nyheter
+- Man allvarligt skadad i lastbilsolycka - Västerbottens-Kuriren
 - Studie: Därför dör människor när de grips av polis - Dagens Nyheter
-- Ny klimatklubb rundar FN: ”Väldigt spännande” - Västerbottens-Kuriren
-- Stökigt vid högerextrem demonstration i Salem - GP
-- USA-sändebudet: Två frågor står i vägen för fred - Dagens Nyheter
+- Ny klimatklubb rundar FN: ”Väldigt spännande” - GP
+- Stökigt inför den högerextrema Salemmarschen - SVT Nyheter
 - Vittnesmål: Wagnermilisens ersättare lika brutala - Dagens Nyheter
-- Emma Bouvin: Syrien efter diktatorns fall är fullt av problem – och hopp - Dagens Nyheter
+- USA-sändebud: Två frågor måste lösas för fred - Västerbottens-Kuriren
+- Teknik ska lösa Japans demenskris - Dagens Nyheter
 - Netanyahu: Andra fasen i vapenvilan snart här - Hufvudstadsbladet
 - De är Sveriges nöjdaste bilägare 2025 - Dagens Nyheter
-- Svenska kronan krossar konkurrenterna - DI
-- KRÖNIKA: Fysikpris ett första steget mot kvantdatorer - Nerikes Allehanda
+- Saftiga avgiftshöjningar väntar bostadsrätter - SvD
+- Anställda på FK känner sig kontrollerade: ”DDR” - Omni
 - Fler hushåll tror på stigande bopriser - Aftonbladet
 - Rykte: Dead Space-serien läggs på is av EA - FZ.se
 - Inkonsekvent betygsättningsmetod - FZ.se
@@ -29,24 +29,24 @@ _Updated: 2025-12-07 22:41_
 
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- De bäst presterande ETF:erna för svenska investerare | Morningstar Sverige - Morningstar Canada
+- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
 - Widespread mortality of coral reefs - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2025-12-07 22:41_
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - MBZUAI and MIT Schwarzman College of Computing launch AI research collaboration (PR Newswire) - Aktiellt
 - Zifo Executive: Biopharma Grapples with AI Anxiety and Tech Obsolescence (PR Newswire) - Aktiellt
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2025-12-07 22:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
