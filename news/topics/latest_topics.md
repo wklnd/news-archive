@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-07 05:46_
+_Updated: 2025-12-07 06:50_
 
 ## Top Stories
 
-- Stökigt vid högerextrem demonstration i Salem - GP
-- Över 20 döda i brand på nattklubb i Indien - SVT Nyheter
-- Värme- och vattenavbrott efter ryska attacker - Västerbottens-Kuriren
+- Flera omhändertagna vid högerextrem marsch - Västerbottens-Kuriren
+- Över 20 döda i brand på nattklubb i Indien - GP
+- Ryska attacker mot ukrainska städer - Folkbladet
+- Lina Lund: ”Fästning Europa” är inte längre ett skällsord i Bryssel - Dagens Nyheter
 - ”Idol”-vinnaren Tuva: Det är helt galet - SvD
 - Fotboll: Mohamed Salahs stenhårda sågning av Liverpool: ”Kastar mig under bussen” - SVT Nyheter
-- En person anhållen för förgiftningar på Akademiska sjukhuset i Uppsala - Åklagarmyndigheten
 - Två skadade i misstänkt mordförsök i Boden – man gripen - SVT Nyheter
+- En anhållen för förgiftningar på sjukhus - Dagens Nyheter
 - Ny attack med grön laser i Göteborg - SVT Nyheter
 - 06 december 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Region Gotland har skrivit på klimatkontrakt - Region Gotland
 - Japansk protest efter flygincident - Västerbottens-Kuriren
-- Vilnius flygplats öppen igen efter ballonglarm - GP
-- Qatar: Kritiskt ögonblick för vapenvilan - Dagens Nyheter
 - Två palestinier dödade av Israel vid vägspärr - SVT Nyheter
+- Qatar: Kritiskt ögonblick för vapenvilan - Dagens Nyheter
+- Vilnius flygplats öppen igen efter ballonglarm - GP
+- Ryska experter larmar: Systemkollaps hotar banker - Dagens PS
+- Eljättens avgift bröt mot lagen – får bakläxa - Privata Affärer
 - Forskare: Det skapar övervinster i elbolagen - SvD
 - Tindras utmaning: En timmes skärmtid om dagen - Borås Tidning
-- Bråttom för BRF:er att begära tillbaka momspengar - Aftonbladet
-- Blankt SD-nej till förslag om euron: ”Vansinne” - Omni
-- Samsung kan ta fram en snabbare trådlös laddare - m3.se
-- Recension – Hyrule Warriors: Age of Imprisonment Recension - varvat.se
+- Stor ändring väntar alla med Samsung-telefon - Marcus Oscarsson
+- Lista: Dyraste husen i länet förre månaden - Västerbottens-Kuriren
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2025-12-07 05:46_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2025-12-07 05:46_
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Zifo Executive: Biopharma Grapples with AI Anxiety and Tech Obsolescence (PR Newswire) - Aktiellt
 - Touareg Group Expands Global Presence with Establishment of U.S. Technology Subsidiary (PR Newswire) - Aktiellt
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
