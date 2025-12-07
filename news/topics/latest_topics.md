@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-07 12:41_
+_Updated: 2025-12-07 13:37_
 
 ## Top Stories
 
-- Längdskidor: Ebba Andersson vann i Trondheim – dubbelt svenskt på pallen - SVT Nyheter
 - Soldater i Benin: Regeringen är avsatt - SVT Nyheter
 - 17-åring efter morduppdraget: ”Nu var jag en hundragubbe – det är status” - Dagens Nyheter
-- Somaliska kvinnor spärrades från Lundbybadet – anmäler simhallen - GP
+- Stor insats på Heathrow – personer pepparsprejade - Aftonbladet
+- ”Jag är Anas, jag är bög, jag är fri” - HD
 - Stökigt vid högerextrem demonstration i Salem - GP
 - Präst hade 100 000 barnporrbilder – döms - GP
 - Två kvinnor misstänks ha drogats på krogar i Sälenfjällen - SVT Nyheter
 - Barn misstänkta för sprängdåd ökar kraftigt - GP
 - Två skadade i misstänkt mordförsök i Boden – man gripen - SVT Nyheter
-- 07 december 08.00, Sammanfattning natt, Södermanlands län - Polisen.se
-- Stor polisinsats på flygplatsen Heathrow - Aftonbladet
+- 07 december 08.00, Sammanfattning natt, Södermanlands län - polisen.se
+- Minst 25 döda i brand på nattklubb i Indien - Dagens Nyheter
+- Sandra Stiskalo: Nu ska Liz Truss hämnas med en Trump-revolution - Dagens Nyheter
 - DN Direkt – Frontexchefen: Jag ser hellre att människor överlever i Libyen än dör på Medelhavet - Dagens Nyheter
-- Minst 25 döda i brand på nattklubb - SVT Nyheter
-- Donald Trumps tunga ögonlock väcker frågor - Hufvudstadsbladet
+- Kreml: USA:s vision nästan samma som Rysslands - Hufvudstadsbladet
 - Nya saftiga avgiftshöjningar väntar bostadsrätter - Dagens industri
 - Stalker-app marknadsförs på sociala medier – med missvisande påståenden - Dagens Nyheter
-- Svenska kronan fortfarande bäst - Västerbottens-Kuriren
-- Kritikstorm mot nya Blocket: ”Har slutat ringa” - Omni
+- Svenska kronan krossar konkurrenterna - Dagens industri
+- Forskare: Det skapar övervinster i elbolagen - SvD
 - Kvantdatorn ska förändra allt – men ingen vet hur - Dagens Nyheter
-- Julklappstips för spelbitna – så mycket kostar de - Jönköpings-Posten
+- Ny studie: Jorden hade en gång en gåtfull granne som kan ha haft stor betydelse för världen som vi känner den i dag - Illustrerad Vetenskap
 
 ## World News
 
@@ -31,45 +31,45 @@ _Updated: 2025-12-07 12:41_
 - USA varnar för Europas ”civilisationsutplåning” – ny global strategi släppt - Omni
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - De bäst presterande ETF:erna för svenska investerare | Morningstar Sverige - Morningstar Canada
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- MindHYVE.ai™ and the California Institute of Artificial Intelligence (CIAI) Announces Strategic Partnership to Close the Global AI Fluency Gap (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- The 2025 A.I. Awards Winners Selected (PR Newswire) - Aktiellt
+- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Zensai Named a 2025 World Future Award Winner Among Top 100 AI Tech Companies (PR Newswire) - Aktiellt
-- Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Ippon Technologies Launches Data & AI Readiness Assessment in AWS Marketplace, Empowering Organizations to Accelerate AI Success (PR Newswire) - Aktiellt
-- AI visionaries converge in Shanghai to chart the future of innovation (PR Newswire) - Aktiellt
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
-- Scouting America Launches First-Ever AI and Cybersecurity Merit Badges (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- MBZUAI and MIT Schwarzman College of Computing launch AI research collaboration (PR Newswire) - Aktiellt
+- Zifo Executive: Biopharma Grapples with AI Anxiety and Tech Obsolescence (PR Newswire) - Aktiellt
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -111,10 +111,10 @@ _Updated: 2025-12-07 12:41_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
@@ -146,19 +146,19 @@ _Updated: 2025-12-07 12:41_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
