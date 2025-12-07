@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-07 01:39_
+_Updated: 2025-12-07 04:33_
 
 ## Top Stories
 
-- Stökigt vid högerextrem demonstration i Salem - GP
-- Tjernobyl: All strålning blockeras inte - SVT Nyheter
-- Över 20 döda i brand på nattklubb i Indien - Västerbottens-Kuriren
-- Svår influensavåg – tar tillbaka munskydden - SvD
+- Flera omhändertagna vid högerextrem marsch - Västerbottens-Kuriren
+- Över 20 döda i brand på nattklubb i Indien - SVT Nyheter
 - Henne vill japanerna ha som kejsarinna – men lagen sätter stopp - Dagens Nyheter
-- Här skryter ingen om släktskapet med Trump - SvD
-- En anhållen för förgiftningar på sjukhus - Dagens Nyheter
-- 80-plussare tvingas klippa gräset i Danderyd - Dagens Nyheter
-- 06 december 19.26, Mord/dråp, försök, Boden - polisen.se
+- Kontrar Putins nya taktik – med omöjliga ordet - Aftonbladet
+- Svår influensavåg – tar tillbaka munskydden - SvD
+- Värme- och vattenavbrott efter ryska attacker - Västerbottens-Kuriren
+- Två skadade i misstänkt mordförsök i Boden – man gripen - SVT Nyheter
+- En anhållen för förgiftningar på Akademiska sjukhuset - Corren
+- Ny attack med grön laser i Göteborg - SVT Nyheter
 - 06 december 08.00, Sammanfattning natt, Jönköpings län - polisen.se
 - Nytt ballonglarm – flygplats stänger - Västerbottens-Kuriren
+- Två palestinier dödade av Israel vid vägspärr - SVT Nyheter
 - Qatar: Kritiskt ögonblick för vapenvilan - GP
-- Direkt – Krisen i Mellanöstern – Granen pyntad i Betlehem – julfirandet tillbaka - Dagens Nyheter
-- Upptäcker ryska u-båtar varje vecka - Västerbottens-Kuriren
+- Granen pyntad i Betlehem – julfirandet tillbaka - Västerbottens-Kuriren
 - Forskare: Det skapar övervinster i elbolagen - SvD
 - Bråttom för BRF:er att begära tillbaka momspengar - Aftonbladet
-- Tindras utmaning: Max en timmes skärmtid om dagen - Västerbottens-Kuriren
+- Tindras utmaning: En timmes skärmtid om dagen - Borås Tidning
 - Republikaner vill att Trump tar priskrisen på allvar - Omni
-- Lista: Dyraste husen i länet förre månaden - Västerbottens-Kuriren
+- Samsung kan ta fram en snabbare trådlös laddare - m3.se
 - Recension – Hyrule Warriors: Age of Imprisonment Recension - varvat.se
 
 ## World News
@@ -43,9 +43,9 @@ _Updated: 2025-12-07 01:39_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
 ## Technology
@@ -74,25 +74,25 @@ _Updated: 2025-12-07 01:39_
 ## Business
 
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- C2FO Honored with the prestigious Sustainable Business COP 30 Award in Transition Finance and Investment - Aktiellt
 - PVH Corp. Announces CFO Transition - Placera.se
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue vinner internationellt innovationspris – hyllas för banbrytande digital kundupplevelse - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- First Financial Bancorp. Announces the Completion of its Acquisition of Westfield Bancorp, Inc., and Westfield Bank, FSB - Aktiellt
-- DeFi Technologies Announces Shareholder Call to Discuss Q3 2025 Financial Results - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Cambridge Wilkinson Investment Bank Closes $25MM Senior Credit Facility for Small Business Finance Company - Aktiellt
+- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-07 01:39_
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-12-07 01:39_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
