@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-07 21:38_
+_Updated: 2025-12-07 22:41_
 
 ## Top Stories
 
+- Starka vågor på Teneriffa – flera döda - SVT Nyheter
 - Paasikivi: USA:s nya strategi ”skitfarlig” - Hufvudstadsbladet
-- Studie: Därför dör människor när de grips av polis - Dagens Nyheter
+- Nytt rekord i "Musikhjälpen" - GP
 - Otrogen kattvakt i Lund ledde polisen till knark värt miljoner - Sydsvenskan
-- Emma Bouvin: Syrien efter diktatorns fall är fullt av problem – och hopp - Dagens Nyheter
-- DN Direkt – Trumps opinionsstöd: Bättre än Bushs och Obamas - Dagens Nyheter
+- Hon jobbar med gängkriminella: ”De leker macho, men alla gråter i sin cell” - GP
+- Tidö - Lär av Strängnäs när ni ses hemma hos Ulf Kristersson - Cision News
 - Lastbil har vält – en till sjukhus med allvarliga skador - SVT Nyheter
-- Insats i Malmö: Skjuter fyrverkerier på torg - Expressen
-- Flera omhändertagna vid högerextrem marsch - Västerbottens-Kuriren
-- KRÖNIKA: Öppna krog i Västerås? Nej, skit i det! - VLT
-- Två kvinnor misstänks ha drogats på krogar i Sälenfjällen - SVT Nyheter
+- Studie: Därför dör människor när de grips av polis - Dagens Nyheter
+- Ny klimatklubb rundar FN: ”Väldigt spännande” - Västerbottens-Kuriren
+- Stökigt vid högerextrem demonstration i Salem - GP
 - USA-sändebudet: Två frågor står i vägen för fred - Dagens Nyheter
+- Vittnesmål: Wagnermilisens ersättare lika brutala - Dagens Nyheter
+- Emma Bouvin: Syrien efter diktatorns fall är fullt av problem – och hopp - Dagens Nyheter
 - Netanyahu: Andra fasen i vapenvilan snart här - Hufvudstadsbladet
-- Trump Jr: USA kan lämna Ukraina-samtalen - SVT Nyheter
-- Kuppförsök i Benin – armén återtar kontroll - Västerbottens-Kuriren
 - De är Sveriges nöjdaste bilägare 2025 - Dagens Nyheter
 - Svenska kronan krossar konkurrenterna - DI
-- Eljättens avgift bröt mot lagen – får bakläxa - Privata Affärer
-- Välfärden bärs allt mer av utlandsfödda - Tidningen Näringslivet
+- KRÖNIKA: Fysikpris ett första steget mot kvantdatorer - Nerikes Allehanda
+- Fler hushåll tror på stigande bopriser - Aftonbladet
+- Rykte: Dead Space-serien läggs på is av EA - FZ.se
 - Inkonsekvent betygsättningsmetod - FZ.se
-- Ny studie: Jorden hade en gång en gåtfull granne som kan ha haft stor betydelse för världen som vi känner den i dag - Illustrerad Vetenskap
 
 ## World News
 
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Sverige klättrar på global AI-ranking – före Norge - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- De bäst presterande ETF:erna för svenska investerare | Morningstar Sverige - Morningstar Canada
-- Macklemore Backs International Campaign: Climate Education for 7 Million Students Worldwide (PR Newswire) - Aktiellt
-- Widespread mortality of coral reefs - Stockholms universitet
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Widespread mortality of coral reefs - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
 ## Technology
 
