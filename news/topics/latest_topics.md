@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-07 18:45_
+_Updated: 2025-12-07 19:39_
 
 ## Top Stories
 
+- Otrogen kattvakt i Lund ledde polisen till knark värt miljoner - Sydsvenskan
 - Emma Bouvin: Syrien efter diktatorns fall är fullt av problem – och hopp - Dagens Nyheter
 - Elsas dotter kan inte prata: "Undrar vad hon tänker" - GP
-- Netanyahu: Andra fasen i vapenvilan snart här - Västerbottens-Kuriren
-- Röster inifrån: Många hoppas på USA-anfall - SvD
-- Trump ger obegränsad makt ett ansikte - SvD
-- Ledare: "Jamen grattis, älskade tunneljävel" - bjarenu.se
+- USA/Ukraina-samtalen fortsätter på lördagen - SVT Nyheter
+- Kuppförsök i Benin – armén återtar kontroll - Västerbottens-Kuriren
+- Göteborgarna: Det önskar vi oss mest i julklapp - GP
 - Ny klimatklubb rundar FN: ”Väldigt spännande” - GP
 - DN Direkt – Kvinnor misstänks blivit drogade på krog i Sälen - Dagens Nyheter
 - Flera omhändertagna vid högerextrem marsch - Västerbottens-Kuriren
 - 07 december 08.00, Sammanfattning natt, Södermanlands län - polisen.se
-- Minister i Benin: Kuppförsöket avvärjt - SVT Nyheter
-- Sandra Stiskalo: Nu ska Liz Truss hämnas med en Trump-revolution - Dagens Nyheter
+- Netanyahu: Andra fasen i vapenvilan snart här - Dagens Nyheter
 - Frontexchefen: Jag ser hellre att människor överlever i Libyen än dör på Medelhavet - Dagens Nyheter
 - Paasikivi: USA:s nya strategi ”skitfarlig” - Hufvudstadsbladet
-- Saftiga avgiftshöjningar väntar bostadsrätter - SvD
+- Pepparsprejsattack på Heathrow – flera till sjukhus - Aftonbladet
 - Eljättens avgift bröt mot lagen – får bakläxa - Privata Affärer
 - Svenska kronan fortfarande bäst - Tidningen Näringslivet
+- Saftiga avgiftshöjningar väntar bostadsrätter - SvD
 - EU-vreden mot Musk: Åk till Mars - Expressen
+- Rykte: Dead Space-serien läggs på is av EA - FZ.se
 - Inkonsekvent betygsättningsmetod - FZ.se
-- Ny studie: Jorden hade en gång en gåtfull granne som kan ha haft stor betydelse för världen som vi känner den i dag - Illustrerad Vetenskap
 
 ## World News
 
@@ -64,35 +64,35 @@ _Updated: 2025-12-07 18:45_
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America (PR Newswire) - Aktiellt
+- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - MBZUAI and MIT Schwarzman College of Computing launch AI research collaboration (PR Newswire) - Aktiellt
 - Zifo Executive: Biopharma Grapples with AI Anxiety and Tech Obsolescence (PR Newswire) - Aktiellt
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
 
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -156,9 +156,9 @@ _Updated: 2025-12-07 18:45_
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
