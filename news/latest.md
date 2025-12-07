@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-07 05:47_
+_Updated: 2025-12-07 06:54_
 
 - Hegseth won't commit to releasing video of second strike on alleged drug boat: "We are reviewing it right now" - CBS News
-- Zelensky signals progress in talks with US to secure peace plan - BBC
+- Judge blocks prosecutors’ access to James Comey’s lawyer’s emails and data - Politico
 - National parks fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday - NPR
 - The Supreme Court weighs another step in favor of broad presidential power sought by Trump - AP News
-- Massive 7.0 magnitude earthquake rocks Alaska as tremors felt in Canada - Daily Mail Online
 - Mass shooting at South African hostel bar leaves 11 dead, including 3 children - PBS
+- Chinese jets directed fire-control radar at Japanese aircraft, Japan says - Reuters
 - Republican state senator to Trump: Somalis are ‘woven into Minnesota’s fabric’ - MPR News
+- Trump news at a glance: Hegseth faces most serious crisis of tenure - The Guardian
 - Russia launches massive attack at Ukraine amid ongoing peace efforts - Euronews.com
-- Winter weather alerts to impact 18 million people across West and Midwest - CBS News
-- Threats rain down on Indiana Republican senators on fence about mid-decade redistricting - OregonLive.com
+- Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border - AP News
 - Greece: At least 17 dead in boat capsize off Crete - DW
-- Chernobyl protective shield can no longer confine radiation after drone strike, UN nuclear watchdog says - CNN
+- As Christmas lights return to Bethlehem, Palestinians look for hope - Reuters
+- Venezuela’s Nobel Winner Will Go to Norway for Peace Prize, Official Says - The New York Times
 - Deadly attack on kindergarten reported in Sudan - BBC
-- Gaza ceasefire talks in "critical moment" as second phase in deal yet to begin - CBS News
-- Trump Administration Waives $11 Million Southwest Airlines Fine - The New York Times
-- Waymo will recall software after its self-driving cars passed stopped school buses - NPR
+- $11M Southwest Airlines fine waived by DOT - ABC News
 - Major used-car retailer gets set to join the S&P 500 - TheStreet
-- Musk denies $800 billion SpaceX valuation reports - CNBC
-- Samsung may have accidentally confirmed the Galaxy S26 design in its code - Android Central
-- Apple’s chip chief might be the next exec to leave - The Verge
+- JPMorgan CEO Jamie Dimon says Europe has a ‘real problem’ - Fortune
+- Powerball jackpot at $820 million is 8th largest in game's history - WRAL
+- Last chance to get Cyber Week deals from Samsung US - GSMArena.com news - GSMArena.com
+- The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week - The Verge
