@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-07 17:48_
+_Updated: 2025-12-07 18:51_
 
-- Conservative Project at Supreme Court Meets Trump’s Push to Oust Officials - The New York Times
-- Kremlin says new US security strategy accords largely with Russia's view - Reuters
-- Ukrainian city hit by 'massive' strike as peace talks in US conclude - BBC
+- Hegseth says he 'would have made the same call' on second Sept. 2 boat strike - NBC News
+- Trump’s plans to shatter the bureaucracy have a green light at the Supreme Court - Politico
 - Why Indiana GOP voters want their senators to defy Trump’s threats - CNN
-- Hegseth won't commit to releasing video of second strike on alleged drug boat: "We are reviewing it right now" - CBS News
-- Japan and Australia urge calm after Chinese radar locks on Japanese jets - AP News
-- The small team running Trump’s foreign policy - Politico
-- Republican state senator admonishes Trump for calling Somalis ‘garbage,’ invites him to Minnesota - Star Tribune
+- New US Security Strategy aligns with Russia's vision, Moscow says - BBC
+- Ukrainian city hit by 'massive' strike as peace talks in US conclude - BBC
+- Benin's interior minister says a coup announced earlier has been foiled - NPR
+- Homan defends Trump after president calls Somali community ‘garbage’ - Politico
+- Inside Trump’s small national security team - Politico
+- Protests mark a less visible day for U.S. Border Patrol sweeps in New Orleans - NOLA.com
 - Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance - CNN
-- NOPD Chief Kirkpatrick responds to AG’s letter urging cooperation with ICE - WWLTV.com
-- Benin government says armed forces foil coup attempt - Reuters
+- Chinese jets point radar at Japanese aircraft, Japan says - Reuters
 - First phase of Gaza ceasefire plan nearly complete, says Netanyahu - The Guardian
-- Fire at a Nightclub in Goa, India, Kills at Least 25 - The New York Times
-- LegCo: Hong Kong votes in election as city mourns deadly fire - BBC
+- A fire at a popular nightclub in India's Goa state kills at least 25, officials say - NPR
+- 'Everything destroyed' as Indonesia's Aceh grapples with disease after floods - Reuters
+- OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount - Bloomberg.com
 - $11M Southwest Airlines fine waived by DOT - ABC News
-- America's economy is getting swallowed up by middlemen — and it's driving people crazy - Business Insider
 - So much of crypto is not even real—but that’s starting to change - Fortune
 - What happened to Susan Dell's face? Experts share insight on plastic surgery claims; 'before-after' pics go viral | Hindustan Times - Hindustan Times
 - We Found the Truth: The Real Reason Your LED Lights Keep Dropping Dead - CNET
-- The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week - The Verge
+- Justin Bieber Gives Apple UX Advice, Threatens A “Rear Naked Choke Hold” - Wccftech
