@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-07 23:48_
+_Updated: 2025-12-08 00:47_
 
-- Democratic Rep. Jim Himes says Pete Hegseth has "zero credibility" on September boat strikes - CBS News
-- Kremlin hails Trump’s national security strategy as aligned with Russia’s vision - The Guardian
-- Trump’s plans to shatter the bureaucracy have a green light at the Supreme Court - Politico
+- Democrats urge Pentagon to release video of strike on alleged drug boat - The Guardian
+- New US security strategy aligns with Russia's vision, Moscow says - BBC
+- Supreme Court to reconsider a 90-year-old unanimous ruling that limits presidential power - Fortune
 - Colin Jost Plays Pete Hegseth on ‘S.N.L.’ to Explain ‘Operation Kill Everybody’ - The New York Times
-- Japan and Australia urge calm after Chinese radar locks on Japanese jets - NBC News
 - A fire at a popular nightclub in India's Goa state kills at least 25, officials say - NPR
-- Homan defends Trump after president calls Somali community ‘garbage’ - Politico
-- Trump lashes out at Cuellar for running again as a Democrat after pardon - The Washington Post
-- Rep. Ilhan Omar: Any link between alleged Somali fraud and terrorism would be a "failure of the FBI" - CBS News
-- Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year’s remembrance - CNN
+- Chicago snow accumulation today causes hazardous road conditions, O'Hare flight delays; more snow in Chicago weather forecast - ABC7 Chicago
+- Ilhan Omar says Trump’s anti-Somali tirade ‘completely disgusting’ - The Guardian
+- Suspect charged in stabbing on Charlotte light rail train - ABC News
+- Immigration Agents Target Family of Deported College Student - The New York Times
+- It’s still not OK boomer: younger Americans are flailing – and mad as hell | J Oliver Conroy - The Guardian
+- Leak Highlights Poor State of Louvre Infrastructure - The New York Times
 - Benin coup attempt: President Talon addresses nation over failed takeover - BBC
-- Russian Drone Strike on Chernobyl Hasn’t Led to Rise in Radiation Levels - The New York Times
-- Java island zoo releases photos of the first panda cub born in Indonesia - CTV News
-- LegCo: Hong Kong votes in election as city mourns deadly fire - BBC
+- China Fighter Jet Locks Radar at Japan Planes in Row Over Taiwan - Bloomberg.com
+- Netanyahu says he won’t quit politics in exchange for pardon in corruption trial - The Times of Israel
 - Trump Waives Southwest Airlines Fine For Holiday Meltdown - The Lever
 - Powerball Jackpot Climbs To $875 Million—But A Winner Would Get Much Less After Taxes - Forbes
 - OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount - Bloomberg.com
-- Social Security at 70? Why the Gold Standard Advice Works for Only a Few - The New York Times
-- Justin Bieber Gives Apple UX Advice, Threatens A “Rear Naked Choke Hold” - Wccftech
+- Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives' - Fortune
+- Sunday Preview – Festive squig clothing returns! - Warhammer Community
 - Grotmas Calendar Day 7 – Embrace the tragic madness of the Blood Angels with a new Detachment - Warhammer Community
