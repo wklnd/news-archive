@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 04:27_
+_Updated: 2025-12-08 05:45_
 
-- Democrats urge Pentagon to release video of strike on alleged drug boat - The Guardian
-- Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies - The New York Times
-- New US security strategy aligns with Russia's vision, Moscow says - BBC
-- Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing - AP News
+- Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean - The New York Times
 - Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News
-- Immigration Agents Target Family of Deported College Student - The New York Times
+- Thailand launches airstrikes on Cambodia as Trump’s peace agreement hangs in balance - CNN
+- Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing - AP News
+- Immigration hawks push for new restrictions in wake of National Guard shooting - Politico
+- Kremlin hails Trump’s national security strategy as aligned with Russia’s vision - The Guardian
+- Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies - The New York Times
 - Stabbing on North Carolina commuter train draws Trump's attention amid immigration crackdown - CBS News
-- Judge: DOJ likely broke Constitution in using Comey lawyer's seized emails - Axios
-- The Married Scientists Torn Apart by a Covid Bioweapon Theory - The New York Times
+- Trump says Zelenskyy 'isn't ready' yet to accept US-authored proposal to end Russia-Ukraine war - AP News
 - Homan defends Trump after president calls Somali community ‘garbage’ - Politico
 - Hundreds of works in the Louvre damaged by flooding - NBC News
-- China Fighter Jet Locks Radar on Japan Planes in Row Over Taiwan - Bloomberg.com
-- Benin coup thwarted by loyalist troops, president tells nation - BBC
-- Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements - The New York Times
+- For Venezuela’s Machado, Collecting Nobel Peace Prize Could Mean Exile - The Wall Street Journal
+- Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says - The New York Times
+- LegCo: Hong Kong votes in election as city mourns deadly fire - BBC
 - Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News
-- Air Transat: Canadia airline to halt flights ahead of strike - BBC
+- Fed Rate Decision, Adobe, Oracle, Costco, Broadcom, and More Stocks to Watch This Week - Barron's
+- Exclusive | IBM Nears Roughly $11 Billion Deal for Confluent - The Wall Street Journal
 - Powerball Jackpot Reaches $875 Million—Here’s How Much A Winner Could Get After Taxes - Forbes
-- The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas - MarketWatch
 - A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert
-- Sunday Preview – Festive squig clothing returns! - Warhammer Community
+- I failed to recreate the 1996 Space Jam website with Claude - Hacker News
