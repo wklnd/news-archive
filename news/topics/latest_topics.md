@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 01:39_
+_Updated: 2025-12-08 04:24_
 
 ## Top Stories
 
 - Starka vågor på Teneriffa – flera döda - SVT Nyheter
 - Man anhållen för fyra mordförsök i Boden - Dagens Nyheter
-- Paasikivi: USA:s nya strategi ”skitfarlig” - Hufvudstadsbladet
-- Hon jobbar med gängkriminella: ”De leker macho, men alla gråter i sin cell” - GP
-- Direkt – Kriget i Ukraina – Zelenskyj: Inga enkla samtal med USA - Dagens Nyheter
-- Teknik ska lösa Japans demenskris - Dagens Nyheter
-- Lastbil har vält – en till sjukhus med allvarliga skador - SVT Nyheter
+- Efter Francis, 4, succé – så mycket samlade Musikhjälpen in - GP
+- Två ödesfrågor – då pekas han ut som lösningen - Aftonbladet
+- Hegseth: Sveriges stöd avgörande - Västerbottens-Kuriren
+- Ukraina varnar för dolda hotet från Ryssland - Expressen
+- Flera omhändertagna vid högerextrem marsch - Västerbottens-Kuriren
+- KRÖNIKA: Öppna krog i Västerås? Nej, skit i det! - VLT
+- Nya regler för bygglov: "Radikal förändring – de har storstädat" - Norran
 - Studie: Därför dör människor när de grips av polis - Dagens Nyheter
-- Högerextrem marsch under stor polisbevakning - GP
-- Insats i Malmö: Skjuter fyrverkerier på torg - Expressen
-- Vittnesmål: Wagnermilisens ersättare lika brutala - Dagens Nyheter
-- Bortförda skolbarn ska friges i Nigeria - Västerbottens-Kuriren
-- Machado måste smugglas ut för att närvara i Oslo - Dagens Nyheter
-- Netanyahu: Andra fasen i vapenvilan snart här - GP
+- DN Direkt – Fyra mordförsök i Boden i lördags - Dagens Nyheter
+- Trump: Zelenskyj inte redo för fredsavtal - Västerbottens-Kuriren
+- Teknik ska lösa Japans demenskris - Dagens Nyheter
+- Bildt om USA:s nya säkerhetsplan: Rätt mycket extremistisk sörja - SVT Nyheter
 - Nya saftiga avgiftshöjningar väntar bostadsrätter - Aftonbladet
-- De är Sveriges nöjdaste bilägare 2025 - Dagens Nyheter
-- Fler hushåll tror på stigande bopriser - Kristianstadsbladet
-- Välfärden bärs allt mer av utlandsfödda - SvD
+- Förmögenheten överförs – allt fler arvtagare blir miljardärer - Dagens PS
+- Välfärden bärs allt mer av utlandsfödda - Tidningen Näringslivet
+- Eljättens avgift bröt mot lagen – får bakläxa - Privata Affärer
 - ”Dead Space”-serien är död – EA har inga planer - MovieZine.se
 - Mekanikerns knep: Så avslöjar du läckan - Carup.se
 
 ## World News
 
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- New Secretary General appointed - Olof Palme International Center
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -73,26 +73,26 @@ _Updated: 2025-12-08 01:39_
 
 ## Business
 
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - PVH Corp. Announces CFO Transition - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -120,12 +120,11 @@ _Updated: 2025-12-08 01:39_
 ## Science
 
 - Early experiments in accelerating science with GPT-5 - OpenAI
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
@@ -133,12 +132,13 @@ _Updated: 2025-12-08 01:39_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
