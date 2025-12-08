@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 19:44_
+_Updated: 2025-12-08 20:52_
 
 ## Top Stories
 
-- En kvinna häktad misstänkt för förgiftningar i Uppsala - Åklagarmyndigheten
+- Kvinna häktad efter misstänkta förgiftningarna på Ackis - UNT
 - Friande dom efter klimataktion på Nationalmuseum - Dagens Nyheter
-- SMHI varnar för stormbyar i Göteborg - GP
-- Kvarlevor hittade i utbränd bil – misstänkt mord - Västerbottens-Kuriren
-- Marianne Björklund: Tullhotet räckte inte – nu sätts stridsflygplan in igen - Dagens Nyheter
 - Klart: Sjukdomsfall orsakade bussolyckan - Dagens Nyheter
-- Trendbrott när Sverige skaffar stora krigsfartyg - GP
+- Nytt parkeringskaos: David, 33, satt i bilkö i två timmar i Nordstan - GP
+- SMHI: ”Mycket hårda vindbyar” - Jönköpings-Posten
+- Tidigare premiär­ministerns show hånas: ”Behöver terapi” - Aftonbladet
+- Man anhållen för fyra mordförsök kände offren - Västerbottens-Kuriren
 - Här blir inga barn gjorda: Män och kvinnor allt mer olika - Sydsvenskan
-- Norskt konstmuseum valt till världens vackraste - Folkbladet
-- Man anhållen för fyra mordförsök i Boden - Västerbottens-Kuriren
+- Trendbrott när Sverige skaffar stora krigsfartyg - GP
+- Bussförare somnade vid ratten – döms för dödsolycka - Dagens Nyheter
 - Kreml: USA och Ryssland har nästan samma syn på världspolitiken - SVT Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Förslag till fredsplanen lämnas till USA på tisdag - Dagens Nyheter
 - Nathan Shachar: Diktatorns fall tumlade om hela regionen - Dagens Nyheter
-- Europeiska ledare samlas i London – Sverige kräver att Ryssland ska betala - Europaportalen
-- Ja till asylcenter utanför EU - UNT
+- Unrwas tillgångar beslagtagna av israelisk polis - Hufvudstadsbladet
 - Bilhandlare rasar mot nya Blocket: ”Många kommer tvingas bomma igen” - Dagens Nyheter
 - Plagg försvinner – kräver svar från Sellpy - SvD
-- ARCTIC FALLS VÄRDERING SER LOCKANDE UT, TECKNA - AFV - Placera.se
-- CHANS TILL REVANSCH, KÖP - AFV - Placera.se
+- Wingefors om nya investmentbolaget: "Fastigheter riktade mot försvarsindustrin" - Affärsvärlden
+- Affärsvärlden ger rådet teckna Arctic Falls nyintroduktion - Placera.se
 - Hårda kritiken mot nya kändistrenden - Expressen
 - Call of Duty: Black Ops 7 recension - varvat.se
 
@@ -31,22 +31,22 @@ _Updated: 2025-12-08 19:44_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- Avlyssningsskandalen växer - Journalisten
 - Widespread mortality of coral reefs - Stockholms universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
 ## Technology
 
@@ -56,35 +56,35 @@ _Updated: 2025-12-08 19:44_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
+- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DARIGOLD NAMES AMY HUMPHREYS CHIEF EXECUTIVE OFFICER (PR Newswire) - Aktiellt
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -154,11 +154,11 @@ _Updated: 2025-12-08 19:44_
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
