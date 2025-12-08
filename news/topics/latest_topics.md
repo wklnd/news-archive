@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 13:41_
+_Updated: 2025-12-08 15:10_
 
 ## Top Stories
 
+- Begärs häktad för förgiftningar på Akademiska - SvD
 - DN Direkt – Haverikommissionen: Bussolyckan orsakades av sjukdomsfall - Dagens Nyheter
 - Fyra elever döms efter misshandel på Lundsbergs skola - SVT Nyheter
-- Skottlossning på köpcentrum i Oslo - GP
-- ”Moderaterna måste stå upp för de principer vi själva driver” - Folkbladet
-- Kraftig ökning av potensmedel bland unga män - Dagens Nyheter
-- En person begärd häktad för misstänkta förgiftningar i Uppsala - Åklagarmyndigheten
+- SMHI varnar för kraftig vind – så drabbas Värmland - NWT
+- Stor ökning av potensmedel till unga - GP
+- Mördar långt bortom fronten: ”Skuggkrig” - SvD
 - Norskt konstmuseum valt till världens vackraste - Västerbottens-Kuriren
+- Kraftig ökning av potensmedel bland unga män - Dagens Nyheter
 - Elever på tekniska program straffas med lägre betyg - Dagens Nyheter
-- Varningar om skolattacker – ”det nya normala” - GP
-- Gul varning för busväder – risk för blockerade vägar - SVT Nyheter
+- Varningar om skolattacker – ”det nya normala” - Corren
 - Thailand till luftangrepp mot Kambodja - Dagens Nyheter
-- Trump: Zelenskyj inte redo för fredsavtal - Hufvudstadsbladet
-- Ett år efter Assadregimens fall: Manar till enighet - Västerbottens-Kuriren
+- 114 döda när förskola och sjukhus angreps i Sudan - Expressen
+- Starmer: Kommer inte pressa Ukraina - Västerbottens-Kuriren
 - Erik Esbjörnsson: Nigerias stridsflyg i Benin en markering mot juntor - Dagens Nyheter
-- Blackrock om AI-boomen: "Den verkliga risken är energin" - Affärsvärlden
 - Allt fler tror på högre bostadspriser 2026 - Cision News
-- Experternas dom om Audis oväntade återkomst - Dagens PS
-- Ekonomen: Sluta stressa över din ekonomi – ta en genväg istället - Dagens PS
+- Stockholmsbörsen i sidled – Saab i storbolagstät - DI
+- ALTOR ÖVERENS MED BRIDGEPOINT OM FÖRVÄRV AV EVAC - BN - Placera.se
+- Svenska forskare: Så klarar vi en IT-krasch - Dagens PS
 - Hårda kritiken mot nya kändistrenden - Expressen
-- Fallout-skaparen åter till Obsidian: "Gissa inte – ni kommer inte gissa rätt ändå" - FZ.se
+- PS5 dominerade black friday-försäljningen i både UK och USA - FZ.se
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-12-08 13:41_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Widespread mortality of coral reefs - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Widespread mortality of coral reefs - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -73,11 +73,9 @@ _Updated: 2025-12-08 13:41_
 
 ## Business
 
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
 - PVH Corp. Announces CFO Transition - Placera.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -93,6 +91,8 @@ _Updated: 2025-12-08 13:41_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
