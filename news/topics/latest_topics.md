@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 17:44_
+_Updated: 2025-12-08 18:53_
 
 ## Top Stories
 
-- Begärs häktad för förgiftningar på Akademiska - Aftonbladet
+- En kvinna häktad misstänkt för förgiftningar i Uppsala - Åklagarmyndigheten
+- SMHI varnar för kraftig vind – så drabbas Värmland - NWT
 - Haverikommissionen utreder inte svåra bussolyckan - Bussmagasinet
-- SMHI varnar för stormbyar i Göteborg - GP
+- Ja till lagstiftning om asylcenter utanför EU - SVT Nyheter
+- Tidigare premiär­ministerns show hånas: ”Behöver terapi” - Aftonbladet
+- Helt stopp i tågtrafiken på Södra stambanan – tåg evakuerat i Hässleholm - Sydsvenskan
 - Jätteaffären med krigsfartyg närmar sig: ”Otroligt tillskott” - Dagens Nyheter
-- Jordbävning i Japan – tsunami drar in över kusten - GP
-- Henrik Jalalian: Stoppat arbete mot könsstympning – där ägde du allt socialisterna, Dousa - ETC.se
-- Elever på Lundsberg döms för misshandel - Aftonbladet
+- Här blir inga barn gjorda: Män och kvinnor allt mer olika - Sydsvenskan
+- 08 december 17.25, Trafikkontroll, Jämtlands län - polisen.se
 - Bussförare somnade vid ratten – döms för dödsolycka - Dagens Nyheter
-- Varningar om skolattacker – ”det nya normala” - Corren
-- Norskt konstmuseum valt till världens vackraste - Västerbottens-Kuriren
-- Thailand till luftangrepp mot Kambodja - Dagens Nyheter
+- Kreml: USA och Ryssland har nästan samma syn på världspolitiken - SVT Nyheter
+- Nathan Shachar: Diktatorns fall tumlade om hela regionen - Dagens Nyheter
 - Europeiska ledare samlas i London – Sverige kräver att Ryssland ska betala - Europaportalen
-- Skottlossning på köpcentrum i Oslo - SVT Nyheter
-- Trump: Zelenskyj inte redo för fredsavtal - Hufvudstadsbladet
+- Civila döda i thailändska flyganfall mot Kambodja - Västerbottens-Kuriren
+- Lyxplagg försvann – myndighet kräver svar - SvD
+- Bilhandlare rasar mot nya Blocket: ”Många kommer tvingas bomma igen” - Dagens Nyheter
 - ARCTIC FALLS VÄRDERING SER LOCKANDE UT, TECKNA - AFV - Placera.se
-- Stockholmsbörsen i sidled – Saab i storbolagstät - DI
-- Skugg-AI sprids på företagen – men säkerhetsarbetet släpar efter - dagensinfrastruktur -
 - CHANS TILL REVANSCH, KÖP - AFV - Placera.se
 - Hårda kritiken mot nya kändistrenden - Expressen
-- PS5 dominerade black friday-försäljningen i både UK och USA - FZ.se
+- Call of Duty: Black Ops 7 recension - varvat.se
 
 ## World News
 
@@ -42,8 +42,8 @@ _Updated: 2025-12-08 17:44_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -51,24 +51,24 @@ _Updated: 2025-12-08 17:44_
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
-- MBZUAI and MIT Schwarzman College of Computing launch AI research collaboration (PR Newswire) - Aktiellt
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
@@ -127,17 +127,17 @@ _Updated: 2025-12-08 17:44_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -159,6 +159,6 @@ _Updated: 2025-12-08 17:44_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
