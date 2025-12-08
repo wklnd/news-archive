@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 22:52_
+_Updated: 2025-12-08 23:48_
 
-- Alina Habba, a Trump Loyalist, Resigns as New Jersey’s Top Prosecutor - The New York Times
-- Supreme Court conservatives poised to back Trump in FTC firing case - Reuters
-- White House to announce $12 billion aid package for U.S. farmers - CBS News
+- Jasmine Crockett Enters U.S. Senate Race in Texas, Reshaping Democratic Primary - The New York Times
+- US supreme court conservatives appear poised to back Trump in case that tests president’s ability to fire officials – live - The Guardian
+- Trump announces $12 billion in aid to farmers - NBC News
 - European leaders walk tightrope between backing Ukraine and keeping US on board - BBC
-- Donald Trump Lashes Out At Paramount Owners In Rant About Marjorie Taylor Greene’s Appearance On ‘60 Minutes’ - Deadline
-- Magnitude 7.6 quake triggers a tsunami on Japan’s northern coast - AP News
-- Colin Allred drops out of Senate race, will run for House instead - Dallas News
+- Video: Powerful 7.6 magnitude earthquake strikes near Japan - CNN
+- Trump responds to "traitor" Marjorie Taylor Greene after "60 Minutes" interview - CBS News
+- FBI Agents Sue Patel After Being Fired Over Kneeling at George Floyd Protest - The New York Times
+- Court clerk who helped with Alex Murdaugh’s trial pleads guilty to showing sealed exhibits - AP News
+- Miami Hasn’t Had a Democratic Mayor in Almost 30 Years. Is That About to Change? - The New York Times
 - Congress to withhold Pentagon travel funds until it sees boat strike videos - Politico
-- Germany news: Berlin rejects US criticism of Europe - DW
-- Court clerk who helped with Alex Murdaugh's trial pleads guilty to showing sealed exhibits - ABC News
 - With Fireworks and Parades, Syrians Celebrate Anniversary of al-Assad’s Fall - The New York Times
-- 100 schoolchildren abducted in Nigeria are released but more are still held - AP News
-- Congo President Tshisekedi accuses Rwanda of violating peace deal - Reuters
+- Thailand Launches Airstrikes on Cambodia After Soldier Killed - Bloomberg.com
+- Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia - AP News
 - Police raid UNRWA offices in East Jerusalem, raise Israeli flag over compound - The Times of Israel
-- Paramount Makes $77.9 Billion Hostile Bid for Warner After Netflix Struck Deal - The Wall Street Journal
+- Paramount launches hostile bid for Warner Bros., challenging Netflix deal - The Washington Post
+- Divided Fed ponders US interest-rate cut at end of tumultuous year - The Guardian
 - Despite Trump’s Tariffs, China’s Trade Surplus Climbs Past $1 Trillion for First Time - The New York Times
-- JPMorganChase names Todd Combs to head Strategic Investment Group of Security and Resiliency Initiative; Company also announces external advisory council to inform SRI’s strategy and investment priorities - JPMorganChase
-- Boeing Completes Acquisition of Spirit AeroSystems - Boeing Newsroom
+- IBM accelerates cloud drive with $11 billion Confluent deal as AI demand booms - Reuters
 - Google Says First AI Glasses With Gemini Will Arrive in 2026 - Bloomberg.com
-- iPhone 18 leak says Face ID moving under-display next year - 9to5Mac
+- 16 new features coming in Windows 11’s huge December update - PCWorld
