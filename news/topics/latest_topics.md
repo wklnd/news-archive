@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 18:53_
+_Updated: 2025-12-08 19:44_
 
 ## Top Stories
 
 - En kvinna häktad misstänkt för förgiftningar i Uppsala - Åklagarmyndigheten
-- SMHI varnar för kraftig vind – så drabbas Värmland - NWT
-- Haverikommissionen utreder inte svåra bussolyckan - Bussmagasinet
-- Ja till lagstiftning om asylcenter utanför EU - SVT Nyheter
-- Tidigare premiär­ministerns show hånas: ”Behöver terapi” - Aftonbladet
-- Helt stopp i tågtrafiken på Södra stambanan – tåg evakuerat i Hässleholm - Sydsvenskan
-- Jätteaffären med krigsfartyg närmar sig: ”Otroligt tillskott” - Dagens Nyheter
+- Friande dom efter klimataktion på Nationalmuseum - Dagens Nyheter
+- SMHI varnar för stormbyar i Göteborg - GP
+- Kvarlevor hittade i utbränd bil – misstänkt mord - Västerbottens-Kuriren
+- Marianne Björklund: Tullhotet räckte inte – nu sätts stridsflygplan in igen - Dagens Nyheter
+- Klart: Sjukdomsfall orsakade bussolyckan - Dagens Nyheter
+- Trendbrott när Sverige skaffar stora krigsfartyg - GP
 - Här blir inga barn gjorda: Män och kvinnor allt mer olika - Sydsvenskan
-- 08 december 17.25, Trafikkontroll, Jämtlands län - polisen.se
-- Bussförare somnade vid ratten – döms för dödsolycka - Dagens Nyheter
+- Norskt konstmuseum valt till världens vackraste - Folkbladet
+- Man anhållen för fyra mordförsök i Boden - Västerbottens-Kuriren
 - Kreml: USA och Ryssland har nästan samma syn på världspolitiken - SVT Nyheter
 - Nathan Shachar: Diktatorns fall tumlade om hela regionen - Dagens Nyheter
 - Europeiska ledare samlas i London – Sverige kräver att Ryssland ska betala - Europaportalen
-- Civila döda i thailändska flyganfall mot Kambodja - Västerbottens-Kuriren
-- Lyxplagg försvann – myndighet kräver svar - SvD
+- Ja till asylcenter utanför EU - UNT
 - Bilhandlare rasar mot nya Blocket: ”Många kommer tvingas bomma igen” - Dagens Nyheter
+- Plagg försvinner – kräver svar från Sellpy - SvD
 - ARCTIC FALLS VÄRDERING SER LOCKANDE UT, TECKNA - AFV - Placera.se
 - CHANS TILL REVANSCH, KÖP - AFV - Placera.se
 - Hårda kritiken mot nya kändistrenden - Expressen
@@ -43,7 +43,7 @@ _Updated: 2025-12-08 18:53_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -51,25 +51,25 @@ _Updated: 2025-12-08 18:53_
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
+- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 
 ## Business
 
@@ -82,9 +82,9 @@ _Updated: 2025-12-08 18:53_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DARIGOLD NAMES AMY HUMPHREYS CHIEF EXECUTIVE OFFICER (PR Newswire) - Aktiellt
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -107,7 +107,6 @@ _Updated: 2025-12-08 18:53_
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -116,28 +115,29 @@ _Updated: 2025-12-08 18:53_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -148,17 +148,17 @@ _Updated: 2025-12-08 18:53_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Lediga jobb - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
