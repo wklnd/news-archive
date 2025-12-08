@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 01:48_
+_Updated: 2025-12-08 04:27_
 
-- Top Armed Services Dem says Sept. 2 strike video would show Republicans’ description ‘completely false’ - ABC News
-- Kremlin hails Trump’s national security strategy as aligned with Russia’s vision - The Guardian
+- Democrats urge Pentagon to release video of strike on alleged drug boat - The Guardian
 - Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies - The New York Times
-- Colin Jost Plays Pete Hegseth on ‘S.N.L.’ to Explain ‘Operation Kill Everybody’ - The New York Times
-- Japan and Australia urge calm after Chinese radar locks on Japanese jets - NBC News
+- New US security strategy aligns with Russia's vision, Moscow says - BBC
+- Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing - AP News
+- Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News
 - Immigration Agents Target Family of Deported College Student - The New York Times
-- Suspect arrested in stabbing on Charlotte light rail line where Ukrainian refugee was killed - KSL.com
+- Stabbing on North Carolina commuter train draws Trump's attention amid immigration crackdown - CBS News
+- Judge: DOJ likely broke Constitution in using Comey lawyer's seized emails - Axios
+- The Married Scientists Torn Apart by a Covid Bioweapon Theory - The New York Times
 - Homan defends Trump after president calls Somali community ‘garbage’ - Politico
-- ‘Sort of blackmail’: Billions in rural health funding hinge on states passing Trump-backed policies - Politico
-- Rep. Ilhan Omar: Any link between alleged Somali fraud and terrorism would be a "failure of the FBI" - CBS News
-- Leak Highlights Poor State of Louvre Infrastructure - The New York Times
-- Benin coup thwarted by loyalist troops, President Talon tells nation - BBC
-- A fire at a popular nightclub in India's Goa state kills at least 25, officials say - NPR
-- Netanyahu says he won’t quit politics in exchange for pardon in corruption trial - The Times of Israel
-- Trump administration lets Southwest Airlines off the hook with a multimillion dollar waiver for 2022 holiday travel meltdown - CNN
+- Hundreds of works in the Louvre damaged by flooding - NBC News
+- China Fighter Jet Locks Radar on Japan Planes in Row Over Taiwan - Bloomberg.com
+- Benin coup thwarted by loyalist troops, president tells nation - BBC
+- Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements - The New York Times
+- Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News
+- Air Transat: Canadia airline to halt flights ahead of strike - BBC
 - Powerball Jackpot Reaches $875 Million—Here’s How Much A Winner Could Get After Taxes - Forbes
-- Bond Traders Defy the Fed and Spark Heated Debate on Wall Street - Bloomberg.com
-- Is Trump's falling approval rating a tell to buy midcap stocks? - Seeking Alpha
-- Justin Bieber is just like us: He's really mad about this annoying iPhone design feature - Business Insider
+- The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas - MarketWatch
+- A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert
 - Sunday Preview – Festive squig clothing returns! - Warhammer Community
