@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 10:58_
+_Updated: 2025-12-08 11:53_
 
+- Thailand launches airstrikes on Cambodia as Trump’s peace agreement hangs in balance - CNN
 - Republicans in Congress mocked Trump privately, Marjorie Taylor Greene says - The Guardian
-- Thailand launches airstrikes at Cambodia as border tensions reignite - Reuters
-- Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean - The New York Times
-- Water leak in Louvre damages hundreds of books - BBC
+- Defense Department is reviewing boat strike video for possible release, Hegseth says - NPR
 - Chinese carrier holds air drills as Tokyo, Beijing trade barbs - Reuters
 - Benin’s president condemns a foiled coup bid and says mutineers are ‘fleeing’ - AP News
-- Supreme Court to reconsider a 90-year-old unanimous ruling that limits presidential power - Fortune
+- Congress Gears Up to Pass $900 Billion Defense Policy Bill - The New York Times
+- Tributes, not politics, play center stage as Trump hosts the Kennedy Center Honors - NPR
+- The Supreme Court weighs Trump’s bid to fire independent agency board members - AP News
+- Trump pardoned him days ago. Now he's furious the Democrat is running for reelection. - Axios
 - Records reviewed by AP detail online monitoring, arrests in New Orleans immigration crackdown - CNN
-- Stabbing on North Carolina commuter train draws Trump's attention amid immigration crackdown - CBS News
-- Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing - AP News
-- European allies to rally support for Ukraine as US pressure mounts - Financial Times
+- Starmer to Host Zelenskiy at ‘Pivotal’ Moment for Ukraine Talks - Bloomberg.com
+- Louvre: Water leak damages hundreds of historic books - DW
 - Pope Leo XIV prays for victims of floods in Southeast Asia - Vatican News
-- One year after Assad's toppling: What has Syria achieved? - DW
-- Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements - The New York Times
+- One year after Assad's fall: What has Syria achieved? - DW
+- Stocks hold ground as markets eye Fed rate cut - Reuters
+- China’s exports grow 5.9% in November, while US shipments drop 29% - AP News
 - IBM Close to Buying Confluent in $11 Billion Deal, WSJ Says - Bloomberg.com
 - Japan GDP Data Confirms Contraction, But Rate-Hike View Remains Intact - The Wall Street Journal
-- Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News
-- Stocks, bonds cautiously hopeful Fed will deliver - Reuters
 - A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert
-- After Winning His First Oscar, Tom Cruise Kept Repeating the Same Phrase - Inc.com
+- The ROG Xbox Ally Has Just Received Its First Major Discount - Pure Xbox
