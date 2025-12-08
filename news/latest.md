@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 19:50_
+_Updated: 2025-12-08 20:55_
 
-- Supreme Court conservatives poised to back Trump in FTC firing case - Reuters
-- 7.6-Magnitude Earthquake Triggers Tsunami Warning in Japan - The New York Times
-- Zelenskyy heads to London for more Ukraine peace talks. Here’s what to know - NPR
-- White House to announce $12 billion farmer bailout package - Politico
-- Colin Allred drops Senate bid, pivots to run for Congress - The Texas Tribune
-- Scoop: Senate GOP chairs circulate health plan as clock ticks on ACA subsidies - Axios
+- Planes, Trade and Nuclear Energy: Supreme Court Weighs Fate of Independent Regulators - The New York Times
 - Donald Trump Lashes Out At Paramount Owners In Rant About Marjorie Taylor Greene’s Appearance On ‘60 Minutes’ - Deadline
-- Court clerk who helped with Alex Murdaugh’s trial pleads guilty to showing sealed exhibits - AP News
-- Republicans have an affordability problem. They can’t agree on how to fix it. - Politico
-- Trump’s National Security Strategy: Atlas Shrugs - The Bulwark
-- One year after Assad's fall: What has Syria achieved? - DW
+- White House to announce $12 billion aid package for U.S. farmers - CBS News
+- European leaders walk tightrope between backing Ukraine and keeping US on board - BBC
+- Japan tells residents to evacuate as powerful earthquake strikes north-east - The Guardian
+- Colin Allred drops out of Texas Senate race - Politico
+- Congress to withhold Pentagon travel funds until it sees boat strike videos - Politico
+- Clerk in Alex Murdaugh murder trial pleads guilty to showing graphic crime scene photos to reporter - CBS News
+- Miami Hasn’t Had a Democratic Mayor in Almost 30 Years. Is That About to Change? - The New York Times
+- Trump Says He’ll Sign Executive Order Curbing State AI Rules - Bloomberg.com
+- A year on from the ousting of Assad, Syrians remember the pain but rejoice at their freedom - CNN
 - Thailand Launches Airstrikes on Cambodia After Soldier Killed - Bloomberg.com
-- Louvre workers announce strike over work conditions and security after $102M heist - AP News
-- A Weakened Hamas Still Dominates Gaza, Building Day by Day - The New York Times
-- Warner Bros fight heats up with $108 billion hostile bid from Paramount - Reuters
+- Police raid UNRWA offices in East Jerusalem, raise Israeli flag over compound - The Times of Israel
+- Ancient Egyptian pleasure boat found by archaeologists off Alexandria coast - The Guardian
+- Paramount Skydance makes $108 billion bid for all of Warner Bros. Discovery, following Netflix deal - CBS News
 - Divided Fed ponders US interest-rate cut at end of tumultuous year - The Guardian
 - Despite Trump tariffs, China’s global trade surplus tops $1 trillion - The Washington Post
-- Mars Receives Final Regulatory Approval and Moves to Close Acquisition of Kellanova - Mars, Incorporated
+- Comcast president outlines unsuccessful WBD offer and future of NBC's Peacock - CNBC
+- I tried Google’s prototype smart glasses and it almost made me forget about my phone - CNN
 - iPhone 18 leak says Face ID moving under-display next year - 9to5Mac
-- Breaking: Samsung kicks off One UI 8.5 beta program for Galaxy S25 series - Android Authority
