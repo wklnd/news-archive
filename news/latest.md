@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 12:54_
+_Updated: 2025-12-08 13:49_
 
-- Thailand launches airstrikes on Cambodia as Trump’s peace agreement hangs in balance - CNN
-- Supreme Court to reconsider a 90-year-old unanimous ruling that limits presidential power - Fortune
-- Republicans in Congress mocked Trump privately, Marjorie Taylor Greene says - The Guardian
+- Supreme Court to hear case that could vastly expand presidential powers - NPR
+- 'I am America First': Marjorie Taylor Greene knocks Trump for not focusing on domestic issues - NBC News
+- Thailand launches airstrikes at Cambodia as border tensions reignite - Reuters
 - Trump says Zelensky ‘isn’t ready’ to approve US peace plan to end Russia-Ukraine war - France 24
-- Chinese carrier holds air drills as Tokyo, Beijing trade barbs - Reuters
-- Defense Department is reviewing boat strike video for possible release, Hegseth says - NPR
-- Tributes, not politics, play center stage as Trump hosts the Kennedy Center Honors - NPR
-- Redistricting in Indiana faces ultimate test in state Senate - AP News
+- Zohran Mamdani tells immigrant New Yorkers about their right not to comply with ICE - ABC News
+- Troops and warplanes deployed in Benin after ‘failed coup attempt’ - The Guardian
+- As affordability concerns mount, Hill Republicans are struggling to act - Politico
 - Records reviewed by AP detail online monitoring, arrests in New Orleans immigration crackdown - CNN
 - Stabbing on North Carolina commuter train draws Trump's attention amid immigration crackdown - CBS News
-- Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements - The New York Times
-- One year after Assad's fall: What has Syria achieved? - DW
+- Defense Department is reviewing boat strike video for possible release, Hegseth says - NPR
+- A year after Bashar Assad fled, Syria struggles to heal - AP News
+- Zelensky to Meet With European Leaders as Ukraine Peace Talks Drag On - The New York Times
+- Hongkongers sit out first election since deadly fire - Financial Times
 - Hundreds of works in the Louvre damaged by flooding - NBC News
-- Pope Leo XIV prays for victims of floods in Southeast Asia - Vatican News
+- China’s trade surplus tops $1 trillion as its exports surge while imports lag behind - AP News
 - Stocks hold ground as markets eye Fed rate cut - Reuters
-- China’s exports grow 5.9% in November, while US shipments drop 29% - AP News
 - Japan Confirms Deeper GDP Decline, Backing Takaichi’s Stimulus - Bloomberg.com
-- Asia stocks dither ahead of Fed meeting; Japan Q3 GDP in focus - Investing.com
-- Samsung Unveils Galaxy Z TriFold Price And Release Date: Soon, But There’s A Catch - Forbes
-- A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert
+- Starbucks Glass Bearista Cup is Restocking Tomorrow - Resell Calendar
+- Samsung app update confirms One UI 8.5 beta is very close - SamMobile
+- ‘Only so long’ before Trump's tariff costs hit consumers, businesses warn - Politico
