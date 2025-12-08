@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 15:54_
+_Updated: 2025-12-08 16:53_
 
-- In landmark case, Supreme Court to rule on Trump's bid to control independent agencies - ABC News
-- Thailand-Cambodia conflict: Thousands flee disputed border after deadly clashes and air strikes - BBC
+- Paramount Skydance launches hostile bid for WBD after Netflix wins bidding war - CNBC
+- Supreme Court to hear case that could vastly expand presidential powers - NPR
+- Democrat Colin Allred drops out of Senate race, announces run for 33rd Congressional District - The Texas Tribune
 - Zelensky to Meet With European Leaders as Peace Talks Drag On - The New York Times
-- Marjorie Taylor Greene says Republicans "terrified to step out of line" when it comes to Trump - CBS News
-- Trump says Zelenskyy 'hasn't read U.S. peace proposal' as tensions mount - CNBC
-- Zohran Mamdani tells immigrant New Yorkers about their right not to comply with ICE - ABC News
-- Tributes, not politics, play center stage as Trump hosts the Kennedy Center Honors - NPR
+- Thailand launches airstrikes on Cambodia as Trump’s peace agreement hangs in balance - CNN
+- Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News
 - As affordability concerns mount, Hill Republicans are struggling to act - Politico
-- Redistricting in Indiana faces ultimate test in state Senate - AP News
+- Obamacare Users Face Higher Deductibles, Higher Premiums - The New York Times
+- Tributes, not politics, play center stage as Trump hosts the Kennedy Center Honors - NPR
 - Trump’s National Security Strategy: Atlas Shrugs - The Bulwark
-- One year after Assad's fall: What has Syria achieved? - DW
-- Hongkongers sit out first election since deadly fire - Financial Times
-- First a heist, now a leak. Water damages antique books at the Louvre. - The Washington Post
-- Hitmen ambush and kill reporter who covered corruption in Peru, journalist group says - CBS News
-- Berkshire Hathaway stock picker Todd Combs to leave for JPMorgan - Financial Times
+- Syria marks year since dramatic fall of Assad's rule - BBC
+- Hong Kong Election Draws Tepid Turnout After Deadly Fire - The Wall Street Journal
+- Louvre: Water leak damages hundreds of historic books - DW
+- A Weakened Hamas Still Dominates Gaza, Building Day by Day - The New York Times
+- Stocks hold ground as markets eye Fed rate cut - Reuters
 - China’s trade surplus with the world tops $1 trillion, despite tariffs - The Washington Post
-- Firm that called 2025 nearly perfectly — until a moment of doubt — now has highest S&P 500 target on Wall Street - MarketWatch
-- Binance Wins Full ADGM Approval for Exchange, Clearing, and Brokerage Operations - CoinDesk
-- Samsung officially announcing One UI 8.5 beta program today, here's what you need to know - SamMobile
+- Berkshire Hathaway stock picker Todd Combs to leave for JPMorgan - Financial Times
+- S&P 500 futures rise, led by tech sector as Broadcom gains, IBM makes $11 billion deal: Live updates - CNBC
+- Breaking: Samsung kicks off One UI 8.5 beta program for Galaxy S25 series - Android Authority
 - Please send help. I can’t stop playing these roguelikes. - Ars Technica
