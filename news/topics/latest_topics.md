@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 10:54_
+_Updated: 2025-12-08 11:49_
 
 ## Top Stories
 
-- Anlagd brand i butik – ”öppna lågor” - Expressen
+- Gul varning för busväder – risk för blockerade vägar - SVT Nyheter
 - ”Moderaterna måste stå upp för de principer vi själva driver” - Folkbladet
 - Byggnadstopp anklagas för att ha anlitat nära vän - Aftonbladet
-- Nya strider mellan Thailand och Kambodja - SVT Nyheter
-- Norskt konstmuseum valt till världens vackraste - Sydsvenskan
-- Elever på tekniska program straffas med lägre betyg - Dagens Nyheter
-- Överklagar vargjakten: "Starkt hotad art" - UNT
+- Bildt om USA:s nya säkerhetsplan: Rätt mycket extremistisk sörja - SVT Nyheter
 - Många tonåringar bland de dömda för oaktsam våldtäkt - Omni
-- Tonåring gripen – explosivt föremål beslagtaget - Västerbottens-Kuriren
-- Kommunfullmäktige - Sundbybergs stad
-- Direkt – Kriget i Ukraina – Trump: Zelenskyj inte redo för fredsavtal - Dagens Nyheter
-- Nathan Shachar: Diktatorns fall tumlade om hela regionen - Dagens Nyheter
-- Ukraina varnar för dolda hotet från Ryssland - Expressen
-- Paasikivi: USA:s nya strategi ”skitfarlig” - Hufvudstadsbladet
+- Thailand till luftangrepp mot Kambodja - Dagens Nyheter
+- Elever på tekniska program straffas med lägre betyg - Dagens Nyheter
+- Norskt konstmuseum valt till världens vackraste - Västerbottens-Kuriren
+- Misstänkt människoexploatering, gripanden och omedelbara förbud vid myndighetskontroller i Halland - Via TT
+- Överklagar vargjakten: "Starkt hotad art" - UNT
+- Trump: Zelenskyj inte redo för fredsavtal - Hufvudstadsbladet
+- Erik Esbjörnsson: Nigerias stridsflyg i Benin en markering mot juntor - Dagens Nyheter
+- Svenskarna mitt i kaoset – flera döda - Expressen
+- Syrien ett år efter al-Assad: Skör fred och pressad ekonomi - Dagens Nyheter
 - Bufféjuristen: Så mycket får du äta på en buffé - Dagens Nyheter
 - Blackrock om AI-boomen: "Den verkliga risken är energin" - Affärsvärlden
 - Mårder tipsar om 10 ”julklappar” på börsen - Dagens PS
-- Efter lyftet: Ännu ett köpråd för Investors börsjätte - Dagens PS
-- Fallout-skaparen åter till Obsidian: "Gissa inte – ni kommer inte gissa rätt ändå" - FZ.se
+- Experternas dom om Audis oväntade återkomst - Dagens PS
+- Hårda kritiken mot nya kändistrenden - Expressen
 - Eds Glasmästeri AB: Här är senaste årsredovisningen - Dalslänningen
 
 ## World News
@@ -73,72 +73,72 @@ _Updated: 2025-12-08 10:54_
 
 ## Business
 
+- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- PVH Corp. Announces CFO Transition - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
+- DARIGOLD NAMES AMY HUMPHREYS CHIEF EXECUTIVE OFFICER (PR Newswire) - Aktiellt
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour to List Four Digital Asset ETPs on Brazil's B3 Exchange - Placera.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- AFTD Grantee Leads Basic Science Study Exploring Role of Protein in Tau-Based Disorders like CBD - AFTD - The Association for Frontotemporal Degeneration
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
