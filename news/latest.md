@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 05:45_
+_Updated: 2025-12-08 06:58_
 
-- Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean - The New York Times
 - Former MAGA loyalist Marjorie Taylor Greene says Trump policies are not America First - CBS News
-- Thailand launches airstrikes on Cambodia as Trump’s peace agreement hangs in balance - CNN
+- Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean - The New York Times
+- Thailand launches air strikes against Cambodia as deadly border clashes escalate - BBC
+- Benin's president condemns a foiled coup bid and says mutineers are 'fleeing' - ABC News
 - Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing - AP News
-- Immigration hawks push for new restrictions in wake of National Guard shooting - Politico
-- Kremlin hails Trump’s national security strategy as aligned with Russia’s vision - The Guardian
+- Heathrow Airport Is Briefly Locked Down After Spray Is Used in Altercation - The New York Times
 - Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies - The New York Times
-- Stabbing on North Carolina commuter train draws Trump's attention amid immigration crackdown - CBS News
-- Trump says Zelenskyy 'isn't ready' yet to accept US-authored proposal to end Russia-Ukraine war - AP News
-- Homan defends Trump after president calls Somali community ‘garbage’ - Politico
+- Suspect arrested in stabbing on Charlotte light rail line where Ukrainian refugee was killed - KSL.com
+- Russia praises US security strategy shift heralded by ‘strong’ Trump - politico.eu
+- Judge: DOJ likely broke Constitution in using Comey lawyer's seized emails - Axios
 - Hundreds of works in the Louvre damaged by flooding - NBC News
-- For Venezuela’s Machado, Collecting Nobel Peace Prize Could Mean Exile - The Wall Street Journal
-- Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says - The New York Times
-- LegCo: Hong Kong votes in election as city mourns deadly fire - BBC
+- Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements - The New York Times
+- One year after Assad's toppling: What has Syria achieved? - DW
+- Indonesian zoo releases photos of the first-ever panda cub born in the country - CBS News
 - Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News
 - Fed Rate Decision, Adobe, Oracle, Costco, Broadcom, and More Stocks to Watch This Week - Barron's
 - Exclusive | IBM Nears Roughly $11 Billion Deal for Confluent - The Wall Street Journal
