@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-08 07:52_
+_Updated: 2025-12-08 09:00_
 
-- Marjorie Taylor Greene says Republicans "terrified to step out of line" when it comes to Trump - CBS News
-- Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean - The New York Times
-- Thailand launches air strikes against Cambodia as deadly border clashes escalate - BBC
+- Marjorie Taylor Greene defiant since announcing resignation after falling-out with Trump - CNN
+- Thailand launches airstrikes along disputed border with Cambodia as tensions flare - The Guardian
 - Newspaper headlines: Heathrow 'pepper spray attack' and 'Harry gun cop U-turn' - BBC
-- Chinese carrier holds air drills as Tokyo, Beijing trade barbs - Reuters
+- Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean - The New York Times
+- Hundreds of works in the Louvre damaged by flooding - NBC News
 - Kremlin hails Trump’s national security strategy as aligned with Russia’s vision - The Guardian
 - Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies - The New York Times
-- Trump says Zelenskyy ‘isn’t ready’ to accept US peace deal - The Guardian
-- Trump lashes out as latest Charlotte light rail stabbing reignites political fight - Charlotte Observer
+- Stabbing on North Carolina commuter train draws Trump's attention amid immigration crackdown - CBS News
 - Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing - AP News
+- Trump says Zelensky ‘isn’t ready’ to approve US peace plan to end Russia-Ukraine war - France 24
 - Death toll passes 900 after devastating Indonesia floods - BBC
-- Hundreds of works in the Louvre damaged by flooding - NBC News
 - Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements - The New York Times
-- One year after Assad's toppling: What has Syria achieved? - DW
-- Fed Rate Decision, Adobe, Oracle, Costco, Broadcom, and More Stocks to Watch This Week - Barron's
-- Exclusive | IBM Nears Roughly $11 Billion Deal for Confluent - The Wall Street Journal
+- Japan protests after China military jet locks radar on Japanese aircraft - AP News
+- Benin's president condemns a foiled coup bid and says mutineers are 'fleeing' - ABC News
+- The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas - MarketWatch
 - Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News
-- Powerball Jackpot Reaches $875 Million—Here’s How Much A Winner Could Get After Taxes - Forbes
+- IBM Close to Buying Confluent in $11 Billion Deal, WSJ Says - Bloomberg.com
+- Yardeni turns less bullish on Magnificent Seven as growth moderates (NVDA:NASDAQ) - Seeking Alpha
 - A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert
-- I failed to recreate the 1996 Space Jam website with Claude - Hacker News
+- Chinese phonemakers seize on Apple’s AI struggles - Financial Times
