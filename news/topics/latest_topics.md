@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 06:54_
+_Updated: 2025-12-08 07:46_
 
 ## Top Stories
 
-- DN Direkt – Få röstade när Hongkong gick till val - Dagens Nyheter
+- Ukraina varnar för dolda hotet från Ryssland - Expressen
+- Thailändska luftattacker mot Kambodja - Västerbottens-Kuriren
+- Elever på tekniska program straffas med lägre betyg - Dagens Nyheter
 - Två ödesfrågor – då pekas han ut som lösningen - Aftonbladet
 - SD-topp: ”Kvinnor i min släkt är väldigt vänster” - SvD
-- Rekordsumma i Musikhjälpen 2025 - SVT Nyheter
-- LEDARE: Synliggör den okända skatten - Smålandsposten
-- Stopp på E22 efter singelolycka – drabbad till sjukhus - NT
+- Debatt: Följ exemplet och visa hela skatten - NWT
 - Hegseth: Sveriges stöd avgörande - GP
-- Man anhållen för fyra mordförsök i Boden - Dagens Nyheter
-- Flera omhändertagna vid högerextrem marsch - Västerbottens-Kuriren
-- Nya regler för bygglov: "Radikal förändring – de har storstädat" - Norran
-- Direkt – Kriget i Ukraina – Zelenskyj: Inga enkla samtal med USA - Dagens Nyheter
-- Bortförda skolbarn ska friges i Nigeria - GP
-- Ukraina varnar för dolda hotet från Ryssland - Expressen
-- Paasikivi: USA:s nya strategi ”skitfarlig” - Hufvudstadsbladet
+- 13 fångar hittade döda i fängelse – igen - Aftonbladet
+- Stopp på E22 efter singelolycka – drabbad till sjukhus - NT
+- Butiksbrand i Osby: Öppna lågor - SVT Nyheter
+- Trump: Zelenskyj inte redo för fredsavtal - Hufvudstadsbladet
+- Syrien ett år efter al-Assad: Skör fred och pressad ekonomi - Dagens Nyheter
+- Drogs med av jättevågor – flera döda på Teneriffa - Corren
+- DN Direkt – Fyra mordförsök i Boden i lördags - Dagens Nyheter
 - Bufféjuristen: Så mycket får du äta på en buffé - Dagens Nyheter
 - Avgiften rusar – elkunder betalar miljarder - SvD
-- Förmögenheten överförs – allt fler arvtagare blir miljardärer - Dagens PS
-- Välfärden bärs allt mer av utlandsfödda - Tidningen Näringslivet
+- Allt fler tror på högre bostadspriser 2026 - SEB Group
+- Partyplagget årets modejulklapp 2025 - Svensk Handel
+- Uppgifter: Apples chipp-chef Johny Srouji kan vara på väg att lämna bolaget - Macworld.se
 - ”Dead Space”-serien är död – EA har inga planer - MovieZine.se
-- Mekanikerns knep: Så avslöjar du läckan - Carup.se
 
 ## World News
 
 - Krögarens inlägg om Israel fick global spridning – nu backar han - Dagens Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Good News · Senaste nyheterna om trav - Travronden
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - Avlyssningsskandalen växer - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Shifting its focus, Thumzup Bets Big on Blockchain, AI, and the Future of Digital Value - Placera.se
+- Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 - Digital Realty Advances AI Infrastructure Innovation Supporting NVIDIA AI Factory Research Center and NVIDIA DSX Blueprint (PR Newswire) - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
+- MBZUAI and MIT Schwarzman College of Computing launch AI research collaboration (PR Newswire) - Aktiellt
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
@@ -77,7 +77,6 @@ _Updated: 2025-12-08 06:54_
 - PVH Corp. Announces CFO Transition - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Galaxy Expands into Liquid Staking as Development Company for Liquid Collective - Placera.se
@@ -93,21 +92,22 @@ _Updated: 2025-12-08 06:54_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -154,7 +154,7 @@ _Updated: 2025-12-08 06:54_
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
-- Lediga jobb - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
