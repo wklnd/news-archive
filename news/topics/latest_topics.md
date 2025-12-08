@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-08 20:52_
+_Updated: 2025-12-08 21:39_
 
 ## Top Stories
 
 - Kvinna häktad efter misstänkta förgiftningarna på Ackis - UNT
 - Friande dom efter klimataktion på Nationalmuseum - Dagens Nyheter
-- Klart: Sjukdomsfall orsakade bussolyckan - Dagens Nyheter
-- Nytt parkeringskaos: David, 33, satt i bilkö i två timmar i Nordstan - GP
-- SMHI: ”Mycket hårda vindbyar” - Jönköpings-Posten
-- Tidigare premiär­ministerns show hånas: ”Behöver terapi” - Aftonbladet
-- Man anhållen för fyra mordförsök kände offren - Västerbottens-Kuriren
-- Här blir inga barn gjorda: Män och kvinnor allt mer olika - Sydsvenskan
-- Trendbrott när Sverige skaffar stora krigsfartyg - GP
-- Bussförare somnade vid ratten – döms för dödsolycka - Dagens Nyheter
-- Kreml: USA och Ryssland har nästan samma syn på världspolitiken - SVT Nyheter
 - Direkt – Kriget i Ukraina – Zelenskyj: Förslag till fredsplanen lämnas till USA på tisdag - Dagens Nyheter
-- Nathan Shachar: Diktatorns fall tumlade om hela regionen - Dagens Nyheter
-- Unrwas tillgångar beslagtagna av israelisk polis - Hufvudstadsbladet
-- Bilhandlare rasar mot nya Blocket: ”Många kommer tvingas bomma igen” - Dagens Nyheter
+- Fetaosten hotad: ”Kan ta slut på hyllorna” - TV4 Nyheterna
+- Nytt parkeringskaos: David, 33, satt i bilkö i två timmar i Nordstan - GP
+- Klart: Sjukdomsfall orsakade bussolyckan - Dagens Nyheter
+- Man anhållen för fyra mordförsök kände offren - Västerbottens-Kuriren
+- Trendbrott när Sverige skaffar stora krigsfartyg - GP
+- Här blir inga barn gjorda: Män och kvinnor allt mer olika - Sydsvenskan
+- Bussförare somnade vid ratten – döms för dödsolycka - Dagens Nyheter
+- Europeiska ledare samlas i London – Sverige kräver att Ryssland ska betala - Europaportalen
+- T-rex-släkting på väg tillbaka till Mongoliet - Hufvudstadsbladet
+- Kreml: USA och Ryssland har nästan samma syn på världspolitiken - SVT Nyheter
+- Unrwas tillgångar beslagtagna av israelisk polis - Västerbottens-Kuriren
 - Plagg försvinner – kräver svar från Sellpy - SvD
+- Vill Konsumentverket styra vad vi ska äta? - SvD
 - Wingefors om nya investmentbolaget: "Fastigheter riktade mot försvarsindustrin" - Affärsvärlden
-- Affärsvärlden ger rådet teckna Arctic Falls nyintroduktion - Placera.se
+- Bilhandlare rasar mot nya Blocket: ”Många kommer tvingas bomma igen” - Dagens Nyheter
 - Hårda kritiken mot nya kändistrenden - Expressen
-- Call of Duty: Black Ops 7 recension - varvat.se
+- Google: AI-drivna smarta glasögon väntas 2026 - Omni
 
 ## World News
 
@@ -35,17 +35,17 @@ _Updated: 2025-12-08 20:52_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Avlyssningsskandalen växer - Journalisten
 - Widespread mortality of coral reefs - Stockholms universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 
 ## Technology
@@ -53,6 +53,7 @@ _Updated: 2025-12-08 20:52_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -64,11 +65,10 @@ _Updated: 2025-12-08 20:52_
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- Intellistake Appoints Singularity Compute CEO Joe Honan to Its Advisory Board to Strengthen Vision Across Global AI Infrastructure - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
-- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
@@ -121,24 +121,24 @@ _Updated: 2025-12-08 20:52_
 
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 5 myter om öppen vetenskap - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
