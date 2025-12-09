@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 18:52_
+_Updated: 2025-12-09 19:45_
 
 ## Top Stories
 
-- Tidö-partiernas sju punkter efter mötet - Expressen
+- Två personer hittade döda i Hörby – en gripen - Dagens Nyheter
+- Som tre vise män kom de med gåvor - SvD
 - 26-årig man döms för mordet på Helena - Aftonbladet
-- Polisen utreder händelse i Hörby - SVT Nyheter
-- Anställd på Akademiska häktad efter misstänkta förgiftningar - Vårdfokus
-- Polisen plockar ner avspärrningarna – föremålet inte skarpt - SVT Nyheter
+- Polisens före detta säkerhetschef åtalas för brott - Dagens Nyheter
+- Kvinna häktad efter misstänkta förgiftningarna på Ackis - UNT
 - Trumps kritik mot Sverige – och Europas ledare: ”Svaga” - GP
 - Kronprinsessan har fördjupat sig i Flygvapnets verksamhet - Försvarsmakten
-- Tvärstopp för nattåget till Schweiz - SVT Nyheter
 - En gripen för sjukhusstölder - Expressen
-- Så har det gått i dagens trafikkontroller - Östersunds-Posten
-- Oklart var fredspristagaren María Corina Machado befinner sig - GP
-- Påven i möte med Zelenskyj – vill se rättvis fred - GP
-- Zelenskyj: Fredsförslag kommer imorgon - SVT Nyheter
-- Militärt transportflygplan har störtat i Ryssland - Omni
-- Skrotbilspremien floppade – nya satsningar ska gynna elbilsägare - Dagens Nyheter
+- Misstänkt farligt föremål vid skola - Expressen
+- Jacob Henriksson blir ny finansdirektör på Svenska kraftnät - Svenska kraftnät
+- DN Direkt – Pressträff med fredspristagare inställd - Dagens Nyheter
+- Halva Kiev mörklagt – varning för svår vinter - Västerbottens-Kuriren
+- Zelenskyj: Redo presentera fredsförslag för USA - GP
+- Syrien ett år efter Assads fall: Överlevare och familjers rättigheter måste vägleda övergångsregeringen - Amnesty Sverige
 - Thedéen: Dags att utreda e-krona - Tidningen Näringslivet
-- Trumps vindkraftsförbud får smisk i domstol - Aftonbladet
-- Fel upptäckt – Oskarshamns kärnkraftverk stängs - SVT Nyheter
-- Nu lyser Husbygårdsskolan upp Sergels torg - Nyhetsbyrån Järva
+- Skrotbilspremien floppade – nya satsningar ska gynna elbilsägare - Dagens Nyheter
+- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
+- Trumps vindkraftsförbud får smisk i domstol - Folkbladet
 - Hårda kritiken mot nya kändistrenden - Expressen
+- Oops! Capcom råkar röja klassisk Resident Evil-hjälte i Requiem - FZ.se
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - news.un.org
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Widespread mortality of coral reefs - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -57,8 +57,8 @@ _Updated: 2025-12-09 18:52_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -82,10 +82,9 @@ _Updated: 2025-12-09 18:52_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DARIGOLD NAMES AMY HUMPHREYS CHIEF EXECUTIVE OFFICER (PR Newswire) - Aktiellt
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -93,21 +92,23 @@ _Updated: 2025-12-09 18:52_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2025-12-09 18:52_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
