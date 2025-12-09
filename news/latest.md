@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-09 13:48_
+_Updated: 2025-12-09 15:23_
 
-- Zelenskyy says Ukraine won’t cede territory to Russia - Politico
-- Judge orders the release of an immigrant with ties to White House press secretary Karoline Leavitt - AP News
-- European leaders walk tightrope between backing Ukraine and keeping US on board - BBC
-- Why Senate Republicans aren't uniting behind a health care plan - Politico
-- Compromise NDAA would let DoD promote civilians faster, increase cyber pay - Federal News Network
-- DeSantis labels Muslim advocacy group CAIR a foreign terrorist group in Florida - Axios
-- Bullets in Luigi Mangione’s bag convinced police that he was UnitedHealthcare CEO killing suspect - AP News
-- Massachusetts Church Keeps Anti-ICE Nativity Scene, Defying Diocese Leaders - The New York Times
+- JD Vance's hedging on a presidential run could imperil his campaign finance Supreme Court case - NBC News
+- Trump's trade wounds force White House into action - Axios
+- Trump walks back support for releasing video of second boat strike - CBS News
+- Supreme Court seems likely to let Trump fire independent agency heads - Politico
+- U.S. pushes Zelensky for swift yes on peace plan: Ukrainian officials - Axios
+- Democratic Rep. Jasmine Crockett announces run for U.S. Senate in Texas - PBS
+- Miami has had Republican mayors for decades, but the office is up for grabs Tuesday - NBC News
+- Trump loyalist Alina Habba resigns as New Jersey’s top federal prosecutor - The Washington Post
+- Honduras seeks arrest of ex-President Hernández after Trump pardon - NPR
 - Trump says he’s fixing affordability problems. He’ll test out that message at a rally - AP News
-- Between Pakistan and Afghanistan, a Trade War With No End in Sight - The New York Times
-- Japan threatening us militarily, China tells German foreign minister - Reuters
-- Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia - AP News
-- GCAP Opens Doors to Germany as Dassault-Airbus Feud Kills FCAS Fighter Dream - Defense Express
-- Did you match the winning numbers in Dec. 8, 2025 Powerball drawing? - PhillyBurbs
-- Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives? - MarketWatch
-- Cursor internal AI Help Desk handles 80% of employees' support tickets - Fortune
-- The Fed can cut rates again Wednesday, but higher yields are a threat to markets - MarketWatch
-- Google’s AI try-on app Doppl adds a shoppable discovery feed - TechCrunch
-- Skate Story review: skateboarding is better in hell - The Verge
-- Block all AI browsers for the foreseeable future: Gartner - theregister.com
+- Dozens injured in M7.5 quake in Japan, gov't warns of bigger temblor - Japan Wire by KYODO NEWS
+- CNN Fact-Checks Trump, 79, Eight Times in Three Minutes - The Daily Beast
+- Syria marks a year since Assad fled, but struggles to heal - NPR
+- Canada’s Northwest Territories Diamond Mines Are Closing - The New York Times
+- Warner Bros' lack of response fueled Paramount's hostile bid, filing says - Reuters
+- Stock futures are little changed as Trump approves Nvidia chips sales to China: Live updates - CNBC
+- Federal Reserve set to cut rate but may signal a pause to come - AP News
+- EU investigates Google over AI-generated summaries in search results - BBC
+- Google Says First AI Glasses With Gemini Will Arrive in 2026 - Bloomberg.com
+- Google and Apple partner on better Android-iPhone switching - Engadget
