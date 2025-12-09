@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 15:53_
+_Updated: 2025-12-09 16:49_
 
 ## Top Stories
 
+- 26-årig man döms för mordet på Helena - Aftonbladet
+- Stor polisinsats i Hörby – uppgifter om två avlidna - SVT Nyheter
+- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
 - Trump om Sverige: Ett helt nytt land - SVT Nyheter
-- Ett dokument och lite härliga bilder från köket dödar inte regeringsfrågan - Altinget.SE
-- 18 års fängelse för ambulansdådet - Läkartidningen
+- Paasikivi: Fredsplanen från USA är dödsdömd - SvD
 - Kvinna häktad för förgiftningar på Akademiska - GP
-- Kvinna anhållen efter guldstölderna på Danderyds sjukhus - Aftonbladet
 - Kronprinsessan har fördjupat sig i Flygvapnets verksamhet - Försvarsmakten
+- Hovrätten slår fast livstidsdomen för mördade kvinnans make - SVT Nyheter
+- En gripen för sjukhusstölder - Expressen
 - Tvärstopp för nattåget till Schweiz - SVT Nyheter
-- DN Direkt – Svärmor frias för inblandning i hedersrelaterat mord - Dagens Nyheter
-- Bengts spermier stals – nu kräver han skadestånd - Västerbottens-Kuriren
-- Uppgifter: Därför lämnar Richard Herrey Moderaterna - Aftonbladet
 - Oklart var fredspristagaren María Corina Machado befinner sig - GP
 - Historia och regional maktkamp eldar på bråket mellan Japan och Kina - Yle
-- Militärt fraktplan störtade i Ryssland - Dagens industri
-- Bankchef dömd för mutor – avrättad - Västerbottens-Kuriren
+- DN Direkt – Ryskt militärflygplan kraschat - Dagens Nyheter
+- Erik Esbjörnsson: På en dryg månad har Tanzania gått från turistparadis till terrorstat - Dagens Nyheter
 - DN Direkt – En anhållen för stölder på Danderyds sjukhus - Dagens Nyheter
 - Rederiprofilen riskerar fyra års fängelse för "mycket ovanligt" skattebrott - Affärsvärlden
 - Fel upptäckt – Oskarshamns kärnkraftverk stängs - SVT Nyheter
-- Teknikstrul hos Avanza – order gick inte att lägga - Dagens industri
+- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
 - Google och Apple ska göra det enklare att byta mobiltelefon - Computer Sweden
 - Nu kan du använda Claude Code direkt i Slack-chatten - Computer Sweden
 
@@ -32,20 +32,20 @@ _Updated: 2025-12-09 15:53_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - news.un.org
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Widespread mortality of coral reefs - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
@@ -98,10 +98,9 @@ _Updated: 2025-12-09 15:53_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -116,49 +115,50 @@ _Updated: 2025-12-09 15:53_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Early experiments in accelerating science with GPT-5 - OpenAI
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Mellanbygd
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
