@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-09 04:26_
+_Updated: 2025-12-09 05:41_
 
-- Supreme Court seems likely to let Trump fire independent agency heads - Politico
-- Trump says $12 billion bailout plan for farmers will come from tariff revenue - ABC News
-- Zelenskyy says Ukraine won’t cede territory to Russia - Politico
+- Supreme Court poised to expand Trump’s power over independent agencies - The Washington Post
+- Farmers getting $12B bailout from Trump after trade war pain - Axios
+- Jasmine Crockett announces Texas Senate bid - Politico
+- U.S. pushes Zelensky for swift yes on peace plan: Ukrainian officials - Axios
 - Judge expands criminal contempt probe over deportation flights, saying Kristi Noem failed to provide answers - CNN
-- Rep. Jasmine Crockett launches Senate run in Texas, shaking up Democratic primary - NBC News
 - Mother of White House press secretary Karoline Leavitt's nephew ordered released from immigration detention - ABC News
-- Lawmakers move to compel Hegseth to release military video of Sept. 2 boat strike - ABC News
-- Trump says Hegseth will decide whether to release boat strike video - The Washington Post
+- Trump loyalist Alina Habba resigns as New Jersey’s top federal prosecutor - The Washington Post
+- Congress to withhold Pentagon travel funds until it sees boat strike videos - Politico
 - Bullets in Luigi Mangione’s bag convinced police that he was UnitedHealthcare CEO killing suspect - AP News
-- Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J. - NBC News
+- Trump threatens Mexico with even higher tariffs - CNN
 - Japan lifts tsunami warning after 7.5-magnitude earthquake - Reuters
-- With Fireworks and Parades, Syrians Celebrate Anniversary of al-Assad’s Fall - The New York Times
-- Trump peace deal falters as Thailand and Cambodia resume border clashes - The Washington Post
+- Japan and China trade barbs over radar lock-on as row shows no signs of abating - The Japan Times
 - Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia - AP News
-- Paramount Makes $77.9 Billion Hostile Bid for Warner After Netflix Struck Deal - The Wall Street Journal
-- Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China - Bloomberg.com
-- Federal Reserve to announce next interest rate move on Wednesday. Here's what to expect. - CBS News
-- Berkshire Loses Geico CEO Combs to JPMorgan. It’s Preparing for Life After Buffett. - Barron's
+- Why Thailand and Cambodia Are Fighting - The New York Times
+- Paramount launches hostile bid for Warner Bros., challenging Netflix deal - The Washington Post
+- Trump Says U.S. Will Allow Nvidia H200 Chip Sales to China, Get 25% Cut - The Wall Street Journal
+- Todd Combs Leaves Berkshire Hathaway for JPMorgan Chase as Buffett Nears Retirement - The New York Times
+- Powerball jackpot grows to $875 million ahead of Monday night's drawing - ABC News
 - Google Says First AI Glasses With Gemini Will Arrive in 2026 - Bloomberg.com
 - Claude Code is coming to Slack, and that’s a bigger deal than it sounds - TechCrunch
