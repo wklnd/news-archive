@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 13:40_
+_Updated: 2025-12-09 15:11_
 
 ## Top Stories
 
-- Kvinna gripen efter guldstölderna på Danderyds sjukhus - Aftonbladet
-- Michael Winiarski: Så förenas Trump och Putin i synen på världsordningen - Dagens Nyheter
-- Kvinna häktad för förgiftningar på Akademiska - GP
+- DN Direkt – Trump: Europa består av länder i förfall - Dagens Nyheter
+- Kristersson efter Strängnäsmötet: ”Vi har enats om en plan” - SVT Nyheter
+- Dom om ambulansmordet i dag – riskerar livstid - Arbetet
 - Bristande studiero påverkar elevers kunskapsresultat negativt - Regeringen.se
-- Joakim Lundell gör sociala medier till en folkdomstol - Arbetet
-- Richard Herrey lämnar Moderaterna - Altinget.SE
+- Kvinna häktad för förgiftningar på Akademiska - GP
+- Uppgifter: Därför lämnar Richard Herrey Moderaterna - Aftonbladet
 - Kronprinsessan har fördjupat sig i Flygvapnets verksamhet - Försvarsmakten
-- Hovrätten friar svärmor för hedersmord - Dagens Nyheter
-- Schweiz röstar nej till nattåg till Malmö - Västerbottens-Kuriren
-- Bengts spermier stals – nu kräver han skadestånd - Corren
-- Militärt fraktplan störtade i Ryssland - Dagens industri
+- DN Direkt – Svärmor frias för inblandning i hedersrelaterat mord - Dagens Nyheter
+- En person gripen för stölder på sjukhus - polisen.se
+- Tvärstopp för nattåget till Schweiz - SVT Nyheter
+- Oklart var fredspristagaren María Corina Machado befinner sig - GP
+- Historia och regional maktkamp eldar på bråket mellan Japan och Kina - Yle
+- Militärt fraktplan störtade i Ryssland - Aftonbladet
 - Regeringskris igen? Nu ska det avgöras - Dagens PS
-- Hundratals kvinnor röjer minor på Ukrainas fält - Dagens Nyheter
-- Avhopparen Taylor Greene: ”Många republikaner gör narr av Trump bakom hans rygg” - Dagens Nyheter
-- Thedéen: Dags att utreda e-krona - SvD
-- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
+- DN Direkt – En anhållen för stölder på Danderyds sjukhus - Dagens Nyheter
+- Rederiprofilen riskerar fyra års fängelse för "mycket ovanligt" skattebrott - Affärsvärlden
 - Fel upptäckt – Oskarshamns kärnkraftverk stängs - SVT Nyheter
-- Svenska företag får minst statsstöd i hela EU - Tidningen Näringslivet
-- Hårda kritiken mot nya kändistrenden - Expressen
-- Steam Machine inleder slaget om vardagsrummet - FZ.se
+- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
+- Google och Apple ska göra det enklare att byta mobiltelefon - Computer Sweden
+- Nu kan du använda Claude Code direkt i Slack-chatten - Computer Sweden
 
 ## World News
 
-- Airline Profitability Stabilizes with 3.9% Net Margin Expected in 2026 - IATA
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -39,14 +39,14 @@ _Updated: 2025-12-09 13:40_
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Widespread mortality of coral reefs - Stockholms universitet
-- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2025-12-09 13:40_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
-- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -98,17 +98,16 @@ _Updated: 2025-12-09 13:40_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -116,29 +115,30 @@ _Updated: 2025-12-09 13:40_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -146,8 +146,9 @@ _Updated: 2025-12-09 13:40_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,9 +157,8 @@ _Updated: 2025-12-09 13:40_
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
