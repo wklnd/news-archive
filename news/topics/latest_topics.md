@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 20:51_
+_Updated: 2025-12-09 21:39_
 
 ## Top Stories
 
-- Misstänkt dubbelmord i Hörby – man gripen - SvD
+- DN Direkt – Två döda i Hörby – en gripen - Dagens Nyheter
 - Tekniska problem hos Telia – problem att betala med kort på Coop - SVT Nyheter
-- Trump sågar Sverige: ”Brukade vara det tryggaste landet” - Dagens Nyheter
+- Trumps kritik mot Sverige – och Europas ledare: ”Svaga” - GP
 - Charlie dog efter dagarna på kattpensionat i Malmö - Sydsvenskan
 - 26-årig man döms för mordet på Helena - Aftonbladet
 - Besvikna nazister efter miss­lyckande i Salem - Arbetaren
 - Stopp på E20 i Kungsör – brand i lastbil - SVT Nyheter
-- Nya riktlinjer när ministrar äger aktier - Dagens industri
-- Hovrätten avslår överklagan – misstänkt för förgiftningar kvar i häktet - SVT Nyheter
+- Birgit Johansson är äldst i Sverige – fyller 110 - Dagens Nyheter
+- Misstänkt kvinna på Akademiska kvar i häkte - GP
 - ”Tidöpartierna hoppas att väljarna är räddare för alternativet” - Dagens Nyheter
+- Oklart var fredspristagaren María Corina Machado befinner sig - GP
 - Halva Kiev mörklagt – varning för svår vinter - Västerbottens-Kuriren
-- DN Direkt – Pressträff med fredspristagare inställd - Dagens Nyheter
-- Zelenskyj: Redo presentera fredsförslag för USA - GP
-- Kritik när Syriens ledare ”utsätter sig för fara” vid firande - Dagens Nyheter
-- Thedéen: Dags att utreda e-krona - Tidningen Näringslivet
+- Trump: ”Europa är i förfall” - SVT Nyheter
+- Zelenskyj: Redo presentera fredsförslag för USA - Hufvudstadsbladet
 - Skrotbilspremien floppade – nya satsningar ska gynna elbilsägare - Dagens Nyheter
+- Blocket-konkurrenterna: Vi har fullt upp - Dagens industri
 - Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
-- Vindkraftsförbudet skakade Ørsted – upphävs av domstol - Placera.se
+- Fel upptäckt – Oskarshamns kärnkraftverk stängs - Tidningen Näringslivet
 - Hårda kritiken mot nya kändistrenden - Expressen
 - Oops! Capcom råkar röja klassisk Resident Evil-hjälte i Requiem - FZ.se
 
@@ -32,44 +32,44 @@ _Updated: 2025-12-09 20:51_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - TikTok Anoints KATSEYE as Global Artist of 2025 - Billboard
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Widespread mortality of coral reefs - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Widespread mortality of coral reefs - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
-- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
+- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2025-12-09 20:51_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- AFTD Grantee Leads Basic Science Study Exploring Role of Protein in Tau-Based Disorders like CBD - AFTD - The Association for Frontotemporal Degeneration
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
