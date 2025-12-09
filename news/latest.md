@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-09 09:49_
+_Updated: 2025-12-09 10:58_
 
-- Farmers getting $12B bailout from Trump after trade war pain - Axios
 - Trump Just Told Us What He’ll Do With the Dangerous New Powers the Supreme Court Is About to Give Him - Slate
+- Farmers getting $12B bailout from Trump after trade war pain - Axios
 - Trump threatens to raise tariffs on Mexico over Rio Grande water deliveries - Politico
 - Fired FBI agents file lawsuit against FBI director Kash Patel and DOJ, alleging unlawful retaliation - CBS News
 - Fact check: Trump denies saying something he said on camera five days ago - CNN
-- Rep. Jasmine Crockett launches Senate run in Texas, shaking up Democratic primary - NBC News
-- Trump loyalist Alina Habba resigns as New Jersey’s top federal prosecutor - The Washington Post
+- Judge expands criminal contempt probe over deportation flights, saying Kristi Noem failed to provide answers - CNN
+- DeSantis Designates CAIR, Muslim Advocacy Group, a ‘Terrorist Organization’ - The New York Times
+- Honduras seeks arrest of ex-President Hernández after Trump pardon - AP News
 - Why Senate Republicans aren't uniting behind a health care plan - Politico
-- Honduras Issues Arrest Warrant for Ex-President Pardoned by Trump - The New York Times
-- University of Oklahoma Removes a Teacher It Says Urged Students to Protest - The New York Times
-- Fighting between Thailand and Cambodia spreads along contested border - Reuters
+- Massachusetts priest says ‘ICE was here’ nativity scene will remain up - The Seattle Times
 - Syria marks a year since Assad fled, but struggles to heal - NPR
-- The countdown to the world’s first social media ban for children - Financial Times
-- Satellite images show the scale of destruction from Asia floods - Al Jazeera
+- China's Li says tariff consequences increasingly evident - Reuters
+- Photos: Powerful 7.5-magnitude earthquake rocks Japan's northeast - Axios
+- European leaders rally behind Ukraine in Downing Street talks - The Guardian
 - Kushner, Apollo, Billionaire Dad Power Hostile Warner Bros. Bid - Bloomberg.com
 - Stock futures are little changed as Trump approves Nvidia chips sales to China: Live updates - CNBC
-- Did you match the winning numbers in Dec. 8, 2025 Powerball drawing? - PhillyBurbs
 - Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives? - MarketWatch
-- Warby Parker, Google to launch AI-powered smart glasses in 2026 - Reuters
+- China makes history with $1 trillion trade surplus for first time ever - Fortune
+- Google and Apple partner on better Android-iPhone switching - Engadget
 - Claude Code is coming to Slack, and that’s a bigger deal than it sounds - TechCrunch
