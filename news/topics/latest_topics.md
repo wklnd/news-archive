@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 21:39_
+_Updated: 2025-12-09 22:40_
 
 ## Top Stories
 
-- DN Direkt – Två döda i Hörby – en gripen - Dagens Nyheter
 - Tekniska problem hos Telia – problem att betala med kort på Coop - SVT Nyheter
+- Man misstänks ha mördat kvinna och barn i Hörby - Aftonbladet
 - Trumps kritik mot Sverige – och Europas ledare: ”Svaga” - GP
+- Kristersson avslöjar: Det gömde jag undan - Expressen
 - Charlie dog efter dagarna på kattpensionat i Malmö - Sydsvenskan
 - 26-årig man döms för mordet på Helena - Aftonbladet
-- Besvikna nazister efter miss­lyckande i Salem - Arbetaren
 - Stopp på E20 i Kungsör – brand i lastbil - SVT Nyheter
-- Birgit Johansson är äldst i Sverige – fyller 110 - Dagens Nyheter
-- Misstänkt kvinna på Akademiska kvar i häkte - GP
-- ”Tidöpartierna hoppas att väljarna är räddare för alternativet” - Dagens Nyheter
-- Oklart var fredspristagaren María Corina Machado befinner sig - GP
-- Halva Kiev mörklagt – varning för svår vinter - Västerbottens-Kuriren
-- Trump: ”Europa är i förfall” - SVT Nyheter
+- DN Direkt – Misstänkt kvinna på Akademiska kvar i häkte - Dagens Nyheter
+- Skogen skrämmer allt fler: ”Känner avsmak” - SvD
+- Kronprinsessan har fördjupat sig i Flygvapnets verksamhet - Försvarsmakten
+- Zelenskyj öppnar för att hålla val - GP
 - Zelenskyj: Redo presentera fredsförslag för USA - Hufvudstadsbladet
-- Skrotbilspremien floppade – nya satsningar ska gynna elbilsägare - Dagens Nyheter
+- Oklart var fredspristagaren är – pressträff inställd - Västerbottens-Kuriren
+- Halva Kiev mörklagt – varning för svår vinter - Västerbottens-Kuriren
+- Thedéen: Dags att utreda e-kronan igen - SvD
+- Teknikstrul hos Avanza – order gick inte att lägga - Dagens industri
 - Blocket-konkurrenterna: Vi har fullt upp - Dagens industri
-- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
-- Fel upptäckt – Oskarshamns kärnkraftverk stängs - Tidningen Näringslivet
+- Skrotbilspremien floppade – nya satsningar ska gynna elbilsägare - Dagens Nyheter
 - Hårda kritiken mot nya kändistrenden - Expressen
-- Oops! Capcom råkar röja klassisk Resident Evil-hjälte i Requiem - FZ.se
+- Sigourney Weaver kan få roll i "Tomb Raider"-serien - MovieZine.se
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - TikTok Anoints KATSEYE as Global Artist of 2025 - Billboard
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Widespread mortality of coral reefs - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -54,8 +54,8 @@ _Updated: 2025-12-09 21:39_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -63,9 +63,9 @@ _Updated: 2025-12-09 21:39_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -82,8 +82,8 @@ _Updated: 2025-12-09 21:39_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -149,16 +149,16 @@ _Updated: 2025-12-09 21:39_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
