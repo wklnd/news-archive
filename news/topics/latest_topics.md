@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 16:49_
+_Updated: 2025-12-09 17:44_
 
 ## Top Stories
 
+- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
 - 26-årig man döms för mordet på Helena - Aftonbladet
 - Stor polisinsats i Hörby – uppgifter om två avlidna - SVT Nyheter
-- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
-- Trump om Sverige: Ett helt nytt land - SVT Nyheter
-- Paasikivi: Fredsplanen från USA är dödsdömd - SvD
-- Kvinna häktad för förgiftningar på Akademiska - GP
+- DN Direkt – Pressträff med fredspristagare inställd - Dagens Nyheter
+- Misstänkt farligt föremål vid skola i Uppsala - SVT Nyheter
+- Kvinna misstänkt för förgiftningar på Akademiska sjukhuset överklagar häktning - SVT Nyheter
 - Kronprinsessan har fördjupat sig i Flygvapnets verksamhet - Försvarsmakten
-- Hovrätten slår fast livstidsdomen för mördade kvinnans make - SVT Nyheter
-- En gripen för sjukhusstölder - Expressen
 - Tvärstopp för nattåget till Schweiz - SVT Nyheter
-- Oklart var fredspristagaren María Corina Machado befinner sig - GP
-- Historia och regional maktkamp eldar på bråket mellan Japan och Kina - Yle
-- DN Direkt – Ryskt militärflygplan kraschat - Dagens Nyheter
+- En gripen för sjukhusstölder - Expressen
+- Hovrätten frikänner svärmor efter mordet på Abier, 27 - Expressen
+- DN Direkt – Trump: Europa består av länder i förfall - Dagens Nyheter
+- Militärt fraktplan störtade i Ryssland - Dagens industri
+- Kambodja: ”Försvaga och tillintetgör fienden” - Västerbottens-Kuriren
 - Erik Esbjörnsson: På en dryg månad har Tanzania gått från turistparadis till terrorstat - Dagens Nyheter
-- DN Direkt – En anhållen för stölder på Danderyds sjukhus - Dagens Nyheter
-- Rederiprofilen riskerar fyra års fängelse för "mycket ovanligt" skattebrott - Affärsvärlden
+- Thedéen: Dags att utreda e-krona - Tidningen Näringslivet
+- Trumps vindkraftsförbud får smisk i domstol - Aftonbladet
 - Fel upptäckt – Oskarshamns kärnkraftverk stängs - SVT Nyheter
-- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
-- Google och Apple ska göra det enklare att byta mobiltelefon - Computer Sweden
+- Inwido gör ytterligare ett förvärv och går in i en ny marknad - Slovenien - Cision News
 - Nu kan du använda Claude Code direkt i Slack-chatten - Computer Sweden
+- Hårda kritiken mot nya kändistrenden - Expressen
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - news.un.org
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
-- Widespread mortality of coral reefs - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Widespread mortality of coral reefs - Stockholms universitet
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Tech Mahindra and MIT Technology Review Insights Release Report on AI's Growing Role in Sustainable Product Design (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- Fetch Welcomes Ori Schnaps as Chief Technology Officer to Fast-Track Its Next Chapter of Innovation (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -82,9 +82,9 @@ _Updated: 2025-12-09 16:49_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2025-12-09 16:49_
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-09 16:49_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lediga jobb - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
