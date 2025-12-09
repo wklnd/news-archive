@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-09 01:48_
+_Updated: 2025-12-09 04:26_
 
 - Supreme Court seems likely to let Trump fire independent agency heads - Politico
-- Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey - NPR
-- Trump announces $12 billion in aid to farmers - NBC News
-- European leaders walk tightrope between backing Ukraine and keeping US on board - BBC
+- Trump says $12 billion bailout plan for farmers will come from tariff revenue - ABC News
+- Zelenskyy says Ukraine won’t cede territory to Russia - Politico
 - Judge expands criminal contempt probe over deportation flights, saying Kristi Noem failed to provide answers - CNN
-- Trump responds to "traitor" Marjorie Taylor Greene after "60 Minutes" interview - CBS News
-- Jasmine Crockett Enters U.S. Senate Race in Texas, Reshaping Democratic Primary - The New York Times
-- Fact check: Trump denies saying something he said on camera five days ago - CNN
-- Bullets in Mangione bag convinced police he was CEO killing suspect, court hears - The Guardian
-- Court clerk who helped with Alex Murdaugh’s trial pleads guilty to showing sealed exhibits - AP News
+- Rep. Jasmine Crockett launches Senate run in Texas, shaking up Democratic primary - NBC News
+- Mother of White House press secretary Karoline Leavitt's nephew ordered released from immigration detention - ABC News
+- Lawmakers move to compel Hegseth to release military video of Sept. 2 boat strike - ABC News
+- Trump says Hegseth will decide whether to release boat strike video - The Washington Post
+- Bullets in Luigi Mangione’s bag convinced police that he was UnitedHealthcare CEO killing suspect - AP News
+- Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J. - NBC News
+- Japan lifts tsunami warning after 7.5-magnitude earthquake - Reuters
 - With Fireworks and Parades, Syrians Celebrate Anniversary of al-Assad’s Fall - The New York Times
-- M7.5 quake strikes northeastern Japan, tsunami warning lowered to advisory - Japan Wire by KYODO NEWS
-- 100 schoolchildren abducted in Nigeria are released but more are still held - AP News
+- Trump peace deal falters as Thailand and Cambodia resume border clashes - The Washington Post
 - Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia - AP News
-- Paramount launches hostile bid for Warner Bros., challenging Netflix deal - The Washington Post
+- Paramount Makes $77.9 Billion Hostile Bid for Warner After Netflix Struck Deal - The Wall Street Journal
+- Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China - Bloomberg.com
 - Federal Reserve to announce next interest rate move on Wednesday. Here's what to expect. - CBS News
-- Despite Trump’s Tariffs, China’s Trade Surplus Climbs Past $1 Trillion for First Time - The New York Times
-- IBM to acquire Confluent for $11B as it seeks to bolster its data offerings - TechCrunch
+- Berkshire Loses Geico CEO Combs to JPMorgan. It’s Preparing for Life After Buffett. - Barron's
 - Google Says First AI Glasses With Gemini Will Arrive in 2026 - Bloomberg.com
-- 16 new features coming in Windows 11’s huge December update - PCWorld
+- Claude Code is coming to Slack, and that’s a bigger deal than it sounds - TechCrunch
