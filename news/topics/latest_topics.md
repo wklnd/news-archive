@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 05:39_
+_Updated: 2025-12-09 06:49_
 
 ## Top Stories
 
 - Kvinna häktad för förgiftningar på Akademiska - Aftonbladet
+- 9 december: Nattens nyheter - SVT Nyheter
 - Upplopp på ön – hundratals bönder intar flygplats - GP
-- Företag kapas för knarksmuggling - Västerbottens-Kuriren
-- Fortsatta strider mellan Thailand och Kambodja - GP
-- Zelenskyj: Oenigheter i territoriella frågor i fredsförhandlingarna - Placera.se
+- 13-årig flicka dog efter trenden på sociala medier - Expressen
+- Tomas Ramberg: I Strängnäs förverkligas Åkessons vision - Dagens Nyheter
 - Expert om Pete Hegseths Sverige-kommentar: Remarkabelt - GP
+- Man anhållen för fyra mordförsök i Boden - Aftonbladet
 - Nattens händelser från polisen - Örebronyheter
 - Kvinna avlägsnades från bostad i Kalix – misstänks för olaga hot - NSD
 - Skoldebattör vann auktion – ska hänga med Mohamsson - Altinget.SE
-- Tomas Ramberg: I Strängnäs förverkligas Åkessons vision - Dagens Nyheter
 - T-rex-släkting på väg tillbaka till Mongoliet - Hufvudstadsbladet
-- Unrwas tillgångar beslagtagna av israelisk polis - Västerbottens-Kuriren
 - Zelenskyj: Lämnar förslag på fredsplan på tisdag - GP
 - Avhopparen Taylor Green: ”Många republikaner gör narr av Trump bakom hans rygg” - Dagens Nyheter
-- JP Morgan rekryterar toppchefen Todd Combs från Berkshire Hathaway - Placera.se
+- Unrwas tillgångar beslagtagna av israelisk polis - Västerbottens-Kuriren
+- Storbank knycker toppnamn från Warren Buffett - Dagens industri
+- Avanza: Tekniska problem rapporteras - Aftonbladet
 - Kompetensföretagen om knepiga las-regeln: ”Kan skapa onödig rotation” - Dagens Arbete
 - Sociala medier kopplas till sämre koncentration - Nerikes Allehanda
-- ANDREAS WESTERBERG: Skellefteå Krafts höga avgifter: Då är S tysta - Norran
 - Hårda kritiken mot nya kändistrenden - Expressen
 - Intel Arc Battlemage BMG-G31 hittas i officiell mjukvara - Nordichardware
 
@@ -33,20 +33,20 @@ _Updated: 2025-12-09 05:39_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Widespread mortality of coral reefs - Stockholms universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Sunon's H5 Chair Makes Global Debut: Sustainable Design Goes International (PR Newswire) - Aktiellt
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2025-12-09 05:39_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - PointClickCare Appoints David Pessis as Chief Product and Technology Officer to Drive AI-Powered Innovation and Growth (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -146,19 +146,19 @@ _Updated: 2025-12-09 05:39_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Lediga jobb - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
