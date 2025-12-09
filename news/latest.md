@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-09 12:53_
+_Updated: 2025-12-09 13:48_
 
-- U.S. pushes Zelensky for swift yes on peace plan: Ukrainian officials - Axios
-- Trump walks back support for releasing video of second boat strike - CBS News
-- 7.6-Magnitude Earthquake Near Japan Triggers Tsunami Warning - The New York Times
-- Trump threatens to raise tariffs on Mexico over Rio Grande water deliveries - Politico
-- Judge expands criminal contempt probe over deportation flights, saying Kristi Noem failed to provide answers - CNN
-- Federal judge throws out Trump order blocking development of wind energy - AP News
+- Zelenskyy says Ukraine won’t cede territory to Russia - Politico
+- Judge orders the release of an immigrant with ties to White House press secretary Karoline Leavitt - AP News
+- European leaders walk tightrope between backing Ukraine and keeping US on board - BBC
 - Why Senate Republicans aren't uniting behind a health care plan - Politico
+- Compromise NDAA would let DoD promote civilians faster, increase cyber pay - Federal News Network
 - DeSantis labels Muslim advocacy group CAIR a foreign terrorist group in Florida - Axios
-- Trump loyalist Alina Habba resigns as New Jersey’s top federal prosecutor - The Washington Post
-- Honduras seeks arrest of ex-President Hernández after Trump pardon - NPR
-- Fighting between Thailand and Cambodia spreads along contested border - Reuters
-- Syria marks a year since Assad fled, but struggles to heal - NPR
+- Bullets in Luigi Mangione’s bag convinced police that he was UnitedHealthcare CEO killing suspect - AP News
+- Massachusetts Church Keeps Anti-ICE Nativity Scene, Defying Diocese Leaders - The New York Times
+- Trump says he’s fixing affordability problems. He’ll test out that message at a rally - AP News
 - Between Pakistan and Afghanistan, a Trade War With No End in Sight - The New York Times
-- Germany’s Merz ‘skeptical’ of US peace proposals for Ukraine - politico.eu
-- Kushner, Ellison and Apollo Back Hostile Warner Bros. Bid - Bloomberg.com
-- Exclusive / White House floats compromise with China to export Nvidia H200 chips - https-//www.semafor.com
+- Japan threatening us militarily, China tells German foreign minister - Reuters
+- Bomb explosion kills over 30 in eastern Congo after army clashes with pro-government militia - AP News
+- GCAP Opens Doors to Germany as Dassault-Airbus Feud Kills FCAS Fighter Dream - Defense Express
+- Did you match the winning numbers in Dec. 8, 2025 Powerball drawing? - PhillyBurbs
 - Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives? - MarketWatch
-- China makes history with $1 trillion trade surplus for first time ever - Fortune
+- Cursor internal AI Help Desk handles 80% of employees' support tickets - Fortune
+- The Fed can cut rates again Wednesday, but higher yields are a threat to markets - MarketWatch
 - Google’s AI try-on app Doppl adds a shoppable discovery feed - TechCrunch
-- Google and Apple partner on better Android-iPhone switching - Engadget
+- Skate Story review: skateboarding is better in hell - The Verge
+- Block all AI browsers for the foreseeable future: Gartner - theregister.com
