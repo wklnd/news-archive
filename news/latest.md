@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-09 17:51_
+_Updated: 2025-12-09 18:57_
 
-- Judge Grants Request to Unseal Grand Jury Records in Maxwell Case - The New York Times
 - Millions of children and teens lose access to accounts as Australia’s world-first social media ban begins - The Guardian
-- JD Vance's hedging on a presidential run could imperil his campaign finance Supreme Court case - NBC News
+- Judge Says Ghislaine Maxwell Grand Jury Records Can Be Unsealed, Citing New Epstein Law - The New York Times
+- JD Vance's hedging on a presidential run could imperil campaign finance case before Supreme Court - NBC News
 - Trump says he’s fixing affordability problems. He’ll test out that message at a rally - AP News
-- Dems face a Tea Party-style revolt in Texas and beyond in 2026 races - Axios
-- Fact-checking Trump’s denial over releasing Venezuela boat strike video - BBC
+- Trump approval rating rises as Republicans back cost-of-living efforts - Reuters
+- Lawmakers move to compel Hegseth to release military video of Sept. 2 boat strike - ABC News
 - Luigi Mangione was arrested one year ago today. Inside how it went down - CNN
 - 7 takeaways from POLITICO’s interview with President Trump - Politico
-- Democrats look for a breakthrough win in Miami mayoral election - The Washington Post
-- Grammy-nominated musician struck and killed by driver with over 100 arrests in Rhode Island, police say - CBS News
-- Photos: Powerful 7.5-magnitude earthquake rocks Japan's northeast - Axios
+- DeSantis labels Muslim advocacy group CAIR a foreign terrorist group in Florida - Axios
+- Rep. Jasmine Crockett launches Senate run in Texas, shaking up Democratic primary - NBC News
+- Japan faces devastating megaquake threat after 7.5 earthquake, tsunami - AL.com
 - Ukraine's last eastern strongholds hang on as Russia fights to take Donbas - NPR
-- Canada’s Northwest Territories Diamond Mines Are Closing - The New York Times
-- Afghan ‘Peaky Blinders’ arrested by Taliban for violating ‘Islamic values’ - Yahoo
-- Federal Reserve set to cut rate but may signal a pause to come - AP News
+- Taliban detains 4 men for dressing up as "Peaky Blinders" characters, gives them rehabilitation - CBS News
+- At least 22 people killed in office building fire in Indonesia’s capital - AP News
 - Why has Paramount launched a hostile bid for Warner Bros Discovery? - BBC
-- China set to limit access to Nvidia’s H200 chips despite Trump export approval - Financial Times
-- Google hit with EU antitrust investigation over use of online content for AI - CNBC
-- Our 10 Favorite Games of 2025, and Why Only One Wins Game of the Year - CNET
-- Tech's biggest losers of 2025 - Engadget
+- Federal Reserve set to cut rate but may signal a pause to come - AP News
+- US dollar gains after jobs report, as Fed decision nears - Reuters
+- EU opens probe into Google’s use of online content for AI models - Financial Times
+- Ray-Ban maker EssilorLuxottica falls 5.7% after Google plans AI glasses launch; Europe markets close lower - CNBC
+- Top 10 Video Games of 2025 - The New York Times
