@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-09 23:40_
+_Updated: 2025-12-10 00:41_
 
 ## Top Stories
 
 - Tekniska problem hos Telia – telefonistrul i hela landet - SVT Nyheter
-- Två personer hittade döda i Hörby – en gripen - Dagens Nyheter
+- Mamma med barn hittade döda i Hörby – man gripen - Skånska Dagbladet
 - Trumps kritik mot Sverige – och Europas ledare: ”Svaga” - GP
-- Tidöpartierna: Sju centrala områden – så står vi enade framåt - Aftonbladet
 - 26-årig man döms för mordet på Helena - Aftonbladet
-- Minst 60 000 kan ha dödats i al-Fashir: ”Slakthus” - Aftonbladet
-- Stopp på E20 i Kungsör – brand i lastbil - SVT Nyheter
-- Misstänkt kvinna på Akademiska kvar i häkte - Västerbottens-Kuriren
-- Birgit Johansson är äldst i Sverige – fyller 110 - Dagens Nyheter
-- Kronprinsessan har fördjupat sig i Flygvapnets verksamhet - Försvarsmakten
-- Michael Winiarski: Så förenas Trump och Putin i synen på världsordningen - Dagens Nyheter
-- Zelenskyj: Redo presentera fredsförslag för USA - Hufvudstadsbladet
-- Ukrainas Zelenskyj öppnar för att hålla val i landet - SVT Nyheter
+- LEDARE: Lussebullar i Strängnäs men inte i Nacka - Dala-Demokraten
 - In med Donald Trump – ut med Martin Luther King - Dagens Nyheter
-- Teknikstrul hos Avanza – order gick inte att lägga - Dagens industri
+- Birgit Johansson är äldst i Sverige – fyller 110 - Dagens Nyheter
+- Arbetsmiljöverket utreder misstänkta förgiftningarna – inspekterade Akademiska - SVT Nyheter
+- Norskt konstmuseum valt till världens vackraste - Sydsvenskan
+- Stopp på E20 i Kungsör – brand i lastbil - SVT Nyheter
+- DN Direkt – USA pekas ut som del av hotbild i Danmark - Dagens Nyheter
+- Zelenskyj: Redo presentera fredsförslag för USA - Hufvudstadsbladet
+- Merz: ”Oacceptabla” inslag i USA:s säkerhetsstrategi - Västerbottens-Kuriren
+- Oklart var fredspristagaren María Corina Machado befinner sig - GP
+- Kräver 100 miljarder – för att rädda Kiruna - SvD
+- Problem för Avanza: ”Hela arvet är borta” - Aftonbladet
 - Blocket-konkurrenterna: Vi har fullt upp - Dagens industri
-- Thedéen: Dags att utreda e-kronan igen - SvD
-- Rekordlåga elbilsbatteripriser 2026 – trots koboltschock - Dagens PS
-- Hårda kritiken mot nya kändistrenden - Expressen
+- Riksbankschefen vill se ny utredning om e-krona – pekar på snabba förändringar i Europa - Börskollen
 - Sigourney Weaver kan få roll i "Tomb Raider"-serien - MovieZine.se
+- Oops! Capcom råkar röja klassisk Resident Evil-hjälte i Requiem - FZ.se
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- TikTok Anoints KATSEYE as Global Artist of 2025 - Billboard
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Mysuru-based school conducts multiple literary competitions ahead of Panorama International Lit Fest 2026 - Deccan Herald
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -43,10 +43,10 @@ _Updated: 2025-12-09 23:40_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Widespread mortality of coral reefs - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -149,16 +149,16 @@ _Updated: 2025-12-09 23:40_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
