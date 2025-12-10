@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 11:47_
+_Updated: 2025-12-10 12:50_
 
 ## Top Stories
 
-- Uppgifter: Misstänks ha spetsat energidrycker på Akademiska - Aftonbladet
-- Debatt: Varför kopierade Kristersson inte ett vinnande koncept i stället för Maramö 2.0? - VF
-- Greps för dubbelmord – efter larmet från skolan - SvD
-- Meteorolog: För många blir det ingen vit jul i år - Omni
-- Nu får Trump en ny kompis i Europa - SvD
+- Man fortsatt misstänkt efter morden i Hörby - Dagens Nyheter
+- Iran-kopplade hackare utnyttjade svenska företag i hemlig cyberoperation - Dagens Nyheter
+- Debatt: Mamma, kan barn hamna i fängelse? - NWT
 - Åttaårig flicka isoleras från sina föräldrar - Omni
-- Här hålls den hemliga Nobel-efterfesten i kväll - Aftonbladet
-- ”Sverige är möjligheternas land och jag är ett exempel på det” - Sydsvenskan
-- Svenskar tvivlar på AI – ber ändå om kärleksråd - Expressen
+- Europa är bättre än USA på allt som räknas - GP
+- Meteorolog: För många blir det ingen vit jul i år - Omni
+- Uppgifter: Spetsade energidrycker på Akademiska - Västerbottens-Kuriren
+- Svenskar tvivlar på AI – ber ändå om kärleksråd - GP
 - MSB: Fjällen bäst för evakuering vid krig - Omni
+- Lastbilschaufför död efter olycka — väjde för renar - Arbetet
 - Därför är många kritiska till årets fredspris - Hufvudstadsbladet
-- Anna-Lena Laurén: När finländska krigsveteraner kläs ut i stridsmundering har något hänt - Dagens Nyheter
-- Finland kräver snabba beslut om de frysta ryska tillgångarna - Yle
-- Zelenskyj: Redo presentera fredsförslag för USA - Västerbottens-Kuriren
-- Hushållens konsumtion mattades i oktober - DI
+- Donator med cancergen har minst 197 biologiska barn - SVT Nyheter
+- Kreml: Trumps Ukrainasyn i linje med vår - Dagens Nyheter
+- EU:s sista hinder faller: Julklapp på 90 miljarder euro till Ukraina - Realtid
+- Hela Region Värmlands telefoni låg nere – Telias IT-strul slog hårt mot vården - NWT
 - Husqvarna Group kapitalmarknadsdag: Transformation till lönsam tillväxt - Cision News
 - Uppmaningen: Lämna Elon Musks plattform - SvD
-- Färre nya ansökningar om a-kassa - SVT Nyheter
+- DN Direkt – Färre nya ansökningar om a-kassa - Dagens Nyheter
 - Skate Story har släppts och fått en ny trailer - Teknikveckan
 - Iphone 17 utsedd till årets telefon av MKBHD - Macworld.se
 
@@ -30,37 +30,38 @@ _Updated: 2025-12-10 11:47_
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Intervju | Handelsbanken lanserar ny global indexfond - Finanswatch.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
 - Widespread mortality of coral reefs - Stockholms universitet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-12-10 11:47_
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -142,12 +142,13 @@ _Updated: 2025-12-10 11:47_
 
 ## Jordbruk
 
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,9 +157,8 @@ _Updated: 2025-12-10 11:47_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
