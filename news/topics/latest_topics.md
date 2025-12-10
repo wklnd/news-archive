@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 18:53_
+_Updated: 2025-12-10 19:47_
 
 ## Top Stories
 
-- Man fortsatt misstänkt efter dubbelmordet i Hörby - Dagens Nyheter
+- Greps på jobbet – nekar till mord - Sydsvenskan
 - EU enas om klimatmål för 2040 - Europaportalen
-- Hemliga ryska planerna – ska slå till i Europa - Expressen
-- HANS STIGSSON: Klingande mynt och prasslande sedlar - NT
 - Åttaårig flicka har inte träffat sina föräldrar sen i somras - SVT Nyheter
-- Här är de vanligaste klagomålen på Västtrafik: ”Ingen överraskning” - GP
-- Årets pristagare hyllades i Konserthuset - Västerbottens-Kuriren
+- Miljöomnibus: Lättare få tillstånd och sänkta krav - Aktuell Hållbarhet
+- Göran ville vräka hyresgästerna – nu misstänks han vara mördad - NSD
+- Okända hjältar kan ha stoppat förgiftningarna - Expressen
+- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
 - Exklusiva bilar för miljonbelopp beslagtagna i riktad insats - Polisen.se
-- DN Direkt – Direktör körde kraftigt berusad genom Skåne - Dagens Nyheter
+- Direktör körde kraftigt berusad genom Skåne - GP
 - Säpo: Brister i lärosätenas skydd mot främmande makt: ”Extremt allvarligt” - Dagens Nyheter
 - Kreml: Trumps Ukrainasyn i linje med vår - Hufvudstadsbladet
-- Våldsamt bondeuppror skakar Grekland - Dagens Nyheter
-- Justitieminister Gunnar Strömmer deltar i diskussion om migration och Europakonventionen - Regeringen.se
-- Zelenskyj öppnar för att hålla val - GP
+- Zelenskyj: Redo presentera fredsförslag för USA - Dagens Nyheter
+- Våldsamt bondeuppror skakar Grekland - Hufvudstadsbladet
+- Fredspristagaren María Corina Machado kommer till Oslo - GP
+- Heta börsplanen: Då dubblas Musks förmögenhet - DI
 - 21 nyemissioner ett år senare: Bara hälften kvar - Affärsvärlden
-- DNB Carnegie: Överdrivet ras i Clas Ohlson – förnyat köpläge - DI
-- Utöver räntor: Vad FOMC-mötet kan avslöja om balansräkning och reservpolitik - Invezz
-- DN Direkt – Jättenoteringen av Space X kan ske nästa år - Dagens Nyheter
+- DN Direkt – Stockholmsbörsen oförändrad – Clas Ohlson rasade - Dagens Nyheter
+- Blockets nya sajt blockar fordonshandel: ”Knapptryck till förbannelse” - SVT Nyheter
 - Satte fysikens stora snillen på prov: Nu kan en nästan hundra år gammal strid mellan Einstein och Bohr ha avgjorts - Illustrerad Vetenskap
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 
@@ -30,6 +30,7 @@ _Updated: 2025-12-10 18:53_
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Intervju | Handelsbanken lanserar ny global indexfond - Finanswatch.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -38,15 +39,14 @@ _Updated: 2025-12-10 18:53_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Widespread mortality of coral reefs - Stockholms universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -57,19 +57,19 @@ _Updated: 2025-12-10 18:53_
 - VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -82,12 +82,12 @@ _Updated: 2025-12-10 18:53_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -132,13 +132,13 @@ _Updated: 2025-12-10 18:53_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
