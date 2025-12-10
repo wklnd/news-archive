@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-10 11:52_
+_Updated: 2025-12-10 12:55_
 
-- Trump Says Americans Are Doing Great, Even as Views on the Economy Sour - The New York Times
+- Trump's speech on combating inflation turns to grievances about immigrants - NPR
 - Australia’s Social Media Ban for Children Takes Effect - The New York Times
+- Suspect in custody after one killed in Kentucky university shooting - BBC
 - Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
 - ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
-- Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News
 - Two US fighter jets circle Gulf of Venezuela in escalation of hostilities - The Guardian
-- Rod Paige, former education secretary and architect of No Child Left Behind policy, dies at 92 - CBS News
-- After Trump criticism, Zelensky says he’s ready to hold elections - The Washington Post
+- Rod Paige, Education Secretary Who Defended ‘No Child Left Behind,’ Dies at 92 - The New York Times
 - Fort Hood doctor accused of sexual misconduct charged with secretly recording his patients - CNN
-- Shooting at Kentucky State University kills 1; suspect in custody, officials say - CBS News
-- Trump says he will make a call to end hostilities as Thailand and Cambodia ‘at it again’ - The Guardian
-- Appearance by Venezuelan Nobel Peace laureate María Corina Machado canceled on eve of prize ceremony - AP News
-- Russian bombers join Chinese air patrol near Japan as Tokyo-Beijing tie strains - Reuters
+- Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News
+- Storms bring heavy rain to the Pacific Northwest, snow and freezing rain to the Upper Midwest - AP News
+- Venezuela’s Machado won’t attend Nobel Peace Prize ceremony, Norway’s public broadcaster reports - CNN
+- Trump Says He’ll Call Thailand, Cambodia Over Renewed Conflict - Bloomberg.com
 - Trump's frustration with Ukraine and Europe boils over - Politico
-- David Ellison lobbies Warner Bros shareholders to desert Netflix - Financial Times
-- Trump’s Nvidia Chip Deal Reverses Decades of Technology Restrictions - The New York Times
-- Silver Hits Fresh Record on U.S. Rate Cut Bets, Supply Tightness - The Wall Street Journal
+- US backs Japan in dispute with China over radar incident - Reuters
 - Fed Cut This Week May Be Last for a While - Bloomberg.com
+- Trump’s Nvidia Chip Deal Reverses Decades of Technology Restrictions - The New York Times
+- S&P U.S. Media Lead On Battle For WBD – Deal Speed Is Key - Deadline
+- IMF calls on China to fix economic ‘imbalances’ - Financial Times
+- Facebook redesign focuses on friends, photos, Marketplace, and more - TechCrunch
 - Call of Duty won’t release Modern Warfare or Black Ops back to back anymore - The Verge
-- Tech's biggest winners of 2025 - Engadget
