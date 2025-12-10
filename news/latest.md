@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-10 17:52_
+_Updated: 2025-12-10 18:58_
 
-- Trump's speech on combating inflation turns to grievances about immigrants - NPR
 - Judge Grants Request to Unseal Epstein Grand Jury Records - The New York Times
-- 3 separate US strikes on alleged drug boats have initially left survivors. Each time they’ve been treated differently - CNN
+- Trump's speech on combating inflation turns to grievances about immigrants - NPR
+- Venezuelan opposition leader María Corina Machado misses Nobel Peace Prize ceremony in Oslo - CBS News
 - Tourists to US would have to reveal five years of social media activity under new Trump plan - The Guardian
-- Australia's social media ban for kids under 16 goes into effect - ABC News
-- Venezuelan opposition leader María Corina Machado to miss Nobel Peace Prize ceremony in Oslo - CBS News
-- Judge Says Trump Must End Guard Deployment in Los Angeles - The New York Times
-- 1 dead, 1 injured in shooting at Kentucky State University, suspect in custody: Police - ABC News
+- US judge says Trump must end National Guard deployment in Los Angeles - Reuters
+- Russia reports drone attack over Moscow region as Zelenskyy prepares peace plan - ABC News
+- Trump axes Biden’s student loan plan - Vox
 - Pacific Northwest braces for more heavy rain, after a powerful storm caused flooding and rescues - AP News
-- Democrat wins Miami mayor's race for the first time in nearly 30 years - NPR
+- 1 person dead after Kentucky State University shooting; president calls it ‘a senseless tragedy’ - WHAS11
+- New poll paints a grim picture of a nation under financial strain - Politico
+- Australia’s Social Media Ban for Children Takes Effect - The New York Times
+- Donald Trump pledges to intervene as Thailand-Cambodia conflict flares - Financial Times
+- Using Russian Assets to Help Ukraine Is Looking Like Europe’s Least-Bad Option - The Wall Street Journal
 - Trump's new cold war with Europe - Axios
-- Exclusive: US threatens new ICC sanctions unless court pledges not to prosecute Trump - Reuters
-- After Trump criticism, Zelensky says he’s ready to hold elections - The Washington Post
-- China ‘did tell Japan about air drills but not in enough detail to avoid danger’ - South China Morning Post
 - Fed meeting updates: 3rd rate cut in a row looms as a divided Fed holds its final 2025 meeting - Business Insider
 - Paramount says China's Tencent withdrew from its Warner Bros bid to avert national security issues - AP News
 - S&P 500 is little changed as investors await Fed decision: Live updates - CNBC
-- Exclusive: ByteDance, Alibaba keen to order Nvidia H200 chips after Trump green light, sources say - Reuters
-- Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water - WIRED
-- Google’s first AI glasses expected next year - TechCrunch
+- Trump’s Search for Powell’s Replacement Adds to Cacophony Around Interest Rate Decision - The New York Times
+- Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com
+- Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive - Ars Technica
