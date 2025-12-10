@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 06:53_
+_Updated: 2025-12-10 07:45_
 
 ## Top Stories
 
-- DN Direkt – Två döda i Hörby – en gripen - Dagens Nyheter
-- Hundratusentals evakuerade i Thailand och Kambodja - GP
-- DN Direkt – Flera döda i husbrand i Kina - Dagens Nyheter
-- Raseriet mot det ”själviska” draget - Expressen
-- Tekniska problem hos Telia – telefonistrul i hela landet - SVT Nyheter
-- Tidöpartierna: Sju centrala områden – så står vi enade framåt - Aftonbladet
-- Norskt konstmuseum valt till världens vackraste - Sydsvenskan
-- Arbetsmiljöverket utreder misstänkta förgiftningarna – inspekterade Akademiska - SVT Nyheter
-- 18 års fängelse för ambulansdådet - GP
-- Dolda kameror visar: Öländska bönderna slår och sparkar korna brutalt - Ölandsbladet
-- Zelenskyj: Redo presentera fredsförslag för USA - Dagens Nyheter
+- Iran-kopplade hackare utnyttjade svenska företag i hemlig cyberoperation - Dagens Nyheter
+- Zelenskyj: Redo presentera fredsförslag för USA - Västerbottens-Kuriren
+- Mamma med barn hittade döda i Hörby – man anhållen - Skånska Dagbladet
 - EU har nått uppgörelse om klimatmål - Västerbottens-Kuriren
-- USA pekas ut som del av hotbild i Danmark - Corren
-- Kritik när Syriens ledare ”utsätter sig för fara” vid firande - Dagens Nyheter
+- Tekniska problem hos Telia – telefonistrul i hela landet - SVT Nyheter
+- Trumps kritik mot Sverige – och Europas ledare: ”Svaga” - GP
+- Här hålls den hemliga Nobel-efterfesten i kväll - Västerbottens-Kuriren
+- Norskt konstmuseum valt till världens vackraste - Hufvudstadsbladet
+- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
+- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
+- Kambodja: ”Försvaga och tillintetgör fienden” - Västerbottens-Kuriren
+- DN Direkt – USA pekas ut som del av hotbild i Danmark - Dagens Nyheter
+- Flera döda i husbrand i Kina - GP
+- Merz: ”Oacceptabla” inslag i USA:s säkerhetsstrategi - Västerbottens-Kuriren
+- Vill att politiker lämnar – efter Musks raseri - SvD
 - Blockets nya sajt blockar fordonshandel: ”Knapptryck till förbannelse” - SVT Nyheter
+- Maten var inlåst – förälder fick hämta frukost till barnen - Aftonbladet
 - Göingehem höjer hyran – med 2,8 procent: ”Rätt håll” - Kristianstadsbladet
-- Regeringsbeslut om ny förordning om ursprungsgarantier för energi - Energiföretagen
-- Almenberg: Redo med regler och tillsyn - Finansinspektionen
 - Google släpper AI-glasögon under 2026 - Computer Sweden
 - Mystiska TGA-statyn är troligtvis relaterad till Divinity-serien - Nordichardware
 
@@ -52,24 +52,24 @@ _Updated: 2025-12-10 06:53_
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- JuliaHub Partners with Synopsys to Power SciML-Based Digital Twins - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
+- Hon Hai Tech Day 2025 Opens To Showcase Foxconn's Powerful Partnerships And Vertical Integration Strengths - Placera.se
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-10 06:53_
 
 ## Jordbruk
 
-- GFF26_sitststaycinema_1920x1080.png - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
