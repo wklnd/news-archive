@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 21:40_
+_Updated: 2025-12-10 22:48_
 
 ## Top Stories
 
-- Här är maten som serveras på Nobelfesten - Aftonbladet
-- Misstänkta dubbelmordet i Hörby: "Svårt att ta in” - GP
-- Åsa Wikforss: Så gör Putin och techoligarkerna för att roffa åt sig allt de kan - Dagens Nyheter
-- Hemliga ryska planer – ska slå till i Europa - Expressen
-- Miljöomnibus: Lättare få tillstånd och sänkta krav - Aktuell Hållbarhet
-- Granskning: Elsa, 8, får inte träffa sina föräldrar - Aftonbladet
-- Exklusiva bilar för miljonbelopp beslagtagna i riktad insats - Polisen.se
-- Inbrott hos spelbutik i Stockholm – samlarkort för tiotusentals kronor stulna - Dagens Nyheter
-- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
-- Uppgifter: Spetsade energidrycker på Akademiska - Västerbottens-Kuriren
-- Kreml: Trumps Ukrainasyn i linje med vår - Hufvudstadsbladet
+- Fed sänker styrräntan en kvarts procentenhet - SVT Nyheter
+- Greps på jobbet – nekar till mord - Sydsvenskan
+- DN Direkt – Man skjuten i Järfälla – polisen utreder mordförsök - Dagens Nyheter
+- Två häktade efter hittade kvarlevor i utbränd bil - GP
+- DN Direkt – En person skadad i skottlossning i Järfälla - Dagens Nyheter
+- Polisen attackerades med grön laser • Gruppchefen: ”Vi tror det rör sig om ungdomar” - GP
+- Piggvar och svampsoppa på Nobelmenyn - GP
+- Svensk rabatt tillbaka i budgetförslag - Västerbottens-Kuriren
+- Exklusiva bilar för miljonbelopp beslagtagna - Expressen
+- Systembolag tvingas stänga – "Oförberedd händelse" - Expressen
 - Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
 - Sanna Torén Björling: Är Zelenskyj trött på att tvingas förhålla sig till Trump? - Dagens Nyheter
-- Våldsamt bondeuppror skakar Grekland - Hufvudstadsbladet
-- Fed sänker styrräntan en kvarts procentenhet - SvD
-- 21 nyemissioner ett år senare: Bara hälften kvar - Affärsvärlden
+- Kreml: Trumps Ukrainasyn i linje med vår - Hufvudstadsbladet
+- Det italienska köket – nu ett världsarv - Västerbottens-Kuriren
 - Massiv kritik mot nya Blocket: ”Handlare kommer bomma igen” - NWT
 - Greer missnöjd över EU:s behandling av techbolagen - DI
+- 21 nyemissioner ett år senare: Bara hälften kvar - Affärsvärlden
+- Strejkvarsel hotar jultrafik hos SAS - Aftonbladet
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 - Karibiska korallrev halverade sedan 1980 - tidningensyre.se
 
 ## World News
 
-- Handelsbanken lanserar ny global indexfond - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -39,59 +38,60 @@ _Updated: 2025-12-10 21:40_
 - New Secretary General appointed - Olof Palme International Center
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Handelsbanken lanserar ny global indexfond - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Widespread mortality of coral reefs - Stockholms universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
-- Hon Hai Tech Day 2025 Opens To Showcase Foxconn's Powerful Partnerships And Vertical Integration Strengths - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
@@ -122,22 +122,22 @@ _Updated: 2025-12-10 21:40_
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
