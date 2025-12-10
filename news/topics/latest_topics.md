@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 00:45_
+_Updated: 2025-12-11 01:40_
 
 ## Top Stories
 
-- Skjutning i Kallhäll – en skadad - SVT Nyheter
+- DN Direkt – Fredspristagaren har landat i Norge - Dagens Nyheter
 - Polisen attackerades med grön laser • Gruppchefen: ”Vi tror det rör sig om ungdomar” - GP
-- Hemlighetsmakeriet bakom skånska vinet på Nobelfesten: ”Fick vara tyst” - HD
+- Trump: Tanker beslagtagen utanför Venezuela - Västerbottens-Kuriren
+- Skjutning i Kallhäll – en skadad - SVT Nyheter
 - Granskning: Elsa, 8, får inte träffa sina föräldrar - Aftonbladet
-- Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
-- Miljöomnibus: Lättare få tillstånd och sänkta krav - Aktuell Hållbarhet
+- Åsa Wikforss: Så gör Putin och techoligarkerna för att roffa åt sig allt de kan - Dagens Nyheter
 - Kockarna visar: Så lagar du 2025 års Nobelmiddag - SVT Nyheter
-- Nobeldebutanterna bjuder på svampsoppa, piggvar och slånbärssorbet - Hufvudstadsbladet
+- Nobelsnillen hyllas med svamp och vilda bär - HD
 - Svensk rabatt tillbaka i budgetförslag - Västerbottens-Kuriren
 - Misstänkta dubbelmordet i Hörby: "Svårt att ta in” - GP
-- Trump: USA har beslagtagit tankfartyg utanför Venezuela - SVT Nyheter
 - Kreml: Trumps Ukrainasyn i linje med vår - Hufvudstadsbladet
-- Sanna Torén Björling: Är Zelenskyj trött på att tvingas förhålla sig till Trump? - Dagens Nyheter
+- Luigi Mangione skrev anteckningar om att ”plocka ögonbrynen” inför misstänkta mordet - Dagens Nyheter
 - Det italienska köket – nu ett världsarv - Västerbottens-Kuriren
+- Zelenskyj öppnar för att hålla val - GP
 - Fed sänker styrräntan en kvarts procentenhet - SVT Nyheter
 - Greer missnöjd över EU:s behandling av techbolagen - DI
-- Massiv kritik mot nya Blocket: ”Handlare kommer bomma igen” - NWT
 - Faran i att se världen med svenska ögon - SvD
+- Massiv kritik mot nya Blocket: ”Handlare kommer bomma igen” - NWT
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 - Då passerar meteorregnet – så ser du stjärnfallen bäst - GP
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -37,22 +38,22 @@ _Updated: 2025-12-11 00:45_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Handelsbanken lanserar ny global indexfond - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -61,11 +62,10 @@ _Updated: 2025-12-11 00:45_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -88,11 +88,11 @@ _Updated: 2025-12-11 00:45_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,19 +101,19 @@ _Updated: 2025-12-11 00:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
@@ -125,20 +125,20 @@ _Updated: 2025-12-11 00:45_
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Natural Language Processing Research Group - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-11 00:45_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- De blev grönsaksodlare tack vare lokalt stöd - Tidningen Land
+- Så gick första året för Pellbrants - Mellanbygd
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
