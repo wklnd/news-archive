@@ -1,71 +1,71 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 09:43_
+_Updated: 2025-12-10 10:52_
 
 ## Top Stories
 
-- DN Direkt – Fredspristagarens dotter tar emot priset i Oslo - Dagens Nyheter
 - Uppgifter: Misstänks ha spetsat energidrycker på Akademiska - Aftonbladet
+- Debatt: Varför kopierade Kristersson inte ett vinnande koncept i stället för Maramö 2.0? - VF
+- Fredspristagaren uteblir – dotter tar emot priset - GP
 - Greps för dubbelmord – efter larmet från skolan - SvD
 - Iran-kopplade hackare utnyttjade svenska företag i hemlig cyberoperation - Dagens Nyheter
-- Miami får demokratstyre för första gången på 30 år - Omni
-- Hur mycket hinner Trump förstöra? - Dagens Arena
+- Nu får Trump en ny kompis i Europa - SvD
 - Svenskar tvivlar på AI – ber ändå om kärleksråd - GP
+- Kökschefens hint om Nobeldesserten: Fröjd för ögat - SvD
 - Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
-- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
-- 18 års fängelse för ambulansdådet - GP
-- Zelenskyj: Redo presentera fredsförslag för USA - Dagens Nyheter
-- EU har nått uppgörelse om klimatmål - GP
+- Klart i natt: Hård förlust för Trump - Expressen
+- Anna-Lena Laurén: När finländska krigsveteraner kläs ut i stridsmundering har något hänt - Dagens Nyheter
 - Finland kräver snabba beslut om de frysta ryska tillgångarna - Yle
-- DN Direkt – Trump om uppblossade strider: Ska ringa ett samtal - Dagens Nyheter
+- Två knivskurna i Upplands Väsby - SVT Nyheter
+- Trump: Skicka hit några svenskar - Västerbottens-Kuriren
 - Hushållens konsumtion mattades i oktober - DI
-- Vill att politiker lämnar – efter Musks raseri - SvD
-- Clas Ohlson i linje med förväntningarna – ser bra start på julhandeln - EFN.se
-- Färre nya ansökningar om a-kassa - Tidningen Näringslivet
-- Google släpper AI-glasögon under 2026 - Computer Sweden
-- Elevernas idé för bättre sömn – ”Vi vill fortsätta satsa” - Västerbottens-Kuriren
+- Uppmaningen: Lämna Elon Musks plattform - SvD
+- Färre nya ansökningar om a-kassa - SVT Nyheter
+- Fondbolagen: 12,9 miljarder kr till fondsparande under november - Sak & Liv
+- Supervinnarna: ”En stor glädje mitt i alla sorg” - Aftonbladet
+- Iphone 17 utsedd till årets telefon av MKBHD - Macworld.se
 
 ## World News
 
+- Handelsbanken lanserar ny global indexfond - Cision News
+- Intervju | Handelsbanken lanserar ny global indexfond - Finanswatch.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Umeå children in worldwide school project on AI - Umeå universitet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Widespread mortality of coral reefs - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- New study examines Swedish elite opinion about international organizations - Stockholms universitet
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
+- ICAC's first-ever AI and technologies training in anti-corruption brings together 22 ACAs to leverage innovations in graft fighting (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -112,8 +112,8 @@ _Updated: 2025-12-10 09:43_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
@@ -146,8 +146,9 @@ _Updated: 2025-12-10 09:43_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,9 +157,8 @@ _Updated: 2025-12-10 09:43_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
