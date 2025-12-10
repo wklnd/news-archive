@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 17:46_
+_Updated: 2025-12-10 18:53_
 
 ## Top Stories
 
-- Dök inte upp i skolan – kvinna och barn hittade döda i bostad - GP
-- Här hålls den hemliga Nobel-efterfesten i kväll - GP
+- Man fortsatt misstänkt efter dubbelmordet i Hörby - Dagens Nyheter
 - EU enas om klimatmål för 2040 - Europaportalen
-- Hemliga ryska planerna som hotar i Europa - Expressen
-- Hälsoriskbedömning klar: Falubors exponering för metaller har undersökts - Via TT
-- Svenska turister kan tvingas visa upp sociala medie-konton för att få resa in i USA - Dagens Nyheter
-- Mjölkkor slagna – insats på gård - Västerbottens-Kuriren
-- Lyxbilar för miljoner beslagtagna - GP
+- Hemliga ryska planerna – ska slå till i Europa - Expressen
+- HANS STIGSSON: Klingande mynt och prasslande sedlar - NT
+- Åttaårig flicka har inte träffat sina föräldrar sen i somras - SVT Nyheter
+- Här är de vanligaste klagomålen på Västtrafik: ”Ingen överraskning” - GP
+- Årets pristagare hyllades i Konserthuset - Västerbottens-Kuriren
+- Exklusiva bilar för miljonbelopp beslagtagna i riktad insats - Polisen.se
 - DN Direkt – Direktör körde kraftigt berusad genom Skåne - Dagens Nyheter
 - Säpo: Brister i lärosätenas skydd mot främmande makt: ”Extremt allvarligt” - Dagens Nyheter
-- Kreml: Trumps Ukrainasyn i linje med vår - Dagens Nyheter
-- Så mycket kan grönländskor få i spiralskandalen - Folkbladet
-- Zelenskyj: Redo presentera fredsförslag för USA - Hufvudstadsbladet
-- Direkt – Kriget i Ukraina – Ryssland anfaller gasanläggningar i Odessa - Dagens Nyheter
-- DN Direkt – Jättenoteringen av Space X kan ske nästa år - Dagens Nyheter
+- Kreml: Trumps Ukrainasyn i linje med vår - Hufvudstadsbladet
+- Våldsamt bondeuppror skakar Grekland - Dagens Nyheter
+- Justitieminister Gunnar Strömmer deltar i diskussion om migration och Europakonventionen - Regeringen.se
+- Zelenskyj öppnar för att hålla val - GP
 - 21 nyemissioner ett år senare: Bara hälften kvar - Affärsvärlden
 - DNB Carnegie: Överdrivet ras i Clas Ohlson – förnyat köpläge - DI
-- 5 defensiva aktier som handlare köper innan Fed:s beslut om räntesänkning - Invezz
+- Utöver räntor: Vad FOMC-mötet kan avslöja om balansräkning och reservpolitik - Invezz
+- DN Direkt – Jättenoteringen av Space X kan ske nästa år - Dagens Nyheter
 - Satte fysikens stora snillen på prov: Nu kan en nästan hundra år gammal strid mellan Einstein och Bohr ha avgjorts - Illustrerad Vetenskap
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 
@@ -30,7 +30,6 @@ _Updated: 2025-12-10 17:46_
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Intervju | Handelsbanken lanserar ny global indexfond - Finanswatch.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -39,14 +38,15 @@ _Updated: 2025-12-10 17:46_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Widespread mortality of coral reefs - Stockholms universitet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -61,10 +61,10 @@ _Updated: 2025-12-10 17:46_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
@@ -76,18 +76,18 @@ _Updated: 2025-12-10 17:46_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -96,8 +96,8 @@ _Updated: 2025-12-10 17:46_
 
 ## Health
 
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
