@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 08:55_
+_Updated: 2025-12-10 09:43_
 
 ## Top Stories
 
+- DN Direkt – Fredspristagarens dotter tar emot priset i Oslo - Dagens Nyheter
+- Uppgifter: Misstänks ha spetsat energidrycker på Akademiska - Aftonbladet
+- Greps för dubbelmord – efter larmet från skolan - SvD
 - Iran-kopplade hackare utnyttjade svenska företag i hemlig cyberoperation - Dagens Nyheter
-- Tekniska problem hos Telia – telefonistrul i hela landet - SVT Nyheter
-- Oklart var fredspristagaren är – pressträff inställd - GP
-- Tidöpartierna: Sju centrala områden – så står vi enade framåt - Aftonbladet
-- Maten var inlåst – förälder fick hämta frukost till barnen - Aftonbladet
-- DN Direkt – Region Stockholm fortsatt i stabsläge efter it-haveriet - Dagens Nyheter
-- Här hålls den hemliga Nobel-efterfesten i kväll - Västerbottens-Kuriren
-- Därför har barn blivit en lyx för de rika - Sydsvenskan
-- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
-- Klart i natt: Hård förlust för Trump - Expressen
-- Bolsonaro kan få sänkt straff – om lag går igenom - Västerbottens-Kuriren
+- Miami får demokratstyre för första gången på 30 år - Omni
 - Hur mycket hinner Trump förstöra? - Dagens Arena
-- ”Vi har en miljon skäl att vara hoppfulla” - SvD
-- DN Direkt – USA pekas ut som del av hotbild i Danmark - Dagens Nyheter
-- Färre nya ansökningar om a-kassa - DI
+- Svenskar tvivlar på AI – ber ändå om kärleksråd - GP
+- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
+- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
+- 18 års fängelse för ambulansdådet - GP
+- Zelenskyj: Redo presentera fredsförslag för USA - Dagens Nyheter
+- EU har nått uppgörelse om klimatmål - GP
+- Finland kräver snabba beslut om de frysta ryska tillgångarna - Yle
+- DN Direkt – Trump om uppblossade strider: Ska ringa ett samtal - Dagens Nyheter
+- Hushållens konsumtion mattades i oktober - DI
 - Vill att politiker lämnar – efter Musks raseri - SvD
-- Höjda riktkurser för storbankerna – här är dagens rekar - DI
-- Stor kartläggning: Så mycket tjänar handelns marknadschefer – lågpriskedjan betalar bäst - Market.se
+- Clas Ohlson i linje med förväntningarna – ser bra start på julhandeln - EFN.se
+- Färre nya ansökningar om a-kassa - Tidningen Näringslivet
+- Google släpper AI-glasögon under 2026 - Computer Sweden
 - Elevernas idé för bättre sömn – ”Vi vill fortsätta satsa” - Västerbottens-Kuriren
-- Insändare Blått blod och omskrivningar – Facebook och Google låter oss inte prata om mens - Falu-Kuriren
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Får grönt ljus för global studie – ”En betydande katalysator för Cereno” - Life Science Sweden
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Widespread mortality of coral reefs - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - New study examines Swedish elite opinion about international organizations - Stockholms universitet
 
@@ -53,21 +53,21 @@ _Updated: 2025-12-10 08:55_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
@@ -120,45 +120,45 @@ _Updated: 2025-12-10 08:55_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
