@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-10 07:45_
+_Updated: 2025-12-10 08:55_
 
 ## Top Stories
 
 - Iran-kopplade hackare utnyttjade svenska företag i hemlig cyberoperation - Dagens Nyheter
-- Zelenskyj: Redo presentera fredsförslag för USA - Västerbottens-Kuriren
-- Mamma med barn hittade döda i Hörby – man anhållen - Skånska Dagbladet
-- EU har nått uppgörelse om klimatmål - Västerbottens-Kuriren
 - Tekniska problem hos Telia – telefonistrul i hela landet - SVT Nyheter
-- Trumps kritik mot Sverige – och Europas ledare: ”Svaga” - GP
-- Här hålls den hemliga Nobel-efterfesten i kväll - Västerbottens-Kuriren
-- Norskt konstmuseum valt till världens vackraste - Hufvudstadsbladet
-- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
-- Ett dokument och lite härliga bilder från köket räcker inte för att döda regeringsfrågan - Altinget.SE
-- Kambodja: ”Försvaga och tillintetgör fienden” - Västerbottens-Kuriren
-- DN Direkt – USA pekas ut som del av hotbild i Danmark - Dagens Nyheter
-- Flera döda i husbrand i Kina - GP
-- Merz: ”Oacceptabla” inslag i USA:s säkerhetsstrategi - Västerbottens-Kuriren
-- Vill att politiker lämnar – efter Musks raseri - SvD
-- Blockets nya sajt blockar fordonshandel: ”Knapptryck till förbannelse” - SVT Nyheter
+- Oklart var fredspristagaren är – pressträff inställd - GP
+- Tidöpartierna: Sju centrala områden – så står vi enade framåt - Aftonbladet
 - Maten var inlåst – förälder fick hämta frukost till barnen - Aftonbladet
-- Göingehem höjer hyran – med 2,8 procent: ”Rätt håll” - Kristianstadsbladet
-- Google släpper AI-glasögon under 2026 - Computer Sweden
-- Mystiska TGA-statyn är troligtvis relaterad till Divinity-serien - Nordichardware
+- DN Direkt – Region Stockholm fortsatt i stabsläge efter it-haveriet - Dagens Nyheter
+- Här hålls den hemliga Nobel-efterfesten i kväll - Västerbottens-Kuriren
+- Därför har barn blivit en lyx för de rika - Sydsvenskan
+- Så spärras Stockholm av på Nobeldagen - Dagens Nyheter
+- Klart i natt: Hård förlust för Trump - Expressen
+- Bolsonaro kan få sänkt straff – om lag går igenom - Västerbottens-Kuriren
+- Hur mycket hinner Trump förstöra? - Dagens Arena
+- ”Vi har en miljon skäl att vara hoppfulla” - SvD
+- DN Direkt – USA pekas ut som del av hotbild i Danmark - Dagens Nyheter
+- Färre nya ansökningar om a-kassa - DI
+- Vill att politiker lämnar – efter Musks raseri - SvD
+- Höjda riktkurser för storbankerna – här är dagens rekar - DI
+- Stor kartläggning: Så mycket tjänar handelns marknadschefer – lågpriskedjan betalar bäst - Market.se
+- Elevernas idé för bättre sömn – ”Vi vill fortsätta satsa” - Västerbottens-Kuriren
+- Insändare Blått blod och omskrivningar – Facebook och Google låter oss inte prata om mens - Falu-Kuriren
 
 ## World News
 
@@ -53,21 +53,21 @@ _Updated: 2025-12-10 07:45_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
-- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
-- Hon Hai Tech Day 2025 Opens To Showcase Foxconn's Powerful Partnerships And Vertical Integration Strengths - Placera.se
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
@@ -98,16 +98,16 @@ _Updated: 2025-12-10 07:45_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -142,6 +142,7 @@ _Updated: 2025-12-10 07:45_
 
 ## Jordbruk
 
+- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
@@ -149,16 +150,15 @@ _Updated: 2025-12-10 07:45_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Kemikaliefritt jordbruk, hälsosam jord, ren miljö, hög inkomst - Vietnam.vn
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
