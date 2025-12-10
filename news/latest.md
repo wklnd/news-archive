@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-10 19:53_
+_Updated: 2025-12-10 20:57_
 
 - Judge Grants Request to Unseal Epstein Grand Jury Records - The New York Times
 - Trump's speech on combating inflation turns to grievances about immigrants - NPR
+- US judge says Trump must end National Guard deployment in Los Angeles - Reuters
 - US could ask tourists for five-year social media history before entry - BBC
-- Judge blocks Trump administration from deploying California National Guard members in Los Angeles - CBS News
-- Daughter of Venezuela’s Machado receives Nobel Peace Prize on her behalf - CNN
-- ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
+- House GOP erupts over health care as leaders hunt for a plan - Politico
+- Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
+- Kentucky State University student killed in shooting is identified - NBC News
 - Pacific Northwest braces for more heavy rain after a powerful storm caused flooding and rescues - AP News
-- Eileen Higgins shatters glass ceiling with runoff victory in Miami Mayor’s race - Florida Politics
-- Driving remains difficult, snow emergencies in place as Minnesota digs out from winter storm - MPR News
-- Is Jasmine Crockett’s Senate campaign an asset or a liability for Democrats? It depends on who you ask. - The Texas Tribune
-- Australia’s Social Media Ban for Children Takes Effect - The New York Times
-- Donald Trump pledges to intervene as Thailand-Cambodia conflict flares - Financial Times
-- Using Russian Assets to Help Ukraine Is Looking Like Europe’s Least-Bad Option - The Wall Street Journal
-- Frederiksen and Starmer push to water down Europe’s human rights treaty - politico.eu
-- At Fed Meeting, Interest Rate Cut Expected Amid Divisions - The New York Times
-- Paramount says China's Tencent withdrew from its Warner Bros bid to avert national security issues - AP News
-- Dow gains 200 points as investors hope for Fed rate cut and more easing ahead: Live updates - CNBC
-- Musk calls Doge only ‘somewhat successful’ and says he would not do it again - The Guardian
+- Republicans Are Fighting With One Another in Deep-Red Indiana. Here’s Why. - The New York Times
+- Coast Guard releases video of cocaine seizure in Pacific, showing shots fired at alleged drug boat - CBS News
+- Nobel Winner Machado Secretly Left Venezuela and Hit Bad Weather - Bloomberg.com
+- Social media ban for children under 16 starts in Australia - NPR
+- Trump talks Ukraine peace deal with Macron, Merz and Starmer - Politico
+- Greetings from Andhra Pradesh, India, where a fragrant food stand feeds working women - NPR
+- Fed Meeting Live Updates: Central Bank Is Expected to Lower Interest Rates - The New York Times
+- Dow gains 150 points as investors hope for Fed rate cut and more easing ahead: Live updates - CNBC
+- Elon Musk says DOGE was only ‘somewhat successful’ and he wouldn’t do it again - AP News
+- China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies - The Information
 - Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com
-- Google’s first AI glasses expected next year - TechCrunch
+- Google says its first Gemini-powered smart glasses are coming next year. Here’s what they can do - Fortune
