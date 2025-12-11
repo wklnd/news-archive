@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 12:49_
+_Updated: 2025-12-11 13:41_
 
 ## Top Stories
 
-- Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
-- DN Direkt – Sjukdom bakom spårvagnsolycka på Avenyn - Dagens Nyheter
+- Fredspristagaren om en USA-invasion: Venezuela är redan invaderat - Dagens Nyheter
+- Sjukdomsfall bakom allvarliga spårvagnsolyckan - Aftonbladet
 - En man skjuten i Järfälla – en gripen - Mitt i
 - Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
 - Ledare: EU kan inte reglera sig till konkurrenskraft - Hallands Nyheter
-- Kvinna blev rånad på bil av pistolman - Expressen
+- Kiruna kommuns käftsmäll från regeringen: "Vatten på en gås" - NSD
 - 770 studenter avstängda för AI-fusk - Västerbottens-Kuriren
-- Få väljer naturvetenskap – ingen når målet - GP
-- Snusvågen bland unga planar ut - Västerbottens-Kuriren
-- Här är den hemliga uppgörelsen om Somaliapengarna - Dagens Nyheter
+- SMHI varnar för översvämningar - GP
+- Få väljer naturvetenskap – ingen når målet - Västerbottens-Kuriren
+- Risk för akut förgiftning för barn i Falun - Västerbottens-Kuriren
 - Merz: Trump har fått europeiskt motförslag - Dagens Nyheter
-- Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
-- Trump: USA har beslagtagit tankfartyg utanför Venezuela - SVT Nyheter
-- Roy Marsh, 86, spottade ut löv – fick böter - Expressen
-- Så mycket dyrare är julmaten i år – och för fem år sedan - Aftonbladet
+- Venezuela: USA har stulit oljetankern - Västerbottens-Kuriren
+- Åsa Wikforss: Så gör Putin och techoligarkerna för att roffa åt sig allt de kan - Dagens Nyheter
+- Martin Hansson: USA har hittat ett problem i öst – och det är inte Ryssland - ETC.se
+- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
 - Billigare paketresor pressar ned inflationen - SvD
-- Fed sänker räntorna, men framtida sänkningar kräver fler tecken på svaghet - Morningstar Canada
+- Tredje räntesänkningen i rad av Fed - Hufvudstadsbladet
 - Analytikerna vänder Handelsbanken ryggen - DI
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
-- Gymnasieskola återstartar grafisk utbildning - Sign&Print
+- Galaxy S26 kan hållas sval tack vare Exynos 2600 - Swedroid
 
 ## World News
 
@@ -38,13 +38,13 @@ _Updated: 2025-12-11 12:49_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -52,22 +52,22 @@ _Updated: 2025-12-11 12:49_
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- New York Tech CEO Dan Herbatschek Offering Fall Internship Positions at Ramsey Theory Group in AI, Digital Marketing, UX and Cybersecurity (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-11 12:49_
 
 ## Science
 
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Natural Language Processing Research Group - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-12-11 12:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Mellanbygd
-- Lediga jobb - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
