@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 05:45_
+_Updated: 2025-12-11 06:55_
 
 ## Top Stories
 
 - Man död efter våldsam attack i Anneberg - SVT Nyheter
-- Det gjorde politikerna på Nobelfesten 2025 - GP
-- Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
+- DN Direkt – Trump: USA har beslagtagit en oljetanker utanför Venezuela - Dagens Nyheter
 - Fredspristagaren Machado anländer till Oslo - SVT Nyheter
-- Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
+- Det gjorde politikerna på Nobelfesten 2025 - GP
 - Insändare. Noterat av DN:s läsare den 10 december - Dagens Nyheter
-- Häktad Luleåbo misstänks ha mördat sin hyresvärd - SVT Nyheter
+- Miljöomnibus: Lättare få tillstånd och sänkta krav - Aktuell Hållbarhet
 - Nobelsnillen hyllas med svamp och vilda bär - Sydsvenskan
 - KARL RYDÅ: Vad är det de inte fattar – Ge mindre pengar till friskolor! - UNT
 - Just nu: Singelolycka påverkar trafiken på E4 – ett körfält blockerat - NSD
-- Venezuela: USA har stulit oljetankern - Västerbottens-Kuriren
+- ”Det är mannens två hyresgäster som är häktade” - Västerbottens-Kuriren
 - Luigi Mangione skrev anteckningar om att ”plocka ögonbrynen” inför misstänkta mordet - Dagens Nyheter
 - Förbjuder sociala medier för unga – Sunday, 13, ljuger om sin ålder - GP
+- Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
 - Hemliga ryska planer – ska slå till i Europa - Expressen
 - Fed sänker styrräntan en kvarts procentenhet - SVT Nyheter
+- Här görs skåpen som säljs för en halv miljon på Svenskt Tenn - Dagens Nyheter
 - Greer missnöjd över EU:s behandling av techbolagen - Dagens industri
 - Massiv kritik mot nya Blocket: ”Handlare kommer bomma igen” - NWT
-- Polestar kollapsar på Wall Street - Expressen
 - Då passerar meteorregnet – så ser du stjärnfallen bäst - GP
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 
@@ -153,6 +153,7 @@ _Updated: 2025-12-11 05:45_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Mellanbygd
 - Lediga jobb - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2025-12-11 05:45_
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
-- Jordbruket förtjänar mer än KDs skenhelighet - Land Lantbruk
