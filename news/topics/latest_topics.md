@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 17:49_
+_Updated: 2025-12-11 18:56_
 
 ## Top Stories
 
-- Nu har säsongen för vinterkräksjuka startat - Folkhälsomyndigheten
 - Anhållen i Hörby släppt – misstänker inte dubbelmord - Dagens Nyheter
-- Det orsakade spårvagnsolyckan på Avenyn i Göteborg - SVT Nyheter
-- Står ensam kvar – vägrar att sälja till gruvjätten - SvD
-- EU bantar hållbarhetskrav – Volvo hissar, Unionen dissar - Arbetsvärlden
-- Granskning: Elsa, 8, får inte träffa sina föräldrar - Aftonbladet
-- En anhållen efter filmen på kor som blir slagna och hoppade på - SVT Nyheter
+- Mark Rutte varnar: Nato är Rysslands nästa mål - TV4 Nyheterna
+- Par från Uppsala sitter fast i Indien: ”Vi vill ju för fasen komma hem” - Dagens Nyheter
+- Larm om vägglöss på Ekonomikum - UNT
+- Politikerns larm: Möter råttor i Göteborg varje dag - GP
+- Zelenskyj öppnar för folkomröstning om territorium - Omni
 - Rekordförsöket över för Klaus – nådde 47 466 pi-decimaler: ”Orkar inte mer” - SVT Nyheter
-- Två sorters svenska medborgare – ett vägval för demokratin - Dagens Arena
-- Vargkritik mot Sverige läggs ner - Aftonbladet
+- Sjukdomsfall bakom spårvagnsolycka på Avenyn - GP
+- En gripen efter avslöjande om Arla-djurplågeri - Expressen
+- Skolpengen skapar spricka i regeringen: Skjuts upp - Vi Lärare
 - Michael Winiarski: Fredspristagaren försvarar Trumps krigshot mot Venezuela - Dagens Nyheter
+- Möte i Lviv ska hjälpa Ukraina till EU - GP
 - Klimatförändringarna förstärkte extremvädret i Sydasien - Dagens Nyheter
 - Venezuelas nationalgarde anklagas för grova brott - Västerbottens-Kuriren
-- USA:s representanthus slopar hårdaste sanktionerna mot Syrien - Dagens Nyheter
-- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
 - Sverige kan mer – om vägarna till jobb och bostad blir fler - Byggvärlden
-- Intäkterna från rysk oljeexport på lägsta nivån sedan krigsstarten - DI
+- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
 - Arctic Falls klättrar 26% i premiärhandeln - Placera.se
+- Avknoppade Coffee Stain: 'Nu kan vi lägga all vår energi på det som är bäst för oss som bolag' - vd (FinWire Smallcap) - Aktiellt
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
-- Homey Pro kommer i ny modell med samma utseende och pris - Teknikveckan
+- Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 
 ## World News
 
@@ -38,13 +38,13 @@ _Updated: 2025-12-11 17:49_
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Stockholm Observatory for Global China - Utrikespolitiska institutet
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Påven: En ny global utbildning för hopp i vår tid - Vatican News
 - Widespread mortality of coral reefs - Stockholms universitet
+- Rekordstort beslag av hotade djurarter i global insats - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -63,13 +63,13 @@ _Updated: 2025-12-11 17:49_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Microsoft Copilot gör arbetet på KI mer effektivt - nyheter.ki.se
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -119,13 +119,13 @@ _Updated: 2025-12-11 17:49_
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - nyheter.ki.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - nyheter.ki.se
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Natural Language Processing Research Group - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
@@ -147,8 +147,8 @@ _Updated: 2025-12-11 17:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
