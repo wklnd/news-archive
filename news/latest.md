@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-11 11:53_
+_Updated: 2025-12-11 12:55_
 
 - Trump says the U.S. has seized an oil tanker off the coast of Venezuela - NPR
 - Washington state braces for dangerous flooding as thousands could face evacuation orders - CBS News
-- Venezuelan Nobel laureate Machado arrives in Oslo after 11 months in hiding - Axios
-- Defense Bill Will Make D.C. Skies Less Safe, N.T.S.B. Chair Says - The New York Times
-- Trump launches $1m 'gold card' immigration visas - BBC
-- Thailand and Cambodia: Why can't they end their border conflict? - BBC
+- Frustrated Republicans move to force Obamacare vote as warnings mount about the midterms - Politico
+- Nobel laureate María Corina Machado makes public appearance in Norway, her first in 11 months - CBS News
+- Trump threatens to primary Indiana Republicans ahead of key redistricting vote - Politico
+- ‘Trump Gold Card’ launches, offering expedited immigration pathway with a $1 million fee - CNN
 - US judge says Trump must end National Guard deployment in Los Angeles - Reuters
 - How Eileen Higgins turned Miami blue and handed Trump a loss in city mayor’s race - Miami Herald
 - Anti-abortion group warns against forcing vote to expand Obamacare subsidies - Politico
-- What Could Thwart the Texas G.O.P. From Picking Up 5 House Seats in Midterm Elections - The New York Times
+- Ukraine officially responds to U.S. peace plan under pressure from Trump - Axios
 - US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters
 - Mexico approves up to 50% tariffs on China and other countries - BBC
-- Signs of 400,000-year-old Neanderthal campfire found in UK - DW
-- Australia’s Social Media Ban for Children Takes Effect - The New York Times
+- Britain distances itself from Australia’s social media ban for kids - politico.eu
+- Half a million evacuated on Thai-Cambodia border as Trump makes diplomatic push to end fighting - The Guardian
 - Fed cuts rate but future easing uncertain - BBC
-- Asian Stocks to Rise as Fed’s Rate Cut Lifts Mood: Markets Wrap - Bloomberg.com
-- Coca-Cola names new CEO Henrique Braun to succeed James Quincey - AJC.com
-- Paramount Skydance’s David Ellison Sends Letter to Warner Bros. Discovery Shareholders Making Case for Why Its Bid Is Better Than Netflix Deal: ‘I Am Passionate and Dedicated to This Pursuit’ - Variety
+- David Zaslav’s Next Act Looks Murky As Netflix & Paramount Face Off Over Warner Bros Acquisition - Deadline
+- Powerball Jackpot Rises To $1 Billion—Here’s What The Winner Could Take Home - Forbes
+- ChatGPT spurred a 56-year-old man to kill his mother, lawsuit says - The Washington Post
+- Spotify’s Prompted Playlists use AI to control your algorithm - The Verge
 - You can now share live video with emergency services on Android - TechCrunch
-- Google unveils plans to try again with smart glasses in 2026 - BBC
