@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-11 21:49_
+_Updated: 2025-12-11 22:50_
 
-- Competing health care plans fail in the Senate as ACA premium hikes loom - NPR
-- Scoop: Trump sanctions Maduro's nephews, 6 ships carrying Venezuela oil - Axios
-- US judge orders Kilmar Abrego Garcia's release from ICE custody - BBC
+- Senate rejects extension of health care subsidies as costs are set to rise for millions of Americans - AP News
+- U.S. preparing to seize more oil tankers off Venezuela coast: Report - cnbc.com
+- Justice Department fails to reindict Letitia James for a second time - CNN
 - Trump’s affordability argument just got the unlikeliest champion - CNN
+- Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela - The New York Times
 - ‘A gentleman’s C’: Some conservative economists quibble with Trump’s ‘A+++++’ economy - Politico
+- US judge orders Kilmar Abrego Garcia's release from ICE custody - BBC
 - 100,000 Ordered to Evacuate as Rivers Rise in Washington State - The New York Times
-- Protesters interrupt Noem hearing with Exorcist line: ‘The power of Christ compels you!’ - The Guardian
-- N.J. man praised for trying to save neighbor in fire now charged in her murder - NBC News
-- Indiana Senate to vote on Trump-backed congressional map despite GOP resistance - NBC News
-- Henry Cuellar will retake key spending post after Trump pardon - Politico
-- Inside the very tense, very wet secret mission to get María Corina Machado out of Venezuela - CBS News
-- US bombers join Japanese jets to counter China-Russia drills - DW
-- Revised Proposal to End Ukraine War Sent to U.S., German Chancellor Says - The New York Times
-- Europeans discuss Ukraine with Trump at 'critical moment' for peace - Reuters
+- Trump launches new ‘gold card’ visa program with eye-popping fees - Syracuse.com
+- Sen. Jeanne Shaheen warns millions could lose coverage as ACA votes near defeat - NPR
+- U.S. and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing - NPR
+- Ukraine has sent peace proposal to the US, Merz says - BBC
+- Officials from Ukraine, U.S. and Europe to meet Saturday on Trump's plan - Axios
+- Putin calls Maduro, Lukashenko meets Venezuela envoy as Trump cranks up pressure - Reuters
 - Dow jumps 600 points to record as Oracle sparks rush out of AI trade into broader market: Live updates - cnbc.com
+- Stephen Colbert Wonders Why ‘The Late Show’ Was Canceled if Paramount Has $108 Billion to Offer for Warner Bros. - The Hollywood Reporter
 - Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis - TechCrunch
 - Time magazine names ‘Architects of AI’ as its person of the year for 2025 - AP News
-- Live coverage: Federal Reserve cuts interest rates by 0.25%, Powell warns there's 'no risk-free path' - Yahoo Finance
 - Apple's AirPods Pro 3 drop to a new record low of $199 - Engadget
-- OpenAI’s ChatGPT Now Lets Users Edit Images With Adobe Photoshop - Bloomberg.com
+- Samsung makes progress on One UI 8.5 for Galaxy S23, Z Flip 6, and Z Fold 6 - SamMobile
