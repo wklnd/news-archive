@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 00:51_
+_Updated: 2025-12-12 01:48_
 
-- Indiana Lawmakers Reject Trump’s New Political Map - The New York Times
-- Senate blocks Democrats’ bill to extend expiring Obamacare subsidies - The Washington Post
-- Justice Department fails in its 3rd attempt to indict New York Attorney General Letitia James - NBC News
-- Scoop: Trump sanctions Maduro's nephews, 6 ships carrying Venezuela oil - Axios
-- Ukraine hopes to entice Trump with a ‘free economic zone’ in latest peace plan - Politico
-- House passes bill to restore federal workers’ bargaining rights - Politico
-- Tyler Robinson, accused of shooting Charlie Kirk, appears in Utah courtroom for first time in person - The Salt Lake Tribune
+- In a setback for Trump, Indiana lawmakers defeat redistricting plan - NPR
+- US sanctions six more ships after seizing oil tanker off Venezuela - BBC
+- Obamacare health subsidy to end as US Senate rejects dueling remedies - Reuters
+- Justice Department again fails to indict New York Attorney General Letitia James - NBC News
+- Man Accused in Charlie Kirk Killing Makes First Court Appearance in Person - The New York Times
+- Officials from Ukraine, U.S. and Europe to meet Saturday on Trump's plan - Axios
 - Kilmar Abrego Garcia to be released immediately from ICE custody, judge orders - NBC News
-- 100,000 Ordered to Evacuate as Rivers Rise in Washington State - The New York Times
-- Protesters interrupt Noem hearing with Exorcist line: ‘The power of Christ compels you!’ - The Guardian
-- Inside the very tense, very wet secret mission to get María Corina Machado out of Venezuela - CBS News
-- U.S. and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing - NPR
-- Friedrich Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’ - Financial Times
-- Rwanda-backed M23 offensive in Congo’s South Kivu kills over 400 civilians - AP News
-- Oracle Slides by Most Since January on Mounting AI Spending - Bloomberg.com
-- Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis - TechCrunch
-- Time magazine names ‘Architects of AI’ as its person of the year for 2025 - AP News
-- Live coverage: Federal Reserve cuts interest rates by 0.25%, Powell warns there's 'no risk-free path' - Yahoo Finance
-- I went hands-on with the Galaxy Z TriFold at Dubai Mall — Samsung's tri-fold has a distinct advantage over the Huawei Mate XT, and the design is much better than I expected - Android Central
-- Apple's AirPods Pro 3 drop to a new record low of $199 - Engadget
+- Severe flooding in Pacific Northwest triggers rescues and road closures: "Lives will be at stake in the coming days" - CBS News
+- Kristi Noem Testifies Before House Panel Amid Immigration Crackdown - The New York Times
+- House passes bill to restore federal workers’ bargaining rights - Politico
+- DRAMATIC VIDEO: Man flung from aircraft onto tailplane in dramatic skydiving mishap - 6abc Philadelphia
+- US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters
+- Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela - The New York Times
+- Zelensky says US wants 'special economic zone' in Ukraine's Donetsk region - BBC
+- Stock Market Today: S&P 500, Dow Up, Gold Miners Jump; AI Stocks Brush Off Oracle Drop (Live Coverage) - Investor's Business Daily
+- Broadcom forecasts upbeat quarterly revenue on AI chip demand - Yahoo Finance
+- Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents - Federal Reserve Board (.gov)
+- Lululemon CEO Calvin McDonald to depart in January as retailer struggles to compete, woo shoppers - cnbc.com
+- World of Warcraft Players Figured Out How to Make Flying Houses, and Blizzard Has Given Them Its Official Seal of Approval - IGN
+- Tiiny AI Pocket Lab: Mini PC with 12-core ARM CPU and 80 GB LPDDR5X memory unveiled ahead of CES - Notebookcheck
