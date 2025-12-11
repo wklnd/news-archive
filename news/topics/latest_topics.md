@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 11:47_
+_Updated: 2025-12-11 12:49_
 
 ## Top Stories
 
-- DN Direkt – Fredspristagaren Machado håller presskonferens i Oslo - Dagens Nyheter
-- Sjukdomsfall bakom allvarliga spårvagnsolyckan - Aftonbladet
+- Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
+- DN Direkt – Sjukdom bakom spårvagnsolycka på Avenyn - Dagens Nyheter
 - En man skjuten i Järfälla – en gripen - Mitt i
 - Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
 - Ledare: EU kan inte reglera sig till konkurrenskraft - Hallands Nyheter
-- Flera grova våldsdåd av unga stoppade – efter larm från föräldrar - SVT Nyheter
-- Man gripen misstänkt för mord i Nässjö - Dagens Nyheter
+- Kvinna blev rånad på bil av pistolman - Expressen
 - 770 studenter avstängda för AI-fusk - Västerbottens-Kuriren
-- Snusvågen bland unga planar ut - GP
-- Få väljer naturvetenskap – ingen når målet - Västerbottens-Kuriren
+- Få väljer naturvetenskap – ingen når målet - GP
+- Snusvågen bland unga planar ut - Västerbottens-Kuriren
+- Här är den hemliga uppgörelsen om Somaliapengarna - Dagens Nyheter
+- Merz: Trump har fått europeiskt motförslag - Dagens Nyheter
 - Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
-- Trump: USA beslagtagit tankfartyg i Venezuela - SVT Nyheter
-- Brigitte Macron i blåsväder – hånade aktivister - Hufvudstadsbladet
+- Trump: USA har beslagtagit tankfartyg utanför Venezuela - SVT Nyheter
 - Roy Marsh, 86, spottade ut löv – fick böter - Expressen
-- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
+- Så mycket dyrare är julmaten i år – och för fem år sedan - Aftonbladet
 - Billigare paketresor pressar ned inflationen - SvD
+- Fed sänker räntorna, men framtida sänkningar kräver fler tecken på svaghet - Morningstar Canada
 - Analytikerna vänder Handelsbanken ryggen - DI
-- Tredje räntesänkningen i rad av Fed - Hufvudstadsbladet
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
 - Gymnasieskola återstartar grafisk utbildning - Sign&Print
 
@@ -29,7 +29,6 @@ _Updated: 2025-12-11 11:47_
 
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -40,34 +39,35 @@ _Updated: 2025-12-11 11:47_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- Historic Executive Order Fast-Tracks ZenaTech’s ZenaDrone Subsidiary Manufacturing and Go-to-Market Plans for Dual-Use Defense and Commercial Drones - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
@@ -83,37 +83,37 @@ _Updated: 2025-12-11 11:47_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-11 11:47_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Så gick första året för Pellbrants - Mellanbygd
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
