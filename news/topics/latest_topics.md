@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 09:44_
+_Updated: 2025-12-11 10:53_
 
 ## Top Stories
 
-- Hot mot Guldkroksskolan i Hjo – skolan håller öppet med låsta dörrar - SVT Nyheter
-- USA har beslagtagit tanker utanför Venezuela - Dagens Nyheter
-- Man avled av stickskador i Anneberg - Hem - Värnamo
+- Fredspristagaren Machado anländer till Oslo - SVT Nyheter
 - Här är den hemliga uppgörelsen om Somaliapengarna - Dagens Nyheter
-- Insändare. Noterat av DN:s läsare den 10 december - Dagens Nyheter
 - Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
+- 10 december 20.49, Mord/dråp, försök, Järfälla - Polisen.se
+- Varning för översvämningar längs norra Västkusten - TV4 Nyheterna
+- Trump: Tanker beslagtagen utanför Venezuela - Västerbottens-Kuriren
+- Misstänkt mord i Nässjö – man anhållen - Västerbottens-Kuriren
 - Få väljer naturvetenskap – ingen når målet - GP
 - Snusvågen bland unga planar ut - Västerbottens-Kuriren
-- Risk för akut förgiftning för barn i Falun - Västerbottens-Kuriren
 - Lås på dörren: Förvaltaren isolerade Racine från hennes mamma - Sveriges Radio
 - Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
-- Amnesty: Hamas har begått brott mot mänskligheten - Västerbottens-Kuriren
-- Fredspristagaren Machado anländer till Oslo - SVT Nyheter
+- Systembolag tvingas stänga – "Oförberedd händelse" - Expressen
+- Martin Hansson: USA har hittat ett problem i öst – och det är inte Ryssland - ETC.se
 - Roy Marsh, 86, spottade ut löv – fick böter - Expressen
-- SCB bekräftar: Inflationen minskade i november - DI
+- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
+- Billigare paketresor pressar ned inflationen - SvD
 - Tredje räntesänkningen i rad av Fed - Dagens Nyheter
-- Här görs skåpen som säljs för en halv miljon på Svenskt Tenn - Dagens Nyheter
 - Analytikerna vänder Handelsbanken ryggen - DI
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
