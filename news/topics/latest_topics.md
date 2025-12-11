@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 23:41_
+_Updated: 2025-12-12 00:45_
 
 ## Top Stories
 
-- Anhållen i Hörby släppt – misstänker inte dubbelmord - Dagens Nyheter
-- Sjukdomsfall bakom spårvagnsolyckan på Avenyn: ”Minns inget” - SVT Nyheter
+- Misstankar i Hörby riktas mot döda kvinnan - SvD
+- Utredning: Därför kraschade spårvagnen på Avenyn - Dagens Nyheter
+- Zelenskyj: Invånarna måste tycka till om territorium - Omni
+- V-ledarens krav på Sveriges ”superrika” - Expressen
+- Lite goda nyheter – amerikanerna är fortfarande på vår sida - Expressen
 - Efter Årebornas oro – nu ändrar Skistar reglerna - Aftonbladet
-- Sverige ger 50 miljoner kronor i humanitärt vinterstöd till Unicef i Gaza - Regeringen.se
-- Ledare: När tydligt blir otydligt - NWT
-- DN Direkt – Spilld cement på vägen – en mil av halka - Dagens Nyheter
 - Larm om vägglöss på Ekonomikum – lokaler avstängda - UNT
-- Vänsterpartiet vill införa miljardärsskatt - Västerbottens-Kuriren
 - Beredskap och business as usual - Svenskt Näringsliv
-- Riksdagspartierna bjuds in för samtal om gängen - GP
-- Zelenskyj: Kan bli folkomröstning om territorier - Dagens Nyheter
+- Ny skolpeng splittrar regeringen - Folkbladet
+- En anhållen efter filmen på kor som blir slagna och hoppade på - SVT Nyheter
 - Källor: Pengarna rullar in efter attackerna på Trump - Dagens Nyheter
-- Amnesty: Hamas har begått brott mot mänskligheten - Hufvudstadsbladet
+- Trumps guldkort: Kostsam väg in i USA - Västerbottens-Kuriren
+- Källor: USA planerar att beslagta fler oljefartyg - SVT Nyheter
 - Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
 - DN Direkt – Oracle föll ihop i ny AI-oro på Wall Street - Dagens Nyheter
 - Minnesbrist innebär risk för höjda priser på datorer och telefoner - Expressen
-- Pausad omställning – men hotar inte klimatet - SvD
+- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
 - Strängnäs tar hem andraplatsen i Bästa Tillväxt i Södermanland - Strängnäs kommun
+- Cookieinformation - Vasaloppet
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
-- Nu kan alla ladda ner Operas AI-webbläsare Neon - PC för Alla
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2025-12-11 23:41_
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Rekordstort beslag av hotade djurarter i global insats - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Widespread mortality of coral reefs - Stockholms universitet
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -143,22 +143,22 @@ _Updated: 2025-12-11 23:41_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
