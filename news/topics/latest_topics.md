@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 20:55_
+_Updated: 2025-12-11 21:41_
 
 ## Top Stories
 
 - Misstankar i Hörby riktas mot döda kvinnan - SvD
-- Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
-- Mark Rutte varnar: Nato är Rysslands nästa mål - TV4 Nyheterna
 - Utredning: Därför kraschade spårvagnen på Avenyn - Dagens Nyheter
-- Par från Uppsala sitter fast i Indien: ”Vi vill ju för fasen komma hem” - Dagens Nyheter
-- Ingen har problem med att handla på kredit längre - GP
+- Efter Årebornas oro – nu ändrar Skistar reglerna - Aftonbladet
+- Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
+- Pilot om SAS-chefens uppmaning: ”Hyckleri” - SvD
+- Ledare: När tydligt blir otydligt - NWT
 - Larm om vägglöss på Ekonomikum – lokaler avstängda - UNT
+- Par från Uppsala sitter fast i Indien: ”Vi vill ju för fasen komma hem” - Dagens Nyheter
 - Rekordförsöket över för Klaus – nådde 47 466 pi-decimaler: ”Orkar inte mer” - SVT Nyheter
 - Riksdagspartierna bjuds in för samtal om gängen - Västerbottens-Kuriren
-- Ny skolpeng splittrar regeringen - Västerbottens-Kuriren
-- Michael Winiarski: Fredspristagaren försvarar Trumps krigshot mot Venezuela - Dagens Nyheter
-- Zelenskyj: Kan bli folkomröstning om territorier - Hufvudstadsbladet
+- Zelenskyj: Kan bli folkomröstning om territorier - Dagens Nyheter
+- Amnesty: Hamas har begått brott mot mänskligheten - GP
+- Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
 - Möte i Lviv ska hjälpa Ukraina till EU - Västerbottens-Kuriren
-- Merz: Trump har fått europeiskt motförslag - Dagens Nyheter
 - Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
-- Arctic Falls klättrar 26% i premiärhandeln - Placera.se
 - Minnesbrist innebär risk för höjda priser på datorer och telefoner - Expressen
-- Sverige kan mer – om vägarna till jobb och bostad blir fler - Byggvärlden
-- Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
+- Arctic Falls klättrar 26% i premiärhandeln - Placera.se
+- Lönegapet ökar – chefer får 40 000 mer i månaden - SvD
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
+- Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 
 ## World News
 
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- 'Avatar: Fire and Ash' cast tours the world: James Cameron, Zoe Saldaña wow fans with global celebrations - ABC7 Chicago
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- 'Avatar: Fire and Ash' cast tours the world: James Cameron, Zoe Saldaña wow fans with global celebrations - ABC7 Chicago
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Rekordstort beslag av hotade djurarter i global insats - Omni
-- Stockholm Observatory for Global China - Utrikespolitiska institutet
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Widespread mortality of coral reefs - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Rekordstort beslag av hotade djurarter i global insats - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
@@ -75,24 +75,24 @@ _Updated: 2025-12-11 20:55_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -122,23 +122,23 @@ _Updated: 2025-12-11 20:55_
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Natural Language Processing Research Group - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
