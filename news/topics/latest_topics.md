@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 13:41_
+_Updated: 2025-12-11 15:21_
 
 ## Top Stories
 
-- Fredspristagaren om en USA-invasion: Venezuela är redan invaderat - Dagens Nyheter
+- DN Direkt – Anhållen i Hörby släppt – misstänker inte dubbelmord - Dagens Nyheter
+- Miljontals evakuerade i Sydasien: ”Världen förstår inte vad som hänt” - Dagens Nyheter
 - Sjukdomsfall bakom allvarliga spårvagnsolyckan - Aftonbladet
-- En man skjuten i Järfälla – en gripen - Mitt i
-- Karin Eriksson: Fajten mellan Trump och Frederiksen kan bli viktigast i hela väst - Dagens Nyheter
-- Ledare: EU kan inte reglera sig till konkurrenskraft - Hallands Nyheter
-- Kiruna kommuns käftsmäll från regeringen: "Vatten på en gås" - NSD
-- 770 studenter avstängda för AI-fusk - Västerbottens-Kuriren
-- SMHI varnar för översvämningar - GP
-- Få väljer naturvetenskap – ingen når målet - Västerbottens-Kuriren
-- Risk för akut förgiftning för barn i Falun - Västerbottens-Kuriren
-- Merz: Trump har fått europeiskt motförslag - Dagens Nyheter
-- Venezuela: USA har stulit oljetankern - Västerbottens-Kuriren
-- Åsa Wikforss: Så gör Putin och techoligarkerna för att roffa åt sig allt de kan - Dagens Nyheter
-- Martin Hansson: USA har hittat ett problem i öst – och det är inte Ryssland - ETC.se
-- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
+- Står ensam kvar – vägrar att sälja till gruvjätten - SvD
+- Först anklagades Joakim Lundell – sedan publiken - Västerbottens-Kuriren
+- Trump: USA har beslagtagit tankfartyg utanför Venezuela - SVT Nyheter
+- Vargkritik läggs ned mot Sverige - Västerbottens-Kuriren
+- Här är den hemliga uppgörelsen om Somaliapengarna - Dagens Nyheter
+- Risk för akut förgiftning för barn i Falun - Expressen
+- SMHI varnar för översvämning - Expressen
+- Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
+- Venezuelas nationalgarde anklagas för grova brott - Västerbottens-Kuriren
+- Merz: Förslag på territoriella eftergifter för Ukraina - Hufvudstadsbladet
+- Amnesty: Hamas har begått brott mot mänskligheten - SvD
+- Så mycket dyrare har julbordet blivit – kaffe har ökat med över 100 procent - NWT
+- Rysk oljeexport rasar – lägst sedan invasionen - Aftonbladet
 - Billigare paketresor pressar ned inflationen - SvD
 - Tredje räntesänkningen i rad av Fed - Hufvudstadsbladet
-- Analytikerna vänder Handelsbanken ryggen - DI
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
-- Galaxy S26 kan hållas sval tack vare Exynos 2600 - Swedroid
+- Festen fortsätter biljettrusning och utsålda konserter - Sven Ingvars firar vidare med höstturné 2026 - Via TT
 
 ## World News
 
@@ -38,13 +38,13 @@ _Updated: 2025-12-11 13:41_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -52,11 +52,11 @@ _Updated: 2025-12-11 13:41_
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -82,16 +82,16 @@ _Updated: 2025-12-11 13:41_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
@@ -101,10 +101,10 @@ _Updated: 2025-12-11 13:41_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -119,26 +119,26 @@ _Updated: 2025-12-11 13:41_
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Natural Language Processing Research Group - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
