@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 19:54_
+_Updated: 2025-12-11 20:55_
 
 ## Top Stories
 
-- Mannen i Hörby släpps – avlidna kvinnan misstänks - Skånska Dagbladet
+- Misstankar i Hörby riktas mot döda kvinnan - SvD
+- Trumps nya säkerhetsstrategi gräver de transatlantiska skyttegravarna än djupare - Altinget.SE
 - Mark Rutte varnar: Nato är Rysslands nästa mål - TV4 Nyheterna
-- Ny skolpeng splittrar regeringen - Västerbottens-Kuriren
+- Utredning: Därför kraschade spårvagnen på Avenyn - Dagens Nyheter
 - Par från Uppsala sitter fast i Indien: ”Vi vill ju för fasen komma hem” - Dagens Nyheter
-- Ledare: När tydligt blir otydligt - NWT
-- DN Direkt – Eurovisionvinnaren Nemo lämnar tillbaka statyett - Dagens Nyheter
+- Ingen har problem med att handla på kredit längre - GP
 - Larm om vägglöss på Ekonomikum – lokaler avstängda - UNT
 - Rekordförsöket över för Klaus – nådde 47 466 pi-decimaler: ”Orkar inte mer” - SVT Nyheter
-- En gripen efter avslöjande om Arla-djurplågeri - Expressen
-- Nobel: Det här händer i dag - Aftonbladet
+- Riksdagspartierna bjuds in för samtal om gängen - Västerbottens-Kuriren
+- Ny skolpeng splittrar regeringen - Västerbottens-Kuriren
+- Michael Winiarski: Fredspristagaren försvarar Trumps krigshot mot Venezuela - Dagens Nyheter
 - Zelenskyj: Kan bli folkomröstning om territorier - Hufvudstadsbladet
-- Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
-- Möte i Lviv ska hjälpa Ukraina till EU - GP
-- Klimatförändringarna förstärkte extremvädret i Sydasien - Dagens Nyheter
-- Sverige kan mer – om vägarna till jobb och bostad blir fler - Byggvärlden
-- Så mycket dyrare har julbordet blivit – kaffe har ökat med över 100 procent - NWT
+- Möte i Lviv ska hjälpa Ukraina till EU - Västerbottens-Kuriren
+- Merz: Trump har fått europeiskt motförslag - Dagens Nyheter
+- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
 - Arctic Falls klättrar 26% i premiärhandeln - Placera.se
 - Minnesbrist innebär risk för höjda priser på datorer och telefoner - Expressen
+- Sverige kan mer – om vägarna till jobb och bostad blir fler - Byggvärlden
 - Call of Duty bryter sin cykel - Activision slutar med back-to-back-släpp - dopest.se
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
 
@@ -53,21 +53,21 @@ _Updated: 2025-12-11 19:54_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
@@ -75,24 +75,24 @@ _Updated: 2025-12-11 19:54_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2025-12-11 19:54_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Lediga jobb - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Vi kan förverkliga lantbrukarnas drömmar - Land Lantbruk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
