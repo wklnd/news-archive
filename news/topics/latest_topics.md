@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 16:46_
+_Updated: 2025-12-11 17:49_
 
 ## Top Stories
 
+- Nu har säsongen för vinterkräksjuka startat - Folkhälsomyndigheten
 - Anhållen i Hörby släppt – misstänker inte dubbelmord - Dagens Nyheter
 - Det orsakade spårvagnsolyckan på Avenyn i Göteborg - SVT Nyheter
-- Miljardaffärer planeras – ett ekonomiskt slukhål - SvD
-- En gripen efter insats på mjölkgård - Västerbottens-Kuriren
-- En man skjuten i Järfälla – en gripen - Mitt i
-- Ledare: EU kan inte reglera sig till konkurrenskraft - Hallands Nyheter
-- DN Direkt – AI-fusket skjuter i höjden på svenska lärosäten - Dagens Nyheter
-- Klaus Andrei, 21, har passerat Europarekordet i pi-decimaler – SVT sänder direkt - SVT Nyheter
-- Vargkritik läggs ned mot Sverige - Aftonbladet
+- Står ensam kvar – vägrar att sälja till gruvjätten - SvD
+- EU bantar hållbarhetskrav – Volvo hissar, Unionen dissar - Arbetsvärlden
+- Granskning: Elsa, 8, får inte träffa sina föräldrar - Aftonbladet
+- En anhållen efter filmen på kor som blir slagna och hoppade på - SVT Nyheter
+- Rekordförsöket över för Klaus – nådde 47 466 pi-decimaler: ”Orkar inte mer” - SVT Nyheter
 - Två sorters svenska medborgare – ett vägval för demokratin - Dagens Arena
+- Vargkritik mot Sverige läggs ner - Aftonbladet
 - Michael Winiarski: Fredspristagaren försvarar Trumps krigshot mot Venezuela - Dagens Nyheter
 - Klimatförändringarna förstärkte extremvädret i Sydasien - Dagens Nyheter
 - Venezuelas nationalgarde anklagas för grova brott - Västerbottens-Kuriren
-- Vad är priset för en stulen barndom? - Aftonbladet
+- USA:s representanthus slopar hårdaste sanktionerna mot Syrien - Dagens Nyheter
 - Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
-- Rysk oljeexport rasar – lägst sedan invasionen - Aftonbladet
-- Avknoppade Coffee Stain: 'Nu kan vi lägga all vår energi på det som är bäst för oss som bolag' - vd (FinWire Smallcap) - Aktiellt
-- Svårt att komma fram till 1177 på telefon och X-trafik på telefon - Region Gävleborg
-- Svenskar kan vinna på nattens stora spelgala - Dagens Nyheter
+- Sverige kan mer – om vägarna till jobb och bostad blir fler - Byggvärlden
+- Intäkterna från rysk oljeexport på lägsta nivån sedan krigsstarten - DI
+- Arctic Falls klättrar 26% i premiärhandeln - Placera.se
+- Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
 - Homey Pro kommer i ny modell med samma utseende och pris - Teknikveckan
 
 ## World News
@@ -31,45 +31,45 @@ _Updated: 2025-12-11 16:46_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 'Avatar: Fire and Ash' cast tours the world: James Cameron, Zoe Saldaña wow fans with global celebrations - ABC7 Chicago
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Rekordstort beslag av hotade djurarter i global insats - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Widespread mortality of coral reefs - Stockholms universitet
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- Widespread mortality of coral reefs - Stockholms universitet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- AML RightSource Appoints Abhishek Mittal as Chief Product & AI Officer to Accelerate Innovation in Financial Crime Compliance (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- VEITH Symposium Showcases Emerging AI Applications in Vascular Care Led by Veith and Dinc (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-11 16:46_
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Natural Language Processing Research Group - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
