@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-11 22:43_
+_Updated: 2025-12-11 23:41_
 
 ## Top Stories
 
-- V: Vi vill införa miljardärsskatt - SvD
 - Anhållen i Hörby släppt – misstänker inte dubbelmord - Dagens Nyheter
 - Sjukdomsfall bakom spårvagnsolyckan på Avenyn: ”Minns inget” - SVT Nyheter
 - Efter Årebornas oro – nu ändrar Skistar reglerna - Aftonbladet
-- Pilot om SAS-chefens uppmaning: ”Hyckleri” - SvD
+- Sverige ger 50 miljoner kronor i humanitärt vinterstöd till Unicef i Gaza - Regeringen.se
 - Ledare: När tydligt blir otydligt - NWT
+- DN Direkt – Spilld cement på vägen – en mil av halka - Dagens Nyheter
 - Larm om vägglöss på Ekonomikum – lokaler avstängda - UNT
-- Par från Uppsala sitter fast i Indien: ”Vi vill ju för fasen komma hem” - Dagens Nyheter
-- Rekordförsöket över för Klaus – nådde 47 466 pi-decimaler: ”Orkar inte mer” - SVT Nyheter
+- Vänsterpartiet vill införa miljardärsskatt - Västerbottens-Kuriren
 - Beredskap och business as usual - Svenskt Näringsliv
+- Riksdagspartierna bjuds in för samtal om gängen - GP
 - Zelenskyj: Kan bli folkomröstning om territorier - Dagens Nyheter
 - Källor: Pengarna rullar in efter attackerna på Trump - Dagens Nyheter
 - Amnesty: Hamas har begått brott mot mänskligheten - Hufvudstadsbladet
 - Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
+- DN Direkt – Oracle föll ihop i ny AI-oro på Wall Street - Dagens Nyheter
 - Minnesbrist innebär risk för höjda priser på datorer och telefoner - Expressen
-- Matpriserna – smör till julbaket 62 procent dyrare på fem år - Statistikmyndigheten SCB
-- Lönegapet ökar – chefer får 40 000 mer i månaden - SvD
-- Störningar hos Telia lösta - GP
+- Pausad omställning – men hotar inte klimatet - SvD
+- Strängnäs tar hem andraplatsen i Bästa Tillväxt i Södermanland - Strängnäs kommun
 - Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
 - Nu kan alla ladda ner Operas AI-webbläsare Neon - PC för Alla
 
@@ -40,8 +40,8 @@ _Updated: 2025-12-11 22:43_
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Rekordstort beslag av hotade djurarter i global insats - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Rekordstort beslag av hotade djurarter i global insats - Omni
 - Widespread mortality of coral reefs - Stockholms universitet
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -82,17 +82,17 @@ _Updated: 2025-12-11 22:43_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -103,11 +103,11 @@ _Updated: 2025-12-11 22:43_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -133,12 +133,12 @@ _Updated: 2025-12-11 22:43_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
