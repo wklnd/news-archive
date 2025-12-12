@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-12 11:47_
+_Updated: 2025-12-12 12:48_
 
 ## Top Stories
 
-- DN Direkt – Hörby kommun: Inget tyder på att vi gjort fel - Dagens Nyheter
-- Uppgifter: USA vill splittra EU – pekar ut fyra länder - GP
-- Fakta i frågan: Har Sverige tappat ledartröjan i klimatfrågan? - Dagens Nyheter
-- Barn dog i samband med sövning på Norrlands universitetssjukhus - SVT Nyheter
-- Sjukdomsfall bakom spårvagnsolyckan på Avenyn: ”Minns inget” - SVT Nyheter
-- DN Direkt – von der Leyen slår tillbaka mot Trump: ”Folkets sak att bestämma” - Dagens Nyheter
-- Två personer är anhållna för försök till mord i Gröndal - SVT Nyheter
-- Rekordmånga farliga leksaker förstörda av tullen - Corren
-- Höjt försörjningskrav vid anhöriginvandring föreslås - Regeringen.se
-- Här kapar de ministerns brevlåda – helt lagligt - Expressen
-- DN Direkt – Beslag: 30 000 djur, elfenben och ”bushmeat” - Dagens Nyheter
+- Frågorna som kvarstår – efter mordet i familjen - Expressen
+- Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
+- Ryska centralbanken tar strid för frysta tillgångar - Hufvudstadsbladet
+- Uppgifter: Ung man fick hand avhuggen – två greps på Subway - Aftonbladet
+- DN Direkt – Två personer anhållna för mordförsök i Gröndal - Dagens Nyheter
+- Zelenskyj: "Vi kan rösta om gränserna" - Dagens PS
+- Misstänkt anlagd brand på altan i Malmö - Expressen
+- Rekordmånga farliga leksaker förstörda av tullen - UNT
+- Polisen: Högerextrem aktivitet ökar i Stockholm - Omni
+- Försörjningskrav vid invandring ska skärpas - Corren
+- Beslag: 30 000 djur, elfenben och "bushmeat" - Västerbottens-Kuriren
+- Fyra fallgropar som hotar fredsplanen i Gaza - SVT Nyheter
 - Kyparen på krigshotellet: ”Min kollega sköts i ryggen på väg in i huset” - Dagens Nyheter
-- Zelenskyj: Kan bli folkomröstning om territorier - Hufvudstadsbladet
-- Reddit motsätter sig australisk sociala medier-lag - GP
+- DN Direkt – Anhållen i Hörby släppt – misstänker inte dubbelmord - Dagens Nyheter
+- Tidigare anställd på börsen döms för insideraffär - Omni
 - Prognos: Mer konsumtion lyfter svensk ekonomi - Sydsvenskan
 - LO spår återhämtning för svensk ekonomi - DI
-- LO-ekonomerna: Pratet om USAs ekonomiska försprång är överdrivet - Aktuellt i Politiken
 - Kryptokung döms – 34 miljarder gick upp i rök - Hufvudstadsbladet
-- The Game Awards: Svenska titlar prisas på spelgala - SvD
+- Svenska titlar prisas på spelgala - Sydsvenskan
 - Demonstatyn i öknen – ett stort spelmysterium - Aftonbladet
 
 ## World News
@@ -52,21 +52,21 @@ _Updated: 2025-12-12 11:47_
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
@@ -103,15 +103,15 @@ _Updated: 2025-12-12 11:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -145,20 +145,20 @@ _Updated: 2025-12-12 11:47_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
