@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 01:48_
+_Updated: 2025-12-12 04:30_
 
-- In a setback for Trump, Indiana lawmakers defeat redistricting plan - NPR
-- US sanctions six more ships after seizing oil tanker off Venezuela - BBC
-- Obamacare health subsidy to end as US Senate rejects dueling remedies - Reuters
-- Justice Department again fails to indict New York Attorney General Letitia James - NBC News
-- Man Accused in Charlie Kirk Killing Makes First Court Appearance in Person - The New York Times
-- Officials from Ukraine, U.S. and Europe to meet Saturday on Trump's plan - Axios
-- Kilmar Abrego Garcia to be released immediately from ICE custody, judge orders - NBC News
-- Severe flooding in Pacific Northwest triggers rescues and road closures: "Lives will be at stake in the coming days" - CBS News
-- Kristi Noem Testifies Before House Panel Amid Immigration Crackdown - The New York Times
-- House passes bill to restore federal workers’ bargaining rights - Politico
-- DRAMATIC VIDEO: Man flung from aircraft onto tailplane in dramatic skydiving mishap - 6abc Philadelphia
-- US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters
-- Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela - The New York Times
+- Indiana GOP rejects Trump’s map in major blow to his gerrymandering push - Politico
+- US issues fresh sanctions targeting Maduro's family, Venezuela-linked oil tankers - Reuters
+- Senate rejects rival Obamacare bills. Here's what that means for ACA subsidies - Axios
+- Trump is trying to preempt state AI laws via an executive order. It may not be legal - NPR
 - Zelensky says US wants 'special economic zone' in Ukraine's Donetsk region - BBC
-- Stock Market Today: S&P 500, Dow Up, Gold Miners Jump; AI Stocks Brush Off Oracle Drop (Live Coverage) - Investor's Business Daily
-- Broadcom forecasts upbeat quarterly revenue on AI chip demand - Yahoo Finance
-- Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents - Federal Reserve Board (.gov)
-- Lululemon CEO Calvin McDonald to depart in January as retailer struggles to compete, woo shoppers - cnbc.com
-- World of Warcraft Players Figured Out How to Make Flying Houses, and Blizzard Has Given Them Its Official Seal of Approval - IGN
-- Tiiny AI Pocket Lab: Mini PC with 12-core ARM CPU and 80 GB LPDDR5X memory unveiled ahead of CES - Notebookcheck
+- 100,000 Ordered to Evacuate as Rivers Rise in Washington State - The New York Times
+- Man Accused in Charlie Kirk Killing Makes First Court Appearance in Person - The New York Times
+- Federal judge orders Kilmar Abrego García’s ‘immediate release’ - The Washington Post
+- Trump says he's pardoned Tina Peters, but that may not save her from prison - Axios
+- Gas explosion in San Francisco Bay Area injures at least six people - The Guardian
+- Video: Skydiver Left Dangling Mid-Air As Parachute Caught On Aircraft Tail - NDTV
+- Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela - The New York Times
+- US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters
+- Here’s What to Know About Japan’s Mega Quake Advisory - The New York Times
+- Dow futures are higher after notching fresh records: Live updates - cnbc.com
+- lululemon athletica inc. Announces CEO Succession Plan - Lululemon
+- TerraUSD creator Do Kwon sentenced to 15 years over $40 billion crypto collapse - Reuters
+- Broadcom Shares Sink Despite Record Revenue - The Wall Street Journal
+- Apple AirTag 2: Four New Features Found in iOS 26 Code - MacRumors
+- Runway releases its first world model, adds native audio to latest video model - TechCrunch
