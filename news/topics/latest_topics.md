@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-12 19:44_
+_Updated: 2025-12-12 20:53_
 
 ## Top Stories
 
-- DN Direkt – UD avråder från resor till fler platser i Thailand - Dagens Nyheter
+- UD avråder från resor till flera områden i Thailand - SVT Nyheter
+- Ingmar Nevéus: Ett splittrat Europa är Trumps önskedröm - Dagens Nyheter
 - Gravljus och gosedjur i Hörby efter dödsfallen - Sydsvenskan
-- Barnhjärtläkaren granskas i Lund: Två barn undersöks på nytt - Dagens Nyheter
 - Strömavbrott förstörde viktig del av ESS - Sydsvenskan
-- Man med yxa attackerade förvaltningens reception - Nyhetsbyrån Järva
-- Misstänkta giftkvinnans egna ord: ”Mångårig erfarenhet inom mediciner” - Aftonbladet
-- Lokaltidning i Västerås attackerad med avföring - SVT Nyheter
-- ”Militär verksamhet” ställer in julgransflygning - NWT
-- Räv i kontorshus – polisinsats i Västerås - Expressen
+- Barnhjärtläkaren granskas i Lund: Två barn undersöks på nytt - Dagens Nyheter
+- Zelenskyj i Kupjansk efter rapporter om motoffensiv - Omni
+- Sexårige Gottfrid tyckte Himble var läskig – nu flyger jätten fem mil bort - Dagens Nyheter
+- Försvarets julgransflygning ställs in - SVT Nyheter
+- Lokaltidning attackerad med avföring - Västerbottens-Kuriren
 - 16-åring uppmanade flicka att ta sitt liv – döms - Dagens Nyheter
+- Flera döda i regnoväder i Gaza - Västerbottens-Kuriren
+- Nya israeliska attacker i södra Libanon - Folkbladet
 - Källor: Ukraina kan bli EU-medlem 2027 - SVT Nyheter
-- Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
-- Nya israeliska attacker i södra Libanon - Västerbottens-Kuriren
 - Ljusstake välte på Södermalm – orsakade brand - Expressen
 - Prognos: Mer konsumtion lyfter svensk ekonomi - Sydsvenskan
-- Ny tullavgift på paket från Shein och Temu - SVT Nyheter
+- Ny tullavgift på paket från Shein och Temu - SvD
 - Medarbetare på Nasdaq döms till fängelse för insiderbrott - Tidningen Balans
 - Bofa upprepar köp på Volvo - räknar med gradvis förbättring av lastbilsorder 2026 - Börsvärlden
-- Googles nya AI-verktyg Disco kan göra om flikar till appar - Computer Sweden
 - Klart: ”Total War: ”Warhammer 40.000” på gång – med ”Stranger Things”-skådis - MovieZine.se
+- Utryckning efter brandlarm - Västerbottens-Kuriren
 
 ## World News
 
@@ -34,7 +34,6 @@ _Updated: 2025-12-12 19:44_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- 'Avatar: Fire and Ash' cast tours the world: James Cameron, Zoe Saldaña wow fans with global celebrations - ABC7 Chicago
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
@@ -42,6 +41,7 @@ _Updated: 2025-12-12 19:44_
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Handelsbanken lanserar ny global indexfond - Cision News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
@@ -52,9 +52,10 @@ _Updated: 2025-12-12 19:44_
 
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
@@ -64,7 +65,6 @@ _Updated: 2025-12-12 19:44_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
@@ -101,17 +101,17 @@ _Updated: 2025-12-12 19:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -119,46 +119,46 @@ _Updated: 2025-12-12 19:44_
 
 ## Science
 
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Early experiments in accelerating science with GPT-5 - OpenAI
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Natural Language Processing Research Group - Stockholms universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Utökat samarbete inom life science i Stockholm-Uppsala - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Natural Language Processing Research Group - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
