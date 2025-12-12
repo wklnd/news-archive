@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 22:52_
+_Updated: 2025-12-12 23:48_
 
 - Trump, Clinton, Gates included in Epstein photo trove - Politico
-- In a setback for Trump, Indiana lawmakers defeat redistricting plan - NPR
-- Live updates: Rivers have crested, but Western Washington flood threat still looms - KUOW
-- Justice Department Sues Four Additional States and One Locality for Failure to Comply with Federal Elections Laws - Department of Justice (.gov)
-- EU agrees to indefinitely freeze Russian assets, removing obstacle to Ukraine loan - Reuters
+- Indiana’s rejection of new voting map shows Trump’s might is not unlimited - The Guardian
 - National Trust Sues to Block Trump’s White House Ballroom Construction - The New York Times
-- GOP health care chaos spills into battleground midterm races - Politico
+- Live updates: Rivers have crested, but Western Washington flood threat still looms - KUOW
+- The Justice Department has now sued 18 states in an effort to access voter data - NPR
+- Noem says seizure of oil tanker off Venezuelan coast linked to U.S. antidrug efforts - PBS
 - Hayward gas line explosion: Witnesses describe seeing victims walking out of home - ABC7 San Francisco
-- Democratic states sue Trump administration over new $100,000 fee for H-1B visas - CNN
-- Speaker Mike Johnson's grip on the House slips as Republicans defy leadership - CBS News
+- GOP health care chaos spills into battleground midterm races - Politico
+- Justice Dept. Asks Appeals Court to Kill Contempt Inquiry Into Deportation Flights - The New York Times
+- Commander overseeing U.S. forces in Caribbean relinquishes command early amid U.S. buildup near Venezuela - CBS News
 - King Charles reveals his cancer treatment will be scaled back as he credits early diagnosis - NBC News
-- Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say - AP News
-- Trump Says Leaders of Thailand and Cambodia Agree to Cease-Fire - The New York Times
-- Reddit Sues Australian Government Over Social-Media Ban for Under-16s - The Wall Street Journal
+- Thai and Cambodian leaders agree to renew a ceasefire after days of deadly clashes, Trump says - AP News
+- Nobel laureate Narges Mohammadi arrested in Iran, supporters say - BBC
+- Reform claims to now have more members than Labour - BBC
 - Stock Market Today: Dow Slips 200 Points as Gold Prices, U.S. Treasuries Move Higher— Live Updates - The Wall Street Journal
 - Rivian unveils ambitious plan to take on autonomous driving - The Washington Post
 - Ripple, Circle, BitGo Among Five Crypto Firms Set to Become Trust Banks - CoinDesk
-- Trump's green light for Nvidia sales to China sparks alarm on Capitol Hill - Fox News
+- What is a hostile takeover? What to know about Paramount's bid to acquire Warner Bros. Discovery - ABC News
 - Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC
-- Framework Raises DDR5 Memory Prices By 50% For DIY Laptops - Phoronix
+- Google Translate brings real-time speech translations to any headphones - The Verge
