@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-12 13:41_
+_Updated: 2025-12-12 15:10_
 
 ## Top Stories
 
+- Ny tullavgift på paket från Shein och Temu - SVT Nyheter
+- Lokaltidning attackerad med avföring - Västerbottens-Kuriren
+- Frågorna som kvarstår – efter mordet i Hörby - Expressen
 - Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
-- Orbán pekar ut EU som diktatur: ”Våldtar europeisk lag” - GP
-- Två personer anhållna för mordförsök i Gröndal - SVT Nyheter
-- Gravljus och gosedjur i Hörby efter dödsfallen - Sydsvenskan
-- Zelenskyj: "Vi kan rösta om gränserna" - Dagens PS
-- Utredaren förklarar: Därför stannade inte vagnen vid olyckan på Avenyn - GP
-- Misstänkt anlagd brand på altan i Malmö - Expressen
-- DN Direkt – Dom: Krogar med bara uteplatser får servera öl - Dagens Nyheter
-- Rekordmånga farliga leksaker förstörda av tullen - Västerbottens-Kuriren
+- Ryska centralbanken tar strid för frysta tillgångar - Hufvudstadsbladet
+- Misstänka giftkvinnans egna ord: ”Mångårig erfarenhet inom mediciner” - Aftonbladet
+- DN Direkt – Två personer anhållna för mordförsök i Gröndal - Dagens Nyheter
+- Aggressiv räv tog sig in i byggnad - VLT
+- Rekordmånga farliga leksaker förstörda av tullen - Aftonbladet
 - Barnkullarna minskar – förskolepersonal skolas om till äldreomsorgen - Dagens Nyheter
-- Beslag: 30 000 djur, elfenben och "bushmeat" - Västerbottens-Kuriren
 - Räv i kontorshus – polisinsats i Västerås - Expressen
-- Thailands kung godkänner upplösning av parlamentet - SVT Nyheter
-- Emma Bouvin: Kommer det att gå att ta vapnen från Hamas? - Dagens Nyheter
-- Tidigare anställd på börsen döms för insideraffär - Omni
+- Beslag: 30 000 djur, elfenben och "bushmeat" - Västerbottens-Kuriren
+- Thailands premiärminister upplöser parlamentet - Folkbladet
+- Fyra fallgropar som hotar fredsplanen i Gaza - SVT Nyheter
 - Prognos: Mer konsumtion lyfter svensk ekonomi - Sydsvenskan
-- LO spår återhämtning för svensk ekonomi - DI
-- EU-förbud mot vegoburgare tillfälligt stoppat - tidningensyre.se
-- Svenska titlar prisas på spelgala - Sydsvenskan
+- Rekordår för reallönerna - Expressen
+- Tidigare Nasdaqanställd döms för insiderbrott - SvD
+- DEBATT: Låt vegoburgaren heta vegoburgare - DI
 - TEST: 13 in-ear-hörlurar – de är bäst för dina behov - Aftonbladet
+- Klart: ”Total War: ”Warhammer 40.000” på gång – med ”Stranger Things”-skådis - MovieZine.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-12-12 13:41_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - 'Avatar: Fire and Ash' cast tours the world: James Cameron, Zoe Saldaña wow fans with global celebrations - ABC7 Chicago
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Handelsbanken lanserar ny global indexfond - Cision News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -78,21 +78,21 @@ _Updated: 2025-12-12 13:41_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -101,20 +101,20 @@ _Updated: 2025-12-12 13:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2025-12-12 13:41_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Unga lantbrukare får ingen chans - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
