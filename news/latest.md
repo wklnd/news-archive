@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 16:50_
+_Updated: 2025-12-12 17:52_
 
-- DHS Secretary Kristi Noem confronted about veteran in contentious hearing over deportations - ABC News
-- Second grand jury refuses to indict NY Attorney General Letitia James - Axios
-- U.S. sanctions Maduro's 3 nephews as pressure campaign on Venezuela ratchets up - NBC News
-- Trump signs order blocking states from enforcing own AI rules - BBC
-- Trump asserts he has pardoned county clerk convicted in Colorado case - The Washington Post
+- Kilmar Abrego Garcia released from ICE custody. And, Indiana rejects redistricting - NPR
+- Scoop: House Democrat seeks impeachment hearings into DHS Secretary Kristi Noem - Axios
+- Another grand jury refuses to indict Letitia James - CBS News
+- Epstein files: Trump, Clinton, Bill Gates, Steve Bannon, others in newly released photos - CNBC
 - Why is Trump demanding travellers’ social media handles; how will it work? - Al Jazeera
-- Families wait out flooding in emergency shelters as Skagit River reaches new high - KOMO
-- Explosion, fire near Hayward in community of Ashland leaves multiple people injured, buildings destroyed - CBS News
-- Tyler Robinson, accused of shooting Charlie Kirk, appears in Utah courtroom for first time in person - The Salt Lake Tribune
+- U.S. sanctions Maduro's 3 nephews as pressure campaign on Venezuela ratchets up - NBC News
+- Torrential rains unleash widespread flooding, evacuations in Pacific Northwest - CNBC
+- Dramatic explosion caught on video destroys homes, injures six, officials say - Los Angeles Times
 - Capitol agenda: Johnson stares down another revolt — this time on energy permitting - Politico
-- Exclusive | Rescued at Sea: How Venezuela’s Machado Survived the Riskiest Leg of Her Escape - The Wall Street Journal
-- Skydiver dangles at 15,000 feet after parachute catches on plane's tail in Australia - WRAL
-- Thailand Says Trump Call About Cambodia Conflict Is Set for Friday - The New York Times
+- Tyler Robinson, accused of shooting Charlie Kirk, appears in Utah courtroom for first time in person - The Salt Lake Tribune
+- Skydiver dangles at 15,000 feet after parachute catches on plane's tail in Australia - ABC News
 - 6.7 magnitude quake strikes off northern Japan coast days after larger temblor in same region - CBS News
-- Dow set to extend record as rotation out of tech continues: Live updates - CNBC
+- Nobel peace prize laureate Narges Mohammadi arrested in Iran, say supporters - The Guardian
+- Exclusive | Rescued at Sea: How Venezuela’s Machado Survived the Riskiest Leg of Her Escape - The Wall Street Journal
+- Stock Market Today: Dow Rises on Open; Gold Prices Move Higher— Live Updates - The Wall Street Journal
 - Exclusive: Nvidia considers increasing H200 chip output due to robust China demand, sources say - Reuters
 - This holiday season isn’t very merry for consumers, an AP-NORC poll finds - AP News
-- Tariffs are taxes and they were used to finance the federal government until the 1913 income tax. A top economist breaks it down - Fortune
+- Fed's Goolsbee says he's uncomfortable front-loading too many rate cuts - CNBC
 - How to break free from smart TV ads and tracking - Ars Technica
-- The Game Awards 2025 – Every Winner and Xbox Reveal, Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire
+- The top 10 gadgets of 2025 - Dezeen
