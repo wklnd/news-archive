@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-12 01:41_
+_Updated: 2025-12-12 04:27_
 
 ## Top Stories
 
-- Mark Rutte varnar: Nato är Rysslands nästa mål - TV4 Nyheterna
 - Sjukdomsfall bakom spårvagnsolyckan på Avenyn: ”Minns inget” - SVT Nyheter
-- Mannen i Hörby släpps – avlidna kvinnan misstänks - Skånska Dagbladet
-- Ábrego García släppt ur förvar - GP
-- Trump är "extremt frustrerad" - Expressen
-- FN-chefen varnar: ”Destabilisera” inte Venezuela - Västerbottens-Kuriren
+- Carl Bildt är inte säker på att USA kommer att försvara Nato - Dagens Nyheter
+- Mark Rutte varnar: Nato är Rysslands nästa mål - TV4 Nyheterna
+- Efter misstänkta mordet – IK Lågan hedrar döda pojken - Skånska Dagbladet
+- Thailands premiärminister upplöser parlamentet - Västerbottens-Kuriren
+- Sanna Torén Björling: Är Zelenskyj trött på att tvingas förhålla sig till Trump? - Dagens Nyheter
 - Larm om vägglöss på Ekonomikum – lokaler avstängda - UNT
-- Ny skolpeng splittrar regeringen - Folkbladet
-- Beredskap och business as usual - Svenskt Näringsliv
+- Nobelsnillen hyllas med svamp och vilda bär - Sydsvenskan
+- Preliminär överenskommelse om EU:s läkemedelspaket - Regeringen.se
 - En anhållen efter filmen på kor som blir slagna och hoppade på - SVT Nyheter
+- Trump lanserar guldkort – rikas genväg till visum - Dagens Nyheter
 - Källor: Pengarna rullar in efter attackerna på Trump - Dagens Nyheter
-- Trumps guldkort: Kostsam väg in i USA - Västerbottens-Kuriren
 - Amnesty: Hamas har begått brott mot mänskligheten - Hufvudstadsbladet
-- Zelenskyj: Kan bli folkomröstning om territorier - GP
+- Fredspristagaren María Corina Machado höll pressträff i Oslo - SVT Nyheter
 - DN Direkt – Strömmer (M) bjuder in till möte om gängbrottslighet - Dagens Nyheter
 - Rejält lyft på Dow Jones – Nasdaq sänks av AI-frossa - DI
-- Minnesbrist innebär risk för höjda priser på datorer och telefoner - Expressen
-- Pausad omställning – men hotar inte klimatet - SvD
+- Europas bästa julmarknad finns där du minst anar det - Dagens PS
+- Strängnäs tar hem andraplatsen i Bästa Tillväxt i Södermanland - Strängnäs kommun
+- Demonstatyn i öknen – ett stort spelmysterium - Aftonbladet
 - Cookieinformation - Vasaloppet
-- Svenskar kan vinna i natt: ”Jättebra spelår” - Aftonbladet
 
 ## World News
 
@@ -37,15 +37,15 @@ _Updated: 2025-12-12 01:41_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- Rekordstort beslag av hotade djurarter i global insats - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Widespread mortality of coral reefs - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
@@ -81,8 +81,8 @@ _Updated: 2025-12-12 01:41_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -99,7 +99,6 @@ _Updated: 2025-12-12 01:41_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-12-12 01:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -125,40 +125,40 @@ _Updated: 2025-12-12 01:41_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Natural Language Processing Research Group - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Lediga jobb - Land Lantbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
