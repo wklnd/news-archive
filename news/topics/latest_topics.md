@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-12 18:47_
+_Updated: 2025-12-12 19:44_
 
 ## Top Stories
 
-- Frågorna som kvarstår efter mordet i familjen - Expressen
-- Fredspristagare uppges gripen i Iran - Västerbottens-Kuriren
+- DN Direkt – UD avråder från resor till fler platser i Thailand - Dagens Nyheter
+- Gravljus och gosedjur i Hörby efter dödsfallen - Sydsvenskan
+- Barnhjärtläkaren granskas i Lund: Två barn undersöks på nytt - Dagens Nyheter
+- Strömavbrott förstörde viktig del av ESS - Sydsvenskan
+- Man med yxa attackerade förvaltningens reception - Nyhetsbyrån Järva
 - Misstänkta giftkvinnans egna ord: ”Mångårig erfarenhet inom mediciner” - Aftonbladet
-- Man med yxa attackerade kommunkontor i Tensta - Omni
-- DN Direkt – Efter larmet – inga vägglöss på universitet - Dagens Nyheter
-- SD-politikern aktiv i pro-rysk grupp: ”idioter styr vårt land” - expo.se
-- Lokaltidning attackerad med avföring - Västerbottens-Kuriren
-- Försvarets julgransflygning ställs in - SVT Nyheter
+- Lokaltidning i Västerås attackerad med avföring - SVT Nyheter
+- ”Militär verksamhet” ställer in julgransflygning - NWT
 - Räv i kontorshus – polisinsats i Västerås - Expressen
-- Tidningen Hem & Hyra kapade ministrarnas adresser - GP
-- Källor: Ukraina kan släppas in i EU via fredsplan - Hufvudstadsbladet
+- 16-åring uppmanade flicka att ta sitt liv – döms - Dagens Nyheter
+- Källor: Ukraina kan bli EU-medlem 2027 - SVT Nyheter
 - Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
 - Nya israeliska attacker i södra Libanon - Västerbottens-Kuriren
-- Maduro fördömer USA:s agerande: ”Sjöröveri” - Corren
+- Ljusstake välte på Södermalm – orsakade brand - Expressen
 - Prognos: Mer konsumtion lyfter svensk ekonomi - Sydsvenskan
-- Ny tullavgift på paket från Shein och Temu - Dagens Nyheter
+- Ny tullavgift på paket från Shein och Temu - SVT Nyheter
 - Medarbetare på Nasdaq döms till fängelse för insiderbrott - Tidningen Balans
 - Bofa upprepar köp på Volvo - räknar med gradvis förbättring av lastbilsorder 2026 - Börsvärlden
 - Googles nya AI-verktyg Disco kan göra om flikar till appar - Computer Sweden
@@ -88,7 +88,7 @@ _Updated: 2025-12-12 18:47_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -101,16 +101,16 @@ _Updated: 2025-12-12 18:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -119,46 +119,46 @@ _Updated: 2025-12-12 18:47_
 
 ## Science
 
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Early experiments in accelerating science with GPT-5 - OpenAI
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Natural Language Processing Research Group - Stockholms universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Utökat samarbete inom life science i Stockholm-Uppsala - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
