@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 05:47_
+_Updated: 2025-12-12 06:57_
 
 - Indiana GOP rejects Trump’s map in major blow to his gerrymandering push - Politico
-- White House says US intends to keep seized tanker's oil, hits Maduro family with new sanctions - ABC News
-- House overturns Trump executive order in historic vote on union rights - Axios
-- A Grand Jury Again Resists Trump’s Push to Reindict Letitia James - The New York Times
-- Zelensky says US wants 'special economic zone' in Ukraine's Donetsk region - BBC
-- Trump is trying to preempt state AI laws via an executive order. It may not be legal - NPR
+- US sanctions Maduro’s nephews and shipping companies it says move Venezuelan oil - CNN
+- Trump Signs Executive Order to Neuter State A.I. Laws - The New York Times
+- Senate rejects rival Obamacare bills. Here's what that means for ACA subsidies - Axios
 - Man Accused in Charlie Kirk Killing Makes First Court Appearance in Person - The New York Times
+- Inside the very tense, very wet secret mission to get María Corina Machado out of Venezuela - CBS News
 - Trump pardons jailed ex-Colorado election official Tina Peters, but she was charged in state court - CBS News
-- Kilmar Abrego Garcia freed from federal immigration detention on judge’s order - AP News
+- Kilmar Abrego Garcia freed from federal immigration detention, his attorney’s office says - AP News
 - Six injured in Hayward explosion after construction crew strikes gas line - San Francisco Chronicle
-- Video: Skydiver Left Dangling Mid-Air As Parachute Caught On Aircraft Tail - NDTV
-- Here’s What to Know About Japan’s Mega Quake Advisory - The New York Times
-- Exclusive | Disguised and in Danger: How a Nobel Peace Prize Winner Escaped Venezuela - The Wall Street Journal
-- Reddit launches High Court challenge to Australia's social media ban for kids - BBC
-- Dow futures are higher after notching fresh records: Live updates - CNBC
+- House speaker says second boat strike was ‘entirely appropriate’ - Politico
+- Skydiver dangles from plane in midair after parachute mishap in Australia, video shows - CBS News
+- ‘It’s not going to end’: Thai evacuees fear for future after fresh clashes with Cambodia - The Guardian
+- Magnitude 6.7 earthquake hits Japan’s northeast, tsunami warning issued - Al Jazeera
+- US and Japan hold joint flight drills as China ups military activity near Japan - AP News
+- Dow futures are higher after notching fresh records: Live updates - cnbc.com
 - Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash - BBC
-- Calvin McDonald, Lululemon CEO, Will Depart Yoga Clothing Maker in January - The New York Times
 - Why Broadcom’s stock is falling, even as earnings showed strong AI demand - MarketWatch
-- Control: Resonant Announced by Remedy for 2026 Release | The Game Awards 2025 - IGN
+- Stephen Colbert Wonders Why ‘The Late Show’ Was Canceled if Paramount Has $108 Billion to Offer for Warner Bros. - The Hollywood Reporter
+- Game Awards 2025 live — all the reveals, announcements, trailers and all the winners - Tom's Guide
 - Apple AirTag 2: Four New Features Found in iOS 26 Code - MacRumors
