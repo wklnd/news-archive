@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 11:54_
+_Updated: 2025-12-12 12:54_
 
-- White House signals campaign to seize more oil tankers near Venezuela - The Washington Post
-- Indiana Senate rejects Trump's redistricting effort - Axios
-- DHS Secretary Kristi Noem confronted about veteran in contentious hearing over deportations - ABC News
+- US issues fresh sanctions targeting Maduro's family, Venezuela-linked oil tankers - Reuters
+- The deeply personal reasons why many Indiana Senate Republicans said no to Trump - CNN
 - Trump signs order blocking states from enforcing own AI rules - BBC
-- Ukraine hopes to entice Trump with a ‘free economic zone’ in latest peace plan - Politico
-- Live updates: Here are the areas under evacuation in western Washington - KING5.com
-- Trump asserts he has pardoned county clerk convicted in Colorado case - The Washington Post
-- ‘We don’t have a lot of time’: Congress comes to terms with an all-but-certain lapse in Obamacare subsidies - Politico
+- Photos: Pacific Northwest faces "catastrophic" flood threats from days of heavy rains - Axios
+- Noem defiant as Democrats decry Trump administration treatment of migrants - Politico
+- Officials from Ukraine, U.S. and Europe to meet Saturday on Trump's plan - Axios
+- Trump announces pardon for Tina Peters, increasing pressure to free her though he can’t erase state charges - CNN
 - Tyler Robinson, accused of shooting Charlie Kirk, appears in Utah courtroom for first time in person - The Salt Lake Tribune
-- Explosion injures six near Hayward after construction crew strikes gas line - San Francisco Chronicle
+- Mike Johnson says boat strike hit "able-bodied" survivors, operation "entirely appropriate" - CBS News
+- ‘We don’t have a lot of time’: Congress comes to terms with an all-but-certain lapse in Obamacare subsidies - Politico
+- Skydiver dangles from plane in midair after parachute mishap in Australia, video shows - CBS News
 - Japan lifts tsunami advisory after 6.7-magnitude earthquake - BBC
-- How Nobel winner María Corina Machado outsmarted Maduro’s forces to get to Norway - Miami Herald
 - Thai PM to speak to Trump as fighting with Cambodia enters fifth day - Reuters
-- Reddit Sues Australian Government to Block Social Media Ban - The New York Times
-- Who wants to be a billionaire? Powerball jackpot hits $1 billion for second time this year - Los Angeles Times
+- U.S. and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing - NPR
 - Broadcom Shares Slide After Investors Seek Bigger AI Payoff - Bloomberg.com
+- Lululemon CEO McDonald to step down, shares rise 10% - Reuters
 - Senator calls for Nvidia CEO to testify on Trump approval for China chip sales - Reuters
-- Do Kwon, Crypto Entrepreneur Who Caused 2022 Crash, Sentenced to 15 Years - The New York Times
+- Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash - BBC
 - Game Awards Declares ‘Clair Obscur: Expedition 33’ Game Of The Year – Complete Winners List - Deadline
 - Google's New Browser Promises to End the Tyranny of the Tab - Decrypt
