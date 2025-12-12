@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-12 15:10_
+_Updated: 2025-12-12 15:52_
 
 ## Top Stories
 
-- Ny tullavgift på paket från Shein och Temu - SVT Nyheter
-- Lokaltidning attackerad med avföring - Västerbottens-Kuriren
+- Lokaltidning i Västerås attackerad med avföring - SVT Nyheter
 - Frågorna som kvarstår – efter mordet i Hörby - Expressen
 - Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
-- Ryska centralbanken tar strid för frysta tillgångar - Hufvudstadsbladet
 - Misstänka giftkvinnans egna ord: ”Mångårig erfarenhet inom mediciner” - Aftonbladet
-- DN Direkt – Två personer anhållna för mordförsök i Gröndal - Dagens Nyheter
+- Studie som tonar ner cancerrisker dras tillbaka – spökskrevs av kemijätte - Dagens Nyheter
+- Ukraina lovas EU-medlemskap redan 2027 i ny fredsplan - DI
+- Två anhållna för mordförsök i Stockholm - Västerbottens-Kuriren
 - Aggressiv räv tog sig in i byggnad - VLT
-- Rekordmånga farliga leksaker förstörda av tullen - Aftonbladet
-- Barnkullarna minskar – förskolepersonal skolas om till äldreomsorgen - Dagens Nyheter
-- Räv i kontorshus – polisinsats i Västerås - Expressen
-- Beslag: 30 000 djur, elfenben och "bushmeat" - Västerbottens-Kuriren
-- Thailands premiärminister upplöser parlamentet - Folkbladet
+- Tidningen Hem & Hyra kapade ministrarnas adresser - GP
+- DN Direkt – Dom: Krogar med bara uteplatser får servera öl - Dagens Nyheter
+- Nya israeliska attacker i södra Libanon - Västerbottens-Kuriren
 - Fyra fallgropar som hotar fredsplanen i Gaza - SVT Nyheter
-- Prognos: Mer konsumtion lyfter svensk ekonomi - Sydsvenskan
-- Rekordår för reallönerna - Expressen
+- DN Direkt – Beslag: 30 000 djur, elfenben och ”bushmeat” - Dagens Nyheter
+- Kyparen på krigshotellet: ”Min kollega sköts i ryggen på väg in i huset” - Dagens Nyheter
+- Ny tullavgift på paket från Shein och Temu - SVT Nyheter
 - Tidigare Nasdaqanställd döms för insiderbrott - SvD
-- DEBATT: Låt vegoburgaren heta vegoburgare - DI
-- TEST: 13 in-ear-hörlurar – de är bäst för dina behov - Aftonbladet
+- Prognos: Mer konsumtion lyfter svensk ekonomi - Sydsvenskan
+- Affärsvärlden slopar köpråden för SEB och Nordea, neutrala råd för alla fyra storbanker - Börsvärlden
 - Klart: ”Total War: ”Warhammer 40.000” på gång – med ”Stranger Things”-skådis - MovieZine.se
+- TEST: 13 in-ear-hörlurar – de är bäst för dina behov - Aftonbladet
 
 ## World News
 
@@ -35,16 +35,16 @@ _Updated: 2025-12-12 15:10_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - 'Avatar: Fire and Ash' cast tours the world: James Cameron, Zoe Saldaña wow fans with global celebrations - ABC7 Chicago
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Handelsbanken lanserar ny global indexfond - Cision News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -78,21 +78,21 @@ _Updated: 2025-12-12 15:10_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -104,14 +104,14 @@ _Updated: 2025-12-12 15:10_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -146,19 +146,19 @@ _Updated: 2025-12-12 15:10_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
