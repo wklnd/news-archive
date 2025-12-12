@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-12 12:54_
+_Updated: 2025-12-12 13:49_
 
-- US issues fresh sanctions targeting Maduro's family, Venezuela-linked oil tankers - Reuters
-- The deeply personal reasons why many Indiana Senate Republicans said no to Trump - CNN
-- Trump signs order blocking states from enforcing own AI rules - BBC
-- Photos: Pacific Northwest faces "catastrophic" flood threats from days of heavy rains - Axios
-- Noem defiant as Democrats decry Trump administration treatment of migrants - Politico
-- Officials from Ukraine, U.S. and Europe to meet Saturday on Trump's plan - Axios
-- Trump announces pardon for Tina Peters, increasing pressure to free her though he can’t erase state charges - CNN
+- Tracking data shows oil tanker seized by US heading away from Venezuela - BBC
+- DHS Secretary Kristi Noem confronted about veteran in contentious hearing over deportations - ABC News
+- Trump defies GOP critics by signing controversial order threatening states over AI laws - The Washington Post
+- Second grand jury refuses to indict NY Attorney General Letitia James - Axios
+- Thursday live updates: Skagit, Whatcom counties brace for next round of flooding - Cascadia Daily News
+- U.S. military members fear personal legal blowback tied to boat strikes - NPR
+- Colorado Says Trump’s Pardon For Jailed County Clerk Is A ‘Lawless Act’ - Forbes
 - Tyler Robinson, accused of shooting Charlie Kirk, appears in Utah courtroom for first time in person - The Salt Lake Tribune
-- Mike Johnson says boat strike hit "able-bodied" survivors, operation "entirely appropriate" - CBS News
-- ‘We don’t have a lot of time’: Congress comes to terms with an all-but-certain lapse in Obamacare subsidies - Politico
-- Skydiver dangles from plane in midair after parachute mishap in Australia, video shows - CBS News
-- Japan lifts tsunami advisory after 6.7-magnitude earthquake - BBC
-- Thai PM to speak to Trump as fighting with Cambodia enters fifth day - Reuters
-- U.S. and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing - NPR
-- Broadcom Shares Slide After Investors Seek Bigger AI Payoff - Bloomberg.com
+- Explosion, fire near Hayward in community of Ashland leaves multiple people injured, buildings destroyed - CBS News
+- House speaker says second boat strike was ‘entirely appropriate’ - Politico
+- Skydiver dangles at 15,000 feet after parachute catches on plane’s tail in Australia - AP News
+- Tsunami warning lifted after latest earthquake hits Japan’s northeast - Al Jazeera
+- Thailand dissolves parliament, heightening political turmoil as Trump seeks to salvage ceasefire with Cambodia - CNBC
+- 3 cold case killings of women in Toronto are linked to man who died in 2019 - AP News
 - Lululemon CEO McDonald to step down, shares rise 10% - Reuters
-- Senator calls for Nvidia CEO to testify on Trump approval for China chip sales - Reuters
-- Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash - BBC
+- Broadcom Inc (AVGO) Q4 2025 Earnings Call Highlights: Record Revenue and AI Growth Propel ... - Yahoo Finance
+- Dow futures are higher after notching fresh records: Live updates - CNBC
+- Do Kwon, Crypto Entrepreneur Who Caused 2022 Crash, Sentenced to 15 Years - The New York Times
 - Game Awards Declares ‘Clair Obscur: Expedition 33’ Game Of The Year – Complete Winners List - Deadline
-- Google's New Browser Promises to End the Tyranny of the Tab - Decrypt
+- Samsung makes progress on One UI 8.5 for Galaxy S23, Z Flip 6, and Z Fold 6 - SamMobile
