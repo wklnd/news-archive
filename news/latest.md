@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-13 15:49_
+_Updated: 2025-12-13 16:48_
 
 - 19 photos were released from the Epstein files. We unpack their significance - NPR
+- VA plans to abruptly eliminate tens of thousands of health care jobs - The Washington Post
 - Trump administration sues Georgia county for 2020 ballot records - BBC
-- Zelensky to meet Witkoff and Kushner on Trump's peace push - Axios
 - New York tourist stabbed while changing baby’s diaper in Macy’s restroom, suspect charged: Police - ABC News
-- Preservationists sue Trump for ballroom project reviews and congressional approval - PBS
-- Trump struggles to find his economic messaging amid voter skepticism - NPR
+- DOJ weighs novel federal hate crimes case against Charlie Kirk's alleged killer - NBC News
+- Colorado Officials Reject Trump’s ‘Pardon’ of a Convicted Election Denier - The New York Times
+- Skagit County flooding damages several homes, prompts rescues - KOMO
 - Speaker Johnson unveils health care plan as divided Republicans scramble for alternative - AP News
 - Trump seems to wave the white flag on his US attorneys gambit - Politico
-- A man ate at the same Florida restaurant every day for a decade. When he stopped showing up, the chef went looking for him. - CBS News
-- Colorado Officials Reject Trump’s ‘Pardon’ of a Convicted Election Denier - The New York Times
+- Trump's White House ballroom construction draws lawsuit from preservationists - Axios
 - Fighting Persists on Thai-Cambodian Border After Trump’s Cease-Fire Claim - The Wall Street Journal
-- How Nobel laureate María Corina Machado escaped from Venezuela - The Washington Post
-- US says it will lift some trade sanctions on Russia’s ally Belarus - AP News
-- By locking in Russian assets for good, the EU is finally playing hardball - Euronews.com
+- What to know about King Charles III’s cancer treatment and his message to the public - AP News
+- Belarus frees 123 prisoners as US lifts sanctions - BBC
+- China holds low-key Nanjing Massacre memorial despite Japan tensions - Reuters
 - Powerball might have Mega Millions to thank for its latest $1 billion jackpot - CNN
-- SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year - The Wall Street Journal
-- Stock Market Today: Nasdaq Lags As Broadcom Slumps; Tesla Rival Soars (Live Coverage) - Investor's Business Daily
-- Exclusive / Washington Post’s AI-generated podcasts rife with errors, fictional quotes - https-//www.semafor.com
+- 'Kind of a black swan event': SpaceX set for record-breaking stock market debut - France 24
+- Washington Post Triggers Revolt With Humiliating AI Blunder - The Daily Beast
+- Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool
 - Samsung’s new camera sensor could make motion blur issues a thing of the past - 9to5Google
-- With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen - TechCrunch
+- Apple releases iOS 26.2 with Liquid Glass tweaks, CarPlay changes, more [Release notes] - 9to5Mac
