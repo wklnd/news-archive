@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 21:38_
+_Updated: 2025-12-13 22:41_
 
 ## Top Stories
 
+- Trafikolycka i Oxelösund: Personbil och EPA-traktor inblandade - SN, Södermanlands Nyheter
 - Direkt – Krisen i Mellanöstern – Trump: USA kommer hämnas om IS attackerar igen - Dagens Nyheter
-- DN Direkt – Tiotusentals demonstranter kräver Orbáns avgång - Dagens Nyheter
-- Elitskola krävs på skadestånd - GP
-- Bilen stod spökparkerad i 19 dagar – Ingemar, 80, vill varna andra - HD
-- Ny miljonmarknad: Att spela på Ukrainakriget - SvD
-- Direkt – Krisen i Mellanöstern – Israel: Hamastopp dödad i Gaza - Dagens Nyheter
-- DN Direkt – Två personer beskjutna i Alby – man skottskadad - Dagens Nyheter
-- DN avslöjar: Patienter på rättspsyk filmades när de hade sex med besökare - Dagens Nyheter
+- Kraftig brand utanför Lund: ”Vi har inte kontroll på läget” - Sydsvenskan
+- Fredrik Reinfeldt om Trumps nya säkerhetsstrategi: ”Alarmklocka för Europa” - Omni
+- Hamastopp uppges dödad i israeliskt anfall - Västerbottens-Kuriren
+- USA:s främsta cyberdetektiver utger sig för att vara barn - GP
+- Man skjuten i Botkyrka – skadad man gripen - Västerbottens-Kuriren
 - Havssköldpaddor siktade på västkusten - GP
-- Richard Herrey lämnar Moderaterna i protest - Västerbottens-Kuriren
-- UD avråder från Thailandresor – Ving ställer in - GP
-- Belarus friger oppositionsledare och fredspristagare - Dagens Nyheter
-- Över en miljon hushåll strömlösa i Ukraina efter ryska attacker - Dagens Nyheter
-- Hamastopp uppges dödad i israeliskt anfall - Aftonbladet
-- Teknisk störning i Europa – påverkar restauranger och Foodora - Aftonbladet
-- Messenger stängs ner – Meta vill locka användare tillbaka till Facebook - Finanstid
+- DN Direkt – Richard Herrey: därför lämnar jag Moderaterna - Dagens Nyheter
+- Patienter övervakades – filmades när de hade sex - SVT Nyheter
+- Tiotusentals demonstranter kräver Orbáns avgång - Västerbottens-Kuriren
+- Venezuelanska migranter lever i skräck inför valet i Chile - Dagens Nyheter
+- Thailand fortsätter strida – Kambodja stänger gräns - Hufvudstadsbladet
+- Ryssland: Hypersoniska robotar mot Ukraina i natt - GP
 - Vänsterpartiet föreslår en särskild skatt på de superrika, en miljardärsskatt - internationalen.se
-- Svårt att gå i tidig pension – och lika svårt att jobba längre - e55.se
-- DN Direkt – Svenskorna krossade alla i stafetten - Dagens Nyheter
+- Staten håvar in 313 miljarder – när dold skatt höjs efter nyår - News55
+- Godisraketen lanserar både butik och dryck - Fri Köpenskap
+- LO spår återhämtning för svensk ekonomi som leds av ökad konsumtion - Börsvärlden
+- Svärm av stjärnfall väntas i natt - SvD
 - Guide: Det är den bästa mobilen under 5 000 kronor - Expressen
 
 ## World News
@@ -33,19 +33,19 @@ _Updated: 2025-12-13 21:38_
 - Widespread mortality of coral reefs - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
@@ -53,21 +53,21 @@ _Updated: 2025-12-13 21:38_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
@@ -108,14 +108,14 @@ _Updated: 2025-12-13 21:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -127,18 +127,18 @@ _Updated: 2025-12-13 21:38_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
