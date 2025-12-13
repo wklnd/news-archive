@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 22:41_
+_Updated: 2025-12-13 23:39_
 
 ## Top Stories
 
-- Trafikolycka i Oxelösund: Personbil och EPA-traktor inblandade - SN, Södermanlands Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: USA kommer hämnas om IS attackerar igen - Dagens Nyheter
+- DN Direkt – Misstänks ha försökt skjuta mot taxichaufför - Dagens Nyheter
+- Trump lovar hämnas IS-attack i Syrien - GP
 - Kraftig brand utanför Lund: ”Vi har inte kontroll på läget” - Sydsvenskan
-- Fredrik Reinfeldt om Trumps nya säkerhetsstrategi: ”Alarmklocka för Europa” - Omni
-- Hamastopp uppges dödad i israeliskt anfall - Västerbottens-Kuriren
-- USA:s främsta cyberdetektiver utger sig för att vara barn - GP
+- Chock i diplomatkretsar: ”Relationen med USA blir aldrig densamma igen” - Omni
+- SMHI varnar för plötslig ishalka i delar av Jämtlands län - SVT Nyheter
+- Traktorlucia spred glädje i regnrusket - UNT
 - Man skjuten i Botkyrka – skadad man gripen - Västerbottens-Kuriren
 - Havssköldpaddor siktade på västkusten - GP
-- DN Direkt – Richard Herrey: därför lämnar jag Moderaterna - Dagens Nyheter
-- Patienter övervakades – filmades när de hade sex - SVT Nyheter
-- Tiotusentals demonstranter kräver Orbáns avgång - Västerbottens-Kuriren
+- DN avslöjar: Patienter på rättspsyk filmades när de hade sex med besökare - Dagens Nyheter
+- Richard Herrey lämnar Moderaterna i protest - Västerbottens-Kuriren
+- Thailand: Kommer fortsätta strida mot Kambodja - Dagens Nyheter
 - Venezuelanska migranter lever i skräck inför valet i Chile - Dagens Nyheter
-- Thailand fortsätter strida – Kambodja stänger gräns - Hufvudstadsbladet
-- Ryssland: Hypersoniska robotar mot Ukraina i natt - GP
+- Tiotusentals demonstranter kräver Orbáns avgång - Västerbottens-Kuriren
+- Belarus friger oppositionsledare och fredspristagare - Dagens Nyheter
+- Kinesiska bilmärken tar över Europa - Dagens PS
 - Vänsterpartiet föreslår en särskild skatt på de superrika, en miljardärsskatt - internationalen.se
-- Staten håvar in 313 miljarder – när dold skatt höjs efter nyår - News55
-- Godisraketen lanserar både butik och dryck - Fri Köpenskap
-- LO spår återhämtning för svensk ekonomi som leds av ökad konsumtion - Börsvärlden
-- Svärm av stjärnfall väntas i natt - SvD
+- Tekniskt strul för Max och Foodora – flera drabbade - Omni
+- Sobi förvärvar Arthrosi Therapeutics och stärker sin pipeline med potentiell behandling av gikt - Cision News
 - Guide: Det är den bästa mobilen under 5 000 kronor - Expressen
+- Svärm av stjärnfall väntas i natt - SvD
 
 ## World News
 
@@ -97,6 +97,7 @@ _Updated: 2025-12-13 22:41_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Skapa en rökfri arbetsmiljö på Tien Dien Medical Center. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
@@ -108,9 +109,8 @@ _Updated: 2025-12-13 22:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
