@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-13 06:02_
+_Updated: 2025-12-13 06:53_
 
 - New Photos From Epstein Estate Show Ties to Trump, Clinton and More Powerful Men - The New York Times
-- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
-- New York tourist stabbed while changing baby’s diaper in Macy’s restroom, suspect charged: Police - ABC News
-- 'She's awesome': How U.S. veterans helped Venezuela's Machado escape - NPR
 - DOJ sues Georgia county as Trump pushes debunked 2020 election fraud claims - The Washington Post
-- EU backs indefinite freeze on Russia's frozen cash ahead of big loan plan for Ukraine - BBC
-- In photos: Flooding in Western Washington state forces thousands to evacuate - NPR
+- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
+- 'She's awesome': How U.S. veterans helped Venezuela's Machado escape - NPR
+- National preservation group sues to halt East Wing ballroom construction - Politico
+- Historic floods have washed away homes and stranded families in Washington state - PBS
 - GOP unveils health bill without ACA subsidies - thehill.com
-- National Guardsman Who Was Shot Is Making ‘Extraordinary Progress,’ Doctor Says - The New York Times
-- National Trust sues to stop Trump’s ballroom construction - The Washington Post
+- District of Columbia | U.S. Unseals Warrant for Tanker Seized by Coast Guard Off the Coast of Venezuela - Department of Justice (.gov)
+- States defiant in face of Trump's AI executive order - Axios
+- Man accused of killing Charlie Kirk makes 1st court appearance as judge weighs media access - PBS
+- Thai and Cambodian leaders agree to renew a ceasefire after days of deadly clashes, Trump says - AP News
 - King Charles III says he'll scale back cancer treatment thanks to early diagnosis - CBS News
-- Trump says he’s sealed Thailand-Cambodia ceasefire, but fighting continues - AP News
+- Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan - The New York Times
 - Reddit Sues Australian Government for Under-16 Social Media Ban - The Wall Street Journal
-- US accuses Rwanda at UN of leading region toward war - Reuters
-- SpaceX Sets Insider Share Deal at About $800 Billion Valuation - Bloomberg.com
-- Oracle Stock Falls Again. Tech Giant's AI Vision Suffers From 'Timing Mismatch.' - Investor's Business Daily
+- Elon Musk’s SpaceX Valued at $800 Billion, as It Prepares to Go Public - The New York Times
 - US TikTok investors in limbo as deal set to be delayed again - BBC
-- Do Kwon Gets 15 Years for $40 Billion Crypto Collapse as Victims Testify to Destruction He Caused - Gizmodo
-- Amazon Pulls AI Recap Video After ‘Fallout’ Mess - Gizmodo
+- Stock Market Today: Dow Slips 200 Points as Gold Prices, U.S. Treasuries Move Higher— Live Updates - The Wall Street Journal
+- Trump demands Fed listen to him as he lines up new leader: ‘I’m a smart voice’ - The Guardian
+- Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC
 - How to break free from smart TV ads and tracking - Ars Technica
