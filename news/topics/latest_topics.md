@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 01:40_
+_Updated: 2025-12-13 04:20_
 
 ## Top Stories
 
-- Gravljus och gosedjur i Hörby efter dödsfallen - Sydsvenskan
-- DN Direkt – En person skjuten i Malmö - Dagens Nyheter
-- USA öppnar ny front mot Maduros regim - SvD
-- Kung Charles: Goda nyheter om min cancer - Västerbottens-Kuriren
 - Nya bilder från Epstein-utredningen släppta - SVT Nyheter
-- UD avråder från Thailandresor – Ving ställer in - GP
-- Polischefen: Tydliga utmattningssymtom hos gängen - Dagens Nyheter
-- Lokaltidning attackerad med avföring - GP
-- Simon Campanello: Så kan AI och algoritmer påverka det svenska valet - Dagens Nyheter
-- Dom: Krogar med bara uteplatser får servera öl - Västerbottens-Kuriren
+- Man hittad skjuten i bil i Malmö - Sydsvenskan
+- USA öppnar ny front mot Maduros regim - SvD
+- Hade löneutmätning – nu är mamma och sonen död - Aftonbladet
 - Här riktas våldet mot fritidspolitikers familjer - Dagens Nyheter
-- USA vill odla motstånd mot EU – så kan det gå till - GP
-- Kristersson: Bra med överenskommelse - Västerbottens-Kuriren
-- Bedragare på Östermalm tappade guld - Expressen
+- Kung Charles: Goda nyheter om min cancer - Västerbottens-Kuriren
+- Polischefen: Tydliga utmattningssymtom hos gängen - Dagens Nyheter
+- Simon Campanello: Så kan AI och algoritmer påverka det svenska valet - Dagens Nyheter
+- Fritt fram att servera alkohol utan lokal i Stockholm - Omni
+- Två anhållna för mordförsök i Gröndal - Expressen
+- UD avråder från resor till flera områden i Thailand - SVT Nyheter
+- Bosättningar på Västbanken växer i rekordfart - Aftonbladet
+- Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
+- Kraftig storm på Kanarieöarna – myndigheter varnar - Expressen
 - Ny AI-frossa sänker Nasdaq – Dow Jones på ny rekordnivå - DI
 - Schweiz vill ha färre F-35 – öppnar för andra tillverkare - Omni
-- Verisure i ministermöte inför noteringen: ”Initiativ av Nasdaq” - EFN.se
-- Fortsatt AI-frossa ruskar om Wall Street - GP
+- Schibsted och Bonnier News: Meta måste uteslutas ur IAB Sverige - Bonnier News
+- Väsbyhem och Hyresgästföreningen överens om hyrorna för 2026 - Notified
 - Googles nya AI-verktyg Disco kan göra om flikar till appar - Computer Sweden
 - Klart: ”Total War: ”Warhammer 40.000” på gång – med ”Stranger Things”-skådis - MovieZine.se
 
@@ -38,44 +38,44 @@ _Updated: 2025-12-13 01:40_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global app-statistik visar på kraftig tillväxt för Klarna och Affirm i november - BN - Börsvärlden
-- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - SAP joins forces with France's AI ecosystem to power Europe's sovereign digital future - Placera.se
+- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -83,35 +83,35 @@ _Updated: 2025-12-13 01:40_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -159,6 +159,6 @@ _Updated: 2025-12-13 01:40_
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
