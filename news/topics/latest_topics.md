@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 17:40_
+_Updated: 2025-12-13 19:40_
 
 ## Top Stories
 
-- Kvinna och man beskjutna – en skottskadad - Aftonbladet
+- Stänger gränsen helt mot Thailand - Expressen
 - Viktigast i veckan: Rysk-amerikansk samsyn om säkerhetspolitik – EU spärrar ryska tillgångar tillsvidare - Europaportalen
-- Klart: Stänger mot Thailand - Expressen
+- Svenska Elin mitt i stormen: Riktigt vågigt - Expressen
 - 13 december 07.29, Sammanfattning natt, Västerbottens län - polisen.se
-- Rekordmånga bostadssäljare sänker priset - Expressen
-- Kraftig storm på Kanarieöarna – myndigheter varnar - Expressen
-- Forssell om Somaliapengarna: Ger goda resultat - SVT Nyheter
+- Leo XIV: Må konst och musik rädda miljontals barn som nekas utbildning - Vatican News
+- Sverige överlägset i damernas stafett! - Svenska Skidskytteförbundet
+- Skottlossning söder om Stockholm - SVT Nyheter
 - DN avslöjar: Patienter på rättspsyk filmades när de hade sex med besökare - Dagens Nyheter
-- Herrey om avhoppet: Händer för tredje gången - Omni
-- Nya avgångstider för bussar och tåg – stora förändringar i hela Skåne på söndag - Sydsvenskan
-- Fredspristagare och oppositionsledare släppta - Aftonbladet
-- Kreml: massiv attack mot Ukraina - SvD
+- Forssell om Somaliapengarna: Ger goda resultat - GP
+- Richard Herrey lämnar Moderaterna i protest - GP
+- Belarus friger 123 politiska fångar – också vinnaren av Nobels fredspris Ales Bjaljatski - Yle
+- Över en miljon hushåll strömlösa i Ukraina efter ryska attacker - Dagens Nyheter
 - Flera dödade i israelisk attack i Gaza - Västerbottens-Kuriren
-- Tyska soldater ska stärka Polens gräns - Västerbottens-Kuriren
+- Man till sjukhus – föll från stege vid byggarbetsplats - Sydsvenskan
+- Kinas exportstopp pressar Europa – LKAB växlar upp i Luleå - Dagens Nyheter
 - Räntesmocka väntar nästa år: ”Lånen blir dyrare” - Omni
-- Volvos lyxjakt – statusbilen som kanske inte behövs - Dagens Nyheter
-- Rekordmånga på bomarknaden tvingas sänka priset - Omni
-- Messenger för datorer går i graven: ”Flyr Facebook” - Expressen
+- ”Lidar ger oss möjligheten att uppdatera bilen” - Dagens Nyheter
+- Rekord för prissänkning på bostäder - DI
 - Google släpper AI-verktyg i Chrome som gör om flikar till appar - PC för Alla
 - Guide: Det är den bästa mobilen under 5 000 kronor - Expressen
 
@@ -89,30 +89,30 @@ _Updated: 2025-12-13 17:40_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
