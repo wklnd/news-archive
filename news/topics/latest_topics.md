@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 05:36_
+_Updated: 2025-12-13 06:47_
 
 ## Top Stories
 
 - Man hittad skjuten i bil i Malmö - Sydsvenskan
 - Nya bilder från Epstein-utredningen släppta - SVT Nyheter
-- USA öppnar ny front mot Maduros regim - SvD
-- Kung Charles: Goda nyheter om min cancer - Västerbottens-Kuriren
-- Witkoff ska träffa Zelenskyj inför toppmöte - GP
+- UD avråder från resor till flera områden i Thailand - SVT Nyheter
+- Så blev Lucia en högtid för hat och hot - SVT Nyheter
 - Hade löneutmätning – nu är mamma och sonen död - Aftonbladet
+- Så landade avtalet om EU:s nya läkemedelslag – ministern lättad - Altinget.SE
 - Polischefen: Tydliga utmattningssymtom hos gängen - Dagens Nyheter
-- Lokaltidning attackerad med avföring - Västerbottens-Kuriren
-- 12 december 20.09, Trafikolycka, vilt, Västerbottens län - polisen.se
-- Dom: Även krogar med bara uteplatser ska få servera öl - Skånska Dagbladet
-- Bosättningar på Västbanken växer i rekordfart - Västerbottens-Kuriren
-- Trump: Thailand och Kambodja överens om eldupphör - UNT
-- Direkt – Kriget i Ukraina – Kristersson: Bra med överenskommelse - Dagens Nyheter
-- Mest olja i världen – varför är Venezuela inte rikare? - GP
-- Teknikaktier rasar när AI-oron skakar Wall Street - Börskollen
-- Tre stora nyheter i minPension inför 2026 - News55
-- Schibsted och Bonnier News: Meta måste uteslutas ur IAB Sverige - Bonnier News
-- Boverkets byggprognos: Bostadsbyggandet vänder uppåt - Byggnyheter
-- Klart: ”Total War: ”Warhammer 40.000” på gång – med ”Stranger Things”-skådis - MovieZine.se
-- Demonstatyn i öknen – ett stort spelmysterium - Aftonbladet
+- Nio viltolyckor – ”Manar till försiktighet” - Västerbottens-Kuriren
+- 12 december 13.30, Trafikkontroll, Norrbottens län - polisen.se
+- Explosion i Södertälje - SVT Nyheter
+- Bosättningar på Västbanken växer i rekordfart - GP
+- Ryska centralbanken tar strid för frysta tillgångar - Hufvudstadsbladet
+- Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
+- Källor: Ukraina kan släppas in i EU via fredsplan - Västerbottens-Kuriren
+- Oracle uppges senarelägga Open AI:s datacenter - Omni
+- LO-ekonomer: Återhämtningen är här - Aftonbladet
+- Väsbyhem och Hyresgästföreningen överens om hyrorna för 2026 - Notified
+- (H)julstämning: Världens första luciatåg med eldrivna arbetsmaskiner - dagensinfrastruktur -
+- Microneedling mot akneärr – en billig men ineffektiv metod - Dagens Nyheter
+- Microsofts vd kodade cricket-app på fritiden - Aftonbladet
 
 ## World News
 
@@ -31,27 +31,27 @@ _Updated: 2025-12-13 05:36_
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
+- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
-- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Global app-statistik visar på kraftig tillväxt för Klarna och Affirm i november - BN - Börsvärlden
-- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -62,9 +62,9 @@ _Updated: 2025-12-13 05:36_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
@@ -97,25 +97,25 @@ _Updated: 2025-12-13 05:36_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -134,31 +134,31 @@ _Updated: 2025-12-13 05:36_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Natural Language Processing Research Group - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- En marsch för vetenskap och forskning! - Framtidsstudier
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
