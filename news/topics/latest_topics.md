@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 06:47_
+_Updated: 2025-12-13 07:44_
 
 ## Top Stories
 
 - Man hittad skjuten i bil i Malmö - Sydsvenskan
 - Nya bilder från Epstein-utredningen släppta - SVT Nyheter
-- UD avråder från resor till flera områden i Thailand - SVT Nyheter
-- Så blev Lucia en högtid för hat och hot - SVT Nyheter
-- Hade löneutmätning – nu är mamma och sonen död - Aftonbladet
-- Så landade avtalet om EU:s nya läkemedelslag – ministern lättad - Altinget.SE
+- Finlands befolkning väntas krympa när färre får barn: ”Mycket att vara oroliga för” - Dagens Nyheter
+- Varför fick Erik egentligen sparken? - SvD
+- Här dansar över 1 000 tonåringar – i folkdräkt - GP
+- Nordkoreanska soldater minröjare i Ryssland - GP
+- DN Direkt – Polisen varnar: Risk att barn förs bort i jul - Dagens Nyheter
 - Polischefen: Tydliga utmattningssymtom hos gängen - Dagens Nyheter
-- Nio viltolyckor – ”Manar till försiktighet” - Västerbottens-Kuriren
-- 12 december 13.30, Trafikkontroll, Norrbottens län - polisen.se
-- Explosion i Södertälje - SVT Nyheter
-- Bosättningar på Västbanken växer i rekordfart - GP
-- Ryska centralbanken tar strid för frysta tillgångar - Hufvudstadsbladet
-- Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
-- Källor: Ukraina kan släppas in i EU via fredsplan - Västerbottens-Kuriren
-- Oracle uppges senarelägga Open AI:s datacenter - Omni
-- LO-ekonomer: Återhämtningen är här - Aftonbladet
+- 12 december 20.09, Trafikolycka, vilt, Västerbottens län - polisen.se
+- Hörby kommun: Inget tyder på att vi gjort fel - Västerbottens-Kuriren
+- Bosättningar på Västbanken växer i rekordfart - Västerbottens-Kuriren
+- Trump: Thailand och Kambodja överens om eldupphör - UNT
+- Direkt – Kriget i Ukraina – Kristersson: Bra med överenskommelse - Dagens Nyheter
+- Insändare. Markera mot Trumps hot att invadera Venezuela - Dagens Nyheter
+- Teknikaktier rasar när AI-oron skakar Wall Street - Börskollen
+- LO spår återhämtning för svensk ekonomi som leds av ökad konsumtion - Börsvärlden
+- Tre stora nyheter i minPension inför 2026 - News55
 - Väsbyhem och Hyresgästföreningen överens om hyrorna för 2026 - Notified
-- (H)julstämning: Världens första luciatåg med eldrivna arbetsmaskiner - dagensinfrastruktur -
-- Microneedling mot akneärr – en billig men ineffektiv metod - Dagens Nyheter
-- Microsofts vd kodade cricket-app på fritiden - Aftonbladet
+- Trött på Apple och Samsung? Här är fem kinesiska flaggskeppstelefoner som visar vart mobilframtiden är på väg - TechRadar
+- Klart: ”Total War: ”Warhammer 40.000” på gång – med ”Stranger Things”-skådis - MovieZine.se
 
 ## World News
 
@@ -51,7 +51,7 @@ _Updated: 2025-12-13 06:47_
 ## Technology
 
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -62,9 +62,9 @@ _Updated: 2025-12-13 06:47_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - CobbleStone®: A Greater Philadelphia Tech Leader Driving AI Innovation and Community Impact (PR Newswire) - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
@@ -142,23 +142,23 @@ _Updated: 2025-12-13 06:47_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Lediga jobb - Land Lantbruk
