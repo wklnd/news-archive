@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 00:42_
+_Updated: 2025-12-14 01:40_
 
 ## Top Stories
 
-- Polisbilar i krock under biljakt i Stockholm - SVT Nyheter
-- Kraftig brand utanför Lund - SVT Nyheter
+- 13 december 21.41, Trafikbrott, Stockholm - Polisen.se
+- Flera skjutna vid Brown university i USA - SVT Nyheter
+- Kraftig brand utanför Lund: ”Vi har inte kontroll på läget” - Sydsvenskan
 - Läckt samtal: Europa varnar Ukraina för USA - SvD
-- Tiotusentals demonstranter kräver Orbáns avgång - Aftonbladet
+- Olle Lönnaeus Trump vill göra Jimmie Åkesson till statsminister i Sverige - Sydsvenskan
 - Belarus friger oppositionsledare och fredspristagare - Dagens Nyheter
-- Elitskolan Campus Manilla krävs på stort skadestånd efter mobbningsfall - Dagens Nyheter
+- Havssköldpaddor på västkusten - Västerbottens-Kuriren
 - DN Direkt – Två personer beskjutna i Alby – man skottskadad - Dagens Nyheter
-- Havssköldpaddor på Västkusten: ”Fullkomligt exploderat” - Dagens Nyheter
-- Patienter övervakades – filmades när de hade sex - SVT Nyheter
-- 27-åriga Lisa tog viktmedicin efter graviditet – dog - Expressen
+- 12 december 12.25, Trafikkontroll, Västerbottens län - Polisen.se
+- Lisa, 27, tog viktmedicin efter graviditeten – dog - Expressen
+- Venezuelanska migranter lever i skräck inför valet i Chile - Dagens Nyheter
+- Tiotusentals demonstranter kräver Orbáns avgång - Västerbottens-Kuriren
 - UD avråder från Thailandresor – Ving ställer in - GP
-- Krock i Oxelösund – fem till sjukhus - Aftonbladet
-- USA-soldater dödade i Syrien - SVT Nyheter
-- Polis jagar person som såg ut att skjuta mot andra - Omni
-- Tekniska problem hos SEB – konton borta - DI
-- Sobi förvärvar Arthrosi Therapeutics och stärker sin pipeline med potentiell behandling av gikt - Cision News
+- Trafikolycka i Oxelösund: Personbil och EPA-traktor inblandade - SN, Södermanlands Nyheter
+- Systemen nere på Max – går inte att beställa digitalt - Expressen
+- Sobi gör mångmiljardköp - DI
 - Nooshi Dadgostars jultal: Skiljelinjen går mellan de superrika och alla oss andra - Vänsterpartiet
 - LO-ekonomerna: Det ljusnar – men inte för alla - Aktuellt i Politiken
-- Svärm av stjärnfall väntas i natt - SvD
 - Guide: Det är den bästa mobilen under 5 000 kronor - Expressen
+- Stjärnfall väntas när svärm passerar - SvD
 
 ## World News
 
 - Handelsbanken lanserar ny global indexfond - Cision News
-- Global app-statistik visar på kraftig tillväxt för Klarna och Affirm i november - BN - Börsvärlden
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -61,14 +61,14 @@ _Updated: 2025-12-14 00:42_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
 ## Business
@@ -110,7 +110,7 @@ _Updated: 2025-12-14 00:42_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -121,44 +121,44 @@ _Updated: 2025-12-14 00:42_
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- De blev grönsaksodlare tack vare lokalt stöd - Tidningen Land
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Lediga jobb - Land Lantbruk
 - Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
