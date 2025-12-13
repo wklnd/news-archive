@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-13 15:14_
+_Updated: 2025-12-13 15:49_
 
 - 19 photos were released from the Epstein files. We unpack their significance - NPR
+- Trump administration sues Georgia county for 2020 ballot records - BBC
 - Zelensky to meet Witkoff and Kushner on Trump's peace push - Axios
-- Justice Department sues Fulton County for 2020 election records - ABC News
-- House Republicans unveil health care plan, set up vote for next week - The Washington Post
+- New York tourist stabbed while changing baby’s diaper in Macy’s restroom, suspect charged: Police - ABC News
 - Preservationists sue Trump for ballroom project reviews and congressional approval - PBS
-- Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba - The New York Times
+- Trump struggles to find his economic messaging amid voter skepticism - NPR
+- Speaker Johnson unveils health care plan as divided Republicans scramble for alternative - AP News
 - Trump seems to wave the white flag on his US attorneys gambit - Politico
 - A man ate at the same Florida restaurant every day for a decade. When he stopped showing up, the chef went looking for him. - CBS News
-- In photos: Flooding in Western Washington state forces thousands to evacuate - NPR
-- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
-- Thailand Rejects Trump’s Claim That It Reached a Cease-Fire With Cambodia - The New York Times
-- North Korean leader Kim hails troops returning from Russia mission, state media says - Reuters
+- Colorado Officials Reject Trump’s ‘Pardon’ of a Convicted Election Denier - The New York Times
+- Fighting Persists on Thai-Cambodian Border After Trump’s Cease-Fire Claim - The Wall Street Journal
 - How Nobel laureate María Corina Machado escaped from Venezuela - The Washington Post
+- US says it will lift some trade sanctions on Russia’s ally Belarus - AP News
 - By locking in Russian assets for good, the EU is finally playing hardball - Euronews.com
-- Powerball jackpot reaches $1 billion mark for second time in 2025 - NBC News
+- Powerball might have Mega Millions to thank for its latest $1 billion jackpot - CNN
 - SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year - The Wall Street Journal
 - Stock Market Today: Nasdaq Lags As Broadcom Slumps; Tesla Rival Soars (Live Coverage) - Investor's Business Daily
-- Trump demands Fed listen to him as he lines up new leader: ‘I’m a smart voice’ - The Guardian
-- iOS 26.2 Features: Everything New in iOS 26.2 - MacRumors
-- How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica
+- Exclusive / Washington Post’s AI-generated podcasts rife with errors, fictional quotes - https-//www.semafor.com
+- Samsung’s new camera sensor could make motion blur issues a thing of the past - 9to5Google
+- With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen - TechCrunch
