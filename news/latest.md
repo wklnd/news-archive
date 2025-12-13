@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-13 11:48_
+_Updated: 2025-12-13 12:49_
 
-- New Photos From Epstein Estate Show Ties to Trump, Clinton and More Powerful Men - The New York Times
+- Trump, Clinton, Gates included in Epstein photo trove - Politico
+- Trump administration sues Georgia county for 2020 ballot records - BBC
 - New York tourist stabbed while changing baby’s diaper in Macy’s restroom, suspect charged: Police - ABC News
-- Justice Department Sues Four Additional States and One Locality for Failure to Comply with Federal Elections Laws - Department of Justice (.gov)
-- 'She's awesome': How U.S. veterans helped Venezuela's Machado escape - NPR
-- National preservation group sues to halt East Wing ballroom construction - Politico
-- The global shadow economy behind Trump’s latest move on Venezuela - Vox
-- House will vote on Obamacare extension next week - Politico
-- In photos: Flooding in Western Washington state forces thousands to evacuate - NPR
-- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
-- States defiant in face of Trump's AI executive order - Axios
-- Trump says he’s sealed Thailand-Cambodia ceasefire, but fighting continues - AP News
+- Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba - The New York Times
+- Zelensky to meet Witkoff and Kushner on Trump's peace push - Axios
 - Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan - The New York Times
-- US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city - The Guardian
+- How Skagit Valley endured a record flood but escaped dire predictions - The Seattle Times
+- Speaker Johnson unveils health care plan as divided Republicans scramble for alternative - AP News
+- States defiant in face of Trump's AI executive order - Axios
+- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
+- Thailand Rejects Trump’s Claim That It Reached a Cease-Fire With Cambodia - The New York Times
+- How Nobel laureate María Corina Machado escaped from Venezuela - The Washington Post
+- North Korean leader Kim hails troops returning from Russia mission, state media says - Reuters
 - King Charles III says he'll scale back cancer treatment thanks to early diagnosis - CBS News
-- SpaceX Sets Insider Share Deal at About $800 Billion Valuation - Bloomberg.com
-- Wall Street Turns Even More Bullish on Broadcom Stock (AVGO) as AI Backlog Surges - TipRanks
-- Exclusive | Trump Says He Is Leaning Toward Warsh or Hassett to Lead the Fed - The Wall Street Journal
-- Tech Support Scammers Stole $85,000 From Him. His Bank Declined to Refund Him. - The New York Times
-- Clair Obscur: Expedition 33 sweeps The Game Awards — analysis and full winners list - NPR
-- Amazon Pulls AI Recap Video After ‘Fallout’ Mess - Gizmodo
+- SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year - The Wall Street Journal
+- Powerball might have Mega Millions to thank for its latest $1 billion jackpot - CNN
+- China Is ‘Rejecting’ H200s, Outfoxing US Strategy, Sacks Says - Bloomberg.com
+- Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool
+- The Game Awards 2025 – Every Winner and Xbox Reveal, Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire
+- New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot
