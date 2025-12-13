@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-13 13:38_
+_Updated: 2025-12-13 15:04_
 
 ## Top Stories
 
-- DN avslöjar: Patienter på rättspsyk filmades när de hade sex med besökare - Dagens Nyheter
-- Dog av resistent bakterie – städning pekas ut - SVT Nyheter
-- 12 december 23.26, Skottlossning, Malmö - Polisen.se
+- Thailand fortsätter strida – Kambodja stänger gränsen - SVT Nyheter
 - De söker en kristen fristad – i Ryssland - SvD
+- DN Direkt – Svensk polis i insats mot helikopterliga i Spanien - Dagens Nyheter
 - Avbröt attack med handgranat på Vasagatan – pojkar dömda - GP
-- DN Direkt – UD avråder från resor till fler platser i Thailand - Dagens Nyheter
+- 12 december 23.26, Skottlossning, Malmö - polisen.se
+- DN Direkt – Richard Herrey: därför lämnar jag Moderaterna - Dagens Nyheter
 - Forssell om Somaliapengarna: Ger goda resultat - SVT Nyheter
+- DN avslöjar: Patienter på rättspsyk filmades när de hade sex med besökare - Dagens Nyheter
 - Polisen varnar: Risk att barn förs bort i jul - Västerbottens-Kuriren
-- Elitskolan Campus Manilla krävs på stort skadestånd efter mobbningsfall - Dagens Nyheter
-- 13 december 07.29, Sammanfattning natt, Västerbottens län - Polisen.se
+- Havssköldpaddor på Västkusten: ”Fullkomligt exploderat” - Dagens Nyheter
+- Tyska soldater ska stärka Polens gräns - GP
 - Uppgifter: Fyra länder ska gå ur EU – om Trump får välja - Dagens Nyheter
-- Fulla tvättbjörnen – en serieförbrytare - Hufvudstadsbladet
-- Expert: Europa kan bli överkört utan USA:s hjälp - Västerbottens-Kuriren
-- Bosättningar på Västbanken växer i rekordfart - GP
-- Tekniska problem hos SEB – konton borta - DI
+- Fulla tvättbjörnen – en serieförbrytare - Aftonbladet
+- Viktigast i veckan: Rysk-amerikansk samsyn om säkerhetspolitik – EU spärrar ryska tillgångar tillsvidare - Europaportalen
+- Messenger för datorer går i graven: ”Flyr Facebook” - Expressen
 - Så kan du skydda din ekonomi när dyrare blancolån slår till vid årsskiftet - Börskollen
-- Rekordmånga på bomarknaden tvingas sänka priset - Omni
-- Podcast: Nu ser AI allt - åtminstone i Kina - Dagens PS
-- 1 500 meter under jordens yta söker fysiker just nu efter universums saknade pusselbit - Illustrerad Vetenskap
-- TEST: 45 brädspel för alla åldrar – här är våra favoriter - aftonbladet.se
+- ”Lidar ger oss möjligheten att uppdatera bilen” - Dagens Nyheter
+- Sverige sitter på framtidens olja: "Europa vill minska beroendet" - Dagens PS
+- TEST: 45 brädspel för alla åldrar – här är våra favoriter - Aftonbladet
+- Drömmen om Luke Combs på Ullevi blev mer biljettmardröm - Skånska Dagbladet
 
 ## World News
 
@@ -39,18 +39,18 @@ _Updated: 2025-12-13 13:38_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global app-statistik visar på kraftig tillväxt för Klarna och Affirm i november - BN - Börsvärlden
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global app-statistik visar på kraftig tillväxt för Klarna och Affirm i november - BN - Börsvärlden
+- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN.se
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -81,15 +81,15 @@ _Updated: 2025-12-13 13:38_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -97,19 +97,19 @@ _Updated: 2025-12-13 13:38_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -146,7 +146,6 @@ _Updated: 2025-12-13 13:38_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -158,7 +157,8 @@ _Updated: 2025-12-13 13:38_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
