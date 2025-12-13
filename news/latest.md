@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-13 08:55_
+_Updated: 2025-12-13 09:48_
 
 - New Photos From Epstein Estate Show Ties to Trump, Clinton and More Powerful Men - The New York Times
 - District of Columbia | U.S. Unseals Warrant for Tanker Seized by Coast Guard Off the Coast of Venezuela - Department of Justice (.gov)
-- DOJ sues Georgia county as Trump pushes debunked 2020 election fraud claims - The Washington Post
-- 'She's awesome': How U.S. veterans helped Venezuela's Machado escape - NPR
-- National preservation group sues to halt East Wing ballroom construction - Politico
-- Historic floods have washed away homes and stranded families in Washington state - PBS
-- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
-- Growing number of House Republicans sign on to effort to force vote on ACA subsidies -- defying Speaker Johnson - ABC News
-- National Guardsman Who Was Shot Is Making ‘Extraordinary Progress,’ Doctor Says - The New York Times
-- A man ate at the same Florida restaurant every day for a decade. When he stopped showing up, the chef went looking for him. - CBS News
-- Thailand vows to keep fighting Cambodia, despite Trump's ceasefire claim - Reuters
+- New York tourist stabbed while changing baby’s diaper in Macy’s restroom, suspect charged: Police - ABC News
+- Trump administration sues Georgia county for 2020 ballot records - BBC
 - Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan - The New York Times
-- US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city - The Guardian
+- 'She's awesome': How U.S. veterans helped Venezuela's Machado escape - NPR
+- How Skagit Valley endured a record flood but escaped dire predictions - The Seattle Times
+- GOP unveils health bill without ACA subsidies - thehill.com
+- National Guardsman Who Was Shot Is Making ‘Extraordinary Progress,’ Doctor Says - The New York Times
+- Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
+- Thailand vows to keep fighting Cambodia, despite Trump's ceasefire claim - Reuters
 - King Charles III says he'll scale back cancer treatment thanks to early diagnosis - CBS News
-- Elon Musk’s SpaceX Valued at $800 Billion, as It Prepares to Go Public - The New York Times
-- Exclusive | Trump Says He Is Leaning Toward Warsh or Hassett to Lead the Fed - The Wall Street Journal
+- Reddit Sues Australian Government for Under-16 Social Media Ban - The Wall Street Journal
+- Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say - AP News
+- SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year - The Wall Street Journal
 - Stock Market Today: Nasdaq Lags As Broadcom Slumps; Tesla Rival Soars (Live Coverage) - Investor's Business Daily
-- Trump gives Elon Musk a win over a longtime foe - CNN
-- Amazon Prime Video scraps AI-powered TV show recap after 'Fallout' fallout - Business Insider
-- Clair Obscur: Expedition 33 sweeps The Game Awards — analysis and full winners list - NPR
+- Trump demands Fed listen to him as he lines up new leader: ‘I’m a smart voice’ - The Guardian
+- Do Kwon Gets 15 Years for $40 Billion Crypto Collapse as Victims Testify to Destruction He Caused - Gizmodo
+- The Game Awards 2025 – Every Winner and Xbox Reveal, Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire
+- New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot
