@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-14 18:53_
+_Updated: 2025-12-14 19:48_
 
-- Deadly Australian shooting targeted Jewish community, premier says - ABC News
-- 'Person of interest' detained over Brown University shooting, official says - BBC
-- Heavy snowfall blankets western Pennsylvania | Live First Alert Weather - CBS News
-- With federal relief on the horizon, Black farmers worry it won't come soon enough - NPR
-- Three Americans killed by IS gunman in Syria, US military says - BBC
-- Historic floods have washed away homes and stranded families in Washington state - PBS
-- First widespread snowfall of season creating slick travel conditions on roads in NYC, NJ, across Tri-State - ABC7 New York
-- Ukraine offers to drop Nato membership demands - Financial Times
-- After failure in the Senate, House GOP has its own health care proposal - NPR
-- Adrian Carrillo: 26-year-old Marine and his girlfriend among 3 killed in violent Panorama City crash, family says - ABC7 Los Angeles
-- Hamas says Israel's killing of senior commander threatens ceasefire - Reuters
-- Hong Kong’s biggest pro-democracy party votes to disband after more than 30 years of activism - Politico
-- Zelensky to meet Witkoff and Kushner on Trump's peace push - Axios
-- Gaza storms kill 14 Palestinians, including 3 children - CNN
+- Bondi Beach live updates: 11 killed after gunmen target Jewish festival in deadliest Australia shooting in decades - BBC
+- Buffalo Bills players, staff safe after deadly shooting near team hotel: Sources - The New York Times
+- Far-right José Antonio Kast favored to win as Chile votes in presidential runoff - The Guardian
+- Ukraine's Zelenskiy drops NATO ambition as Berlin peace talks begin - Reuters
+- U.S. unseals warrant behind oil tanker seizure near Venezuela - Axios
+- Woody Allen Is Not Sorry About His Friendship With Jeffrey Epstein - The New York Times
+- Sen. Bill Cassidy says "there's a deal to be had" on health care after failed Senate votes - CBS News
+- Trump administration races to finalize tariff payments — and hamstring possible refunds - Politico
+- Iowa police chief identifies son as Iowa Army National Guard soldier killed in ISIS terrorist attack - KCCI
+- N.J. weather: Winter storm warnings expand with up to 7 inches of snow in forecast. When will snow end? - NJ.com
+- Zelenskyy, US envoys in Berlin for ‘important’ peace talks - politico.eu
+- Alphabet Poised for Another Paper Gain as SpaceX Valuation Jumps - Bloomberg.com
 - High-end car sales sink in China as its economy slows, taking a toll on European automakers - AP News
-- Jury says Johnson & Johnson owes $40 million to 2 cancer patients who used talcum powders - ABC News
-- Powerball jackpot climbs to $1.1 billion after no big winner in latest drawing - ABC7 Los Angeles
-- ‘Game recognises game’: How Jensen Huang won over Donald Trump - Financial Times
-- iOS 26.2—Apple Releases Critical Update For 1 Billion iPhones - Forbes
+- Powerball results for 12/13/25; Did anyone win the $1.05 billion jackpot? - MLive.com
+- The Week That Was, The Week Ahead: Macro & Markets, Dec. 14 - TipRanks
+- iOS 26.2: All the new features now available on your iPhone - 9to5Mac
+- iOS 26.2—Update Now Warning Issued To All iPhone Users - Forbes
 - French President publicly congratulates Clair Obscur: Expedition 33, calling the Game of The Year win "a historic first" - Eurogamer
+- Six Months Later, the Switch 2 Proves It Has Staying Power - Gizmodo
+- Dakota Johnson Joins Lily Allen to Play ‘Madeline’ on ‘SNL’ - Variety
