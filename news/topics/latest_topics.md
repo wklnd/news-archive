@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 22:42_
+_Updated: 2025-12-14 23:39_
 
 ## Top Stories
 
-- Terrordåd på Bondi Beach i Sydney – flera döda - GP
-- Skolelever i bussolycka i Colombia – minst 16 döda - Västerbottens-Kuriren
-- Frankrike kräver att handelsavtal skjuts upp - GP
+- Uppgifter: Svensk polis ökar bevakningen efter terrordådet i Sydney - Expressen
 - Stänger av radarn – larm om Kinas fiskeflotta - SvD
+- Människohandel styrs ofta från utlandet - SvD
+- 14 december 07.16, Sammanfattning natt, Norrbottens län - polisen.se
 - När varje sekund räknas – grannar ryckte ut när Hans, 82, kollapsade i kramper - Sydsvenskan
-- Fyra i Skellefteå omhändertogs för fylleri - Norran
-- Gode man ställs inför rätta för grov trolöshet mot 95-årig kvinna - Dagens Nyheter
+- Trafikolycka på E4 norr om Umeå - SVT Nyheter
+- 13 december 07.29, Sammanfattning natt, Västerbottens län - polisen.se
+- Havssköldpaddor på västkusten - Västerbottens-Kuriren
 - Efter utredning av natthemtjänsten: Tre får gå – 13 blir kvar - Dagens Nyheter
-- Två omhändertogs för fylleri i Arvidsjaur - Norran
-- 14 december 08.32, Sammanfattning natt, Västernorrlands län - polisen.se
-- Direkt – Kriget i Ukraina – Zelenskyj: Mötet med Witkoff har börjat - Dagens Nyheter
-- Maken kvar i Thailand när gränsen stängdes - Västerbottens-Kuriren
-- Åsne Seierstad har skrivit boken ”Ofred”: ”Putin lynchas om han avslutar kriget nu” - Expressen
-- En gripen efter skjutning på universitet i USA - Aftonbladet
+- Trafikolycka på E4 vid Gävle - Expressen
+- Zelenskyj vill frysa frontlinjen – söker USA:s stöd - Hufvudstadsbladet
+- DN Direkt – Offren är mellan 10 och 87 år gamla - Dagens Nyheter
+- Kast mot seger i Chiles polariserade val: ”Vänsterns tid är över” - Dagens Nyheter
+- Påven: Låt musiken vara en ”boning för själen” vid jul - Vatican News
+- Experterna: Då tar bostadsmarknaden fart - DI
+- Efter 88 år tvingas VW stänga fabrik - Västerbottens-Kuriren
 - Semesternotan för en vecka i fjällen: Runt 50000 kronor - Omni
-- Volkswagen stänger fabrik i Tyskland – historiskt beslut efter 88 år - Börskollen
 - Vändningen: Liten risk för elbrist i vinter - Tidningen Näringslivet
-- Historiskt genombrott: Hälsning från rymden - Dagens PS
 - Google släpper AI-verktyg i Chrome som gör om flikar till appar - PC för Alla
-- FZ utser Årets spel 2025! - FZ.se
+- KRÖNIKA: Efter hisnande spelåret – här är bästa tv- och datorspelen 2025 - Sydsvenskan
 
 ## World News
 
@@ -87,8 +87,8 @@ _Updated: 2025-12-14 22:42_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -122,23 +122,23 @@ _Updated: 2025-12-14 22:42_
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2025-12-14 22:42_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Lediga jobb - Land Lantbruk
-- Här är världens största jordbruk - ATL
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Han har insyn i världens mest slutna jordbruk – så hjälper han Nordkoreas bönder - Land Lantbruk
