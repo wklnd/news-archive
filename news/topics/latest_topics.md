@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 12:43_
+_Updated: 2025-12-14 13:38_
 
 ## Top Stories
 
-- Två döda i skjutning på universitet i USA - SvD
+- Amanda blev vittne till skjutningen på Bondi Beach: ”Hundratals skott” - SVT Nyheter
 - Fem unga män till sjukhus efter singelolycka i Helsingborg - SVT Nyheter
+- Bygger en ”jävla tunnel” åt Nato – staden tar notan - Aftonbladet
+- Två döda på prestigefyllt universitet i USA – nio skadade - Sydsvenskan
 - Kraftig brand utanför Lund: ”Vi har inte kontroll på läget” - Sydsvenskan
 - 14 december 07.16, Sammanfattning natt, Norrbottens län - polisen.se
+- Flera polisbilar krockade under biljakt - Dagens Nyheter
+- Fyllerist fick böter i Umeå - Västerbottens-Kuriren
 - Naturjulkalendern 2025: Mats Wilhelm - Natursidan
-- Stockholm: Polisbilar i krock efter biljakt - TV4 Nyheterna
-- Bygger en ”jävla tunnel” åt Nato – staden tar notan - Aftonbladet
-- 13 december 07.29, Sammanfattning natt, Västerbottens län - polisen.se
-- Omfattande polisinsats i Söderfors – stort område avspärrat - UNT
-- Människohandel styrs ofta från utlandet - SvD
-- Skjutning vid Bondi Beach i Sydney: ”Det var panik” - Omni
-- Anna-Lena Laurén Trump gjorde en deal med Lukasjenko, medan EU stod passiv - Hufvudstadsbladet
+- Pål Jonson: ”Vissa områden kommer bli strategiskt viktiga” - Aftonbladet
+- Anna-Lena Laurén: Lukasjenko gör upp med Trump – EU står passivt - Dagens Nyheter
 - USA-sändebudet Witkoff har anlänt till Berlin - Västerbottens-Kuriren
-- Fem gripna för terrorplaner mot julmarknad i Tyskland - SVT Nyheter
+- Industrilokal brinner i Åkersberga - SVT Nyheter
+- Kast mot seger i Chiles polariserade val: ”Vänsterns tid är över” - Dagens Nyheter
 - Vändningen: Liten risk för elbrist - DI
-- Biljätten stänger fabrik – för första gången på 88 år - EFN.se
-- Läkemedelsjätten döms betala skadestånd för babypuder - Sydsvenskan
-- Stellan Tengroth: Varningsklockor ringer efter årets Ekonomipris - Aftonbladet
+- Efter 88 år tvingas VW stänga fabrik - Västerbottens-Kuriren
+- Analytikerna eniga: Spår uppgång för Europa – ”olycksbådande” - EFN.se
+- Kritik mot brittisk sockerskatt – "en subvention av miljöbelastande mejeriprodukter" - tidningensyre.se
 - TEST: 12 streaminghögtalare – budgetkapet bäst - Aftonbladet
 - Vad något heter är ingen liten sak - Västerbottens-Kuriren
 
@@ -39,13 +39,13 @@ _Updated: 2025-12-14 12:43_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
@@ -63,9 +63,9 @@ _Updated: 2025-12-14 12:43_
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -129,16 +129,16 @@ _Updated: 2025-12-14 12:43_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
