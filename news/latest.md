@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-14 15:15_
+_Updated: 2025-12-14 15:49_
 
-- U.S. unseals warrant behind oil tanker seizure near Venezuela - Axios
-- DC region expected to be hit with snowfall and freezing weather for second time this December - WTOP
-- Woody Allen Is Not Sorry About His Friendship With Jeffrey Epstein - The New York Times
-- Ukraine offers to drop Nato membership demands - Financial Times
-- Machado's trip to Oslo was long, dangerous but she says she plans to return to Venezuela "as soon as possible" - CBS News
-- NYC Forecast Warns of First Big Snow This Weekend as Advisories Are Issued - The New York Times
-- Arctic temperatures, snow and flooding sweep across the U.S. - NBC News
+- Person of interest in custody after Brown University shooting, official says - ABC News
+- Gunmen kill at least 11 people at a Jewish event at Sydney's Bondi Beach - NPR
 - After failure in the Senate, House GOP has its own health care proposal - NPR
+- U.S. unseals warrant behind oil tanker seizure near Venezuela - Axios
+- Thailand launches new offensive as Cambodia halts all border crossings - Al Jazeera
+- Three Americans killed by IS gunman in Syria, US military says - BBC
+- Washington state contends with devastating flooding as Midwest braces for arctic blast - CBS News
+- Brace for snow and then a blast of cold in D.C. area Sunday - The Washington Post
+- Current snow emergency levels for central Ohio - WSYX
+- Zelenskyy reportedly says Kyiv willing to drop NATO membership demand - politico.eu
 - Floods, Mud and Cold Add to Gazans’ Misery - The New York Times
-- Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead - The Guardian
-- North Korean Soldiers Return From Russia’s War With Ukraine - The New York Times
-- Russia and Ukraine trade attacks as US and European officials prepare for peace talks - AP News
+- Venezuela's María Corina Machado appears open to U.S. military pressure against Maduro - CBS News
+- Israel kills Hamas leader in Gaza, challenging fragile truce - The Washington Post
+- By locking in Russian assets for good, the EU is finally playing hardball - Euronews.com
 - High-end car sales sink in China as its economy slows, taking a toll on European automakers - AP News
+- No Powerball jackpot winner and prize swells to $1.1 billion - ABC News
 - What's in store for BDCs in 2026? (MAIN:NYSE) - Seeking Alpha
-- It's a sequel, it's a remake, it's a reboot: Lawyers grow wistful for old corporate rumbles as Paramount, Netflix fight for Warner - Fortune
-- What are the monthly payments on a $600,000 mortgage now, after the Fed's December rate cut? - CBS News
+- Hollywood panics as Paramount-Netflix battle for Warner Bros - BBC
+- iOS 26.2—Apple Releases Critical Update For 1 Billion iPhones - Forbes
 - French President publicly congratulates Clair Obscur: Expedition 33, calling the Game of The Year win "a historic first" - Eurogamer
-- There’s a New Kind of Social Media App People Are Obsessed With. You’ve Probably Used It Already. - Slate
-- Destiny 2 Equilibrium Loot Table: Dungeon Weapons and Armor - The Game Post
-- Poll: Vote for Your PS5 Game of the Year 2025 - Push Square
