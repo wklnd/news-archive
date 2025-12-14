@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 05:49_
+_Updated: 2025-12-14 06:53_
 
 ## Top Stories
 
-- Kraftig brand på gård utanför Lund - Sydsvenskan
-- Läckt samtal: Europa varnar Ukraina för USA - SvD
 - 13 december 21.41, Trafikbrott, Stockholm - polisen.se
+- Kraftig brand på gård utanför Lund - Sydsvenskan
+- Witkoff ska träffa Zelenskyj inför toppmöte - GP
 - Hittad död med mystisk lapp – efter musiklarm - Aftonbladet
 - Trump lovar hämnas IS-attack i Syrien - GP
 - Explosion i Södertälje - SVT Nyheter
-- Havssköldpaddor på västkusten - Västerbottens-Kuriren
-- Man skjuten i Botkyrka – skadad man gripen - GP
-- Världens tyngsta kvinna död efter svåra olyckan - Expressen
+- Havssköldpaddor siktade på västkusten - GP
+- Skottlossning söder om Stockholm - Expressen
 - 12 december 12.25, Trafikkontroll, Västerbottens län - polisen.se
+- Lisa, 27, tog viktmedicin efter graviditeten – dog - Expressen
 - Flera skjutna vid universitet i USA - GP
 - Chile kan rösta fram en efterföljare till Pinochet - Aftonbladet
 - Tiotusentals demonstranter kräver Orbáns avgång - Västerbottens-Kuriren
 - Thailand fortsätter strida – Kambodja stänger gränsen - Dagens Nyheter
-- Fem gripna för terrorplaner mot julmarknad - Aftonbladet
-- Läkemedelsjätten Johnson & Johnson döms betala miljonskadestånd - SVT Nyheter
+- Människohandel styrs digitalt från utlandet - Aftonbladet
+- Fem gripna för terrorplaner mot julmarknad i Tyskland - SVT Nyheter
+- Läkemedelsjätten döms betala skadestånd - SvD
 - LO-ekonomerna: Det ljusnar – men inte för alla - Aktuellt i Politiken
-- Utpressningsplan mot affärsmän avslöjad - Nerikes Allehanda
 - Guide: Det är den bästa mobilen under 5 000 kronor - Expressen
 - Stjärnfall väntas när svärm passerar - SvD
 
@@ -38,15 +38,15 @@ _Updated: 2025-12-14 05:49_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
 
@@ -102,15 +102,15 @@ _Updated: 2025-12-14 05:49_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
