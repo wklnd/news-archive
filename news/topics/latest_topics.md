@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 18:47_
+_Updated: 2025-12-14 19:40_
 
 ## Top Stories
 
-- Larm om skjutning vid Bondi Beach - TV4 Nyheterna
-- Zelenskyj: Betydande chans till överenskommelse - DI
-- Allt fler unga utsätts för människohandel i Sverige - Omni
-- 14 december 08.32, Sammanfattning natt, Västernorrlands län - polisen.se
-- Trafikolycka på E4 norr om Umeå – en till sjukhus - SVT Nyheter
-- Från MFF till spel i division åtta: ”Har lagkamrater som lyfter tvättmaskiner hela dagen” - Sydsvenskan
-- En död efter singelolycka i Helsingborg – fem fördes till sjukhus - SVT Nyheter
-- Fyllerist fick böter i Umeå - Västerbottens-Kuriren
+- Masskjutning på Bondi Beach i Sydney: Detta vet vi - SVT Nyheter
+- Flera döda i strider mellan Thailand och Kambodja - GP
+- Direkt – Kriget i Ukraina – Zelenskyj: Mötet med Witkoff har börjat - Dagens Nyheter
+- Man på elsparkcykel påkörd av spårvagn i Göteborg - Omni
+- Fyra i Skellefteå omhändertogs för fylleri - Norran
+- När varje sekund räknas – grannar ryckte ut när Hans, 82, kollapsade i kramper - Sydsvenskan
 - Nordisk kost överraskar i ny studie – kan vända två sjukdomar samtidigt - Dagens Nyheter
-- Naturjulkalendern 2025: Mats Wilhelm - Natursidan
-- Vittnesmålen från skolskjutningen på Brown University i USA - GP
-- Umeåfamiljen berättar: Befinner sig nära stridigheterna - Västerbottens-Kuriren
+- Efter utredning av natthemtjänsten: Tre får gå – 13 blir kvar - Dagens Nyheter
+- En död efter singelolycka i Helsingborg – fem fördes till sjukhus - SVT Nyheter
+- 14 december 08.32, Sammanfattning natt, Västernorrlands län - polisen.se
+- Trafikolycka på E4 vid Gävle - Expressen
 - Åsne Seierstad har skrivit boken ”Ofred”: ”Putin lynchas om han avslutar kriget nu” - Expressen
-- Storbrand i ”väldigt stor byggnad” - Aftonbladet
-- Priset för en veckas fjällsemester – 50 000 kronor: ”Blivit en klassfråga” - NWT
-- Biljätten stänger fabrik – för första gången på 88 år - EFN
+- KD får högsta stödet på tre år – V lägsta sen 2016 - Omni
+- En gripen efter skjutning på universitet i USA - Sydsvenskan
+- Semesternotan för en vecka i fjällen: Runt 50000 kronor - Omni
 - Vändningen: Liten risk för elbrist i vinter - Tidningen Näringslivet
-- Har Google blivit sämre? - Dagens Nyheter
+- Volkswagen stänger fabrik i Tyskland – historiskt beslut efter 88 år - Börskollen
+- Veckans mest lästa – campingknep, dieselhybrider och spökköer - Dagens PS
 - Lista: Så porrsurfade svenskarna detta år - Expressen
 - TEST: 12 streaminghögtalare – budgetkapet bäst - Aftonbladet
 
@@ -38,15 +38,15 @@ _Updated: 2025-12-14 18:47_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
-- Handelsbanken lanserar ny global indexfond - Cision News
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -54,6 +54,7 @@ _Updated: 2025-12-14 18:47_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
@@ -61,15 +62,14 @@ _Updated: 2025-12-14 18:47_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- SensoDetect achieves AI breakthrough, unlocking scalable market leadership in neuropsychiatric diagnostics - Placera.se
 
 ## Business
 
@@ -84,14 +84,14 @@ _Updated: 2025-12-14 18:47_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
@@ -102,43 +102,43 @@ _Updated: 2025-12-14 18:47_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 
 ## Jordbruk
 
