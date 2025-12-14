@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-14 23:48_
+_Updated: 2025-12-15 00:48_
 
-- Gunmen targeted Australia’s Jewish community in a deadly mass shooting. Here’s what we know - CNN
-- Brown University: Hundreds of police hunt suspect in shooting after 2 killed, 9 injured - BBC
+- After Sydney attack, Netanyahu says he warned that Canberra ‘pours fuel on antisemitic fire’ - The Times of Israel
+- What We Know About Man Detained In Brown University Mass Shooting - Forbes
 - Three Americans killed by IS gunman in Syria, US military says - BBC
-- Heavy snowfall blankets western Pennsylvania | Live First Alert Weather - CBS News
 - Democrats release second batch of Epstein photos within hours - BBC
-- Voices of experience and hope soar in a song to prevent suicide - NPR
-- JetBlue flight near Venezuela avoids 'midair collision' with US Air Force tanker - ABC News
+- Heavy snowfall blankets western Pennsylvania | Live First Alert Weather - CBS News
+- District of Columbia | U.S. Unseals Warrant for Tanker Seized by Coast Guard Off the Coast of Venezuela - Department of Justice (.gov)
 - Washington state contends with devastating flooding as Midwest braces for arctic blast - CBS News
-- How much snow from winter storm 12/14/25: Snowfall totals from NYC, NY, NJ and CT - ABC7 New York
-- U.S. unseals warrant behind oil tanker seizure near Venezuela - Axios
+- First widespread snowfall across NYC, Tri-State into Sunday - ABC7 New York
+- JetBlue flight near Venezuela avoids ‘midair collision’ with US Air Force tanker - Politico
+- On ‘SNL,’ Trump Blows Up a Familiar Sleigh - The New York Times
+- Ukraine drops NATO goal as Trump envoy sees progress in peace talks - reuters.com
 - Hamas Confirms Top Commander’s Death in Israeli Strike in Gaza - The New York Times
-- US envoys arrive in Berlin for latest round of Ukraine peace talks with Zelenskyy - NPR
 - Chileans choose between rightwinger and communist in presidential vote - Financial Times
-- Belarus releases 123 prisoners in agreement with US, including Nobel Prize winner and opposition leader - ABC News
-- Kevin Hassett says Trump's opinion would have 'no weight' on the FOMC - Fortune
+- Thailand launches new offensive as Cambodia halts all border crossings - Al Jazeera
+- Hassett says Federal Reserve can reject Trump’s views if he is chair - AP News
 - Powerball results for 12/13/25; Did anyone win the $1.05 billion jackpot? - MLive.com
-- The Week That Was, The Week Ahead: Macro & Markets, Dec. 14 - TipRanks
-- United Airlines 803 to Tokyo flight safely returns to Dulles airport after engine failure on Boeing 777-200 during takeoff: FAA - ABC7 Chicago
-- iOS 26.2: All the new features now available on your iPhone - 9to5Mac
+- Making sense of the risky Netflix-Warner Bros. deal - TechCrunch
+- SpaceX insider share sale sets $800 billion valuation amid possible IPO, Reuters reports - CNBC
+- French President publicly congratulates Clair Obscur: Expedition 33, calling the Game of The Year win "a historic first" - Eurogamer
 - iOS 26.2—Update Now Warning Issued To All iPhone Users - Forbes
