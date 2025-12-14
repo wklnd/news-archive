@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 23:39_
+_Updated: 2025-12-15 00:41_
 
 ## Top Stories
 
-- Uppgifter: Svensk polis ökar bevakningen efter terrordådet i Sydney - Expressen
-- Stänger av radarn – larm om Kinas fiskeflotta - SvD
-- Människohandel styrs ofta från utlandet - SvD
+- Rädslan ökar efter Bondi Beach - Dagens Arena
 - 14 december 07.16, Sammanfattning natt, Norrbottens län - polisen.se
-- När varje sekund räknas – grannar ryckte ut när Hans, 82, kollapsade i kramper - Sydsvenskan
 - Trafikolycka på E4 norr om Umeå - SVT Nyheter
+- Trafikolycka på E4 vid Gävle - Expressen
+- Umeåfamiljen berättar: Befinner sig nära stridigheterna - Västerbottens-Kuriren
+- Allt fler unga utsätts för människohandel i Sverige - Omni
+- Gode man ställs inför rätta för grov trolöshet mot 95-årig kvinna - Dagens Nyheter
 - 13 december 07.29, Sammanfattning natt, Västerbottens län - polisen.se
 - Havssköldpaddor på västkusten - Västerbottens-Kuriren
-- Efter utredning av natthemtjänsten: Tre får gå – 13 blir kvar - Dagens Nyheter
-- Trafikolycka på E4 vid Gävle - Expressen
+- DN Debatt. ”Det är vi som betalar priset när din matkasse blir billigare” - Dagens Nyheter
 - Zelenskyj vill frysa frontlinjen – söker USA:s stöd - Hufvudstadsbladet
-- DN Direkt – Offren är mellan 10 och 87 år gamla - Dagens Nyheter
+- DN Direkt – Skolelever i bussolycka i Colombia – minst 16 döda - Dagens Nyheter
 - Kast mot seger i Chiles polariserade val: ”Vänsterns tid är över” - Dagens Nyheter
 - Påven: Låt musiken vara en ”boning för själen” vid jul - Vatican News
-- Experterna: Då tar bostadsmarknaden fart - DI
+- Experter: Därför ökar bostadspriserna nästa år - Dagens Nyheter
 - Efter 88 år tvingas VW stänga fabrik - Västerbottens-Kuriren
 - Semesternotan för en vecka i fjällen: Runt 50000 kronor - Omni
 - Vändningen: Liten risk för elbrist i vinter - Tidningen Näringslivet
 - Google släpper AI-verktyg i Chrome som gör om flikar till appar - PC för Alla
-- KRÖNIKA: Efter hisnande spelåret – här är bästa tv- och datorspelen 2025 - Sydsvenskan
+- KRÖNIKA: Efter hisnande spelåret – här är bästa tv- och datorspelen 2025 - HD
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2025-12-14 23:39_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
 
@@ -54,45 +54,45 @@ _Updated: 2025-12-14 23:39_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
-- The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- SensoDetect achieves AI breakthrough, unlocking scalable market leadership in neuropsychiatric diagnostics - Placera.se
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -122,43 +122,43 @@ _Updated: 2025-12-14 23:39_
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
