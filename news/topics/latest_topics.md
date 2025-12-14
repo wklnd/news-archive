@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 08:51_
+_Updated: 2025-12-14 09:39_
 
 ## Top Stories
 
-- Minst två döda i skjutning på universitet - Dagens Nyheter
-- Bygger en ”jävla tunnel” åt Nato – staden tar notan - Aftonbladet
-- Människohandel styrs ofta från utlandet - SvD
-- Sahlgrenska behandlade tumör utan operation – första gången i Sverige - GP
-- Storbrand utanför Lund – syntes flera kilometer bort - Omni
-- Högsta varningsnivån på Kanarieöarna för stormen Emilia - GP
-- Flera polisbilar krockade under biljakt - Dagens Nyheter
+- Kraftig brand utanför Lund: ”Vi har inte kontroll på läget” - Sydsvenskan
 - Naturjulkalendern 2025: Mats Wilhelm - Natursidan
-- 14 december 07.16, Sammanfattning natt, Norrbottens län - polisen.se
-- Tre unga män till sjukhus efter singelolycka i Helsingborg - SVT Nyheter
-- Fem gripna för terrorplaner mot julmarknad i Tyskland - SVT Nyheter
-- Björn Wiman: Nu tar ännu en av alla små-Trumpar makten över världen - Dagens Nyheter
-- UD avråder från Thailandresor – Ving ställer in - GP
+- 14 december 07.16, Sammanfattning natt, Norrbottens län - Polisen.se
+- Läckt samtal: Europa varnar Ukraina för USA - SvD
 - Industrilokal brinner i Åkersberga - SVT Nyheter
-- Volkswagen stänger fabrik i Tyskland – historiskt beslut efter 88 år - Börskollen
+- 13 december 21.41, Trafikbrott, Stockholm - Polisen.se
+- Fyllerist fick böter i Umeå - Västerbottens-Kuriren
+- Tre unga män till sjukhus efter singelolycka i Helsingborg - SVT Nyheter
+- Bygger en ”jävla tunnel” åt Nato – staden tar notan - Aftonbladet
+- 14 december 07.50, Sammanfattning natt, Jämtlands län - Polisen.se
+- Flera skjutna vid universitet i USA - GP
+- Kast mot seger i Chiles polariserade val: ”Vänsterns tid är över” - Dagens Nyheter
+- Fem gripna för terrorplaner mot julmarknad i Tyskland - SVT Nyheter
+- UD avråder från Thailandresor – Ving ställer in - GP
 - Vändningen: Liten risk för elbrist i vinter - SvD
 - Läkemedelsjätten döms betala skadestånd för babypuder - Sydsvenskan
 - Mäklarenkäten Bopanelen visar: Högre fart på bostadsmarknaden väntar 2026 - Via TT
+- Stellan Tengroth: Varningsklockor ringer efter årets Ekonomipris - Aftonbladet
 - TEST: 12 streaminghögtalare – budgetkapet bäst - Aftonbladet
-- Trött på smartphones? Dessa 5 kommande flaggskepp kan få dig att ändra uppfattning 2026 - TechRadar
+- Vad något heter är ingen liten sak - Västerbottens-Kuriren
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2025-12-14 08:51_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,6 +39,7 @@ _Updated: 2025-12-14 08:51_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -53,11 +53,12 @@ _Updated: 2025-12-14 08:51_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
@@ -65,7 +66,6 @@ _Updated: 2025-12-14 08:51_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -110,7 +110,7 @@ _Updated: 2025-12-14 08:51_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -137,28 +137,28 @@ _Updated: 2025-12-14 08:51_
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
