@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 09:39_
+_Updated: 2025-12-14 10:47_
 
 ## Top Stories
 
-- Kraftig brand utanför Lund: ”Vi har inte kontroll på läget” - Sydsvenskan
-- Naturjulkalendern 2025: Mats Wilhelm - Natursidan
-- 14 december 07.16, Sammanfattning natt, Norrbottens län - Polisen.se
-- Läckt samtal: Europa varnar Ukraina för USA - SvD
-- Industrilokal brinner i Åkersberga - SVT Nyheter
-- 13 december 21.41, Trafikbrott, Stockholm - Polisen.se
-- Fyllerist fick böter i Umeå - Västerbottens-Kuriren
-- Tre unga män till sjukhus efter singelolycka i Helsingborg - SVT Nyheter
+- Larm om skottlossning på Bondi beach i Sydney - SVT Nyheter
+- Skjutning på prestigeuniversitet i USA – två döda - Västerbottens-Kuriren
 - Bygger en ”jävla tunnel” åt Nato – staden tar notan - Aftonbladet
-- 14 december 07.50, Sammanfattning natt, Jämtlands län - Polisen.se
-- Flera skjutna vid universitet i USA - GP
+- Polisen utreder mordbrand – röken och lågorna syntes från långt håll - Sydsvenskan
+- DN Direkt – Så blir bostadsmarknaden i Sverige nästa år - Dagens Nyheter
+- Sahlgrenska behandlade tumör utan operation – första gången i Sverige - GP
+- Biljakt genom Stockholm – sju krockade polisbilar - GP
+- Fyllerist fick böter i Umeå - Västerbottens-Kuriren
+- Två omhändertogs för fylleri i Arvidsjaur - Norran
+- Naturjulkalendern 2025: Mats Wilhelm - Natursidan
+- Zelenskyj: Betydande chans till överenskommelse - Västerbottens-Kuriren
+- Anna-Lena Laurén: Lukasjenko gör upp med Trump – EU står passiv - Dagens Nyheter
 - Kast mot seger i Chiles polariserade val: ”Vänsterns tid är över” - Dagens Nyheter
-- Fem gripna för terrorplaner mot julmarknad i Tyskland - SVT Nyheter
-- UD avråder från Thailandresor – Ving ställer in - GP
+- Fem gripna för terrorplaner mot julmarknad - Corren
 - Vändningen: Liten risk för elbrist i vinter - SvD
-- Läkemedelsjätten döms betala skadestånd för babypuder - Sydsvenskan
-- Mäklarenkäten Bopanelen visar: Högre fart på bostadsmarknaden väntar 2026 - Via TT
+- Volkswagen stänger fabrik i Tyskland – historiskt beslut efter 88 år - Börskollen
+- Unik grafik: Så blir bostadsmarknaden 2026 - Dagens Nyheter
 - Stellan Tengroth: Varningsklockor ringer efter årets Ekonomipris - Aftonbladet
 - TEST: 12 streaminghögtalare – budgetkapet bäst - Aftonbladet
-- Vad något heter är ingen liten sak - Västerbottens-Kuriren
+- Trött på smartphones? Dessa 5 kommande flaggskepp kan få dig att ändra uppfattning 2026 - TechRadar
 
 ## World News
 
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
@@ -53,19 +53,19 @@ _Updated: 2025-12-14 09:39_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
@@ -87,12 +87,12 @@ _Updated: 2025-12-14 09:39_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -110,7 +110,7 @@ _Updated: 2025-12-14 09:39_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -145,20 +145,20 @@ _Updated: 2025-12-14 09:39_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Lediga jobb - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
