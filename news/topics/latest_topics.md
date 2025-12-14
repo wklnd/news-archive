@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-14 06:53_
+_Updated: 2025-12-14 07:44_
 
 ## Top Stories
 
-- 13 december 21.41, Trafikbrott, Stockholm - polisen.se
+- Två döda i universitetsskjutning – ingen gripen - Västerbottens-Kuriren
+- Människohandel styrs ofta från utlandet - SvD
+- Sahlgrenska behandlade tumör utan operation – första gången i Sverige - GP
+- Flera polisbilar i krock under biljakt - Aftonbladet
 - Kraftig brand på gård utanför Lund - Sydsvenskan
-- Witkoff ska träffa Zelenskyj inför toppmöte - GP
-- Hittad död med mystisk lapp – efter musiklarm - Aftonbladet
-- Trump lovar hämnas IS-attack i Syrien - GP
-- Explosion i Södertälje - SVT Nyheter
+- Hemliga lyxgåvorna till svenska politiker - Expressen
 - Havssköldpaddor siktade på västkusten - GP
-- Skottlossning söder om Stockholm - Expressen
-- 12 december 12.25, Trafikkontroll, Västerbottens län - polisen.se
-- Lisa, 27, tog viktmedicin efter graviditeten – dog - Expressen
-- Flera skjutna vid universitet i USA - GP
-- Chile kan rösta fram en efterföljare till Pinochet - Aftonbladet
-- Tiotusentals demonstranter kräver Orbáns avgång - Västerbottens-Kuriren
-- Thailand fortsätter strida – Kambodja stänger gränsen - Dagens Nyheter
-- Människohandel styrs digitalt från utlandet - Aftonbladet
-- Fem gripna för terrorplaner mot julmarknad i Tyskland - SVT Nyheter
+- Explosion i Södertälje - SVT Nyheter
+- Världens tyngsta kvinna död efter svåra olyckan - Expressen
+- 12 december 12.25, Trafikkontroll, Västerbottens län - Polisen.se
+- UD avråder från Thailandresor – Ving ställer in - GP
+- Tiotusentals demonstranter kräver Orbáns avgång - Aftonbladet
+- Humlor trängs undan av honungsbin - Barometern-OT
+- Han håller emot när EU vill låna till Ukraina - Västerbottens-Kuriren
+- Silverpriset tvingar Tyskland till historiskt beslut om silvermynt - Dagens PS
+- Godisraketen lanserar både butik och dryck - Fri Köpenskap
 - Läkemedelsjätten döms betala skadestånd - SvD
-- LO-ekonomerna: Det ljusnar – men inte för alla - Aktuellt i Politiken
+- Messenger stängs ner – Meta vill locka användare tillbaka till Facebook - Finanstid
+- Trött på smartphones? Dessa 5 kommande flaggskepp kan få dig att ändra uppfattning 2026 - TechRadar
 - Guide: Det är den bästa mobilen under 5 000 kronor - Expressen
-- Stjärnfall väntas när svärm passerar - SvD
 
 ## World News
 
@@ -53,22 +53,22 @@ _Updated: 2025-12-14 06:53_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
-- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- De 5 populäraste kryptovalutorna inom artificiell intelligens (AI) - Binance
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
-- DeepRoute.ai Technology Selected for smart #5 EHD, Demonstrating Production-Ready Assisted Driving - Aktiellt
-- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 
 ## Business
@@ -87,12 +87,12 @@ _Updated: 2025-12-14 06:53_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -109,13 +109,13 @@ _Updated: 2025-12-14 06:53_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -126,39 +126,39 @@ _Updated: 2025-12-14 06:53_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - De blev grönsaksodlare tack vare lokalt stöd - Tidningen Land
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Nyheter från LRF - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
