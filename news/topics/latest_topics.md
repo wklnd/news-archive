@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 21:41_
+_Updated: 2025-12-15 22:47_
 
 ## Top Stories
 
 - Sverige har något att lära av Australien - SvD
-- Lagförslag om bidragstak klart - 150 000 berörs - GP
 - Ung man sköts ihjäl i bil - 8 Sidor
 - Misstänkta giftkvinnan släpps på fri fot: ”Glad och lättad” - Aftonbladet
 - Jägare kritiska efter stopp för vargjakt – ser risk för tjuvjakt: ”Ska inte finnas överallt” - SVT Nyheter
 - Davidshallstorg byggs om - Malmö stad
+- Målaren Mikaels morgonkaffe ledde till bomblarm: ”Var fan är min termos?” - Sydsvenskan
+- 15 december 20.18, Trafikolycka, vilt, Norrbottens län - polisen.se
 - Historisk traktorresa mot Bryssel för LRF - Land Lantbruk
 - Ung barnrättskämpe får årets SOL-stipendium - Örnsköldsviks kommun
 - 15 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
-- Stöd för personer som utsätts för hedersrelaterat våld och förtryck ska finnas i hela landet - Regeringen.se
 - Merz hoppfull: Största chansen för fred hittills - Dagens Nyheter
+- Ukraina: Rysk ubåt utslagen med drönare - DI
+- Analys: Ukraina kan vinna kriget mot Ryssland – men då måste Europa göra mer - Omni
 - En sorgens dag i Hongkong - Dagens Arena
-- Högerkandidat vann valet i Chile - SVT Nyheter
-- Nya spionchefen: Putin drar ut på fredssamtalen - DI
+- Intellegoledamoten Johan Möllerström delgiven misstanke om brott - DI
 - Lägre kommunalskatt 2026 – men inte för alla - Skattebetalarna
-- Intellegos storägare misstänks för grovt bedrägeri - Placera.se
 - Stegra har inte lyckats säkra kapital: ”Ödesvecka” - Omni
-- Nytt OMXS30-rekord – nytt ras för Truecaller - DI
-- Apple tätar allvarliga sårbarheter – uppdatera snarast - Computer Sweden
+- ”Tuttifrutti”-faktorn ger rusning till Tesla - SvD
 - Arbeten i Lillängshamnen - Hammarö kommun
+- TEST: Årets vassaste tv-apparater – ”Klart bästa bilden” - Aftonbladet
 
 ## World News
 
