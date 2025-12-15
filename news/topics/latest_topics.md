@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 17:49_
+_Updated: 2025-12-15 18:57_
 
 ## Top Stories
 
-- Misstänkt för förgiftning på Akademiska släpps fri - UNT
-- Vargjakten stoppas i domstol - Sveriges Natur
-- Detta vet vi om masskjutningen i Sydney - Sydsvenskan
-- Maktskiftet i Ronneby stoppas – domstol river upp beslut - SVT Nyheter
-- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
-- Förväntningarna på fredsmötet trappas upp i Berlin - Dagens Nyheter
+- Giftkvinnan släpps på fri fot: ”Glad och lättad” - Aftonbladet
+- Jägare kritiska efter stopp för vargjakt – ser risk för tjuvjakt: ”Ska inte finnas överallt” - SVT Nyheter
+- Ung man sköts ihjäl i bil - 8 Sidor
+- 150 000 får sänkta bidrag – höjer kraven - Expressen
+- Tyskland lovar mer militärt stöd till Ukraina - SvD
+- 15 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
 - Statligt bolag föreslås konkurrera med Trafikverket – ska ge billigare och snabbare projekt - Dagens Nyheter
-- Så blir vädret på julafton i Stockholm - Mitt i
-- Nyfött barn dog på US - Corren
-- Entreprenören Jan Emanuel döms – filmade på amfibieregemente - Dagens Nyheter
-- Borgmästare: Nattlig drönarattack mot Moskva - GP
+- Två bilar i olycka på E18 utanför Kristinehamn – tre personer är avförda till sjukvården - SVT Nyheter
+- Där får du sannolikt en vit jul – enligt SMHI - Dagens Nyheter
+- Ung barnrättskämpe får årets SOL-stipendium - Örnsköldsviks kommun
+- Emma Bouvin: Terrorn slog till precis när ljuset skulle vinna över mörkret - Dagens Nyheter
+- Källa: USA:s krav på Ukraina att ge upp territorium kvarstår - Hufvudstadsbladet
 - En sorgens dag i Hongkong - Dagens Arena
 - Högerkandidat vann valet i Chile - SVT Nyheter
-- Vad handlar striderna mellan Thailand och Kambodja om? - Dagens Arena
-- Sänkt kommunalskatt nästa år – men inte i Karlskoga och Degerfors - KT-Kuriren
-- Då backar EU från förbud mot förbränningsmotorer - EFN.se
+- Lägre kommunalskatt 2026 – men inte för alla - Skattebetalarna
+- Stockholmsbörsen på grönt – Saab tappar - Placera.se
+- Då backar EU från förbud mot förbränningsmotorer - EFN
 - Wallenbergs svit hotad – nagelbitare väntar - SvD
-- Miljardköp pressar Sobi – ”handlar om långsiktig tillväxt” - Di
 - Apple tätar allvarliga sårbarheter – uppdatera snarast - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
 
@@ -38,14 +38,14 @@ _Updated: 2025-12-15 17:49_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
@@ -76,20 +76,20 @@ _Updated: 2025-12-15 17:49_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -146,19 +146,19 @@ _Updated: 2025-12-15 17:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- Lediga jobb - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
