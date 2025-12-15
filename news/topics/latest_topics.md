@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 01:40_
+_Updated: 2025-12-15 04:32_
 
 ## Top Stories
 
-- Rädslan ökar efter Bondi Beach - Dagens Arena
-- Presidentvalet i Chile – kommunisten Jeanette Jara erkänner sig besegrad - SVT Nyheter
-- 14 december 07.16, Sammanfattning natt, Norrbottens län - polisen.se
+- Terrordåd på Bondi Beach i Sydney – flera döda - GP
+- Zelenskyj: Betydande chans till överenskommelse - DI
+- 14 december 07.16, Sammanfattning natt, Norrbottens län - Polisen.se
 - Trafikolycka på E4 norr om Umeå - SVT Nyheter
+- Presidentvalet i Chile – kommunisten Jeanette Jara erkänner sig besegrad - SVT Nyheter
+- Avslöjar Putins okända passion: ”Han älskar det” - Expressen
+- 13 december 07.29, Sammanfattning natt, Västerbottens län - Polisen.se
 - Allt fler unga utsätts för människohandel i Sverige - Omni
-- Umeåfamiljen berättar: Befinner sig nära stridigheterna - Västerbottens-Kuriren
-- Gode man ställs inför rätta för grov trolöshet mot 95-årig kvinna - Dagens Nyheter
-- 13 december 07.29, Sammanfattning natt, Västerbottens län - polisen.se
-- Havssköldpaddor på västkusten - Västerbottens-Kuriren
-- Trafikolycka på E4 vid Gävle - Expressen
-- DN Direkt – Skolelever i bussolycka i Colombia – minst 16 döda - Dagens Nyheter
-- Zelenskyj vill frysa frontlinjen – söker USA:s stöd - Hufvudstadsbladet
+- Varför har unga män och kvinnor så olika politiska åsikter? - Dagens Arena
+- SMHI varnade för plötslig ishalka längs Norrlandskusten - SVT Nyheter
+- Skolelever i bussolycka i Colombia – minst 16 döda - Västerbottens-Kuriren
+- Så kan Ryssland slå till mot Nato – och varför Östersjön är i fokus - Expressen
 - Påven: Låt musiken vara en ”boning för själen” vid jul - Vatican News
-- En gripen efter skjutning på universitet i USA - Västerbottens-Kuriren
-- Experter: Därför ökar bostadspriserna nästa år - Dagens Nyheter
+- Maken kvar i Thailand när gränsen stängdes - Västerbottens-Kuriren
+- Priset för en veckas fjällsemester – 50 000 kronor: ”Blivit en klassfråga” - NWT
 - Vändningen: Liten risk för elbrist i vinter - Tidningen Näringslivet
-- Semesternotan för en vecka i fjällen: Runt 50000 kronor - Omni
-- Efter 88 år tvingas VW stänga fabrik - Västerbottens-Kuriren
-- Google släpper AI-verktyg i Chrome som gör om flikar till appar - PC för Alla
-- KRÖNIKA: Efter hisnande spelåret – här är bästa tv- och datorspelen 2025 - HD
+- Jättekonkursen växer – miljardären får inte en krona - DI
+- Larmet: Kaffet kan försvinna - Expressen
+- KRÖNIKA: Efter hisnande spelåret – här är bästa tv- och datorspelen 2025 - Sydsvenskan
+- TEST: 12 streaminghögtalare – budgetkapet bäst - Aftonbladet
 
 ## World News
 
@@ -40,10 +40,10 @@ _Updated: 2025-12-15 01:40_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - DAR GLOBAL AND THE TRUMP ORGANIZATION ANNOUNCE TWO GLOBAL FIRSTS: TRUMP INTERNATIONAL HOTEL MALDIVES AND THE WORLD'S FIRST TOKENIZED HOTEL DEVELOPMENT PROJECT (PR Newswire) - Aktiellt
-- Handelsbanken lanserar ny global indexfond - Cision News
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Handelsbanken lanserar ny global indexfond - Cision News
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
@@ -84,15 +84,15 @@ _Updated: 2025-12-15 01:40_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -103,6 +103,7 @@ _Updated: 2025-12-15 01:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -113,9 +114,8 @@ _Updated: 2025-12-15 01:40_
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
@@ -151,14 +151,14 @@ _Updated: 2025-12-15 01:40_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
