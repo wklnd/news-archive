@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 13:42_
+_Updated: 2025-12-15 15:22_
 
 ## Top Stories
 
+- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
+- Förvaltningsrätten stoppar vargjakt - SVT Nyheter
 - Masskjutning på Bondi Beach i Sydney: Detta vet vi - SVT Nyheter
-- Anmälan till Uppsala tingsrätt om förgiftning på Akademiska sjukhuset - Åklagarmyndigheten
-- 15 december 07.00, Sammanfattning natt, Västerbottens län - polisen.se
-- Förövarnas dolda offer: Anhöriga utan stöd - SvD
-- 15 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
-- Jan Emanuel dömd för olovlig fotografering vid Berga - Mitt i
-- Anställd på Ölandsgård häktad för djurplågeri - Barometern-OT
-- Julhälsningar från LRF i norr - LRF - Lantbrukarnas Riksförbund
-- Människohandeln blir allt mer digital - polisen.se
-- 14 december 08.32, Sammanfattning natt, Västernorrlands län - polisen.se
-- Analys: Ukraina går in i en avgörande vecka – tre viktiga frågor - Yle
+- Uppgifter: Kvinnan utsatte fel person på Akademiska - Expressen
+- Två häktas efter misstänkt macheteattack i Gröndal - Omni
+- Dimman ligger tät i fängslade uiguriske författarens originella roman - Dagens Nyheter
+- Infrastruktur- och bostadsminister Andreas Carlson tar emot utredning om effektivare organisering av statlig väg och järnväg - Regeringen.se
+- DN Direkt – Polisen utreder våldtäkt mot barn vid Malmökyrka - Dagens Nyheter
+- Spädbarn dog vid förlossning – sugklocka sattes in för sent - Västerviks-Tidningen
+- Jan Emanuel döms – tog bild på skyddsobjekt - Aftonbladet
+- Förväntningarna på fredsmötet trappas upp i Berlin - Dagens Nyheter
 - Borgmästare: Nattlig drönarattack mot Moskva - GP
 - Högerkandidat vann valet i Chile - SVT Nyheter
 - Ödesvecka för Ukraina: EU splittrat om miljardlån - Europaportalen
 - Lägre kommunalskatt 2026 – men inte för alla - Skattebetalarna
-- Byggföretagen: Konkurrens till Trafikverket kan starta fler infraprojekt - svenskbyggtidning -
-- Priset för en veckas fjällsemester under sportlovet - DI
-- Storbanken höjer bundna boräntorna - DI
+- 1,5 miljarder fat på lager – vad ska Kina med all olja till? - Dagens PS
+- Så blir bostadsmarknaden 2026 – enligt experterna - Ekonomifokus
+- Hur kan AI-bolagen tjäna pengar? - SvD
 - Arbeten i Lillängshamnen - Hammarö kommun
 - TEST: Årets vassaste tv-apparater – ”Klart bästa bilden” - Aftonbladet
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -38,14 +38,14 @@ _Updated: 2025-12-15 13:42_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
@@ -151,8 +151,8 @@ _Updated: 2025-12-15 13:42_
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Lediga jobb - Land Lantbruk
