@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 16:53_
+_Updated: 2025-12-15 17:49_
 
 ## Top Stories
 
-- Terrordådet på Bondi Beach & tomtens stereotypa maskulinitet – P3 Nyheter med Babs Drougge - Sveriges Radio
-- Förvaltningsrätten stoppar vargjakt 2026 - SVT Nyheter
+- Misstänkt för förgiftning på Akademiska släpps fri - UNT
+- Vargjakten stoppas i domstol - Sveriges Natur
+- Detta vet vi om masskjutningen i Sydney - Sydsvenskan
 - Maktskiftet i Ronneby stoppas – domstol river upp beslut - SVT Nyheter
 - Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
-- Uppgifter: Kvinnan utsatte fel person på Akademiska - Expressen
-- Förlängd igångsättningstid för miljöfarlig verksamhet - Länsstyrelsen
-- Infrastruktur- och bostadsminister Andreas Carlson tar emot utredning om effektivare organisering av statlig väg och järnväg - Regeringen.se
+- Förväntningarna på fredsmötet trappas upp i Berlin - Dagens Nyheter
+- Statligt bolag föreslås konkurrera med Trafikverket – ska ge billigare och snabbare projekt - Dagens Nyheter
+- Så blir vädret på julafton i Stockholm - Mitt i
 - Nyfött barn dog på US - Corren
 - Entreprenören Jan Emanuel döms – filmade på amfibieregemente - Dagens Nyheter
-- 15 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
-- Förväntningarna på fredsmötet trappas upp i Berlin - Dagens Nyheter
 - Borgmästare: Nattlig drönarattack mot Moskva - GP
-- Marianne Björklund: Domen mot Lai ett dråpslag för yttrandefriheten - Dagens Nyheter
-- Ödesvecka för Ukraina: EU splittrat om miljardlån - Europaportalen
-- Lägre kommunalskatt 2026 – men inte för alla - Skattebetalarna
+- En sorgens dag i Hongkong - Dagens Arena
+- Högerkandidat vann valet i Chile - SVT Nyheter
+- Vad handlar striderna mellan Thailand och Kambodja om? - Dagens Arena
+- Sänkt kommunalskatt nästa år – men inte i Karlskoga och Degerfors - KT-Kuriren
+- Då backar EU från förbud mot förbränningsmotorer - EFN.se
 - Wallenbergs svit hotad – nagelbitare väntar - SvD
-- Så blir bostadsmarknaden 2026 – enligt experterna - Ekonomifokus
-- Miljardköp pressar Sobi – ”handlar om långsiktig tillväxt” - DI
+- Miljardköp pressar Sobi – ”handlar om långsiktig tillväxt” - Di
 - Apple tätar allvarliga sårbarheter – uppdatera snarast - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
 
@@ -38,14 +38,14 @@ _Updated: 2025-12-15 16:53_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC-ankare slipper fängelse för barnpornografibrott - omni.se
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - omni.se
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
@@ -54,7 +54,6 @@ _Updated: 2025-12-15 16:53_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
@@ -62,37 +61,38 @@ _Updated: 2025-12-15 16:53_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
-- The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- SensoDetect achieves AI breakthrough, unlocking scalable market leadership in neuropsychiatric diagnostics - Placera.se
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -104,7 +104,6 @@ _Updated: 2025-12-15 16:53_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-12-15 16:53_
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2025-12-15 16:53_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Två nya artiklar i Science: Anatolisk vardag, kvinnliga släktlinjer och omkringresande idéer - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
