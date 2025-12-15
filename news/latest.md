@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-15 23:50_
+_Updated: 2025-12-16 00:51_
 
-- Brown University shooting victims identified as Ella Cook, Mukhammad Aziz Umurzokov - CBS News
-- 15 killed in mass shooting in Sydney. And, Rob Reiner and his wife found dead - NPR
-- Federal authorities arrest 4 suspected extremists in New Year's Eve bombing plot across Southern California - PBS
-- DESIGNATING FENTANYL AS A WEAPON OF MASS DESTRUCTION - The White House (.gov)
+- Person of interest in Brown University shooting being released without charges: Mayor - ABC News
+- Australia announces strict new gun laws. Here's how it can act so swiftly - NPR
 - Brian Walshe murder trial: Jury finds husband guilty of killing and dismembering wife - ABC News
-- ACA shoppers face sticker shock as Congress dithers on health care : Shots - Health News - NPR
+- DESIGNATING FENTANYL AS A WEAPON OF MASS DESTRUCTION - The White House (.gov)
+- Federal authorities arrest 4 suspected extremists in New Year's Eve bombing plot across Southern California - PBS
 - Three Americans killed by IS gunman in Syria, US military says - BBC
+- Federal trial to begin for Milwaukee judge accused of helping undocumented man evade arrest - ABC News
 - Ukraine and U.S. divided over territory after intense negotiations - Axios
-- Trial to Start for Judge Accused of Helping Undocumented Immigrant Evade Agents - The New York Times
+- ACA shoppers face sticker shock as Congress dithers on health care : Shots - Health News - NPR
 - Trump admin launches US Tech Force to recruit temporary workers after shedding thousands this year - Nextgov/FCW
-- EU imposes sanctions on oil traders with links to Russia's shipping network - Reuters
-- Chile’s conservative landslide gives Trump new Latin America ally - Financial Times
-- Ukraine claims strike on Russian submarine with underwater drones - Financial Times
-- Thailand launches new offensive as Cambodia halts all border crossings - Al Jazeera
+- Hong Kong convicts Jimmy Lai in landmark national security trial - Financial Times
+- Brussels imposes sanctions on oil trader Murtaza Lakhani over Russia allegations - Financial Times
+- Chile’s new far-right head is latest Latin American leader to ride hardline wave to power - The Guardian
+- In a first, Ukraine says it struck Russian submarine in Black Sea port with underwater drones - CNN
+- Ford to record $19.5 billion in special charges related to EV pullback - CNBC
 - Roomba maker files for bankruptcy, weighed down by debt and tariffs - NPR
-- Ford Will Take $19.5 Billion Hit as It Rolls Back E.V. Plans - The New York Times
-- Powerball jackpot climbs to $1.1 billion just 10 days before Christmas - ABC News
-- Market rotation, the Fed's Kevins, Netflix's 'Star Wars' moment and more in Morning Squawk - CNBC
-- In 2025, tech giants decided smart glasses are the next big thing - Engadget
+- SpaceX Tender Offer Pushes Musk’s Net Worth To Record $677 Billion - Forbes
+- What this week’s jobs data could reveal about the US economy - CNN
 - Apple releases first iOS 26.3 beta for iPhone - 9to5Mac
+- In 2025, tech giants decided smart glasses are the next big thing - Engadget
