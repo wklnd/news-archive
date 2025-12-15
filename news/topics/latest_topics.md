@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 07:48_
+_Updated: 2025-12-15 08:57_
 
 ## Top Stories
 
-- Far och son bakom dådet i Sydney - Dagens Nyheter
-- ”Sverige får inte svika Gui Minhai” - SvD
-- Stöd för personer som utsätts för hedersrelaterat våld och förtryck ska finnas i hela landet - Regeringen.se
+- Pappa och son låg bakom terrorattacken i Sydney - Omni
+- 15 december 07.00, Sammanfattning natt, Västerbottens län - Polisen.se
+- Stjärnregissören Rob Reiner och Michele Reiner hittade döda - SVT Nyheter
 - Analys: Ukraina går in i en avgörande vecka – tre viktiga frågor - Yle
-- 14 december 07.16, Sammanfattning natt, Norrbottens län - Polisen.se
-- Presidentvalet i Chile – kommunisten Jeanette Jara erkänner sig besegrad - SVT Nyheter
-- 13 december 07.29, Sammanfattning natt, Västerbottens län - Polisen.se
+- Människohandeln blir allt mer digital - Polisen.se
+- Stöd för personer som utsätts för hedersrelaterat våld och förtryck ska finnas i hela landet - Regeringen.se
+- 14 december 08.32, Sammanfattning natt, Västernorrlands län - Polisen.se
 - Naturjulkalendern 2025: Mats Wilhelm - Natursidan
 - Informationssäkerhetsspecialist - Sveriges Domstolar
-- Kommunfullmäktige sammanträder 18 december - Tyresö kommun
-- Skolelever i bussolycka i Colombia – minst 16 döda - Västerbottens-Kuriren
+- 14 december 07.16, Sammanfattning natt, Norrbottens län - Polisen.se
+- Kast mot seger i Chiles polariserade val: ”Vänsterns tid är över” - Dagens Nyheter
 - Politiska fången Jimmy Lai döms i Hongkong - Västerbottens-Kuriren
-- En gripen efter skjutning på universitet i USA - Västerbottens-Kuriren
-- Så kan Ryssland slå till mot Nato – och varför Östersjön är i fokus - Expressen
+- Misstänkt ska släppas efter universitetsskjutning - Aftonbladet
+- Här slår polisen till mot bedragarligan - SVT Nyheter
+- Hur kan AI-bolagen tjäna pengar? - SvD
+- Storbanken höjer bundna boräntorna - DI
+- VW-fabrik går i graven – första stängningen på 88 år - Omni
 - Vändningen: Liten risk för elbrist i vinter - Tidningen Näringslivet
-- Underhåll bakom SEB-strul – konton försvann - Västerbottens-Kuriren
-- Vägarbetena skakade sönder huset i Oxie: ”VA Syd vägrar komma ut och titta” - Sydsvenskan
-- INSÄNDARE: Våga prata om effekterna! - Kristianstadsbladet
 - Minnesord om Margareta Hållberg, Umeå - Västerbottens-Kuriren
-- KRÖNIKA: Efter hisnande spelåret – här är bästa tv- och datorspelen 2025 - HD
+- Läcka pekar ut nyheter i IOS 26.4 och ger ledtrådar om IOS 27 och IOS 28 - Macworld.se
 
 ## World News
 
@@ -62,14 +62,14 @@ _Updated: 2025-12-15 07:48_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- SensoDetect achieves AI breakthrough, unlocking scalable market leadership in neuropsychiatric diagnostics - Placera.se
 
 ## Business
 
@@ -84,14 +84,14 @@ _Updated: 2025-12-15 07:48_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
@@ -99,7 +99,7 @@ _Updated: 2025-12-15 07:48_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
@@ -109,7 +109,7 @@ _Updated: 2025-12-15 07:48_
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
@@ -142,18 +142,16 @@ _Updated: 2025-12-15 07:48_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
@@ -161,4 +159,6 @@ _Updated: 2025-12-15 07:48_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
