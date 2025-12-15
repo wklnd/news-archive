@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-15 15:22_
+_Updated: 2025-12-15 15:57_
 
 ## Top Stories
 
-- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
-- Förvaltningsrätten stoppar vargjakt - SVT Nyheter
+- Förvaltningsrätten stoppar vargjakt 2026 - SVT Nyheter
 - Masskjutning på Bondi Beach i Sydney: Detta vet vi - SVT Nyheter
-- Uppgifter: Kvinnan utsatte fel person på Akademiska - Expressen
-- Två häktas efter misstänkt macheteattack i Gröndal - Omni
-- Dimman ligger tät i fängslade uiguriske författarens originella roman - Dagens Nyheter
-- Infrastruktur- och bostadsminister Andreas Carlson tar emot utredning om effektivare organisering av statlig väg och järnväg - Regeringen.se
-- DN Direkt – Polisen utreder våldtäkt mot barn vid Malmökyrka - Dagens Nyheter
-- Spädbarn dog vid förlossning – sugklocka sattes in för sent - Västerviks-Tidningen
-- Jan Emanuel döms – tog bild på skyddsobjekt - Aftonbladet
+- Vad handlar striderna mellan Thailand och Kambodja om? - Dagens Arena
 - Förväntningarna på fredsmötet trappas upp i Berlin - Dagens Nyheter
-- Borgmästare: Nattlig drönarattack mot Moskva - GP
+- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
+- Två häktas efter misstänkt macheteattack i Gröndal - Omni
+- Infrastruktur- och bostadsminister Andreas Carlson tar emot utredning om effektivare organisering av statlig väg och järnväg - Regeringen.se
+- Spädbarn dog vid förlossning – sugklocka sattes in för sent - Västerviks-Tidningen
+- Larm om våldtäkt vid kyrka i Malmö - Västerbottens-Kuriren
+- DN Direkt – Jan Emanuel döms för olovlig avbildning av skyddsobjekt - Dagens Nyheter
 - Högerkandidat vann valet i Chile - SVT Nyheter
+- Analys: Ukraina går in i en avgörande vecka – tre viktiga frågor - Yle
+- Rekordmånga avrättningar i Saudiarabien - GP
 - Ödesvecka för Ukraina: EU splittrat om miljardlån - Europaportalen
 - Lägre kommunalskatt 2026 – men inte för alla - Skattebetalarna
-- 1,5 miljarder fat på lager – vad ska Kina med all olja till? - Dagens PS
+- Wallenbergs svit hotad – nagelbitare väntar - SvD
 - Så blir bostadsmarknaden 2026 – enligt experterna - Ekonomifokus
-- Hur kan AI-bolagen tjäna pengar? - SvD
-- Arbeten i Lillängshamnen - Hammarö kommun
-- TEST: Årets vassaste tv-apparater – ”Klart bästa bilden” - Aftonbladet
+- 1,5 miljarder fat på lager – vad ska Kina med all olja till? - Dagens PS
+- Android får AI-tolk direkt i hörlurarna - Computer Sweden
+- Apple tätar allvarliga sårbarheter – uppdatera snarast - Computer Sweden
 
 ## World News
 
@@ -39,11 +39,11 @@ _Updated: 2025-12-15 15:22_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
@@ -76,23 +76,23 @@ _Updated: 2025-12-15 15:22_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -103,6 +103,7 @@ _Updated: 2025-12-15 15:22_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -113,7 +114,6 @@ _Updated: 2025-12-15 15:22_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-15 15:22_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- Lediga jobb - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
