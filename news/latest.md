@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-16 19:00_
+_Updated: 2025-12-16 19:53_
 
-- FBI Director Kash Patel, Eager for Spotlight, Casts Aside Caution in Social Media Posts - The New York Times
-- Australia announces strict new gun laws. Here's how it can act so swiftly - NPR
-- Fact Sheet: President Donald J. Trump Designates Fentanyl as a Weapon of Mass Destruction - The White House (.gov)
-- Trump defends his criticism of killed Hollywood director Rob Reiner - BBC
+- Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
+- DESIGNATING FENTANYL AS A WEAPON OF MASS DESTRUCTION - The White House (.gov)
 - Joint statement of European Leaders from the meeting in Berlin - Government.se
-- US unemployment rate hits four-year high of 4.6% - Financial Times
-- Trump sues BBC for $10 billion, accusing it of defamation over editing of president's Jan. 6 speech - AP News
-- White House weighs risks of a health care fight as ACA subsidies set to expire - Politico
+- Congratulations to Chile's President-Elect Kast - U.S. Department of State (.gov)
+- ACA shoppers face sticker shock as Congress dithers on health care : Shots - Health News - NPR
+- U.S. Army names 2 Iowa National Guard members killed in attack in Syria - PBS
 - US military says eight killed in strikes on alleged drug vessels - BBC
-- Flash flood warning, GO NOW evacuation issued after White River levee breach in Pacific - KOMO
-- Rob Reiner's son Nick arrested. And, Brown University shooting suspect image released - NPR
-- UK to review foreign interference in politics after ex-Reform member's Russia bribery case - Reuters
-- Trump urges Xi to free Hong Kong's Jimmy Lai - BBC
+- Hegseth and Rubio are expected back on Capitol Hill as questions mount over boat strikes - ABC News
+- Xcel likely to shut off power to many Front Range communities at noon Wednesday due to dry conditions and high winds - Colorado Public Radio
+- Levee failure on White River prompts 'Go Now' evacuations in Pacific - king5.com
+- Minister orders probe into foreign financial interference in UK politics - BBC
+- As Israeli Settlements Get Bigger, Palestinian Hikes Grow Shorter - The New York Times
 - Liverpool parade crash: Paul Doyle sentenced to 21 years and six months in jail - ESPN
-- Stocks fall after delayed jobs figures paint weak picture of economy: Live updates - CNBC
+- Ukraine claims strike on Russian submarine with underwater drones - Financial Times
 - OPM seeks early-career talent for ‘Tech Force’ federal hiring initiative - Federal News Network
-- The Kraft Heinz Company Names Steve Cahillane Chief Executive Officer - Kraft Heinz
+- The Warner Bros. Curse : Planet Money - NPR
 - Chain restaurants are hit by tariffs and inflation. How do they control costs? - NPR
+- FDA warns Target, Walmart for selling baby formula linked to botulism - The Washington Post
 - A new Micro RGB TV is coming from LG - The Verge
-- iOS 26.3 beta reveals how Apple plans to handle EU-required notification forwarding - 9to5Mac
+- 8 Rare Vintage Tech Products Worth Thousands That Might Be Hiding In Your Attic - bgr.com
