@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-16 17:45_
+_Updated: 2025-12-16 18:55_
 
 ## Top Stories
 
 - Man skjuten i bil – tolvåring misstänkt - Expressen
-- ”Låtsasjournaler” och otillåtna inköp på rättspsyk i Växjö - SVT Nyheter
-- Nytt hot mot Guldkroksskolan i Hjo – minderårig misstänkt - SVT Nyheter
-- Ulla-Lena fick adressen kapad – stämmer staten - SvD
-- Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete - Regeringen.se
-- “Det är sällsynt arrogant att sätta 13-åringar i fängelse” - Dagens Arena
+- Teodorescu Måwe: ”Judehat normaliseras” - SvD
+- Sveriges utsläpp ökar – svårt nå klimatmål - SVT Nyheter
+- SD: Fängsla eller utvisa alla gängmedlemmar - Omni
+- Kliniken hittade på falska identiteter på högriskpatienter - Dagens Nyheter
+- Båda sidor föredrar fortsatt konflikt - SvD
 - Sköt offret med hagelbössa – 67-årig gotlänning döms för mord - SVT Nyheter
-- Sveriges klimatutsläpp ökade kraftigt under 2024 - Europaportalen
-- SD vill utvisa 3 000 gängkriminella - GP
+- Spionanklagad svensk fängslad i Iran - SVT Nyheter
 - Förvaltningsrätten i Luleå upphäver alla överklagade beslut om licensjakt efter varg 2026 - Sveriges Domstolar
-- Polisen: Terrordådet i Sydney inspirerat av IS - GP
+- Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete - Regeringen.se
 - EU:s östra försvar ska tas ”till nästa nivå” - GP
-- Anna-Lena Laurén: Ukrainas situation blir allt farligare – och mötena leder inte någonvart - Dagens Nyheter
-- Larmet: Fler konflikter sedan andra världskriget - Tidningen Näringslivet
-- Källor: EU slopar förbud mot förbränningsmotorer och lättar på utsläppsregler - BN - Placera.se
+- Ukraina lovas Nato-liknande skydd – men territoriefrågan olöst - Europaportalen
+- UPPDATERAS: Extrema ryska förluster igår, inklusive ubåt – Pokrovsk håller - cornucopia.se
+- DN Direkt – 21 års fängelse för Liverpooldåd - Dagens Nyheter
+- Nu är det klart: EU-kommissionen mjukar upp förbudet mot bensin- och dieselbilar - Yle
 - EU-stöd på 8,5 miljoner euro till uppsagda Northvolt-anställda i Sverige - European Parliament
-- Bensinpriset det lägsta sedan 2021 - Dagens Nyheter
-- LEDARE: Är det här sista veckan med Stegra? - Kuriren
-- Den här lilla svenska lådan gör dina gamla högtalare smarta - NyTeknik
+- Nya rykten om Stegra – ägare förnekar kris - SvD
+- Försenade jobbsiffror släpps: ”Börsen är extra känslig” - EFN.se
 - Oroande fyndet om domedagsglaciären - Expressen
+- Disney Plus finns nu på Metas Quest-headset - m3.se
 
 ## World News
 
