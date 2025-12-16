@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-16 06:55_
+_Updated: 2025-12-16 07:46_
 
 ## Top Stories
 
-- Långa köer på E45 norr om Brålanda efter olycka – lastbil blockerar vägen - SVT Nyheter
+- Ulla-Lena fick adressen kapad – stämmer staten - SvD
+- WWF: Undvik svenskodlad regnbåge – men grönt ljus för viss torsk - Världsnaturfonden WWF
 - Nya amerikanska attacker mot fartyg – åtta döda - SVT Nyheter
+- Havsörn, utter och långbensgroda lämnar rödlistan - tidningensyre.se
 - Förvaltningsrätten stoppar vargjakt – beslutet oenigt - GP
 - Sju värmländska bönder åker till Bryssel på torsdag för att demonstrera för minskat regelkrångel och ökad matberedskap - Via TT
 - Misstänkt för förgiftning på Akademiska släpps fri - UNT
-- Ukraina: Rysk ubåt utslagen med drönare - GP
-- Ulla-Lena fick adressen kapad – stämmer staten - SvD
-- 15 december 20.18, Trafikolycka, vilt, Norrbottens län - Polisen.se
-- DN Direkt – En anhållen för mordförsök i Eskilstuna - Dagens Nyheter
-- Lagförslag om bidragstak klart - 150 000 berörs - GP
+- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
+- 15 december 20.18, Trafikolycka, vilt, Norrbottens län - polisen.se
+- 15 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
 - Polisen: Terrordådet i Sydney inspirerat av IS - GP
-- Anna-Lena Laurén: Ukrainas situation blir allt farligare – och mötena leder inte någonvart - Dagens Nyheter
 - Trump: Ska lämna in stämningsansökan mot BBC - Västerbottens-Kuriren
+- Anna-Lena Laurén: Ukrainas situation blir allt farligare – och mötena leder inte någonvart - Dagens Nyheter
 - Julgranen och julkrubban invigda på Petersplatsen - Vatican News
+- Hemnets nya modell – vill sänka tröskeln - SvD
 - AI-jättar förlorare på röda USA-börser - DI
-- Storägare i Intellego delges misstanke om grovt bedrägeri - Affärsvärlden
-- Avgift för platssamverkan kontraproduktivt för att skapa tryggare områden - Fastighetsägarna
-- Infrastruktur- och bostadsminister Andreas Carlson tar emot utredning om effektivare organisering av statlig väg och järnväg - Regeringen.se
-- Spelet Codex Mortis är helt skapat med AI. Vampire Survivors-liknande spel. - feber.se
-- Här är ritningarna – så blir nya arenan: ”Grytupplevelse” - Barometern-OT
+- Svenska kraftnät storsatsar - ger Sverige kraft att växa - Svenska kraftnät
+- Almegas tjänsteindikator för fjärde kvartalet 2025 - Almega
+- Oroande fyndet om domedagsglaciären - Expressen
+- Tusentals glaciärer väntas försvinna varje år - SvD
 
 ## World News
 
+- Spotify faller efter global driftstörning - Placera.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Widespread mortality of coral reefs - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -43,9 +43,9 @@ _Updated: 2025-12-16 06:55_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
@@ -54,21 +54,21 @@ _Updated: 2025-12-16 06:55_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
-- The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- SensoDetect achieves AI breakthrough, unlocking scalable market leadership in neuropsychiatric diagnostics - Placera.se
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 
 ## Business
@@ -81,18 +81,18 @@ _Updated: 2025-12-16 06:55_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,29 +101,29 @@ _Updated: 2025-12-16 06:55_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Laerdal Medical AB lanserar SimX: Banbrytande VR-lösning för medicinsk simulering - it-halsa.se
 
 ## Science
 
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -133,12 +133,12 @@ _Updated: 2025-12-16 06:55_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 
 ## Jordbruk
 
@@ -147,14 +147,13 @@ _Updated: 2025-12-16 06:55_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2025-12-16 06:55_
 - Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
