@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-16 15:12_
+_Updated: 2025-12-16 15:55_
 
 ## Top Stories
 
-- Aviciis tidigare manager stämmer Avicii AB - SVT Nyheter
+- ”Låtsasjournaler” och otillåtna inköp på rättspsyk i Växjö - SVT Nyheter
 - Nytt hot mot Guldkroksskolan i Hjo – minderårig misstänkt - SVT Nyheter
-- Här är årets vinterpratare i P1 - SVT Nyheter
-- Ukraina: Rysk ubåt utslagen med drönare - GP
+- Centerpartiet: ”Att vargjakten stoppas är förödande” - Svensk Jakt
 - Julgransflygning idag – nya tider - SVT Nyheter
+- Ukraina: Rysk ubåt utslagen med drönare - GP
 - Svenska utsläppen ökar med sju procent – en av de högsta på 30 år - Omni
-- SD: Gängkriminella ska fängslas eller utvisas - SvD
+- SD: Gängkriminella ska dömas till livstid - SvD
 - Sköt offret med hagelbössa – 67-årig gotlänning döms för mord - SVT Nyheter
 - Ung man sköts ihjäl i bil - 8 Sidor
-- Slutrapport: Inga skäl att utreda Estonia på nytt - SVT Nyheter
+- Aktivitetskrav för mottagare av försörjningsstöd - Regeringen.se
 - Johan Croneman: Var det rätt att publicera klippet på mannen som attackerar Bondi Beach-skytten? - Dagens Nyheter
-- Ukraina lovas Nato-liknande skydd – men territoriefrågan olöst - Europaportalen
+- Kristersson: USA-engagemang för säkerhetsgarantier - GP
 - Frankrike kräver att handelsavtal skjuts upp - GP
-- Georgien: Ett år av konstanta protester - Utrikespolitiska institutet
-- Få jobbar mer trots höjd pensionsålder - Senioren
+- Finland: Ryssland kommer skifta styrkorna till Natos gränser vid avtal - Omni
 - Nu är återhämtningen i svensk ekonomi i gång - Regeringen.se
-- ”Klimatmålen måste vara realistiska” - SvD
 - Bensinpriset det lägsta sedan 2021 - Dagens Nyheter
+- Plötsligt fall i Volvo Cars under investerarsamtal - DI
+- NED MED OMVÄRLDEN, SAAB OCH SKF PRESSAS, OMXS30 -0,4% - Placera.se
 - Den här lilla svenska lådan gör dina gamla högtalare smarta - NyTeknik
 - Oroande fyndet om domedagsglaciären - Expressen
 
@@ -41,7 +41,7 @@ _Updated: 2025-12-16 15:12_
 - UNI Global uttrycker sitt deltagande och sin solidaritet efter attacken på Bondi Beach - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
