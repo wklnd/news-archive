@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-16 01:41_
+_Updated: 2025-12-16 04:28_
 
 ## Top Stories
 
-- Utökat tyskt stöd till Ukraina - Expressen
-- Ukraina: Rysk ubåt utslagen med drönare - GP
 - Långa köer på E45 norr om Brålanda efter olycka – lastbil blockerar vägen - SVT Nyheter
-- Jägare kritiska efter stopp för vargjakt – ser risk för tjuvjakt: ”Ska inte finnas överallt” - SVT Nyheter
-- Misstänkta giftkvinnan släpps på fri fot: ”Glad och lättad” - Aftonbladet
-- Sju värmländska bönder åker till Bryssel på torsdag för att demonstrera för minskat regelkrångel och ökad matberedskap - Via TT
-- Misstänkt mordförsök i Eskilstuna - Expressen
-- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
-- 15 december 20.18, Trafikolycka, vilt, Norrbottens län - polisen.se
-- Ung barnrättskämpe får årets SOL-stipendium - Örnsköldsviks kommun
-- Masskjutning på Bondi beach påverkar inte judiska församlingens firande - SVT Nyheter
-- Ödesvecka för Ukraina: EU splittrat om miljardlån - Europaportalen
+- 15 december 20.31, Trafikolycka, vilt, Västerbottens län - polisen.se
+- Lagförslag om bidragstak klart - 150 000 berörs - GP
+- 15 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
 - Julgranen och julkrubban invigda på Petersplatsen - Vatican News
+- Varning för plötslig ishalka - Östersunds-Posten
+- Ung barnrättskämpe får årets SOL-stipendium - Örnsköldsviks kommun
+- Stöd för personer som utsätts för hedersrelaterat våld och förtryck ska finnas i hela landet - Regeringen.se
+- Har arbetslinjen blivit en fattigdomslinje? - Akademikerförbundet SSR
+- 15 december 06.48, Trafikolycka, Mellerud - polisen.se
+- Ukraina: Rysk ubåt utslagen med drönare - Aftonbladet
+- Högerkandidat vann valet i Chile - SVT Nyheter
+- Ödesvecka för Ukraina: EU splittrat om miljardlån - Europaportalen
 - Trump klassar fentanyl som ”massförstörelsevapen” - Aftonbladet
-- Trots hög inflation– oförändrad i skatt i Luleå i 16 år - Kuriren
+- Så kan din värmepump hota hela elnätet - Dagens Nyheter
+- Wallenbergs svit hotad – nagelbitare väntar - SvD
+- Efter 25 år – nu kan EU:s jätteavtal godkännas - GP
 - ”Tuttifrutti”-faktorn ger rusning till Tesla - SvD
-- AVSLUTADE HANDELN PÅ MINUS, S&P 500 -0,2% - Placera.se
-- Intellegoledamoten Johan Möllerström delgiven misstanke om brott - DI
-- Spelet Codex Mortis är helt skapat med AI. Vampire Survivors-liknande spel. - feber.se
-- Techprylarna som borde ligga under allas julgran - Aftonbladet
+- Bugg i Ios missfärgar bilder - mobil.se
+- Är detta ett av 2026 års största spel? “Halo”-skaparna gör comeback i vår - MovieZine.se
 
 ## World News
 
@@ -87,12 +87,12 @@ _Updated: 2025-12-16 01:41_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-16 01:41_
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Två nya artiklar i Science: Anatolisk vardag, kvinnliga släktlinjer och omkringresande idéer - Stockholms universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -146,7 +146,6 @@ _Updated: 2025-12-16 01:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
@@ -154,9 +153,10 @@ _Updated: 2025-12-16 01:41_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
