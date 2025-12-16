@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-16 20:59_
+_Updated: 2025-12-16 21:48_
 
-- ‘It’s terrifying, but it’s not surprising’: a Brown University student on surviving her second school shooting - The Guardian
-- New report finds the Arctic continues to warm faster than the planet as a whole - NPR
+- White House chief of staff Susie Wiles says Trump 'will go for it' when there's an 'opportunity' for retribution - NBC News
+- Removal of Uzbekistanis from the United States - U.S. Embassy in Uzbekistan (.gov)
 - Press conference - Sydney - pm.gov.au
 - ACA shoppers face sticker shock as Congress dithers on health care : Shots - Health News - NPR
 - Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
-- Michelle Obama Says She and Barack Were Supposed to See Rob and Michele Reiner the Night They Were Found Dead, Shades Trump’s Post: ‘They Are Not Deranged or Crazed’ - Variety
-- White House Chief Of Staff Susie Wiles Tells Vanity Fair That Donald Trump Has “An Alcoholic’s Personality,” Refers To JD Vance As “Conspiracy Theorist” - Deadline
-- US military says eight killed in strikes on alleged drug vessels - BBC
+- New report finds the Arctic continues to warm faster than the planet as a whole - NPR
 - Public won't see Venezuela second strike video: Hegseth - Axios
+- US military says eight killed in strikes on alleged drug vessels - BBC
+- Zelenskyy says no consensus reached on territory after US-Ukraine peace talks - ABC News
 - Xcel likely to shut off power to many Front Range communities at noon Wednesday due to dry conditions and high winds - Colorado Public Radio
 - Rob Reiner's son Nick arrested. And, Brown University shooting suspect image released - NPR
-- As Israeli Settlements Get Bigger, Palestinian Hikes Grow Shorter - The New York Times
-- Woman's phone found over 2 years after she disappeared in Australian wilderness - CBS News
-- Trump urges Xi to free Hong Kong's Jimmy Lai - BBC
-- Payrolls rose by 64,000 in November after falling by 105,000 in October, delayed jobs numbers show - CNBC
-- Ford's $19.5 billion EV writedown signals tough road ahead for legacy carmakers - Reuters
+- Jimmy Lai case shows how China is rewriting Hong Kong’s history - The Washington Post
+- Liverpool parade crash: Paul Doyle sentenced to 21 years and six months in jail - ESPN
+- Scoop: White House scolded Netanyahu for violating Gaza ceasefire with strike - Axios
+- US jobs report shows rise in unemployment - BBC
 - OPM seeks early-career talent for ‘Tech Force’ federal hiring initiative - Federal News Network
-- Kraft Heinz Picks New CEO Ahead of Split - The Wall Street Journal
+- Stocks fall after delayed jobs figures paint weak picture of economy: Live updates - CNBC
+- Ford's $19.5 billion EV writedown signals tough road ahead for legacy carmakers - Reuters
+- Adobe Firefly now supports prompt-based video editing, adds more third-party models - TechCrunch
 - Warning: Apple’s iOS 26.2 Update Is Quietly Altering A Key iPhone Feature - Forbes
-- A new Micro RGB TV is coming from LG - The Verge
