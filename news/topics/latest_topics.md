@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-16 21:40_
+_Updated: 2025-12-16 22:46_
 
 ## Top Stories
 
-- Teodorescu Måwe: ”Judehat normaliseras” - SvD
-- Filipp, 18, ska ut – mamma kvar i Sverige med obotlig bröstcancer - Aftonbladet
-- Man skjuten i bil – tolvåring misstänkt - Expressen
+- Tal av minister för civilt försvar Carl-Oskar Bohlin vid chanukkafirande i Stockholm - Regeringen.se
+- Grova attacken mot Trump – av egna toppchefen - Expressen
+- Lisa, 27, fick viktmedicin – dog på sjukhuset - Aftonbladet
 - Okända skrev sig på Ulla-Lenas sommarstuga – nu stämmer hon Skatteverket - Dagens Nyheter
 - Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete - Regeringen.se
-- Sveriges utsläpp ökar – svårt nå klimatmål - SVT Nyheter
+- Uppgifter: 12-årig pojke misstänks för mord i Oxie - SVT Nyheter
 - Slopad licensjakt på varg kan ge ökad tjuvjakt: ”Uppiskat motstånd” - NWT
+- Ljusning för skogen – men gapet till EU:s klimatmål kvarstår - Dagens Nyheter
 - Remiss av promemorian Kriminalvårdens skolverksamhet för barn och unga - Regeringen.se
-- Inga skäl att utreda Estonia igen - SVT Nyheter
-- Svensk fängslad i Iran – anklagas för spioneri - Omni
-- Björn af Kleen: Iskvinnan bakom Trump snackar - Dagens Nyheter
+- Fastslaget: Därför sjönk Estonia - Hufvudstadsbladet
 - Estland redo skicka trupp till Ukraina – andra tvekar - Hufvudstadsbladet
-- UPPDATERAS: Extrema ryska förluster igår, inklusive ubåt – Pokrovsk håller - cornucopia.se
+- Nya amerikanska attacker mot fartyg i Stilla havet – åtta döda - SVT Nyheter
+- Ukraina hävdar att de sänkt rysk ubåt - Dagens Nyheter
 - Ukraina lovas Nato-liknande skydd – men territoriefrågan olöst - Europaportalen
 - Nu är det klart: EU-kommissionen mjukar upp förbudet mot bensin- och dieselbilar - Yle
 - Nya rykten om Stegra – ägare förnekar kris - SvD
-- Små rörelser på Wall Street efter jobbsiffror - DI
 - Varför så krångligt? Experten varnar för lagen om framtidsfullmakter - Expressen
+- Försenade jobbsiffror släpps: ”Börsen är extra känslig” - EFN
 - Köp burgare & bärs med redaktionen – auktion till onsdag lunch! - FZ.se
-- Oroande fyndet om domedagsglaciären - Expressen
+- RECENSION: Snyggaste spelet som släppts till Nintendo - Jönköpings-Posten
 
 ## World News
 
@@ -63,11 +63,11 @@ _Updated: 2025-12-16 21:40_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- The Netum AI ACE platform brings artificial intelligence into a natural part of organisations’ everyday life - Placera.se
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Plug and Play Expands to New York City to Accelerate AI and Deeptech Innovation Across Key Industries - Aktiellt
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 
@@ -82,15 +82,15 @@ _Updated: 2025-12-16 21:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
@@ -101,20 +101,20 @@ _Updated: 2025-12-16 21:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -148,17 +148,17 @@ _Updated: 2025-12-16 21:40_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
