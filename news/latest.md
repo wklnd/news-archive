@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-16 15:58_
+_Updated: 2025-12-16 16:56_
 
-- Bondi Beach gunmen appear inspired by Islamic State, authorities say - The Washington Post
-- Removal of Uzbekistanis from the United States - U.S. Embassy in Uzbekistan (.gov)
-- Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
-- Republicans are divided on Afghan immigrant policy after the National Guard shooting - NPR
+- FBI Director Kash Patel, Eager for Spotlight, Casts Aside Caution in Social Media Posts - The New York Times
 - Fact Sheet: President Donald J. Trump Designates Fentanyl as a Weapon of Mass Destruction - The White House (.gov)
-- ACA shoppers face sticker shock as Congress dithers on health care : Shots - Health News - NPR
-- European leaders commit to assisting Ukraine in future Russian attack - Euronews.com
-- US military says eight killed in strikes on alleged drug vessels - BBC
-- Flash flood warning, GO NOW evacuation issued after White River levee breach in Pacific - KOMO
+- "Quite a buffet": U.S. ready to seize more tankers with Venezuelan oil - Axios
+- Republicans are divided on Afghan immigrant policy after the National Guard shooting - NPR
+- Joint statement of European Leaders from the meeting in Berlin - Government.se
+- U.S. Army names 2 Iowa National Guard members killed in attack in Syria - PBS
+- Federal trial to begin for Milwaukee judge accused of helping undocumented man evade arrest - ABC News
 - What the divides within the Maga base mean for Trump - BBC
-- The rise and fall of Jimmy Lai, whose trajectory mirrored that of Hong Kong itself - The Guardian
-- Rwanda-backed M23 group says it will withdraw from seized Congo town after US request - Reuters
+- Mahmood Mamdani on how Uganda's history shaped his belonging — and his son's moment - NPR
 - As Israeli Settlements Get Bigger, Palestinian Hikes Grow Shorter - The New York Times
-- Ukraine strikes Russian submarine with ‘Sub Sea Baby’ drone - navalnews.com
-- Jobs reports to finally lift fog on U.S. labor market - NBC News
-- Ford pivoting to hybrids and dropping all-electric F-150, sees $20B in charges - Axios
+- Rwanda-backed M23 group says it will withdraw from seized Congo town after US request - Reuters
+- EU enters crucial week marred by uncertainty and rival interests at critical juncture for the bloc - Euronews.com
+- UK-South Korea trade deal: Bentleys and Scottish salmon to benefit - BBC
 - Kraft Heinz taps former Kellanova CEO to lead company ahead of breakup - CNBC
-- Powerball jackpot climbs to $1.25 billion just 9 days before Christmas - ABC News
-- iOS 26.3 Beta 1 Features: What's New So Far - MacRumors
+- Shares are mostly lower in Europe and Asia ahead of US jobs and inflation reports - AP News
+- The two visions for AI driving executives and Wall Street apart - Axios
+- Europe poised to water down landmark 2035 ban on new diesel and gasoline cars - CNBC
 - Google rolling out update for original Pixel Buds Pro - 9to5Google
+- The Google Search homepage adds a ‘plus’ menu - 9to5Google
+- OnePlus Turbo may have a battery so big that even the OnePlus 15 will seem underpowered - PhoneArena
