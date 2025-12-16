@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-16 13:49_
+_Updated: 2025-12-16 15:25_
 
-- FBI Director Kash Patel, Eager for Spotlight, Casts Aside Caution in Social Media Posts - The New York Times
-- Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
+- Bondi Beach gunmen appear inspired by Islamic State, authorities say - The Washington Post
+- Removal of Uzbekistanis from the United States - U.S. Embassy in Uzbekistan (.gov)
+- Republicans are divided on Afghan immigrant policy after the National Guard shooting - NPR
 - Joint statement of European Leaders from the meeting in Berlin - Government.se
-- Republicans divided on policy toward Afghan immigrants after shooting - NPR
-- DESIGNATING FENTANYL AS A WEAPON OF MASS DESTRUCTION - The White House (.gov)
-- U.S. Army names 2 Iowa National Guard members killed in attack in Syria - PBS
+- Fact Sheet: President Donald J. Trump Designates Fentanyl as a Weapon of Mass Destruction - The White House (.gov)
+- US military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people - AP News
+- Senators talk last-minute Obamacare extension - Politico
+- Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
+- Flash flood warning, GO NOW evacuation issued after White River levee breach in Pacific - KOMO
 - What the divides within the Maga base mean for Trump - BBC
-- Flood Watch issued for significant part of western Washington as heavy rains return - king5.com
-- Mayor Brandon Johnson, city council members remain far apart in city of Chicago budget, head tax discussions as deadline looms - ABC7 Chicago
-- Merriam-Webster names 'slop' as its 2025 word of the year - NBC News
-- In Sydney Suburb Where Suspects Lived, Neighbor Saw ‘No Dramas’ - The New York Times
+- As Israeli Settlements Get Bigger, Palestinian Hikes Grow Shorter - The New York Times
+- Conservative's victory in Chile suggests a hard-right, pro-Trump surge - Politico
+- Ukraine strikes Russian submarine with ‘Sub Sea Baby’ drone - navalnews.com
 - UK-South Korea trade deal: Bentleys and Scottish salmon to benefit - BBC
-- Novorossiysk: In a first, Ukraine says it struck Russian submarine in Black Sea port with underwater drones - CNN
-- Toxic smog blankets New Delhi, disrupting travel and plunging air quality to hazardous levels - ABC News
-- Shares are mostly lower in Europe and Asia ahead of US jobs and inflation reports - AP News
-- Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon - CNBC
-- Elon Musk’s net worth hits estimated $600bn as SpaceX prepares for IPO - The Guardian
+- CNBC Daily Open: AI infrastructure stocks are taking a beating - CNBC
+- Powerball jackpot climbs to $1.25 billion just 9 days before Christmas - ABC News
+- Wall Street rainmakers scrap for windfall from Warner Bros deal - Financial Times
 - Jobs reports to finally lift fog on U.S. labor market - NBC News
-- Quest Now Has A Disney+ App With Downloads & Dolby Atmos - UploadVR
-- Apple TV adds Google Cast streaming, but only on Android - The Verge
+- iOS 26 leak details multiple unreleased Apple products - AppleInsider
+- Google rolling out update for original Pixel Buds Pro - 9to5Google
