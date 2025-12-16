@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-16 11:48_
+_Updated: 2025-12-16 12:50_
 
 ## Top Stories
 
-- Polis: Sydneydåd inspirerat av IS - SVT Nyheter
+- Här attackerar Ukraina ett rullande tåg - Expressen
 - Sveriges utsläpp ökar – svårt nå klimatmål - SVT Nyheter
-- Chock och förvåning efter misstänkta förgiftningarna - Läkartidningen
-- Finländare litar inte på det svenska försvaret - Yle
-- Nytt hot mot Guldkroksskolan i Hjo – skolan stängd - SVT Nyheter
+- Nytt hot mot Guldkroksskolan i Hjo – minderårig misstänkt - SVT Nyheter
+- Ödesvecka för Ukraina: EU splittrat om miljardlån - Europaportalen
 - Förvaltningsrätten stoppar vargjakt – beslutet oenigt - GP
+- Årets julgransflygning – då passerar den över din kommun - SVT Nyheter
 - Ulla-Lena fick adressen kapad – stämmer staten - NWT
+- Slutrapport: Inga skäl att utreda Estonia på nytt - SVT Nyheter
+- Uppdrag att utveckla regionalt stöd för personer som är eller riskerar att bli utsatta för hedersrelaterat våld och förtryck - Regeringen.se
 - Tonårstjejer kastade handgranater åt Foxtrot – styrdes av ”SuperMario” - Aftonbladet
-- Historisk traktorresa mot Bryssel för LRF - Land Lantbruk
-- Nästa steg för att införa bidragsreformen – beslut om aktivitetskrav och bidragstak - Regeringen.se
-- Georgien: Ett år av konstanta protester - Utrikespolitiska institutet
+- Johan Croneman: Var det rätt att publicera klippet på mannen som attackerar Bondi Beach-skytten? - Dagens Nyheter
 - Kristersson: ”Viktigt steg mot hållbar fred” - Västerbottens-Kuriren
+- Georgien: Ett år av konstanta protester - Utrikespolitiska institutet
 - Snabbkoll – detta hände när du sov - Sydsvenskan
-- Vad handlar striderna mellan Thailand och Kambodja om? - Dagens Arena
+- Få jobbar mer trots höjd pensionsålder - Senioren
+- Bensinpriset det lägsta sedan 2021 - Aftonbladet
 - Fredshopp sänker oljepriset – lägsta sedan maj - Omni
-- Carl Johan von Seth: Fem skäl till att maten fortfarande är dyr - Dagens Nyheter
-- Rekordökning av fakturabedrägerier - Svensk Handel
-- AI-jättar tyngde Wall Street - Sydsvenskan
+- Svenska kraftnät satsar 180 miljarder: ”Vi behöver rusta” - EFN.se
 - Oroande fyndet om domedagsglaciären - Expressen
-- Så ska det låta! Nya Poco-mobilen har det bästa ljudet - m3.se
+- Grattis alla Android-användare, nu får Apple TV-appen stöd för Google Cast - Macworld.se
 
 ## World News
 
-- How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Widespread mortality of coral reefs - Stockholms universitet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- UNI Global uttrycker sitt deltagande och sin solidaritet efter attacken på Bondi Beach - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
 
 ## Technology
 
@@ -77,22 +77,22 @@ _Updated: 2025-12-16 11:48_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -102,23 +102,24 @@ _Updated: 2025-12-16 11:48_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -128,17 +129,16 @@ _Updated: 2025-12-16 11:48_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
