@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-17 13:49_
+_Updated: 2025-12-17 15:22_
 
-- Trump announces ‘complete blockade’ of sanctioned oil tankers to Venezuela - The Washington Post
-- Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States - The White House (.gov)
-- Peña-Melnyk elected unanimously as House speaker, making history in the process - Maryland Matters
+- Trump Orders Blockade of Some Oil Tankers to and From Venezuela - The New York Times
+- Suspect in Bondi Beach Massacre Is Charged With Murder and Terrorism - The New York Times
 - Nuno Loureiro, professor and director of MIT’s Plasma Science and Fusion Center, dies at 47 - MIT News
-- ACA shoppers face sticker shock as Congress dithers on health care : Shots - Health News - NPR
-- Joint statement of European Leaders from the meeting in Berlin - Government.se
-- JD Vance touts Donald Trump’s economy to shift message on cost of living - Financial Times
-- Xcel likely to shut off power to many Front Range communities Wednesday due to dry conditions and high winds. Here's what you can do - Colorado Public Radio
-- Sen. Mark Kelly clashes with Hegseth over Pentagon’s investigation into him - ABC News
-- Public won't see Venezuela second strike video: Hegseth - Axios
+- Fact Sheet: President Donald J. Trump Further Restricts and Limits the Entry of Foreign Nationals to Protect the Security of the United States - The White House (.gov)
+- Billy Crystal, Albert Brooks and other close friends of Rob and Michele Reiner pay tribute - AP News
+- Peña-Melnyk elected unanimously as House speaker, making history in the process - Maryland Matters
+- What we know so far about the Brown University shooting suspect - PBS
+- Late Night Thanks the White House for a ‘Doozy of an Interview’ - The New York Times
+- House won't vote on health care tax credit extension, angering GOP moderates - CBS News
+- Washington infrastructure begins to fail as atmospheric rivers continue - NBC News
+- Police forces will make arrests over intifada chants - BBC
+- Daughter of Hong Kong tycoon Jimmy Lai tells CNN she is devastated by guilty verdict handed down to her father - CNN
 - Iran Nobel laureate taken to hospital after 'violent arrest' - family - BBC
-- Conservative's victory in Chile suggests a hard-right, pro-Trump surge - Politico
-- Mexico small plane crash leaves at least 7 dead - Australian Broadcasting Corporation
-- EU will be ‘severely damaged for years’ if assets plan fails, says Germany’s Merz - politico.eu
-- UK inflation dips by more than expected to 3.2% - BBC
-- Hyundai and Kia will repair millions of vehicles under a deal to fix anti-theft technology - NBC News
-- Europe backtracks on ban of new combustion engine cars, in setback to tackling climate change - CNN
-- Powerball jackpot climbs to $1.25 billion just 9 days before Christmas - ABC News
-- Apple Best Positioned to Weather DRAM Price Surge, Says Counterpoint - MacRumors
-- Bethesda Gives Us An Update On The Elder Scrolls VI Development - Game Informer
+- EU to strengthen carbon levy on high-emission imports, crack down on attempted evasion - Reuters
+- Warner Bros likely to reject $108.4 billion Paramount bid, back Netflix in bidding war, sources say - Reuters
+- Lower clothing prices help inflation fall by more than expected - BBC
+- CNBC Daily Open: Beauty is in the eye of the U.S. jobs report beholder - CNBC
+- Ford's CEO said the EV market would be halved without subsidies. Now he's writing down $19.5 billion - Fortune
+- Google tests an email-based productivity assistant - TechCrunch
+- Apple Aims to Boost Popularity of iPhone Air 2 in Two Ways - MacRumors
