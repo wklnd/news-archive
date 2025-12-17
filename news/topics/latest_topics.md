@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-17 18:54_
+_Updated: 2025-12-17 19:46_
 
 ## Top Stories
 
+- Den mordmisstänkte 12-åringen ringde själv till polisen - Sydsvenskan
 - Åklagare i upprop: Stoppa förslaget om fängelse för 13-åringar - SVT Nyheter
+- Tonårsflicka i Luleå dog av misstänkt överdos – man anhållen - SVT Nyheter
 - Ett minskat barnafödande – första delredovisningen presenterad - Regeringen.se
+- Kok­rekommenda­tion i Visby med omnejd - Region Gotland
 - 17 december 17.31, Trafikolycka, vilt, Västerbottens län - polisen.se
-- Trafikverket redo med bandvagnar inför jultrafiken - Expressen
-- 17 december 12.49, Trafikkontroll, Västerbottens län - polisen.se
-- Strömmers svar efter gängmötet: ”Tar ansvar för vårt regeringsunderlag” - Dagens Nyheter
-- Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
-- Mamma döms – slutade borsta sonens tänder - Aftonbladet
-- Mark- och miljödomstolen beviljar tillstånd för TNT-fabrik i Nora - tidningensyre.se
-- Centerpartiet: ”Att vargjakten stoppas är förödande” - Svensk Jakt
+- Strömmer (M) efter möte om gängbrott: ”Inte läge att slå av på takten” - SVT Nyheter
+- Polisen: Antalet skjutningar mer än halverat - GP
+- Nästa steg i ubåtsupphandlingen med Polen - Regeringen.se
+- DN Direkt – Man döms för våldtäkt mot 100-åring - Dagens Nyheter
 - Satellitbilder avslöjar hur massmorden döljs - Västerbottens-Kuriren
-- Många skadade i rysk attack mot Zaporizjzja - Aftonbladet
-- Bårhuschef på Harvard sålde stulna kroppsdelar - GP
-- S krav på Busch om elpriserna: Stoppa EU:s stöld - Expressen
-- Nära tusen klagomål på mäklare: ”Börjar röra på sig” - Dagens Nyheter
-- Heights Capital kräver pengarna tillbaka från Intellego - Affärsvärlden
-- Sök, hantera och redovisa stöd - Energimyndigheten
-- Rapport: Brister när bidragsbrott utreds - Aftonbladet
+- Putin till attack mot Europas ”små grisar” - UNT
+- Henrik Brandão Jönsson: Blockad av oljetankrar kan bli Maduros fall - Dagens Nyheter
+- Tusentals olagliga fyrverkerier hittade i Danmark - GP
+- Klimatexpert om att EU backar om förbränningsmotorer: ”Det här kan fördröja utvecklingen, men stoppar den inte” - Yle
+- Svenskt Näringsliv reviderar upp BNP-prognos - DI
+- En grupp fattigpensionärer kommer växa fram - Dagens Arena
+- Skatteverket: Nya lagar och regler inför 2026 - Tidningen Balans
 - S i Jönköpings län söker kampanjarbetare - Socialdemokraterna
-- Steam Replay släppt – kolla ditt Steam-spelande från 2025 - FZ.se
+- Oneplus 15R presenteras: en billigare variant av toppmodellen - Swedroid
 
 ## World News
 
@@ -33,6 +33,7 @@ _Updated: 2025-12-17 18:54_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -40,13 +41,12 @@ _Updated: 2025-12-17 18:54_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
