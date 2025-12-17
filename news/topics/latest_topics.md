@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-17 22:46_
+_Updated: 2025-12-17 23:42_
 
 ## Top Stories
 
+- 12-årig pojke klev av tåget – misstänks för dödsskjutning - Dagens Nyheter
 - Åklagare i upprop: Stoppa förslaget om fängelse för 13-åringar - SVT Nyheter
 - Facktoppen Erik Helgeson blir av med jobbet efter dom – föll på detalj - Arbetet
-- Putin till attack mot Europas ”små grisar” - Aftonbladet
 - 17 december 17.31, Trafikolycka, vilt, Västerbottens län - polisen.se
-- Karl Hedins ilska efter stoppade vargjakten: ”Låt landet svämma över av varg” - EFN.se
 - Trafikverket redo med bandvagnar inför jultrafiken - Expressen
-- DN Direkt – Parasiter i dricksvattnet i Visby - Dagens Nyheter
+- Karl Hedins ilska efter stoppade vargjakten: ”Låt landet svämma över av varg” - EFN.se
 - Svensk död i utländskt häkte - Expressen
+- DN Direkt – Parasiter i dricksvattnet i Visby - Dagens Nyheter
 - Sverige tappar en ubåt till Polen i stor affär - Dagens Nyheter
-- Den mordmisstänkte 12-åringen ringde själv till polisen - Sydsvenskan
+- DN Direkt – Polisen varnar för bedrägerier – äldre kvinnor drabbade - Dagens Nyheter
 - Satellitbilder avslöjar hur massmorden döljs - Västerbottens-Kuriren
+- Putin till attack mot Europas ”små grisar” - Dagens Nyheter
+- Tusentals olagliga fyrverkerier hittade i Danmark - GP
 - ”Hur kan man sluta fred med någon som vill döda oss?” - Dagens Nyheter
-- Stor osäkerhet om Ukraina-stöd inför avgörande EU-toppmöte - Europaportalen
-- Bårhuschef på Harvard sålde stulna kroppsdelar - GP
 - Andra Farhad: Då kan ISK bli en psykologisk fälla | Andra Farhad - SvD
 - Klimatexpert om att EU backar om förbränningsmotorer: ”Det här kan fördröja utvecklingen, men stoppar den inte” - Yle
+- Rapport: Sverige slösar 600 miljarder om året - SvD
 - Insatser som stärker Sveriges omställningskraft - Energimyndigheten
-- Före- och efterbilder vilseleder om plastikkirurgi - Konsumentverket
+- Mozilla har ny vd – lovar fokus på AI - Computer Sweden
 - Google slår tillbaka: ”Skicka till professorn” - SvD
-- S i Jönköpings län söker kampanjarbetare - Socialdemokraterna
 
 ## World News
 
@@ -50,7 +50,7 @@ _Updated: 2025-12-17 22:46_
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -61,8 +61,8 @@ _Updated: 2025-12-17 22:46_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
@@ -74,25 +74,25 @@ _Updated: 2025-12-17 22:46_
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
