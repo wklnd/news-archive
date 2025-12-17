@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-17 19:53_
+_Updated: 2025-12-17 20:59_
 
-- How the long-running Obamacare fight came to thwart enhanced subsidies in Congress - NPR
-- Trump announces ‘complete blockade’ of sanctioned oil tankers to Venezuela - The Washington Post
-- Late Night Thanks the White House for a ‘Doozy of an Interview’ - The New York Times
+- Republicans defy Speaker Johnson to force House vote on extending ACA subsidies - AP News
+- Susie Wiles offered unflattering assessments of her colleagues to Vanity Fair. In return, they showered her with praise - CNN
 - More than 10% of Congress won't return to their seats after 2026 - NPR
 - One Way the Brown Attack Was Unusual: The Gunman Escaped - The New York Times
-- Trump Dangles Cash Payments to Assuage Affordability Concerns - The New York Times
-- Jack Smith tells lawmakers his team developed ‘proof beyond a reasonable doubt’ against Trump - PBS
-- MIT grieves shooting death of renowned director of plasma science center | MIT - Massachusetts Institute of Technology - The Guardian
-- Xcel Energy might temporarily cut power to high fire risk regions ahead of high wind event - Colorado Public Radio
-- Americans are more dissatisfied with Trump’s handling of the economy than ever, poll shows - PBS
-- More than $1 million in donations pour in for Ahmed al Ahmed, hero who tackled Bondi Beach gunman - CBS News
+- Trump’s BBC lawsuit: A botched report, BritBox, and porn - NPR
+- Bondi shooting suspect Naveed Akram charged with 15 counts of murder - BBC
+- Rob Reiner murders latest: Video shows moments leading up to Nick Reiner's arrest - ABC News
+- Jack Smith defends Trump prosecutions in testimony to Congress - BBC
+- Trump administration to dismantle key climate research center - The Washington Post
+- Trump vowed to block tankers carrying Venezuela's oil — nearly a dozen are at sea right now - CNBC
 - Starmer calls doctors' strike 'dangerous' as five-day walkout begins - BBC
-- Britain to rejoin EU’s Erasmus student exchange program in Brexit reversal - CNN
-- Greetings from Chiloé Island, Chile, where the fast-moving tides are part of local lore - NPR
+- Recent attacks have been 'inspired' by Islamic State. What does that mean? - NPR
+- All the countries affected by Trump’s expanded travel ban - The Washington Post
+- Starmer tells Abramovich to 'pay up now' or face court - BBC
 - Warner Bros favours Netflix offer over $108bn Paramount bid - BBC
-- A pretty penny: Last US cents sell for $16.7 million - ABC News
-- Medline raises more than $6bn in biggest IPO of 2025 - Financial Times
-- Powerball jackpot surges to $1.25 billion ahead of Wednesday's drawing - ABC News
+- Tricolor executives charged with 'systematic fraud' after subprime auto lender roiled banking sector - CNBC
+- Stock Market Today: Dow Turns Lower As Nasdaq Loss Deepens; Oracle Tumbles (Live Coverage) - Investor's Business Daily
+- US tech stocks slide as Oracle data centre setback reignites AI concerns - Financial Times
 - Google launches Gemini 3 Flash, makes it the default model in the Gemini app - TechCrunch
 - OnePlus 15R review: unbeatable battery life, beatable value - The Verge
