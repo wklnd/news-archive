@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-17 15:12_
+_Updated: 2025-12-17 15:51_
 
 ## Top Stories
 
-- Tal av minister för civilt försvar Carl-Oskar Bohlin vid chanukkafirande i Stockholm - Regeringen.se
 - Uppgifter: 12-årig pojke misstänks för mord i Oxie - SVT Nyheter
-- 17 december 12.49, Trafikkontroll, Västerbottens län - polisen.se
+- Tal av minister för civilt försvar Carl-Oskar Bohlin vid chanukkafirande i Stockholm - Regeringen.se
+- ”My Voice, My Choice”: medborgarinitiativ om tillgänglig abort | Nyheter - European Parliament
+- Finlands varning: Det händer när kriget i Ukraina är över - Aftonbladet
 - Strömmer (M) efter möte om gängbrott: ”Inte läge att slå av på takten” - SVT Nyheter
-- Se upp – här är ficktjuvarnas vanligaste trick - polisen.se
-- Fortsatt arbete med Cosmic - Region Dalarna
-- Strömavbrott stoppade sjukresor och skolskjuts på flera håll i landet - SVT Nyheter
-- Våldtog 100-årig kvinna – döms till fängelse - SVT Nyheter
 - Pressinbjudan: Utredningen om minskat barnafödande presenterar första delredovisning - Regeringen.se
+- Våldtog 100-årig kvinna – döms till fängelse - SVT Nyheter
+- DN Direkt – Polisstudent åtalas för fem våldtäkter - Dagens Nyheter
+- Borstade inte tänderna på sin son – döms för misshandel - Dagens Nyheter
 - 17 december 07.32, Sammanfattning natt, Västerbottens län - polisen.se
 - Stor osäkerhet om Ukraina-stöd inför avgörande EU-toppmöte - Europaportalen
-- Bårhuschef på Harvard sålde stulna kroppsdelar - GP
+- Bårhuschef sålde kroppsdelar – döms till fängelse - Sydsvenskan
+- Tusentals olagliga fyrverkerier hittade i Danmark - Aftonbladet
 - Uppgift: Nya sanktioner från USA - SVT Nyheter
-- Brand på Tivoli i Köpenhamn - Expressen
-- Daunfeldt: Tillväxten vänder uppåt men fortsatt hög arbetslöshet - Svenskt Näringsliv
+- Svenskt Näringsliv reviderar upp BNP-prognos - DI
 - En grupp fattigpensionärer kommer växa fram - Dagens Arena
 - SBAB: Bolåneräntor kan stiga – trots oförändrad styrränta - Placera.se
-- Skatteverket: Nya lagar och regler inför 2026 - Tidningen Balans
+- Yubicos VD slutar: "Diskussion under en tid" - Affärsvärlden
 - S i Jönköpings län söker kampanjarbetare - Socialdemokraterna
-- Snabbkollen – Blir spelåret 2026 bättre än 2025? - FZ.se
+- INSÄNDARE: NIF-gymnasterna vill lyfta förebilder och inspirera unga - TTELA
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2025-12-17 15:12_
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Historic Executive Order Fast-Tracks ZenaTech’s ZenaDrone Subsidiary Manufacturing and Go-to-Market Plans for Dual-Use Defense and Commercial Drones - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -82,6 +82,7 @@ _Updated: 2025-12-17 15:12_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-12-17 15:12_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,44 +101,44 @@ _Updated: 2025-12-17 15:12_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Early experiments in accelerating science with GPT-5 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-17 15:12_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Lediga jobb - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Socialdemokraterna kan inte ignorera lantbruket - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
