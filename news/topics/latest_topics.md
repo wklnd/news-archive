@@ -1,39 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-17 16:50_
+_Updated: 2025-12-17 17:48_
 
 ## Top Stories
 
-- Den 12-årige pojken ringde själv till polisen efter mordet - Sydsvenskan
+- Den mordmisstänkte 12-åringen ringde själv till polisen - Sydsvenskan
+- Åklagare i upprop: Stoppa förslaget om fängelse för 13-åringar - SVT Nyheter
+- JUST NU: Domen – Erik Helgeson blir av med jobbet - Arbetet
+- Ett minskat barnafödande – första delredovisningen presenterad - Regeringen.se
 - Strömmers svar efter gängmötet: ”Tar ansvar för vårt regeringsunderlag” - Dagens Nyheter
 - Tal av minister för civilt försvar Carl-Oskar Bohlin vid chanukkafirande i Stockholm - Regeringen.se
-- När man tror att vi nått botten sjunker vi ännu längre ner - Aftonbladet
-- Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
-- Se upp – här är ficktjuvarnas vanligaste trick - polisen.se
 - Polisen: Antalet skjutningar mer än halverat - GP
-- Borstade inte tänderna på sin son – döms för misshandel - Dagens Nyheter
-- Våldtog 100-årig kvinna – döms till fängelse - SVT Nyheter
-- Polisstudent åtalas för fem våldtäkter - Skånska Dagbladet
-- Stor osäkerhet om Ukraina-stöd inför avgörande EU-toppmöte - Europaportalen
+- DN Direkt – Man döms för våldtäkt mot 100-åring - Dagens Nyheter
+- Mamma slutade borsta sonens tänder – döms för misshandel - Aftonbladet
+- Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
+- Satellitbilder avslöjar hur massmorden döljs - Västerbottens-Kuriren
 - DN Direkt – Bårhuschef på Harvard sålde stulna kroppsdelar - Dagens Nyheter
-- Björn af Kleen: Iskvinnan bakom Trump snackar - Dagens Nyheter
-- Uppgift: Nya sanktioner från USA - SVT Nyheter
+- Stor osäkerhet om Ukraina-stöd inför avgörande EU-toppmöte - Europaportalen
+- Putin till attack mot Europas ”små grisar” - GP
 - Svenskt Näringsliv reviderar upp BNP-prognos - DI
 - Nära tusen klagomål på mäklare: ”Börjar röra på sig” - Dagens Nyheter
-- En grupp fattigpensionärer kommer växa fram - Dagens Arena
+- Skatteverket: Nya lagar och regler inför 2026 - Tidningen Balans
 - Stigande bolåneräntor även vid oförändrad styrränta - sbab.se
 - S i Jönköpings län söker kampanjarbetare - Socialdemokraterna
-- iPhone 18 Pro ryktas återigen få Face ID under skärmen - Teknikveckan
+- CHATTA: Vad ska du köpa för hårda klappar? - Expressen
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -41,35 +39,37 @@ _Updated: 2025-12-17 16:50_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Från anonym provins till global wellnessmagnet – Ninh Binh visar vägen - travelnews.se
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-17 16:50_
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2025-12-17 16:50_
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
