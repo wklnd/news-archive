@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-17 21:48_
+_Updated: 2025-12-17 22:53_
 
-- House Republican centrists help Democrats defy Mike Johnson on ACA in stunning revolt - Axios
+- Republicans defy Speaker Johnson to force House vote on extending ACA subsidies - AP News
 - Senate passes $901 billion defense bill that pushes Hegseth for boat strike video - NPR
-- More than 10% of Congress won't return to their seats after 2026 - NPR
-- Jack Smith tells lawmakers his team developed 'proof beyond a reasonable doubt' against Trump - AP News
+- Trump to address the nation as his popularity dips in the face of economic concerns - NPR
 - One Way the Brown University Shooting Was Unusual: The Gunman Escaped - The New York Times
-- Bondi shooting suspect Naveed Akram charged with 15 counts of murder - BBC
-- Close friends of Rob and Michele Reiner release statement on their lives and work - CNN
-- What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer - NPR
+- Intent to restructure critical weather science infrastructure - National Science Foundation (.gov)
+- Jack Smith makes his case against Trump in closed-door deposition - Politico
+- Senate passes $901 billion defense bill that pushes Hegseth for boat strike video - AP News
 - MIT professor’s fatal shooting has police still searching for a suspect - PBS
+- Susie Wiles offered unflattering assessments of her colleagues to Vanity Fair. In return, they showered her with praise - CNN
 - Tens of thousands without power due to Xcel public safety shut off Wednesday amid high winds - Colorado Public Radio
+- Alleged Bondi Beach gunman charged with 15 counts of murder, police say - ABC News
 - Starmer tells Abramovich to 'pay up now' or face court - BBC
 - Britain to rejoin EU’s Erasmus student exchange program in Brexit reversal - CNN
-- Trump expands travel ban and restrictions to include an additional 20 countries - NPR
 - Exclusive: Poland to start producing anti-personnel mines to lay along eastern border - Reuters
 - Warner Bros favours Netflix offer over $108bn Paramount bid - BBC
-- US tech stocks slide as Oracle data centre setback reignites AI concerns - Financial Times
-- More drops for AI stocks drag Wall Street toward a 4th straight loss - AP News
-- Medline raises more than $6bn in biggest IPO of 2025 - Financial Times
+- Ray Dalio joins Michael Dell in backing 'Trump accounts' for kids - CNBC
+- Tesla Faces Possible California Sales Suspension. Why Investors Aren't Concerned. - Investor's Business Daily
+- Powerball jackpot surges to $1.25 billion ahead of Wednesday's drawing - ABC News
 - Google launches Gemini 3 Flash, makes it the default model in the Gemini app - TechCrunch
 - How ChatGPT's New Image Generator Stacks Up Against Gemini's Nano Banana Pro - Lifehacker
