@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-17 13:41_
+_Updated: 2025-12-17 15:12_
 
 ## Top Stories
 
-- 12-årig pojke från Helsingborg misstänkt för mordet i Oxie - SVT Nyheter
-- SD rusar i opinionen och tar väljare från S - Omni
 - Tal av minister för civilt försvar Carl-Oskar Bohlin vid chanukkafirande i Stockholm - Regeringen.se
-- Finlands varning: Det händer när kriget i Ukraina är över - Aftonbladet
-- Pressbriefing med justitieminister Gunnar Strömmer efter möte med riksdagens rättspolitiska talespersoner - Regeringen.se
+- Uppgifter: 12-årig pojke misstänks för mord i Oxie - SVT Nyheter
+- 17 december 12.49, Trafikkontroll, Västerbottens län - polisen.se
+- Strömmer (M) efter möte om gängbrott: ”Inte läge att slå av på takten” - SVT Nyheter
 - Se upp – här är ficktjuvarnas vanligaste trick - polisen.se
+- Fortsatt arbete med Cosmic - Region Dalarna
 - Strömavbrott stoppade sjukresor och skolskjuts på flera håll i landet - SVT Nyheter
-- Advokatsamfundet om misstänkta avlyssningen: Ser ut som en rättsskandal - Dagens Nyheter
+- Våldtog 100-årig kvinna – döms till fängelse - SVT Nyheter
+- Pressinbjudan: Utredningen om minskat barnafödande presenterar första delredovisning - Regeringen.se
 - 17 december 07.32, Sammanfattning natt, Västerbottens län - polisen.se
-- Vargjakten stoppas i domstol - Sveriges Natur
+- Stor osäkerhet om Ukraina-stöd inför avgörande EU-toppmöte - Europaportalen
 - Bårhuschef på Harvard sålde stulna kroppsdelar - GP
-- Källor: USA redo för nya sanktioner mot Ryssland - Aftonbladet
-- Björn af Kleen: Iskvinnan bakom Trump snackar - Dagens Nyheter
-- Ukraina: Rysk ubåt utslagen med drönare - Västerbottens-Kuriren
+- Uppgift: Nya sanktioner från USA - SVT Nyheter
+- Brand på Tivoli i Köpenhamn - Expressen
 - Daunfeldt: Tillväxten vänder uppåt men fortsatt hög arbetslöshet - Svenskt Näringsliv
-- Nordea tappar i prestigefull rankning - DI
+- En grupp fattigpensionärer kommer växa fram - Dagens Arena
+- SBAB: Bolåneräntor kan stiga – trots oförändrad styrränta - Placera.se
 - Skatteverket: Nya lagar och regler inför 2026 - Tidningen Balans
-- Arbetsförmedlingen: Långt kvar till återhämtad arbetsmarknad - Dagens Nyheter
-- Kvantforskarnas kritik: ”En fars att ställa frågor utan data” - NyTeknik
-- Något träffade jorden ovanligt hårt – men det mest häpnadsväckande var vem som upptäckte det - Illustrerad Vetenskap
+- S i Jönköpings län söker kampanjarbetare - Socialdemokraterna
+- Snabbkollen – Blir spelåret 2026 bättre än 2025? - FZ.se
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2025-12-17 13:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- REMA TIP TOP Acquires Key Assets of Almex Group, Strengthening Global Position in Conveyor Technology - Via TT
 
 ## Technology
 
@@ -61,11 +61,11 @@ _Updated: 2025-12-17 13:41_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
@@ -101,21 +101,21 @@ _Updated: 2025-12-17 13:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -147,18 +147,18 @@ _Updated: 2025-12-17 13:41_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Unga lantbrukare får ingen chans - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Socialdemokraterna kan inte ignorera lantbruket - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
