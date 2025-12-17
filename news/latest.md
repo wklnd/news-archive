@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-17 20:59_
+_Updated: 2025-12-17 21:48_
 
-- Republicans defy Speaker Johnson to force House vote on extending ACA subsidies - AP News
-- Susie Wiles offered unflattering assessments of her colleagues to Vanity Fair. In return, they showered her with praise - CNN
+- House Republican centrists help Democrats defy Mike Johnson on ACA in stunning revolt - Axios
+- Senate passes $901 billion defense bill that pushes Hegseth for boat strike video - NPR
 - More than 10% of Congress won't return to their seats after 2026 - NPR
-- One Way the Brown Attack Was Unusual: The Gunman Escaped - The New York Times
-- Trump’s BBC lawsuit: A botched report, BritBox, and porn - NPR
+- Jack Smith tells lawmakers his team developed 'proof beyond a reasonable doubt' against Trump - AP News
+- One Way the Brown University Shooting Was Unusual: The Gunman Escaped - The New York Times
 - Bondi shooting suspect Naveed Akram charged with 15 counts of murder - BBC
-- Rob Reiner murders latest: Video shows moments leading up to Nick Reiner's arrest - ABC News
-- Jack Smith defends Trump prosecutions in testimony to Congress - BBC
-- Trump administration to dismantle key climate research center - The Washington Post
-- Trump vowed to block tankers carrying Venezuela's oil — nearly a dozen are at sea right now - CNBC
-- Starmer calls doctors' strike 'dangerous' as five-day walkout begins - BBC
-- Recent attacks have been 'inspired' by Islamic State. What does that mean? - NPR
-- All the countries affected by Trump’s expanded travel ban - The Washington Post
+- Close friends of Rob and Michele Reiner release statement on their lives and work - CNN
+- What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer - NPR
+- MIT professor’s fatal shooting has police still searching for a suspect - PBS
+- Tens of thousands without power due to Xcel public safety shut off Wednesday amid high winds - Colorado Public Radio
 - Starmer tells Abramovich to 'pay up now' or face court - BBC
+- Britain to rejoin EU’s Erasmus student exchange program in Brexit reversal - CNN
+- Trump expands travel ban and restrictions to include an additional 20 countries - NPR
+- Exclusive: Poland to start producing anti-personnel mines to lay along eastern border - Reuters
 - Warner Bros favours Netflix offer over $108bn Paramount bid - BBC
-- Tricolor executives charged with 'systematic fraud' after subprime auto lender roiled banking sector - CNBC
-- Stock Market Today: Dow Turns Lower As Nasdaq Loss Deepens; Oracle Tumbles (Live Coverage) - Investor's Business Daily
 - US tech stocks slide as Oracle data centre setback reignites AI concerns - Financial Times
+- More drops for AI stocks drag Wall Street toward a 4th straight loss - AP News
+- Medline raises more than $6bn in biggest IPO of 2025 - Financial Times
 - Google launches Gemini 3 Flash, makes it the default model in the Gemini app - TechCrunch
-- OnePlus 15R review: unbeatable battery life, beatable value - The Verge
+- How ChatGPT's New Image Generator Stacks Up Against Gemini's Nano Banana Pro - Lifehacker
