@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-17 06:58_
+_Updated: 2025-12-17 07:51_
 
-- Police release ‘enhanced photo’ of Brown University shooting person of interest - The Washington Post
-- Trump orders blockade of sanctioned oil tankers leaving, entering Venezuela - Reuters
-- Trump defends Wiles' claims that he has an "alcoholic's personality" - Axios
+- Trump announces ‘complete blockade’ of sanctioned oil tankers to Venezuela - The Washington Post
+- ‘Extremely demoralizing’: Republicans respond to the bombastic Wiles interview - Politico
 - Bondi Beach attack casts a shadow on Hanukkah celebrations in Israel - NPR
+- Orange rivers and melting glaciers: federal report shows rapid change in the Arctic - NPR
+- Removal of Uzbekistanis from the United States - U.S. Embassy in Uzbekistan (.gov)
 - Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States - The White House (.gov)
-- Fitzpatrick declines to turn off ACA discharge petition as amendment talks drag on - Politico
-- MIT professor from Portugal shot at home dies, police say - BBC
-- Sen. Mark Kelly clashes with Hegseth over Pentagon’s investigation into him - ABC News
+- No vote coming on extending healthcare subsidies, US House Speaker says - BBC
+- Xcel likely to shut off power to many Front Range communities Wednesday due to dry conditions and high winds. Here's what you can do - Colorado Public Radio
 - JD Vance touts Donald Trump’s economy to shift message on cost of living - Financial Times
-- Hegseth says he won't publicly release video of boat strike that killed survivors in the Caribbean - PBS
-- Liverpool parade attacker jailed for more than 21 years for ploughing car into fans - Reuters
+- An MIT professor was shot at home. Authorities say no suspect is in custody - PBS
+- Ukraine and 34 other countries approve compensation body for damages from Russia's invasion - AP News
+- Hong Kong leader raises Jimmy Lai conviction in meeting with China's Xi - Reuters
 - Ukraine claims strike on Russian submarine with underwater drones - Financial Times
-- ‘Don’t be misled,’ Beijing tells foreign media in Hong Kong after Lai verdict - South China Morning Post
 - Conservative's victory in Chile suggests a hard-right, pro-Trump surge - Politico
-- Jared Kushner's firm backs out of Paramount's Warner Bros. bid - Axios
+- Jared Kushner’s Firm Pulls Out of Bid for Warner Bros. Discovery - The New York Times
 - Private Sector Job Growth Fuels President Trump’s Economy - The White House (.gov)
+- Tesla Faces California Sales Halt Unless It Alters Marketing - Bloomberg.com
 - Stock futures slip as traders absorb shaky U.S. economic data: Live updates - CNBC
-- Texas woman arrested for hiding razor blades in loaves of bread at Mississippi Walmart stores - AP News
 - iPhone 17e Will Reportedly Fix iPhone 16e's Biggest Limitation - MacRumors
 - Inside Apple’s iPhone Road Map, From Foldable Screens to Curved Glass Cases - The Information
