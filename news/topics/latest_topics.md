@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-17 04:23_
+_Updated: 2025-12-17 05:42_
 
 ## Top Stories
 
 - Tal av minister för civilt försvar Carl-Oskar Bohlin vid chanukkafirande i Stockholm - Regeringen.se
 - Björn af Kleen: Iskvinnan bakom Trump snackar - Dagens Nyheter
 - Trump beordrar Venezuela-blockad - SvD
-- Uppgifter: 12-årig pojke misstänks för mord i Oxie - SVT Nyheter
+- Trump utökar inreseförbudet – fler länder drabbas - GP
 - Ukraina lovas Nato-liknande skydd – men territoriefrågan olöst - Europaportalen
-- Okända skrev sig på Ulla-Lenas sommarstuga – nu stämmer hon Skatteverket - Dagens Nyheter
+- Uppgifter: 12-årig pojke misstänks för mord i Oxie - SVT Nyheter
+- Besked om vargjakt dröjer - Västerbottens-Kuriren
 - Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete - Regeringen.se
-- Förvaltningsrätten i Luleå upphäver alla överklagade beslut om licensjakt efter varg 2026 - Sveriges Domstolar
-- Sveriges utsläpp ökar – svårt nå klimatmål - SVT Nyheter
 - Historisk traktorresa mot Bryssel för LRF - Land Lantbruk
+- 16 december 20.11, Farligt föremål, misstänkt, Malmö - polisen.se
 - Estland redo skicka trupp till Ukraina – andra tvekar - Hufvudstadsbladet
 - Trumps trippla bakslag – har kraschat totalt - Expressen
 - Ukraina hävdar att de sänkt rysk ubåt - Dagens Nyheter
-- Tuberkuloslarm på skola i Stockholm – smittspårning pågår - Aftonbladet
+- Daniel, 22, avslöjade flickvännens onda dåd – innan sin död - Expressen
+- Små rörelser på Wall Street efter jobbsiffror - DI
 - KD positivt till slopat stopp mot nya bensinbilar - Aftonbladet
-- Försenade jobbsiffror släpps: ”Börsen är extra känslig” - EFN.se
 - Forsmark vrider på kärnkraftskranen - Tidningen Näringslivet
-- Nu är återhämtningen i svensk ekonomi i gång - Regeringen.se
+- Tidigare återhämtning än väntat – höjer BNP-prognosen för 2025 - Placera.se
 - LG presenterar sin första tv med Micro RGB-teknik - m3.se
 - Apple sägs testa iMac Pro med kommande M5 Max - Dagens PS
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -46,7 +46,7 @@ _Updated: 2025-12-17 04:23_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- REMA TIP TOP Acquires Key Assets of Almex Group, Strengthening Global Position in Conveyor Technology - Via TT
 
 ## Technology
 
@@ -54,15 +54,15 @@ _Updated: 2025-12-17 04:23_
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Nokia Canada breaks ground on new Ottawa innovation campus, helping to shape the future of Canadian Tech leadership - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Tech Mahindra and Crosscall Collaborate to Deliver AI-powered Mobility Solutions Across North America - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team (PR Newswire) - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
@@ -101,21 +101,21 @@ _Updated: 2025-12-17 04:23_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2025-12-17 04:23_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Högskolan för lärande och kommunikation - Jönköping University
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 
 ## Jordbruk
 
+- Lediga jobb - Land Lantbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Unga lantbrukare får ingen chans - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
