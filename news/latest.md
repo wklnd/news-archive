@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-18 23:48_
+_Updated: 2025-12-19 00:51_
 
-- Fact Sheet: President Donald J. Trump is Increasing Medical Marijuana and Cannabidiol Research - The White House (.gov)
+- Fatalities reported in private jet crash in North Carolina - CNN
 - Trump Moves to End Gender-Related Care for Minors, Threatening Hospitals That Offer It - The New York Times
-- Plane crashes while landing at North Carolina airport, deaths reported - CBS News
-- Democrats release more photos from Epstein estate - Politico
+- MIT professor’s fatal shooting has police still searching for a suspect - PBS
 - Takeaways from Trump's address. And, some GOP lawmakers shift stance on ACA subsidies - NPR
-- Latest in Brown University shooting: Individual seen near person of interest sought - ABC News
-- Pope names fellow Chicagoan, Bishop Ronald Hicks, as new archbishop of New York - AP News
+- Six Additional Defendants Charged, One Defendant Pleads Guilty in Ongoing Fraud Schemes - Department of Justice (.gov)
+- New Archbishop of New York: Church must bring God’s peace, healing to world - Vatican News
+- District of Nebraska | Tren De Aragua Members and Leaders Indicted in Multi-Million Dollar ATM Jackpotting Scheme - Department of Justice (.gov)
 - Brian Walshe sentenced to life in prison for murdering and dismembering wife - ABC News
 - More than 55K remain without power Thursday after high winds and downed power lines - Colorado Public Radio
-- A divided E.U. races against time to tap Russian assets for Ukraine - The Washington Post
-- Youngest Bondi Beach shooting victim mourned as Texas rabbi recovers from wounds sustained trying to help - CBS News
+- What to know about Jared Isaacman, the billionaire private astronaut leading NASA - NPR
 - Austrian nuns await word from the Vatican on whether they can stay in their convent - NPR
-- Australia to Crack Down on Hate Speech After Bondi Beach Attack - The New York Times
-- Delayed inflation data shows price pressures easing, in boost to Trump - Politico
-- Trump Media bets on fusion energy with $6 billion TAE deal - Reuters
-- Law firms Hogan Lovells and Cadwalader set to merge in record $3.6bn deal - Financial Times
-- Why the $1.5 billion Powerball jackpot is the latest in a growing list of stratospheric lottery payouts - ABC News
-- The ChatGPT app store is here - The Verge
-- Sony settles with Tencent over 'slavish' Horizon clone - Engadget
-- Google Pixel tweaks emoji designs to match iPhone in latest Android 16 beta [Gallery] - 9to5Google
+- Brazilian president vows to veto bill cutting Jair Bolsonaro’s prison term - The Guardian
+- Thailand bombs near Poipet casino hub on Cambodian border - BBC
+- Over 1,000 Were Killed in Attack on Camp in Darfur, Sudan, U.N. Says - The New York Times
+- FERC Directs Nation’s Largest Grid Operator to Create New Rules to Embrace Innovation and Protect Consumers - Federal Energy Regulatory Commission (.gov)
+- Instacart shares drop on report that FTC is probing company over AI pricing tool - CNBC
+- Monetary policy statement (with Q&A) - European Central Bank
+- Interest Rate Cut and Slower Inflation Offer Britons a Reprieve - The New York Times
+- Kuo: iPhone Fold Production Challenges Could Limit Supply Next Year - MacRumors
+- Naughty Dog Studio Orders Employee Overtime for ‘Intergalactic’ - Bloomberg.com
