@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 17:46_
+_Updated: 2025-12-18 18:54_
 
 ## Top Stories
 
-- Nya beslutet: Palmeutredningen återupptas inte - SVT Nyheter
-- Elva barn hölls isolerade i månader – mamman döms - Expressen
+- Nathalie Björn tilldelas Diamantbollen - Svensk fotboll
+- Beskedet: Fel att peka ut ”Skandiamannen” - SvD
+- Statsministern: Frågan om Dawit Isaak tas upp med Eritrea - SVT Nyheter
+- Slopat krav på introduktionsutbildning för övningskörning - Regeringen.se
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
-- Ny jordbrukspolitik retar gallfeber på bönder och miljöorganisationer - Världsnaturfonden WWF
-- "Pengar i dag eller blod i morgon"– EU i avgörande strid miljardstöd till Ukraina - Europaportalen
 - En person döms till fängelse för terrorbrott - Säkerhetspolisen
-- Polisen: Mordmisstänkt 12-åring från Karlskoga tog fler uppdrag - SVT Nyheter
-- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - polisen.se
-- Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar - Regeringen.se
+- Mordmisstänkte tolvåringen har tagit på sig fler morduppdrag: ”Står under hot” - NWT
+- Ny jordbrukspolitik retar gallfeber på bönder och miljöorganisationer - Världsnaturfonden WWF
 - Våldtog 100-årig kvinna – döms till fängelse - SVT Nyheter
+- Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar - Regeringen.se
+- Belgien kräver garantier för frysta ryska tillgångar inför EU-möte - SVT Nyheter
 - Trumps nya drag: Förolämpningar under presidentporträtt - Dagens Nyheter
-- Ingmar Nevéus: Trots allt skrytet är Trump på defensiven - Dagens Nyheter
-- Domstol avgör: Är Danmarks "gettolista" olaglig? - Västerbottens-Kuriren
-- Hyresgästföreningen kritiska till hyresnämndens beslut om förvaltningsföreläggande i Vårberg – avser att överklaga - Via TT
-- Så påverkar de nya bolånereglerna - SvD
+- Ukraina: Vad betyder amerikanska säkerhetsgarantier? - GP
+- Förgiftade patienter – för att få rädda dem - Aftonbladet
+- Lättnader i amorteringskravet kan införas i vår - SvD
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
-- Försäljningen av spelkonsoler har sjunkit rejält - m3.se
+- Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
+- Xiaomi 17 Ultra bekräftad med ny kamerasensor, utökat Leica-samarbete - mobil.se
 - Horizon-"klonen" borttagen från butiker – Sony och Tencent överens - FZ.se
 
 ## World News
@@ -30,31 +30,32 @@ _Updated: 2025-12-18 17:46_
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Russia says it hopes Trump does not make 'a fatal mistake' on Venezuela - Reuters
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Widespread mortality of coral reefs - Stockholms universitet
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - fulfillmenttools Delivers Global Order Management Solution for DEICHMANN - Via TT
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- CyberSecDome: Utlysning för innovation inom cybersäkerhet - The European Times News
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -62,14 +63,13 @@ _Updated: 2025-12-18 17:46_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- EY.ai | EY - Sverige - EY
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 
 ## Business
 
@@ -78,14 +78,11 @@ _Updated: 2025-12-18 17:46_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,6 +90,9 @@ _Updated: 2025-12-18 17:46_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -102,15 +102,15 @@ _Updated: 2025-12-18 17:46_
 - Fysisk aktivitet en viktig medicin - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -142,23 +142,23 @@ _Updated: 2025-12-18 17:46_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Lediga jobb - Land Lantbruk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
