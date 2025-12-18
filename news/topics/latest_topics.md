@@ -1,40 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 13:41_
+_Updated: 2025-12-18 15:11_
 
 ## Top Stories
 
+- Längdlandslaget till Tour de Ski - Svenska Skidförbundet
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
-- En 23-årig man döms för flera brott enligt terroristbrottslagen - Sveriges Domstolar
-- Trump sa 2 600 ord – på 18 minuter: ”Verkade panikartad” - Aftonbladet
-- Ryska hoten får toppar att darra – nu avgörs allt - Aftonbladet
-- 12-åring från Karlskoga är misstänkt för mord i Malmö - KT-Kuriren
-- Masskrock med långtradare på E14 - SVT Nyheter
+- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - Polisen.se
+- "Pengar i dag eller blod i morgon"– EU i avgörande strid miljardstöd till Ukraina - Europaportalen
+- En person döms till fängelse för terrorbrott - Säkerhetspolisen
+- 12-årig pojke klev av tåget – misstänks för dödsskjutning - Dagens Nyheter
 - 60 000 mobiler kan blockeras från att ringa 112 - SVT Nyheter
-- DN Direkt – Misstänkt föremål i Perstorp – boende inryms - Dagens Nyheter
-- Så reser du smart i jultrafiken - Trafiken.nu
-- Infomöte: Lägg in ditt evenemang i programmet - Almedalsveckan
+- Erik Esbjörnsson: Alla frågor om resan till Eritrea kommer att handla om Dawit Isaak - Dagens Nyheter
+- Bryssel lamslås av tusentals bönder - Expressen
+- Krimfluencers och ”gangsterkreatörer” – så flyttade gängen in på Tiktok - Dagens Nyheter
 - Trumps nya drag: Förolämpningar under presidentporträtt - Dagens Nyheter
-- Förgiftade patienter – för att få rädda dem - Aftonbladet
-- EU-domen: Dansk ”gettolag” kan vara etnisk diskriminering - GP
-- Stor räddningsinsats vid Ekerö - Aftonbladet
+- Biden-kritik i Trumps stora tal - SVT Nyheter
+- Sannfinländare fördöms i ny rasismskandal - Västerbottens-Kuriren
+- EU-domstolen: Dansk ”gettolag” kan vara diskriminerande - GP
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
 - Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
-- Rapport: Sverige slösar 600 miljarder om året - SvD
-- Unga i Stockholm får över 100 000 kronor i EU-bidrag - NewsMachine AB
+- Storbanker räknar med svårtolkad USA-inflation - DI
+- Pressträff om nya bolåneregler - Regeringen.se
 - Konsolförsäljningen rasade i USA i november – PS5 backar 40 % - FZ.se
-- Xiaomi 17 Ultra bekräftad med ny kamerasensor, utökat Leica-samarbete - mobil.se
+- Första titten på Nissan Z Nismo med manuell låda. Lär lyfta körkänslan. - feber.se
 
 ## World News
 
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Russia says it hopes Trump does not make a 'fatal mistake' on Venezuela - Reuters
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Widespread mortality of coral reefs - Stockholms universitet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -44,7 +45,6 @@ _Updated: 2025-12-18 13:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
@@ -52,8 +52,8 @@ _Updated: 2025-12-18 13:41_
 
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -61,22 +61,22 @@ _Updated: 2025-12-18 13:41_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- EY.ai | EY - Sverige - EY
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -89,8 +89,8 @@ _Updated: 2025-12-18 13:41_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
