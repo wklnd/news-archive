@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-18 15:23_
+_Updated: 2025-12-18 15:57_
 
 - Fact-check: Trump speech on economy, military dividends - PolitiFact
 - Under Trump, 317,000 workers are out of the government. Here are 3 of their stories - NPR
+- Mourners grieve 10-year-old slain in Bondi mass shooting as Australia's leader pledges new hate laws - NPR
 - Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
-- US announces massive package of arms sales to Taiwan valued at more than $10 billion - NPR
+- US announces massive package of arms sales to Taiwan valued at more than $10 billion - AP News
 - Extreme Wind Power Outage Information - Jefferson County
-- Australian police say Bondi Beach mass shooting was terrorist attack inspired by Islamic State group - PBS
 - U.S. Government Admits Liability in Deadly D.C.-Area Air Collision - The New York Times
 - Dan Bongino stepping down as FBI deputy director - BBC
-- Jack Smith testifies before House Judiciary Committee about his Trump probes - ABC News
 - Tuberville claims to know the motive for Ella Cook’s murder: ‘The consequences here are very, very fishy’ - AL.com
+- Jack Smith testifies before House Judiciary Committee about his Trump probes - ABC News
+- Austalian PM introduces new reforms combatting antisemitism - The Jerusalem Post
 - China launches $113 billion free-trade experiment on Hainan island - Reuters
-- ‘We need to do more’: Australian PM vows crackdown on hate speech after Bondi shooting - Dawn
+- Russia is trying to overwhelm Europe with its sabotage campaign, Western officials say - ABC News
 - Bondi attack suspects had no visitors and barely left hotel during month-long Philippines stay, employee says - CNN
-- Myanmar’s military junta charge hundreds with breaking election law as voting date nears - CNN
-- Inflation report to be released Thursday expected to show slight uptick in November - ABC News
-- Trump Media to merge with fusion power company TAE Technologies in $6 billion deal - CNBC
-- Powerball: Winning numbers drawn for $1.25 billion jackpot - ABC7 Los Angeles
-- BP Names New Boss After Its C.E.O. Steps Down - The New York Times
+- November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows - CNBC
+- Trump media group agrees $6bn merger with Google-backed fusion energy company - Financial Times
+- Stock Market Today: Nasdaq, S&P 500 Close Below Critical Levels; Oracle, Other AI Players Sell Off (Live Coverage) - Investor's Business Daily
+- BP taps Woodside's Meg O'Neill as CEO after abrupt Auchincloss exit - Reuters
+- Phone Updates Used to Be Annoying. The Latest iOS Is Awful - WIRED
 - Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers - TechCrunch
-- Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode - The Verge
