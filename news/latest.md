@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-18 16:55_
+_Updated: 2025-12-18 17:53_
 
 - Fact-checking Trump: Economy, wages, immigration and more - NBC News
-- New York has a new Archbishop. His background looks a lot like Pope Leo's - NPR
-- Fast, harsh, alone: Trump beams into prime time with uncertain results - The Washington Post
+- Pope Leo Appoints Bishop Ronald Hicks to Succeed Timothy Dolan - The New York Times
 - RFK Jr. and Dr. Oz to announce moves to ban gender-affirming care for young people - NPR
-- Under Trump, 317,000 workers are out of the government. Here are 3 of their stories - NPR
-- Mourners grieve 10-year-old slain in Bondi mass shooting as Australia's leader pledges new hate laws - NPR
-- 'He truly changed my life': Classmate recalls Brown University student killed in mass shooting - ABC News
-- House passes GOP health bill without subsidies - Axios
+- Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
+- Fast, harsh, alone: Trump beams into prime time with uncertain results - The Washington Post
+- US announces massive package of arms sales to Taiwan valued at more than $10 billion - AP News
 - Dan Bongino stepping down as FBI deputy director - BBC
-- U.S. Government Admits Liability in Deadly D.C.-Area Air Collision - The New York Times
-- Australia to Crack Down on Hate Speech After Bondi Beach Attack - The New York Times
-- The Putin Confidant Who Pushed Back Against Russia’s War in Ukraine - The New York Times
-- At high-stakes summit, EU leaders prepare to take unprecedented steps to help Ukraine - PBS
-- Russia is trying to overwhelm Europe with its sabotage campaign, Western officials say - ABC News
+- U.S. government admits fault in midair collision that killed 67 people near D.C. airport - CBS News
+- 'He truly changed my life': Classmate recalls Brown University student killed in mass shooting - ABC News
+- Two Massachusetts Men Charged with Large-Scale SNAP Benefits Trafficking - Department of Justice (.gov)
+- Mourners grieve 10-year-old slain in Bondi mass shooting as Australia's leader pledges new hate laws - NPR
+- Anthony Albanese announces hate speech crackdown after Bondi shooting - BBC
+- Europe’s Fight Over Russian Assets Is Testing Its Ability to Support Ukraine - The New York Times
+- Could international troops be sent to Gaza? Here's why Trump's plan hinges on it - NPR
 - November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows - CNBC
-- Powerball jackpot climbs to estimated $1.5 billion after no Wednesday winner - ABC News
-- Trump media group agrees $6bn merger with Google-backed fusion energy company - Financial Times
-- Micron Logs Sales Jump, Sees Further Growth as AI Demand Outpaces Supply - The Wall Street Journal
+- Trump’s social media business is merging with a nuclear fusion company - CNN
+- BP Names New Boss After Its C.E.O. Steps Down - The New York Times
+- Bank of England lowers rates after tight vote but signals caution about further cuts - Reuters
+- A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached - WIRED
 - Google Pixel 10 finally gets a GPU driver upgrade - Android Police
-- Phone Updates Used to Be Annoying. The Latest iOS Is Awful - WIRED
