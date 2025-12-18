@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 06:55_
+_Updated: 2025-12-18 07:47_
 
 ## Top Stories
 
 - Striden om Rysslands frysta tillgångar hårdnar – det här avgörs på torsdagens toppmöte - Yle
 - Expressen Direkt – senaste nytt i korthet - Expressen
+- Internationella relationer avgörande inom brottsbekämpningen - polisen.se
 - 17 december 12.49, Trafikkontroll, Västerbottens län - polisen.se
 - 12-åring från Karlskoga är misstänkt för mord i Malmö - KT-Kuriren
 - Här är Nässjös mest olycksdrabbade vägar under julen - Smålands Dagblad
-- Strömmers svar efter gängmötet: ”Tar ansvar för vårt regeringsunderlag” - Dagens Nyheter
-- Nästa steg i ubåtsupphandlingen med Polen - Regeringen.se
-- DN Direkt – Parasiter i dricksvattnet i Visby - Dagens Nyheter
 - Utrikesministern på besök i Eritrea - SVT Nyheter
+- Nästa steg i ubåtsupphandlingen med Polen - Regeringen.se
+- Parasiter i dricksvattnet i Visby - GP
 - Svensk kvinna död i filippinskt häkte - Expressen
+- Trump om ekonomin: ”Ärvde en röra – fixar den” - GP
+- Putin kallar europeiska ledare för ”små grisar” - Hufvudstadsbladet
 - Fyra döda i USA:s senaste attack mot fartyg i Stilla havet - Yle
-- Uppgift: Nya sanktioner från USA - SVT Nyheter
-- Donald Trump höll tal till nationen – lovade ekonomiska framgångar - SVT Nyheter
-- USA erkänner skuld i flygolycka - Västerbottens-Kuriren
-- Fackbas blir av med jobbet enligt ny dom - GP
-- En grupp fattigpensionärer kommer växa fram - Dagens Arena
+- Eländiga siffror för M – oppositionen drar i från - SvD
+- Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
 - Rapport: Brister när bidragsbrott utreds - Tidningen Näringslivet
 - Insatser som stärker Sveriges omställningskraft - Energimyndigheten
-- Oneplus 15R presenteras: en billigare variant av toppmodellen - Swedroid
-- Google slår tillbaka: ”Skicka till professorn” - SvD
+- När bilindustrin bromsar backar EU - Arbetsvärlden
+- Googles nya AI-agent CC bor i din inkorg - Computer Sweden
+- Hollyland släpper 4K-webbkamera med egen mygga - m3.se
 
 ## World News
 
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -40,17 +40,17 @@ _Updated: 2025-12-18 06:55_
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
+- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - eMazzanti Technologies Achieves Four Microsoft Solutions Partner Designations in AI Cloud Partner Program - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -82,17 +82,17 @@ _Updated: 2025-12-18 06:55_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -126,19 +126,19 @@ _Updated: 2025-12-18 06:55_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
