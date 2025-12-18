@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 05:43_
+_Updated: 2025-12-18 06:55_
 
 ## Top Stories
 
 - Striden om Rysslands frysta tillgångar hårdnar – det här avgörs på torsdagens toppmöte - Yle
+- Expressen Direkt – senaste nytt i korthet - Expressen
 - 17 december 12.49, Trafikkontroll, Västerbottens län - polisen.se
 - 12-åring från Karlskoga är misstänkt för mord i Malmö - KT-Kuriren
-- Konspirationsteoretikern en nagel i ögat på Trump – splittrar Maga - Dagens Nyheter
-- Trafikverket redo med bandvagnar inför jultrafiken - Expressen
-- Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
-- Utrikesministern på besök i Eritrea - SVT Nyheter
+- Här är Nässjös mest olycksdrabbade vägar under julen - Smålands Dagblad
+- Strömmers svar efter gängmötet: ”Tar ansvar för vårt regeringsunderlag” - Dagens Nyheter
 - Nästa steg i ubåtsupphandlingen med Polen - Regeringen.se
 - DN Direkt – Parasiter i dricksvattnet i Visby - Dagens Nyheter
+- Utrikesministern på besök i Eritrea - SVT Nyheter
 - Svensk kvinna död i filippinskt häkte - Expressen
-- Putin till attack mot Europas ”små grisar” - GP
-- 16 december: Nattens nyheter - SVT Nyheter
-- Källor: USA redo för nya sanktioner mot Ryssland - Västerbottens-Kuriren
-- ”My Voice, My Choice”: medborgarinitiativ om tillgänglig abort | Nyheter - European Parliament
-- AD ger hamn­bolaget rätt: Erik Helgeson sparkas - Arbetaren
+- Fyra döda i USA:s senaste attack mot fartyg i Stilla havet - Yle
+- Uppgift: Nya sanktioner från USA - SVT Nyheter
+- Donald Trump höll tal till nationen – lovade ekonomiska framgångar - SVT Nyheter
+- USA erkänner skuld i flygolycka - Västerbottens-Kuriren
+- Fackbas blir av med jobbet enligt ny dom - GP
 - En grupp fattigpensionärer kommer växa fram - Dagens Arena
-- Insatser som stärker Sveriges omställningskraft - Energimyndigheten
 - Rapport: Brister när bidragsbrott utreds - Tidningen Näringslivet
-- Google slår tillbaka: ”Skicka till professorn” - SvD
+- Insatser som stärker Sveriges omställningskraft - Energimyndigheten
 - Oneplus 15R presenteras: en billigare variant av toppmodellen - Swedroid
+- Google slår tillbaka: ”Skicka till professorn” - SvD
 
 ## World News
 
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Participation of Hungarian guest teacher at NILAS’ course "Latin America in a Global World" - Stockholms universitet
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -55,8 +55,8 @@ _Updated: 2025-12-18 05:43_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
@@ -75,10 +75,9 @@ _Updated: 2025-12-18 05:43_
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -93,6 +92,7 @@ _Updated: 2025-12-18 05:43_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
