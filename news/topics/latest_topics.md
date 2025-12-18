@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 15:54_
+_Updated: 2025-12-18 16:48_
 
 ## Top Stories
 
-- Nya bolåneregler från den 1 april - SVT Nyheter
+- En person döms till fängelse för terrorbrott - Säkerhetspolisen
+- "Pengar i dag eller blod i morgon"– EU i avgörande strid miljardstöd till Ukraina - Europaportalen
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
 - Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - Polisen.se
-- En person döms till fängelse för terrorbrott - Säkerhetspolisen
-- Bryssel lamslås av tusentals bönder - Expressen
-- "Pengar i dag eller blod i morgon"– EU i avgörande strid miljardstöd till Ukraina - Europaportalen
-- 60 000 mobiler kan blockeras från att ringa 112 - SVT Nyheter
-- Erik Esbjörnsson: Alla frågor om resan till Eritrea kommer att handla om Dawit Isaak - Dagens Nyheter
-- Flera barn hölls gömda – kvinna döms - Aftonbladet
-- Svensk gripen i Spanien – utlämnad till Norge - Sydsvenskan
+- Sex män döms för inblandning i illegala cigarettfabriken i Lövånger - SVT Nyheter
+- Nya bolåneregler från den 1 april - SVT Nyheter
+- 42 kulturprojekt får stöd – från medeltida kyrkoruin till turnerande konstkollo för barn och unga - Västra Götalandsregionen
+- Infomöte: Lägg in ditt evenemang i programmet - Almedalsveckan
+- Utökat arbete krävs för att stoppa våldet - Jämställdhetsmyndigheten
+- Oförändrad mängd matsvinn i Sverige – en samhällsutmaning - Naturvårdsverket
 - Trumps nya drag: Förolämpningar under presidentporträtt - Dagens Nyheter
-- EU-domen: Dansk ”gettolag” kan vara etnisk diskriminering - GP
 - Biden-kritik i Trumps stora tal - SVT Nyheter
 - Sannfinländare fördöms i ny rasismskandal - Västerbottens-Kuriren
+- Efter hackerattack – Svenska kraftnäts data läckt - UNT
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- Uppdrag till Diskrimineringsombudsmannen att motverka åldersdiskriminering i arbetslivet - Regeringen.se
+- DO ska stärka arbetet mot ålderism - Publikt
 - Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
-- Aktiespararnas experter: "Om jag bara får äga en aktie..." - Dagens PS
-- Försäljningen av spelkonsoler har sjunkit rejält - m3.se
-- Första titten på Nissan Z Nismo med manuell låda. Lär lyfta körkänslan. - feber.se
+- De skönjer ljusning på svensk bostadsmarknad - SvD
+- Xiaomi 17 Ultra bekräftad med ny kamerasensor, utökat Leica-samarbete - mobil.se
+- Funktion i Windows slukar mängder med minne i onödan - PC för Alla
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2025-12-18 15:54_
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Deepseek är det nya Linux - Computer Sweden
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -85,11 +85,11 @@ _Updated: 2025-12-18 15:54_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -99,23 +99,23 @@ _Updated: 2025-12-18 15:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Fysisk aktivitet en viktig medicin - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-18 15:54_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Lediga jobb - Land Lantbruk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Socialdemokraterna kan inte ignorera lantbruket - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
