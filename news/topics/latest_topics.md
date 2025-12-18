@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 23:40_
+_Updated: 2025-12-19 00:44_
 
 ## Top Stories
 
 - Statsministern: Frågan om Dawit Isaak tas upp med Eritrea - SVT Nyheter
 - Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- Pojkens mörka uppväxt: ”Behöver skyddas” - Nerikes Allehanda
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
+- Pojkens mörka uppväxt: ”Behöver skyddas” - Nerikes Allehanda
 - Överåklagaren: Därför räcker inte bevisningen kring ”Skandiamannen” - SVT Nyheter
 - Läget för Ukraina akut inför toppmötet – beslutet kan påverka Gripenaffären - Dagens Nyheter
 - Sol på väg – nu vänder ovanligt mörk december - Dagens Nyheter
-- Busschaufförens ord om olyckan: ”En stolpe framför mig” - GP
-- Ställer in lokaltrafiken - Expressen
-- Infoträff: Tänk på detta när du lägger in evenemang - Almedalsveckan
+- SD-kris i norr – avhopp i flera kommuner - Dagens Nyheter
+- Bussföraren om dödsolyckan: ”Jag mådde normalt” - Dagens Nyheter
+- 18 december 09.30, Mord/dråp, Stockholm - Polisen.se
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
 - Brasilien ska diskutera handelsväntan - Västerbottens-Kuriren
-- Flera döda i flygkrasch i USA - Västerbottens-Kuriren
-- Nya samtal om Gazaplan i USA - Aftonbladet
+- Mindre flygplan har störtat i USA – flera döda - SVT Nyheter
+- Trump uppmanar Ukraina att ”skynda på” - DI
 - Så mycket mer i plånboken ger lättade bolånekrav - DI
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
+- Carl Johan von Seth: Riksbanken står still – men regeringen höjer räntan - Dagens Nyheter
 - De skönjer ljusning på svensk bostadsmarknad - SvD
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
-- Ny Motorola-mobil och Moto Tag 2 på bild - mobil.se
+- Dolby och LG presenterar en ny era för hemmaljud med världens första soundbarsystem som drivs av Dolby Atmos FlexConnect - Via TT
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2025-12-18 23:40_
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Deepseek är det nya Linux - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -123,22 +123,22 @@ _Updated: 2025-12-18 23:40_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2025-12-18 23:40_
 - Lediga jobb - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
