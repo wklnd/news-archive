@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 19:47_
+_Updated: 2025-12-18 20:54_
 
 ## Top Stories
 
-- Överåklagaren: Därför räcker inte bevisningen kring ”Skandiamannen” - SVT Nyheter
+- ”Vi hade fått nya uppgifter i Sydafrikaspåret” - Dagens Nyheter
+- Pojkens mörka uppväxt: ”Behöver skyddas” - Nerikes Allehanda
 - Statsministern: Frågan om Dawit Isaak tas upp med Eritrea - SVT Nyheter
-- Gunnar Strömmer: ”Förfärlig skjutning” - Expressen
-- Ny jordbrukspolitik retar gallfeber på bönder och miljöorganisationer - Världsnaturfonden WWF
-- Slopat krav på introduktionsutbildning för övningskörning - Regeringen.se
-- Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
 - WIDAR ANDERSSON: En våldtäktsman ska självfallet tappa anknytningen till Sverige - NT
-- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - polisen.se
+- Ny jordbrukspolitik retar gallfeber på bönder och miljöorganisationer - Världsnaturfonden WWF
+- Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
+- Bussföraren om dödsolyckan: ”Jag mådde normalt” - Dagens Nyheter
+- DN Direkt – Kvinna får tio års fängelse för mordförsök - Dagens Nyheter
 - Infoträff: Tänk på detta när du lägger in evenemang - Almedalsveckan
-- Elva barn hölls isolerade i månader – mamman döms - Expressen
+- Kalix lokaltrafik ställer in alla turer tills vidare - kalix.se
 - Belgien kräver garantier för frysta ryska tillgångar inför EU-möte - SVT Nyheter
-- Flygkrasch i North Carolina - Aftonbladet
-- Lula bromsar plan på att sänka Bolsonaros straff - GP
+- Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
+- Mindre flygplan har störtat i USA – flera döda - SVT Nyheter
 - Ukraina: Vad betyder amerikanska säkerhetsgarantier? - GP
-- Nya bolåneregler från den 1 april - SVT Nyheter
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- Bonesupport: Dags att byta fot? - Affärsvärlden
+- Så mycket mer i plånboken ger lättade bolånekrav - DI
+- Carl Johan von Seth: Riksbanken står still – men regeringen höjer räntan - Dagens Nyheter
+- Så reser du smart i jultrafiken - Trafiken.nu
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
-- Slask och ljummet vatten – kan gynna förhållanden för liv på månen - Nyteknik
-- Battlefield 6 kan bli bästsäljaren i USA 2025 - FZ.se
+- Slask och ljummet vatten – kan gynna förhållanden för liv på månen - NyTeknik
+- "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 
 ## World News
 
@@ -50,7 +50,7 @@ _Updated: 2025-12-18 19:47_
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Spår superintelligens om tio år – vill leda racet - Omni
@@ -102,8 +102,8 @@ _Updated: 2025-12-18 19:47_
 - Fysisk aktivitet en viktig medicin - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
@@ -151,8 +151,8 @@ _Updated: 2025-12-18 19:47_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
