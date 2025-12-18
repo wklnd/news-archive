@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-18 13:49_
+_Updated: 2025-12-18 15:23_
 
-- Fact-checking Trump: Economy, wages, immigration and more - NBC News
-- US announces massive package of arms sales to Taiwan valued at more than $10 billion - NPR
-- More than 100,000 Xcel customers still without power Wednesday night amid high winds, unclear when power will return - Colorado Public Radio
+- Fact-check: Trump speech on economy, military dividends - PolitiFact
+- Under Trump, 317,000 workers are out of the government. Here are 3 of their stories - NPR
 - Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
-- Russian Offensive Campaign Assessment, December 17, 2025 - Institute for the Study of War
+- US announces massive package of arms sales to Taiwan valued at more than $10 billion - NPR
+- Extreme Wind Power Outage Information - Jefferson County
 - Australian police say Bondi Beach mass shooting was terrorist attack inspired by Islamic State group - PBS
-- What we know so far about the search for the Brown University shooter - PBS
+- U.S. Government Admits Liability in Deadly D.C.-Area Air Collision - The New York Times
 - Dan Bongino stepping down as FBI deputy director - BBC
-- Government admits failures by Army and air traffic controllers in DCA crash - The Washington Post
-- Fact-checking Trump’s unusual new White House presidential plaques - BBC
-- Anthony Albanese announces hate speech crackdown after Bondi shooting - BBC
+- Jack Smith testifies before House Judiciary Committee about his Trump probes - ABC News
+- Tuberville claims to know the motive for Ella Cook’s murder: ‘The consequences here are very, very fishy’ - AL.com
 - China launches $113 billion free-trade experiment on Hainan island - Reuters
-- Heavy rains compound dire conditions of displaced Gazans, UN warns - BBC
-- Finland Apologizes to China, Japan and South Korea for Racist Gesture - The New York Times
-- Powerball jackpot climbs to estimated $1.5 billion after no Wednesday winner - ABC News
-- CNBC Daily Open: Oracle's debt seems to be affecting data center funding - CNBC
-- BP appoints Woodside's Meg O'Neill as CEO after Auchincloss' abrupt exit - Reuters
-- Trading Day: Tech slumps, oil spikes - Reuters
-- Meta pauses third-party Horizon VR headsets program - The Verge
-- Google’s vibe-coding tool Opal comes to Gemini - TechCrunch
+- ‘We need to do more’: Australian PM vows crackdown on hate speech after Bondi shooting - Dawn
+- Bondi attack suspects had no visitors and barely left hotel during month-long Philippines stay, employee says - CNN
+- Myanmar’s military junta charge hundreds with breaking election law as voting date nears - CNN
+- Inflation report to be released Thursday expected to show slight uptick in November - ABC News
+- Trump Media to merge with fusion power company TAE Technologies in $6 billion deal - CNBC
+- Powerball: Winning numbers drawn for $1.25 billion jackpot - ABC7 Los Angeles
+- BP Names New Boss After Its C.E.O. Steps Down - The New York Times
+- Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers - TechCrunch
+- Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode - The Verge
