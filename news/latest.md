@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-18 01:49_
+_Updated: 2025-12-18 04:27_
 
-- Senate passes $901 billion defense bill that pushes Hegseth for boat strike video - AP News
-- Moderate House Republicans join Democrats to force vote on ACA subsidies - The Washington Post
+- Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
+- Watch: Trump to address the nation as economic concerns drag on his approval ratings - NPR
+- Senate passes defense bill that defies Trump and forces sharing of boat strike videos - Politico
 - Venezuelan Navy Escorts Vessels After Trump’s Blockade Threat - The New York Times
-- Jack Smith tells Congress he could prove Trump engaged in a 'criminal scheme' to overturn 2020 election - NBC News
-- Intent to restructure critical weather science infrastructure - National Science Foundation (.gov)
-- Trump to address the nation as his popularity dips in the face of economic concerns - NPR
-- Watch Live: Officials give update in Brown University shooting as dayslong manhunt for gunman continues - CBS News
-- Rob Reiner’s Close Friends Billy Crystal, Larry David and More Release Statement After Director’s Death: ‘He Was Always At the Top of His Game’ - Variety
+- The White House promises to dismantle the National Center for Atmospheric Research - Colorado Public Radio
+- Students, community frustrated with official response after Brown University shooting - PBS
+- ‘Oh how we will miss this man’: Meg Ryan posts emotional tribute to Rob Reiner - The Guardian
 - Two Massachusetts Men Charged with Large-Scale SNAP Benefits Trafficking - Department of Justice (.gov)
-- 5 Colorado counties brace for power outages as Xcel warns of “multiday event” with wind gusts up to 90 mph - The Colorado Sun
-- Starmer tells Abramovich to 'pay up now' or face court - BBC
-- Alleged Bondi Beach gunman charged with 15 counts of murder, police say - ABC News
+- Sheinbaum urges UN to ‘prevent bloodshed’ after Trump orders Venezuela blockade - The Guardian
+- Jack Smith tells Congress he could prove Trump engaged in a 'criminal scheme' to overturn 2020 election - NBC News
+- Accused gunman in Bondi Beach shooting charged with 15 counts of murder - AP News
+- Heavy rains compound dire conditions of displaced Gazans, UN warns - BBC
 - Britain to rejoin EU’s Erasmus student exchange program in Brexit reversal - CNN
 - All the countries affected by Trump’s expanded travel ban - The Washington Post
-- Medline shares leap 41% after raising $6.3bn in biggest IPO of 2025 - Financial Times
-- Another billionaire just announced a donation to "Trump accounts" - Axios
-- U.S. Postal Service Announces Bid Solicitation for Access to Last-Mile Delivery Network - USPS
-- Senators demand AG Pam Bondi recuse herself from Warner Bros. antitrust review - CNN
-- Google launches Gemini 3 Flash, makes it the default model in the Gemini app - TechCrunch
-- OpenAI’s new ChatGPT image generator makes faking photos easy - Ars Technica
+- Warner Bros. rejects Paramount's hostile bid, accuses Ellison family of failing to put money into the deal - Los Angeles Times
+- BP names new boss as current CEO leaves after less than two years - BBC
+- Stock Market Today: Nasdaq, S&P 500 Close Below Critical Levels; Oracle, Other AI Players Sell Off (Live Coverage) - Investor's Business Daily
+- Delta President Glen Hauenstein to retire after storied career - Delta News Hub
+- OnePlus 15R Hands-on: If only battery and refresh rate were the name of the game - 9to5Google
+- Alexa Plus’ website is live for some users - The Verge
