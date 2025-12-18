@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 00:44_
+_Updated: 2025-12-19 01:41_
 
 ## Top Stories
 
-- Statsministern: Frågan om Dawit Isaak tas upp med Eritrea - SVT Nyheter
-- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
-- Pojkens mörka uppväxt: ”Behöver skyddas” - Nerikes Allehanda
-- Överåklagaren: Därför räcker inte bevisningen kring ”Skandiamannen” - SVT Nyheter
-- Läget för Ukraina akut inför toppmötet – beslutet kan påverka Gripenaffären - Dagens Nyheter
-- Sol på väg – nu vänder ovanligt mörk december - Dagens Nyheter
-- SD-kris i norr – avhopp i flera kommuner - Dagens Nyheter
-- Bussföraren om dödsolyckan: ”Jag mådde normalt” - Dagens Nyheter
-- 18 december 09.30, Mord/dråp, Stockholm - Polisen.se
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
-- Brasilien ska diskutera handelsväntan - Västerbottens-Kuriren
-- Mindre flygplan har störtat i USA – flera döda - SVT Nyheter
+- Pojkens mörka uppväxt: ”Behöver skyddas” - Nerikes Allehanda
+- Statsministern: Frågan om Dawit Isaak tas upp med Eritrea - SVT Nyheter
+- Flera döda i flygkrasch i USA - Expressen
+- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
+- Orpo ber asiater om ursäkt & Ensam Hemma-huset återrenoveras – P3 Nyheter med Babs Drougge - Sveriges Radio
+- Sol på väg – nu vänder ovanligt mörk december - Dagens Nyheter
+- Sofia Mirjamsdotter: Jokkmokk visar vägen - Västerbottens-Kuriren
+- Busschaufförens ord i förhör efter olyckan: ”Jag kände mig normal” - SVT Nyheter
+- Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
+- Lula: Nu eller aldrig för Mercosuravtal - GP
+- Kommentarer av António Costa inför Europeiska rådets möte den 18–19 december 2025 - consilium.europa.eu
+- Nya samtal om Gazaplan i USA - Aftonbladet
 - Trump uppmanar Ukraina att ”skynda på” - DI
 - Så mycket mer i plånboken ger lättade bolånekrav - DI
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
-- Carl Johan von Seth: Riksbanken står still – men regeringen höjer räntan - Dagens Nyheter
 - De skönjer ljusning på svensk bostadsmarknad - SvD
-- "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
 - Dolby och LG presenterar en ny era för hemmaljud med världens första soundbarsystem som drivs av Dolby Atmos FlexConnect - Via TT
+- Steam drar igång årets vinterrea - Nordichardware
 
 ## World News
 
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Widespread mortality of coral reefs - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -57,19 +57,19 @@ _Updated: 2025-12-19 00:44_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -84,11 +84,11 @@ _Updated: 2025-12-19 00:44_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -102,29 +102,29 @@ _Updated: 2025-12-19 00:44_
 - Fysisk aktivitet en viktig medicin - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Early experiments in accelerating science with GPT-5 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -132,12 +132,12 @@ _Updated: 2025-12-19 00:44_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
