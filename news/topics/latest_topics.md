@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 09:42_
+_Updated: 2025-12-18 10:53_
 
 ## Top Stories
 
+- Regeringen agerar mot åldersdiskriminering i arbetslivet - Regeringen.se
+- Trumps julgåva till försvaret – "Krigarbonus" - Expressen
+- Topparna hotas av Ryssland – för att stoppa pengar till Ukraina - Aftonbladet
+- Specialenhet granskar miljonfusk i Malmö - Sydsvenskan
+- Tidöpartierna: Inför straff för rymning - SVT Nyheter
+- Så reser du smart i jultrafiken - Trafiken.nu
 - Misstänkt farligt föremål i villakvarter i Perstorp - SVT Nyheter
-- Oförändrad mängd matsvinn i Sverige – en samhällsutmaning - Naturvårdsverket
-- Expressen Direkt – senaste nytt i korthet - Expressen
-- 18 december 07.30, Sammanfattning natt, Norrbottens län - Polisen.se
-- 18 december 07.51, Sammanfattning natt, Östergötlands län - Polisen.se
-- Karl Hedins ilska efter stoppade vargjakten: ”Låt landet svämma över av varg” - EFN
-- Nästa steg i ubåtsupphandlingen med Polen - Regeringen.se
+- Krimfluencers och ”gangsterkreatörer” – så flyttade gängen in på Tiktok - dn.se
+- Utrikesministern på besök i Eritrea - GP
 - Naturjulkalendern 2025: Denat Lahi - Natursidan
-- Intensiv trafikhelg kommer allt närmare – kör försiktigt i jultrafiken - Polisen.se
-- Ny vision och miljonstöd till förening - Katrineholms kommun
 - Gästkrönika: EU måste hitta sin väg mot produktivitet och säkerhet - Europaportalen
-- Australien ska porta hatspridare - GP
+- Källor: USA redo för nya sanktioner mot Ryssland - Västerbottens-Kuriren
+- Sannfinländare fördöms i ny rasismskandal - Västerbottens-Kuriren
 - Ytterligare en ”knarkbåt” sprängd - SVT Nyheter
-- Riksrevisionen slår ner på regeringens budget - GP
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Stärkt privatekonomi kan ge bostadsmarknaden en efterlängtad skjuts 2026 - sbab.se
 - Rapport: Sverige slösar 600 miljarder om året - SvD
-- Telia: 92 miljoner bedrägerisamtal stoppade i år - Tidningen Näringslivet
-- Insatser som stärker Sveriges omställningskraft - Energimyndigheten
-- Rapport: Brister när bidragsbrott utreds - Aftonbladet
-- Hollyland släpper 4K-webbkamera med egen mygga - m3.se
-- Laptops kan återgå till 8 gigabyte RAM till följd av höga minnespriser - PC för Alla
+- Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
+- Googles nya AI-agent CC bor i din inkorg - Computer Sweden
+- Xiaomi 17 Ultra bekräftad med ny kamerasensor, utökat Leica-samarbete - mobil.se
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-12-18 09:42_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Widespread mortality of coral reefs - Stockholms universitet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-12-18 09:42_
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2025-12-18 09:42_
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-18 09:42_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -123,6 +123,7 @@ _Updated: 2025-12-18 09:42_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -130,15 +131,14 @@ _Updated: 2025-12-18 09:42_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
