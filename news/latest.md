@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-18 12:53_
+_Updated: 2025-12-18 13:49_
 
 - Fact-checking Trump: Economy, wages, immigration and more - NBC News
-- U.S. Government Admits Liability in Deadly D.C.-Area Air Collision - The New York Times
+- US announces massive package of arms sales to Taiwan valued at more than $10 billion - NPR
 - More than 100,000 Xcel customers still without power Wednesday night amid high winds, unclear when power will return - Colorado Public Radio
 - Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
 - Russian Offensive Campaign Assessment, December 17, 2025 - Institute for the Study of War
 - Australian police say Bondi Beach mass shooting was terrorist attack inspired by Islamic State group - PBS
+- What we know so far about the search for the Brown University shooter - PBS
 - Dan Bongino stepping down as FBI deputy director - BBC
-- 2 men arrested for allegedly trafficking nearly $7 million worth of SNAP benefits: Officials - ABC News
-- ‘We want it back’: Trump asserts U.S. claims to Venezuelan oil and land - Los Angeles Times
-- Jack Smith defends his prosecutions of Trump in closed-door session in Congress - NPR
-- ‘We need to do more’: Australian PM vows crackdown on hate speech after Bondi shooting - Dawn
+- Government admits failures by Army and air traffic controllers in DCA crash - The Washington Post
+- Fact-checking Trump’s unusual new White House presidential plaques - BBC
+- Anthony Albanese announces hate speech crackdown after Bondi shooting - BBC
 - China launches $113 billion free-trade experiment on Hainan island - Reuters
 - Heavy rains compound dire conditions of displaced Gazans, UN warns - BBC
-- Recent attacks have been 'inspired' by Islamic State. What does that mean? - NPR
-- Micron’s (MU) AI Story Defies the Sell-Off — What’s Driving the Stock Higher? - TipRanks
+- Finland Apologizes to China, Japan and South Korea for Racist Gesture - The New York Times
+- Powerball jackpot climbs to estimated $1.5 billion after no Wednesday winner - ABC News
+- CNBC Daily Open: Oracle's debt seems to be affecting data center funding - CNBC
 - BP appoints Woodside's Meg O'Neill as CEO after Auchincloss' abrupt exit - Reuters
-- Stocks close sharply lower as AI anxiety returns - NBC News
-- Greg & Ted’s Excellent WBD Adventure With Studio Lot Tour, David Zaslav As Their Guide; Check Out The Photos - Deadline
+- Trading Day: Tech slumps, oil spikes - Reuters
 - Meta pauses third-party Horizon VR headsets program - The Verge
-- From Thin to Folded: How Phone-Makers Are Signaling Innovation Again - CNET
+- Google’s vibe-coding tool Opal comes to Gemini - TechCrunch
