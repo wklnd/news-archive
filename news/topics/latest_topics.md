@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-18 15:11_
+_Updated: 2025-12-18 15:54_
 
 ## Top Stories
 
-- Längdlandslaget till Tour de Ski - Svenska Skidförbundet
+- Nya bolåneregler från den 1 april - SVT Nyheter
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
 - Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - Polisen.se
-- "Pengar i dag eller blod i morgon"– EU i avgörande strid miljardstöd till Ukraina - Europaportalen
 - En person döms till fängelse för terrorbrott - Säkerhetspolisen
-- 12-årig pojke klev av tåget – misstänks för dödsskjutning - Dagens Nyheter
+- Bryssel lamslås av tusentals bönder - Expressen
+- "Pengar i dag eller blod i morgon"– EU i avgörande strid miljardstöd till Ukraina - Europaportalen
 - 60 000 mobiler kan blockeras från att ringa 112 - SVT Nyheter
 - Erik Esbjörnsson: Alla frågor om resan till Eritrea kommer att handla om Dawit Isaak - Dagens Nyheter
-- Bryssel lamslås av tusentals bönder - Expressen
-- Krimfluencers och ”gangsterkreatörer” – så flyttade gängen in på Tiktok - Dagens Nyheter
+- Flera barn hölls gömda – kvinna döms - Aftonbladet
+- Svensk gripen i Spanien – utlämnad till Norge - Sydsvenskan
 - Trumps nya drag: Förolämpningar under presidentporträtt - Dagens Nyheter
+- EU-domen: Dansk ”gettolag” kan vara etnisk diskriminering - GP
 - Biden-kritik i Trumps stora tal - SVT Nyheter
 - Sannfinländare fördöms i ny rasismskandal - Västerbottens-Kuriren
-- EU-domstolen: Dansk ”gettolag” kan vara diskriminerande - GP
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Uppdrag till Diskrimineringsombudsmannen att motverka åldersdiskriminering i arbetslivet - Regeringen.se
 - Förhandsbeskedet: Så blir pensionerna 2026 - Senioren
-- Storbanker räknar med svårtolkad USA-inflation - DI
-- Pressträff om nya bolåneregler - Regeringen.se
-- Konsolförsäljningen rasade i USA i november – PS5 backar 40 % - FZ.se
+- Aktiespararnas experter: "Om jag bara får äga en aktie..." - Dagens PS
+- Försäljningen av spelkonsoler har sjunkit rejält - m3.se
 - Första titten på Nissan Z Nismo med manuell låda. Lär lyfta körkänslan. - feber.se
 
 ## World News
 
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Russia says it hopes Trump does not make a 'fatal mistake' on Venezuela - Reuters
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Widespread mortality of coral reefs - Stockholms universitet
+- Russia says it hopes Trump does not make a 'fatal mistake' on Venezuela - Reuters
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Widespread mortality of coral reefs - Stockholms universitet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - fulfillmenttools Delivers Global Order Management Solution for DEICHMANN - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Björn Wiman: Hatet mot judar är en global fantasi som kan hemsöka alla - Dagens Nyheter
 
 ## Technology
 
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- EY.ai | EY - Sverige - EY
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Deepseek är det nya Linux - Computer Sweden
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
@@ -78,6 +78,7 @@ _Updated: 2025-12-18 15:11_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -92,7 +93,6 @@ _Updated: 2025-12-18 15:11_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -151,6 +151,7 @@ _Updated: 2025-12-18 15:11_
 - Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
@@ -161,4 +162,3 @@ _Updated: 2025-12-18 15:11_
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Unga lantbrukare får ingen chans - Land Lantbruk
