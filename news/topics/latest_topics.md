@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 10:52_
+_Updated: 2025-12-19 11:46_
 
 ## Top Stories
 
-- Brand i höghus i Solna – har spridit sig - SVT Nyheter
-- JUST NU: ”Skickar tydlig signal från Europa till Putin” - Expressen
-- Uppgifter: Två personer gripna efter mordet i Oxie - SVT Nyheter
-- Regeringen presenterar förändringar av svenskt bistånd - SVT Nyheter
+- Norska kronprinsessan Mette-Marit behöver lungtransplantation - SVT Nyheter
+- Ryska svaret till EU: ”Ett misslyckande” - Expressen
 - Håll avstånd – för ett säkert julfirande - polisen.se
 - Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
+- Regeringen presenterar förändringar av svenskt bistånd - SVT Nyheter
+- 19 december 07.21, Sammanfattning natt, Östergötlands län - polisen.se
+- Busschaufförens ord i förhör efter olyckan: ”Jag kände mig normal” - SVT Nyheter
+- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
 - Ishalka gav problem i Norrbotten - SVT Nyheter
 - Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
-- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- SD-kris i norr – avhopp i flera kommuner - Dagens Nyheter
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
 - USA stoppar migrationslotteri efter skoldåd - GP
-- Trump uppmanar Ukraina att ”skynda på” - DI
-- EU vill vänta med Mercosur-avtal - Västerbottens-Kuriren
-- Normal plockar bort produkter riktade mot barn - SVT Nyheter
+- Efter dödsmisshandeln av Lucas – HD höjer skadeståndet - Mitt i
+- Vd-assistenten: ”Publicerar inte av konkurrensskäl” - DI
 - Så mycket mer i plånboken ger lättade bolånekrav - DI
-- Ny prognos tyder på att det är läge att binda räntan - sbab.se
-- Atari tar kontroll över Thunderful – som ska avnoteras - DI
+- Normal stoppar tvålar – kan vara farliga för barn - Aftonbladet
+- Ekonomer: Så ska du göra med bolånet nu - Dagens Nyheter
+- Riktålder för pension införs från och med 2026 - Elektrikerna
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 - Dolby och LG presenterar en ny era för hemmaljud med världens första soundbarsystem som drivs av Dolby Atmos FlexConnect - Via TT
 
@@ -29,47 +29,47 @@ _Updated: 2025-12-19 10:52_
 
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Widespread mortality of coral reefs - Stockholms universitet
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Göteborgsföretag med global ambition – Anyo Labs vinner mark i AI-racet - Life Science Sweden
-- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- De 5 populäraste kryptovalutorna inom artificiell intelligens (AI) - Binance
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
@@ -86,13 +86,13 @@ _Updated: 2025-12-19 10:52_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -103,17 +103,17 @@ _Updated: 2025-12-19 10:52_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Fysisk aktivitet en viktig medicin - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
@@ -121,23 +121,23 @@ _Updated: 2025-12-19 10:52_
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Early experiments in accelerating science with GPT-5 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
