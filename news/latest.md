@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-19 04:29_
+_Updated: 2025-12-19 05:47_
 
-- Live Updates: Authorities Search for a New Person of Interest in the Shooting at Brown - The New York Times
-- Kennedy Center board votes to rename it ‘Trump Kennedy Center’ - CNN
-- INCREASING MEDICAL MARIJUANA AND CANNABIDIOL RESEARCH - The White House (.gov)
-- HHS Acts to Bar Hospitals from Performing Sex-Rejecting Procedures on Children - Department of Health and Human Services (HHS) (.gov)
-- House Democrats release another batch of Epstein photos - ABC News
+- Milwaukee Judge Hannah Dugan found guilty of felony - WPR
+- CONGRESSIONAL BILL S. 1071 SIGNED INTO LAW - The White House (.gov)
 - Six Additional Defendants Charged, One Defendant Pleads Guilty in Ongoing Fraud Schemes - Department of Justice (.gov)
-- Greg Biffle: Ex-Nascar driver and family among seven killed in plane crash - BBC
-- ‘Execution was abysmal’: Trump economy speech doesn’t meet GOP hopes - Politico
-- Mangione pre-trial hearing wraps, but judge won’t rule on evidence for months - NPR
-- Republican and Democratic House members discuss their fight to extend ACA subsidies - NPR
-- EU leaders work into the night to ease Belgian fears of Russian retaliation over a loan to Ukraine - AP News
-- Youngest Bondi Beach shooting victim mourned as Texas rabbi recovers from wounds sustained trying to help - CBS News
 - Anthony Albanese announces hate speech crackdown after Bondi shooting - BBC
-- Japan dismayed over Finnish beauty queen’s ‘slanted eyes’ photos - South China Morning Post
-- TikTok owner agrees to sell US business - BBC
-- Trump Media bets on fusion energy with $6 billion TAE deal - Reuters
-- Flawed inflation data dashes Donald Trump’s hopes of a quick affordability victory - Financial Times
+- Mangione pre-trial hearing wraps, but judge won’t rule on evidence for months - NPR
+- Extreme Wind Power Outage Information - Jefferson County
+- Brown University gunman identified as former grad student; suspected in MIT killing, sources say - ABC News
+- What to know about Jared Isaacman, the billionaire private astronaut leading NASA - NPR
+- Cambodia counts the cost of its border war with Thailand - BBC
+- Australian Police Detain 7 on Suspicion of Planning a ‘Violent Act’ - The New York Times
+- Baby Mohammed freezes to death as Gaza battles winter and displacement - Al Jazeera
+- Brazilian president vows to veto bill cutting Jair Bolsonaro’s prison term - The Guardian
 - Nike shares fall sharply as weak China sales dent faith in turnaround - Financial Times
-- ChatGPT launches an app store, lets developers know it’s open for business - TechCrunch
-- Sony and Tencent settle lawsuit over "slavish clone" of Horizon: Zero Dawn - GamesIndustry.biz
+- S&P 500 futures are little changed after index ends four-day losing run: Live updates - CNBC
+- Bank of England cuts interest rates, in welcome Christmas boost for consumers - CNBC
+- FACT SHEET | FERC Directs Nation’s Largest Grid Operator to Create New Rules to Embrace Innovation and Protect Consumers - Federal Energy Regulatory Commission (.gov)
+- Fortnite Winterfest 2025: Collabs, Cosmetics, Gameplay Changes, And Everything Else To Know - GameSpot
+- The Futuristic New Progen Luiva Supercar Arrives for the Holidays in GTA Online - Rockstar Games
+- Naughty Dog Studio Orders Employee Overtime for ‘Intergalactic’ - Bloomberg.com
+- Get the AirPods Pro 3 for $199 on Amazon [Updated] - MacRumors
