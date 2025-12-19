@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 06:54_
+_Updated: 2025-12-19 07:46_
 
 ## Top Stories
 
 - Kvinna knuffad från balkong på Södermalm - Expressen
+- Misstänkt för Brownskjutning och MIT-mord död - SVT Nyheter
 - Esayas Isaak: "Har man presskonferens har man något att säga" - GP
 - Mindre flygplan har störtat i USA – flera döda - SVT Nyheter
-- Trumps piska: Skynda på – Ryssland är där - Expressen
-- Misstänkt för Brownskjutning och MIT-mord död - SVT Nyheter
 - Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
+- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - Polisen.se
 - Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
+- SMHI: Två dagar lång halkvarning utfärdad - Västerbottens-Kuriren
 - 12-åriga pojken hotad – hade tagit på sig flera morduppdrag för Foxtrot - Dagens Nyheter
-- Utökat arbete krävs för att stoppa våldet - Jämställdhetsmyndigheten
+- DN Direkt – USA: Fem dödade i attacker mot knarkbåtar - Dagens Nyheter
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
+- Trump uppmanar Ukraina att ”skynda på” - DI
 - EU vill vänta med Mercosur-avtal - Västerbottens-Kuriren
-- Ytterligare en ”knarkbåt” sprängd - SVT Nyheter
-- Nya samtal om Gazaplan i USA - Aftonbladet
-- Förslag på höjt bolånetak och slopande av skärpt amorteringskrav - Regeringen.se
+- Lättnader i amorteringskravet kan införas i vår - SvD
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
 - Insatser som stärker Sveriges omställningskraft - Energimyndigheten
-- Bäst betalda börstopparna tjänar 70 miljoner om året - Omni
+- Oförändrad mängd matsvinn i Sverige – en samhällsutmaning - Naturvårdsverket
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
-- Steam drar igång årets vinterrea - Nordichardware
+- Dolby och LG presenterar en ny era för hemmaljud med världens första soundbarsystem som drivs av Dolby Atmos FlexConnect - Via TT
 
 ## World News
 
@@ -74,7 +74,6 @@ _Updated: 2025-12-19 06:54_
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -82,30 +81,31 @@ _Updated: 2025-12-19 06:54_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Fysisk aktivitet en viktig medicin - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fysisk aktivitet en viktig medicin - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2025-12-19 06:54_
 
 ## Jordbruk
 
+- Lediga jobb - Land Lantbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Socialdemokraterna kan inte ignorera lantbruket - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk
