@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 19:39_
+_Updated: 2025-12-19 20:52_
 
 ## Top Stories
 
-- Tre män deporterade från Egypten - polisen.se
-- EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
-- Två kvinnor anhållna efter mordet i Oxie - SVT Nyheter
-- Chrippa döms till flera års fängelse: "Life is life" - Corren
-- Håll avstånd – för ett säkert julfirande - polisen.se
+- Influencern ”Chrippa” döms till fängelse för grova ekobrott - SVT Nyheter
+- Två kvinnor gripna för inblandning i morden i Oxie - Expressen
+- Migrationsministern: ”Våldtar man människor ska man ut ur Sverige” - Aftonbladet
+- Norska Kronprinsessan Mette-Marit förbereds för lungtransplantation - SVT Nyheter
 - S besked: Nej till att återkalla uppehållstillstånd – ”orimlig ordning” - Dagens Nyheter
-- Mördade sina barn – flyttas till kvinnofängelse - Aftonbladet
-- Anna Tenje om våldtäkterna i äldreomsorgen: ”Förbannad och djupt berörd” - Expressen
-- Livstids fängelse för skjutning i Alby – mordoffer var inte måltavla - SVT Nyheter
-- Polis får sparken för misshandel av flickvännen - Omni
-- Källa: Ukrainsk attack mot tanker i Medelhavet - Hufvudstadsbladet
-- Putin i egen tv-show: Bollen ligger hos er - Västerbottens-Kuriren
-- Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
-- Uppgifter: USA och Ryssland möts för nya Ukraina-samtal - DI
-- Saab får miljardorder från Nato-land - Sydsvenskan
-- Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
-- Utdelningsportföljen: 10 år av utdelning – här är nya portföljen - Affärsvärlden
-- Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
+- Brå får flera nya uppdrag för att öka kunskapen om våld mot barn - Brottsförebyggande rådet (Brå)
+- Tre efterlysta deporterade från Egypten - SVT Nyheter
+- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
+- Utrikesministern: ”Framfört hur viktigt det är att Dawit Isaak friges” - SVT Nyheter
+- Vänersborgs tingsrätt söker sommarnotarier - Sveriges Domstolar
+- Kiev: Nya samtal med USA och Europa - DI
+- Källor: USA och Ryssland ska hålla nya samtal - Omni
+- Trump "utesluter inte" krig med Venezuela - GP
+- Värsta svälten hejdad i Gaza – men läget kritiskt - Västerbottens-Kuriren
+- Saab får order på utvecklingsresurser för Gripen - Saab
+- Normal stoppar tvålar – kan vara farliga för barn - Aftonbladet
+- Avtal träffat för automation i Axfoods nya högautomatiserade logistikcenter i Kungsbacka - Axfood
+- Överenskommelse för att säkra vården vid kris och krig - SKR
 - LG släpper modulärt ljudsystem med Dolby Atmos Flexconnect - m3.se
-- "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
+- Samsung lanserar nya mobilchippet Exynos 2600 - Computer Sweden
 
 ## World News
 
@@ -80,6 +80,7 @@ _Updated: 2025-12-19 19:39_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
@@ -92,7 +93,6 @@ _Updated: 2025-12-19 19:39_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 
 ## Health
 
@@ -122,23 +122,23 @@ _Updated: 2025-12-19 19:39_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Early experiments in accelerating science with GPT-5 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
