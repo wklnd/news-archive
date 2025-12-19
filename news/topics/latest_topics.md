@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 07:46_
+_Updated: 2025-12-19 08:54_
 
 ## Top Stories
 
-- Kvinna knuffad från balkong på Södermalm - Expressen
 - Misstänkt för Brownskjutning och MIT-mord död - SVT Nyheter
+- Överåklagaren: Därför räcker inte bevisningen kring ”Skandiamannen” - SVT Nyheter
 - Esayas Isaak: "Har man presskonferens har man något att säga" - GP
-- Mindre flygplan har störtat i USA – flera döda - SVT Nyheter
+- Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
 - Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - Polisen.se
 - Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
-- Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
+- Pojke gripen efter brand på skola utanför Helsingborg - SVT Nyheter
+- Eskilstunafabriken förlorar dispensen – får inte använda förbjudna ämnet - Dagens Nyheter
+- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - Polisen.se
 - SMHI: Två dagar lång halkvarning utfärdad - Västerbottens-Kuriren
-- 12-åriga pojken hotad – hade tagit på sig flera morduppdrag för Foxtrot - Dagens Nyheter
-- DN Direkt – USA: Fem dödade i attacker mot knarkbåtar - Dagens Nyheter
+- Bakslag om ryska tillgångar till Ukraina – EU tar nya lån - Dagens Nyheter
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
 - Trump uppmanar Ukraina att ”skynda på” - DI
 - EU vill vänta med Mercosur-avtal - Västerbottens-Kuriren
-- Lättnader i amorteringskravet kan införas i vår - SvD
+- Så mycket mer i plånboken ger lättade bolånekrav - DI
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
 - Insatser som stärker Sveriges omställningskraft - Energimyndigheten
-- Oförändrad mängd matsvinn i Sverige – en samhällsutmaning - Naturvårdsverket
+- Stark novembermånad för e-handeln - Svensk Handel
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 - Dolby och LG presenterar en ny era för hemmaljud med världens första soundbarsystem som drivs av Dolby Atmos FlexConnect - Via TT
 
@@ -57,6 +57,7 @@ _Updated: 2025-12-19 07:46_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
@@ -68,21 +69,23 @@ _Updated: 2025-12-19 07:46_
 - Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -90,22 +93,20 @@ _Updated: 2025-12-19 07:46_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Fysisk aktivitet en viktig medicin - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Fysisk aktivitet en viktig medicin - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-12-19 07:46_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
