@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 15:50_
+_Updated: 2025-12-19 16:46_
 
 ## Top Stories
 
-- Dom meddelas i uppmärksammat mål om utpressning - Sveriges Domstolar
-- Två kvinnor anhållna efter mordet i Oxie - SVT Nyheter
-- EU lånar 90 miljarder euro till Ukraina – frysta ryska tillgångar kvar i byrålådan - Europaportalen
-- Håll avstånd – för ett säkert julfirande - polisen.se
-- Livstids fängelse för 18-åring efter mord i Alby - Sveriges Domstolar
-- Tingsrätten dömer tio personer för bedrägerier och stölder mot äldre - Sveriges Domstolar
-- DN Direkt – Dousa: Kraftigt minskat bistånd nästa år - Dagens Nyheter
 - Influencern ”Chrippa” döms till fängelse för grova ekobrott - SVT Nyheter
+- Håll avstånd – för ett säkert julfirande - polisen.se
+- Två kvinnor gripna för inblandning i morden i Oxie - Expressen
+- EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
+- Livstids fängelse för 18-åring efter mord i Alby - Sveriges Domstolar
+- Medier döms att lämna ut upploppsbilder - SVT Nyheter
+- DN Direkt – Dousa: Kraftigt minskat bistånd nästa år - Dagens Nyheter
+- S besked: Nej till att återkalla uppehållstillstånd – ”orimlig ordning” - Dagens Nyheter
+- Regeringen vill höja kunskaperna kring asbest hos arbetstagare - Regeringen.se
 - Utrikesministern: ”Framfört hur viktigt det är att Dawit Isaak friges” - SVT Nyheter
-- Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
 - Källa: Ukrainsk attack mot tanker i Medelhavet - Västerbottens-Kuriren
 - DN Direkt – Trump ”utesluter inte” krig med Venezuela - Dagens Nyheter
+- Putin i tv: Bara framsteg längs hela fronten - Hufvudstadsbladet
 - Värsta svälten hejdad i Gaza – men läget kritiskt - Västerbottens-Kuriren
-- USA stoppar migrationslotteri efter skoldåd - GP
 - Saab får order på signalspaningslösning - Saab
-- Nya bolåneregler 1 april – de blir vinnare - Jönköpings-Posten
 - Så blir pensionen nästa år – höjning för många - DI
+- Förslag på höjt bolånetak och slopande av skärpt amorteringskrav - Regeringen.se
 - Gulliga produkterna på Normal plockas bort i Sverige – kan orsaka allergi - TTELA
 - Samsung lanserar nya mobilchippet Exynos 2600 - Computer Sweden
 - LG släpper modulärt ljudsystem med Dolby Atmos Flexconnect - m3.se
@@ -33,7 +33,6 @@ _Updated: 2025-12-19 15:50_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Widespread mortality of coral reefs - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -41,12 +40,13 @@ _Updated: 2025-12-19 15:50_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- New Secretary General appointed - Olof Palme International Center
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -123,19 +123,19 @@ _Updated: 2025-12-19 15:50_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Early experiments in accelerating science with GPT-5 - OpenAI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
