@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-19 16:53_
+_Updated: 2025-12-19 17:52_
 
 - Brown University shooting suspect found dead. And Epstein files release deadline looms - NPR
-- Trump suspends green card lottery program that let Brown University, MIT shootings suspect into US - AP News
+- Suspect in MIT Professor’s Death Was an Ex-Classmate from Portugal, Prosecutors Say - The New York Times
+- Trump suspends U.S. green card lottery after Brown University shooting - CNBC
 - Trump will revisit a North Carolina town, now the focus of a newly redrawn congressional district - NPR
-- #ClackCo Alerts - Clackamas County
-- How investigators zeroed in on the Brown University shooting suspect and linked him to the killing of an MIT professor - CNN
-- CONGRESSIONAL BILL S. 1071 SIGNED INTO LAW - The White House (.gov)
-- After years of speculation, DOJ faces Friday deadline to release remaining Epstein files - ABC News
-- Milwaukee Judge Hannah Dugan found guilty of felony - WPR
-- Putin tells his annual news conference that the Kremlin's military goals will be achieved in Ukraine - ABC News
+- Putin’s retaliation threat over frozen assets rattles EU capitals - Financial Times
+- Judge Convicted of Obstructing Agents as They Sought Undocumented Immigrant - The New York Times
 - Six Additional Defendants Charged, One Defendant Pleads Guilty in Ongoing Fraud Schemes - Department of Justice (.gov)
-- EU leaders will loan 90 billion euros to Ukraine, but fail to agree to use frozen Russian assets - Reuters
-- Australia announces plan to buy back guns after Bondi mass killing - The Washington Post
+- Putin tells his annual news conference that the Kremlin's military goals will be achieved in Ukraine - ABC News
+- Dangerous fire situation looming for parts of Colorado's Front Range, as another day of strong winds lies ahead - CBS News
+- U.S. says 2 strikes on alleged drug boats killed 5 in eastern Pacific - NBC News
 - Ukraine attacks Russian ‘shadow’ tanker off Libyan coast - The Guardian
-- UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions' - BBC
-- NY Fed President Williams says some 'technical factors' distorted November's CPI reading downward - CNBC
+- Australia Announces Plan to Buy Back Guns in Wake of Bondi Attack - The New York Times
+- Riots Erupt in Bangladesh After the Killing of a Student Leader - The New York Times
+- EU delays signing Mercosur free trade deal, again - DW
 - China's ByteDance signs deal to form joint venture in step to avoid US TikTok ban - Reuters
-- Japan raises interest rates to highest level in 30 years - Financial Times
+- Stock Market Today: Japan Rate Hike Spurs Bond Yields; S&P 500 Futures Gain — Live Updates - The Wall Street Journal
+- Inflation cools slightly in November as worries about affordability grip Americans - NPR
 - Monetary policy statement (with Q&A) - European Central Bank
-- Samsung announces Exynos 2600: World's first 2nm smartphone chip that might power the Galaxy S26 - Android Authority
 - The Best Co-Op Games Of 2025 According To Metacritic - GameSpot
+- Instagram wants to limit hashtag spam - The Verge
