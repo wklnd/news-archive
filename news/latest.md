@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-19 06:58_
+_Updated: 2025-12-19 07:52_
 
-- Brown University Shooting Live Updates: Person of Interest Found Dead in New Hampshire - The New York Times
+- Brown University gunman identified as former grad student; suspected in MIT killing, sources say - ABC News
 - Kennedy Center Board Moves to Rename It the Trump-Kennedy Center - The New York Times
 - Trump signs executive order expediting marijuana reclassification after lobbying from cannabis industry - CNN
+- Judge Convicted of Obstructing Agents as They Sought Undocumented Immigrant - The New York Times
 - Anthony Albanese announces hate speech crackdown after Bondi shooting - BBC
 - HHS Acts to Bar Hospitals from Performing Sex-Rejecting Procedures on Children - Department of Health and Human Services (HHS) (.gov)
-- ‘Execution was abysmal’: Trump economy speech doesn’t meet GOP hopes - Politico
-- Milwaukee Judge Hannah Dugan found guilty of felony - WPR
 - Greg Biffle: Ex-Nascar driver and family among seven killed in plane crash - BBC
-- More power shut-offs expected for 67K homes tomorrow due to high winds, Boulder at highest risk - Colorado Public Radio
+- ‘Execution was abysmal’: Trump economy speech doesn’t meet GOP hopes - Politico
 - TikTok signs deal to give U.S. operations to Oracle-led investor group - NPR
+- Pope Leo names Ronald Hicks next archbishop of New York - BBC
 - EU leaders to loan €90bn to Ukraine - but fail to agree on using Russian assets - BBC
-- Bondi Beach hero Ahmed Al Ahmed receives over $1M in donations after tackling gunman in Australia shooting - CBS News
-- Mourners grieve 10-year-old slain in Bondi mass shooting as Australia's leader pledges new hate laws - NPR
+- Youngest Bondi Beach shooting victim mourned as Texas rabbi recovers from wounds sustained trying to help - CBS News
 - Cambodia counts the cost of its border war with Thailand - BBC
-- Trump Media bets on fusion energy with $6 billion TAE deal - Reuters
+- Japan dismayed over Finnish beauty queen’s ‘slanted eyes’ photos - South China Morning Post
 - Japan raises interest rates to highest level in 30 years - Financial Times
-- Inflation cools slightly in November as worries about affordability grip Americans - NPR
-- Why the $1.5 billion Powerball jackpot is the latest in a growing list of stratospheric lottery payouts - ABC News
+- Trump Media to Merge With Nuclear Fusion Firm in $6 Billion Deal - The Wall Street Journal
+- Nike’s Struggles Continue, but Turnaround Plan May Be Working - The New York Times
+- Delayed inflation data shows price pressures easing, in boost to Trump - Politico
 - ChatGPT launches an app store, lets developers know it’s open for business - TechCrunch
-- ‘Google News Audio Briefing’ rolling out with new Listen tab on Android - 9to5Google
+- Fortnite Winterfest 2025: Collabs, Cosmetics, Gameplay Changes, And Everything Else To Know - GameSpot
