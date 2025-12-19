@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-19 13:49_
+_Updated: 2025-12-19 15:21_
 
-- Gunman in Brown University shooting found dead, linked to MIT killing - Reuters
-- Judge Convicted of Obstructing Agents as They Sought Undocumented Immigrant - The New York Times
-- JFK's family reacts with fury to "Trump-Kennedy Center" renaming plan - Axios
-- HHS Acts to Bar Hospitals from Performing Sex-Rejecting Procedures on Children - Department of Health and Human Services (HHS) (.gov)
+- Brown University shooting suspect found dead - BBC
+- Trump will revisit a North Carolina town, now the focus of a newly redrawn congressional district - NPR
 - CONGRESSIONAL BILL S. 1071 SIGNED INTO LAW - The White House (.gov)
 - #ClackCo Alerts - Clackamas County
-- Several Billion Dollars Were Lost to Fraud in Minnesota, Prosecutors Say - The New York Times
-- Trump suspends U.S. green card lottery after Brown University and MIT shootings - NPR
+- Trump suspends green card lottery program that let Brown University, MIT shootings suspect into US - AP News
+- RFK Jr. and Dr. Oz announce moves to ban gender-affirming care for young people - NPR
 - New archbishop of New York grew up 14 blocks from Pope Leo - ABC News
+- Six Additional Defendants Charged, One Defendant Pleads Guilty in Ongoing Fraud Schemes - Department of Justice (.gov)
+- Milwaukee Judge Hannah Dugan found guilty of felony - WPR
 - Dangerous fire situation looming for parts of Colorado's Front Range, as another day of strong winds lies ahead - CBS News
-- EU leaders agree on 90 billion euro loan to Ukraine after a plan to use Russian assets unravels - ABC News
-- Japan reaffirms no-nukes pledge after official floats weapons idea - Reuters
-- Australia announced gun buyback scheme in wake of Bondi attack - BBC
+- Fraught EU summit backs Ukraine but divisions are clear - BBC
+- Australia Announces Plan to Buy Back Guns in Wake of Bondi Attack - The New York Times
 - Mercosur signature delayed to January after Meloni asked for more time - Euronews.com
-- Bank of Japan Raises Interest Rates to Highest Level in 30 Years - The New York Times
+- Youngest Bondi Beach shooting victim mourned as Texas rabbi recovers from wounds sustained trying to help - CBS News
+- Japan raises interest rates to highest level in 30 years - Financial Times
 - China's ByteDance signs deal to form joint venture in step to avoid US TikTok ban - Reuters
-- CNBC Daily Open: Investors might not want to take U.S. inflation numbers in November at face value - CNBC
-- Nike shares fall sharply as weak China sales dent faith in turnaround - Financial Times
-- Kuo: iPhone Fold Production Challenges Could Limit Supply Next Year - MacRumors
-- Fortnite Winterfest 2025: Collabs, Cosmetics, Gameplay Changes, And Everything Else To Know - GameSpot
+- Inflation cools slightly in November as worries about affordability grip Americans - NPR
+- Monetary policy statement (with Q&A) - European Central Bank
+- Instagram wants to limit hashtag spam - The Verge
+- Samsung announces Exynos 2600: World's first 2nm smartphone chip that might power the Galaxy S26 - Android Authority
