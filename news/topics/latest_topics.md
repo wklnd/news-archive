@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 09:42_
+_Updated: 2025-12-19 10:52_
 
 ## Top Stories
 
-- Jättelån till Ukraina klart efter maratonmöte - Aftonbladet
+- Brand i höghus i Solna – har spridit sig - SVT Nyheter
+- JUST NU: ”Skickar tydlig signal från Europa till Putin” - Expressen
+- Uppgifter: Två personer gripna efter mordet i Oxie - SVT Nyheter
+- Regeringen presenterar förändringar av svenskt bistånd - SVT Nyheter
+- Håll avstånd – för ett säkert julfirande - polisen.se
 - Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
-- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
-- 19 december 07.21, Sammanfattning natt, Östergötlands län - polisen.se
-- Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
-- Många skadas varje år - polisen i region Väst manar till lugn i jultrafiken - polisen.se
 - Ishalka gav problem i Norrbotten - SVT Nyheter
-- Pojke gripen efter brand på skola utanför Helsingborg - SVT Nyheter
-- Utökat arbete krävs för att stoppa våldet - Jämställdhetsmyndigheten
+- Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
+- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
+- SD-kris i norr – avhopp i flera kommuner - Dagens Nyheter
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
+- USA stoppar migrationslotteri efter skoldåd - GP
 - Trump uppmanar Ukraina att ”skynda på” - DI
-- Balkongbrand – brinner med öppna lågor - Aftonbladet
-- Misstänkt för Brownskjutningen död - GP
-- Så mycket mer i plånboken ger lättade bolånekrav - DI
+- EU vill vänta med Mercosur-avtal - Västerbottens-Kuriren
 - Normal plockar bort produkter riktade mot barn - SVT Nyheter
-- E‑hälsomyndigheten lanserar ny webbplats - E-hälsomyndigheten
-- Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
+- Så mycket mer i plånboken ger lättade bolånekrav - DI
+- Ny prognos tyder på att det är läge att binda räntan - sbab.se
+- Atari tar kontroll över Thunderful – som ska avnoteras - DI
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 - Dolby och LG presenterar en ny era för hemmaljud med världens första soundbarsystem som drivs av Dolby Atmos FlexConnect - Via TT
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-19 09:42_
 
 ## Jordbruk
 
+- Lediga jobb - Land Lantbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
