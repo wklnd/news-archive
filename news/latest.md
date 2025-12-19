@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-20 00:50_
+_Updated: 2025-12-20 01:48_
 
-- Epstein files: Democrats vow to fight Trump officials’ plan to hold back some documents, slamming ‘violation of federal law’ – live - The Guardian
-- Treasury Targets Family Members and Associates of Maduro Regime - U.S. Department of the Treasury (.gov)
-- Kennedy Center gets new signage bearing Trump’s name - CNN
+- Justice Department begins the release of the Epstein files - NPR
+- Suspected Killer of M.I.T. Professor Studied With Victim, Graduating Top of Their Class - The New York Times
+- Nine of the largest pharma companies ink deals with Trump to lower drug prices - CNBC
 - The next Bay Area storm is on the way. This timeline shows when heaviest rain will hit - San Francisco Chronicle
 - Putin’s retaliation threat over frozen assets rattles EU capitals - Financial Times
-- What We Know About the Suspects in the Bondi Beach Shooting - The New York Times
 - Judge blocks HUD homelessness overhaul, rebukes agency for causing 'chaos' - NPR
+- It was called the Kennedy Center, but 3 different presidents shaped it - NPR
+- US judge found guilty of helping Mexican migrant evade immigration agents - BBC
 - Erika Kirk endorses JD Vance for president at conservative event - BBC
-- Rain batters Oregon and Southwest Washington as flood watches remain in effect, road closures hit - Oregon Public Broadcasting - OPB
 - Scientists push back on Trump plan to break up a critical climate and weather center - NPR
 - Taiwan: Knife attacker kills three after smoke bombing Taipei metro - BBC
-- Mercosur signature delayed to January after Meloni asked for more time - Euronews.com
-- Baby Mohammed freezes to death as Gaza battles winter and displacement - Al Jazeera
-- Japan expects Finland to act over offensive slant-eyes posts - 朝日新聞
-- Nasdaq rises 1% as AI trade tries to end year on high note: Live updates - CNBC
+- Ukraine Hits Russia Shadow Fleet Tanker in Mediterranean for First Time - Bloomberg.com
+- What We Know About the Suspects in the Bondi Beach Shooting - The New York Times
+- Gaza no longer in famine after aid access improves, hunger monitor says - Reuters
+- Elon Musk’s massive 2018 Tesla pay package restored by Delaware court - The Guardian
+- Oracle Stock Jumps On Reports TikTok Signed Deal To Create U.S. Joint Venture - Investor's Business Daily
+- Stock Market Today: Dow Rises; Japan Rate Hike Spurs Bond Yields — Live Updates - The Wall Street Journal
 - 4 common scams to watch out for this holiday season - NPR
-- ‘Uniquely evil’: Michigan residents fight against huge datacenter backed by top tycoons - The Guardian
-- Monetary policy statement (with Q&A) - European Central Bank
-- Semi-solid state MagSafe power banks arrive from the founder of Hyper - The Verge
-- Apple might be requiring iPhone users to install iOS 26 for security fixes - 9to5Mac
+- A total League of Legends revamp is coming in 2027 - Engadget
+- Gemini will replace Google Assistant on Android in 2026 - 9to5Google
