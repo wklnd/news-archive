@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 15:09_
+_Updated: 2025-12-19 15:50_
 
 ## Top Stories
 
+- Dom meddelas i uppmärksammat mål om utpressning - Sveriges Domstolar
 - Två kvinnor anhållna efter mordet i Oxie - SVT Nyheter
 - EU lånar 90 miljarder euro till Ukraina – frysta ryska tillgångar kvar i byrålådan - Europaportalen
 - Håll avstånd – för ett säkert julfirande - polisen.se
 - Livstids fängelse för 18-åring efter mord i Alby - Sveriges Domstolar
-- Utrikesministern: ”Framfört hur viktigt det är att Dawit Isaak friges” - SVT Nyheter
-- Skär ner på biståndet – med flera miljarder - Expressen
+- Tingsrätten dömer tio personer för bedrägerier och stölder mot äldre - Sveriges Domstolar
+- DN Direkt – Dousa: Kraftigt minskat bistånd nästa år - Dagens Nyheter
 - Influencern ”Chrippa” döms till fängelse för grova ekobrott - SVT Nyheter
+- Utrikesministern: ”Framfört hur viktigt det är att Dawit Isaak friges” - SVT Nyheter
 - Remittering av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Svenskt Näringsliv
-- DN Direkt – Förundersökning om bussolyckan på Östermalm läggs ned - Dagens Nyheter
-- Frontalkrock vid Klaffbron i Trollhättan – en förare har avlidit - SVT Nyheter
 - Källa: Ukrainsk attack mot tanker i Medelhavet - Västerbottens-Kuriren
 - DN Direkt – Trump ”utesluter inte” krig med Venezuela - Dagens Nyheter
+- Värsta svälten hejdad i Gaza – men läget kritiskt - Västerbottens-Kuriren
 - USA stoppar migrationslotteri efter skoldåd - GP
-- EU vill vänta med Mercosur-avtal - Västerbottens-Kuriren
-- Saab tar miljardorder för signalspaning - DI
-- Så blir pensionen nästa år – höjning för många - Sydsvenskan
+- Saab får order på signalspaningslösning - Saab
 - Nya bolåneregler 1 april – de blir vinnare - Jönköpings-Posten
-- Ny prognos tyder på att det är läge att binda räntan - sbab.se
+- Så blir pensionen nästa år – höjning för många - DI
+- Gulliga produkterna på Normal plockas bort i Sverige – kan orsaka allergi - TTELA
 - Samsung lanserar nya mobilchippet Exynos 2600 - Computer Sweden
 - LG släpper modulärt ljudsystem med Dolby Atmos Flexconnect - m3.se
 
@@ -57,6 +57,7 @@ _Updated: 2025-12-19 15:09_
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
@@ -68,7 +69,6 @@ _Updated: 2025-12-19 15:09_
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
