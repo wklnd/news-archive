@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 20:52_
+_Updated: 2025-12-19 21:38_
 
 ## Top Stories
 
-- Influencern ”Chrippa” döms till fängelse för grova ekobrott - SVT Nyheter
-- Två kvinnor gripna för inblandning i morden i Oxie - Expressen
-- Migrationsministern: ”Våldtar man människor ska man ut ur Sverige” - Aftonbladet
+- EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
+- Två kvinnor anhållna efter mordet i Oxie - SVT Nyheter
+- Chrippa får fängelse: "Känns som jag har en kedja runt halsen" - Corren
+- Anna Tenje om våldtäkterna i äldreomsorgen: ”Förbannad och djupt berörd” - Expressen
 - Norska Kronprinsessan Mette-Marit förbereds för lungtransplantation - SVT Nyheter
+- Stora förändringar av svenskt bistånd - Regeringen.se
 - S besked: Nej till att återkalla uppehållstillstånd – ”orimlig ordning” - Dagens Nyheter
-- Brå får flera nya uppdrag för att öka kunskapen om våld mot barn - Brottsförebyggande rådet (Brå)
-- Tre efterlysta deporterade från Egypten - SVT Nyheter
-- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- Utrikesministern: ”Framfört hur viktigt det är att Dawit Isaak friges” - SVT Nyheter
-- Vänersborgs tingsrätt söker sommarnotarier - Sveriges Domstolar
-- Kiev: Nya samtal med USA och Europa - DI
-- Källor: USA och Ryssland ska hålla nya samtal - Omni
-- Trump "utesluter inte" krig med Venezuela - GP
-- Värsta svälten hejdad i Gaza – men läget kritiskt - Västerbottens-Kuriren
+- Mördade sina barn – flyttas till kvinnofängelse - Aftonbladet
+- Stopp i jultrafiken: ”Får ju inte bli ett ras” – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Dom meddelas i uppmärksammat mål om utpressning - Sveriges Domstolar
+- Ukraina inleder ny förhandlingsrunda med USA - Dagens Nyheter
+- Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
+- Källa: Ukrainsk attack mot tanker i Medelhavet - Hufvudstadsbladet
+- Sydkoreas president kallar håravfall en livsfara - Omni
 - Saab får order på utvecklingsresurser för Gripen - Saab
-- Normal stoppar tvålar – kan vara farliga för barn - Aftonbladet
-- Avtal träffat för automation i Axfoods nya högautomatiserade logistikcenter i Kungsbacka - Axfood
-- Överenskommelse för att säkra vården vid kris och krig - SKR
+- Förändringar i bolånereglerna föreslås - Bostadsrätterna
+- Saab får miljardorder från Nato-land - Sydsvenskan
+- Gulliga produkterna på Normal plockas bort i Sverige – kan orsaka allergi - TTELA
+- "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 - LG släpper modulärt ljudsystem med Dolby Atmos Flexconnect - m3.se
-- Samsung lanserar nya mobilchippet Exynos 2600 - Computer Sweden
 
 ## World News
 
-- Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Widespread mortality of coral reefs - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -39,9 +39,9 @@ _Updated: 2025-12-19 20:52_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
