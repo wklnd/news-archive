@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 18:51_
+_Updated: 2025-12-19 19:39_
 
 ## Top Stories
 
+- Tre män deporterade från Egypten - polisen.se
 - EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
-- Influencern ”Chrippa” döms till fängelse för grova ekobrott - SVT Nyheter
-- Två kvinnor gripna för inblandning i morden i Oxie - Expressen
-- Attack mot fartyg – på Medelhavet - Expressen
+- Två kvinnor anhållna efter mordet i Oxie - SVT Nyheter
+- Chrippa döms till flera års fängelse: "Life is life" - Corren
 - Håll avstånd – för ett säkert julfirande - polisen.se
 - S besked: Nej till att återkalla uppehållstillstånd – ”orimlig ordning” - Dagens Nyheter
-- Polis döms för misshandel – förlorar sin tjänst - SVT Nyheter
+- Mördade sina barn – flyttas till kvinnofängelse - Aftonbladet
+- Anna Tenje om våldtäkterna i äldreomsorgen: ”Förbannad och djupt berörd” - Expressen
 - Livstids fängelse för skjutning i Alby – mordoffer var inte måltavla - SVT Nyheter
-- Stora förändringar av svenskt bistånd - Regeringen.se
-- Hotade kändisar med våldsdåd – döms • Perrelli - Expressen
-- Macron: Kan behöva prata med Putin - Aftonbladet
+- Polis får sparken för misshandel av flickvännen - Omni
+- Källa: Ukrainsk attack mot tanker i Medelhavet - Hufvudstadsbladet
 - Putin i egen tv-show: Bollen ligger hos er - Västerbottens-Kuriren
+- Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
 - Uppgifter: USA och Ryssland möts för nya Ukraina-samtal - DI
-- DN Direkt – Trump ”utesluter inte” krig med Venezuela - Dagens Nyheter
-- Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
 - Saab får miljardorder från Nato-land - Sydsvenskan
-- Normal stoppar tvålar – kan vara farliga för barn - Aftonbladet
-- Avtal träffat för automation i Axfoods nya högautomatiserade logistikcenter i Kungsbacka - Axfood
-- Samsung lanserar nya mobilchippet Exynos 2600 - Computer Sweden
+- Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
+- Utdelningsportföljen: 10 år av utdelning – här är nya portföljen - Affärsvärlden
+- Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
 - LG släpper modulärt ljudsystem med Dolby Atmos Flexconnect - m3.se
+- "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2025-12-19 18:51_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-19 18:51_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Socialdemokraterna kan inte ignorera lantbruket - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
