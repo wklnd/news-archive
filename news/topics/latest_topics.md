@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-19 05:44_
+_Updated: 2025-12-19 06:54_
 
 ## Top Stories
 
-- EU överens om finansiering – 90 miljarder euro till Ukraina - SVT Nyheter
+- Kvinna knuffad från balkong på Södermalm - Expressen
 - Esayas Isaak: "Har man presskonferens har man något att säga" - GP
-- Trumps piska: Skynda på – Ryssland är där - Expressen
 - Mindre flygplan har störtat i USA – flera döda - SVT Nyheter
-- Kalix lokaltrafik ställer in alla turer tills vidare - kalix.se
-- 12-åriga pojken hotad – hade tagit på sig flera morduppdrag för Foxtrot - Dagens Nyheter
+- Trumps piska: Skynda på – Ryssland är där - Expressen
+- Misstänkt för Brownskjutning och MIT-mord död - SVT Nyheter
 - Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
 - Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
+- 12-åriga pojken hotad – hade tagit på sig flera morduppdrag för Foxtrot - Dagens Nyheter
 - Utökat arbete krävs för att stoppa våldet - Jämställdhetsmyndigheten
 - Fler Epsteinbilder släppta – citat ur ”Lolita” - SVT Nyheter
-- EU vill vänta med Mercosur-avtal - GP
+- EU vill vänta med Mercosur-avtal - Västerbottens-Kuriren
+- Ytterligare en ”knarkbåt” sprängd - SVT Nyheter
 - Nya samtal om Gazaplan i USA - Aftonbladet
-- Trump bromsas – USA stoppar snabb reträtt från Europa - Dagens Nyheter
 - Förslag på höjt bolånetak och slopande av skärpt amorteringskrav - Regeringen.se
-- Bäst betalda börstopparna tjänar 70 miljoner om året - Omni
 - Förslag förenklar överföring av data till nationella kvalitetsregister - E-hälsomyndigheten
 - Insatser som stärker Sveriges omställningskraft - Energimyndigheten
+- Bäst betalda börstopparna tjänar 70 miljoner om året - Omni
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
 - Steam drar igång årets vinterrea - Nordichardware
 
@@ -42,11 +42,11 @@ _Updated: 2025-12-19 05:44_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Göteborgsföretag med global ambition – Anyo Labs vinner mark i AI-racet - Life Science Sweden
+- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -123,22 +123,22 @@ _Updated: 2025-12-19 05:44_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Early experiments in accelerating science with GPT-5 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
