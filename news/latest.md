@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-19 21:48_
+_Updated: 2025-12-19 22:51_
 
 - Brown University Shooting Suspect Found Dead, and Trump Eases Marijuana Restrictions - The New York Times
-- What we know about the suspect in the Brown University and MIT professor shootings, Claudio Manuel Neves Valente - CBS News
 - DOJ won’t meet Friday deadline to release all the Epstein files - Politico
-- Trump suspends U.S. green card lottery after Brown University shooting - CNBC
-- Russian Offensive Campaign Assessment, December 17, 2025 - Institute for the Study of War
-- UN agencies welcome news that famine has been pushed back in the Gaza Strip, but warn fragile gains could be reversed without increased and sustained support - World Health Organization (WHO)
-- Judge accused of helping immigrant dodge ICE agents found guilty of obstruction - The Guardian
-- SECNAV: New Frigate will be Based on National Security Cutter, First FF(X) to be Built at Ingalls - USNI News
-- Rain batters Oregon and SW Washington as flood watches remain in effect, road closures hit - Oregon Public Broadcasting - OPB
-- Facing Trump's wrath, Jack Smith requests public hearing in House GOP probe - Axios
-- EU will eventually use Russian assets to pay for Ukraine war costs, Manfred Weber says - politico.eu
-- A sunrise crowd gathers at Bondi Beach in solace and defiance after a massacre - ABC News
+- Trump suspends green card lottery program that let Brown University, MIT shootings suspect into U.S. - PBS
+- Kennedy Center gets new signage bearing Trump’s name - CNN
+- How investigators zeroed in on the Brown University shooting suspect and linked him to the killing of an MIT professor - CNN
+- Putin’s retaliation threat over frozen assets rattles EU capitals - Financial Times
+- US judge found guilty of helping Mexican migrant evade immigration agents - BBC
+- Around 87,000 Xcel customers without power Friday morning as officials warn of extremely dangerous fire conditions - Colorado Public Radio
+- Treasury Targets Family Members and Associates of Maduro Regime - U.S. Department of the Treasury (.gov)
+- Putin vows no more wars if West treats Russia with respect - BBC
+- What We Know About the Suspects in the Bondi Beach Shooting - The New York Times
 - Taiwan: Knife attacker kills three after smoke bombing Taipei metro - BBC
-- Ukraine Hits Shadow Fleet Tanker in Mediterranean for First Time - Bloomberg.com
-- Oracle Stock Jumps On Reports TikTok Signed Deal To Create U.S. Joint Venture - Investor's Business Daily
-- Stock Market Today: Dow Rises; Japan Rate Hike Spurs Bond Yields — Live Updates - The Wall Street Journal
-- November home sales struggle as supply stalls - CNBC
-- Quad witching, Nike slides, weed rules and more in Morning Squawk - CNBC
-- The 10 game industry trends that made (and plagued) this year - 2025 Wrap-Up - Game Developer
-- A total League of Legends revamp is coming in 2027 - Engadget
+- Putin says Ukraine not ready for peace, as Kyiv claims fist strike on "shadow fleet" tanker in Mediterranean - CBS News
+- Protests escalate in Bangladesh after death of student leader Hadi - Al Jazeera
+- Fact Sheet: President Donald J. Trump Announces Largest Developments to Date in Bringing Most-Favored-Nation Pricing to American Patients - The White House (.gov)
+- ByteDance confirms TikTok will be sold to US owners - Ars Technica
+- Japan bond yields jump after BOJ hike, Wall Street poised for gains - Reuters
+- Nasdaq rises 1% as AI trade tries to end year on high note: Live updates - CNBC
+- TrueAchievements Game of the Year Awards 2025 voting now open - TrueAchievements
+- Semi-solid state MagSafe power banks arrive from the founder of Hyper - The Verge
