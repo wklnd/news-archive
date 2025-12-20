@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-20 19:39_
+_Updated: 2025-12-20 20:47_
 
 ## Top Stories
 
-- Trump syns inte: ”Kan vara mörkläggning” - SvD
-- Skolans ord om 12-åringen: Läser bäst i årskursen - Aftonbladet
+- De nya Epsteindokumenten väcker ilska och många frågor - Yle
+- Ryskt fartyg fast nära Sverige - SvD
+- Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
 - ”Kostnaderna för stoppade uppehållstillstånd underskattas” - SVT Nyheter
 - 20 december 14.00, Trafikkontroll, Västernorrlands län - polisen.se
-- Stor oro för krigskonsekvenser i Venezuela - Aftonbladet
 - Efter beslutet i EU – Saabs Gripen-affär med Ukraina hotad - Corren
-- 100-åring våldtogs – nämndeman stängs av - SVT Nyheter
+- Här får familjerna hämta tre julklappar per barn - GP
 - Ställ dina frågor om julvädret 2025 till SVT:s meteorolog - SVT Nyheter
+- Totalt mörker i norr – så gör du för att stå ut: ”Tänd lamporna” - SVT Nyheter
 - Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
-- 18 december 20.17, Trafikkontroll, Västerbottens län - polisen.se
-- USA: Fler än 70 IS-mål attackerade i Syrien - GP
 - Sandra Stiskalo: De är tokiga i musfångaren på Downing Street - Dagens Nyheter
+- USA: Fler än 70 IS-mål attackerade i Syrien - GP
+- Ukraina: Krigsfartyg angripet i Kaspiska havet - GP
 - Bangladesh: Våldsamheter efter ungdomsledares död - Västerbottens-Kuriren
-- Fartyg har ankrat utanför Höganäs – kan kopplas till ryska militären - SVT Nyheter
 - Färre får jobb efter att ha gått yrkeshögskola - SvD
-- Musk får rätt till gammalt mångmiljardpaket - DI
-- Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
 - Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
+- Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
+- Trumps omöjliga ekvation: 600 procent billigare - Aftonbladet
 - Mångmiljonsatsning utanför Umeå: Målet – tåligare träd - Västerbottens-Kuriren
-- Mystiska objektet närmar sig jorden: ”Utomjordisk stridsfarkost” - expressen.se
+- Dagens Dubbel Tips 22/12 - Travcash
 
 ## World News
 
@@ -35,41 +35,41 @@ _Updated: 2025-12-20 19:39_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - New Secretary General appointed - Olof Palme International Center
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
@@ -81,6 +81,7 @@ _Updated: 2025-12-20 19:39_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-12-20 19:39_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -121,34 +121,34 @@ _Updated: 2025-12-20 19:39_
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Early experiments in accelerating science with GPT-5 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -158,7 +158,7 @@ _Updated: 2025-12-20 19:39_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
