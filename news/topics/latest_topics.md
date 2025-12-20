@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-20 22:41_
+_Updated: 2025-12-20 23:38_
 
 ## Top Stories
 
 - Ryskt fartyg ankrat utanför Skåne - Aftonbladet
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
 - ”Finns tusen andra goda saker på julbordet” - SvD
-- Ställ dina frågor om julvädret 2025 till SVT:s meteorolog - SVT Nyheter
-- Hojat har jobb och familj – riskerar ändå utvisning - GP
+- ”Kostnaderna för stoppade uppehållstillstånd underskattas” - SVT Nyheter
 - Efter beslutet i EU – Saabs Gripen-affär med Ukraina hotad - Corren
-- Misstänkt föremål ofarligt – avspärrningarna i Halmstad har hävts - SVT Nyheter
-- Totalt mörker i norr – så gör du för att stå ut: ”Tänd lamporna” - SVT Nyheter
 - 20 december 14.00, Trafikkontroll, Västernorrlands län - polisen.se
+- Misstänkt föremål i Halmstad ofarligt - GP
+- Här är fakta du behöver för att vinna politikbråket vid julbordet - Dagens Nyheter
 - ”Det kändes starkt att gå axel i axel med de andra européerna” - Jordbruksaktuellt
+- Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
+- Ukraina: Attackerat Teboil-ägarnas oljeplattform - Hufvudstadsbladet
+- USA: Fler än 70 IS-mål attackerade i Syrien - GP
+- USA beslagtar oljetanker som senast lämnade Venezuela - SVT Nyheter
 - Sandra Stiskalo: De är tokiga i musfångaren på Downing Street - Dagens Nyheter
-- Ukraina: Krigsfartyg angripet i Kaspiska havet - GP
-- Trump: Allvarlig hämnd mot IS - SVT Nyheter
-- Trump "utesluter inte" krig med Venezuela - Västerbottens-Kuriren
 - Färre får jobb efter att ha gått yrkeshögskola - SvD
+- Mobiler kan inte ringa 112 - 8 Sidor
 - Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
-- Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
-- Trumps omöjliga ekvation: 600 procent billigare - Aftonbladet
+- Trumps omöjliga ekvation: 600 procent billigare läkemedel - TV4 Nyheterna
 - Mystiska objektet närmar sig jorden: ”Utomjordisk stridsfarkost” - Expressen
 - Mångmiljonsatsning utanför Umeå: Målet – tåligare träd - Västerbottens-Kuriren
 
@@ -50,26 +50,26 @@ _Updated: 2025-12-20 22:41_
 
 ## Technology
 
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
@@ -100,16 +100,16 @@ _Updated: 2025-12-20 22:41_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -142,23 +142,23 @@ _Updated: 2025-12-20 22:41_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
