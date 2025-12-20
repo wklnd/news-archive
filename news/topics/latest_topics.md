@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-20 04:20_
+_Updated: 2025-12-20 05:36_
 
 ## Top Stories
 
+- Filerna ur Epstein-utredningen släppta - SVT Nyheter
 - EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
 - Stora förändringar av svenskt bistånd - Regeringen.se
 - Ny jordbrukspolitik retar gallfeber på bönder och miljöorganisationer - Världsnaturfonden WWF
 - Nya beslutet: Senior Material förlorar rätten att använda metylenklorid - SVT Nyheter
 - Misstänkt för Brownskjutning och MIT-mord död - SVT Nyheter
-- Två kvinnor gripna för inblandning i morden i Oxie - Expressen
-- Coop och Ica återkallar frysta jordgubbar - GP
-- Här är SMHI:s besked inför jul – då kan det bli vitt - Corren
+- DN Direkt – Sverige och Stockholm nämns i nya Epsteinfilerna - Dagens Nyheter
+- Två kvinnor anhållna för inblandning i mord med 12-årig misstänkt - Dagens Nyheter
 - Håll avstånd – för ett säkert julfirande - polisen.se
 - Arbetsförmedlingen ska öka kännedomen om etableringsjobb - Regeringen.se
-- USA angriper misstänkta IS-mål i Syrien - SVT Nyheter
-- Minst fem dödade i attack mot flyktinganläggning - Sydsvenskan
-- Värsta svälten hejdad i Gaza – men läget kritiskt - Västerbottens-Kuriren
-- ”Messen handlade om nåt annat” - Aftonbladet
-- Nio läkemedelsbolag i avtal med Trump - DI
-- Saab får ny miljardorder av FMV - Omni
+- USA: Fler än 70 IS-mål attackerade i Syrien - Västerbottens-Kuriren
+- Värsta svälten hejdad i Gaza – men läget kritiskt - GP
+- Karl Dalén: Erika Kirk har utsett Donald Trumps arvtagare - Dagens Nyheter
+- Minst fem dödade i attack mot flyktinganläggning - GP
+- Nio läkemedelsjättar till sluter avtal om sänkta priser - Omni
+- Saab får miljardorder från FMV om att utveckla Gripen - Nyteknik
 - Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
 - Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
 - Samsung lanserar nya mobilchippet Exynos 2600 - Computer Sweden
@@ -52,47 +52,47 @@ _Updated: 2025-12-20 04:20_
 
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -101,7 +101,6 @@ _Updated: 2025-12-20 04:20_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -116,6 +115,7 @@ _Updated: 2025-12-20 04:20_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
