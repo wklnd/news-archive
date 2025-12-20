@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-20 01:48_
+_Updated: 2025-12-20 04:22_
 
-- Justice Department begins the release of the Epstein files - NPR
-- Suspected Killer of M.I.T. Professor Studied With Victim, Graduating Top of Their Class - The New York Times
-- Nine of the largest pharma companies ink deals with Trump to lower drug prices - CNBC
+- DOJ releases Epstein files and the first batch is short on new information - NPR
+- Brown, MIT suspect had 200 rounds, laser sights as authorities feared hit list: US attorney - ABC News
+- Fraught EU summit backs Ukraine but divisions are clear - BBC
+- Trump's push to end transgender care for young people opposed by pediatricians - NPR
 - The next Bay Area storm is on the way. This timeline shows when heaviest rain will hit - San Francisco Chronicle
-- Putin’s retaliation threat over frozen assets rattles EU capitals - Financial Times
-- Judge blocks HUD homelessness overhaul, rebukes agency for causing 'chaos' - NPR
+- University of Virginia names Scott C. Beardsley as the University’s 10th president - UVA Today
 - It was called the Kennedy Center, but 3 different presidents shaped it - NPR
+- Rep. Elise Stefanik set to drop bid for New York governor - Politico
 - US judge found guilty of helping Mexican migrant evade immigration agents - BBC
 - Erika Kirk endorses JD Vance for president at conservative event - BBC
-- Scientists push back on Trump plan to break up a critical climate and weather center - NPR
 - Taiwan: Knife attacker kills three after smoke bombing Taipei metro - BBC
-- Ukraine Hits Russia Shadow Fleet Tanker in Mediterranean for First Time - Bloomberg.com
-- What We Know About the Suspects in the Bondi Beach Shooting - The New York Times
-- Gaza no longer in famine after aid access improves, hunger monitor says - Reuters
+- A sunrise crowd gathers at Bondi Beach in solace and defiance after a massacre - ABC News
+- Protests escalate in Bangladesh after death of student leader Hadi - Al Jazeera
+- Gaza no longer in famine but hunger levels remain critical, UN says - The Guardian
+- Fact Sheet: President Donald J. Trump Announces Largest Developments to Date in Bringing Most-Favored-Nation Pricing to American Patients - The White House (.gov)
 - Elon Musk’s massive 2018 Tesla pay package restored by Delaware court - The Guardian
+- Stocks rise with tech boost, yen weakens after Japan rate hike - Reuters
 - Oracle Stock Jumps On Reports TikTok Signed Deal To Create U.S. Joint Venture - Investor's Business Daily
-- Stock Market Today: Dow Rises; Japan Rate Hike Spurs Bond Yields — Live Updates - The Wall Street Journal
-- 4 common scams to watch out for this holiday season - NPR
+- TrueAchievements Game of the Year Awards 2025 voting now open - TrueAchievements
 - A total League of Legends revamp is coming in 2027 - Engadget
-- Gemini will replace Google Assistant on Android in 2026 - 9to5Google
