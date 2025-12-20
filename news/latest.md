@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-20 07:52_
+_Updated: 2025-12-20 08:55_
 
-- Trump world takes shots at favorite boogeyman Bill Clinton in Epstein file dump - Politico
-- Suspect in Brown and M.I.T. Killings Died 2 Days Before He Was Found, Autopsy Shows - The New York Times
-- How The Times is covering the latest release of Epstein files. - The New York Times
-- US conducts strikes in Syria in response to attack that killed two American soldiers - CNN
-- Fraught EU summit backs Ukraine but divisions are clear - BBC
+- Epstein files put Bill Clinton under scrutiny – and the White House wants him there - Politico
+- Brown University and MIT shooting suspect found dead; identified as former grad student - ABC News
 - Trump's push to end transgender care for young people opposed by pediatricians - NPR
+- The next Bay Area storm is on the way. This timeline shows when heaviest rain will hit - San Francisco Chronicle
+- University of Virginia names Scott C. Beardsley as the University’s 10th president - UVA Today
+- INCREASING MEDICAL MARIJUANA AND CANNABIDIOL RESEARCH - The White House (.gov)
 - Rep. Stefanik ends her campaign for New York governor, won’t seek reelection to House - PBS
+- US carries out 'massive' strike against IS in Syria - BBC
 - It was called the Kennedy Center, but 3 different presidents shaped it - NPR
 - Fact Sheet: President Donald J. Trump Announces Largest Developments to Date in Bringing Most-Favored-Nation Pricing to American Patients - The White House (.gov)
-- Judge accused of helping immigrant dodge ICE agents found guilty of obstruction - The Guardian
-- Taiwan: Knife attacker kills three after smoke bombing Taipei metro - BBC
+- 3 killed in Taiwan knife attack, with the suspect later falling to his death from a department store - AP News
+- How the EU's reparations loan for Ukraine fell apart at the eleventh hour - Euronews.com
 - A sunrise crowd gathers at Bondi Beach in solace and defiance after a massacre - ABC News
 - Gaza no longer in famine but hunger levels remain critical, UN says - The Guardian
-- Australia Announces Plan to Buy Back Guns in Wake of Bondi Attack - The New York Times
-- Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion - Reuters
-- Oracle Stock Jumps On Reports TikTok Signed Deal To Create U.S. Joint Venture - Investor's Business Daily
+- Elon Musk’s 2018 Tesla Pay Deal Is Restored by Delaware Supreme Court - The New York Times
 - Japan raises interest rates to highest level in 30 years - Financial Times
-- Removed Ben & Jerry's chair says Magnum aimed to 'smear' her - BBC
-- YouTube Shorts is testing a new location and fresh phrasing for its Dislike button - 9to5Google
-- The 10 game industry trends that made (and plagued) this year - 2025 Wrap-Up - Game Developer
+- S&P 500 posts back-to-back gains Friday as AI trade makes a comeback: Live updates - CNBC
+- Instacart to pay $60 million in refunds after feds allege it deceived customers - CBS News
+- TrueAchievements Game of the Year Awards 2025 voting now open - TrueAchievements
+- Samsung's Galaxy Z Fold 8 could bring two key upgrades in the camera department alone - PhoneArena
