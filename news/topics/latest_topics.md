@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-20 13:38_
+_Updated: 2025-12-20 15:04_
 
 ## Top Stories
 
-- Filerna ur Epstein-utredningen släppta - SVT Nyheter
+- JUST NU: Stort skifte – sveper in från ishavet - Expressen
+- Efter beslutet i EU – Saabs Gripen-affär med Ukraina hotad - Corren
+- Miljardärsskatten handlar om makt – inte om pengar - Arbetet
 - Ambulansmördarens pappa: ”Han förändrades helt” - Aftonbladet
-- Efter beslutet i natt – Saabs Gripen-affär med Ukraina hotad - Corren
-- Två kvinnor gripna för inblandning i morden i Oxie - Expressen
 - Se tiden ticka bort på medicinkliniken med nya journalsystemet Cosmic - SVT Nyheter
-- Statsministerns jultal - Regeringen.se
-- Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Misstänkt våldtäkt i Sundsvall - SVT Nyheter
-- DN Direkt – Kvinna påkörd i korsning – allvarligt skadad - Dagens Nyheter
-- Rådet godkänner förenkling av jordbrukspolitiken - consilium.europa.eu
-- Ukraina: Attackerat Teboil-ägarnas oljeplattform - Hufvudstadsbladet
+- Missen: Körde fel i Umeårondell - Västerbottens-Kuriren
+- Fortsatt risk för besvärligt väglag i Norrbotten – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Statsministern i jultal: ”Bättre tider på väg” - Aftonbladet
+- 100-åring våldtogs – nämndeman stängs av - SVT Nyheter
+- DN Direkt – Jake Paul knockades i Miami - Dagens Nyheter
+- Källa: Ukrainsk attack mot tanker i Medelhavet - Hufvudstadsbladet
 - De skjuts om de går till sina marker - Aftonbladet
 - USA: Fler än 70 IS-mål attackerade i Syrien - Corren
-- ANNA LÖVHEIM: Sanningens minut för många muslimer! - NT
+- Orbán: Inte tydligt vem som attackerade vem - Omni
+- Färre får jobb efter att ha gått yrkeshögskola - SvD
 - Musk får rätt till gammalt mångmiljardpaket - DI
-- Trumps omöjliga ekvation: 600 procent billigare - TV4 Nyheterna
-- Frågeförbud för chefer och lägre skatt – här är nya lagarna 2026 - Arbetet
-- S-toppen: ”Utvecklingen har vänt i Kista” - Dagens Nyheter
+- Trumps omöjliga ekvation: 600 procent billigare läkemedel - TV4 Nyheterna
+- Normal plockar bort produkter riktade mot barn - SVT Nyheter
+- Olycklig tajming när digerdöden kom till Europa - Borås Tidning
 - "Jag vill absolut följa med!": Interstellär gäst susar snart mycket nära förbi jorden – och kommer aldrig tillbaka - Illustrerad Vetenskap
-- Påkostad Apple TV-thriller läggs ner efter en säsong - MovieZine.se
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - Global uppvärmning förstärker katastrofala översvämningar i Asien - Supermiljöbloggen
 - New Secretary General appointed - Olof Palme International Center
 - Torsten Persson joins leading economists at the 2026 IEA World Congress - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 
 ## Technology
 
@@ -74,11 +74,13 @@ _Updated: 2025-12-20 13:38_
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -91,8 +93,6 @@ _Updated: 2025-12-20 13:38_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-20 13:38_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
