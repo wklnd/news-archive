@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 15:44_
+_Updated: 2025-12-21 16:42_
 
 ## Top Stories
 
-- Sanktionerat ryskt fartyg med maskinhaveri ankrade i Skåne - Yle
-- Stora konsekvenser för samhället när de svenska vintrarna försvinner - Dagens Nyheter
-- Borgerliga kretsar anar ”tyst kulturrevolution” - SvD
-- Talesperson: Putin redo att prata med Macron - DI
-- LKAB fick stänga gruvorna i Kiruna och Malmberget: ”Tekniska problem” - SVT Nyheter
+- Ryskt fartyg utanför Höganäs bordat av svenska myndigheter - SVT Nyheter
+- ”Skolan behöver fler liberala reformer” - SvD
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- En död efter trafikolycka i Skellefteå - Aftonbladet
-- Jessica: Låt Hesa Fredrik larma om sol - Dagens Nyheter
-- SMHI: Sol och kyla på julafton - SVT Nyheter
+- Polisen: Varning för blixthalka - SVT Nyheter
+- ”Alla wokemänniskor spelar dem i händerna” - SvD
+- Polisen varnar för blixthalka på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- En död efter trafikolycka i Skellefteå - SVT Nyheter
+- Väderomslaget: Sol och kyla på julafton - Västerbottens-Kuriren
+- Misstänkt föremål ofarligt – avspärrningarna i Halmstad har hävts - SVT Nyheter
 - Misshandel och bråk – flera till sjukhus - UNT
-- Tusentals köar för att ge blod efter terrorn i Sydney - GP
-- DN Direkt – Tio döda i skjutning i Sydafrika - Dagens Nyheter
-- En död efter olycka utanför Skellefteå - Expressen
-- Venezuela anklagar USA för stöld - SVT Nyheter
+- Motstridiga ryska signaler om fredssamtalen - Dagens Nyheter
+- Kambodja: Över 500 000 har flytt - GP
+- Två till sjukhus efter frontalkrock på RV31 mellan Vetlanda och Ekenässjön - SVT Nyheter
+- Julbock har brunnit - Expressen
 - Hög tid att nyårsstäda ekonomin – ”passa på” - SvD
+- 81-åriga Leif skippade pensionen – för att starta ett mejeri - Dagens Nyheter
 - Många nya lagar påverkar din ekonomi nästa år - TV4 Nyheterna
-- Indiska biltillverkare siktar på snabbt lyft i Europa - Dagens Nyheter
 - Kvinnor får minst när pensionsöverskott delas ut - DI
-- Ny angreppsmetod: Så kan Chat GPT lura dig att installera skadlig kod - NyTeknik
+- Clair Obscur fråntas ett GOTY-pris på grund av AI-använding - FZ.se
 - Gemini ersätter Google Assistant på Android nästa år - Teknikveckan
 
 ## World News
@@ -35,18 +35,18 @@ _Updated: 2025-12-21 15:44_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
-- Explore the world through language: Study a Master’s at Stockholm University - Stockholms universitet
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Explore the world through language: Study a Master’s at Stockholm University - Stockholms universitet
+- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
@@ -55,44 +55,44 @@ _Updated: 2025-12-21 15:44_
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- PVH Corp. Announces CFO Transition - Placera.se
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-21 15:44_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2025-12-21 15:44_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
