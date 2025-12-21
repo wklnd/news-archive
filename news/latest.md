@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-21 22:50_
+_Updated: 2025-12-21 23:48_
 
+- Trump faces narrowing options on Venezuela action - The Washington Post
 - Shopping for pricy ACA health plans? Some cheaper options come with trade-offs - NPR
-- Rand Paul says seizure of oil tankers in Caribbean a 'prelude to war' - ABC News
-- U.S. Oil Blockade of Venezuela Pushes Cuba Toward Collapse - The Wall Street Journal
-- ‘Congress is in a coma.’ Former lawmakers sound alarm on health of the House - NPR
+- DOJ defends removing Trump photo from Epstein files - Axios
+- Power restored to most in San Francisco after massive outage - CNN
 - Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - NPR
-- PHOTOS: Kennedy Center adds Trump’s name to memorial Congress created for JFK - PBS
-- Officer who killed Tamir Rice fired from ranger position in West Virginia - AP News
+- U.S. Oil Blockade of Venezuela Pushes Cuba Toward Collapse - The Wall Street Journal
+- Officer who fatally shot Tamir Rice fired from West Virginia ranger position - The Guardian
 - MAGA media mess deepens at Turning Point convention - Axios
-- Federal grants for flood work sat on hold as storms inundated Washington state - NBC News
-- Hakeem Jeffries says Obamacare subsidy extension 'will pass with a bipartisan majority' - Politico
-- Thousands cheer as the sun rises on winter solstice at Stonehenge - AP News
+- A mildly subversive gift guide: 10 banned books for curious and rebellious US readers - The Guardian
+- Motive sought after suspect in Brown University shooting, MIT professor's killing found dead, officials say - CBS News
+- ‘I feel special, in my heart’: thousands gather at Stonehenge for winter solstice - The Guardian
+- Thousands of mourners gather at Bondi Beach to honor victims of antisemitic attack - CBS News
+- Macron Says France Will Soon Start Building New Aircraft Carrier - Bloomberg.com
 - Cartagena’s iconic horse carriages give way to electric buggies - NPR
-- A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering - NPR
-- Israel approves 19 new settlements in occupied West Bank - BBC
-- Oracle just made a power move Wall Street can’t ignore - thestreet.com
-- Holiday travel rush ramps up, causes delays on Southern California freeways - ABC7 Los Angeles
-- Japan's Yen Debasement - Robin J Brooks | Substack
-- CNBC anchor who blasted Trump’s ‘insane’ tariffs is now shocked by ‘very, very low’ inflation. How to capitalize in 2026 - Yahoo Finance
+- Trump World Is Picking Sides in the Battle for Warner Bros. - The Wall Street Journal
+- Trump's return brought stiff headwinds for clean energy. So why are advocates optimistic in 2026? - AP News
+- Powerball jackpot climbs to $1.6 billion, among largest lottery prizes ever in U.S. - CNBC
+- At 12.5%, this S&P 500 dividend stock has the highest yield on the index - Yahoo Finance UK
 - RAM is so expensive they’re selling “prebuilt” PCs without it. - The Verge
-- Proposed Space Station Could Be Deployed in a Single Launch - Gizmodo
+- GOTY Winner Clair Obscur Disqualified From Awards Show - GAMINGbible
