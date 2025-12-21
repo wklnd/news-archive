@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 17:40_
+_Updated: 2025-12-21 18:46_
 
 ## Top Stories
 
-- Ryskt fartyg bordat – finns på sanktionslistor - GP
+- Fotboll: Uppgifter: Alexander Isaks skada allvarlig - SVT Nyheter
+- ”Sverige har all rätt att inspektera lasten” - SvD
 - Uppgifter: USA har bordat nytt fartyg utanför Venezuelas kust - SVT Nyheter
 - Halt på vägar i Västsverige – flera olyckor - Expressen
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- JUST NU: En död efter olyckan på väg 95 • Bil voltade - Norran
-- ”Alla wokemänniskor spelar dem i händerna” - SvD
-- SMHI: Sol och kyla på julafton - SVT Nyheter
-- Halt på vägarna – bil voltade – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Misshandel och bråk – flera till sjukhus - UNT
-- Rullstolsburen person påkörd i Uppsala - SVT Nyheter
+- Här får familjer hämta tre julklappar per barn - SvD
+- En död efter trafikolycka i Skellefteå - SVT Nyheter
+- Skidprofilens vänner dog på fjället: ”Så orättvist” - Dagens Nyheter
+- Sol i hela Sverige – på årets mörkaste dag - UNT
+- Antalet fjällrävar har minskat - SVT Nyheter
+- Tusentals köar för att ge blod efter terrorn i Sydney - GP
 - Motstridiga ryska signaler om fredssamtalen - Dagens Nyheter
 - Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
-- Två till sjukhus efter frontalkrock på RV31 mellan Vetlanda och Ekenässjön - SVT Nyheter
-- TOVE HOVEMYR: Lånet på 90 miljarder euro köper dyrbar tid – och fred - UNT
-- Hög tid att nyårsstäda ekonomin – ”passa på” - SvD
+- Frontalkrock i Vetlanda – totalstopp i trafiken - Expressen
 - Många nya lagar påverkar din ekonomi nästa år - TV4 Nyheterna
 - 81-åriga Leif skippade pensionen – för att starta ett mejeri - Dagens Nyheter
-- LKAB:s gruvor akutstängdes av störningar - Aftonbladet
+- Så får du ordning på ekonomin inför årsskiftet – experternas bästa råd - Börskollen
+- AP-fondens vd: ”Som att utkämpa en strid” - DI
 - Clair Obscur fråntas ett GOTY-pris på grund av AI-använding - FZ.se
 - Gemini ersätter Google Assistant på Android nästa år - Teknikveckan
 
