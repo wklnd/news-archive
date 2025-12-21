@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 11:41_
+_Updated: 2025-12-21 12:44_
 
 ## Top Stories
 
+- LKAB har stängt gruvorna i Kiruna och Malmberget: ”Tekniska problem” - SVT Nyheter
+- Ryskt fartyg med sanktioner har ankrat utanför Höganäs - GP
 - Stora konsekvenser för samhället när de svenska vintrarna försvinner - Dagens Nyheter
+- Borgerliga kretsar anar ”tyst kulturrevolution” - SvD
 - Sju tips för en stressfri jul: Skippa nya trender - SvD
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- Naturjulkalendern 2025: Maria Thapper - Natursidan
-- ”Skolan behöver fler liberala reformer” - SvD
-- 20 december 08.14, Sammanfattning natt, Örebro län - polisen.se
-- Sol i hela Sverige – på årets mörkaste dag - SVT Nyheter
-- Larm om brand på Fotografiska i Stockholm - SVT Nyheter
-- Larmvåg om slagsmål under natten – flera till sjukhus - UNT
-- Väderomslaget: Sol och kyla på julafton - Dagens Nyheter
-- DN Direkt – Tio döda i skjutning i Sydafrika - Dagens Nyheter
+- Sol i hela Sverige – på årets mörkaste dag - GP
+- En religionslektion på stan – skolbarn besöker Malmös religiösa rum - Dagens Nyheter
+- Misshandel och bråk – flera till sjukhus - UNT
+- Misstänkt föremål ofarligt – avspärrningarna i Halmstad har hävts - SVT Nyheter
 - Venezuela anklagar USA för stöld - SVT Nyheter
-- Tullverket har bordat ryskt fartyg - Västerbottens-Kuriren
+- Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
 - TOVE HOVEMYR: Lånet på 90 miljarder euro köper dyrbar tid – och fred - UNT
+- Tusentals köar för att ge blod efter terrorn i Sydney - Aftonbladet
 - Shekarabi (S): Högerns politik gör unga akademiker arbetslösa - Aftonbladet
+- Sven Hagströmers kritik mot Vänsterpartiet: ”Galenskap” - Expressen
 - ”Gasen” i pensionssystemet gynnar män mer än kvinnor - Omni Ekonomi
-- Hagströmer om V:s förslag: ”Galenskap” - SvD
 - Uppdatering räddar mobiler från nedstängningen av 2G och 3G-näten - mobil.se
+- Ny angreppsmetod: Så kan Chat GPT lura dig att installera skadlig kod - NyTeknik
 - Nu tar vi i ordentligt – vinn fetaste paketet från Anker någonsin. - Teknikveckan
-- LG Sound Suite – världens första soundbar med Dolby Atmos FlexConnect - Nya högtalare från LG lovar - Ljud & Bild
 
 ## World News
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-21 11:41_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- PVH Corp. Announces CFO Transition - Placera.se
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -124,21 +124,21 @@ _Updated: 2025-12-21 11:41_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-21 11:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
