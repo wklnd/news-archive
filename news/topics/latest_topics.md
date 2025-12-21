@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 22:42_
+_Updated: 2025-12-21 23:40_
 
 ## Top Stories
 
-- Tullverket har bordat ryskt fartyg utanför Höganäs - GP
-- Källor: USA förföljer oljefartyg utanför Venezuela kust - SVT Nyheter
-- Elva barn hölls isolerade i Mellerud – mamman döms - Omni
-- Tusentals hedrade offren i Bondi Beach-attacken - SvD
-- En död i trafikolycka utanför Skellefteå – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Svensk myndighetsinsats mot ryskt fartyg - Hufvudstadsbladet
+- JUST NU: Nu vänder det – dagarna blir längre och ljuset kommer åter - NWT
+- Israel godkänner nya bosättningar på Västbanken - SvD
+- Halt på vägarna – bil voltade – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- Just nu: En person död efter trafikolycka - Västerbottens-Kuriren
-- Halt på vägarna – flera olyckor på kort tid i Uppsala län - SVT Nyheter
+- Då är det dags att ha dåligt AI-samvete - SvD
+- Fångtransporter för 100 miljoner - SVT Nyheter
 - Antalet fjällrävar har minskat - SVT Nyheter
+- Halt på vägarna – flera olyckor på kort tid i Uppsala län - SVT Nyheter
 - Muskö-ryssens svärmor attackerade polis på Arlanda – fick tejpas med silvertejp - Expressen
-- DN Direkt – Minst tio döda i drönarattack mot Darfurmarknad - Dagens Nyheter
+- ”Banankrig” och statskupper – så har det gått när USA agerar i Latinamerika - Dagens Nyheter
 - Domstol: Israel måste lämna journalist-besked - Västerbottens-Kuriren
-- Motstridiga ryska signaler om fredssamtalen - Hufvudstadsbladet
-- Två till sjukhus efter frontalkrock på RV31 mellan Vetlanda och Ekenässjön - SVT Nyheter
+- Minst tio döda i drönarattack mot Darfurmarknad i Sudan - SVT Nyheter
+- Källor: Tredje fartyg vid Venezuela bordat av USA - Hufvudstadsbladet
 - Nya lagar – så påverkas din ekonomi nästa år - DI
 - Svenska kronan rusar – årets starkaste valuta bland världens tio största - Börskollen
-- Hög tid att nyårsstäda ekonomin – ”passa på” - GP
-- Uppdatering räddar mobiler från nedstängningen av 2G och 3G-näten - mobil.se
+- Tele 2-kunder rasar – får oväntade fakturor - Expressen
+- Hög tid att nyårsstäda ekonomin: ”Passa på” - Kristianstadsbladet
 - Samsung visar första mobilkretsen med 2 nm‑teknik - mobil.se
-- Clair Obscur fråntas ett GOTY-pris på grund av AI-använding - FZ.se
+- "Clair Obscur" förlorar årets spel-pris på grund av användande av AI-verktyg - MovieZine.se
 
 ## World News
 
@@ -35,16 +35,16 @@ _Updated: 2025-12-21 22:42_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -78,8 +78,8 @@ _Updated: 2025-12-21 22:42_
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
@@ -90,32 +90,32 @@ _Updated: 2025-12-21 22:42_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
