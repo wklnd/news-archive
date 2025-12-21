@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 06:54_
+_Updated: 2025-12-21 07:44_
 
 ## Top Stories
 
-- Filerna ur Epstein-utredningen släppta - SVT Nyheter
 - Tio döda i skjutning i Sydafrika - SVT Nyheter
 - Naturjulkalendern 2025: Maria Thapper - Natursidan
 - Kvinnor häktade för inblandning i mord - Aftonbladet
 - EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
 - 20 december 14.00, Trafikkontroll, Västernorrlands län - polisen.se
+- Så blir pensionen 2026 - Pensionsmyndigheten
 - Larm om brand på Fotografiska i Stockholm - SVT Nyheter
 - ”Kostnaderna för stoppade uppehållstillstånd underskattas” - SVT Nyheter
 - Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
-- Polisinsats efter explosionslarm i Flogsta – utryckning på natten - UNT
-- Venezuela anklagar USA för stöld - Västerbottens-Kuriren
-- Ukraina: Har attackerat ryskt krigsfartyg i Kaspiska havet - Dagens Nyheter
-- Ryskt fartyg ankrat utanför Skåne - Aftonbladet
-- USA: Fler än 70 IS-mål attackerade i Syrien - Västerbottens-Kuriren
+- Larmvåg om slagsmål och misshandelsfall – flera till sjukhus - UNT
+- Talesperson: Putin redo att prata med Macron - Västerbottens-Kuriren
+- Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
+- Påven kallar kardinaler till stormöte - Västerbottens-Kuriren
+- Så lurade han Trump – löftet och villkoren - Expressen
+- Kvinnor får minst när ”gasen” delas ut - SvD
 - Musk får rätt till gammalt mångmiljardpaket - DI
 - Uppdatering räddar mobiler från nedstängningen av 2G och 3G-näten - mobil.se
-- Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
-- Färre får jobb efter att ha gått yrkeshögskola - SvD
-- LG och Dolby lanserar ett modulärt ljudsystem för vardagsrummet - Teknikveckan
+- Konjunkturåterhämtningen på fastare mark - NewsMachine AB
 - Dagens Dubbel Tips 22/12 - Travcash
+- Naughty Dog kräver att sina anställda jobbar övertid i jul - Teknikveckan
 
 ## World News
 
@@ -35,8 +35,8 @@ _Updated: 2025-12-21 06:54_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
@@ -60,39 +60,39 @@ _Updated: 2025-12-21 06:54_
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Deepseek är det nya Linux - Computer Sweden
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- PVH Corp. Announces CFO Transition - Placera.se
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-21 06:54_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
