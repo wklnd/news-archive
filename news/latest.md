@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-21 21:48_
+_Updated: 2025-12-21 22:50_
 
-- DOJ defends removing Trump photo from Epstein files - Axios
-- Trump faces narrowing options on Venezuela action - The Washington Post
 - Shopping for pricy ACA health plans? Some cheaper options come with trade-offs - NPR
+- Rand Paul says seizure of oil tankers in Caribbean a 'prelude to war' - ABC News
+- U.S. Oil Blockade of Venezuela Pushes Cuba Toward Collapse - The Wall Street Journal
 - ‘Congress is in a coma.’ Former lawmakers sound alarm on health of the House - NPR
-- Power restored to most in San Francisco after massive outage - CNN
-- Federal grants for flood work sat on hold as storms inundated Washington state - NBC News
-- Officer who fatally shot Tamir Rice fired from West Virginia ranger position - The Guardian
-- Hakeem Jeffries says Obamacare subsidy extension 'will pass with a bipartisan majority' - Politico
+- Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - NPR
+- PHOTOS: Kennedy Center adds Trump’s name to memorial Congress created for JFK - PBS
+- Officer who killed Tamir Rice fired from ranger position in West Virginia - AP News
 - MAGA media mess deepens at Turning Point convention - Axios
-- A New Mexico monastery where the silence calls - CBS News
-- Israel approves 19 new settlements in occupied West Bank - BBC
-- Sydney Shooting Suspects Met Muslim Leaders in Philippines, Officials Say - The New York Times
+- Federal grants for flood work sat on hold as storms inundated Washington state - NBC News
+- Hakeem Jeffries says Obamacare subsidy extension 'will pass with a bipartisan majority' - Politico
+- Thousands cheer as the sun rises on winter solstice at Stonehenge - AP News
 - Cartagena’s iconic horse carriages give way to electric buggies - NPR
-- Multiple gunmen open fire at a South African pub, killing 9 and wounding 10 - AP News
-- Trump's return brought stiff headwinds for clean energy. So why are advocates optimistic in 2026? - AP News
-- Tesla is recruiting factory workers and sales staff to operate its 'Robotaxi' service - Business Insider
-- Trump World Is Picking Sides in the Battle for Warner Bros. - The Wall Street Journal
-- Virginia scores big in Powerball: $150K and five $50K winners - WWBT
+- A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering - NPR
+- Israel approves 19 new settlements in occupied West Bank - BBC
+- Oracle just made a power move Wall Street can’t ignore - thestreet.com
+- Holiday travel rush ramps up, causes delays on Southern California freeways - ABC7 Los Angeles
+- Japan's Yen Debasement - Robin J Brooks | Substack
+- CNBC anchor who blasted Trump’s ‘insane’ tariffs is now shocked by ‘very, very low’ inflation. How to capitalize in 2026 - Yahoo Finance
 - RAM is so expensive they’re selling “prebuilt” PCs without it. - The Verge
-- Samsung’s new Exynos 2600 uses a neat trick to make the Galaxy S26 a blazing fast flagship - PhoneArena
+- Proposed Space Station Could Be Deployed in a Single Launch - Gizmodo
