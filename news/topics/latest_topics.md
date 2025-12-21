@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 09:39_
+_Updated: 2025-12-21 10:48_
 
 ## Top Stories
 
-- Sol i hela Sverige – på årets mörkaste dag - SVT Nyheter
-- Naturjulkalendern 2025: Maria Thapper - Natursidan
-- Kvinnor häktade för inblandning i mord - Aftonbladet
-- ”Skolan behöver fler liberala reformer” - SvD
-- Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
-- EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
-- Brand på Fotografiska i Stockholm - Aftonbladet
-- Larmvåg om slagsmål under natten – flera till sjukhus - UNT
-- SMHI: Sol och kyla på julafton - SVT Nyheter
-- 21 december 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
+- Fartyg har ankrat utanför Höganäs – kan kopplas till ryska militären - SVT Nyheter
+- Amerikanska medier: Epsteinbild på Trump försvunnen från justitieministeriets webbplats - Yle
+- Sju tips för en stressfri jul: Skippa nya trender - SvD
 - Venezuela anklagar USA för stöld - SVT Nyheter
+- Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
+- Naturjulkalendern 2025: Maria Thapper - Natursidan
+- Sol i hela Sverige – på årets mörkaste dag - SVT Nyheter
+- Stora konsekvenser för samhället när de svenska vintrarna försvinner - Dagens Nyheter
+- Larm om brand på Fotografiska i Stockholm - SVT Nyheter
+- Larmvåg om slagsmål under natten – flera till sjukhus - UNT
+- Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
 - DN Direkt – Tio döda i skjutning i Sydafrika - Dagens Nyheter
-- Tusentals köar för att ge blod efter terrorn i Sydney - GP
+- TOVE HOVEMYR: Lånet på 90 miljarder euro köper dyrbar tid – och fred - UNT
+- Talesperson: Putin redo att prata med Macron - Västerbottens-Kuriren
 - Shekarabi (S): Högerns politik gör unga akademiker arbetslösa - Aftonbladet
-- Kvinnor får minst när ”gasen” delas ut - SvD
-- Musk blir först i världen med en förmögenhet över 700 miljarder dollar - Omni
+- ”Gasen” i pensionssystemet gynnar män mer än kvinnor - Omni Ekonomi
 - Uppdatering räddar mobiler från nedstängningen av 2G och 3G-näten - mobil.se
-- Efter Windows uppdatering – installera inte Google Chrome - Dagens PS
+- Musk blir först i världen med en förmögenhet över 700 miljarder dollar - Omni
+- Nu tar vi i ordentligt – vinn fetaste paketet från Anker någonsin. - Teknikveckan
 - LG Sound Suite – världens första soundbar med Dolby Atmos FlexConnect - Nya högtalare från LG lovar - Ljud & Bild
 
 ## World News
@@ -35,16 +35,16 @@ _Updated: 2025-12-21 09:39_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Explore the world through language: Study a Master’s at Stockholm University - Stockholms universitet
-- Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -73,24 +73,24 @@ _Updated: 2025-12-21 09:39_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - PVH Corp. Announces CFO Transition - Placera.se
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -124,21 +124,21 @@ _Updated: 2025-12-21 09:39_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Early experiments in accelerating science with GPT-5 - OpenAI
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-12-21 09:39_
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
