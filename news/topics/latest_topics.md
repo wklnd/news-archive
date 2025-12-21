@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 08:52_
+_Updated: 2025-12-21 09:39_
 
 ## Top Stories
 
-- Sju tips för en stressfri jul: Skippa nya trender - SvD
-- Filerna ur Epstein-utredningen släppta - SVT Nyheter
+- Sol i hela Sverige – på årets mörkaste dag - SVT Nyheter
 - Naturjulkalendern 2025: Maria Thapper - Natursidan
 - Kvinnor häktade för inblandning i mord - Aftonbladet
-- Tio döda i skjutning i Sydafrika - SVT Nyheter
-- Explosion i köpcentrum i Tallinn - Expressen
+- ”Skolan behöver fler liberala reformer” - SvD
+- Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
+- EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
+- Brand på Fotografiska i Stockholm - Aftonbladet
 - Larmvåg om slagsmål under natten – flera till sjukhus - UNT
 - SMHI: Sol och kyla på julafton - SVT Nyheter
-- Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
 - 21 december 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
 - Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
 - Venezuela anklagar USA för stöld - SVT Nyheter
-- EU lånar 90 miljarder euro till Ukraina – frysta ryska tillgångar kvar i byrålådan - Europaportalen
+- DN Direkt – Tio döda i skjutning i Sydafrika - Dagens Nyheter
 - Tusentals köar för att ge blod efter terrorn i Sydney - GP
+- Shekarabi (S): Högerns politik gör unga akademiker arbetslösa - Aftonbladet
 - Kvinnor får minst när ”gasen” delas ut - SvD
-- Musk får rätt till gammalt mångmiljardpaket - DI
+- Musk blir först i världen med en förmögenhet över 700 miljarder dollar - Omni
 - Uppdatering räddar mobiler från nedstängningen av 2G och 3G-näten - mobil.se
-- Lista: Svenska fonderna som presterat bäst och sämst 2025 - Placera.se
-- LG och Dolby lanserar ett modulärt ljudsystem för vardagsrummet - Teknikveckan
-- Dagens Dubbel Tips 22/12 - Travcash
+- Efter Windows uppdatering – installera inte Google Chrome - Dagens PS
+- LG Sound Suite – världens första soundbar med Dolby Atmos FlexConnect - Nya högtalare från LG lovar - Ljud & Bild
 
 ## World News
 
@@ -60,37 +60,37 @@ _Updated: 2025-12-21 08:52_
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Automation Alley announces 2026 Integr8 Roundtable Series focused on the technologies redefining manufacturing - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PVH Corp. Announces CFO Transition - Placera.se
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -124,41 +124,41 @@ _Updated: 2025-12-21 08:52_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Early experiments in accelerating science with GPT-5 - OpenAI
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
