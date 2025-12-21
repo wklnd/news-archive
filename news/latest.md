@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-21 20:53_
+_Updated: 2025-12-21 21:48_
 
-- Sister of Epstein victim reported him in 1996, but FBI failed to investigate, files reveal - The Guardian
+- DOJ defends removing Trump photo from Epstein files - Axios
 - Trump faces narrowing options on Venezuela action - The Washington Post
+- Shopping for pricy ACA health plans? Some cheaper options come with trade-offs - NPR
 - ‘Congress is in a coma.’ Former lawmakers sound alarm on health of the House - NPR
-- Trump Takes America’s ‘Imperial Presidency’ to a New Level - The New York Times
-- MAGA media mess deepens at Turning Point convention - Axios
-- Power restored to most in San Francisco after massive outage - AP News
+- Power restored to most in San Francisco after massive outage - CNN
+- Federal grants for flood work sat on hold as storms inundated Washington state - NBC News
 - Officer who fatally shot Tamir Rice fired from West Virginia ranger position - The Guardian
+- Hakeem Jeffries says Obamacare subsidy extension 'will pass with a bipartisan majority' - Politico
+- MAGA media mess deepens at Turning Point convention - Axios
 - A New Mexico monastery where the silence calls - CBS News
-- Ukraine peace talks in Miami proceeding 'constructively,' Russian envoy says - ABC News
-- Brown, MIT suspect had 200 rounds, laser sights as authorities feared hit list: US attorney - ABC News
-- Cartagena’s iconic horse carriages give way to electric buggies - NPR
 - Israel approves 19 new settlements in occupied West Bank - BBC
-- Thousands of mourners gather at Bondi Beach to honor victims of antisemitic attack - CBS News
-- A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering - NPR
-- Trump World Is Picking Sides in the Battle for Warner Bros. - The Wall Street Journal
+- Sydney Shooting Suspects Met Muslim Leaders in Philippines, Officials Say - The New York Times
+- Cartagena’s iconic horse carriages give way to electric buggies - NPR
+- Multiple gunmen open fire at a South African pub, killing 9 and wounding 10 - AP News
 - Trump's return brought stiff headwinds for clean energy. So why are advocates optimistic in 2026? - AP News
-- German engineer becomes first wheelchair user to visit space - DW
-- Powerball jackpot climbs to estimated $1.6 billion ahead of next drawing - CBS News
+- Tesla is recruiting factory workers and sales staff to operate its 'Robotaxi' service - Business Insider
+- Trump World Is Picking Sides in the Battle for Warner Bros. - The Wall Street Journal
+- Virginia scores big in Powerball: $150K and five $50K winners - WWBT
 - RAM is so expensive they’re selling “prebuilt” PCs without it. - The Verge
 - Samsung’s new Exynos 2600 uses a neat trick to make the Galaxy S26 a blazing fast flagship - PhoneArena
