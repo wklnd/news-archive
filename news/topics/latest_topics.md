@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 16:42_
+_Updated: 2025-12-21 17:40_
 
 ## Top Stories
 
-- Ryskt fartyg utanför Höganäs bordat av svenska myndigheter - SVT Nyheter
-- ”Skolan behöver fler liberala reformer” - SvD
+- Ryskt fartyg bordat – finns på sanktionslistor - GP
+- Uppgifter: USA har bordat nytt fartyg utanför Venezuelas kust - SVT Nyheter
+- Halt på vägar i Västsverige – flera olyckor - Expressen
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- Polisen: Varning för blixthalka - SVT Nyheter
+- JUST NU: En död efter olyckan på väg 95 • Bil voltade - Norran
 - ”Alla wokemänniskor spelar dem i händerna” - SvD
-- Polisen varnar för blixthalka på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- En död efter trafikolycka i Skellefteå - SVT Nyheter
-- Väderomslaget: Sol och kyla på julafton - Västerbottens-Kuriren
-- Misstänkt föremål ofarligt – avspärrningarna i Halmstad har hävts - SVT Nyheter
+- SMHI: Sol och kyla på julafton - SVT Nyheter
+- Halt på vägarna – bil voltade – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - Misshandel och bråk – flera till sjukhus - UNT
+- Rullstolsburen person påkörd i Uppsala - SVT Nyheter
 - Motstridiga ryska signaler om fredssamtalen - Dagens Nyheter
-- Kambodja: Över 500 000 har flytt - GP
+- Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
 - Två till sjukhus efter frontalkrock på RV31 mellan Vetlanda och Ekenässjön - SVT Nyheter
-- Julbock har brunnit - Expressen
+- TOVE HOVEMYR: Lånet på 90 miljarder euro köper dyrbar tid – och fred - UNT
 - Hög tid att nyårsstäda ekonomin – ”passa på” - SvD
-- 81-åriga Leif skippade pensionen – för att starta ett mejeri - Dagens Nyheter
 - Många nya lagar påverkar din ekonomi nästa år - TV4 Nyheterna
-- Kvinnor får minst när pensionsöverskott delas ut - DI
+- 81-åriga Leif skippade pensionen – för att starta ett mejeri - Dagens Nyheter
+- LKAB:s gruvor akutstängdes av störningar - Aftonbladet
 - Clair Obscur fråntas ett GOTY-pris på grund av AI-använding - FZ.se
 - Gemini ersätter Google Assistant på Android nästa år - Teknikveckan
 
@@ -51,24 +51,24 @@ _Updated: 2025-12-21 16:42_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
@@ -146,19 +146,19 @@ _Updated: 2025-12-21 16:42_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
