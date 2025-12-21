@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 05:50_
+_Updated: 2025-12-21 06:54_
 
 ## Top Stories
 
 - Filerna ur Epstein-utredningen släppta - SVT Nyheter
+- Tio döda i skjutning i Sydafrika - SVT Nyheter
+- Naturjulkalendern 2025: Maria Thapper - Natursidan
 - Kvinnor häktade för inblandning i mord - Aftonbladet
-- Talesperson: Putin redo att prata med Macron - Aftonbladet
 - EU har enats om 90 miljarder euro i stöd till Ukraina - Regeringen.se
-- ”Skolan behöver fler liberala reformer” - SvD
-- Naturjulkalendern 2025: Fatima Boukarchid - Natursidan
-- Larm om brand på Fotografiska i Stockholm - SVT Nyheter
-- Ryskt fartyg med sanktioner har ankrat utanför Höganäs - GP
 - 20 december 14.00, Trafikkontroll, Västernorrlands län - polisen.se
+- Larm om brand på Fotografiska i Stockholm - SVT Nyheter
 - ”Kostnaderna för stoppade uppehållstillstånd underskattas” - SVT Nyheter
-- USA bordar handelsfartyg utanför Venezuela - Västerbottens-Kuriren
+- Inför julresan: Här sker flest olyckor i länet under julhelgen - Västerbottens-Kuriren
+- Polisinsats efter explosionslarm i Flogsta – utryckning på natten - UNT
+- Venezuela anklagar USA för stöld - Västerbottens-Kuriren
 - Ukraina: Har attackerat ryskt krigsfartyg i Kaspiska havet - Dagens Nyheter
-- Trump: Allvarlig hämnd mot IS - SVT Nyheter
-- Zelenskyj: USA föreslår direktsamtal med Ryssland - Hufvudstadsbladet
+- Ryskt fartyg ankrat utanför Skåne - Aftonbladet
+- USA: Fler än 70 IS-mål attackerade i Syrien - Västerbottens-Kuriren
+- Musk får rätt till gammalt mångmiljardpaket - DI
 - Uppdatering räddar mobiler från nedstängningen av 2G och 3G-näten - mobil.se
 - Det betyder regeringens förslag om ändrade bolåneregler - sbab.se
-- Musk blir först i världen med en förmögenhet över 700 miljarder dollar - Omni
-- Så blir pensionen nästa år – höjning för många - Tidningen Näringslivet
-- Mystiska objektet närmar sig jorden: ”Utomjordisk stridsfarkost” - Expressen
-- KRÖNIKA: Pappa gjorde en otroligt stark insats för familjen - Barometern-OT
+- Färre får jobb efter att ha gått yrkeshögskola - SvD
+- LG och Dolby lanserar ett modulärt ljudsystem för vardagsrummet - Teknikveckan
+- Dagens Dubbel Tips 22/12 - Travcash
 
 ## World News
 
@@ -100,15 +100,15 @@ _Updated: 2025-12-21 05:50_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
@@ -142,23 +142,23 @@ _Updated: 2025-12-21 05:50_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
