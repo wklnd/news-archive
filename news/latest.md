@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-21 17:48_
+_Updated: 2025-12-21 18:52_
 
 - Sister of Epstein victim reported him in 1996, but FBI failed to investigate, files reveal - The Guardian
 - Trump faces narrowing options on Venezuela action - The Washington Post
-- Manhunt under way after gunmen kill nine near South Africa’s Johannesburg - Al Jazeera
-- Market-savvy Treasury chief Scott Bessent emerges as unlikely MAGA warrior - The Washington Post
-- Waymo halts service in SF as cars stall at intersections - SFGATE
+- ‘Congress is in a coma.’ Former lawmakers sound alarm on health of the House - NPR
 - Trump Takes America’s ‘Imperial Presidency’ to a New Level - The New York Times
-- Here’s what you missed at Turning Point’s chaotic convention - AP News
-- Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - ABC News
+- Power restored to most in San Francisco after massive outage - AP News
+- Manhunt under way after gunmen kill nine near South Africa’s Johannesburg - Al Jazeera
+- MAGA media mess deepens at Turning Point convention - Axios
+- Ukraine peace talks in Miami proceeding 'constructively,' Russian envoy says - ABC News
 - Investigators struggled to identify suspect while Brown University gunman went on to kill again, timeline shows - CBS News
-- U.S. conducts strikes on ISIS targets in Syria in retaliation for killing of American soldiers - Axios
-- Thousands gather at Bondi Beach to mourn victims of antisemitic attack - CNN
+- US launches strikes on Isis targets in Syria in retaliation for ambush - Financial Times
 - Israel approves 19 new settlements in occupied West Bank - BBC
-- Thousands cheer as the sun rises on winter solstice at Stonehenge - AP News
-- The EU plans to raise €90 billion in joint debt for Ukraine — here's how - Euronews.com
-- This real estate CEO is going to war with Zillow. He could reshape how you buy your next home. - Business Insider
-- Powerball numbers for Saturday, Dec. 20. Did anyone win $1.43B jackpot? - Cincinnati Enquirer
-- Holiday travel rush ramps up, causes delays on Southern California freeways - ABC7 Los Angeles
+- Sydney Shooting Suspects Met Muslim Leaders in Philippines, Officials Say - The New York Times
+- Cartagena’s iconic horse carriages give way to electric buggies - NPR
+- ‘I feel special, in my heart’: thousands gather at Stonehenge for winter solstice - The Guardian
+- Winning $2.3 million Powerball ticket sold in Southern California - KTLA
 - German engineer becomes first wheelchair user to visit space - DW
+- Japan's Yen Debasement - Robin J Brooks | Substack
+- This real estate CEO is going to war with Zillow. He could reshape how you buy your next home. - Business Insider
 - Proposed Space Station Could Be Deployed in a Single Launch - Gizmodo
-- A tape measure, a metal detector and a spirit level: 25 surprisingly useful things you can do with your phone - The Guardian
+- GOTY Winner Clair Obscur Disqualified From Awards Show - GAMINGbible
