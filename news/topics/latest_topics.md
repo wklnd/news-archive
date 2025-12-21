@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-21 18:46_
+_Updated: 2025-12-21 19:41_
 
 ## Top Stories
 
-- Fotboll: Uppgifter: Alexander Isaks skada allvarlig - SVT Nyheter
-- ”Sverige har all rätt att inspektera lasten” - SvD
+- Insatsen vid ryskt fartyg avslutad - SVT Nyheter
 - Uppgifter: USA har bordat nytt fartyg utanför Venezuelas kust - SVT Nyheter
-- Halt på vägar i Västsverige – flera olyckor - Expressen
-- Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- Här får familjer hämta tre julklappar per barn - SvD
-- En död efter trafikolycka i Skellefteå - SVT Nyheter
-- Skidprofilens vänner dog på fjället: ”Så orättvist” - Dagens Nyheter
-- Sol i hela Sverige – på årets mörkaste dag - UNT
-- Antalet fjällrävar har minskat - SVT Nyheter
-- Tusentals köar för att ge blod efter terrorn i Sydney - GP
-- Motstridiga ryska signaler om fredssamtalen - Dagens Nyheter
-- Kambodja: Över 500 000 har flytt - Västerbottens-Kuriren
 - Frontalkrock i Vetlanda – totalstopp i trafiken - Expressen
+- Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
+- Halt på vägar i Västsverige – flera olyckor - Expressen
+- En död efter trafikolycka i Skellefteå - SVT Nyheter
+- Antalet fjällrävar har minskat - SVT Nyheter
+- Sol i hela Sverige – på årets mörkaste dag - UNT
+- Misshandel och bråk – flera till sjukhus - UNT
+- 20 december 08.14, Sammanfattning natt, Örebro län - polisen.se
+- Tredje dag av Miamisamtal om Ukrainakonflikten - GP
+- Tusentals köar för att ge blod efter terrorn i Sydney - Västerbottens-Kuriren
+- En död efter olycka utanför Skellefteå - Expressen
+- TOVE HOVEMYR: Lånet på 90 miljarder euro köper dyrbar tid – och fred - UNT
 - Många nya lagar påverkar din ekonomi nästa år - TV4 Nyheterna
+- Hög tid att nyårsstäda ekonomin – ”passa på” - GP
 - 81-åriga Leif skippade pensionen – för att starta ett mejeri - Dagens Nyheter
-- Så får du ordning på ekonomin inför årsskiftet – experternas bästa råd - Börskollen
 - AP-fondens vd: ”Som att utkämpa en strid” - DI
 - Clair Obscur fråntas ett GOTY-pris på grund av AI-använding - FZ.se
 - Gemini ersätter Google Assistant på Android nästa år - Teknikveckan
@@ -35,8 +35,8 @@ _Updated: 2025-12-21 18:46_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
@@ -81,9 +81,7 @@ _Updated: 2025-12-21 18:46_
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -93,6 +91,8 @@ _Updated: 2025-12-21 18:46_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-21 18:46_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -150,15 +150,15 @@ _Updated: 2025-12-21 18:46_
 - Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
