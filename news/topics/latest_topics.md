@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 15:10_
+_Updated: 2025-12-22 15:51_
 
 ## Top Stories
 
 - Beslut om att lämna ut beslag av guld och platina - polisen.se
-- KD vill kalla upp Kriminalvården - Aftonbladet
+- KD kallar upp Kriminalvårdens generaldirektör - Expressen
 - Samtliga frias efter misstänkta muthärvan i Ystad - SVT Nyheter
-- Rysk general död i bilexplosion i Moskva - GP
-- Polisen: 200 kilo knark i Nykvarn kopplas till Foxtrot - SVT Nyheter
+- UPPDATERAS: Rysk general dödad i bilbomb – två ryska spetsflyg utslagna på flygbas - cornucopia.se
 - Trumps sändebud vill göra Grönland amerikanskt - SVT Nyheter
+- Premiärministern utbuad på minnesstund: ”Skäms!” - Aftonbladet
+- Åkte fast med 170 kilo kokain – döms - GP
+- Alex Schulman: Jag samlar familjen för att se en glimt av solen - Dagens Nyheter
 - DN Direkt – Brev till tomten visar – det vill barnen ha - Dagens Nyheter
-- Åkte fast med 170 kilo kokain – döms - Aftonbladet
-- Tomas Ramberg: Gör det någon skillnad vem som vinner valet? - Dagens Nyheter
-- Sol i hela Sverige – på årets mörkaste dag - Västerbottens-Kuriren
-- Nya detaljer om dådet på Bondi Beach: Hemmagjorda bomber och inspelat manifest - Dagens Nyheter
+- Polisen: 200 kilo knark kopplas till Foxtrot - SVT Nyheter
 - Varmare på Svalbard än i Spanien - Hufvudstadsbladet
-- Tullverket har bordat ryskt fartyg - Västerbottens-Kuriren
-- DN Direkt – Svensk klinik i unik studie av grön starr - Dagens Nyheter
-- Störningar hos bank-id – problem att logga in - NT
+- ”Skadligt att inte ge hela bilden” - Svenska Afghanistankommittén
+- Tre döda i israelisk attack i Libanon - Västerbottens-Kuriren
+- Brand i industribyggnad i Täby - Mitt i
+- Störningar hos bank-id – problem att logga in - Corren
+- Tullsmocka från Kina på mejerivaror från EU - Aftonbladet
 - Opec drar med sig Europa i oljerally – mot botten - Affärsvärlden
-- Tullsmocka från Kina på mejerivaror från EU - DI
-- Nya ägaren vill sänka priset på Arlanda Express - Tidningen Näringslivet
+- EQT köper Arlanda Express – lockar med billigare biljetter - DI
+- Något träffade månen med våldsam kraft – och astronomer filmade ögonblicket live - Illustrerad Vetenskap
 - Aldrig tidigare observerat: Enorm himlakropp dundrar genom universum i 1 000 kilometer i sekunden - Illustrerad Vetenskap
-- Samsung hinner före Apple med sitt första 2-nanometerschip - Teknikveckan
 
 ## World News
 
+- One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -39,7 +40,6 @@ _Updated: 2025-12-22 15:10_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
@@ -51,48 +51,48 @@ _Updated: 2025-12-22 15:10_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -128,17 +128,17 @@ _Updated: 2025-12-22 15:10_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
