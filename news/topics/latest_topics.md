@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 06:57_
+_Updated: 2025-12-22 07:47_
 
 ## Top Stories
 
 - Borttagen Epsteinbild på Trump tillbaka - Yle
 - Tullverket har bordat ryskt fartyg utanför Höganäs - GP
-- Kakaopriset har rasat kraftigt - SvD
 - Naturjulkalendern 2025: Gustav Parenmark - Natursidan
+- Skjutvåldet minskar kraftigt – men barnen oroar - SvD
+- Swish-fusk för miljoner på hyllade Malmökrogen: ”En smärre chock” - Sydsvenskan
+- Kakaopriset har rasat kraftigt - SvD
+- Uppgifter: Rekordbeslag av kokain i Nykvarn - SVT Nyheter
+- Sol i hela Sverige – på årets mörkaste dag - UNT
 - Antalet fjällrävar har minskat - SVT Nyheter
-- Kvinnor häktade för inblandning i mord - Aftonbladet
-- Uppgifter: Stort beslag av kokain i Nykvarn - GP
 - Vägarbete mitt i jultrafiken – stoppade upp på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Rättsväsendet svek den döde diplomaten i alla avseenden - Altinget.se
-- Varför omyndigförklarar Liberalerna svenska föräldrar? - Dagens Arena
 - Israel godkänner nya bosättningar på Västbanken - Dagens Nyheter
-- Här drar snattaren pistol mot polisen - Expressen
-- TOVE HOVEMYR: Lånet på 90 miljarder euro köper dyrbar tid – och fred - UNT
-- Uppgifter: Stort beslag av kokain - Expressen
-- Tele 2-kunder rasar – får oväntade räkningar - Expressen
-- Naturpodden: Philipp Weiss räddar Dalarnas sista oskydddade natur­skogar - Natursidan
-- Så påverkas ditt bolån av de nya reglerna - DI
-- Anklagas: Rullade in död kvinna på London-flyget - Aftonbladet
-- Efter Windows uppdatering – installera inte Google Chrome - Dagens PS
-- I Honda och Sonys kommande bil så kan passagerare spela PS5 - Teknikveckan
+- Indonesien: Många döda i busskrasch - Aftonbladet
+- Anklagelsen: Kastade hemmagjorda bomber på Bondi - Västerbottens-Kuriren
+- Ny bottennotering i förtroendet för Mohamsson - Omni
+- Guldet rusar vidare – går mot bästa året sedan 1979 - Omni
+- De tror på börslyft även nästa år: ”15 procent” - Sydsvenskan
+- Då är det dags att ha dåligt AI-samvete - SvD
+- Projektchef till strategiskt GIS-projekt - ncc.se
+- Samsung visar första mobilkretsen med 2 nm‑teknik - mobil.se
+- "Clair Obscur" förlorar årets spel-pris på grund av användande av AI-verktyg - MovieZine.se
 
 ## World News
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-22 06:57_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- PVH Corp. Announces CFO Transition - Placera.se
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -101,10 +101,8 @@ _Updated: 2025-12-22 06:57_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -116,6 +114,8 @@ _Updated: 2025-12-22 06:57_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -134,7 +134,7 @@ _Updated: 2025-12-22 06:57_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
