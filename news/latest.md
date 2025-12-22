@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 17:51_
+_Updated: 2025-12-22 18:56_
 
+- Trump Administration Live Updates: President to Make Announcement With Hegseth in Florida - The New York Times
 - CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry - NPR
-- Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post
-- Russian General Is Killed in Car Bombing in Moscow - The New York Times
-- Vance tries to weather the MAGA storm at Turning Point - Politico
-- Bondi gunmen 'meticulously' planned attack for months, police allege - BBC
-- U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela - The New York Times
-- Trump administration says it's halting offshore wind projects over national security risks - CBS News
+- JD Vance is ‘walking a tightrope’ on raging Israel debate within MAGA - The Washington Post
+- Car bomb kills Russian general in Moscow - AP News
+- Trump naming special envoy to Greenland angers Denmark, prompting it to call in U.S. ambassador - CBS News
+- US seizes vessel in international waters off Venezuela's coast, officials say - BBC
+- Inside Turning Point’s effort to take over Arizona’s Republican Party - Politico
+- Weather tracker: Further flood watches issued across California - The Guardian
 - INCREASED INCENTIVES: DHS Now Offering $3K Holiday Stipend Through End of The Year Via the CBP Home App for Illegal Aliens to Leave Now - Homeland Security (.gov)
-- You cannot annex other countries, Danish and Greenlandic leaders tell Trump - The Guardian
-- Flash flooding in northern California leads to soaked roads, water rescues and one death - CNBC
+- Trump administration says it's halting offshore wind projects over national security risks - CBS News
+- Sydney Shooting Suspects Met Muslim Leaders in Philippines, Officials Say - The New York Times
+- Driving Home for Christmas singer Chris Rea dies at 74 - BBC
 - Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
-- Trump administration removes dozens of career diplomats from overseas posts - CNN
-- Israel approves 19 new settlements in occupied West Bank - BBC
-- China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry - CNBC
+- Japan’s H3 suffers second-stage anomaly, QZS-5 satellite lost - SpaceNews
 - Larry Ellison provides personal guarantee for Paramount takeover of Warner Bros Discovery - The Guardian
-- Gold smashes past $4,400, silver hits record as rate cut bets fuel rally - Reuters
 - Jim Beam to pause production at its main distillery on Jan. 1 - CBS News
-- Instacart ends a program where users could see different prices for the same item at the same store - AP News
-- Samsung ‘Wide Fold’ rumored to rival Apple’s foldable next year - The Verge
-- Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model - Forbes
+- Gold jumps over 2% to all-time peak; silver follows with record gain - Reuters
+- S&P 500 rises to start a holiday-shortened week, led by tech: Live updates - CNBC
+- I Grew Up on Atari. Now I'm Reliving My Childhood on the Gamestation Go - CNET
+- Two 200MP cameras and a 10x camera! This is the Ultra phone to end all Ultra phones. - Android Authority
