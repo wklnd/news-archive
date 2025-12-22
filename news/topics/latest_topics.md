@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 00:45_
+_Updated: 2025-12-23 01:41_
 
 ## Top Stories
 
-- JUST NU: Trafikolycka på E20 – en person ska vara allvarligt skadad: ”Har frontalkrockat” - NLT
 - Nio år i Sverige och jobb på sjukhus – utvisas nu - Expressen
-- Tåg har spårat ut i Krokom – trafik stoppas – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Transföreningen om mötet med morddömda pappan - Kvartal
 - 251222 Nya beslut i styrgruppen för sjukhusstrukturförändringen - Region Västernorrland
+- Betalar 900 000 – för terrorhyllare - Expressen
+- Natos varning: Ryssland utvecklar nytt rymdvapen - Expressen
+- 7 förslag till industrins gröna omställning - SKR
+- 22 december 07.44, Sammanfattning natt, Jämtlands län - polisen.se
+- Brand i lägenhet – en till sjukhus i helikopter - GP
 - 22 december 17.20, Trafikolycka, vilt, Västerbottens län - polisen.se
-- DN Direkt – Brand i lägenhet – en till sjukhus i helikopter - Dagens Nyheter
-- Anställda på Sis-boenden ska få sköldar och hjälmar - Omni
-- Påkörd av buss – en allvarligt skadad - Aftonbladet
-- Elfel orsakade tågstopp på flera sträckor – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- ”Call of duty”-skaparen död i bilolycka - Västerbottens-Kuriren
-- Zelenskyj om förhandlingarna: ”Ganska stabilt” - Västerbottens-Kuriren
+- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
+- 22 december 20.19, Motorfordon, stöld, Tierp - polisen.se
 - Sprickan mellan Europas tungviktare: ”Macron förrådde Merz” - Dagens Nyheter
-- Hungerstrejkande Palestinaaktivister beredda att dö i brittiskt häkte - Dagens Nyheter
+- Trump: Ska bygga världens största slagskepp - SVT Nyheter
+- Kraftig villabrand – kvinna till sjukhus - Norrtelje Tidning
+- Direkt – Kriget i Ukraina – Zelenskyj om förhandlingarna: ”Ganska stabilt” - Dagens Nyheter
 - Småspararna skulle bli rika – vad hände? - SvD
-- Geopolitisk oro får guldpriset att rusa - EFN.se
-- EQT köper Arlanda Express – lockar med billigare biljetter - DI
-- Fler butiker har AI-bilder: ”Dyrt med fotografer” - Omni
+- Sjuksköterskorna jublar efter nya avtalet: ”Klirr i plånboken” - NWT
+- Rådet efter Trumps tullsmocka ”Slösa aldrig bort en kris” - EFN.se
+- Nytt projekt ska stärka informations- och datadelning för cirkulär hantering av elfordonsbatterier - dagensinfrastruktur -
 - ATG tar pengar som gisslan i jul - Expressen
 - ”Årets spel” blir av med priser efter AI-användning - Omni
 
@@ -36,40 +36,40 @@ _Updated: 2025-12-23 00:45_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Noam Chomsky, a surprise name in Epstein files: How the pair bonded over money, jazz, and ‘global financial system' | Hindustan Times - Hindustan Times
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
-- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
