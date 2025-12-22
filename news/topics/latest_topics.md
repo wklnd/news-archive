@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 01:40_
+_Updated: 2025-12-22 04:34_
 
 ## Top Stories
 
+- Trumpbild återpublicerad – mörkläggning nekas - SvD
 - Ryska fartyget Adler utanför Höganäs bordat av svenska myndigheter - SVT Nyheter
+- Smäll vid flerfamiljshus i Älvsjö - SVT Nyheter
+- Naturjulkalendern 2025: Gustav Parenmark - Natursidan
 - Israel godkänner nya bosättningar på Västbanken - SvD
 - Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- Källor: USA förföljer oljefartyg vid Venezuela - SvD
-- Polisen varnar för blixthalka på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Då är det dags att ha dåligt AI-samvete - SvD
-- Fångtransporter för 100 miljoner - SVT Nyheter
-- Nacka församling delar ut mat och julklappar till behövande - Mitt i
+- Uppgifter: Stort beslag av kokain i Nykvarn - GP
 - Antalet fjällrävar har minskat - SVT Nyheter
-- Koran med kulhål utanför moské: ”Försök att skrämma” - Aftonbladet
-- Domstol: Israel måste lämna journalist-besked - Västerbottens-Kuriren
+- Vägarbete mitt i jultrafiken – stoppade upp på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Fångtransporter för 100 miljoner - SVT Nyheter
 - Minst tio döda i drönarattack mot Darfurmarknad i Sudan - SVT Nyheter
-- ”Banankrig” och statskupper – så har det gått när USA agerar i Latinamerika - Dagens Nyheter
+- Domstol: Israel måste lämna journalist-besked - Västerbottens-Kuriren
 - Tusentals köar för att ge blod efter terrorn i Sydney - GP
+- Källor: USA förföljer oljefartyg vid Venezuela - Hufvudstadsbladet
 - Kronan den första bland de tio största - Västerbottens-Kuriren
-- Tele 2-kunder rasar – får oväntade fakturor - Expressen
-- Fick parkeringsbot – då avslöjas vaktens bluff - Expressen
-- Nya lagar – så påverkas din ekonomi nästa år - DI
+- Hög tid att nyårsstäda ekonomin – ”passa på” - Corren
+- Då är det dags att ha dåligt AI-samvete - SvD
+- Tele 2-kunder rasar – får oväntade räkningar - Expressen
 - "Clair Obscur" förlorar årets spel-pris på grund av användande av AI-verktyg - MovieZine.se
 - I Honda och Sonys kommande bil så kan passagerare spela PS5 - Teknikveckan
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Michael Saylor tar upp Bitcoin-handel och global adoption - Traders Union
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Michael Saylor tar upp Bitcoin-handel och global adoption - Traders Union
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
@@ -39,10 +39,10 @@ _Updated: 2025-12-22 01:40_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Explore the world through language: Study a Master’s at Stockholm University - Stockholms universitet
 - Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
@@ -51,25 +51,25 @@ _Updated: 2025-12-22 01:40_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -128,16 +128,16 @@ _Updated: 2025-12-22 01:40_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -146,19 +146,19 @@ _Updated: 2025-12-22 01:40_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
