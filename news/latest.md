@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 09:00_
+_Updated: 2025-12-22 09:50_
 
-- Justice Dept. Reposts Epstein Files Image Showing Trump Picture - The New York Times
-- U.S. pursuing third oil tanker as Venezuela hostilities intensify - Axios
-- Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News
+- Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post
+- U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela - The New York Times
+- CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry - NPR
 - Vance tries to weather the MAGA storm at Turning Point - Politico
-- ‘60 Minutes’ correspondent says CBS’s Bari Weiss abruptly pulled segment on Trump deportations - The Washington Post
-- South East Asian bloc to meet in bid to end Thailand-Cambodia conflict - BBC
+- Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - NPR
+- Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News
 - Acting CISA director failed a polygraph. Career staff are now under investigation. - Politico
-- Ukrainian and European officials had ‘productive’ talks on ending war, US envoy says | Trump administration - The Guardian
 - Video shows moment shoplifting suspect in Ohio pulls out gun, attempts to shoot officer - ABC7 Los Angeles
-- Hakeem Jeffries says Obamacare subsidy extension 'will pass with a bipartisan majority' - Politico
+- Snow is heading to NYC before Christmas. Tri-State Area map shows how many inches could fall. - CBS News
+- City Council Passes 2026 Budget: Here Are The Major Fees And Changes - Block Club Chicago
+- Bondi Beach shooting suspect conducted firearms training with his father, Australian police say - AP News
+- ASEAN meets to seek resolution to Thailand-Cambodia conflict - Reuters
 - Scientists say they have discovered 20 new species deep in the Pacific Ocean - NPR
-- Sydney Shooting Suspects Met Muslim Leaders in Philippines, Officials Say - The New York Times
-- Trump administration recalls nearly 30 career diplomats around world - The Guardian
-- Multiple gunmen open fire at a South African pub, killing 9 and wounding 10 - AP News
+- Australian state parliament reconvenes to push stricter gun laws after Bondi mass shooting - KSL.com
 - Bourbon maker Jim Beam halts production at main distillery for a year - BBC
-- Frozen Waymos backed up San Francisco traffic during a widespread power outage - The Verge
+- Waymo resumes service in San Francisco after robotaxis stall during blackout - TechCrunch
 - China keeps benchmark lending rates steady for a seventh straight month despite weak economic data - CNBC
-- Asia shares extend gains, yen friendless as bonds buckle - Reuters
+- Powerball results for 12/20/25; Did anyone win the $1.43 billion jackpot? - MLive.com
 - Google may finally reverse this controversial Quick Settings change - Android Authority
 - Indie Game Awards disqualifies Game of the Year winner Clair Obscur: Expedition 33 for using AI - Eurogamer
