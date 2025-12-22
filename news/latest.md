@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 15:21_
+_Updated: 2025-12-22 15:54_
 
+- Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post
+- Vance refuses to set red lines over bigotry at Turning Point USA's convention - NPR
 - CBS shelves ‘60 Minutes’ story on Trump deportees at the last minute: ‘People are threatening to quit,’ staffers say - CNN
-- US seizes vessel in international waters off Venezuela's coast, officials say - BBC
-- Nigeria Papiri kidnapping: All pupils kidnapped from Catholic school now free - officials - BBC
-- Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - NPR
-- Playoff bound! Bears clinch 2025 postseason berth - Chicago Bears
-- Hundreds protest Trump’s move to dismantle NCAR, a premier climate and weather hub - Colorado Public Radio
+- U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela - The New York Times
+- Bondi gunmen 'meticulously' planned attack for months, police allege - BBC
+- Russian general killed by bomb under his car in Moscow - AP News
 - If Congress is going to avoid another shutdown, lawmakers need to start talking - Politico
-- 1 dead in Redding as dangerous rain, flooding threaten parts of Northern California - ABC News
-- Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News
-- Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled - ABC News
-- Scientists say they have discovered 20 new species deep in the Pacific Ocean - NPR
+- ‘Christmastown’ Faces Climate Reality After Brutal Northwest Storms - The New York Times
+- You cannot annex other countries, Danish and Greenlandic leaders tell Trump - The Guardian
+- What are the chances of a white Christmas where you live? Map shows likelihood of snow. - CBS News
+- Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
+- Delivering under fire: How Nova Post became Ukraine's wartime success story - Reuters
 - Events get extra security after Taipei knife attacks - Taipei Times
-- Israel approves 19 new settlements in occupied West Bank - BBC
-- China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry - CNBC
-- Can Americans learn to love tiny, cheap kei cars? - NPR
-- How President Trump reshaped capitalism in 2025 - NPR
-- Holiday travel rush ramps up, causes delays on Southern California freeways - ABC7 Los Angeles
-- Don’t give up on a ‘Santa Claus rally’ just yet — even after a rough December start for stocks - MarketWatch
+- Japan to restart the world’s biggest nuclear power plant, 15 years after Fukushima disaster - CNN
+- Gold smashes past $4,400, silver hits record as rate cut bets fuel rally - Reuters
+- Powerball jackpot climbs to $1.6 billion, among largest lottery prizes ever in U.S. - CNBC
+- Bourbon maker Jim Beam stops production at Kentucky site for 2026 - The Guardian
+- Why Netflix Is Likely to Receive Regulatory Approval for Its Warner Bros. Acquisition From the Trump Administration - The Motley Fool
 - Samsung's wide foldable leak hints at a pre-emptive strike on Apple - Android Authority
-- Sony's first EV with Honda will let you remotely play PS5 in your car - Engadget
+- You can now tweak how warm and enthusiastic ChatGPT's responses are - Engadget
