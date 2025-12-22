@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 04:34_
+_Updated: 2025-12-22 05:54_
 
 ## Top Stories
 
 - Trumpbild återpublicerad – mörkläggning nekas - SvD
 - Ryska fartyget Adler utanför Höganäs bordat av svenska myndigheter - SVT Nyheter
-- Smäll vid flerfamiljshus i Älvsjö - SVT Nyheter
 - Naturjulkalendern 2025: Gustav Parenmark - Natursidan
-- Israel godkänner nya bosättningar på Västbanken - SvD
-- Åklagaren: Två kvinnor riggade Oxiemordet - Sydsvenskan
-- Uppgifter: Stort beslag av kokain i Nykvarn - GP
+- Kvinnor häktade för inblandning i mord - Aftonbladet
 - Antalet fjällrävar har minskat - SVT Nyheter
-- Vägarbete mitt i jultrafiken – stoppade upp på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Fångtransporter för 100 miljoner - SVT Nyheter
-- Minst tio döda i drönarattack mot Darfurmarknad i Sudan - SVT Nyheter
+- Polisen varnar för blixthalka på E4 – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Uppgifter: Stort beslag av kokain i Nykvarn - GP
+- Rättsväsendet svek den döde diplomaten i alla avseenden - Altinget.se
+- Halt på vägarna – flera olyckor på kort tid i Uppsala län - SVT Nyheter
+- Nacka församling delar ut mat och julklappar till behövande - Mitt i
+- Israel godkänner nya bosättningar på Västbanken - Dagens Nyheter
 - Domstol: Israel måste lämna journalist-besked - Västerbottens-Kuriren
-- Tusentals köar för att ge blod efter terrorn i Sydney - GP
-- Källor: USA förföljer oljefartyg vid Venezuela - Hufvudstadsbladet
-- Kronan den första bland de tio största - Västerbottens-Kuriren
-- Hög tid att nyårsstäda ekonomin – ”passa på” - Corren
-- Då är det dags att ha dåligt AI-samvete - SvD
+- Källor: USA förföljer oljefartyg utanför Venezuela kust - SVT Nyheter
+- Smäll vid flerfamiljshus i Älvsjö - SVT Nyheter
+- Kronan den första bland de tio största - Aftonbladet
+- Hög tid att nyårsstäda ekonomin: ”Passa på” - Kristianstadsbladet
 - Tele 2-kunder rasar – får oväntade räkningar - Expressen
+- Naturpodden: Philipp Weiss räddar Dalarnas sista oskydddade natur­skogar - Natursidan
 - "Clair Obscur" förlorar årets spel-pris på grund av användande av AI-verktyg - MovieZine.se
-- I Honda och Sonys kommande bil så kan passagerare spela PS5 - Teknikveckan
+- Efter Windows uppdatering – installera inte Google Chrome - Dagens PS
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2025-12-22 04:34_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- EY.ai | EY - Sverige - EY
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Deepseek är det nya Linux - Computer Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -78,8 +78,8 @@ _Updated: 2025-12-22 04:34_
 - PVH Corp. Announces CFO Transition - Placera.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
@@ -90,9 +90,9 @@ _Updated: 2025-12-22 04:34_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 
 ## Health
 
@@ -128,37 +128,37 @@ _Updated: 2025-12-22 04:34_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
