@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 21:39_
+_Updated: 2025-12-22 22:45_
 
 ## Top Stories
 
-- Transföreningen om mötet med morddömda pappan - Kvartal
 - 22 december 14.52, Trafikolycka, Götene - polisen.se
+- Transföreningen om mötet med morddömda pappan - Kvartal
+- Specialistsjuksköterska från Iran – nu utvisas hon med familjen - Arbetsvärlden
+- Zelenskyj: ”Samtal ganska stabila” - svd.se
 - Uppsalaforskare ville bli docent – sakkunnig i Lund hittade på artiklar han inte skrivit - Sydsvenskan
-- Zahra Kazemipour. Högutbildad vårdpersonal utvisas på grund av lagförändring om spårbyte. - MittSkifte
-- 22 december 17.20, Trafikolycka, vilt, Västerbottens län - polisen.se
-- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
-- DN Direkt – Åklagare överklagar dom i ambulansmordet - Dagens Nyheter
+- Dansk ilska över grönländskt sändebud - Dagens Nyheter
 - Brand i lägenhet – en till sjukhus i helikopter - Aftonbladet
-- Polisen: 200 kilo knark kopplas till Foxtrot - GP
-- Åkte fast med 170 kilo kokain – döms - Sydsvenskan
-- Ryskt stöd till Venezuela i konflikt med USA - Västerbottens-Kuriren
-- Zelenskyj om förhandlingarna: ”Ganska stabilt” - Västerbottens-Kuriren
+- Åklagaren överklagar dom i ambulansmordet - SVT Nyheter
+- 200 kg knark kopplas till Foxtrot - SVT Nyheter
+- Då stänger första avdelningen på Sollefteå sjukhus – beslut idag i regionen - SVT Nyheter
+- Ryskt stöd till Venezuela i konflikt med USA - GP
+- Sprickan mellan Europas tungviktare: ”Macron förrådde Merz” - Dagens Nyheter
 - Hungerstrejkande Palestina-aktivister förda till sjukhus - ETC.se
-- DN Direkt – Kidnappade skolbarn överlämnade till myndigheter - Dagens Nyheter
-- Svenska Anton, 35, och Fabian, 26, är dollarmiljardärer - Expressen
-- Kinatullar kan ge prispress på mjölk – riktas mot Arla - DI
-- ”Arlanda Express måste bli betydligt billigare” - SvD
-- Snabbväxande Kinajätte satsar stort på Europa - SvD
-- ATG tar era pengar som gisslan på julen - Expressen
+- ”Skadligt att inte ge hela bilden” - Svenska Afghanistankommittén
+- ”Arlanda Express måste bli betydligt billigare” - svd.se
+- Kina inför tullar på upp till 42,7 procent på mejeriprodukter från EU - Jordbruksaktuellt
+- Snabbväxande Kinajätte satsar stort på Europa - svd.se
+- Våra roller och vad vi gör - riksbank.se
+- ATG tar pengar som gisslan i jul - Expressen
 - ”Årets spel” blir av med priser efter AI-användning - Omni
 
 ## World News
@@ -100,15 +100,15 @@ _Updated: 2025-12-22 21:39_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -146,19 +146,19 @@ _Updated: 2025-12-22 21:39_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
