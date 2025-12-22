@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 12:47_
+_Updated: 2025-12-22 13:40_
 
 ## Top Stories
 
-- KD kallar upp Kriminalvården - Aftonbladet
-- Tåg har spårat ut i Krokom – trafik stoppas – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Tullverket har bordat ryskt fartyg utanför Höganäs - GP
-- Professor i Lund fälld för andra gången på ett år - Omni
-- 22 december 07.00, Sammanfattning natt, Örebro län - Polisen.se
+- Beslut om att lämna ut beslag av guld och platina - polisen.se
+- Trumps sändebud vill göra Grönland amerikanskt - SVT Nyheter
+- Åkte fast med 170 kilo kokain – döms - Aftonbladet
+- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
 - Flera viltolyckor - Västerbottens-Kuriren
-- Brev till tomten visar – det vill barnen ha - Aftonbladet
-- Uppgifter: Jättebeslag av kokain i Nykvarn - SVT Nyheter
-- Skjutvåldet minskar kraftigt – men barnen oroar - Dagens Nyheter
+- Jagade älgar med snöskoter – slaktplatser hittade i Tärendö - SVT Nyheter
+- Brev till tomten visar – det vill barnen ha - GP
 - Alex Schulman: Jag samlar familjen för att se en glimt av solen - Dagens Nyheter
+- Tomas Ramberg: Gör det någon skillnad vem som vinner valet? - Dagens Nyheter
+- Uppgifter: Rekordbeslag av kokain i Nykvarn - SVT Nyheter
 - Rysk general död i bilexplosion i Moskva - GP
 - Nya detaljer om dådet på Bondi Beach: Hemmagjorda bomber och inspelat manifest - Dagens Nyheter
 - Varmare på Svalbard än i Spanien - Hufvudstadsbladet
-- Trumps sändebud vill göra Grönland amerikanskt - SVT Nyheter
-- Jättestrul med Bank-id – problem att logga in - Aftonbladet
-- EQT köper Arlanda Express – lockar med billigare biljetter - DI
+- Brand i industribyggnad i Täby - Mitt i
+- Störningar hos bank-id – problem att logga in - DI
+- Opec drar med sig Europa i oljerally – mot botten - Affärsvärlden
 - Guldpriset på rekordnivå - Hufvudstadsbladet
-- Tullsmocka från Kina på mejerivaror från EU - DI
+- Tullsmocka från Kina på mejerivaror från EU - Aftonbladet
 - Röda vingummin är populärast i godisskålen - Illustrerad Vetenskap
 - Samsung hinner före Apple med sitt första 2-nanometerschip - Teknikveckan
 
@@ -30,18 +30,18 @@ _Updated: 2025-12-22 12:47_
 - One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Michael Saylor tar upp Bitcoin-handel och global adoption - Traders Union
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- New Secretary General appointed - Olof Palme International Center
 - Tallberg: "International institutions often enjoy more legitimacy than national governments" - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
@@ -51,25 +51,25 @@ _Updated: 2025-12-22 12:47_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Deepseek är det nya Linux - Computer Sweden
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
