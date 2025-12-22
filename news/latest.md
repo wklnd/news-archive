@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 21:48_
+_Updated: 2025-12-22 22:52_
 
 - The Trump administration pauses wind projects off New England, New York and Virginia - NPR
-- Scoop: Weiss told top "60 Minutes" producers that delayed segment had problems - Axios
-- New Trump envoy says he will serve to make Greenland part of US - BBC
+- ‘60 Minutes’ correspondent says CBS’s Bari Weiss abruptly pulled segment on Trump deportations - The Washington Post
+- Trump’s appointment of envoy to Greenland sparks new tension with Denmark - AP News
+- At least 16 files disappear from DOJ site for Epstein documents, including Trump photo - PBS
 - Bondi gunmen 'meticulously' planned attack for months, police allege - BBC
-- DOJ releases more Epstein files. And, immigration court 'no-shows' surged, NPR finds - NPR
-- INCREASED INCENTIVES: DHS Now Offering $3K Holiday Stipend Through End of The Year Via the CBP Home App for Illegal Aliens to Leave Now - Homeland Security (.gov)
-- Lawmakers threaten legal action against Bondi, DOJ over partial release of Epstein files - ABC News
-- 1 killed in California as heavy rain and flooding threaten parts of the state over the holidays - NBC News
+- Trump recalls nearly 30 career diplomats from ambassadorial and embassy posts - PBS
+- Weather tracker: Further flood watches issued across California - The Guardian
 - Turning Point USA held its AmericaFest conference. Here’s what happened - Al Jazeera
-- JD Vance is ‘walking a tightrope’ on raging Israel debate within MAGA - The Washington Post
-- Car bomb kills Russian general in Moscow - AP News
-- Driving Home for Christmas singer Chris Rea dies at 74 - BBC
-- Suspect in deadly Taiwan knife attack planned it for over a year - WRAL
+- Mike Pence's think tank poaches top Heritage staff as MAGA rift grows - Axios
+- No ‘confidence’ Ukraine and Russia will reach peace deal, Vance says - Politico
+- Russian General Killed by Car Bomb in Moscow - The Wall Street Journal
+- Chris Rea, Driving Home for Christmas and Road to Hell singer, dies at 74 - BBC
 - Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
-- Larry Ellison gives personal guarantee for Paramount takeover of Warner Bros Discovery - The Guardian
-- Waymo Suspended Service in San Francisco After Its Cars Stalled During Power Outage - The New York Times
+- Illegal settlement expansion: How Israel is redrawing occupied West Bank - Al Jazeera
+- Ellison offers personal guarantee to beef up Paramount's Warner Bros bid - Reuters
 - Alphabet agrees to buy Intersect Power for $4.75bn - Financial Times
-- Powerball jackpot climbs to $1.6 billion ahead of next drawing - ABC News
+- Waymo Suspended Service in San Francisco After Its Cars Stalled During Power Outage - The New York Times
+- Stock Market Today: Dow, S&P 500, Nasdaq Rise; Oracle, DJT, Nvidia, Tesla, More Movers - Barron's
 - Foldable phone makers have solved every issue except one - Engadget
 - I Grew Up on Atari. Now I'm Reliving My Childhood on the Gamestation Go - CNET
