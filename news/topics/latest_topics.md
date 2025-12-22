@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 09:44_
+_Updated: 2025-12-22 10:53_
 
 ## Top Stories
 
-- Borttagen Epsteinbild på Trump tillbaka - Yle
-- Smäll vid flerfamiljshus i Älvsjö - SVT Nyheter
-- 22 december 07.45, Sammanfattning natt, Västerbottens län - polisen.se
-- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
-- Naturjulkalendern 2025: Gustav Parenmark - Natursidan
-- Arlanda Express får ny ägare - Aftonbladet
-- Antalet skottlossningar rasar för tredje året i rad - Omni
-- Alex Schulman: Jag samlar familjen för att se en glimt av solen - Dagens Nyheter
+- Professor i Lund fälld för andra gången på ett år - Omni
 - Ryska fartyget Adler får lämna svenskt vatten - SVT Nyheter
-- Stockholms tingsrätt söker tf.rådman en eller flera - Sveriges Domstolar
-- JUST NU: Rysk general död i bilexplosion - Expressen
+- Gästartikel: Senaste hjälpleveranserna till Ukraina - cornucopia.se
+- Skjutvåldet minskar – men barnen oroar - SvD
+- 22 december 07.45, Sammanfattning natt, Västerbottens län - Polisen.se
+- 22 december 07.00, Sammanfattning natt, Örebro län - Polisen.se
+- Brev till tomten visar – det vill barnen ha - Aftonbladet
+- Uppgifter: Jättebeslag av kokain i Nykvarn - SVT Nyheter
+- Tungviktare och inflytelserika doldisar – här är politikerna att hålla koll på 2026 - Dagens Nyheter
+- JUST NU: Nu vänder det – dagarna blir längre och ljuset kommer åter - NWT
+- Rysk general död i explosion i Moskva - Yle
+- Nya detaljer om dådet på Bondi Beach: Hemmagjorda bomber och inspelat manifest - Dagens Nyheter
 - Trump siktar på Grönland – utser särskilt sändebud - Hufvudstadsbladet
 - Simona Mohamssons kräftgång fortsätter – lägst förtroende av alla - Aftonbladet
-- Polisen: Bondi-skyttarna övade inför dådet - Västerbottens-Kuriren
-- Jättestrul med Bank-id – problem att logga in - Aftonbladet
+- JUST NU: Stora problem med Bank-id, Swish och Kivra – kunder kan inte logga in - VF
 - Kronan den första bland de tio största - Tidningen Näringslivet
-- De tror på börslyft även nästa år: ”15 procent” - Sydsvenskan
-- Många döda i bussolycka i Indonesien - Expressen
+- SBAB höjer räntorna på bundna bolån 2-10 år - sbab.se
+- Guldpriset på rekordnivå - Hufvudstadsbladet
+- Röda vingummin är populärast i godisskålen - Illustrerad Vetenskap
 - Samsung visar första mobilkretsen med 2 nm‑teknik - mobil.se
-- Bugg i Mac OS Tahoe får vissa Apple Studio Display att flimra - Macworld.se
 
 ## World News
 
@@ -39,8 +39,8 @@ _Updated: 2025-12-22 09:44_
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
@@ -73,26 +73,26 @@ _Updated: 2025-12-22 09:44_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- PVH Corp. Announces CFO Transition - Placera.se
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -101,8 +101,10 @@ _Updated: 2025-12-22 09:44_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -114,8 +116,6 @@ _Updated: 2025-12-22 09:44_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-22 09:44_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
