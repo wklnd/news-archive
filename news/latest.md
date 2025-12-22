@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 05:56_
+_Updated: 2025-12-22 07:01_
 
-- Epstein files: DOJ restores image showing Trump after backlash - CNBC
-- US reportedly pursuing third oil tanker linked to Venezuela - BBC
+- Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post
+- US pursuing third oil tanker near Venezuela, officials say - Reuters
+- JD Vance: Nick Fuentes ‘can eat shit’ The VP on the Right’s civil war - UnHerd
+- ‘60 Minutes’ Suddenly Drops Segment on Major Trump Controversy - The Daily Beast
+- MAGA media mess deepens at Turning Point convention - Axios
 - Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - NPR
-- A swim for unity at Bondi beach, the scene of Sydney’s darkest day. But on land tensions fray - The Guardian
-- Expert Predictions: Week 16 Picks for Patriots at Ravens - Official website of the New England Patriots
-- A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering - NPR
 - Acting CISA director failed a polygraph. Career staff are now under investigation. - Politico
 - Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News
-- Vice President JD Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention - ABC News
+- Video shows moment shoplifting suspect in Ohio pulls out gun, attempts to shoot officer - ABC7 Los Angeles
 - Federal grants for flood work sat on hold as storms inundated Washington state - NBC News
+- Thousands of mourners gather at Bondi Beach to honor victims of antisemitic attack - CBS News
 - Scientists say they have discovered 20 new species deep in the Pacific Ocean - NPR
 - ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting - Reuters
-- Multiple gunmen open fire at a South African pub, killing 9 and wounding 10 - AP News
-- ‘60 Minutes’ correspondent says CBS’s Bari Weiss abruptly pulled segment on Trump deportations - The Washington Post
-- Jim Beam pauses production at main distillery as bourbon inventories rise - CNN
-- Power restored to most in San Francisco after massive outage - AP News
+- Israel approves 19 new Jewish settlements in occupied West Bank - The Guardian
+- Bourbon maker Jim Beam halts production at main distillery for a year - BBC
+- Waymo Suspended Service in San Francisco After Its Cars Stalled During Power Outage - The New York Times
 - China keeps benchmark lending rates steady for a seventh straight month despite weak economic data - CNBC
-- Virginia scores big in Powerball: $150K and five $50K winners - WWBT
-- Indie Game Awards disqualifies Game of the Year winner Clair Obscur: Expedition 33 for using AI - Eurogamer
-- Proposed Space Station Could Be Deployed in a Single Launch - Gizmodo
+- Netflix Just Bought Warner Bros. And HBO: Here's Why It Matters - bgr.com
+- Google may finally reverse this controversial Quick Settings change - Android Authority
+- Donkey Kong Bananza Has Been Updated To Version 3.0.0, Here Are The Full Patch Notes - Nintendo Life
