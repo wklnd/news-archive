@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 10:53_
+_Updated: 2025-12-22 11:49_
 
 ## Top Stories
 
 - Professor i Lund fälld för andra gången på ett år - Omni
-- Ryska fartyget Adler får lämna svenskt vatten - SVT Nyheter
-- Gästartikel: Senaste hjälpleveranserna till Ukraina - cornucopia.se
-- Skjutvåldet minskar – men barnen oroar - SvD
-- 22 december 07.45, Sammanfattning natt, Västerbottens län - Polisen.se
+- Fullt utvecklad brand i industribyggnad i Arninge - SVT Nyheter
 - 22 december 07.00, Sammanfattning natt, Örebro län - Polisen.se
-- Brev till tomten visar – det vill barnen ha - Aftonbladet
+- Gästartikel: Senaste hjälpleveranserna till Ukraina - cornucopia.se
+- Rättsväsendet ska rustas för att öka förmågan att bekämpa hedersrelaterade brott - Regeringen.se
+- Borttagen Epsteinbild på Trump tillbaka - Yle
 - Uppgifter: Jättebeslag av kokain i Nykvarn - SVT Nyheter
 - Tungviktare och inflytelserika doldisar – här är politikerna att hålla koll på 2026 - Dagens Nyheter
-- JUST NU: Nu vänder det – dagarna blir längre och ljuset kommer åter - NWT
-- Rysk general död i explosion i Moskva - Yle
-- Nya detaljer om dådet på Bondi Beach: Hemmagjorda bomber och inspelat manifest - Dagens Nyheter
-- Trump siktar på Grönland – utser särskilt sändebud - Hufvudstadsbladet
-- Simona Mohamssons kräftgång fortsätter – lägst förtroende av alla - Aftonbladet
-- JUST NU: Stora problem med Bank-id, Swish och Kivra – kunder kan inte logga in - VF
-- Kronan den första bland de tio största - Tidningen Näringslivet
-- SBAB höjer räntorna på bundna bolån 2-10 år - sbab.se
-- Guldpriset på rekordnivå - Hufvudstadsbladet
+- 22 december 07.45, Sammanfattning natt, Västerbottens län - Polisen.se
+- Naturjulkalendern 2025: Gustav Parenmark - Natursidan
+- Rysk general död i bilexplosion i Moskva - GP
+- Varmare på Svalbard än i Spanien - Hufvudstadsbladet
+- Källor: Ryskt vapen kan förstöra satelliter med moln av metallpellets - Omni
+- Tullverket har bordat ryskt fartyg - Västerbottens-Kuriren
+- Jättestrul med Bank-id – problem att logga in - Aftonbladet
+- Kina inför tullar på 43 procent för mejerivaror från EU - DI
+- Jalal förlorade 178 000 – nu stämmer han banken - SvD
+- Trumps tullar slår extra hårt mot tysk bilindustri - DI
 - Röda vingummin är populärast i godisskålen - Illustrerad Vetenskap
-- Samsung visar första mobilkretsen med 2 nm‑teknik - mobil.se
+- Stjärnstoft kullkastar hur livets byggstenar sprids i rymden - Cision News
 
 ## World News
 
@@ -51,48 +51,48 @@ _Updated: 2025-12-22 10:53_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- PVH Corp. Announces CFO Transition - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -102,20 +102,20 @@ _Updated: 2025-12-22 10:53_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
