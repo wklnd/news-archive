@@ -1,58 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-22 22:45_
+_Updated: 2025-12-22 23:40_
 
 ## Top Stories
 
-- 22 december 14.52, Trafikolycka, Götene - polisen.se
-- Transföreningen om mötet med morddömda pappan - Kvartal
-- Specialistsjuksköterska från Iran – nu utvisas hon med familjen - Arbetsvärlden
-- Zelenskyj: ”Samtal ganska stabila” - svd.se
+- Tåg har spårat ut i Krokom – trafik stoppas – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - Uppsalaforskare ville bli docent – sakkunnig i Lund hittade på artiklar han inte skrivit - Sydsvenskan
-- Dansk ilska över grönländskt sändebud - Dagens Nyheter
-- Brand i lägenhet – en till sjukhus i helikopter - Aftonbladet
-- Åklagaren överklagar dom i ambulansmordet - SVT Nyheter
-- 200 kg knark kopplas till Foxtrot - SVT Nyheter
+- 7 förslag till industrins gröna omställning - SKR
+- Flickan ramlar ur tuktuk i Kina – pappan märker inget - Expressen
+- 22 december 07.44, Sammanfattning natt, Jämtlands län - polisen.se
+- Hjälp och stöd under julen - solna.se
+- Person förd till sjukhus med ambulanshelikopter – efter brand - Expressen
+- Undersköterskor ska utvisas: ”En av våra skickligaste” - Dagens Nyheter
 - Då stänger första avdelningen på Sollefteå sjukhus – beslut idag i regionen - SVT Nyheter
-- Ryskt stöd till Venezuela i konflikt med USA - GP
+- 22 december 17.20, Trafikolycka, vilt, Västerbottens län - polisen.se
+- Hungerstrejkande Palestinaaktivister beredda att dö i brittiskt häkte - Dagens Nyheter
 - Sprickan mellan Europas tungviktare: ”Macron förrådde Merz” - Dagens Nyheter
-- Hungerstrejkande Palestina-aktivister förda till sjukhus - ETC.se
 - ”Skadligt att inte ge hela bilden” - Svenska Afghanistankommittén
-- ”Arlanda Express måste bli betydligt billigare” - svd.se
-- Kina inför tullar på upp till 42,7 procent på mejeriprodukter från EU - Jordbruksaktuellt
+- Bil har kört in i parad – nio skadade - TV4 Nyheterna
+- Småspararna skulle bli rika – vad hände? - svd.se
+- Saab tar order från FMV för 1,1 miljarder kronor - DI
+- Fler butiker har AI-bilder: ”Dyrt med fotografer” - Omni
 - Snabbväxande Kinajätte satsar stort på Europa - svd.se
-- Våra roller och vad vi gör - riksbank.se
 - ATG tar pengar som gisslan i jul - Expressen
 - ”Årets spel” blir av med priser efter AI-användning - Omni
 
 ## World News
 
-- One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
+- One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Noam Chomsky, a surprise name in Epstein files: How the pair bonded over money, jazz, and ‘global financial system' | Hindustan Times - Hindustan Times
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -61,15 +61,15 @@ _Updated: 2025-12-22 22:45_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -80,6 +80,7 @@ _Updated: 2025-12-22 22:45_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -91,7 +92,6 @@ _Updated: 2025-12-22 22:45_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 
 ## Health
@@ -99,19 +99,19 @@ _Updated: 2025-12-22 22:45_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -125,40 +125,40 @@ _Updated: 2025-12-22 22:45_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Åtgärdsförslag mot falsk vetenskap presenteras efter möte - Kungl. Vetenskapsakademien
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Upp till försvar för forskningen - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
+- Lediga jobb - Land Lantbruk
