@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 01:48_
+_Updated: 2025-12-22 04:36_
 
-- US pursuing third oil tanker near Venezuela, officials say - Reuters
-- Israel approves 19 new settlements in occupied West Bank - BBC
-- Shopping for pricy ACA health plans? Some cheaper options come with trade-offs - NPR
-- Lawmakers say White House ‘covering up things’ in release of Epstein files - Politico
-- U.S. Oil Blockade of Venezuela Pushes Cuba Toward Collapse - The Wall Street Journal
+- Vance tries to weather the MAGA storm at Turning Point - Politico
 - Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - NPR
-- Waymo pauses robotaxi service in San Francisco after blackout chaos — Musk says Tesla car service unaffected - CNBC
+- A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering - NPR
+- Expert Predictions: Week 16 Picks for Patriots at Ravens - Official website of the New England Patriots
+- Playoff bound! Bears clinch 2025 postseason berth - Chicago Bears
+- MAGA media mess deepens at Turning Point convention - Axios
+- Democrats are united in bashing GOP on Obamacare. Medicare for All could reopen a rift. - Politico
+- Federal grants for flood work sat on hold as storms inundated Washington state - NBC News
 - Hakeem Jeffries says Obamacare subsidy extension 'will pass with a bipartisan majority' - Politico
-- Motive sought after suspect in Brown University shooting, MIT professor's killing found dead, officials say - CBS News
-- U.S. launches strikes in Syria targeting Islamic State fighters after American deaths - NPR
-- France formally green lights PA-Ng aircraft carrier production - navalnews.com
-- Thousands of mourners gather at Bondi Beach to honor victims of antisemitic attack - CBS News
-- Thousands cheer as the sun rises on winter solstice at Stonehenge - AP News
-- Cartagena’s iconic horse carriages give way to electric buggies - NPR
-- Virginia scores big in Powerball: $150K and five $50K winners - WWBT
-- Trump World Is Picking Sides in the Battle for Warner Bros. - The Wall Street Journal
-- Trump's return brought stiff headwinds for clean energy. So why are advocates optimistic in 2026? - AP News
-- Tesla is recruiting factory workers and sales staff to operate its 'Robotaxi' service - Business Insider
+- City Council Passes 2026 Budget: Here Are The Major Fees And Changes - Block Club Chicago
+- Scientists say they have discovered 20 new species deep in the Pacific Ocean - NPR
+- What it takes to film 60 Minutes on Mount Everest - CBS News
+- ’60 Minutes’ Pulls Planned Segment On Trump Administration’s Deportation Of Migrants To Harsh El Salvador Prison; Show Says Report Will Air In Future - Yahoo News Canada
+- France to build new aircraft carrier — Macron - DW
+- China keeps benchmark lending rates steady for a seventh straight month despite weak economic data - CNBC
+- Jim Beam pauses production at main distillery as bourbon inventories rise - CNN
+- Holiday travel rush ramps up, causes delays on Southern California freeways - ABC7 Los Angeles
+- How to interpret the pain at the edge of America’s labour market - The Economist
 - Can Your USB-C Laptop Charger Also Charge Your Phone? - bgr.com
-- Indie Game Awards disqualifies Game of the Year winner Clair Obscur: Expedition 33 for using AI - Eurogamer
+- Proposed Space Station Could Be Deployed in a Single Launch - Gizmodo
