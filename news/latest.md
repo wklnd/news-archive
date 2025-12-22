@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-22 16:52_
+_Updated: 2025-12-22 17:51_
 
 - CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry - NPR
-- Tracking down Venezuela-linked tanker 'pursued' by US Coast Guard - BBC
-- Russian General Is Killed in Car Bombing in Moscow - The New York Times
-- Vance refuses to set red lines over bigotry at Turning Point USA's convention - NPR
-- Trump names Louisiana governor as Greenland special envoy, prompting Danish alarm - Reuters
 - Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post
-- DHS increases offer for undocumented migrants to $3,000 if they voluntarily leave by end of 2025 - CBS News
-- ‘We wasted a lot of time’: The next shutdown deadline will be here sooner than you think - Politico
-- Weather tracker: Further flood watches issued across California - The Guardian
-- What are the chances of a white Christmas where you live? Map shows likelihood of snow. - CBS News
-- Bondi Beach shooting suspect conducted firearms training with his father, Australian police say - AP News
-- Delivering under fire: How Nova Post became Ukraine's wartime success story - Reuters
+- Russian General Is Killed in Car Bombing in Moscow - The New York Times
+- Vance tries to weather the MAGA storm at Turning Point - Politico
+- Bondi gunmen 'meticulously' planned attack for months, police allege - BBC
+- U.S. Coast Guard Pursues Oil Tanker Linked to Venezuela - The New York Times
+- Trump administration says it's halting offshore wind projects over national security risks - CBS News
+- INCREASED INCENTIVES: DHS Now Offering $3K Holiday Stipend Through End of The Year Via the CBP Home App for Illegal Aliens to Leave Now - Homeland Security (.gov)
+- You cannot annex other countries, Danish and Greenlandic leaders tell Trump - The Guardian
+- Flash flooding in northern California leads to soaked roads, water rescues and one death - CNBC
 - Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
-- Events get extra security after Taipei knife attacks - Taipei Times
+- Trump administration removes dozens of career diplomats from overseas posts - CNN
+- Israel approves 19 new settlements in occupied West Bank - BBC
+- China slaps tariffs of up to 42.7% on EU dairy products, alleging 'damage' to the domestic dairy industry - CNBC
 - Larry Ellison provides personal guarantee for Paramount takeover of Warner Bros Discovery - The Guardian
 - Gold smashes past $4,400, silver hits record as rate cut bets fuel rally - Reuters
-- Bourbon maker Jim Beam halts production at main distillery for a year - BBC
-- Can Americans learn to love tiny, cheap kei cars? - NPR
-- Samsung's wide foldable leak hints at a pre-emptive strike on Apple - Android Authority
-- I love the OnePlus 15, but here are 5 reasons I'd recommend the OnePlus 15R instead - Android Authority
+- Jim Beam to pause production at its main distillery on Jan. 1 - CBS News
+- Instacart ends a program where users could see different prices for the same item at the same store - AP News
+- Samsung ‘Wide Fold’ rumored to rival Apple’s foldable next year - The Verge
+- Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model - Forbes
