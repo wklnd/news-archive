@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 04:31_
+_Updated: 2025-12-23 05:50_
 
-- Bill Clinton spox calls on DOJ to release Epstein files referencing the former president - Politico
-- Inside the Bari Weiss decision that led to a ‘60 Minutes’ crisis - CNN
-- Trump administration suspends 5 wind projects off the East Coast, cites national security concerns - AP News
-- New Class of Warship to Be Named After Trump - The Wall Street Journal
+- Trump Administration Live Updates: President Announces Plans for New ‘Trump Class’ Battleships - The New York Times
+- Trump administration abruptly recalls over two dozen career ambassadors - The Washington Post
 - Federal judge says U.S. must give due process to deported Venezuelans - NPR
-- Biggest Christmas storm in years set to hit SoCal: A timeline for the week - Los Angeles Times
-- 4 dead in plane crash near Galveston Bay, sheriff’s office says - KSAT
-- New York Republicans are excited about a race they’re probably going to lose - Politico
+- A rift in MAGA has top Heritage Foundation officials leaving to join with Mike Pence - NPR
+- 5 dead in plane crash near Galveston Bay, officials say - KSAT
+- Greenland PM rebukes Trump special envoy overture - CNBC
 - Brown places its vice president of public safety on leave as feds open investigation into safety after mass shooting - CNN
-- 1 dead in Redding as dangerous rain, flooding threaten parts of Northern California - ABC News
-- Bondi Beach gunmen got firearms training together, police say - CBS News
-- Husband and 5 other men charged with sex offences against ex-wife - BBC
-- Deadly clashes erupt between Syrian army and Kurdish-led SDF amid integration talks - CNN
-- Car bomb kills Russian general in Moscow - PBS
-- FDA approves first GLP-1 pill for obesity from Wegovy maker Novo Nordisk - CNBC
-- Larry Ellison Personally Guarantees Paramount Bid for Warner Bros. - The New York Times
-- Stock Market Today: Dow Ends Higher; Trump Takes The Wind Out Of This Name (Live Coverage) - Investor's Business Daily
-- Powerball jackpot climbs to $1.6 billion ahead of next drawing - ABC News
-- Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
-- ChatGPT’s yearly recap sums up your conversations with the chatbot - The Verge
+- Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News
+- Ukraine strikes oil terminal, planes and ships in an array of strikes inside Russia - ABC News
+- Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
+- Australian move to fast-track new gun and protest laws draws criticism - BBC
+- H3 rocket suffers upper stage anomaly, fails to correctly deploy navigation satellite - Spaceflight Now
+- Mercedes-Benz agrees to pay $149.6 million to settle multistate emissions allegations - NBC News
+- FCC bans foreign-made drones over national security, spying concerns - Politico
+- Amazon blocks 1,800 job applications from suspected North Korean agents - BBC
+- Jim Beam Halts Production at Flagship Distillery as Whiskey and Bourbon Markets Struggle - The New York Times
+- The Best Video Games of 2025, From ‘Blue Prince’ to ‘Silksong’ to ‘Avowed’ - Bloomberg.com
+- Epic Games Store Giving Away 2024 Game That Took a Major Award from Clair Obscur - Game Rant
+- Nintendo has huge discounts on Switch 2 games in its holiday sale - Engadget
+- Apple Clings to Samsung as RAM Prices Soar - MacRumors
