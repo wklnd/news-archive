@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 15:53_
+_Updated: 2025-12-23 16:47_
 
 ## Top Stories
 
-- E20 fortsatt avstängd efter dödsolycka – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Greta Thunberg gripen i London - SVT Nyheter
+- Här grips Greta Thunberg - Expressen
+- Fortsatt påverkan på E20 efter dödsolycka – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Sjuårig flicka könsstympades – föräldrar döms - Aftonbladet
 - En död när USA attackerade ny Stilla havsbåt - SVT Nyheter
-- DN Direkt – Malmer Stenergard: ”Danmark och Grönland bestämmer” - Dagens Nyheter
 - 23 december 06.48, Sammanfattning natt, Jönköpings län - polisen.se
-- Skars i underlivet – mamman döms - Expressen
-- Lämnar SD – byter parti - Expressen
-- Trafikverket: Har bara kommit halvvägs – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- TLV: Ett starkt läkemedelssystem kräver kloka prioriteringar - Altinget.SE
-- Klart: Då stängs första avdelningen på Sollefteå sjukhus - Läkartidningen
+- Naturjulkalendern 2025: Louise Håkansson - Natursidan
+- Därför skippar unga vuxna tandläkarbesöket - Gefle Dagblad
+- De kom från Gaza – nu riskerar de hemlöshet i Knivsta - Dagens Nyheter
+- En död i frontalkrock i Boden - Västerbottens-Kuriren
+- SD-politiker byter parti – till KD - SvD
+- Karin Eriksson: Inte tänker Trump lyssna på något lilleputtland i Europa - Dagens Nyheter
 - Erik Magnusson Tjuren Ferdinand stoppades av Hitler och Franco – nu jämförs han med Trump - Sydsvenskan
+- Michael Winiarski: En stämpel betyder så mycket - Dagens Nyheter
 - Sandra Stiskalo: Varför gör inte premiärministern som Hugh Grant? - Dagens Nyheter
-- Zelenskyj: Julattack visar på ryska prioriteringar - Västerbottens-Kuriren
-- Donald Trump tillkännager nya krigsfartyg - GP
+- Stor ökning av rotavdraget – nu förändras reglerna - Dagens Nyheter
 - Så gick det för årets nynoteringar - DI
-- Skulder för hämtmat ökar hos Kronofogden - Aftonbladet
-- Tiktok-ägaren storsatsar på AI - Sydsvenskan
-- Novo Nordisk först med piller för viktminskning i USA - Svensk Farmaci
+- Allt fler unga skuldsatta på grund av hämtmat - Omni
+- Novo Nordisk rusar efter amerikanskt godkännande av Wegovy-piller - analytiker kommenterar - Placera.se
+- RTX 5090D stretar för att klara 5K-spelande - SweClockers
 - Windows får direktstöd för NVME – aktivera i registret - SweClockers
-- Xiaomi visar upp ny värstingmobil på juldagen - m3.se
 
 ## World News
 
@@ -125,17 +125,17 @@ _Updated: 2025-12-23 15:53_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
