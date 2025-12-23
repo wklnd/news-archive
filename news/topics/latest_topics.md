@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 23:40_
+_Updated: 2025-12-24 00:43_
 
 ## Top Stories
 
-- Libyens arméchef död efter flygkrasch i Turkiet - SVT Nyheter
-- Snö i Västsverige – skippar julen - GP
-- 23 december 18.22, Trafikolycka, vilt, Västerbottens län - Polisen.se
-- Lund vill bryta med fristadsförfattare efter hyllningar till Hamas - Sydsvenskan
-- Flicka skars i underlivet i moské – mammans lögn buggades - TV4 Nyheterna
-- Grannars larm avgörande när våld i hemmet ökar under julen - Polisen.se
-- Hårdare krav på hembarnmorskor efter kritik - Dagens Nyheter
+- Flera Sverigekopplingar i nya Epsteindokument - Aftonbladet
+- 23 december 19.09, Trafikolycka, vilt, Jämtlands län - Polisen.se
 - 23 december 06.48, Sammanfattning natt, Jönköpings län - Polisen.se
-- Amanda, 25, fick hålla sonen fem gånger innan han omhändertogs - Aftonbladet
+- Snö i Västsverige – skippar julen - GP
+- Grannars larm avgörande när våld i hemmet ökar under julen - Polisen.se
+- Populära turistön drabbad av blodigt diarréutbrott - Expressen
+- Hårdare krav på hembarnmorskor efter kritik - Dagens Nyheter
+- 23 december 18.22, Trafikolycka, vilt, Västerbottens län - Polisen.se
+- Flygvapnets chef om Gripens nya vapen: ”Ett stort steg för oss” - Expressen
 - Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
-- HD stoppar Trumps order till nationalgardet - SVT Nyheter
+- Libyens arméchef befaras död i flygkrasch - Hufvudstadsbladet
+- DN Direkt – Svensk 17-åring häktad i Tyskland – misstänks ha planerat mord - Dagens Nyheter
 - Uppgifter: USA har flyttat specialplan och trupper till Karibien - Dagens Nyheter
 - Zelenskyj: Julattack visar på ryska prioriteringar - Västerbottens-Kuriren
-- Svensk 17-åring häktad i Tyskland: Misstänkt planerat ett mord - Expressen
-- Videberg Kraft AB ansöker om statligt stöd för att bygga kärnkraft - Regeringen.se
-- DN Direkt – Kronan på nytt årshögsta mot dollarn - Dagens Nyheter
 - Programledaren Anna Hedenmo lämnar EFN - Placera.se
-- Italienska miljardböter för Ryanair – överklagas - Västerbottens-Kuriren
-- Otäcka bilderna: ”Är helt otroligt” - Expressen
+- Videberg Kraft AB ansöker om statligt stöd för att bygga kärnkraft - Regeringen.se
+- Kronan på nytt årshögsta mot dollarn - Skånska Dagbladet
+- Tillfälligt produktionsstopp vid Forsmark 1 - group.vattenfall.com
 - Bekräftat: Så långa blir de 4 sista avsnitten av "Stranger Things" - MovieZine.se
+- Renaults nya elbil kom 100 mil utan att behöva ladda. Hann nå målet innan året var slut. - feber.se
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2025-12-23 23:40_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -52,10 +52,10 @@ _Updated: 2025-12-23 23:40_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -63,12 +63,12 @@ _Updated: 2025-12-23 23:40_
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
@@ -99,19 +99,19 @@ _Updated: 2025-12-23 23:40_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
@@ -124,20 +124,20 @@ _Updated: 2025-12-23 23:40_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -149,16 +149,16 @@ _Updated: 2025-12-23 23:40_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Lediga jobb - Land Lantbruk
+- 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
