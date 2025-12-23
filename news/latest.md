@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 13:49_
+_Updated: 2025-12-23 15:23_
 
-- Second big batch of Epstein files includes many mentions of Trump - The Washington Post
-- U.S. to build "Trump-class" warships for "Golden Fleet" - Axios
+- Justice Department releases additional documents from Epstein files - ABC News
 - Trump Administration Oil Tanker Seizures Are Meant to Force Maduro Out, Officials Say - The New York Times
-- Federal judge says U.S. must give due process to deported Venezuelans - NPR
-- ‘Incredibly reckless’: Trump’s wind halt stuns even some allies - Politico
-- Brown University police chief placed on leave after mass shooting - CBS News
-- Denmark ‘deeply upset’ by Trump’s appointment of Greenland envoy who wants island to be part of US - CNN
-- Hundreds mourn Brown University sophomore Ella Cook at Alabama funeral - PBS
+- ‘60 Minutes’ story shelved by Bari Weiss streamed in Canada — and instantly spread across the web - CNN
+- U.S. to build "Trump-class" warships for "Golden Fleet" - Axios
+- Biden stopped the executions of 37 men. Trump's DOJ wants to punish them - NPR
+- Federal student loans are changing. Here's what to expect in 2026 - NPR
+- Brown University put police chief on leave after deadly shooting - BBC
+- ‘We have to have’ Greenland, says Donald Trump - Financial Times
+- Vice President JD Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention - ABC News
 - SoCal weather updates: Storm expected to bring heavy rain, 'high risk' of flash flooding for some - ABC7 Los Angeles
-- Shark attack feared after swimmer goes missing off Monterey Bay coast - Los Angeles Times
-- Poland scrambles aircraft after Russia strikes Ukraine, Polish armed forces say - Reuters
+- Russia Bombards Ukraine Hours After Zelensky Calls Peace Plan ‘Quite Solid’ - The New York Times
 - Philip Young in court charged with drugging and raping ex-wife - BBC
-- Bondi Beach gunmen got firearms training together, police say - CBS News
-- Australian state parliament reconvenes to push stricter gun laws after Bondi mass shooting - KSL.com
-- Wegovy pill approved by US FDA for weight loss - BBC
-- Warner Bros. Discovery Says It Will “Carefully Review and Consider” Paramount’s Revised Offer - The Hollywood Reporter
-- Powerball jackpot climbs to $1.7 billion for Christmas Eve drawing - ABC News
-- California, other states file suit to prevent shutdown of federal consumer agency - Los Angeles Times
-- ChatGPT launches a year-end review like Spotify Wrapped - TechCrunch
+- Bondi gunmen had firearms training before Hanukkah festival attack - Euronews.com
+- Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
+- U.S. regulators approve Wegovy pill for weight loss - NPR
+- Holiday retail spending rose 4.2% this season, driven by e-commerce and electronics: Visa report - CNBC
+- Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing - TechCrunch
+- Gold extends record run while silver joins rally to new high - CNBC
 - Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
+- ChatGPT Now Has a 2025 Year-End Summary Feature Like Spotify Wrapped - MacRumors
