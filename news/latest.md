@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 16:53_
+_Updated: 2025-12-23 17:52_
 
-- Gross Domestic Product, 3rd Quarter 2025 (Initial Estimate) and Corporate Profits (Preliminary) - Bureau of Economic Analysis (BEA) (.gov)
-- Justice Department releases additional documents from Epstein files - ABC News
+- Trump listed as passenger on eight flights on Epstein’s private jet, according to latest release - BBC
+- It's the 'gold standard' in autism care. Why are states reining it in? - NPR
 - Yanked "60 Minutes" episode aired in Canada. Here's what it showed - Axios
 - Trump announces plans for new navy warships to be known as ‘Trump-class’ - The Guardian
-- Federal student loans are changing. Here's what to expect in 2026 - NPR
+- Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
 - Greenland PM rebukes Trump special envoy overture - CNBC
 - Brown University put police chief on leave after deadly shooting - BBC
 - These 3 Republican senators are giving John Thune headaches - Politico
-- SoCal weather updates: Storm expected to bring heavy rain, 'high risk' of flash flooding for some - ABC7 Los Angeles
-- Galveston: Five dead after plane carrying child burns victim crashes in Texas - BBC
-- Russian air attack on Ukraine kills three and sparks sweeping outages - Reuters
+- At least 5 killed after Mexican Navy plane on medical mission crashes in Texas - NPR
+- U.S. strikes another alleged drug-smuggling boat in eastern Pacific - NPR
+- Russia Bombards Ukraine Hours After Zelensky Calls Peace Plan ‘Quite Solid’ - The New York Times
 - Remembering Dan Elkayam, the footballer killed at Bondi Beach: ‘We had so many plans…’ - The Athletic - The New York Times
-- Non-crime hate incidents should be scrapped, police leaders to recommend - BBC
-- British man charged with repeatedly drugging and raping his now ex-wife over 13 years - CBS News
-- U.S. regulators approve Wegovy pill for weight loss - NPR
-- Paramount's new offer for Warner Bros is not sufficient, major investor says - Reuters
-- Powerball jackpot climbs to $1.7 billion for Christmas Eve drawing - ABC News
-- Gold extends record run while silver joins rally to new high - CNBC
+- Philip Young in court charged with drugging and raping ex-wife - BBC
+- Cat steals the show at Stonehenge as thousands celebrate winter solstice - USA Today
+- The U.S. economy grew robustly as Americans continued to spend - NPR
+- Visa: Sales are up 4.2% for first 7 weeks of the holiday shopping period but the pace lags last year - ABC News
+- Novo's Wegovy pill to test demand from consumers with cash - Reuters
+- Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing - TechCrunch
 - Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
 - The Splay is a subpar monitor but an exciting portable projector - Ars Technica
