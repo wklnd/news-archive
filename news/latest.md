@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 09:00_
+_Updated: 2025-12-23 09:50_
 
-- Brown University police chief placed on leave after mass shooting - CBS News
+- What the underwhelming Epstein files release means for Maga - BBC
+- Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet' - NPR
+- Trump Administration Orders Nearly 30 U.S. Ambassadors to Leave Their Posts - The New York Times
 - A rift in MAGA has top Heritage Foundation officials leaving to join with Mike Pence - NPR
-- Federal judge says U.S. must give due process to deported Venezuelans - NPR
-- Senate Democrats cut off permitting talks after Trump’s newest ‘assault’ on wind - Politico
-- Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
+- U.S. Department of Education Announces Review of Brown University for Potential Clery Act Violations - U.S. Department of Education (.gov)
+- Yanked "60 Minutes" episode aired in Canada. Here's what it showed - Axios
+- Hundreds mourn Brown University sophomore Ella Cook at Alabama funeral - PBS
+- ‘Incredibly reckless’: Trump’s wind halt stuns even some allies - Politico
 - Greenland PM rebukes Trump special envoy overture - CNBC
-- ICE barred from re-detaining Kilmar Abrego Garcia through Christmas holiday - ABC News
-- Snow is heading to NYC before Christmas. Tri-State Area map shows how many inches could fall. - CBS News
+- Shark attack feared after swimmer goes missing off Monterey Bay coast - Los Angeles Times
+- British man charged with repeatedly drugging and raping his now ex-wife over 13 years - CBS News
+- Bondi Beach shooting suspect conducted firearms training with his father, Australian police say - AP News
 - Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
-- Trump administration abruptly recalls over two dozen career ambassadors - The Washington Post
-- Europe is failing Ukraine - politico.eu
-- US signs new health deals with 9 African countries that mirror Trump’s priorities - AP News
+- ‘I feel special, in my heart’: thousands gather at Stonehenge for winter solstice - The Guardian
+- Wegovy pill approved by US FDA for weight loss - BBC
+- Powerball jackpot climbs to $1.7 billion for Christmas Eve drawing - ABC News
+- Warner Bros. Discovery Says It Will “Carefully Review and Consider” Paramount’s Revised Offer - The Hollywood Reporter
 - Nearly two dozen states sue the Trump administration over funding for CFPB - NPR
-- The Economy Survived 2025, But Many Americans Are Reeling - The New York Times
-- Mercedes-Benz agrees to pay $149.6 million to settle multistate emissions allegations - NBC News
-- Amazon blocks 1,800 job applications from suspected North Korean agents - BBC
-- Foldable phone makers have solved every issue except one - Engadget
-- Nintendo News: Spread Nintendo Cheer with the Hits for the Holidays Sale! - Business Wire
-- Halo keeps telling its biggest stories outside the games - Windows Central
-- The Best Video Games of 2025, From ‘Blue Prince’ to ‘Silksong’ to ‘Avowed’ - Bloomberg.com
+- ChatGPT’s yearly recap sums up your conversations with the chatbot - The Verge
+- 'Call of Duty's' Vince Zampella dies in crash of Ferrari on SoCal mountain road - Los Angeles Times
