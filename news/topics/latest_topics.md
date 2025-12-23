@@ -1,64 +1,64 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 07:48_
+_Updated: 2025-12-23 08:56_
 
 ## Top Stories
 
 - ”Jimmie Åkessons problem förödande för SD” - SvD
 - DN Direkt – Malmer Stenergard: ”Danmark och Grönland bestämmer” - Dagens Nyheter
+- Nio år i Sverige och jobb på sjukhus – utvisas nu - Expressen
 - Naturjulkalendern 2025: Louise Håkansson - Natursidan
-- Specialistsjuksköterska från Iran – nu utvisas hon med familjen - Arbetsvärlden
+- En död när USA attackerade ny Stilla havsbåt - SVT Nyheter
 - Man död i frontalkrock i Boden - SVT Nyheter
-- Trump ska bygga slagskepp – ”gyllene flotta” - Aftonbladet
 - Brand i lägenhet – en till sjukhus i helikopter - GP
-- Då stänger första avdelningen på Sollefteå sjukhus – beslut idag i regionen - SVT Nyheter
-- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
-- Ny riktlinjer för subvention och prissättning av läkemedel - Svensk Farmaci
-- Minst fem döda när plan kraschade i vattnet - Aftonbladet
-- Trumps drag: Sparkar 29 ambassadörer - Expressen
-- ”Call of duty”-skaparen död i bilolycka - Västerbottens-Kuriren
-- JUST NU: Trafikolycka på E20 – två personer uppges vara allvarligt skadade: ”Frontalkrock” - NLT
+- 22 december 07.44, Sammanfattning natt, Jämtlands län - polisen.se
+- Bil in i mitträcket på E4 vid Knivsta – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- 23 december 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Donald Trump tillkännager nya krigsfartyg - GP
+- Trumps plan för Gaza: Glammig AI-hub - SvD
+- DN Direkt – Polisen: Extremt halt på E4 - bil kört in i mitträcke - Dagens Nyheter
+- Donald Trump sparkar 29 ambassadörer - GP
+- Laddhybrider poppis – bilförsäljning i EU ökar - SvD
 - Novo Nordisk Wegovypiller godkänt för bantning i USA - EFN.se
-- ”Arlanda Express måste bli betydligt billigare” - SvD
-- Forsmark 1 stoppad i natt – felsökning pågår - Omni
-- Fler barn får ta del av Fritidskortet – och ersättningen höjs - E-hälsomyndigheten
-- Windows får direktstöd för NVME – aktivera i registret - SweClockers
-- "Samsung gör tredje vikbar modell i nytt format – direkt konkurrent till Iphone" - mobil.se
+- Forsmark 1 stoppad – återstart oklar - Sydsvenskan
+- Nya ägaren vill sänka priset på Arlanda Express - Västerbottens-Kuriren
+- ”Call of duty”-skaparen död i bilolycka - Västerbottens-Kuriren
+- Angripare använder ChatGPT för att lura Mac-användare att installera virus - Macworld.se
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- Noam Chomsky, a surprise name in Epstein files: How the pair bonded over money, jazz, and ‘global financial system' | Hindustan Times - Hindustan Times
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Deepseek är det nya Linux - Computer Sweden
@@ -129,13 +129,13 @@ _Updated: 2025-12-23 07:48_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
