@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 07:53_
+_Updated: 2025-12-23 09:00_
 
-- What the underwhelming Epstein files release means for Maga - BBC
-- New Class of Warship to Be Named After Trump - The Wall Street Journal
-- 5 dead in plane crash near Galveston Bay, officials say - KSAT
-- CBS editor-in-chief Bari Weiss pulls 60 Minutes piece on Trump deportation policy hours before air - PBS
-- Trump administration abruptly recalls over two dozen career ambassadors - The Washington Post
+- Brown University police chief placed on leave after mass shooting - CBS News
 - A rift in MAGA has top Heritage Foundation officials leaving to join with Mike Pence - NPR
-- Trump administration suspends 5 wind projects off the East Coast, cites national security concerns - AP News
-- Greenland PM rebukes Trump special envoy overture - CNBC
-- Brown University put police chief on leave after deadly shooting - BBC
 - Federal judge says U.S. must give due process to deported Venezuelans - NPR
-- Bondi Beach shooting suspect conducted firearms training with his father, Australian police say - AP News
-- British man charged with repeatedly drugging and raping his now ex-wife over 13 years - CBS News
-- Ukraine hits Russian oil terminal, jets and ships in wave of strikes - Euronews.com
+- Senate Democrats cut off permitting talks after Trump’s newest ‘assault’ on wind - Politico
+- Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
+- Greenland PM rebukes Trump special envoy overture - CNBC
+- ICE barred from re-detaining Kilmar Abrego Garcia through Christmas holiday - ABC News
+- Snow is heading to NYC before Christmas. Tri-State Area map shows how many inches could fall. - CBS News
 - Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
-- Wegovy pill approved by US FDA for weight loss - BBC
-- Warner Bros. Discovery Says It Will “Carefully Review and Consider” Paramount’s Revised Offer - The Hollywood Reporter
+- Trump administration abruptly recalls over two dozen career ambassadors - The Washington Post
+- Europe is failing Ukraine - politico.eu
+- US signs new health deals with 9 African countries that mirror Trump’s priorities - AP News
 - Nearly two dozen states sue the Trump administration over funding for CFPB - NPR
-- Powerball jackpot climbs to $1.6 billion ahead of next drawing - ABC News
-- Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
-- ChatGPT’s yearly recap sums up your conversations with the chatbot - The Verge
+- The Economy Survived 2025, But Many Americans Are Reeling - The New York Times
+- Mercedes-Benz agrees to pay $149.6 million to settle multistate emissions allegations - NBC News
+- Amazon blocks 1,800 job applications from suspected North Korean agents - BBC
+- Foldable phone makers have solved every issue except one - Engadget
+- Nintendo News: Spread Nintendo Cheer with the Hits for the Holidays Sale! - Business Wire
+- Halo keeps telling its biggest stories outside the games - Windows Central
+- The Best Video Games of 2025, From ‘Blue Prince’ to ‘Silksong’ to ‘Avowed’ - Bloomberg.com
