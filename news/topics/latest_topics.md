@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 08:56_
+_Updated: 2025-12-23 09:44_
 
 ## Top Stories
 
-- ”Jimmie Åkessons problem förödande för SD” - SvD
-- DN Direkt – Malmer Stenergard: ”Danmark och Grönland bestämmer” - Dagens Nyheter
-- Nio år i Sverige och jobb på sjukhus – utvisas nu - Expressen
 - Naturjulkalendern 2025: Louise Håkansson - Natursidan
-- En död när USA attackerade ny Stilla havsbåt - SVT Nyheter
+- Nio år i Sverige och jobb på sjukhus – utvisas nu - Expressen
+- Trumpbild tillbaks i Epsteinfilerna & unga ratar julmat – P3 Nyheter med Babs Drougge - Sveriges Radio
 - Man död i frontalkrock i Boden - SVT Nyheter
-- Brand i lägenhet – en till sjukhus i helikopter - GP
+- Forsmark 1 tillfälligt stoppad - SVT Nyheter
+- En död när USA attackerade ny Stilla havsbåt - SVT Nyheter
+- Här planeras unik byggnad i svensk vildmark - Dagens Nyheter
+- DN Direkt – Brand i lägenhet – en till sjukhus i helikopter - Dagens Nyheter
 - 22 december 07.44, Sammanfattning natt, Jämtlands län - polisen.se
-- Bil in i mitträcket på E4 vid Knivsta – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- 23 december 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Donald Trump tillkännager nya krigsfartyg - GP
-- Trumps plan för Gaza: Glammig AI-hub - SvD
+- Man död efter frontalkrock utanför Götene - GP
+- Trumps plan för Gaza: Glammig AI-hub - GP
+- DN Direkt – Danskt bantningspiller godkänt i USA - Dagens Nyheter
 - DN Direkt – Polisen: Extremt halt på E4 - bil kört in i mitträcke - Dagens Nyheter
 - Donald Trump sparkar 29 ambassadörer - GP
 - Laddhybrider poppis – bilförsäljning i EU ökar - SvD
-- Novo Nordisk Wegovypiller godkänt för bantning i USA - EFN.se
-- Forsmark 1 stoppad – återstart oklar - Sydsvenskan
-- Nya ägaren vill sänka priset på Arlanda Express - Västerbottens-Kuriren
-- ”Call of duty”-skaparen död i bilolycka - Västerbottens-Kuriren
-- Angripare använder ChatGPT för att lura Mac-användare att installera virus - Macworld.se
+- Småspararna skulle bli rika – vad hände? - SvD
+- Köper du julklappar från Temu eller Shein? - Östersunds-Posten
+- Lägre producentpriser i årstakt - Tidningen Näringslivet
+- Windows får direktstöd för NVME – aktivera i registret - SweClockers
+- Varför rörelsesmittas jag inte av mitt jobb? - Västerbottningen
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Noam Chomsky, a surprise name in Epstein files: How the pair bonded over money, jazz, and ‘global financial system' | Hindustan Times - Hindustan Times
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
+- Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -73,26 +73,26 @@ _Updated: 2025-12-23 08:56_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -127,8 +127,8 @@ _Updated: 2025-12-23 08:56_
 - Olika slutsatser från samma data - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -136,7 +136,7 @@ _Updated: 2025-12-23 08:56_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
