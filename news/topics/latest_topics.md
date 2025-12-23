@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 15:11_
+_Updated: 2025-12-23 15:53_
 
 ## Top Stories
 
+- E20 fortsatt avstängd efter dödsolycka – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - Greta Thunberg gripen i London - SVT Nyheter
-- 22 december 14.52, Trafikolycka, Götene - polisen.se
-- Sjuårig flicka könsstympades – föräldrar döms - Aftonbladet
 - En död när USA attackerade ny Stilla havsbåt - SVT Nyheter
 - DN Direkt – Malmer Stenergard: ”Danmark och Grönland bestämmer” - Dagens Nyheter
 - 23 december 06.48, Sammanfattning natt, Jönköpings län - polisen.se
-- Hon lämnar SD i riksdagen – byter parti - Aftonbladet
-- En död i frontalkrock i Boden - Västerbottens-Kuriren
+- Skars i underlivet – mamman döms - Expressen
+- Lämnar SD – byter parti - Expressen
 - Trafikverket: Har bara kommit halvvägs – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- TLV: Ett starkt läkemedelssystem kräver kloka prioriteringar - Altinget.SE
 - Klart: Då stängs första avdelningen på Sollefteå sjukhus - Läkartidningen
 - Erik Magnusson Tjuren Ferdinand stoppades av Hitler och Franco – nu jämförs han med Trump - Sydsvenskan
 - Sandra Stiskalo: Varför gör inte premiärministern som Hugh Grant? - Dagens Nyheter
 - Zelenskyj: Julattack visar på ryska prioriteringar - Västerbottens-Kuriren
-- Ukraina: Rysk attack mot Kiev - Aftonbladet
+- Donald Trump tillkännager nya krigsfartyg - GP
 - Så gick det för årets nynoteringar - DI
 - Skulder för hämtmat ökar hos Kronofogden - Aftonbladet
-- Novo Nordisk först med piller för viktminskning i USA - Svensk Farmaci
 - Tiktok-ägaren storsatsar på AI - Sydsvenskan
-- ”Call of duty”-skaparen död i bilolycka - Hufvudstadsbladet
+- Novo Nordisk först med piller för viktminskning i USA - Svensk Farmaci
 - Windows får direktstöd för NVME – aktivera i registret - SweClockers
+- Xiaomi visar upp ny värstingmobil på juldagen - m3.se
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - One Piece: Season 2 - Chopper Global Dubbing (Netflix) - Gamereactor
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
@@ -40,13 +39,14 @@ _Updated: 2025-12-23 15:11_
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -82,15 +82,15 @@ _Updated: 2025-12-23 15:11_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
