@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 12:54_
+_Updated: 2025-12-23 13:49_
 
 - Second big batch of Epstein files includes many mentions of Trump - The Washington Post
 - U.S. to build "Trump-class" warships for "Golden Fleet" - Axios
 - Trump Administration Oil Tanker Seizures Are Meant to Force Maduro Out, Officials Say - The New York Times
-- Trump Administration Orders Nearly 30 U.S. Ambassadors to Leave Their Posts - The New York Times
 - Federal judge says U.S. must give due process to deported Venezuelans - NPR
-- ‘60 Minutes’ story shelved by Bari Weiss streamed in Canada — and instantly spread across the web - CNN
-- Brown University put police chief on leave after deadly shooting - BBC
-- Mexican Navy plane crashes off US coast, killing five - Al Jazeera
-- Hundreds mourn Brown University sophomore Ella Cook at Alabama funeral - PBS
+- ‘Incredibly reckless’: Trump’s wind halt stuns even some allies - Politico
+- Brown University police chief placed on leave after mass shooting - CBS News
 - Denmark ‘deeply upset’ by Trump’s appointment of Greenland envoy who wants island to be part of US - CNN
-- Russian air attack on Ukraine kills three and knocks out power in most regions - Reuters
-- Husband and 5 other men charged with sex offences against ex-wife - BBC
-- Bondi Beach shooting suspect conducted firearms training with his father, Australian police say - AP News
-- Cambodia, Thailand to hold talks on resuming Trump's truce as fighting enters third week - Reuters
+- Hundreds mourn Brown University sophomore Ella Cook at Alabama funeral - PBS
+- SoCal weather updates: Storm expected to bring heavy rain, 'high risk' of flash flooding for some - ABC7 Los Angeles
+- Shark attack feared after swimmer goes missing off Monterey Bay coast - Los Angeles Times
+- Poland scrambles aircraft after Russia strikes Ukraine, Polish armed forces say - Reuters
+- Philip Young in court charged with drugging and raping ex-wife - BBC
+- Bondi Beach gunmen got firearms training together, police say - CBS News
+- Australian state parliament reconvenes to push stricter gun laws after Bondi mass shooting - KSL.com
 - Wegovy pill approved by US FDA for weight loss - BBC
 - Warner Bros. Discovery Says It Will “Carefully Review and Consider” Paramount’s Revised Offer - The Hollywood Reporter
-- Stocks, precious metals rise; yen on intervention watch - Reuters
 - Powerball jackpot climbs to $1.7 billion for Christmas Eve drawing - ABC News
-- ChatGPT’s yearly recap sums up your conversations with the chatbot - The Verge
+- California, other states file suit to prevent shutdown of federal consumer agency - Los Angeles Times
+- ChatGPT launches a year-end review like Spotify Wrapped - TechCrunch
 - Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
