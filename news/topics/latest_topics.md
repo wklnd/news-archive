@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 01:41_
+_Updated: 2025-12-23 04:29_
 
 ## Top Stories
 
-- Nio år i Sverige och jobb på sjukhus – utvisas nu - Expressen
-- 251222 Nya beslut i styrgruppen för sjukhusstrukturförändringen - Region Västernorrland
-- Betalar 900 000 – för terrorhyllare - Expressen
-- Natos varning: Ryssland utvecklar nytt rymdvapen - Expressen
-- 7 förslag till industrins gröna omställning - SKR
-- 22 december 07.44, Sammanfattning natt, Jämtlands län - polisen.se
-- Brand i lägenhet – en till sjukhus i helikopter - GP
-- 22 december 17.20, Trafikolycka, vilt, Västerbottens län - polisen.se
-- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
-- 22 december 20.19, Motorfordon, stöld, Tierp - polisen.se
-- Sprickan mellan Europas tungviktare: ”Macron förrådde Merz” - Dagens Nyheter
+- Carl-Oskar Bohlin om kritiken mot medverkan i Epoch Times: ”Försök att smutskasta” - Dagens Nyheter
 - Trump: Ska bygga världens största slagskepp - SVT Nyheter
-- Kraftig villabrand – kvinna till sjukhus - Norrtelje Tidning
-- Direkt – Kriget i Ukraina – Zelenskyj om förhandlingarna: ”Ganska stabilt” - Dagens Nyheter
+- Rysk general död i bilexplosion - Sydsvenskan
+- Inte första gången biologisk man flyttas till kvinnofängelse – krav på lagändring - Dagens Nyheter
+- 22 december 14.52, Trafikolycka, Götene - polisen.se
+- Mystiska faran i kabinen: Hade kunnat döda alla - Aftonbladet
+- INSÄNDARE: Utvisningar av arbetare: Riktigt klåfingrig politik - Norran
+- Brand i lägenhet – en till sjukhus i helikopter - GP
+- Då stänger första avdelningen på Sollefteå sjukhus – beslut idag i regionen - SVT Nyheter
+- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
+- ”Call of duty”-skaparen död i bilolycka - Dagens Nyheter
+- Trumps sändebud vill göra Grönland amerikanskt - GP
+- ”Skadligt att inte ge hela bilden” - Svenska Afghanistankommittén
+- Ryskt stöd till Venezuela i konflikt med USA - GP
+- Forbes: Lovables grundare nu goda för 15 miljarder vardera - DI
 - Småspararna skulle bli rika – vad hände? - SvD
-- Sjuksköterskorna jublar efter nya avtalet: ”Klirr i plånboken” - NWT
-- Rådet efter Trumps tullsmocka ”Slösa aldrig bort en kris” - EFN.se
-- Nytt projekt ska stärka informations- och datadelning för cirkulär hantering av elfordonsbatterier - dagensinfrastruktur -
+- Kakaopriset rasar– men chokladen hänger inte med - Västerbottens-Kuriren
+- Kina inför tullar på upp till 42,7 procent på mejeriprodukter från EU - Jordbruksaktuellt
+- "Samsung gör tredje vikbar modell i nytt format – direkt konkurrent till Iphone" - mobil.se
 - ATG tar pengar som gisslan i jul - Expressen
-- ”Årets spel” blir av med priser efter AI-användning - Omni
 
 ## World News
 
@@ -32,18 +32,18 @@ _Updated: 2025-12-23 01:41_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Noam Chomsky, a surprise name in Epstein files: How the pair bonded over money, jazz, and ‘global financial system' | Hindustan Times - Hindustan Times
-- From climate mobility to global sanctions: Four scholars navigating global governance - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -74,46 +74,46 @@ _Updated: 2025-12-23 01:41_
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- PVH Corp. Announces CFO Transition - Placera.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Diamyd Medical uppdaterar om marknadspotential för Diamyd i USA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
@@ -132,11 +132,11 @@ _Updated: 2025-12-23 01:41_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Upp till försvar för forskningen - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
