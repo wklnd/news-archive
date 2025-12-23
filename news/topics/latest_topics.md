@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 06:56_
+_Updated: 2025-12-23 07:48_
 
 ## Top Stories
 
+- ”Jimmie Åkessons problem förödande för SD” - SvD
+- DN Direkt – Malmer Stenergard: ”Danmark och Grönland bestämmer” - Dagens Nyheter
+- Naturjulkalendern 2025: Louise Håkansson - Natursidan
 - Specialistsjuksköterska från Iran – nu utvisas hon med familjen - Arbetsvärlden
-- Rysk general död i bilexplosion i Moskva - GP
-- Mystiska faran i kabinen: Hade kunnat döda alla - Aftonbladet
-- Trump: Ska bygga världens största slagskepp - SVT Nyheter
-- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
-- Polisen bekräftar: En död efter frontalkrocken på E20 - NLT
+- Man död i frontalkrock i Boden - SVT Nyheter
+- Trump ska bygga slagskepp – ”gyllene flotta” - Aftonbladet
 - Brand i lägenhet – en till sjukhus i helikopter - GP
-- DN Direkt – Kvinna död i villabrand – en saknas - Dagens Nyheter
 - Då stänger första avdelningen på Sollefteå sjukhus – beslut idag i regionen - SVT Nyheter
+- 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
 - Ny riktlinjer för subvention och prissättning av läkemedel - Svensk Farmaci
+- Minst fem döda när plan kraschade i vattnet - Aftonbladet
+- Trumps drag: Sparkar 29 ambassadörer - Expressen
 - ”Call of duty”-skaparen död i bilolycka - Västerbottens-Kuriren
-- Valtonen om Grönlandskrisen: ”Danmark har betalat ett högt pris som USA-allierad” - Hufvudstadsbladet
-- Tullverket har bordat ryskt fartyg - Västerbottens-Kuriren
-- Ryskt stöd till Venezuela i konflikt med USA - GP
+- JUST NU: Trafikolycka på E20 – två personer uppges vara allvarligt skadade: ”Frontalkrock” - NLT
+- Novo Nordisk Wegovypiller godkänt för bantning i USA - EFN.se
+- ”Arlanda Express måste bli betydligt billigare” - SvD
+- Forsmark 1 stoppad i natt – felsökning pågår - Omni
 - Fler barn får ta del av Fritidskortet – och ersättningen höjs - E-hälsomyndigheten
-- Kina inför tullar på upp till 42,7 procent på mejeriprodukter från EU - Jordbruksaktuellt
-- Forsmark 1 tillfälligt stoppad - Aftonbladet
-- Saab tar order från FMV för 1,1 miljarder kronor - DI
+- Windows får direktstöd för NVME – aktivera i registret - SweClockers
 - "Samsung gör tredje vikbar modell i nytt format – direkt konkurrent till Iphone" - mobil.se
-- ATG tar pengar som gisslan i jul - Expressen
 
 ## World News
 
@@ -76,23 +76,23 @@ _Updated: 2025-12-23 06:56_
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Sthlm Beauty Week - Photo Daniel Söderberg www.greenpix.se-03906.jpg - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
