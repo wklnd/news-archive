@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 17:52_
+_Updated: 2025-12-23 18:57_
 
-- Trump listed as passenger on eight flights on Epstein’s private jet, according to latest release - BBC
+- Second big batch of Epstein files includes many mentions of Trump - The Washington Post
 - It's the 'gold standard' in autism care. Why are states reining it in? - NPR
-- Yanked "60 Minutes" episode aired in Canada. Here's what it showed - Axios
-- Trump announces plans for new navy warships to be known as ‘Trump-class’ - The Guardian
 - Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
-- Greenland PM rebukes Trump special envoy overture - CNBC
+- Trump Unveils New Battleship Class; Proposed USS Defiant Will Be Largest U.S. Surface Combatant Since WWII - USNI News
+- A rift in MAGA has top Heritage Foundation officials leaving to join with Mike Pence - NPR
+- DHS Changes Process for Awarding H-1B Work Visas to Better Protect American Workers - USCIS (.gov)
 - Brown University put police chief on leave after deadly shooting - BBC
 - These 3 Republican senators are giving John Thune headaches - Politico
-- At least 5 killed after Mexican Navy plane on medical mission crashes in Texas - NPR
-- U.S. strikes another alleged drug-smuggling boat in eastern Pacific - NPR
-- Russia Bombards Ukraine Hours After Zelensky Calls Peace Plan ‘Quite Solid’ - The New York Times
-- Remembering Dan Elkayam, the footballer killed at Bondi Beach: ‘We had so many plans…’ - The Athletic - The New York Times
-- Philip Young in court charged with drugging and raping ex-wife - BBC
-- Cat steals the show at Stonehenge as thousands celebrate winter solstice - USA Today
-- The U.S. economy grew robustly as Americans continued to spend - NPR
+- ‘We have to have’ Greenland, says Donald Trump - Financial Times
+- Trump administration seeks to cancel thousands of asylum cases, saying applicants can be deported to third countries - CBS News
+- Russian air attack on Ukraine kills three and sparks sweeping outages - Reuters
+- Government waters down farm inheritance tax plan - BBC
+- UK police arrest Greta Thunberg under Terrorism Act - dw.com
+- Bondi Beach Gunmen Also Used Pipe Bombs in Attack, Police Say - The New York Times
+- U.S. Economic Growth Surged in Third Quarter of 2025 - The New York Times
 - Visa: Sales are up 4.2% for first 7 weeks of the holiday shopping period but the pace lags last year - ABC News
-- Novo's Wegovy pill to test demand from consumers with cash - Reuters
-- Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing - TechCrunch
-- Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
+- U.S. regulators approve Wegovy pill for weight loss - NPR
+- Stock Market Today: Gold Surge Hits New Milestone - The Wall Street Journal
+- Vince Zampella, cocreator of Call of Duty game, dies in car crash in the US - Al Jazeera
 - The Splay is a subpar monitor but an exciting portable projector - Ars Technica
