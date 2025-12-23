@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 15:56_
+_Updated: 2025-12-23 16:53_
 
+- Gross Domestic Product, 3rd Quarter 2025 (Initial Estimate) and Corporate Profits (Preliminary) - Bureau of Economic Analysis (BEA) (.gov)
 - Justice Department releases additional documents from Epstein files - ABC News
-- Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet' - NPR
+- Yanked "60 Minutes" episode aired in Canada. Here's what it showed - Axios
+- Trump announces plans for new navy warships to be known as ‘Trump-class’ - The Guardian
 - Federal student loans are changing. Here's what to expect in 2026 - NPR
-- CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry - NPR
-- It's the 'gold standard' in autism care. Why are states reining it in? - NPR
-- The Trump Administration Protects U.S. National Security by Pausing Offshore Wind Leases - U.S. Department of the Interior (.gov)
+- Greenland PM rebukes Trump special envoy overture - CNBC
 - Brown University put police chief on leave after deadly shooting - BBC
-- ‘We have to have’ Greenland, says Donald Trump - Financial Times
+- These 3 Republican senators are giving John Thune headaches - Politico
 - SoCal weather updates: Storm expected to bring heavy rain, 'high risk' of flash flooding for some - ABC7 Los Angeles
-- Hundreds mourn Brown University sophomore Ella Cook at Alabama funeral - PBS
+- Galveston: Five dead after plane carrying child burns victim crashes in Texas - BBC
 - Russian air attack on Ukraine kills three and sparks sweeping outages - Reuters
-- Bondi Beach Gunmen Also Used Pipe Bombs in Attack, Police Say - The New York Times
-- Cat steals the show at Stonehenge as thousands celebrate winter solstice - USA Today
-- Philip Young in court charged with drugging and raping ex-wife - BBC
+- Remembering Dan Elkayam, the footballer killed at Bondi Beach: ‘We had so many plans…’ - The Athletic - The New York Times
+- Non-crime hate incidents should be scrapped, police leaders to recommend - BBC
+- British man charged with repeatedly drugging and raping his now ex-wife over 13 years - CBS News
 - U.S. regulators approve Wegovy pill for weight loss - NPR
-- Holiday retail spending rose 4.2% this season, driven by e-commerce and electronics: Visa report - CNBC
 - Paramount's new offer for Warner Bros is not sufficient, major investor says - Reuters
-- Latest GDP report shows the US economy unexpectedly accelerated last quarter - CNN
-- Vince Zampella, cocreator of Call of Duty game dies in car crash in the US - Al Jazeera
+- Powerball jackpot climbs to $1.7 billion for Christmas Eve drawing - ABC News
+- Gold extends record run while silver joins rally to new high - CNBC
+- Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC
 - The Splay is a subpar monitor but an exciting portable projector - Ars Technica
