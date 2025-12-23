@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-23 22:51_
+_Updated: 2025-12-23 23:48_
 
-- Federal Prosecutor Was Surprised by Trump’s Flights on Epstein’s Jet - The New York Times
+- Some Epstein file redactions are being undone with hacks - The Guardian
+- Jeffrey Epstein apparently wrote letter to Larry Nassar referencing Trump - The Guardian
 - Bay Area storm will bring damaging winds — and may rapidly worsen. Here’s what to watch - San Francisco Chronicle
-- Former Sen. Ben Sasse says he was diagnosed with stage-four pancreatic cancer - NBC News
+- CBS editor-in-chief Bari Weiss pulls '60 Minutes' piece on Trump deportation policy hours before air - PBS
 - President Trump Announces New Battleship - navy.mil
-- Trump Live Updates: China Tariffs, U.S. Ambassadors Recalled and Student Loans - The New York Times
-- A rift in MAGA has top Heritage Foundation officials leaving to join with Mike Pence - NPR
+- Revolution Wind and Sunrise Wind receive lease suspension orders from US Department of the Interior’s Bureau of Ocean Energy Management - Orsted
+- Supreme Court rules against Trump in National Guard case - NPR
 - Ashlee Buzzard in custody after daughter Melodee found dead in Utah: Sources - ABC News
+- Republican former senator Ben Sasse says he has terminal cancer - The Washington Post
 - Chicago city budget news: Mayor Brandon Johnson to move forward with alternative finance plan after weekend vote - ABC7 Chicago
-- Trump says US still actively pursuing oil tanker linked to Venezuela that fled from Coast Guard - ABC News
-- Brown University put police chief on leave after deadly shooting - BBC
-- ‘It looks very haphazard’: doubts cast on reports claiming alleged Bondi shooters may have met IS in the Philippines - The Guardian
 - Russian air attack on Ukraine kills three and sparks sweeping outages - Reuters
-- Government waters down farm inheritance tax plan - BBC
-- Yemen’s government, Houthis agree to exchange thousands of prisoners - Al Jazeera
+- ‘It looks very haphazard’: doubts cast on reports claiming alleged Bondi shooters may have met IS in the Philippines - The Guardian
+- Yemen’s Warring Sides Agree to Largest Prisoner Swap in a Decade of Fighting - The New York Times
+- Government waters down inheritance tax plan for farms - BBC
 - US economy grows at fastest pace in two years - BBC
-- Paramount's new offer for Warner Bros is not sufficient, major investor says - Reuters
-- Visa: Sales are up 4.2% for first 7 weeks of the holiday shopping period but the pace lags last year - ABC News
+- Larry Ellison's $40 billion pledge to son's Paramount deal shows a shift in billionaire giving - Fortune
+- Consumer Confidence Falls as Jobs, Economic Worries Persist - The Wall Street Journal
 - Last night’s Powerball created several new millionaires, but no billionaire winner - Los Angeles Times
+- I Tried Honor's Win Gaming Phone: It's Built Like a Tank and Has a Behemoth Battery - CNET
 - Vince Zampella, video game pioneer behind megahit Call of Duty, dies at 55 - NPR
-- Why Meta’s Threads Is Betting on Podcasters to Attract Users - TipRanks
