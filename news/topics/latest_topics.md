@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-23 04:29_
+_Updated: 2025-12-23 05:47_
 
 ## Top Stories
 
-- Carl-Oskar Bohlin om kritiken mot medverkan i Epoch Times: ”Försök att smutskasta” - Dagens Nyheter
 - Trump: Ska bygga världens största slagskepp - SVT Nyheter
-- Rysk general död i bilexplosion - Sydsvenskan
-- Inte första gången biologisk man flyttas till kvinnofängelse – krav på lagändring - Dagens Nyheter
+- Carl-Oskar Bohlin om kritiken mot medverkan i Epoch Times: ”Försök att smutskasta” - Dagens Nyheter
+- Rysk general död i bilexplosion i Moskva - GP
 - 22 december 14.52, Trafikolycka, Götene - polisen.se
 - Mystiska faran i kabinen: Hade kunnat döda alla - Aftonbladet
-- INSÄNDARE: Utvisningar av arbetare: Riktigt klåfingrig politik - Norran
+- 251222 Nya beslut i styrgruppen för sjukhusstrukturförändringen - Region Västernorrland
+- Kvinna död i villabrand – en saknas - Västerbottens-Kuriren
 - Brand i lägenhet – en till sjukhus i helikopter - GP
-- Då stänger första avdelningen på Sollefteå sjukhus – beslut idag i regionen - SVT Nyheter
+- Undersköterskor ska utvisas: ”En av våra skickligaste” - Dagens Nyheter
 - 22 december 07.00, Sammanfattning natt, Örebro län - polisen.se
-- ”Call of duty”-skaparen död i bilolycka - Dagens Nyheter
-- Trumps sändebud vill göra Grönland amerikanskt - GP
-- ”Skadligt att inte ge hela bilden” - Svenska Afghanistankommittén
+- Trumps sändebud vill göra Grönland amerikanskt - Västerbottens-Kuriren
 - Ryskt stöd till Venezuela i konflikt med USA - GP
+- ”Skadligt att inte ge hela bilden” - Svenska Afghanistankommittén
+- Tullverket har bordat ryskt fartyg - Västerbottens-Kuriren
 - Forbes: Lovables grundare nu goda för 15 miljarder vardera - DI
-- Småspararna skulle bli rika – vad hände? - SvD
-- Kakaopriset rasar– men chokladen hänger inte med - Västerbottens-Kuriren
 - Kina inför tullar på upp till 42,7 procent på mejeriprodukter från EU - Jordbruksaktuellt
+- Fler barn får ta del av Fritidskortet – och ersättningen höjs - E-hälsomyndigheten
+- Saab får beställning på artillerilokaliseringsradar från Sverige - Saab
+- ”Call of duty”-skaparen död i bilolycka - Västerbottens-Kuriren
 - "Samsung gör tredje vikbar modell i nytt format – direkt konkurrent till Iphone" - mobil.se
-- ATG tar pengar som gisslan i jul - Expressen
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2025-12-23 04:29_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- ionstream.ai Embraces the Future: Now Accepting TAO Cryptocurrency Payments (PR Newswire) - Aktiellt
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 
 ## Business
 
