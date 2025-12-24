@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-24 08:56_
+_Updated: 2025-12-24 09:44_
 
 ## Top Stories
 
-- Svensk 17-åring häktad i Tyskland: Misstänkt planerat ett mord - Expressen
+- Orange varning på julafton – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - 23 december 19.09, Trafikolycka, vilt, Jämtlands län - Polisen.se
+- Greta Thunberg gripen i London - GP
 - 23 december 06.48, Sammanfattning natt, Jönköpings län - Polisen.se
 - ”Det känns bra i hjärtat” - Östersunds-Posten
-- Trump-kvinnans larm: ”Vi har ett nazist-problem” - Aftonbladet
-- Varmare i Boden än i Barcelona - Aftonbladet
-- Orange vädervarning på julafton - SVT Nyheter
+- Regeringskansliet kritiseras – dröjde med utlämnande av handlingar - Dagens Juridik
+- Naturjulkalendern 2025: Louise Håkansson - Natursidan
 - 24 december 07.22, Sammanfattning natt, Västernorrlands län - Polisen.se
 - 24 december 07.16, Sammanfattning natt, Norrbottens län - Polisen.se
-- Man gripen efter inbrott på restaurang - UNT
-- 350 nationalgardister till New Orleans - SvD
-- DN Direkt – Julhelgens flygresenärer riskerar drabbas av strejker - Dagens Nyheter
-- Ukraina: Rysk attack mot Kiev - Aftonbladet
-- Européer kritiska till näthat stoppas av USA - GP
-- Miljoner till Naturvårdsverket för att ”effektivisera miljötillståndsprocesser” - tidningensyre.se
-- Var vaksam om du ska köpa mobil - Konsumentverket
-- INSÄNDARE: Behövs en långsiktig energipolitik för jobben och konkurrenskraften - Bohusläningen
-- Stor förstörelse i ryska hamnen – explosion kan vara orsaken - Expressen
+- Man gripen efter inbrott på restaurang: ”Brutit upp en dörr” - UNT
+- USA:s sändebud: Vi ska inte ”erövra” Grönland - Dagens Nyheter
+- Tre döda i explosion vid polisstation i Moskva - Yle
+- HD stoppar Trumps order till nationalgardet - Västerbottens-Kuriren
+- Nationalgardet till New Orleans - SVT Nyheter
+- Kinas techsatsning döljer sprickor i landets ekonomi - EFN
+- Anna Hedenmo lämnar EFN - Omni
+- Tillfälligt produktionsstopp vid Forsmark 1 - group.vattenfall.com
+- Saab får order på radarsystemet Giraffe 1X från Sverige - Saab
 - Det kraftigaste som någonsin observerats: Våldsamt utbrott vittnar om dramatisk händelse i universum - Illustrerad Vetenskap
-- Hyllad andlig uppföljare till "Castlevania" är helt gratis - MovieZine.se
+- Iphone XS, Iphone XR och Apple TV HD får viktiga säkerhetsuppdateringar - Macworld.se
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-12-24 08:56_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -146,7 +146,6 @@ _Updated: 2025-12-24 08:56_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -155,10 +154,11 @@ _Updated: 2025-12-24 08:56_
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-02-14 Wallenberg Lecture: Healthy Animals for Sustainable Agriculture and One Health - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
