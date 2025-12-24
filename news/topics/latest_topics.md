@@ -1,38 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-24 17:44_
+_Updated: 2025-12-24 18:49_
 
 ## Top Stories
 
-- Ukraina presenterar ny fredsplan stödd av USA - tidningensyre.se
 - Trots avrådan – fler vill fira jul i Thailand - SvD
-- Artisten om julen: "Den ofrivilliga ensamheten är svår" - NT
 - Kronprinsessfamiljen besökte Södersjukhuset på julafton - Kungahuset
+- ”Folk kommer för att slippa ensamheten” - SvD
+- Artisten om julen: "Den ofrivilliga ensamheten är svår" - NT
 - 24 december 12.46, Trafikolycka, vilt, Västerbottens län - polisen.se
-- Poliser har gripit Thunberg - 8 Sidor
-- Omvända julvädret: Jokkmokk varmare än Skåne - Dagens Nyheter
-- Sveriges domstolars webbsida låg nere i timmar - GP
-- Kvinnor i slagsmål på jobbet: ”Kaosartat” - UNT
+- God jul från Borgholm Energi - NewsMachine AB
+- Sveriges domstolars webbsida låg nere i timmar - Aftonbladet
+- Snö i Västsverige – skippar julen - GP
 - Orange vädervarning på julafton - SVT Nyheter
-- Ryssland vill ha kraftverk på månen - GP
+- Lucka 24 - Morgan Bråse AB - Tjörns kommun
 - Nu är det jul igen i Betlehem – första firandet sedan 2022 - Dagens Nyheter
-- USA:s sändebud: Vi ska inte ”erövra” Grönland - Dagens Nyheter
-- Påvens julkrubbor: Maria som tennisracket - GP
-- Julklappar på kredit – hyresgäster och unga mer ekonomiskt pressade - tidningensyre.se
+- Rysslands jägare strider – då ökar vargattacker mot finska renar - Dagens Nyheter
+- Kritik mot amerikanska visumstoppet: ”Häxjakt” - GP
+- Se krubborna som intar Vatikanen - Expressen
 - SEB-topp: Då tar noteringarna fart – ”rekordmånga” - DI
+- Julklappar på kredit – hyresgäster och unga mer ekonomiskt pressade - tidningensyre.se
+- USA-börserna öppnar avvaktande – Nike stiger - DI
 - Flygstrejk under julhelgen: ”Grinchen-beteende” - Aftonbladet
-- Huggsexa i guldruschen: ”Stor vinstpott att hämta” - Omni
 - Klimatförändringar hot mot kulturmiljöer - tidningensyre.se
-- Så här kan den vikbara iPhone-modellen se ut - Teknikveckan
+- Charles julklapp till personalen: saltkar - Expressen
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
@@ -42,11 +40,13 @@ _Updated: 2025-12-24 17:44_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -147,18 +147,18 @@ _Updated: 2025-12-24 17:44_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Lammen bräker igen på Tangará Farms gård - Land Lantbruk
