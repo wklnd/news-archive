@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-24 05:47_
+_Updated: 2025-12-24 07:00_
 
-- Donald Trump travelled on Epstein's plane more than previously thought, prosecutor says - BBC
+- DOJ Releases Another Batch of Epstein Files: Key Takeaways - The New York Times
 - Supreme Court rules against Trump, bars National Guard deployment in Chicago - Los Angeles Times
-- Explosion at a Pennsylvania nursing home kills at least 2, governor says - NPR
-- Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports - The New York Times
+- Massive fire erupts after explosion at nursing home in Pennsylvania - ABC News
 - Ashlee Buzzard arrested in murder of daughter Melodee: 'Cold-blooded' - ABC News
-- Trump administration says it will begin garnishing wages of student loan borrowers in default - PBS
-- Former U.S. Sen. Ben Sasse announces terminal stage-four cancer diagnosis - Nebraska Examiner
+- CBS editor-in-chief Bari Weiss pulls '60 Minutes' piece on Trump deportation policy hours before air - PBS
+- Bay Area storm will bring damaging winds — and may rapidly worsen. Here’s what to watch - San Francisco Chronicle
 - What to know about wind power in the US as Trump administration pauses leases - ABC News
-- Southern California braces for strongest storm of the week, with evacuations planned amid rare ‘high risk’ of flooding - CNN
+- Former U.S. Sen. Ben Sasse announces terminal stage-four cancer diagnosis - Nebraska Examiner
 - Trooper and suspect killed in a shooting at Delaware DMV - PBS
+- Chicago city budget news: Mayor Brandon Johnson to move forward with alternative finance plan after weekend vote - ABC7 Chicago
 - ‘Massive’ Russian attack on Ukraine kills 4-year-old child, as Zelensky is briefed on peace talks - CNN
 - Libya’s military chief and 7 others are killed in a plane crash after takeoff from Turkey - AP News
-- Russell Brand charged with rape and sexual assault after 2 more women come forward - NBC News
 - Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News
+- Cardinal Pizzaballa: We will do everything possible for Gaza - Vatican News
 - Last night’s Powerball created several new millionaires, but no billionaire winner - Los Angeles Times
-- Consumers Power Strongest U.S. Economic Growth in Two Years - The Wall Street Journal
-- Gold extends record run while silver joins rally to new high - CNBC
-- Visa: Sales are up 4.2% for first 7 weeks of the holiday shopping period but the pace lags last year - ABC News
-- Boost Your Windows SSD Performance by up to 85% With This Server Driver Trick - extremetech.com
-- LG Display Announce a New 27″ 4K OLED Panel with RGB-Stripe Layout - TFTCentral
+- Stock futures are little changed after S&P 500 posts record close: Live updates - CNBC
+- U.S. GDP Grew 4.3%, Surging in Third Quarter of 2025 - The New York Times
+- Why are gold and silver prices hitting record highs? - ABC News
+- Windows 11 driver hack boosts NVMe SSD performance by up to 85% - Club386
+- LG Display teases next generation of OLED TV technology — meet Tandem WOLED - Tom's Guide
