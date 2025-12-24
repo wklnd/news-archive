@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-24 09:51_
+_Updated: 2025-12-24 10:58_
 
-- Redacted Material in Some Epstein Files Is Easily Recovered - The New York Times
-- Supreme Court rules against Trump, bars National Guard deployment in Chicago - Los Angeles Times
+- Trump’s $100,000 H-1B Visa Application Fee Upheld by Judge - Bloomberg.com
+- ‘60 Minutes’ Report Was Pulled Off the Air. Now It’s on the Internet. - The New York Times
 - Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports - The New York Times
-- Controversial '60 Minutes' segment on Trump immigration policy leaks online - PBS
-- Trump administration says it will begin garnishing wages of student loan borrowers in default - PBS
-- At least 2 dead in 'catastrophic' explosion at nursing home in Pennsylvania: Officials - ABC News
-- Ashlee Buzzard arrested in murder of daughter Melodee: 'Cold-blooded' - ABC News
-- Oklahoma Instructor Mel Curth Who Failed Student Samantha Fulnecky’s Gender Essay Is Fired - The New York Times
+- Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
+- Libya's army chief killed in air crash in Turkey - BBC
+- Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet' - NPR
 - US denies visas to ex-EU commissioner and others over social media rules - BBC
-- What to know about wind power in the US as Trump administration pauses leases - ABC News
-- ‘Massive’ Russian attack on Ukraine kills 4-year-old child, as Zelensky is briefed on peace talks - CNN
-- Australian state passes tougher gun, protest law after Bondi Beach shooting - Reuters
-- Libya’s military chief and 7 others are killed in a plane crash after takeoff from Turkey - AP News
+- Claudio Neves Valente: Neighbors in Lisbon recall Brown University attack suspect as quiet, reclusive student - CNN
+- Trooper and suspect killed in a shooting at Delaware DMV - PBS
+- Chicago city budget news: Mayor Brandon Johnson to move forward with alternative finance plan after weekend vote - ABC7 Chicago
 - Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News
-- Dow Jones Futures: S&P 500 Hits Record Close; Nvidia, Google Flash Buy Signals - Investor's Business Daily
+- Crisis in India-Bangladesh relations spirals amid violent protests - BBC
+- Gaza’s tiny Christian community tries to capture the holiday spirit during the ceasefire - AP News
+- Bondi gunmen 'meticulously' planned attack for months, police allege - BBC
 - BP Agrees to Sell Majority of Castrol Lubricants Unit to Stonepeak - The Wall Street Journal
-- Trump's economy surges on consumer spending, defying forecasts - Politico
-- 3 Colorado Powerball tickets win big; jackpot soars to $1.7B - 9News
-- Boost Your Windows SSD Performance by up to 85% With This Server Driver Trick - extremetech.com
-- Vince Zampella, video game pioneer behind megahit Call of Duty, dies at 55 - NPR
+- Stock futures are little changed after S&P 500 posts record close: Live updates - CNBC
+- Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google - The New York Times
+- Nearly 2 dozen states sue the Trump administration over funding for CFPB - NPR
+- Ikea has made some of its Matter-compatible smart home devices even cheaper. - The Verge
+- Nintendo has huge discounts on Switch 2 games in its holiday sale - Engadget
