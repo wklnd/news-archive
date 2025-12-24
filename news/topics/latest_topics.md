@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-24 15:09_
+_Updated: 2025-12-24 15:48_
 
 ## Top Stories
 
 - Zelenskyj avslöjar detaljer om nya fredsplanen - Expressen
-- Orange varning på julafton – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - Kvinna hittad död i bostad i Vänersborg - SVT Nyheter
+- Man misshandlad med järnrör i Falkenberg - SVT Nyheter
+- Kronprinsessfamiljen besökte Södersjukhuset på julafton - Kungahuset
 - 24 december 10.11, Farligt föremål, misstänkt, Nässjö - Polisen.se
 - Ulf Brunnberg: Det är hokuspokus och spöken - Aftonbladet
-- Han öppnar upp sitt hem för främlingar på julafton - Sydsvenskan
 - Omvända julvädret: Jokkmokk varmare än Skåne - Dagens Nyheter
 - Sveriges domstolars webbsida låg nere i timmar - GP
-- Kronprinsessfamiljen besökte Södersjukhuset på julafton - Kungahuset
+- Orange vädervarning på julafton - SVT Nyheter
 - Projektingenjör - ncc.se
 - Ryssland vill ha kraftverk på månen - Västerbottens-Kuriren
-- Varmaste december någonsin i Norge - Aftonbladet
+- Libyens arméchef befaras död i flygkrasch - Hufvudstadsbladet
 - Nu är det jul igen i Betlehem – första firandet sedan 2022 - Dagens Nyheter
 - Greta Thunberg släppt mot borgen - Västerbottens-Kuriren
 - Forsmark 1 i drift igen - DI
-- Gesten som kan fälla Musks robotlöfte - SvD
+- Njut av ledigheten – blir mer jobb nästa år - SvD
 - Julklappar på kredit – hyresgäster och unga mer ekonomiskt pressade - tidningensyre.se
-- Saab får order på radarsystemet Giraffe 1X från Sverige - Saab
+- SEB-topp: Då tar noteringarna fart – ”rekordmånga” - DI
 - Klimatförändringar hot mot kulturmiljöer - tidningensyre.se
 - Björn Wiman: Här är julsången som julvärdarna borde spela i SVT - Dagens Nyheter
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -42,9 +42,9 @@ _Updated: 2025-12-24 15:09_
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
@@ -73,24 +73,24 @@ _Updated: 2025-12-24 15:09_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Skattetjänster för entreprenörer och privata företag - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-24 15:09_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Diamyd Medical får positiv återkoppling från FDA om potentiellt accelererat godkännande för Diamyd i typ 1-diabetes - it-halsa.se
 
 ## Science
 
