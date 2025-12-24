@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-24 15:19_
+_Updated: 2025-12-24 15:52_
 
-- Scoop: Trump administration expects Epstein files release could last another week - Axios
-- US Supreme Court rejects Trump's military deployment in Chicago area, for now - Reuters
+- Redacted Material in Some Epstein Files Is Easily Recovered - The New York Times
 - US denies visas to ex-EU commissioner and others over social media rules - BBC
-- CBS editor-in-chief Bari Weiss pulls '60 Minutes' piece on Trump deportation policy hours before air - PBS
-- Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet' - NPR
-- The Trump Administration Protects U.S. National Security by Pausing Offshore Wind Leases - U.S. Department of the Interior (.gov)
+- US Supreme Court rejects Trump's military deployment in Chicago area, for now - Reuters
+- Trump, ramping up pressure on Maduro, says it would be 'smart' for Venezuelan leader to step down - ABC News
+- Explosion reported at nursing home in suburban Philadelphia; 3 dead, others missing - ABC7 Los Angeles
+- President Trump Announces New Battleship - navy.mil
 - 19 states sue HHS over a move that could curtail youth gender-affirming care - NPR
-- At least 2 dead in 'catastrophic' explosion at nursing home in Pennsylvania: Officials - ABC News
-- The internal dispute that could derail the GOP’s 2026 agenda - Politico
-- 9-year-old who vanished during road trip found dead in Utah - KSL.com
-- Two police officers killed by bomb in Moscow near site of Russian general's killing - NBC News
-- How Israel's hilltop settlers coordinate attacks to expel Palestinians - Reuters
+- U.S. and Ukraine reach consensus on key issues aimed at ending the war - NPR
+- Body of 9-year-old California girl missing for months found, mother Ashlee Buzzard arrested - ABC7 San Francisco
+- Venezuela accuses US of 'extortion' over seizure of oil tankers - BBC
+- Blast Kills Three in Moscow Near Site of General’s Car Bombing - The New York Times
 - Search teams in Turkey recover recorders after plane crash that killed Libyan army chief and others - AP News
 - Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News
-- It’s boom times for Trump’s economy. Especially if you’re rich. - Politico
+- Russian air attack on Ukraine kills three and sparks sweeping outages - Reuters
+- Economy grows, chip tariff delay, new S&P 500 record and more in Morning Squawk - CNBC
 - BP agrees deal to sell £7.4bn stake in Castrol to US investment firm - The Guardian
-- Stock futures are little changed after S&P 500 posts record close: Live updates - CNBC
 - Powerball's $1.7B jackpot could make Christmas Eve unforgettable for a lucky winner - NPR
-- Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google
+- Dow Jones Futures: S&P 500 Hits Record Close; Nvidia, Google Flash Buy Signals - Investor's Business Daily
 - Galaxy Z TriFold is probably durable enough, hinge gives way after 150,000 folds in torture test [Video] - 9to5Google
+- Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google
