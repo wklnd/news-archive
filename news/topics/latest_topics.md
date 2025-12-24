@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-24 11:45_
+_Updated: 2025-12-24 12:46_
 
 ## Top Stories
 
-- Orange vädervarning på julafton - SVT Nyheter
-- Ukraina: Ingen enighet med USA om territorium - SvD
-- Tre döda i bilexplosion i Moskva - Expressen
-- Kvinna hittad död i bostad i Vänersborg - SVT Nyheter
-- 23 december 19.09, Trafikolycka, vilt, Jämtlands län - Polisen.se
-- 23 december 06.48, Sammanfattning natt, Jönköpings län - Polisen.se
 - Pajalatomten lockar tusentals britter - Dagens Nyheter
+- Kvinna hittad död i bostad i Vänersborg - SVT Nyheter
+- Zelenskyj presenterar ny fredsplan stödd av USA - SvD
+- Orange vädervarning på julafton - SVT Nyheter
+- 24 december 10.11, Farligt föremål, misstänkt, Nässjö - Polisen.se
+- IS-männen gick rakt i polisfällan – före attentatet - Aftonbladet
+- Sveriges domstolars webbsida låg nere i timmar - GP
+- Kall och solig jul i Skåne - Sydsvenskan
+- Projektingenjör - ncc.se
 - Naturjulkalendern 2025: Louise Håkansson - Natursidan
-- ”Det känns bra i hjärtat” - Östersunds-Posten
-- Grannars larm avgörande när våld i hemmet ökar under julen - Polisen.se
 - USA:s sändebud: Vi ska inte ”erövra” Grönland - Dagens Nyheter
 - Libyens arméchef befaras död i flygkrasch - Hufvudstadsbladet
+- Flera barn döda i bussolycka i Kina - GP
 - Nu är det jul igen i Betlehem – första firandet sedan 2022 - Dagens Nyheter
-- Flera barn döda i bussolycka i Kina - Västerbottens-Kuriren
 - Gesten som kan fälla Musks robotlöfte - SvD
-- Kinas techsatsning döljer sprickor i landets ekonomi - EFN.se
 - Forsmark 1 återgår till normal drift - group.vattenfall.com
+- Julklappar på kredit – hyresgäster och unga mer ekonomiskt pressade - tidningensyre.se
 - Flygstrejk under julhelgen: ”Grinchen-beteende” - Aftonbladet
 - (+) Mobil förutsäger mobilåret 2026 (del 2): Mobiltillverkarnas framtidsutsikter - mobil.se
 - Jag testade 30 par hörlurar under 2025 – och det här är de fyra jag fortfarande vill använda - TechRadar
@@ -52,6 +52,7 @@ _Updated: 2025-12-24 11:45_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -60,15 +61,14 @@ _Updated: 2025-12-24 11:45_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
@@ -78,21 +78,21 @@ _Updated: 2025-12-24 11:45_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Skattetjänster för entreprenörer och privata företag - EY
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -125,20 +125,20 @@ _Updated: 2025-12-24 11:45_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
