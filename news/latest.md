@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-24 07:00_
+_Updated: 2025-12-24 07:53_
 
-- DOJ Releases Another Batch of Epstein Files: Key Takeaways - The New York Times
-- Supreme Court rules against Trump, bars National Guard deployment in Chicago - Los Angeles Times
-- Massive fire erupts after explosion at nursing home in Pennsylvania - ABC News
-- Ashlee Buzzard arrested in murder of daughter Melodee: 'Cold-blooded' - ABC News
+- Trump administration says it will begin garnishing wages of student loan borrowers in default - PBS
+- At least 2 dead in 'catastrophic' explosion at nursing home in Pennsylvania: Officials - ABC News
+- Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports - The New York Times
 - CBS editor-in-chief Bari Weiss pulls '60 Minutes' piece on Trump deportation policy hours before air - PBS
-- Bay Area storm will bring damaging winds — and may rapidly worsen. Here’s what to watch - San Francisco Chronicle
-- What to know about wind power in the US as Trump administration pauses leases - ABC News
-- Former U.S. Sen. Ben Sasse announces terminal stage-four cancer diagnosis - Nebraska Examiner
-- Trooper and suspect killed in a shooting at Delaware DMV - PBS
+- Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
+- Announcement of Actions to Combat the Global Censorship-Industrial Complex - U.S. Department of State (.gov)
+- Supreme Court blocks National Guard deployment to Chicago in defeat for Trump - The Washington Post
 - Chicago city budget news: Mayor Brandon Johnson to move forward with alternative finance plan after weekend vote - ABC7 Chicago
-- ‘Massive’ Russian attack on Ukraine kills 4-year-old child, as Zelensky is briefed on peace talks - CNN
-- Libya’s military chief and 7 others are killed in a plane crash after takeoff from Turkey - AP News
-- Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News
+- Claudio Neves Valente: Neighbors in Lisbon recall Brown University attack suspect as quiet, reclusive student - CNN
+- Budget and Policy Highlights - Office of Financial Management - Office of Financial Management (.gov)
+- Australian state passes tougher gun, protest law after Bondi Beach shooting - Reuters
 - Cardinal Pizzaballa: We will do everything possible for Gaza - Vatican News
-- Last night’s Powerball created several new millionaires, but no billionaire winner - Los Angeles Times
-- Stock futures are little changed after S&P 500 posts record close: Live updates - CNBC
-- U.S. GDP Grew 4.3%, Surging in Third Quarter of 2025 - The New York Times
-- Why are gold and silver prices hitting record highs? - ABC News
-- Windows 11 driver hack boosts NVMe SSD performance by up to 85% - Club386
-- LG Display teases next generation of OLED TV technology — meet Tandem WOLED - Tom's Guide
+- Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News
+- Crisis in India-Bangladesh relations spirals amid violent protests - BBC
+- Exclusive | BP Nears Sale of Majority of Castrol Lubricants Unit to Stonepeak - The Wall Street Journal
+- How the new order of the Murdoch dynasty is playing out - BBC
+- Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google - The New York Times
+- Gas prices fall to four-year lows as millions embark on holiday road trips - CNBC
+- Samsung’s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz - The Verge
+- Free to play games for Nintendo Switch systems – News – Nintendo Official Site - Nintendo
