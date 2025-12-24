@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-24 21:38_
+_Updated: 2025-12-24 22:44_
 
 ## Top Stories
 
-- Kronprinsessfamiljen besökte Södersjukhuset på julafton - Kungahuset
+- 14 länder fördömer Israels nya bosättningar - SvD
 - Kritik mot amerikanska visumstoppet: ”Häxjakt” - SvD
-- Zelenskyj avslöjar detaljer om nya fredsplanen - Expressen
-- Artisten om julen: "Den ofrivilliga ensamheten är svår" - NT
-- Skidskytte: Nya detaljer om stjärnans död – hittades med höjdmask - SVT Nyheter
-- Sju döda efter explosion vid moské i Nigeria - SVT Nyheter
-- Omvända julvädret: Jokkmokk varmare än Skåne - Dagens Nyheter
-- Full tomte drog i nödbromsen – tågförseningar - Omni
+- Kallare i Malmö än i Jokkmokk - Sydsvenskan
+- Här är Ukrainas nya 20-punktsplan för fred - Dagens Nyheter
+- Kronprinsessfamiljen besökte Södersjukhuset på julafton - Kungahuset
+- Tågen genom länet stod stilla – full tomte drog i nödbromsen - Corren
+- LEDARE: Det skulle krävas ett mirakel för att få tillbaka gamla tiders vita jular. - Sydsvenskan
 - 24 december 12.46, Trafikolycka, vilt, Västerbottens län - Polisen.se
-- Lucka 24 - Morgan Bråse AB - Tjörns kommun
-- DN Direkt – Trots avrådan – fler vill fira jul i Thailand - Dagens Nyheter
-- CNN: Jultomtens renar attackeras av ryska vargar - Hufvudstadsbladet
+- 24 december 10.11, Farligt föremål, misstänkt, Nässjö - Polisen.se
+- Kronprinsessan läste julevangeliet i SVT - Kungahuset
 - Foad i Gaza: Vad ska vi fira? Fördrivningen? - Dagens Nyheter
-- Kristina höll på att föda i korridoren: ”Gick snabbt” - Omni
+- Rysslands jägare strider – då ökar vargattacker mot finska renar - Dagens Nyheter
+- Tolv döda efter skeppsbrott utanför Senegal - Västerbottens-Kuriren
+- Sju döda efter explosion vid moské i Nigeria - SVT Nyheter
 - Forsmark 1 i drift igen - DI
 - Anna Hedenmo lämnar EFN - Dagens Media
+- Färre klämdagar 2026 – men det finns möjligheter - Omni
 - Uppåt i julhandeln på Wall Street - Aftonbladet
-- SEB-topp: Då tar noteringarna fart – ”rekordmånga” - DI
 - Charles julklapp till personalen: saltkar - Expressen
 - Klimatförändringar hot mot kulturmiljöer - tidningensyre.se
 
 ## World News
 
 - How States and International Organizations Respond to Non-Cooperation - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- CamScanner Empowers Students Worldwide During International Education Week (PR Newswire) - Aktiellt
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
+- PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Ancient mammoth remains yield the world's oldest host-associated bacterial DNA - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -150,15 +150,15 @@ _Updated: 2025-12-24 21:38_
 - Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
