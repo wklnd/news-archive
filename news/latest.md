@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-24 01:49_
+_Updated: 2025-12-24 04:29_
 
-- Justice Department releases more Epstein files and some mention Trump - NPR
-- Supreme Court keeps Trump’s National Guard deployment blocked in the Chicago area, for now - AP News
+- Some Epstein file redactions are being undone with hacks - The Guardian
+- Supreme Court rules against Trump in National Guard case - NPR
 - Bay Area storm will bring damaging winds — and may rapidly worsen. Here’s what to watch - San Francisco Chronicle
-- Mother suspected of murder after officials find body of California 9-year-old Melodee Buzzard - NBC News
-- DHS Changes Process for Awarding H-1B Work Visas to Better Protect American Workers - USCIS (.gov)
-- CBS editor-in-chief Bari Weiss pulls '60 Minutes' piece on Trump deportation policy hours before air - PBS
-- Republican former senator Ben Sasse says he has terminal cancer - The Washington Post
-- Massive fire erupts after apparent explosion at nursing home in Pennsylvania - ABC News
+- Student Loan Borrowers in Default Could See Wages Garnished in Early 2026 - The New York Times
+- Ashlee Buzzard in custody after daughter Melodee found dead in Utah: Sources - ABC News
+- Budget and Policy Highlights - Office of Financial Management - Office of Financial Management (.gov)
+- Explosion reported at nursing home in suburban Philadelphia; 2 dead, others missing - ABC7 Los Angeles
+- Former U.S. Sen. Ben Sasse announces terminal stage-four cancer diagnosis - Nebraska Examiner
 - What to know about wind power in the US as Trump administration pauses leases - ABC News
-- Trump's plans for warship fleet. And, deported Venezuelans must receive due process - NPR
-- Libya's army chief killed in air crash - BBC
+- Trooper and suspect killed in a shooting at Delaware DMV - PBS
+- Libyan army's chief dies in plane crash in Turkey - Reuters
 - ‘Massive’ Russian attack on Ukraine kills 4-year-old child, as Zelensky is briefed on peace talks - CNN
-- Australian move to fast-track new gun and protest laws draws criticism - BBC
-- Russell Brand Is Charged With Additional Counts of Rape and Sexual Assault - The New York Times
-- U.S. GDP grew at a blistering 4.3% pace in the third quarter - CBS News
+- Email by 'A' from 'Balmoral' asked Ghislaine Maxwell for 'inappropriate friends', Epstein files show - BBC
+- Russell Brand charged with rape and sexual assault after 2 more women come forward - NBC News
 - Stock Market Today: Dow Higher As S&P 500 Scores Record; Nvidia Clears Key Level (Live Coverage) - Investor's Business Daily
-- Larry Ellison's $40 billion pledge to son's Paramount deal shows a shift in billionaire giving - Fortune
+- Trump's economy surges on consumer spending, defying forecasts - Politico
 - Last night’s Powerball created several new millionaires, but no billionaire winner - Los Angeles Times
+- Visa: Sales are up 4.2% for first 7 weeks of the holiday shopping period but the pace lags last year - ABC News
+- Boost Your Windows SSD Performance by up to 85% With This Server Driver Trick - extremetech.com
 - I Tried Samsung's Galaxy Z TriFold and Z Fold 7. Here's How the Foldable Phones Differ - CNET
-- I Tried Honor's Win Gaming Phone: It's Built Like a Tank and Has a Behemoth Battery - CNET
