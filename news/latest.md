@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-24 17:50_
+_Updated: 2025-12-24 18:54_
 
-- Zelensky reveals full 20-point peace plan draft backed by Ukraine, US - The Kyiv Independent
-- President Trump Announces New Battleship - navy.mil
-- Trump plows ahead with construction plans as conservation group seeks guardrails on White House projects - CBS News
-- The Trump Administration Protects U.S. National Security by Pausing Offshore Wind Leases - U.S. Department of the Interior (.gov)
-- DHS Changes Process for Awarding H-1B Work Visas to Better Protect American Workers - USCIS (.gov)
-- Oregon, SW Washington brace for a possible windstorm on Christmas Eve - Oregon Public Broadcasting - OPB
+- Zelensky open to withdrawing troops in new peace draft, awaits Russian reply - The Washington Post
+- New Epstein files mention Trump. And, SCOTUS rules on National Guard in Chicago - NPR
+- UK campaigners among five denied US visas - BBC
+- Where the national redistricting fight is heading in 2026 - NBC News
+- Moscow explosion kills 2 Russian police officers tied to Ukrainian POW abuse, intelligence source says - The Kyiv Independent
 - 2 dead, 20 hospitalized after explosion at Bucks County, Pennsylvania nursing home - 6abc Philadelphia
 - 19 States Sue to Block White House Plan to End Gender-Related Care for Minors - The New York Times
-- Ashlee Buzzard arrested in murder of daughter Melodee: 'Cold-blooded' - ABC News
-- Where is Santa right now? NORAD tracker maps his 2025 Christmas flight - CBS News
-- Bethlehem to celebrate Christmas for first time since Gaza war - Financial Times
-- The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed? - The New York Times
-- Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News
-- Crisis in India-Bangladesh relations spirals amid violent protests - BBC
-- Repare Therapeutics Announces Acquisition of Polθ ATPase Inhibitor, RP-3467, by Gilead Sciences for Up To $30 Million in Total Consideration - Business Wire
-- The U.S. Economy Keeps Powering Ahead, Defying Dire Predictions - The Wall Street Journal
-- AAA says holiday travel expected to hit 24‑year high as snow slows roads across region - 6abc Philadelphia
-- Nearly 2 dozen states sue the Trump administration over funding for CFPB - NPR
+- December 23, 2025 - Letters from an American | Heather Cox Richardson
+- The internal dispute that could derail the GOP’s 2026 agenda - Politico
+- Central California forecast for heavy rain, flooding and snow during Christmas week - ABC30 Fresno
+- Search teams in Turkey recover recorders after plane crash that killed Libyan military officials - AP News
+- How Israel's hilltop settlers coordinate attacks to expel Palestinians - Reuters
+- Gaza’s tiny Christian community tries to capture the holiday spirit during the ceasefire - AP News
+- Government waters down farm inheritance tax plan - BBC
+- Powerball hits $1.7 billion for Christmas Eve drawing, 4th largest jackpot in U.S. history - NBC News
+- Economy grows, chip tariff delay, new S&P 500 record and more in Morning Squawk - CNBC
+- BP sells stake in motor oil arm Castrol in $6bn deal - BBC
+- Dow Jones Futures: S&P 500 Hits Record Close; Nvidia, Google Flash Buy Signals - Investor's Business Daily
+- Galaxy Z TriFold is probably durable enough, hinge gives way after 150,000 folds in torture test [Video] - 9to5Google
 - Samsung’s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz - The Verge
-- I Tried Honor's Win Gaming Phone: It's Built Like a Tank and Has a Behemoth Battery - CNET
