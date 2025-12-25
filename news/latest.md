@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-25 15:53_
+_Updated: 2025-12-25 16:51_
 
-- Photos: Storm slamming Southern California with flooding rains triggers evacuations - Axios
 - Pope Leo urges 'courage' to end Ukraine war in first Christmas address - BBC
-- What we know (and what we don’t) about the Epstein files’ release - The Washington Post
-- Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building - CBS News
-- Ukraine war briefing: Zelenskyy open to creating demilitarised zone in country’s east - The Guardian
-- Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote - NPR
-- Major winter storm predicted to bring snow, ice to Midwest and Northeast - ABC News
 - White House orders military to focus on 'quarantine' of Venezuela oil - Reuters
-- Her partner was detained. Now she and their baby face Christmas without him: ‘My family is broken’ - The Guardian
-- U.S. bars five Europeans it says pressured tech firms to censor American viewpoints online - PBS
-- ​North Korea Unveils the Completed Hull of What It Calls a Nuclear Submarine - The New York Times
-- Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack - AP News
-- First Christmas in Gaza in two years: A story of hope and survival - Al Jazeera
-- China accuses US of trying to thwart improved China-India ties - Reuters
-- Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas - CBS News
-- GDP data confirms the Gen Z nightmare: the era of jobless growth is here - Fortune
-- Asia markets mixed in Christmas Eve trading; gold crosses $4,500 for the first time - CNBC
-- Is anything open on Christmas Day 2025? Here are the stores, restaurants and fast-food chains you can go to today - CBS News
-- Steam and Valve's online games are partially down - Engadget
-- Galaxy Z TriFold is probably durable enough, hinge gives way after 150,000 folds in torture test [Video] - 9to5Google
+- North Korea reveals new images of its first ‘nuclear-powered’ submarine - CNN
+- Announcement of Actions to Combat the Global Censorship-Industrial Complex - U.S. Department of State (.gov)
+- Libya's army chief killed in air crash in Turkey - BBC
+- 10 charts that show where the economy is heading - The Washington Post
+- Brunt of storm slams Inland Empire as heavy rain prompts evacuations and road closures across SoCal - ABC7 Los Angeles
+- Major winter storm predicted to bring snow, ice to Midwest and Northeast - ABC News
+- Trump-backed candidate Nasry Asfura wins Honduras presidential election - BBC
+- Into the void: how Trump killed international law - The Guardian
+- A helicopter on a rescue mission crashes on Tanzania's Mount Kilimanjaro, killing all 5 on board - ABC News
+- China Blasts US for Report That ‘Sows Discord’ With India - Bloomberg.com
+- Ukraine reports deadly Russian drone strikes into Christmas morning - ABC News
+- Live: Oil tanks on fire after Ukrainian drone attack on Russia’s Temryuk port - France 24
+- Tariffs hit boots, bags and more as leather prices jump — and relief could be years away - CNBC
+- Trump's 'Golden Age' has arrived for the top 10 percent - Politico
+- Trump administration orders 2 Indiana power plants to keep burning coal - Indiana Capital Chronicle
+- Tesla is facing fresh government scrutiny over its controversial doors - MarketWatch
+- Google says it is ‘gradually rolling out’ option to change your @gmail.com address - 9to5Google
+- Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I've Ever Used - CNET
