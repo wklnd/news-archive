@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 21:38_
+_Updated: 2025-12-25 22:44_
 
 ## Top Stories
 
-- Två personer döda i Boden - Aftonbladet
+- Kvinna död i våldsdåd i Boden – man ihjälskjuten av polis - Dagens Nyheter
 - Mette-Marits ilska – ”gör mig mest upprörd” - Expressen
 - Kraftigt skalv i Malmberget – ett av de större som uppmätts - SVT Nyheter
 - SMHI varnar för vind och snö i stora delar av landet - Krisinformation.se
+- Terrordömde Christopher: ”Känner mig smickrad” - Omni
+- Ryska UD: ”Det går sakta men säkert framåt” - Omni
+- Fler epa-olyckor oroar ungdomsprästen: ”Reglerna måste ändras” - Dagens Nyheter
 - H.M. Konungens jultal 2025 - Kungahuset
-- Putins desperata drag – migranter tvingas till fronten - Expressen
-- Försvunnen man hittad - Nerikes Allehanda
-- Insatsledaren om dödliga branden: ”Hade brunnit ett tag” - NWT
 - Slagsmål i Sala backe: "Hade konflikt" - UNT
-- Trafikolycka på E4 – bil har kört av vägen - Corren
-- Svensk dömd i Ryssland – har stridit för Ukraina - Västerbottens-Kuriren
-- Fallande kokainpris tvingar smugglarna att tänka om – återanvänder ubåtar - Dagens Nyheter
+- Insatsledaren om dödliga branden: ”Hade brunnit ett tag” - NWT
 - Kim Jong-Un på besök i påstådd atomubåt-fabrik - Västerbottens-Kuriren
-- Hemlös inbjuden till jul – blev kvar i 45 år - Dagens Nyheter
-- Lottovinnare kammade hem 16,5 miljarder på julafton - Omni
+- Fallande kokainpris tvingar smugglarna att tänka om – återanvänder ubåtar - Dagens Nyheter
+- Värmerekord på Island: 19,8 grader på julafton - Sydsvenskan
+- Önation i Stilla havet tar emot USA-migranter - GP
 - Då är det läge att binda bolåneräntan - SvD
+- Lottovinnare kammade hem 16,5 miljarder på julafton - Omni
 - Fint vin blir allt billigare – pristapp tre år i rad - DI
 - Insats vid Musköbasen – misstänkt farkost - Expressen
-- TEST: Soundbar – den är bäst 2025 - Aftonbladet
 - Xiaomi 17 Ultra officiellt lanserad – många kameranyheter - mobil.se
+- TEST: Soundbar – den är bäst 2025 - Aftonbladet
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -56,18 +56,18 @@ _Updated: 2025-12-25 21:38_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Deepmind ska göra robotar bra på fotboll - Omni
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Alla pratar om AI – här är termerna du behöver kunna - DI
-- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
@@ -101,44 +101,44 @@ _Updated: 2025-12-25 21:38_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-12-25 21:38_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
