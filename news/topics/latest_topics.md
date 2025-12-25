@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 22:44_
+_Updated: 2025-12-25 23:41_
 
 ## Top Stories
 
-- Kvinna död i våldsdåd i Boden – man ihjälskjuten av polis - Dagens Nyheter
+- Misstänkt mord i Boden - SVT Nyheter
 - Mette-Marits ilska – ”gör mig mest upprörd” - Expressen
+- Då öppnar Malmös nya queerbar – med nattamat och sammetssoffor - Sydsvenskan
 - Kraftigt skalv i Malmberget – ett av de större som uppmätts - SVT Nyheter
 - SMHI varnar för vind och snö i stora delar av landet - Krisinformation.se
 - Terrordömde Christopher: ”Känner mig smickrad” - Omni
-- Ryska UD: ”Det går sakta men säkert framåt” - Omni
 - Fler epa-olyckor oroar ungdomsprästen: ”Reglerna måste ändras” - Dagens Nyheter
-- H.M. Konungens jultal 2025 - Kungahuset
+- Framtidshopp trots kris och krig i kungens tal - Dagens Nyheter
+- Eric, 35, bygger en egen by – bara för vita - Aftonbladet
 - Slagsmål i Sala backe: "Hade konflikt" - UNT
-- Insatsledaren om dödliga branden: ”Hade brunnit ett tag” - NWT
-- Kim Jong-Un på besök i påstådd atomubåt-fabrik - Västerbottens-Kuriren
 - Fallande kokainpris tvingar smugglarna att tänka om – återanvänder ubåtar - Dagens Nyheter
-- Värmerekord på Island: 19,8 grader på julafton - Sydsvenskan
-- Önation i Stilla havet tar emot USA-migranter - GP
-- Då är det läge att binda bolåneräntan - SvD
+- Kim Jong-Un på besök i påstådd atomubåt-fabrik - GP
+- Hemlös inbjuden till jul – blev kvar i 45 år - Dagens Nyheter
+- Värmerekord på Island: 19,8 grader på julafton - Aftonbladet
 - Lottovinnare kammade hem 16,5 miljarder på julafton - Omni
 - Fint vin blir allt billigare – pristapp tre år i rad - DI
+- Då är det läge att binda bolåneräntan - SvD
 - Insats vid Musköbasen – misstänkt farkost - Expressen
 - Xiaomi 17 Ultra officiellt lanserad – många kameranyheter - mobil.se
 - TEST: Soundbar – den är bäst 2025 - Aftonbladet
@@ -28,12 +28,12 @@ _Updated: 2025-12-25 22:44_
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -42,11 +42,11 @@ _Updated: 2025-12-25 22:44_
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -56,17 +56,17 @@ _Updated: 2025-12-25 22:44_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Deepmind ska göra robotar bra på fotboll - Omni
+- Alla pratar om AI – här är termerna du behöver kunna - DI
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
@@ -101,7 +101,6 @@ _Updated: 2025-12-25 22:44_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -112,10 +111,11 @@ _Updated: 2025-12-25 22:44_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
