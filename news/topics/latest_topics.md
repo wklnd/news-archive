@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 06:56_
+_Updated: 2025-12-25 07:47_
 
 ## Top Stories
 
-- Allvarlig trafikolycka i Alingsås – en skadad - SVT Nyheter
-- CNN: Jultomtens renar attackeras av ryska vargar - Hufvudstadsbladet
-- 24 december 10.11, Farligt föremål, misstänkt, Nässjö - polisen.se
+- Så blev Kungsgatan ett Savile Row för utekläder - SvD
+- Fördömer visumstopp: ”Hot och påtryckningar” - SvD
+- Svår krasch på Ängelholmsleden - Sydsvenskan
+- IS-topp gripen i Syrien - SVT Nyheter
 - Två döda efter villabrand i Kristinehamn - Aftonbladet
-- Zelenskyj avslöjar detaljer om nya fredsplanen - Expressen
-- Köldknäpp i Sibirien – ned till minus 55 - Expressen
-- Man livshotande skadad i trafikolycka utanför Helsingborg - SVT Nyheter
-- Unikt historiskt fynd i Göteborg – Karl Xll:s okända fältbok - GP
+- Epstein-släpp kan pågå i veckor - SVT Nyheter
 - Sveriges domstolars webbsida låg nere i timmar - Sydsvenskan
+- Unikt historiskt fynd i Göteborg – Karl Xll:s okända fältbok - GP
 - Fler varningar för ishalka - SVT Nyheter
+- 23 december 06.48, Sammanfattning natt, Jönköpings län - polisen.se
+- Julafton med strömavbrott efter ryska attacker - Västerbottens-Kuriren
 - Trumps favorit Nasry Asfura utropad till segrare i Honduras - SVT Nyheter
-- Störtflodsvarning mitt i julruschen - Aftonbladet
+- DN Direkt – Allvarlig trafikolycka i Alingsås – en skadad - Dagens Nyheter
 - Familjs julfirande spårade ur – flera misshandlade - Sydsvenskan
-- Påvens julkrubbor: Maria som tennisracket - GP
-- De tjänar mest där du bor – sök i listan - Expressen
 - Forsmark 1 i drift igen - DI
-- Njut av ledigheten – blir mer jobb nästa år - Västerbottens-Kuriren
-- Nike vinnare på grön USA-börs - DI
+- De tjänar mest där du bor – sök i listan - Expressen
+- Uppåt i julhandeln på Wall Street - Västerbottens-Kuriren
+- Njut av ledigheten – blir mer jobb nästa år - SvD
 - Charles julklapp till personalen: saltkar - Expressen
 - Epic Games ger bort blodigt skräckspel i julklapp – i 24 timmar - MovieZine.se
 
@@ -38,7 +38,7 @@ _Updated: 2025-12-25 06:56_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -52,9 +52,9 @@ _Updated: 2025-12-25 06:56_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -65,30 +65,30 @@ _Updated: 2025-12-25 06:56_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Skattetjänster för entreprenörer och privata företag - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -99,20 +99,20 @@ _Updated: 2025-12-25 06:56_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -142,23 +142,23 @@ _Updated: 2025-12-25 06:56_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
