@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 15:08_
+_Updated: 2025-12-25 15:49_
 
 ## Top Stories
 
-- Nordkorea visar upp sin nya ”atomubåt” - SvD
-- H.M. Konungens jultal 2025 - Kungahuset
+- Polisinsats i Boden - Aftonbladet
 - Oväntad svensk hjälp skyddar stadskärnan - SvD
-- Vindvarning utfärdad i halva Sverige - Aftonbladet
+- Så avslöjades Vellingebon som misstänks ha drogat och våldtagit flicka vid Emporia - Sydsvenskan
+- H.M. Konungens jultal 2025 - Kungahuset
+- Gul varning för vind i halva landet: ”Tidvis stormbyar” - TV4 Nyheterna
 - Insatsledaren om dödliga branden: ”Hade brunnit ett tag” - NWT
-- Möllevångens handelsgata ska bli enkelriktad - Sydsvenskan
 - Man omhändertogs av polis – dog i arresten - UNT
 - Här har den svenska vintern försvunnit mest - Västerbottens-Kuriren
 - Ett julfirande som gör världen till en lite ljusare plats - Dagens Nyheter
 - En till sjukhus efter att ha klämts fast under husbil i Vännäsby - SVT Nyheter
-- Värmerekord på Island: 19,8 grader på julafton - Västerbottens-Kuriren
+- Värmerekord på Island: 19,8 grader på julafton - Hufvudstadsbladet
 - Hemlös inbjuden till jul – blev kvar i 45 år - Dagens Nyheter
-- Julafton med strömavbrott efter ryska attacker - GP
-- Varmaste december någonsin i Norge - Västerbottens-Kuriren
+- Kreml: Vi analyserar Ukrainas fredsförslag - GP
+- Skogsbränder rasar i Australien: ”För sent att lämna” - Aftonbladet
 - Fint vin blir allt billigare – pristapp tre år i rad - DI
 - Njut av ledigheten – blir mer jobb nästa år - Östersunds-Posten
-- Elklyftan växer – nära fyra gånger dyrare el i södra Sverige - Omni Ekonomi
-- Kärnkraftsreaktorn Forsmark 1 startar om – Vattenfall ger klartecken - Börskollen
+- Elklyftan växer – fyra gånger dyrare i södra Sverige - Omni
+- Forsmark 1 åter i drift - Västerbottens-Kuriren
 - Djupt i ett berg fann forskare en jättelik överraskning från det förflutna – nu vet de varifrån den kommer - Illustrerad Vetenskap
 - TEST: Soundbar – den är bäst 2025 - Aftonbladet
 
@@ -99,21 +99,21 @@ _Updated: 2025-12-25 15:08_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
@@ -121,24 +121,24 @@ _Updated: 2025-12-25 15:08_
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
 - En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-12-25 15:08_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
+- Lediga jobb - Land Lantbruk
