@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-25 08:59_
+_Updated: 2025-12-25 09:49_
 
+- What we know (and what we don’t) about the Epstein files’ release - The Washington Post
+- Governor Newsom proclaims state of emergency to support response in multiple counties due to late December storms - California State Portal | CA.gov
 - White House orders military to focus on 'quarantine' of Venezuela oil - Reuters
+- Trump tells kid in Christmas call he wants to ensure "bad Santa" isn't "infiltrating" U.S. - Axios
 - Trump-backed candidate Nasry Asfura wins Honduras presidential election - BBC
+- Texas National Guard’s deployment in Illinois blocked by U.S. Supreme Court - The Texas Tribune
+- Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building - AP News
+- ICE agents shot an undocumented man in Maryland after they say he attempted to ram him with his van - CNN
+- Trump news at a glance: EU could respond to ‘unjustified’ US visa bans, official says - The Guardian
 - Immigrant Nurse Is Among 2 Dead in Pennsylvania Nursing Home Explosions - The New York Times
-- U.S. and Ukraine reach consensus on key issues aimed at ending the war - NPR
-- Libya's army chief killed in air crash in Turkey - BBC
-- DHS Changes Process for Awarding H-1B Work Visas to Better Protect American Workers - USCIS (.gov)
-- Did anyone win $1.7B Powerball jackpot? Here are the winning numbers in Christmas Eve drawing - ABC News
-- Brunt of storm slams Inland Empire as heavy rain prompts evacuations and road closures across SoCal - ABC7 Los Angeles
-- Federal judge upholds Hawaii's new climate change tax on cruise passengers - ABC News
-- National Guardsmen shooting suspect's case moved to federal court, where death penalty can be weighed: Pirro - ABC News
-- Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter's - AP News
+- Photos of Christmas celebrations around the world - AP News
 - North Korea reveals new images of its first ‘nuclear-powered’ submarine - CNN
-- Australian State Passes ‘Extraordinary’ Gun and Protest Laws After Bondi Attack - The New York Times
-- Thai and Cambodia militaries hold talks on resuming ceasefire - Reuters
-- Trump Tosses Lifelines to the Struggling Coal Industry - The New York Times
-- We asked experts to rate the U.S. economy in 2025. Here's what they said. - CBS News
+- Bethlehem sees full Christmas revelry for first time since outbreak of Gaza war - The Times of Israel
+- Pope Leo, on Christmas Eve, says denying help to poor is rejecting God - KSL.com
+- These are the winning numbers for Powerball's $1.8 billion Christmas Eve jackpot - CBS News
+- Average US long-term mortgage rate ticks down to 6.18% this week - ABC News
+- Economy grows, chip tariff delay, new S&P 500 record and more in Morning Squawk - CNBC
 - NHTSA launches investigation into Tesla Model 3 emergency door handles - CBS News
-- INTC: Intel Stock Falls After Nvidia Backs Out of 18A Chip Deal - Yahoo Finance
-- AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full list of games affected | Hindustan Times - Hindustan Times
-- UploadVR's Best of VR 2025 Awards – Game Of The Year, Hardware & Most Anticipated Of 2026 - UploadVR
+- Steam and Valve's online games are partially down - Engadget
+- ARC Raiders, Fortnite, Rocket League - List of games affected in latest outage | Hindustan Times - Hindustan Times
