@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 12:46_
+_Updated: 2025-12-25 13:40_
 
 ## Top Stories
 
-- Så tog vildmarken över forna paradgatan - SvD
-- Nordkorea visar upp sin nya ”atomubåt” - SvD
-- Värmerekord på Island: 19,8 grader på julafton - SvD
-- Två omkomna i villabrand i Kristinehamn - SVT Nyheter
-- Full tomte drog i nödbromsen – tåg blev försenade - SVT Nyheter
-- Man omhändertogs på jul – dog i polisens arrest - Omni
+- Oväntad svensk hjälp skyddar stadskärnan - SvD
 - Brödernas 75-åriga mamma slogs ihjäl: ”Jag kräks” - dn.se
-- Här har den svenska vintern försvunnit mest - Västerbottens-Kuriren
+- Nordkorea visar upp sin nya ”atomubåt” - SvD
+- Två döda efter villabrand i Kristinehamn - Aftonbladet
+- Så tog vildmarken över forna paradgatan - SvD
+- Värmerekord på Island: 19,8 grader på julafton - SvD
+- Man omhändertogs av polis i Uppsala – dog i arresten - SVT Nyheter
+- Fler varningar för ishalka - SVT Nyheter
+- Här har den svenska vintern försvunnit mest - GP
 - Man livshotande skadad i trafikolycka utanför Helsingborg - SVT Nyheter
-- Tjuv tagen på bar gärning i centrala Malmö - Sydsvenskan
 - Julafton med strömavbrott efter ryska attacker - Västerbottens-Kuriren
 - Hemlös inbjuden till jul – blev kvar i 45 år - dn.se
 - Varmaste december någonsin i Norge - Västerbottens-Kuriren
 - Turkiet: Över 100 IS-medlemmar gripna - SVT Nyheter
 - Fint vin blir allt billigare – pristapp tre år i rad - DI
-- Elklyftan växer – fyra gånger dyrare i södra Sverige - Omni
+- Njut av ledigheten – blir mer jobb nästa år - Östersunds-Posten
 - Oväntad styrka i USA: ”Ett dynamiskt kraftpaket” - Omni Ekonomi
-- Kärnkraftsreaktorn Forsmark 1 startar om – Vattenfall ger klartecken - Börskollen
+- Elklyftan växer – fyra gånger dyrare i södra Sverige - Omni
+- Djupt i ett berg fann forskare en jättelik överraskning från det förflutna – nu vet de varifrån den kommer - Illustrerad Vetenskap
 - TEST: Soundbar – den är bäst 2025 - Aftonbladet
-- Julglädjen med nya tillskottet på Slottet - Expressen
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2025-12-25 12:46_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
@@ -124,8 +124,8 @@ _Updated: 2025-12-25 12:46_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -138,7 +138,7 @@ _Updated: 2025-12-25 12:46_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 
 ## Jordbruk
 
