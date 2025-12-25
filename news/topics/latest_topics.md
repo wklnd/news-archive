@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 04:29_
+_Updated: 2025-12-25 05:47_
 
 ## Top Stories
 
-- Fördömer visumstopp: ”Hot och påtryckningar” - SvD
-- 24 december 10.11, Farligt föremål, misstänkt, Nässjö - polisen.se
-- Villabrand i Kristinehamn: ”Allvarligt läge” - SVT Nyheter
-- Överraskningen i rutan – byggde om studion - Expressen
-- Unikt historiskt fynd i Göteborg – Karl Xll:s okända fältbok - GP
-- Zelenskyj avslöjar detaljer om nya fredsplanen - Expressen
-- Fler varningar för ishalka - SVT Nyheter
-- Jul på jobbet – de är redo om det sker en olycka - Norra Halland
-- Sveriges domstolars webbsida låg nere i timmar - Aftonbladet
-- Kronprinsessan läste julevangeliet i SVT - Kungahuset
-- Trumps favorit Nasry Asfura utropad till segrare i Honduras - SVT Nyheter
+- Svår krasch på Ängelholmsleden - Sydsvenskan
 - CNN: Jultomtens renar attackeras av ryska vargar - Hufvudstadsbladet
+- Två omkomna i villabrand i Kristinehamn - SVT Nyheter
+- 24 december 10.11, Farligt föremål, misstänkt, Nässjö - polisen.se
+- Karl XII:s okända fältbok hittad - SvD
+- Överraskningen i rutan – byggde om studion - Expressen
+- Allvarlig trafikolycka i Alingsås – en skadad - Aftonbladet
+- Fler varningar för ishalka - SVT Nyheter
+- Sveriges domstolars webbsida låg nere i timmar - Sydsvenskan
+- Kronprinsessan läste julevangeliet i SVT - Kungahuset
+- Julafton med strömavbrott efter ryska attacker - Västerbottens-Kuriren
+- Trumps favorit Nasry Asfura utropad till segrare i Honduras - SVT Nyheter
 - Köldknäpp i Sibirien – ned till minus 55 - Expressen
 - Störtflodsvarning mitt i julruschen - Aftonbladet
 - Forsmark 1 i drift igen - DI
+- Nvidia vill köpa AI-uppstickare för 200 miljarder - Folkbladet
 - Njut av ledigheten – blir mer jobb nästa år - Västerbottens-Kuriren
 - Nike vinnare på grön USA-börs - DI
-- Saab får order på radarsystemet Giraffe 1X från Sverige - Saab
 - Charles julklapp till personalen: saltkar - Expressen
 - Epic Games ger bort blodigt skräckspel i julklapp – i 24 timmar - MovieZine.se
 
@@ -51,25 +51,25 @@ _Updated: 2025-12-25 04:29_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
@@ -99,20 +99,20 @@ _Updated: 2025-12-25 04:29_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -130,15 +130,15 @@ _Updated: 2025-12-25 04:29_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
