@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-25 16:51_
+_Updated: 2025-12-25 17:50_
 
+- Photos: Storm slamming Southern California with flooding rains triggers evacuations - Axios
+- What we know (and what we don’t) about the Epstein files’ release - The Washington Post
 - Pope Leo urges 'courage' to end Ukraine war in first Christmas address - BBC
-- White House orders military to focus on 'quarantine' of Venezuela oil - Reuters
-- North Korea reveals new images of its first ‘nuclear-powered’ submarine - CNN
-- Announcement of Actions to Combat the Global Censorship-Industrial Complex - U.S. Department of State (.gov)
-- Libya's army chief killed in air crash in Turkey - BBC
-- 10 charts that show where the economy is heading - The Washington Post
-- Brunt of storm slams Inland Empire as heavy rain prompts evacuations and road closures across SoCal - ABC7 Los Angeles
+- Kennedy Center Christmas Eve jazz concert canceled after Trump's name added - Reuters
+- Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote - NPR
+- Ukraine war briefing: Zelenskyy open to creating demilitarised zone in country’s east - The Guardian
 - Major winter storm predicted to bring snow, ice to Midwest and Northeast - ABC News
-- Trump-backed candidate Nasry Asfura wins Honduras presidential election - BBC
 - Into the void: how Trump killed international law - The Guardian
+- Trump tells kid in Christmas call he wants to ensure "bad Santa" isn't "infiltrating" U.S. - Axios
+- White House orders military to focus on 'quarantine' of Venezuela oil - Reuters
+- Daughters of King Charles' brother Andrew join royals for Christmas service - Reuters
+- ​North Korea Unveils the Completed Hull of What It Calls a Nuclear Submarine - The New York Times
+- Christmas Around the World in Photos - The New York Times
 - A helicopter on a rescue mission crashes on Tanzania's Mount Kilimanjaro, killing all 5 on board - ABC News
-- China Blasts US for Report That ‘Sows Discord’ With India - Bloomberg.com
-- Ukraine reports deadly Russian drone strikes into Christmas morning - ABC News
-- Live: Oil tanks on fire after Ukrainian drone attack on Russia’s Temryuk port - France 24
+- Powerball $1.817 billion Christmas Eve jackpot won by single ticket, in Arkansas - CBS News
+- Is anything open on Christmas Day 2025? Here are the stores, restaurants and fast-food chains you can go to today - CBS News
 - Tariffs hit boots, bags and more as leather prices jump — and relief could be years away - CNBC
-- Trump's 'Golden Age' has arrived for the top 10 percent - Politico
-- Trump administration orders 2 Indiana power plants to keep burning coal - Indiana Capital Chronicle
-- Tesla is facing fresh government scrutiny over its controversial doors - MarketWatch
+- Don't make these mistakes when planning your family's inheritance - Business Insider
+- This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex - CNET
 - Google says it is ‘gradually rolling out’ option to change your @gmail.com address - 9to5Google
-- Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I've Ever Used - CNET
