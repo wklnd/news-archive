@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 20:51_
+_Updated: 2025-12-25 21:38_
 
 ## Top Stories
 
-- Kvinna avliden i Boden – misstänkt mord - SVT Nyheter
-- Just nu: Klämdes fast under husbil – kritiskt skadad - Västerbottens-Kuriren
-- Ryska UD: ”Det går sakta men säkert framåt” - Omni
+- Två personer döda i Boden - Aftonbladet
+- Mette-Marits ilska – ”gör mig mest upprörd” - Expressen
 - Kraftigt skalv i Malmberget – ett av de större som uppmätts - SVT Nyheter
-- Man omhändertogs på jul – dog i polisens arrest - Omni
-- Då bestämde hon sig: ”Känns osäkert” - SvD
-- Framtidshopp i kungens tal – trots kris och krig - Västerbottens-Kuriren
-- Tågtrafik ställs in när oväder drar in - UNT
+- SMHI varnar för vind och snö i stora delar av landet - Krisinformation.se
+- H.M. Konungens jultal 2025 - Kungahuset
+- Putins desperata drag – migranter tvingas till fronten - Expressen
+- Försvunnen man hittad - Nerikes Allehanda
 - Insatsledaren om dödliga branden: ”Hade brunnit ett tag” - NWT
 - Slagsmål i Sala backe: "Hade konflikt" - UNT
+- Trafikolycka på E4 – bil har kört av vägen - Corren
 - Svensk dömd i Ryssland – har stridit för Ukraina - Västerbottens-Kuriren
 - Fallande kokainpris tvingar smugglarna att tänka om – återanvänder ubåtar - Dagens Nyheter
+- Kim Jong-Un på besök i påstådd atomubåt-fabrik - Västerbottens-Kuriren
 - Hemlös inbjuden till jul – blev kvar i 45 år - Dagens Nyheter
-- Ögrupp i Stilla havet får miljonbelopp för att ta emot migranter från USA - Dagens Nyheter
 - Lottovinnare kammade hem 16,5 miljarder på julafton - Omni
 - Då är det läge att binda bolåneräntan - SvD
-- Försvarsmakten i insats vid Musköbasen - Expressen
-- Forsmark 1 i drift igen - DI
+- Fint vin blir allt billigare – pristapp tre år i rad - DI
+- Insats vid Musköbasen – misstänkt farkost - Expressen
 - TEST: Soundbar – den är bäst 2025 - Aftonbladet
 - Xiaomi 17 Ultra officiellt lanserad – många kameranyheter - mobil.se
 
@@ -51,25 +51,25 @@ _Updated: 2025-12-25 20:51_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Qingdao VR conference fuels innovation, industry growth (PR Newswire) - Aktiellt
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- Deepmind ska göra robotar bra på fotboll - Omni
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Alla pratar om AI – här är termerna du behöver kunna - DI
+- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
-- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
@@ -100,20 +100,20 @@ _Updated: 2025-12-25 20:51_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
@@ -149,16 +149,16 @@ _Updated: 2025-12-25 20:51_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
