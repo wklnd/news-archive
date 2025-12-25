@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 11:45_
+_Updated: 2025-12-25 12:46_
 
 ## Top Stories
 
 - Så tog vildmarken över forna paradgatan - SvD
-- Två döda i lägenhetsbrand i Kristinehamn på julnatten - SVT Nyheter
-- Värme rekord på Island: 19,8 grader - SvD
-- Man omhändertogs av polis – dog i arresten - SVT Nyheter
-- Visade stöd för Bondidåd – greps - SvD
-- Polishund nosade upp misstänkt inbrottstjuv i Eskilstuna – man anhållen - SVT Nyheter
+- Nordkorea visar upp sin nya ”atomubåt” - SvD
+- Värmerekord på Island: 19,8 grader på julafton - SvD
+- Två omkomna i villabrand i Kristinehamn - SVT Nyheter
+- Full tomte drog i nödbromsen – tåg blev försenade - SVT Nyheter
+- Man omhändertogs på jul – dog i polisens arrest - Omni
 - Brödernas 75-åriga mamma slogs ihjäl: ”Jag kräks” - dn.se
-- Här har den svenska vintern försvunnit mest - GP
+- Här har den svenska vintern försvunnit mest - Västerbottens-Kuriren
 - Man livshotande skadad i trafikolycka utanför Helsingborg - SVT Nyheter
 - Tjuv tagen på bar gärning i centrala Malmö - Sydsvenskan
 - Julafton med strömavbrott efter ryska attacker - Västerbottens-Kuriren
 - Hemlös inbjuden till jul – blev kvar i 45 år - dn.se
-- Kritik mot amerikanska visumstoppet: ”Häxjakt” - GP
-- Allvarlig trafikolycka i Alingsås – en skadad - SVT Nyheter
+- Varmaste december någonsin i Norge - Västerbottens-Kuriren
+- Turkiet: Över 100 IS-medlemmar gripna - SVT Nyheter
+- Fint vin blir allt billigare – pristapp tre år i rad - DI
 - Elklyftan växer – fyra gånger dyrare i södra Sverige - Omni
-- USA:s tillväxt högsta på två år - Tidningen Näringslivet
-- Forsmark 1 i drift igen - DI
-- Vann 16,5 miljarder på lotto: ”Förändrar livet” - Aftonbladet
+- Oväntad styrka i USA: ”Ett dynamiskt kraftpaket” - Omni Ekonomi
+- Kärnkraftsreaktorn Forsmark 1 startar om – Vattenfall ger klartecken - Börskollen
 - TEST: Soundbar – den är bäst 2025 - Aftonbladet
-- Tror du att du kan Mercedes-AMG? Testa dig själv här - auto motor & sport
+- Julglädjen med nya tillskottet på Slottet - Expressen
 
 ## World News
 
@@ -51,48 +51,48 @@ _Updated: 2025-12-25 11:45_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Law Enforcement Investigative AI Startup eSleuth Inc. Appoints Smita Nair as Senior Vice President of Software Engineering (PR Newswire) - Aktiellt
+- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Skattetjänster för entreprenörer och privata företag - EY
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -131,10 +131,10 @@ _Updated: 2025-12-25 11:45_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
