@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-26 00:50_
+_Updated: 2025-12-26 01:48_
 
-- Live updates: Widespread flooding as Christmas storm soaks Southern California; more rain expected - KTLA
+- Photos: Storm slamming Southern California with flooding rains triggers evacuations - Axios
 - Major winter storm predicted to bring snow, ice to Midwest and Northeast - ABC News
-- More House Republicans are leaving Congress to run for governor than in decades amid frustration over ‘toxic environment’ - CNN
-- U.S. and Ukraine reach consensus on key issues aimed at ending the war - NPR
-- Pope Leo XIV urges the faithful on Christmas to shed indifference in the face of suffering - AP News
+- The pope urges the faithful on Christmas to shed indifference in the face of suffering - NPR
 - US discovers a million more possible Jeffrey Epstein files - BBC
-- ’Twas the night before Christmas at Trump’s Mar-a-Lago. Here’s what happened. - The Washington Post
+- Why Russia Is Likely to Reject the New U.S.-Ukrainian Peace Plan - The New York Times
 - Kennedy Center Christmas Eve Jazz Concert Canceled Over Trump Name On Building - Deadline
+- Trump rings in Christmas Day with a flurry of posts denouncing perceived foes and casting doubt on the 2020 election - NBC News
+- Two injured after ICE agents fire at Maryland vehicle amid crackdown - Al Jazeera
 - Into the void: how Trump killed international law - The Guardian
-- 19 states sue to block Kennedy's plan to curb trans care - Axios
-- King Charles and royal family, minus Andrew, gather for Christmas as king's speech highlights unity and diversity - CBS News
+- Trump says US military struck ISIS terrorists in Nigeria - CNN
 - Five Killed in Helicopter Crash on Kilimanjaro, Africa’s Highest Peak - The New York Times
 - Australian prime minister announces bravery award for heroes of Bondi antisemitic attack - Politico
-- Christmas Around the World in Photos - The New York Times
-- Jingle bills: Arkansas Powerball player strikes $1.8bn jackpot on Christmas Eve - BBC
-- bp agrees to sell a 65% shareholding in Castrol to Stonepeak at an enterprise value of $10 billion - BP Global
-- Tesla Robotaxis Are Big on Wall St. but Lagging on Roads - The New York Times
-- Nvidia makes its largest-ever purchase with Groq agreement - Mashable
-- Samsung’s Exynos 2800 Reportedly Features The Company’s In-House GPU And Is Scheduled To Launch In 2027; SoC Can Be Found In Applications Beyond Smartphones - Wccftech
+- North Korea displays apparent progress in construction of nuclear-powered submarine - AP News
+- King Charles breaks tradition with Christmas speech, calls for 'reconciliation' - USA Today
+- $1.817 Billion Powerball Jackpot Won by Single Ticket in Arkansas - The New York Times
+- Elon Musk and Tesla AI Director share insights after empty driver seat Robotaxi rides - Teslarati
+- Don't make these mistakes when planning your family's inheritance - Business Insider
+- Economy grows, chip tariff delay, new S&P 500 record and more in Morning Squawk - CNBC
 - Google says it is ‘gradually rolling out’ option to change your @gmail.com address - 9to5Google
+- Exclusive: OnePlus Turbo Leaks In Live Images With Massive 9,000mAh Battery and 144Hz Display - Android Headlines
