@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-25 05:47_
+_Updated: 2025-12-25 06:56_
 
 ## Top Stories
 
-- Svår krasch på Ängelholmsleden - Sydsvenskan
+- Allvarlig trafikolycka i Alingsås – en skadad - SVT Nyheter
 - CNN: Jultomtens renar attackeras av ryska vargar - Hufvudstadsbladet
-- Två omkomna i villabrand i Kristinehamn - SVT Nyheter
 - 24 december 10.11, Farligt föremål, misstänkt, Nässjö - polisen.se
-- Karl XII:s okända fältbok hittad - SvD
-- Överraskningen i rutan – byggde om studion - Expressen
-- Allvarlig trafikolycka i Alingsås – en skadad - Aftonbladet
-- Fler varningar för ishalka - SVT Nyheter
-- Sveriges domstolars webbsida låg nere i timmar - Sydsvenskan
-- Kronprinsessan läste julevangeliet i SVT - Kungahuset
-- Julafton med strömavbrott efter ryska attacker - Västerbottens-Kuriren
-- Trumps favorit Nasry Asfura utropad till segrare i Honduras - SVT Nyheter
+- Två döda efter villabrand i Kristinehamn - Aftonbladet
+- Zelenskyj avslöjar detaljer om nya fredsplanen - Expressen
 - Köldknäpp i Sibirien – ned till minus 55 - Expressen
+- Man livshotande skadad i trafikolycka utanför Helsingborg - SVT Nyheter
+- Unikt historiskt fynd i Göteborg – Karl Xll:s okända fältbok - GP
+- Sveriges domstolars webbsida låg nere i timmar - Sydsvenskan
+- Fler varningar för ishalka - SVT Nyheter
+- Trumps favorit Nasry Asfura utropad till segrare i Honduras - SVT Nyheter
 - Störtflodsvarning mitt i julruschen - Aftonbladet
+- Familjs julfirande spårade ur – flera misshandlade - Sydsvenskan
+- Påvens julkrubbor: Maria som tennisracket - GP
+- De tjänar mest där du bor – sök i listan - Expressen
 - Forsmark 1 i drift igen - DI
-- Nvidia vill köpa AI-uppstickare för 200 miljarder - Folkbladet
 - Njut av ledigheten – blir mer jobb nästa år - Västerbottens-Kuriren
 - Nike vinnare på grön USA-börs - DI
 - Charles julklapp till personalen: saltkar - Expressen
@@ -99,20 +99,20 @@ _Updated: 2025-12-25 05:47_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -130,15 +130,15 @@ _Updated: 2025-12-25 05:47_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-25 05:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbrukspolitik - Naturvårdsverket
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
