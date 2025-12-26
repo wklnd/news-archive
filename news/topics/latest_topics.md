@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 07:46_
+_Updated: 2025-12-26 08:54_
 
 ## Top Stories
 
-- Två män omkomna i fiskeolycka i Oxelösund - SVT Nyheter
-- Två döda efter våldsbrott i Boden - Västerbottens-Kuriren
+- Trump: Attackerat IS-terrorister i Nigeria - SVT Nyheter
+- JUST NU: Två fiskare döda - Expressen
+- Jättesatsningen ska lyfta Tyskland ur dvalan - SvD
+- Tågtrafik ställs in när oväder drar in - GP
 - Japans kejserliga dilemma: Reform eller undergång - SvD
 - Där politiken är livsavgörande - SvD
-- SD:are vittnar om Åkessons ledarstil: ”Extremt” - SvD
-- Rysslands plan efter ökända attacken: ”Dansar på kroppar” - Aftonbladet
-- Kvinna död efter drunkningslarm i Karlskrona - SVT Nyheter
 - Eric, 35, bygger en egen by – bara för vita - Aftonbladet
-- Tågtrafik ställs in när oväder drar in - GP
 - Kraftigt skalv i Malmberget – ett av de större som uppmätts - SVT Nyheter
-- Önation i Stilla havet tar emot USA-migranter - Västerbottens-Kuriren
+- Vaknade av inkastad sten och klotter - Nerikes Allehanda
+- Pojke gripen – misstänks ha anlagt branden på Söderkulla - Sydsvenskan
+- Man och kvinna tagen på bar gärning - Aftonbladet
+- 2025: Ljusglimtar från året som gått - Utrikespolitiska institutet
+- Rekordstor japansk försvarsbudget - Västerbottens-Kuriren
 - Zelenskyj: ”Mycket bra möte med Witkoff” - Hufvudstadsbladet
-- Kim Jong-Un på besök i påstådd atomubåt-fabrik - Västerbottens-Kuriren
-- Allvarlig trafikolycka i Alingsås – en skadad - Folkbladet
+- Guld och silver fortsätter stiga - Västerbottens-Kuriren
+- Exklusiva viner billigare – efter Trumps smocka - Expressen
+- Snusk och matfusk på Åres krogar: Musbajs, spindelnät, felmärkt kött - Expressen
 - Insats vid Musköbasen – misstänkt farkost - Expressen
-- Rekordstor japansk försvarsbudget - SvD
-- Forsmark 1 i drift igen - DI
-- Michael död i ”bisarr” olycka på McDonald’s - Expressen
 - Iphone Air 2: comeback snabbare än väntat – eller önsketänkande? - Macworld.se
 - Xiaomi 17 Ultra officiellt lanserad – många kameranyheter - mobil.se
 
@@ -32,7 +32,6 @@ _Updated: 2025-12-26 07:46_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -47,28 +46,29 @@ _Updated: 2025-12-26 07:46_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Deepmind ska göra robotar bra på fotboll - Omni
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Alla pratar om AI – här är termerna du behöver kunna - DI
-- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
-- Cathie Wood on the first year of The Ark and Avanza Partnership - Avanzabloggen
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
@@ -109,13 +109,13 @@ _Updated: 2025-12-26 07:46_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -124,20 +124,20 @@ _Updated: 2025-12-26 07:46_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
@@ -149,16 +149,16 @@ _Updated: 2025-12-26 07:46_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
-- Tält.jpg - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
