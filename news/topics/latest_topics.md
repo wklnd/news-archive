@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 15:49_
+_Updated: 2025-12-26 16:45_
 
 ## Top Stories
 
+- Hårda vindar med stormbyar i Fårösund och på Fårö - Region Gotland
+- Gärningsmannen i Boden känd sedan tidigare - Dagens Nyheter
 - Rikke blev 32 – hon fick inte dö som hon ville - SvD
-- Kvinna död i Boden – misstänkt mord - SVT Nyheter
+- Zelenskyj-Trump träffas på söndag - SVT Nyheter
+- Två män döda – hittades efter stor sökinsats i skärgården - SN, Södermanlands Nyheter
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
-- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- 25 december 07.50, Sammanfattning natt, Värmlands län - Polisen.se
-- Nya beskedet efter stjärnans död: ”Avråder från det” - Expressen
-- Mer antidepressiva i Sverige än i grannländerna - Västerbottens-Kuriren
-- 26 december 06.58, Sammanfattning kväll och natt, Västra Götalands län - Polisen.se
-- Kraftigt skalv i Malmberget – ett av de större som uppmätts - SVT Nyheter
-- Stoppades med spikmatta efter polisjakt - TV4 Nyheterna
-- Sydkorea fasar ut adoptioner - Västerbottens-Kuriren
+- 3-åriga Minas sällsynta diagnos – endast 100 fall i världen - Dagens Nyheter
+- MSB byter namn och fokus – förbereder för krig - Västerbottens-Kuriren
+- 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
+- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
+- IDF förbereder räd på Västbanken efter våldsdåd - SvD
+- Efter FN-kritiken: Sydkorea ska fasa ut adoptioner - Omni
 - Myanmar-juntans nya strategi: Byter till civila kläder - Dagens Nyheter
-- Unga inspireras av Charlie Kirk – går i kyrkan - Dagens Nyheter
-- Misstänkt terrorattack i Israel – flera döda och skadade - Expressen
+- Nya israeliska attacker mot Libanon - GP
 - Matkris i Ryssland – chockhöjda priser - Expressen
+- Efter prischocken – nu väntar lägre matpriser - SvD
 - Tre pengaprofiler: Så hade vi investerat 100 000 kronor just nu - Aftonbladet
-- Insats vid Musköbasen – misstänkt farkost - Expressen
-- Håll koll på de nya skyltarna – och på vad du får göra - VLT
+- Krögaren om höjdarnas smitnotor: ”Tror någon annan betalar” - DI
 - Isolerad ö har dolt 30 000 fossil: Nu avslöjar de gömda hemligheter om jordens största katastrof - Illustrerad Vetenskap
 - 50 spel att hålla koll på 2026 - FZ.se
 
@@ -45,8 +45,8 @@ _Updated: 2025-12-26 15:49_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -151,14 +151,14 @@ _Updated: 2025-12-26 15:49_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
