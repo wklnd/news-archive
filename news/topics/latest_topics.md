@@ -1,40 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 13:40_
+_Updated: 2025-12-26 15:09_
 
 ## Top Stories
 
 - Kvinna död i Boden – misstänkt mord - SVT Nyheter
-- Stormen Johannes drar in – orange varningar över halva Sverige: Färjor ställs in - Omni
-- Jättesatsningen ska lyfta Tyskland ur dvalan - SvD
-- Kvinna död efter drunkningslarm i Karlskrona - SVT Nyheter
-- Två män döda – hittades efter stor sökinsats - SN, Södermanlands Nyheter
+- Oväder stoppar fjälltågen: ”Olyckligt” - SvD
+- Två män döda – hittades efter stor sökinsats i skärgården - SN, Södermanlands Nyheter
+- MSB byter namn och fokus – förbereder för krig - SvD
 - 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
-- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
-- Just nu: Klämdes fast under husbil – kritiskt skadad - Västerbottens-Kuriren
-- 26 december 06.58, Sammanfattning kväll och natt, Västra Götalands län - Polisen.se
-- DN Direkt – Tretton personer omhändertagna vid krog i Älvsbyn - Dagens Nyheter
-- Zelenskyj ska träffa Trump - Hufvudstadsbladet
-- Nya israeliska attacker mot Libanon - Västerbottens-Kuriren
-- Trump: Attackerat IS-terrorister i Nigeria - GP
-- Efter prischocken – nu väntar lägre matpriser - DI
+- Kvinna död efter drunkningslarm i Karlskrona - SVT Nyheter
+- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
+- Mer antidepressiva i Sverige än i grannländerna - Västerbottens-Kuriren
+- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
+- Sydkorea fasar ut adoptioner - Västerbottens-Kuriren
+- Nya israeliska attacker mot Libanon - GP
+- Misstänkt terrorattack i Israel – flera döda och skadade - Expressen
+- Trump: Attackerat IS-terrorister i Nigeria - SVT Nyheter
+- Matkris i Ryssland – chockhöjda priser - Expressen
+- Efter prischocken – nu väntar lägre matpriser - SvD
 - Kraftig jul-rusning i guld och ädelmetaller - EFN.se
-- Exklusiva viner billigare – efter Trumps smocka - Expressen
-- Då är det läge att binda bolåneräntan - Borås Tidning
+- Exklusiva viner rasar i pris – efterfrågan störtdyker i USA - Börskollen
 - Isolerad ö har dolt 30 000 fossil: Nu avslöjar de gömda hemligheter om jordens största katastrof - Illustrerad Vetenskap
 - 50 spel att hålla koll på 2026 - FZ.se
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Dr. Marie Jacobsson awarded honorary doctorate by the World Maritime University - Stockholms universitet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -42,11 +40,13 @@ _Updated: 2025-12-26 13:40_
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -111,11 +111,11 @@ _Updated: 2025-12-26 13:40_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-26 13:40_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
