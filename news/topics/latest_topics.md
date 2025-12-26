@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 15:09_
+_Updated: 2025-12-26 15:49_
 
 ## Top Stories
 
+- Rikke blev 32 – hon fick inte dö som hon ville - SvD
 - Kvinna död i Boden – misstänkt mord - SVT Nyheter
-- Oväder stoppar fjälltågen: ”Olyckligt” - SvD
-- Två män döda – hittades efter stor sökinsats i skärgården - SN, Södermanlands Nyheter
-- MSB byter namn och fokus – förbereder för krig - SvD
-- 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
-- Kvinna död efter drunkningslarm i Karlskrona - SVT Nyheter
-- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
-- Mer antidepressiva i Sverige än i grannländerna - Västerbottens-Kuriren
 - 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
+- 25 december 07.50, Sammanfattning natt, Värmlands län - Polisen.se
+- Nya beskedet efter stjärnans död: ”Avråder från det” - Expressen
+- Mer antidepressiva i Sverige än i grannländerna - Västerbottens-Kuriren
+- 26 december 06.58, Sammanfattning kväll och natt, Västra Götalands län - Polisen.se
+- Kraftigt skalv i Malmberget – ett av de större som uppmätts - SVT Nyheter
+- Stoppades med spikmatta efter polisjakt - TV4 Nyheterna
 - Sydkorea fasar ut adoptioner - Västerbottens-Kuriren
-- Nya israeliska attacker mot Libanon - GP
+- Myanmar-juntans nya strategi: Byter till civila kläder - Dagens Nyheter
+- Unga inspireras av Charlie Kirk – går i kyrkan - Dagens Nyheter
 - Misstänkt terrorattack i Israel – flera döda och skadade - Expressen
-- Trump: Attackerat IS-terrorister i Nigeria - SVT Nyheter
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- Efter prischocken – nu väntar lägre matpriser - SvD
-- Kraftig jul-rusning i guld och ädelmetaller - EFN.se
-- Exklusiva viner rasar i pris – efterfrågan störtdyker i USA - Börskollen
+- Tre pengaprofiler: Så hade vi investerat 100 000 kronor just nu - Aftonbladet
+- Insats vid Musköbasen – misstänkt farkost - Expressen
+- Håll koll på de nya skyltarna – och på vad du får göra - VLT
 - Isolerad ö har dolt 30 000 fossil: Nu avslöjar de gömda hemligheter om jordens största katastrof - Illustrerad Vetenskap
 - 50 spel att hålla koll på 2026 - FZ.se
 
@@ -41,12 +41,12 @@ _Updated: 2025-12-26 15:09_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -59,40 +59,40 @@ _Updated: 2025-12-26 15:09_
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Skattetjänster för entreprenörer och privata företag - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -111,18 +111,18 @@ _Updated: 2025-12-26 15:09_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
@@ -135,9 +135,9 @@ _Updated: 2025-12-26 15:09_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -149,16 +149,16 @@ _Updated: 2025-12-26 15:09_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
