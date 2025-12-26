@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-26 05:48_
+_Updated: 2025-12-26 06:59_
 
-- New York City Braces for Heavy Snow as Winter Storm Approaches - The New York Times
-- DOJ says it may need a 'few more weeks' to finish releasing Epstein files - NPR
+- President Trump announces strike on ISIS targets in Nigeria - NPR
+- California travel forecast: Where storm impacts will be most hazardous on Christmas Eve - San Francisco Chronicle
 - Coast Guard Tracks Down Runaway Oil Tanker Linked to Iran and Venezuela - The Wall Street Journal
-- Zelensky hails 'new ideas' on peace after talk with US envoys - BBC
-- Presidential Message on Christmas - The White House (.gov)
-- Turkey arrests 115 IS suspects 'planning New Year's attacks' - BBC
-- US launches 'powerful strikes' against Islamic State in Nigeria, says Trump - BBC
-- Into the void: how Trump killed international law - The Guardian
-- 19 states sue to block Kennedy's plan to curb trans care - Axios
-- Winter ice storm to impact holiday travel on Friday afternoon - WJAC
-- Australian prime minister announces bravery award for heroes of Bondi antisemitic attack - Politico
-- Christmas Around the World in Photos - The New York Times
+- DOJ says it may need a 'few more weeks' to finish releasing Epstein files - NPR
+- Should a top Russian archaeologist face trial for digging in occupied Crimea? - BBC
+- The pope urges the faithful on Christmas to shed indifference in the face of suffering - NPR
+- 15th victim of deadly UPS plane crash in Louisville identified - WDRB
+- New York City Braces for Heavy Snow as Winter Storm Approaches - The New York Times
+- Ukraine accepts demilitarised zone to end Russia war, but do DMZs work? - Al Jazeera
+- Trump rings in Christmas Day with a flurry of posts denouncing perceived foes and casting doubt on the 2020 election - NBC News
+- Australia announces bravery award for heroes of Bondi Beach terrorist attack - CBS News
+- BNP leader Tarique Rahman returns: Who is Bangladesh’s potential next PM? - Al Jazeera
+- Photos of Christmas celebrations around the world - AP News
 - Saudi Arabia urges Yemen's separatists to leave 2 governorates as the anti-rebel coalition strains - AP News
-- Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful' - BBC
-- Is Bitcoin a Buy, Sell, or Hold in 2026? - The Motley Fool
+- US 'Powerball' lottery winner scoops $1.8 billion jackpot - dw.com
 - Investors Warn of ‘Rot in Private Equity’ as Funds Strike Circular Deals - The New York Times
-- Cursor CEO warns vibe coding builds 'shaky foundations' and eventually 'things start to crumble - Fortune
-- Christmas 2025: Restaurants open on holiday include Red Lobster, McDonald's, Denny's, IHOP - Axios
-- The video games you may have missed in 2025 - The Guardian
-- Grotmas Calendar Day 25 – Huron Blackheart strides forth from the Maelstrom - Warhammer Community
+- GDP 'Nowhere Near' 4.3%: Rosenberg Dismisses Q3 Report As 'Fugazi,' Pegs Real Growth At 0.8% - Yahoo Finance
+- BP to sell 65% stake in Castrol to Stonepeak for $6 billion - Reuters
+- Galaxy Z TriFold suffers horrific defeat in durability test; there’s just more to break - 9to5Google
+- Google To Let Users Change Gmail Address — What You Need To Know - Forbes
