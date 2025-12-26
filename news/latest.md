@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-26 23:48_
+_Updated: 2025-12-27 00:50_
 
-- Dangerous snowstorm headed toward NYC, New Jersey, upstate New York: Latest forecast - ABC News
+- Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’ - The Guardian
+- A major winter storm is bearing down on the Northeast. Where the most snow may fall. - The Washington Post
+- Trump to POLITICO: Zelenskyy ‘doesn’t have anything until I approve it’ - Politico
+- White House press secretary Karoline Leavitt announces she's pregnant - ABC News
+- At least 15 injured in a knife and chemical attack at a factory in Japan - ABC News
 - Marijuana rescheduling would bring some immediate changes, but others will take time - NPR
-- Two killed in suspected Palestinian ramming and knife attack in Israel - BBC
-- How to maintain fitness New Year’s resolutions - KNOE
-- Times Square to feature patriotic ball drop for New Year's Eve, kicking off US's 250th birthday - ABC News
-- Presidential Message on Christmas - The White House (.gov)
-- Zelensky plans to meet Trump on Sunday for talks on peace deal - BBC
-- U.S. Strikes ISIS in Nigeria After Trump Warned of Attacks on Christians - The New York Times
-- Man dead, 2 police officers hurt in shooting during custody exchange in North Carolina - ABC News
+- Mint Hill mayor confirms 2 officers shot - WCNC
+- Melodee Buzzard's mother arraigned on murder charge after 9-year-old's body is found in Utah - NBC News
 - UK campaigner targeted by Trump accuses tech giants of ‘sociopathic greed’ | UK news - The Guardian
-- New Jail Term for Ex-Malaysian Leader Najib Razak in Corruption Scandal - The New York Times
-- Japan’s Cabinet OKs record defense budget that aims to deter China - AP News
-- Thailand bombs Cambodian border area as ceasefire talks continue - BBC
-- ‘Not for the people’: Myanmar junta prepares for elections designed to legitimise grip on power - The Guardian
-- Price Of Silver Hits All-Time High - Forbes
+- California rain may ease but more mudslides, flooding possible, forecasters say - CBS News
+- 2 Killed in Vehicle Ramming and Stabbing in Israel, Officials Say - The New York Times
+- Homs: Deadly explosion during Friday prayers inside Syrian mosque - BBC
+- Southern Yemeni separatists dismiss Saudi call to withdraw from eastern provinces - Reuters
+- Israel becomes first country to recognise Somaliland as sovereign state - The Guardian
 - S&P 500 closes little changed after touching fresh record, posts winning week: Live updates - CNBC
+- Price Of Silver Hits All-Time High - Forbes
 - Why your holiday gift returns might go to a landfill and what you can do about it - ABC News
-- Data Center Surge Reaches India as American Tech Giants Invest Billions - The New York Times
-- Embark on a visual voyage of art inspired by black holes - Ars Technica
-- Quiz: How Well Do You Remember 2025? Nintendo Life's Gaming Quiz Of The Year - Nintendo Life
+- Powerball winner for $1.817 billion jackpot bought lucky ticket in Arkansas. Here are the numbers. - CBS News
+- The Dominik Diamond alternative game of the year awards 2025 - The Guardian
+- LG announces line of premium gaming monitors that offer 5K visuals - Engadget
