@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-26 15:53_
+_Updated: 2025-12-26 16:52_
 
 - U.S. strikes ISIS in Nigeria after Trump warnings on Christian killings - The Washington Post
-- Heavy rains led to ‘nightmare before Christmas’ with flooding, mudslides as risks persist - Los Angeles Times
 - Zelensky hails 'new ideas' on peace after talk with US envoys - BBC
+- Winter storm puts airlines to the test. Here's what travelers need to know - CNBC
+- Governor Newsom proclaims state of emergency to support response in multiple counties due to late December storms - California State Portal | CA.gov
 - Cambodia blames Thailand for ‘ruthless’ bombardment amid border talks - Al Jazeera
-- As insurance prices rise, women puzzle through coverage options for their families - NPR
-- From record heat to accumulating snow in Denver - CBS News
-- Donald Trump’s second term tests deeply polarised Congress - Financial Times
-- A murder, a manhunt and the grandmother who wouldn't stop the search for her daughter's killer - NBC News
-- US justice department says it may need ‘a few more weeks’ to process 1m more Epstein documents for release - The Guardian
-- Snow, ice to cause dangerous travel conditions in Philadelphia area Friday — timing and snow totals - CBS News
 - Nuclear submarine arms race heats up between North and South Korea - NPR
-- Japan’s Cabinet OKs record defense budget that aims to deter China - AP News
-- Stabbing and chemical liquid attack in Japan tire factory injures 15 - CBS News
-- ‘A Lot Can Be Decided Before the New Year’: Zelensky Eyes Mar-a-Lago Visit as Ukraine Pushes ‘Real Peace’ Plan - Kyiv Post
+- Next year is America’s 250th birthday. Meet the person behind the celebration. - Politico
+- Donald Trump’s second term tests deeply polarised Congress - Financial Times
+- US judge blocks Trump administration from deporting UK anti-disinformation campaigner - The Guardian
+- A murder, a manhunt and the grandmother who wouldn't stop the search for her daughter's killer - NBC News
+- 2 Killed in Car Ramming and Stabbing in Israel, Authorities Say - The New York Times
+- Iran seizes oil tanker carrying smuggled fuel on Strait of Hormuz, state news agency says - CBS News
+- Japan's Cabinet OKs record defense budget that aims to deter China - ABC News
+- ‘Not for the people’: Myanmar junta prepares for elections designed to legitimise grip on power - The Guardian
 - $1.8 billion Powerball winner could remain anonymous for some time under Arkansas law - CNN
-- Asian Stocks Set for Muted Open in Holiday Trade: Markets Wrap - Bloomberg.com
-- Stock futures are little changed, Wall Street heads for winning week: Live updates - CNBC
-- Why do airline computer systems fail? What the industry can learn from meltdowns - NPR
-- The RPS Selection Box: Ollie's bonus games of the year 2025 - Rock Paper Shotgun
-- Google is rolling out a new feature allowing users to change their Gmail address - CNBC
+- AI boom adds more than half a trillion dollars to wealth of US tech barons in 2025 - The Guardian
+- Asian shares are mixed, while gold and silver hit record highs - AP News
+- U.S. Stock Futures Hold Steady After Christmas Holiday - TipRanks
+- Ars Technica’s Top 20 video games of 2025 - Ars Technica
+- Xiaomi's 17 Ultra Leica Edition smartphone comes with a manual zoom ring - Engadget
