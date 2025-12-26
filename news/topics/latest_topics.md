@@ -1,34 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 10:51_
+_Updated: 2025-12-26 11:44_
 
 ## Top Stories
 
-- Åkte runt i bil och sköt fyrverkerier - Aftonbladet
-- Trump: Attackerat IS-terrorister i Nigeria - SVT Nyheter
+- Vädervarningar stoppar fullbokade tåg - DI
 - Jättesatsningen ska lyfta Tyskland ur dvalan - SvD
-- 26 december 06.58, Sammanfattning kväll och natt, Västra Götalands län - Polisen.se
-- Zelenskyj ska träffa Trump: ”Mycket kan beslutas före nyåret” - DI
-- Efter sökinsats i Oxelösund – två män avlidna - SN, Södermanlands Nyheter
-- Misstänkt mord i Boden - SVT Nyheter
+- Israel attackerar mål i Libanon - SVT Nyheter
+- Två döda efter våldsbrott i Boden - Västerbottens-Kuriren
+- Två män döda – hittades efter stor sökinsats - SN, Södermanlands Nyheter
+- 25 december 07.50, Sammanfattning natt, Värmlands län - Polisen.se
 - Kvinna död efter drunkningslarm i Karlskrona - SVT Nyheter
-- Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
-- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
-- Åklagare vill se fängelse i tio år för Yoon - Omni
-- Man och kvinna tagen på bar gärning - Aftonbladet
-- Person sköt fyrverkerier mot butik i Västerås - Expressen
-- Kim Jong-Un på besök i påstådd atomubåt-fabrik - Västerbottens-Kuriren
+- 26 december 06.58, Sammanfattning kväll och natt, Västra Götalands län - Polisen.se
+- Eckerölinjen ställer in avgångar efter stormvarning - UNT
+- 26 december 08.13, Sammanfattning natt, Västernorrlands län - Polisen.se
+- Zelenskyj ska träffa Trump - Hufvudstadsbladet
+- Trump: USA har utfört dödliga attacker i Nigeria - Dagens Nyheter
+- Åklagare vill fängsla expresident - Västerbottens-Kuriren
+- Unga inspireras av Charlie Kirk – går i kyrkan - Dagens Nyheter
 - Efter prischocken – nu väntar lägre matpriser - SvD
-- Exklusiva viner billigare – efter Trumps smocka - Expressen
 - Guld och silver fortsätter stiga - DI
-- Miljonsuccé för Fredrik Wikingsson – plockar ut jätteutdelning - Expressen
+- Exklusiva viner billigare – efter Trumps smocka - Expressen
+- Snusk och fusk på Åres krogar – musbajs, spindelnät och felmärkt kött - Expressen
 - iPhone 17 var en fullträff – men Apple måste fortsätta vässa basmodellen under 2026 - TechRadar
-- Google Pixel 8 får ett nytt panoramaläge - Teknikveckan
+- 50 spel att hålla koll på 2026 - FZ.se
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -40,11 +42,9 @@ _Updated: 2025-12-26 10:51_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
@@ -65,9 +65,9 @@ _Updated: 2025-12-26 10:51_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
@@ -100,7 +100,6 @@ _Updated: 2025-12-26 10:51_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
@@ -108,14 +107,15 @@ _Updated: 2025-12-26 10:51_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
 
