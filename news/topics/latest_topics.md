@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 21:39_
+_Updated: 2025-12-26 22:43_
 
 ## Top Stories
 
-- Mer trafik ställs in – kan blåsa 27 meter i sekunden - Omni
+- Ytterligare inställda tåg i norr – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
 - Ryskt missnöje med fredsplan – ”Gillar inte” - Hufvudstadsbladet
-- Här är de dyraste bostäderna 2025 - SvD
 - Begreppet folkmord fortsatt i fokus 2026 - SvD
+- Kvinna ihjälkörd vid sjukhus – bilförare åtalad - Aftonbladet
 - Kvinnan i Boden sörjs av kollegor i Försvarsmakten: ”En kär medarbetare” - Dagens Nyheter
-- Halt vid olycka på norra Öland – tre personer till sjukhus - SVT Nyheter
+- Ytterligare en person häktad efter dödsskjutningen i Oxie - SVT Nyheter
+- Polischefen: ”Om de kriminella ger sig ut i världen så måste även vi göra det” - Dagens Nyheter
 - Ansökningsfusket har ökat med över 350 procent - Sydsvenskan
 - MSB byter namn och fokus – förbereder för krig - Aftonbladet
-- Man död efter att ha klämts fast under husbil i Vännäsby - SVT Nyheter
-- Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
-- Erik Esbjörnsson: Trump vill stoppa terrorn i Nigeria men stärker själv islamisterna - Dagens Nyheter
+- Billigare tandvård för äldre 2026 - Skillingaryd
+- Trump: Attacker mot IS-terrorister i Nigeria - GP
+- Japans kejserliga dilemma: Reform eller undergång - GP
 - Kriget mot PKK är över men ledaren ännu inte frigiven - Dagens Nyheter
 - Sydkorea fasar ut adoptioner - Västerbottens-Kuriren
-- Israel planerar räd på Västbanken efter våldsdåd - GP
-- Efter prischocken – nu väntar lägre matpriser - SvD
+- Här är de dyraste bostäderna 2025 - SvD
+- Efter prischocken – nu väntar lägre matpriser - DI
 - Stärka immunförsvaret? "Ingen bra idé" - Dagens PS
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- City Gross-chefen anar vändning: ”Vi upplevs som mer prisvärda” - DI
 - De 15 mest efterlängtade spelen som släpps under 2026 - MovieZine.se
 - Årets spel 2025 – Nakadai - varvat.se
 
@@ -32,7 +32,6 @@ _Updated: 2025-12-26 21:39_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -42,11 +41,12 @@ _Updated: 2025-12-26 21:39_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -54,26 +54,27 @@ _Updated: 2025-12-26 21:39_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Deepmind ska göra robotar bra på fotboll - Omni
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
@@ -91,7 +92,6 @@ _Updated: 2025-12-26 21:39_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -102,19 +102,19 @@ _Updated: 2025-12-26 21:39_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -147,18 +147,18 @@ _Updated: 2025-12-26 21:39_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
