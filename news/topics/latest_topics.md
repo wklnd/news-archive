@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 18:47_
+_Updated: 2025-12-26 19:41_
 
 ## Top Stories
 
 - Polisen: ”Hyfsat klar bild" av våldsdådet i Boden - Aftonbladet
-- Hårda vindar med stormbyar i Fårösund och på Fårö - Region Gotland
-- Ytterligare en person häktad efter dödsskjutningen i Oxie - SVT Nyheter
+- Orange vädervarning för mycket hårda vindar - Söderhamns kommun
 - Begreppet folkmord fortsatt i fokus 2026 - SvD
 - Zelenskyj-Trump träffas på söndag - SVT Nyheter
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
+- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
 - Ansökningsfusket har ökat med över 350 procent - Sydsvenskan
 - MSB byter namn och fokus – förbereder för krig - Västerbottens-Kuriren
+- Man allvarligt skadad – klämdes fast under husbil - GP
 - 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
-- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- Israel planerar räd på Västbanken efter våldsdåd - SvD
+- Trump: Attacker mot IS-terrorister i Nigeria - GP
+- IDF förbereder räd på Västbanken efter våldsdåd - Dagens Nyheter
 - Kriget mot PKK är över men ledaren ännu inte frigiven - Dagens Nyheter
 - Myanmar-juntans nya strategi: Byter till civila kläder - Dagens Nyheter
-- Nya israeliska attacker mot Libanon - GP
+- Efter prischocken – nu väntar lägre matpriser - DI
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- Efter prischocken – nu väntar lägre matpriser - SvD
 - Restrender 2026: Därför reser vi smartare, kortare och mer selektivt - Realtid
 - Tre pengaprofiler: Så hade vi investerat 100 000 kronor just nu - Aftonbladet
 - 50 spel att hålla koll på 2026 - FZ.se
@@ -47,6 +47,29 @@ _Updated: 2025-12-26 18:47_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+
+## Technology
+
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Deepseek är det nya Linux - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
+- Alla pratar om AI – här är termerna du behöver kunna - DI
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- Cathie Wood on the first year of The Ark and Avanza Partnership - Avanzabloggen
+- PLAN-B NET ZERO Named “Company of the Future” at Europe’s Leading AI & Innovation Festival - Via TT
+- Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
+- Trailblazing Conference on AI and Child Sexual Abuse | World Childhood Foundation - Via TT
 
 ## Business
 
@@ -78,21 +101,21 @@ _Updated: 2025-12-26 18:47_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
