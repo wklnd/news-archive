@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-26 11:51_
+_Updated: 2025-12-26 12:52_
 
-- US launches 'powerful strikes' against Islamic State in Nigeria, says Trump - BBC
-- Heavy rains led to ‘nightmare before Christmas’ with flooding, mudslides as risks persist - Los Angeles Times
-- DOJ says it may need a 'few more weeks' to finish releasing Epstein files - NPR
+- U.S. strikes ISIS in Nigeria after Trump warnings on Christian killings - The Washington Post
+- Southern California sees third death from atmospheric river storm drenching region - The Guardian
 - Zelensky hails 'new ideas' on peace after talk with US envoys - BBC
-- Judge Blocks Detention of British Researcher Who Scrutinizes Online Hate - The New York Times
+- New Epstein files mention Trump. And, SCOTUS rules on National Guard in Chicago - NPR
+- Turkey detains dozens of ISIS suspects allegedly planning attacks on Christmas and New Year celebrations - PBS
 - The pope urges the faithful on Christmas to shed indifference in the face of suffering - NPR
 - Death Toll in UPS Plane Crash Rises to 15 - The New York Times
-- New York City Braces for Heavy Snow as Winter Storm Approaches - The New York Times
-- Trump rings in Christmas Day with a flurry of posts denouncing perceived foes and casting doubt on the 2020 election - NBC News
+- Trump Posts Nearly 150 Times in Unhinged Christmas Day Spree - The Daily Beast
+- Snow, ice to cause dangerous travel conditions in Philadelphia area Friday — timing and snow totals - CBS News
 - The Trump-class battleship faces a large obstacle in its way: reality. - CNBC
-- Saudi Arabia urges Yemen's separatists to leave 2 governorates as the anti-rebel coalition strains - AP News
-- North Korea displays apparent progress in construction of nuclear-powered submarine - NBC News
+- Zelenskiy says 'a lot' can be decided before New Year ahead of Trump meeting - Reuters
+- North Korea displays apparent progress in construction of nuclear-powered submarine - AP News
+- Japan proposes record budget spending while curbing fresh debt - Reuters
 - Australia announces bravery award for heroes of Bondi Beach terrorist attack - CBS News
-- Japan’s Cabinet OKs record defense budget that aims to deter China - AP News
 - $1.8 billion Powerball winner could remain anonymous for some time under Arkansas law - CNN
 - Silver Rises to Record, Gold Near All-Time High as Risks Persist - Bloomberg.com
-- Which states tax Social Security benefits? Check out our map and see what you may pay in 2026. - Business Insider
-- Investors Warn of ‘Rot in Private Equity’ as Funds Strike Circular Deals - The New York Times
+- Asia markets edge higher amid holiday-thinned trade; gold and silver hit fresh highs - CNBC
+- Amid a battery boom, graphite mining gets a fresh look in the US - AP News
 - Galaxy Z TriFold suffers horrific defeat in durability test; there’s just more to break - 9to5Google
-- Google is rolling out a new feature allowing users to change their Gmail address - CNBC
+- The RPS Selection Box: Ollie's bonus games of the year 2025 - Rock Paper Shotgun
