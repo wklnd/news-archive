@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-26 20:51_
+_Updated: 2025-12-26 21:39_
 
 ## Top Stories
 
-- Polisinsats pågår i Salem - SVT Nyheter
-- Orange vädervarning för mycket hårda vindar - Söderhamns kommun
+- Mer trafik ställs in – kan blåsa 27 meter i sekunden - Omni
+- Ryskt missnöje med fredsplan – ”Gillar inte” - Hufvudstadsbladet
+- Här är de dyraste bostäderna 2025 - SvD
 - Begreppet folkmord fortsatt i fokus 2026 - SvD
 - Kvinnan i Boden sörjs av kollegor i Försvarsmakten: ”En kär medarbetare” - Dagens Nyheter
-- Zelenskyj ska träffa Trump i Florida - GP
-- Tre kvinnor knivhuggna i Paris t-bana - Omni
+- Halt vid olycka på norra Öland – tre personer till sjukhus - SVT Nyheter
 - Ansökningsfusket har ökat med över 350 procent - Sydsvenskan
 - MSB byter namn och fokus – förbereder för krig - Aftonbladet
-- Just nu: Klämdes fast under husbil – kritiskt skadad - Västerbottens-Kuriren
+- Man död efter att ha klämts fast under husbil i Vännäsby - SVT Nyheter
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
 - Erik Esbjörnsson: Trump vill stoppa terrorn i Nigeria men stärker själv islamisterna - Dagens Nyheter
-- IDF förbereder räd på Västbanken efter våldsdåd - Dagens Nyheter
 - Kriget mot PKK är över men ledaren ännu inte frigiven - Dagens Nyheter
-- Myanmar-juntans nya strategi: Byter till civila kläder - Dagens Nyheter
-- Efter prischocken – nu väntar lägre matpriser - DI
+- Sydkorea fasar ut adoptioner - Västerbottens-Kuriren
+- Israel planerar räd på Västbanken efter våldsdåd - GP
+- Efter prischocken – nu väntar lägre matpriser - SvD
+- Stärka immunförsvaret? "Ingen bra idé" - Dagens PS
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- City Gross: ”Har inte uppfattats som prisvärda” - Omni
-- Tre pengaprofiler: Så hade vi investerat 100 000 kronor just nu - Aftonbladet
-- 50 spel att hålla koll på 2026 - FZ.se
+- City Gross-chefen anar vändning: ”Vi upplevs som mer prisvärda” - DI
+- De 15 mest efterlängtade spelen som släpps under 2026 - MovieZine.se
 - Årets spel 2025 – Nakadai - varvat.se
 
 ## World News
@@ -146,19 +146,19 @@ _Updated: 2025-12-26 20:51_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
