@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-27 17:48_
+_Updated: 2025-12-27 18:53_
 
-- Russia Pummels Kyiv Before Trump-Zelensky Meeting - The New York Times
-- Former ‘South Park’ writer owns Trump Kennedy Center domain names - New York Daily News
-- Governor declares state of emergency for 36 New York counties, including Central NY - Syracuse.com
+- Winter storm pummels New York, New Jersey, Connecticut with snow and ice - CBS News
+- Kennedy Center leader rebukes musician who canceled Christmas concert - The Washington Post
+- Ukrainian capital Kyiv under massive Russian attack, officials say - Reuters
 - Myanmar is set to hold phased elections. Here's why they're being called a 'sham' - NPR
-- Thailand and Cambodia sign new ceasefire agreement to end border fighting - AP News
-- Fear and confusion in Nigerian village hit in US strike, as locals say no history of ISIS in area - CNN
-- 3 people with minor injuries, suspected gunman dead after shooting at Idaho sheriff's office, authorities say - ABC News
-- Dad uses teen's cell phone data to rescue her after she is forced into truck at knifepoint, police say - CBS News
-- SoCal's wettest Christmas holiday ever, and the intensifying drought-to-deluge cycle behind it - Los Angeles Times
-- Snow, sleet, and rain move into Philly, threatening icy roads and a cleanup akin to ‘shoveling sand’ - Inquirer.com
+- Trump’s Second-Term Promises: What He’s Done So Far on Immigration, Trade, DEI and More - The New York Times
+- Thailand and Cambodia sign new ceasefire agreement to end border fighting - NPR
+- With airstrike in Nigeria, Trump inserts U.S. into long-running turmoil - The Washington Post
+- 3 injured after gunman opens fire on sheriff’s office in Idaho before being fatally shot in standoff, officials say - CNN
+- Boy with autism, 6, rescued from Florida pond 15 months after similar incident - CBS News
+- Zelensky plans to meet Trump on Sunday for talks on peace deal - BBC
 - African regional bodies reject Israel's recognition of Somaliland - CBS News
 - Gap year soldiers to be trained to fight in war zones - The Telegraph
-- Saudi-led coalition in Yemen warns UAE-backed separatists of immediate action - ABC News
-- 'Short Tests are bad for business' - CA CEO hints at intervening on pitches - ESPNcricinfo
+- Saudi-Led Group in Yemen Tells Separatists to Withdraw, or Be ‘Dealt With’ - The New York Times
+- Argentina: Congress passes first budget under Milei - DW
 - Mega Millions winning numbers for Dec. 26 drawing: $125M jackpot - USA Today
-- Silver prices continue soaring as debt fears and geopolitical tensions send precious metals to fresh record highs - Fortune
+- We combed the internet for the 25 best after-Christmas sales still available - The Guardian
 - More companies charging restocking fees this year than last as many make returns after Christmas 2025 | What to know - ABC7 Chicago
 - Powerball winner for $1.817 billion jackpot bought lucky ticket in Arkansas. Here are the numbers. - CBS News
 - 2025 EDGE awards, top 10 games of the year - Nintendo Everything
-- Google is at last letting users swap out embarrassing Gmail addresses without losing their data - Los Angeles Times
+- Philadelphia lacked bus-tracking signs. ‘Bus Stop Banksy’ stepped in. - The Washington Post
