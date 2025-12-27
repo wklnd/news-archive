@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-27 15:50_
+_Updated: 2025-12-27 16:49_
 
-- Russia Pummels Kyiv Before Trump-Zelensky Meeting - The New York Times
-- Winter storm pummels New York, New Jersey, Connecticut with snow and ice. See the forecast. - CBS News
-- With airstrike in Nigeria, Trump inserts U.S. into long-running turmoil - The Washington Post
-- Former ‘South Park’ writer owns Trump Kennedy Center domain names - New York Daily News
-- Thailand and Cambodia sign new ceasefire agreement to end border fighting - AP News
-- Zelensky plans to meet Trump on Sunday for talks on peace deal - BBC
+- Kennedy Center Chief Threatens Legal Action Over Canceled Christmas Concert - The New York Times
+- Governor Hochul Declares State of Emergency and Provides Update on State Response to Statewide Winter Storm - Governor Kathy Hochul (.gov)
+- Thailand and Cambodia sign a new ceasefire agreement to end border fighting - AP News
+- The U.S. sank the alleged narco-terrorists’ boat — and let them go - The Washington Post
+- Trump’s Second-Term Promises: What He’s Done So Far on Immigration, Trade, DEI and More - The New York Times
+- Fear and confusion in Nigerian village hit in US strike, as locals say no history of ISIS in area - CNN
 - 3 wounded in shooting at rural Idaho sheriff's office, officials say; suspect killed - CBS News
+- Exclusive: Zelensky "ready" to call referendum on Trump plan if ceasefire reached - Axios
 - SoCal's wettest Christmas holiday ever, and the intensifying drought-to-deluge cycle behind it - Los Angeles Times
-- Snow, sleet, and rain move into Philly, threatening icy roads and a cleanup akin to ‘shoveling sand’ - Inquirer.com
-- New Jersey declares State of Emergency due to winter storm - 6abc Philadelphia
+- Snow, sleet and ice will hit the Philly region Friday. Here’s what to know - WHYY
 - Myanmar goes to the polls amid civil war and humanitarian crisis - Reuters
 - Israel recognises Somaliland as independent state, Netanyahu says - BBC
-- Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens - Financial Times
-- Why did leaving 10mm of grass on the pitch cause Ashes chaos in Melbourne? - The Athletic - The New York Times
-- Oil Loses Ground On Russia-Ukraine Peace Efforts - The Wall Street Journal
-- Silver prices continue soaring as debt fears and geopolitical tensions send precious metals to fresh record highs - Fortune
-- Planning to return unwanted Christmas gifts? You may be charged fees. - CBS News
-- $1 million Powerball winner sold at Michigan grocery store - MLive.com
-- Kenneth Shepard’s Top 10 Games Of 2025 - Kotaku
-- CES 2026 could change TVs forever — here's what to expect - Tom's Guide
+- Gap year soldiers to be trained to fight in war zones - The Telegraph
+- Saudi-led coalition in Yemen warns UAE-backed separatists of immediate action - ABC News
+- More companies charging restocking fees this year than last as many make returns after Christmas 2025 | What to know - ABC7 Chicago
+- Powerball winner for $1.817 billion jackpot bought lucky ticket in Arkansas. Here are the numbers. - CBS News
+- China industrial profits plunge as weak demand and deflation bite - Financial Times
+- Silver and Gold Prices Rally; Stocks Hold Near Records - The Wall Street Journal
+- 2025 EDGE awards, top 10 games of the year - Nintendo Everything
+- Google is at last letting users swap out embarrassing Gmail addresses without losing their data - Los Angeles Times
