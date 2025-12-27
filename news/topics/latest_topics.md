@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 06:53_
+_Updated: 2025-12-27 07:45_
 
 ## Top Stories
 
-- Orangea vädervarningar under lördagen – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
-- Fixade gratis klappar och mat till 300 – ingen kom - Omni
+- Socialismen förblir ett hot mot friheten - SvD
 - Thailand och Kambodja i nya samtal om vapenvila - SVT Nyheter
-- Polisen: Inget som tyder på koppling till offren - GP
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
-- Zelenskyj öppnar för folkomröstning om fredsplan - GP
+- Person sköt fyrverkerier mot butik i Västerås - Expressen
+- 26 december 08.13, Sammanfattning natt, Västernorrlands län - Polisen.se
+- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
+- Dialekten som försvann – varför pratar inte barnen skånska? - Dagens Nyheter
+- Ansökningsfusket har ökat med över 350 procent - Sydsvenskan
 - Billigare tandvård för äldre 2026 - Skillingaryd
-- Tidslinje: Detta har hänt på Senior Material i Eskilstuna - Dagens Arbete
-- 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
-- Kraftiga explosioner i Kiev - Aftonbladet
+- LSS-verksamheten i Osby kommun prisar engagerade arbetsplatser - Osby kommun
+- DN Direkt – Poliseinsats i Salem - Dagens Nyheter
 - Unga inspireras av Charlie Kirk – går i kyrkan - Dagens Nyheter
-- Karoline Leavitt gravid – gör henne historisk - Expressen
-- Rysk general fick sparken av Putin – hittades död - Expressen
 - Gav flickvän en julpuss – höggs ihjäl av sonen - Expressen
+- Karoline Leavitt gravid – gör henne historisk - Expressen
 - Virala tricket på flyget sågas: ”Livsfarligt” - Expressen
-- Efter prischocken – nu väntar lägre matpriser - SvD
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- Mystisk farkost i vattnet – stor insats - Marcus Oscarsson
+- Så tjänar Nordea 1,6 Mkr på en ointresserad sparare - Affärsvärlden
+- Här är de dyraste bostäderna 2025 - SvD
 - Ny upptäckt: I ett av universums allra tommaste områden har forskare stött på ett mysterium - Illustrerad Vetenskap
 - Wheeler Dealers Porsche-fynd – med farligt fel - Carup.se
 
@@ -102,20 +102,20 @@ _Updated: 2025-12-27 06:53_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-27 06:53_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
-- Tält.jpg - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
+- Lediga jobb - Land Lantbruk
