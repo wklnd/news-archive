@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 19:41_
+_Updated: 2025-12-27 20:50_
 
 ## Top Stories
 
-- Stormen Johannes drar in över Sverige – se SMHI:s varningar - SVT Nyheter
-- Sundsvallsbron är avstängd - Omni
-- Razzia i Ukrainas parlament stoppad - Expressen
-- ”20 dagar i fängelse – tror han är Mandela” - SvD
+- Därför heter stormen Johannes – och de drabbas värst - GP
+- Stor sökinsats efter försvunnen kvinna - Aftonbladet
+- Stormen påverkar trafiken på Högakustenbron - Tidningen Ångermanland
+- ”Svik inte dem med svag begåvning” - SvD
+- Razzia i Ukrainas parlament stoppad - GP
 - 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
-- Polisinsatsen i Rönninge har fortsatt under natten - Expressen
+- Man avliden i Sandviken - fick träd över sig - GP
 - Deras jobb: Stoppa flod av övergreppsbilder på barn - Västerbottens-Kuriren
 - 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- 27 december 10.00, Trafikkontroll, Västerbottens län - Polisen.se
-- Skadeläget stabilt för brottsoffer i Boden - Västerbottens-Kuriren
+- Tågförseningar mellan Stockholm och Göteborg - Omni
+- Min perfekta krogdag i Köpenhamn: Kaitlin och Anders Husa - Sydsvenskan
 - Två flygplan blåste av landningsbana - Västerbottens-Kuriren
-- Hundratusentals utan el efter anfall mot Kiev - Hufvudstadsbladet
-- Över 130 migranter räddade utanför Kreta - Sydsvenskan
 - Kvinna gripen misstänkt för grov misshandel i Örebro - Expressen
+- Över 130 migranter räddade utanför Kreta - Sydsvenskan
+- Experten om rusande guldpriset: ”Världen mår inte bra” - DI
 - Nvidias nya affär tros vara största någonsin - SvD
+- Ryskt förbud mot bensinexport förlängs - Västerbottens-Kuriren
 - Parkeringsbolag misstänks för falska böter – polisen utreder närmare 200 fall - Dagens Nyheter
-- Fullt hus när Jägareförbundet bjöd in till viltmiddag - Svensk Jakt
-- AI överraskar ingen – väljer Nvidia som aktie för 2026 - Omni
+- Det borde inte vara möjligt: Enorm struktur ligger dold djupt under isen på Antarktis - Illustrerad Vetenskap
 - Årets spel 2025 – P-O - varvat.se
-- Manusförfattarinnan till Xenogears och Xenosaga har gått i pension - FZ.se
 
 ## World News
 
@@ -54,45 +54,45 @@ _Updated: 2025-12-27 19:41_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -123,20 +123,20 @@ _Updated: 2025-12-27 19:41_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
@@ -159,6 +159,6 @@ _Updated: 2025-12-27 19:41_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
