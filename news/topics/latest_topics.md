@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 22:43_
+_Updated: 2025-12-27 23:39_
 
 ## Top Stories
 
 - Därför heter stormen Johannes – och de drabbas värst - GP
-- 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
+- Rönningebor rädda: ”Håller min dotter inomhus” - Omni
+- Trumps plan haltar – få vill delta i styrka - SvD
 - Man omkommen – fick nedblåst träd över sig utanför Sandviken - SVT Nyheter
-- Stor sökinsats efter försvunnen kvinna - Aftonbladet
-- Stora problem i trafiken – polisen: ”Ta varningarna på allvar” - Hudiksvalls Tidning
-- Misstänkte mördarens mamma: Han var en fara för sig själv och andra - Omni
-- Tågförseningar mellan Stockholm och Göteborg - Omni
+- 27 december 11.46, Trafikhinder, Gävleborgs län - polisen.se
+- Razzia i Ukrainas parlament – hindrades först - Aftonbladet
+- Tågstopp mellan Göteborg och Stockholm - SVT Nyheter
 - Deras jobb: Stoppa flod av övergreppsbilder på barn - Västerbottens-Kuriren
-- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
+- 26 december 13.02, Trafikkontroll, Norrbottens län - polisen.se
 - Tak på Hotell Södra berget i Sundsvall har blåst bort: ”Blåser orkanstyrka här” - SVT Nyheter
 - 15 döda i bussolycka i Guatemala - Sydsvenskan
-- Hundratusentals utan el efter anfall mot Kiev - Västerbottens-Kuriren
 - Inställda flyg och snötäckt New York efter stormen - Aftonbladet
+- En miljon hushåll utan el efter anfall mot Kiev - GP
 - Israel erkänner Somaliland som suverän stat - SVT Nyheter
 - Ryskt förbud mot bensinexport förlängs - Sydsvenskan
 - Whiskyjätten pausar sin produktion hela 2026 - SvD
 - Experten om rusande guldpriset: ”Världen mår inte bra” - DI
 - Nvidias nya affär tros vara största någonsin - SvD
 - Det borde inte vara möjligt: Enorm struktur ligger dold djupt under isen på Antarktis - Illustrerad Vetenskap
-- Årets spel 2025 – P-O - varvat.se
+- Manusförfattarinnan till Xenogears och Xenosaga har gått i pension - FZ.se
 
 ## World News
 
@@ -102,15 +102,15 @@ _Updated: 2025-12-27 22:43_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
