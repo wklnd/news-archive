@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 18:47_
+_Updated: 2025-12-27 19:41_
 
 ## Top Stories
 
 - Stormen Johannes drar in över Sverige – se SMHI:s varningar - SVT Nyheter
-- Man omkommen – fick nedblåst träd över sig utanför Sandviken - SVT Nyheter
+- Sundsvallsbron är avstängd - Omni
+- Razzia i Ukrainas parlament stoppad - Expressen
 - ”20 dagar i fängelse – tror han är Mandela” - SvD
-- Två flygplan blåste av landningsbana i Finland - Aftonbladet
-- 27 december 07.12, Sammanfattning natt, Västernorrlands län - Polisen.se
-- Chocksamtalet precis före sändningen i SVT - Expressen
-- Tak på Hotell Södra berget i Sundsvall har blåst bort: ”Blåser orkanstyrka här” - SVT Nyheter
-- 27 december 10.00, Trafikkontroll, Västerbottens län - Polisen.se
+- 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
+- Polisinsatsen i Rönninge har fortsatt under natten - Expressen
+- Deras jobb: Stoppa flod av övergreppsbilder på barn - Västerbottens-Kuriren
 - 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- 27 december 06.24, Stöld/inbrott, Gävleborgs län - Polisen.se
-- Kiev under attack inför mötet mellan Trump och Zelenskyj - Dagens Nyheter
-- Kinesiska singelmän i desperat jakt på en fru - Västerbottens-Kuriren
-- Iran lättar på klädregler – och avrättar rekordmånga - Omni
-- Ryssland bedriver krig om historien - SvD
+- 27 december 10.00, Trafikkontroll, Västerbottens län - Polisen.se
+- Skadeläget stabilt för brottsoffer i Boden - Västerbottens-Kuriren
+- Två flygplan blåste av landningsbana - Västerbottens-Kuriren
+- Hundratusentals utan el efter anfall mot Kiev - Hufvudstadsbladet
+- Över 130 migranter räddade utanför Kreta - Sydsvenskan
+- Kvinna gripen misstänkt för grov misshandel i Örebro - Expressen
 - Nvidias nya affär tros vara största någonsin - SvD
-- Farväl Chromecast – här är de bästa alternativen just nu - Dagens PS
-- 60 000 telefoner måste bytas – problem att nå 112 - Världen idag
+- Parkeringsbolag misstänks för falska böter – polisen utreder närmare 200 fall - Dagens Nyheter
 - Fullt hus när Jägareförbundet bjöd in till viltmiddag - Svensk Jakt
-- Nintendo berättar om den svåra utvecklingen av Metroid Prime 4 - FZ.se
-- Forskarna: Då blir dygnet 25 timmar långt - Dagens PS
+- AI överraskar ingen – väljer Nvidia som aktie för 2026 - Omni
+- Årets spel 2025 – P-O - varvat.se
+- Manusförfattarinnan till Xenogears och Xenosaga har gått i pension - FZ.se
 
 ## World News
 
@@ -102,15 +102,15 @@ _Updated: 2025-12-27 18:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
@@ -123,21 +123,21 @@ _Updated: 2025-12-27 18:47_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
