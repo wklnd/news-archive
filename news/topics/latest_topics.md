@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 12:44_
+_Updated: 2025-12-27 13:38_
 
 ## Top Stories
 
 - Stormen Johannes drar in över Sverige – se SMHI:s varningar - SVT Nyheter
-- Polisinsatsen i Rönninge har fortsatt under natten - Expressen
+- Stor sökinsats efter försvunnen kvinna - Aftonbladet
+- Marie Lehmanns sorg: ”Det kom så oerhört oväntat” - Expressen
+- Kvinna död i trafikolycka - Expressen
 - Advokatsamfundet tar strid mot alla i politiken – utom Vänsterpartiet - Dagens Nyheter
-- Källor: Trump, von der Leyen och Zelenskyj i samtal - Västerbottens-Kuriren
+- 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
+- Mätning: Nästan hälften av svenskarna för burkaförbud - Omni
 - 27 december 07.12, Sammanfattning natt, Västernorrlands län - Polisen.se
-- Hundratusentals utan el efter anfall mot Kiev - GP
-- Nära hälften vill se förbud mot burka och niqab - GP
-- Träd faller: ”Har satt in alla resurser vi har” - Omni
 - Kannibalen i Malmö – så avslöjades styckmordet - Sydsvenskan
-- Dialekten som försvann – varför pratar inte barnen skånska? - Dagens Nyheter
+- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
+- Flera medier: Trump, von der Leyen och Zelenskyj i samtal - Hufvudstadsbladet
+- Hundratusentals utan el efter anfall mot Kiev - GP
 - Avtal om vapenvila klart mellan Thailand och Kambodja - SVT Nyheter
-- Trump: Attackerat IS-terrorister i Nigeria - GP
-- 2025 – ett år med sorgkant i dyrtid och krigstid - Aktuellt i Politiken
-- Misstänkt fyrverkeristöld – inbrott i container - UNT
+- Erik Esbjörnsson: Trump vill stoppa terrorn i Nigeria men stärker själv islamisterna - Dagens Nyheter
 - Biltest: Fiat 500e – den perfekta reservbilen - Dagens Nyheter
+- Lönerna stiger – här väntas störst löneökningar 2026 - Dagens PS
 - Fem sätt AI förändrade vården i Europa 2025 - Dagens PS
 - Strategens dom inför 2026: ”Sverige börjar bli irrelevant” - Omni Ekonomi
-- Centerpartiet: Prissmocka vid nyår – stoppa höjda avgifterna - Aftonbladet
 - Billigare surf på semestern med esim – så mycket kostar det - PC för Alla
 - Forskarna: Då blir dygnet 25 timmar långt - Dagens PS
 
@@ -33,6 +33,7 @@ _Updated: 2025-12-27 12:44_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -43,37 +44,37 @@ _Updated: 2025-12-27 12:44_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
@@ -81,18 +82,17 @@ _Updated: 2025-12-27 12:44_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -112,10 +112,10 @@ _Updated: 2025-12-27 12:44_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
