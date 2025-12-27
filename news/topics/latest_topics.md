@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 23:39_
+_Updated: 2025-12-28 00:43_
 
 ## Top Stories
 
-- Därför heter stormen Johannes – och de drabbas värst - GP
+- Stormen Johannes drar in – tusentals strömlösa - Dagens Nyheter
 - Rönningebor rädda: ”Håller min dotter inomhus” - Omni
+- VMA utfärdat i flera län – två döda i trädolyckor - SvD
 - Trumps plan haltar – få vill delta i styrka - SvD
-- Man omkommen – fick nedblåst träd över sig utanför Sandviken - SVT Nyheter
 - 27 december 11.46, Trafikhinder, Gävleborgs län - polisen.se
-- Razzia i Ukrainas parlament – hindrades först - Aftonbladet
+- Mamman till misstänkt för Boden-dådet: ”Behövde hjälp” - SVT Nyheter
 - Tågstopp mellan Göteborg och Stockholm - SVT Nyheter
 - Deras jobb: Stoppa flod av övergreppsbilder på barn - Västerbottens-Kuriren
 - 26 december 13.02, Trafikkontroll, Norrbottens län - polisen.se
 - Tak på Hotell Södra berget i Sundsvall har blåst bort: ”Blåser orkanstyrka här” - SVT Nyheter
 - 15 döda i bussolycka i Guatemala - Sydsvenskan
-- Inställda flyg och snötäckt New York efter stormen - Aftonbladet
-- En miljon hushåll utan el efter anfall mot Kiev - GP
-- Israel erkänner Somaliland som suverän stat - SVT Nyheter
+- DN Direkt – Bil körde in i balkong - Dagens Nyheter
+- ”Barnbarn” till enormt fettberg hittat i Londons kloaker - Dagens Nyheter
+- Snöstorm drog över New York – tusentals flyg inställda - Hufvudstadsbladet
 - Ryskt förbud mot bensinexport förlängs - Sydsvenskan
 - Whiskyjätten pausar sin produktion hela 2026 - SvD
 - Experten om rusande guldpriset: ”Världen mår inte bra” - DI
-- Nvidias nya affär tros vara största någonsin - SvD
+- Parkeringsbolag misstänks för falska böter – polisen utreder närmare 200 fall - Dagens Nyheter
 - Det borde inte vara möjligt: Enorm struktur ligger dold djupt under isen på Antarktis - Illustrerad Vetenskap
 - Manusförfattarinnan till Xenogears och Xenosaga har gått i pension - FZ.se
 
@@ -34,7 +34,6 @@ _Updated: 2025-12-27 23:39_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
@@ -44,8 +43,9 @@ _Updated: 2025-12-27 23:39_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
@@ -56,8 +56,8 @@ _Updated: 2025-12-27 23:39_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
@@ -65,17 +65,19 @@ _Updated: 2025-12-27 23:39_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -83,16 +85,14 @@ _Updated: 2025-12-27 23:39_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -133,12 +133,12 @@ _Updated: 2025-12-27 23:39_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -153,7 +153,7 @@ _Updated: 2025-12-27 23:39_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
