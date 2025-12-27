@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 04:25_
+_Updated: 2025-12-27 05:44_
 
 ## Top Stories
 
-- Ställs in inför stormen - Västerbottens-Kuriren
-- Kvinnan i Boden sörjs av kollegor i Försvarsmakten: ”En kär medarbetare” - Dagens Nyheter
 - Julfirandet dit ingen kom – fixade mat för 300 personer - GP
+- Över 1 400 flyg ställs in i New York – undantagstillstånd - Expressen
 - Kraftiga explosioner i Kiev - Aftonbladet
-- Stor polisinsats i Salem – locket på från polisen - Omni
-- Trettiotal omhändertagna under juldagskvällen i Uppsala - SVT Nyheter
-- 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
+- Undantagstillstånd utlyst i New York - SVT Nyheter
+- Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
+- Tidslinje: Detta har hänt på Senior Material i Eskilstuna - Dagens Arbete
 - 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
 - Jag är trött på att vara i en destruktiv relation med Romina - Dagens Arena
-- Zelenskyj öppnar för folkomröstning om fredsplan - GP
-- Erik Esbjörnsson: Trump vill stoppa terrorn i Nigeria men stärker själv islamisterna - Dagens Nyheter
+- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
+- Halt vid olycka på norra Öland – tre personer till sjukhus - SVT Nyheter
 - Karoline Leavitt gravid – gör henne historisk - Expressen
-- Snöstorm i USA – undantagstillstånd utfärdat - Västerbottens-Kuriren
+- Gav flickvän en julpuss – höggs ihjäl av sonen - Expressen
+- Israelisk räd på Västbanken efter våldsdåd - Västerbottens-Kuriren
+- DN Direkt – Fyra hittade döda i lavin i Grekland - Dagens Nyheter
+- Virala tricket på flyget sågas: ”Livsfarligt” - Expressen
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- Efter prischocken – nu väntar lägre matpriser - SvD
 - Här är de dyraste bostäderna 2025 - SvD
-- Googles julklapp: Kan låta Gmail-användare byta adress - Omni
-- De 15 mest efterlängtade spelen som släpps under 2026 - MovieZine.se
+- Musks förmögenhet växte med 49 procent - SvD
 - Wheeler Dealers Porsche-fynd – med farligt fel - Carup.se
+- 50 spel att hålla koll på 2026 - FZ.se
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -45,29 +44,30 @@ _Updated: 2025-12-27 04:25_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 - Oslo Tech Show Announces Three Headline Speakers Set to Redefine the Future of Technology - Mynewsdesk
 
@@ -129,16 +129,16 @@ _Updated: 2025-12-27 04:25_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
