@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 13:38_
+_Updated: 2025-12-27 15:06_
 
 ## Top Stories
 
 - Stormen Johannes drar in över Sverige – se SMHI:s varningar - SVT Nyheter
-- Stor sökinsats efter försvunnen kvinna - Aftonbladet
-- Marie Lehmanns sorg: ”Det kom så oerhört oväntat” - Expressen
-- Kvinna död i trafikolycka - Expressen
+- 27 december 11.46, Trafikhinder, Gävleborgs län - polisen.se
+- Kinesiska singelmän i desperat jakt på en fru - SvD
+- Thailand och Kambodja i nya samtal om vapenvila - SVT Nyheter
 - Advokatsamfundet tar strid mot alla i politiken – utom Vänsterpartiet - Dagens Nyheter
-- 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
-- Mätning: Nästan hälften av svenskarna för burkaförbud - Omni
-- 27 december 07.12, Sammanfattning natt, Västernorrlands län - Polisen.se
-- Kannibalen i Malmö – så avslöjades styckmordet - Sydsvenskan
-- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- Flera medier: Trump, von der Leyen och Zelenskyj i samtal - Hufvudstadsbladet
-- Hundratusentals utan el efter anfall mot Kiev - GP
-- Avtal om vapenvila klart mellan Thailand och Kambodja - SVT Nyheter
-- Erik Esbjörnsson: Trump vill stoppa terrorn i Nigeria men stärker själv islamisterna - Dagens Nyheter
+- Sundsvallsbron är avstängd - Omni
+- Ung kvinna försvunnen i Salem – stor insats - SvD
+- Nära hälften vill se förbud mot burka och niqab - Aftonbladet
+- 27 december 07.12, Sammanfattning natt, Västernorrlands län - polisen.se
+- 26 december 13.02, Trafikkontroll, Norrbottens län - polisen.se
+- Hundratusentals utan el efter anfall mot Kiev - Hufvudstadsbladet
+- Zelenskyj pratar med européer – inför Trumpträff - GP
+- 2025 – ett år med sorgkant i dyrtid och krigstid - Aktuellt i Politiken
+- Razzia i Ukrainas parlament stoppad - Aftonbladet
 - Biltest: Fiat 500e – den perfekta reservbilen - Dagens Nyheter
 - Lönerna stiger – här väntas störst löneökningar 2026 - Dagens PS
-- Fem sätt AI förändrade vården i Europa 2025 - Dagens PS
-- Strategens dom inför 2026: ”Sverige börjar bli irrelevant” - Omni Ekonomi
-- Billigare surf på semestern med esim – så mycket kostar det - PC för Alla
+- Fullt hus när Jägareförbundet bjöd in till viltmiddag - Svensk Jakt
+- Centerpartiet: Prissmocka vid nyår – stoppa höjda avgifterna - Aftonbladet
+- Årets spel 2025 – P-O - varvat.se
 - Forskarna: Då blir dygnet 25 timmar långt - Dagens PS
 
 ## World News
@@ -33,7 +33,6 @@ _Updated: 2025-12-27 13:38_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -44,9 +43,10 @@ _Updated: 2025-12-27 13:38_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -55,21 +55,21 @@ _Updated: 2025-12-27 13:38_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
 
 ## Business
 
@@ -89,10 +89,10 @@ _Updated: 2025-12-27 13:38_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -130,35 +130,35 @@ _Updated: 2025-12-27 13:38_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
+- Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
