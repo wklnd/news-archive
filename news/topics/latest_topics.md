@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-27 05:44_
+_Updated: 2025-12-27 06:53_
 
 ## Top Stories
 
-- Julfirandet dit ingen kom – fixade mat för 300 personer - GP
-- Över 1 400 flyg ställs in i New York – undantagstillstånd - Expressen
-- Kraftiga explosioner i Kiev - Aftonbladet
-- Undantagstillstånd utlyst i New York - SVT Nyheter
+- Orangea vädervarningar under lördagen – Trafik och väder i jul 2025 – följ senaste nytt - SVT Nyheter
+- Fixade gratis klappar och mat till 300 – ingen kom - Omni
+- Thailand och Kambodja i nya samtal om vapenvila - SVT Nyheter
+- Polisen: Inget som tyder på koppling till offren - GP
 - Så var juldagsnatten: "Mycket fylla och en hel del misshandel" - UNT
+- Zelenskyj öppnar för folkomröstning om fredsplan - GP
+- Billigare tandvård för äldre 2026 - Skillingaryd
 - Tidslinje: Detta har hänt på Senior Material i Eskilstuna - Dagens Arbete
-- 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
-- Jag är trött på att vara i en destruktiv relation med Romina - Dagens Arena
-- I NATT: Stökigt för polisen i Värmland – mycket våld och berusning - NWT
-- Halt vid olycka på norra Öland – tre personer till sjukhus - SVT Nyheter
+- 25 december 07.50, Sammanfattning natt, Örebro län - Polisen.se
+- Kraftiga explosioner i Kiev - Aftonbladet
+- Unga inspireras av Charlie Kirk – går i kyrkan - Dagens Nyheter
 - Karoline Leavitt gravid – gör henne historisk - Expressen
+- Rysk general fick sparken av Putin – hittades död - Expressen
 - Gav flickvän en julpuss – höggs ihjäl av sonen - Expressen
-- Israelisk räd på Västbanken efter våldsdåd - Västerbottens-Kuriren
-- DN Direkt – Fyra hittade döda i lavin i Grekland - Dagens Nyheter
 - Virala tricket på flyget sågas: ”Livsfarligt” - Expressen
+- Efter prischocken – nu väntar lägre matpriser - SvD
 - Matkris i Ryssland – chockhöjda priser - Expressen
-- Här är de dyraste bostäderna 2025 - SvD
-- Musks förmögenhet växte med 49 procent - SvD
+- Mystisk farkost i vattnet – stor insats - Marcus Oscarsson
+- Ny upptäckt: I ett av universums allra tommaste områden har forskare stött på ett mysterium - Illustrerad Vetenskap
 - Wheeler Dealers Porsche-fynd – med farligt fel - Carup.se
-- 50 spel att hålla koll på 2026 - FZ.se
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -74,7 +74,6 @@ _Updated: 2025-12-27 05:44_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
@@ -93,6 +92,7 @@ _Updated: 2025-12-27 05:44_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -129,16 +129,16 @@ _Updated: 2025-12-27 05:44_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-12-27 05:44_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
+- Tält.jpg - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
