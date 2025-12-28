@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-28 20:55_
+_Updated: 2025-12-28 21:48_
 
-- Zelenskiy to meet Trump in Florida for talks on Ukraine peace plan - Reuters
-- Funeral Services Planned for President Jeffrey R. Holland - newsroom.churchofjesuschrist.org
-- Brigitte Bardot, French femme fatale and cultural phenomenon, dies at 91 - The Washington Post
 - Russia attacks Kyiv, killing 1 and wounding many ahead of Ukraine-U.S. talks - NPR
-- Major weather changes coming to Denver after Saturday - CBS News
-- Spadaro: A six-pack of storylines to follow at Bills - Philadelphia Eagles
-- Texas father rescues kidnapped 15-year-old daughter after tracking her phone’s location - The Guardian
-- How much snow from winter storm 12/26/25: Snowfall totals from NYC, NY, NJ and CT - ABC7 New York
+- Funeral Services Planned for President Jeffrey R. Holland - newsroom.churchofjesuschrist.org
+- Memory loss: As AI gobbles up chips, prices for devices may rise - NPR
 - New winter storm heads for Midwest, Northeast with 40 million people on alert - ABC News
-- Iran in ‘all-out war’ with US, Europe and Israel, says president - Financial Times
-- Thai and Cambodian top diplomats meet in China to solidify ceasefire - ABC News
-- For Ukrainians, a nuclear missile museum is a bitter reminder of what the country gave up - NPR
+- What Georgia Tech coach Brent Key said after losing to BYU in the Pop-Tarts Bowl - Deseret News
+- Spadaro: A six-pack of storylines to follow at Bills - Philadelphia Eagles
+- Holiday traffic hell as Interstate 5 shut down for hours in Castaic - SFGATE
+- Nancy Pelosi predicts Dems win House gavel back in ‘26, reflects on career and Jan. 6 attack - ABC News
+- Southern California cleans up after the wettest recent Christmas season - The Guardian
+- Major weather changes coming to Denver after Saturday - CBS News
 - Myanmar holds first election since military seized power but critics say the vote is a sham - AP News
-- Netanyahu’s ties with Trump to be tested amid differences ahead of visit - The Washington Post
-- New York subway ends its MetroCard era and switches fully to tap-and-go fares - ABC News
-- Restaurants' hottest menu item in 2025 was 'value.' That won't change next year - CNBC
-- 3 veterans of 'The Big Short' all say they're making this big macro bet for 2026 - Business Insider
-- Getting hired in 2026 is all about your ‘microcredentials’ says CEO of $1.3 billion learning platform—this is what he tells Gen Z to focus on - Fortune
-- Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack - The Verge
-- 2025 EDGE awards, top 10 games of the year - Nintendo Everything
+- A weekend of harsh winter weather brings more death and despair to people in Gaza - CNN
+- For Ukrainians, a nuclear missile museum is a bitter reminder of what the country gave up - NPR
+- Guineans vote in first election since 2021 coup with junta leader likely to win - AP News
+- Britain Pushed Ahead With Green Power. Its Grid Can’t Handle It. - The Wall Street Journal
+- It's Not Just a COLA: 4 Big Social Security Changes Happening in 2026 - The Motley Fool
+- Will a Santa Claus Rally Set Up a Strong 2026? Here's My Take on the Year-End Window. - The Motley Fool
+- The 6 biggest chain-restaurant food trends of 2025 — and 3 that won't survive 2026 - Business Insider
+- Sunday Preview – A putrescent crop begins to bloom - Warhammer Community
+- Disneyland's current novelty is a $250 drink served from a cart - SFGATE
