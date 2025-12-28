@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-28 04:41_
+_Updated: 2025-12-28 06:31_
 
 ## Top Stories
 
-- Stormen Johannes drar in över Sverige – SMHI varnar - SVT Nyheter
+- Därför heter stormen Johannes – och de drabbas värst - GP
 - Polisen söker efter försvunna kvinnan nära sjö - Dagens Nyheter
-- VMA utfärdat i flera län – två döda i trädolyckor - SvD
 - Nathan Shachar: En hastig blick på kartan säger allt om Israels motiv - Dagens Nyheter
-- Kristersson efter Zelenskyj-mötet: ”Viktig dag i morgon” - SVT Nyheter
-- Orange vädervarning om mycket hård vind 27 december - Östersund.se
+- VMA utfärdat i flera län – två döda i trädolyckor - SvD
+- Liga hanterade 650 kilo knark – fem dömda - Västerbottens-Kuriren
+- Trumps plan haltar – få vill delta i styrka - SvD
+- 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
+- Mamman till misstänkt för Boden-dådet: ”Behövde hjälp” - SVT Nyheter
 - 26 december 13.02, Trafikkontroll, Norrbottens län - Polisen.se
 - Förseningar i tågtrafiken efter olycka - Västerbottens-Kuriren
-- Tak på Hotell Södra berget i Sundsvall har blåst bort: ”Blåser orkanstyrka här” - SVT Nyheter
-- Skadeläget stabilt för brottsoffer i Boden - Västerbottens-Kuriren
-- DN Direkt – Minst 15 döda i bussolycka i Guatemala - Dagens Nyheter
-- Snöstorm drog över New York – tusentals flyg inställda - Hufvudstadsbladet
+- 15 döda i bussolycka i Guatemala - Sydsvenskan
 - ”Barnbarn” till enormt fettberg hittat i Londons kloaker - Dagens Nyheter
+- Iran: ”Vi är i krig med USA, Israel och Europa” - SVT Nyheter
 - Hundratusentals utan el efter anfall mot Kiev - Hufvudstadsbladet
-- Ryskt förbud mot bensinexport förlängs - Sydsvenskan
 - 80 000 utan el i Finland – plan blåste av banan - GP
 - Problem med mobilnätet i Jämtland - Aftonbladet
+- Därför har du bananflugor hemma – trots att det är december - GP
 - Parkeringsbolag misstänks för falska böter – polisen utreder närmare 200 fall - Dagens Nyheter
-- Det borde inte vara möjligt: Enorm struktur ligger dold djupt under isen på Antarktis - Illustrerad Vetenskap
 - Iskallt spel om samarbete är gratis – i bara ett dygn - MovieZine.se
+- Det borde inte vara möjligt: Enorm struktur ligger dold djupt under isen på Antarktis - Illustrerad Vetenskap
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,13 +40,13 @@ _Updated: 2025-12-28 04:41_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -55,17 +55,17 @@ _Updated: 2025-12-28 04:41_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Nexer tar plats när Sveriges främsta AI-experter samlas för att stärka Europa. - Mynewsdesk
@@ -123,8 +123,8 @@ _Updated: 2025-12-28 04:41_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -132,33 +132,33 @@ _Updated: 2025-12-28 04:41_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
