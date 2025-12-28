@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-28 13:39_
+_Updated: 2025-12-28 15:07_
 
 ## Top Stories
 
-- Polisen: Försvunna kvinnan i Salem är död - SvD
+- 25-åriga kvinnan i Rönninge hittad död - Dagens Nyheter
 - Två arbetare avled under röjning i stormen - Arbetet
-- Misstänkte gärningsmannens mamma: ”Behövde hjälp” - SVT Nyheter
 - 28 december 07.10, Sammanfattning natt, Värmlands län - Polisen.se
-- Ung kvinna försvunnen i Örebro - Expressen
+- Zelenskyj om Trumpmötet: Säkerhetsgaranti behövs - SVT Nyheter
+- Filmikonen Brigitte Bardot död – blev 91 år - SvD
+- Djurparken bommade igen: "Träd som blåst ner" - Expressen
+- Fortsatt strömlöst för många i Dalarna efter stormen Johannes - SVT Nyheter
+- Ung man död efter trafikolycka i Österåker - SVT Nyheter
 - 28 december 07.41, Sammanfattning natt, Jönköpings län - Polisen.se
-- Tusentals utan ström i Västernorrland efter stormen Johannes - SVT Nyheter
-- 28 december 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
-- Misstänkta skotthål på flerfamiljshus i Malmö - Aftonbladet
-- Hesa Fredrik ljöd i Gävle: ”Inget misstag” - Omni
-- Zelenskyj om Trumpmötet: Säkerhetsgaranti behövs - Västerbottens-Kuriren
+- 27 december 07.44, Sammanfattning natt, Östergötlands län - Polisen.se
 - När näste Dalai lama ska väljas kan de bli två - Dagens Nyheter
-- De rapporterar om Ryssland – med livet som insats - Sydsvenskan
 - Myanmar går till val – första på fem år - SVT Nyheter
+- Iran: ”Vi är i krig med USA, Israel och Europa” - Västerbottens-Kuriren
+- DN Direkt – Tre döda när hus kollapsade i Sydafrika - Dagens Nyheter
 - Experter: Så mycket lyfter bopriserna 2026 - SvD
+- Nytt vapenavtal stärker banden mellan Storbritannien och Tyskland - Börskollen
 - Nya Globaleye: ”Behöver kunna se 650 kilometer” - SvD
-- Ryskt förbud mot bensinexport förlängs - Sydsvenskan
-- Storbritannien och Tyskland sluter vapenavtal - DI
+- Ryssland förlänger förbudet – får inte exportera - Expressen
+- CES 2026: LG visar upp UltraGear evo med tre extrema gaming-skärmar - Teknikveckan
 - Utforskaren lägger beslag på minnet – Microsoft filar på en lösning - PC för Alla
-- Mobil listar: De här mobiltillverkarna får det tufft 2026 - mobil.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -41,6 +40,7 @@ _Updated: 2025-12-28 13:39_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -52,24 +52,24 @@ _Updated: 2025-12-28 13:39_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -153,12 +153,12 @@ _Updated: 2025-12-28 13:39_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
