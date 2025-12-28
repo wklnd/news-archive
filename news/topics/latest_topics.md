@@ -1,36 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-28 15:46_
+_Updated: 2025-12-28 16:43_
 
 ## Top Stories
 
-- 25-åriga kvinnan i Rönninge hittad död - Dagens Nyheter
-- Därför heter stormen Johannes – och de drabbas värst - GP
-- 28 december 07.10, Sammanfattning natt, Värmlands län - Polisen.se
-- Man i 20-årsåldern död efter olycka i Smedby i Österåker - Expressen
-- Zelenskyj om Trumpmötet: Säkerhetsgaranti behövs - SVT Nyheter
+- Den försvunna kvinnan i Salem hittad - Polisen.se
 - Två arbetare avled under röjning i stormen - Arbetet
+- Brukare evakueras – osäkra trygghetslarm – Stormen Johannes - SVT Nyheter
+- Kaos efter Johannes – fortsatt VMA - Expressen
+- 28 december 14.50, Trafikkontroll, Norrbottens län - Polisen.se
+- Skadat vildsvin ska ha attackerat flera personer i Kungsbacka - SVT Nyheter
+- Misstänkta skotthål på flerfamiljshus i Malmö - Aftonbladet
 - 27 december 07.44, Sammanfattning natt, Östergötlands län - Polisen.se
 - 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
-- 27 december 10.00, Trafikkontroll, Västerbottens län - Polisen.se
-- 28 december 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
+- 27 december 07.18, Sammanfattning natt, Värmlands län - Polisen.se
+- Zelenskyj om Trumpmötet: Säkerhetsgaranti behövs - SVT Nyheter
 - När näste Dalai lama ska väljas kan de bli två - Dagens Nyheter
-- DN Direkt – Storbritannien och Tyskland i vapenavtal - Dagens Nyheter
-- Iran: ”Vi är i krig med USA, Israel och Europa” - Västerbottens-Kuriren
-- Spansk fotbollstränare död i båtolyckan i Indonesien - Omni
+- Man i 20-årsåldern död efter olycka i Smedby i Österåker - Expressen
+- Tre döda när hus kollapsade - Aftonbladet
+- Storbritannien och Tyskland sluter vapenavtal - DI
 - Experter: Så mycket lyfter bopriserna 2026 - SvD
-- Nytt vapenavtal stärker banden mellan Storbritannien och Tyskland - Börskollen
 - Nya Globaleye: ”Behöver kunna se 650 kilometer” - SvD
 - Ryssland förlänger förbudet – får inte exportera - Expressen
 - CES 2026: LG visar upp UltraGear evo med tre extrema gaming-skärmar - Teknikveckan
-- CES 2026: Samsung visar upp nya högtalare. Två trådlösa och en ljudlimpa. - feber.se
+- Utforskaren lägger beslag på minnet – Microsoft filar på en lösning - PC för Alla
 
 ## World News
 
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -43,10 +45,8 @@ _Updated: 2025-12-28 15:46_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- NTM nominerade i INMA Global Media Awards - ntm.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -102,10 +102,8 @@ _Updated: 2025-12-28 15:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
@@ -114,8 +112,10 @@ _Updated: 2025-12-28 15:46_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -123,8 +123,8 @@ _Updated: 2025-12-28 15:46_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -132,33 +132,33 @@ _Updated: 2025-12-28 15:46_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 
 ## Jordbruk
 
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Lediga jobb - Land Lantbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Lediga jobb - Land Lantbruk
+- Jordbrukspolitik - Naturvårdsverket
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
