@@ -1,38 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-28 18:48_
+_Updated: 2025-12-28 19:42_
 
 ## Top Stories
 
-- ”Är ett litet samhälle − ingen går oberörd” - SvD
+- Kvinnan som försvann i Salem är död – person misstänkt för mord - SVT Nyheter
 - Eon: Antalet strömlösa i länet har ökat - Östersunds-Posten
-- Skadat vildsvin ska ha attackerat flera personer i Kungsbacka - SVT Nyheter
+- Skygg katt troddes vara utrotad – återupptäckt - tidningensyre.se
 - Regleringsbreven för rättsväsendets myndigheter 2026 - Regeringen.se
 - 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
 - Blåsten kommer tillbaka – med kyla och snöbyar - Helagotland
-- DN Direkt – Svåråkt i Semmering – svenskorna långt efter - Dagens Nyheter
-- 28 december 07.10, Sammanfattning natt, Värmlands län - polisen.se
+- Efter strömavbrotten – problem att nå 112 - Gefle Dagblad
+- Misstänkta skotthål på flerfamiljshus i Malmö - Aftonbladet
 - 27 december 07.44, Sammanfattning natt, Östergötlands län - polisen.se
-- 27 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
+- 28 december 07.10, Sammanfattning natt, Värmlands län - polisen.se
+- Zelenskyj möter Trump i Florida - GP
 - Stormen avtar i Finland – men många strömlösa - Västerbottens-Kuriren
-- Zelenskyj om Trumpmötet: Säkerhetsgaranti behövs - SVT Nyheter
-- ”Barnbarn” till enormt fettberg hittat i Londons kloaker - Dagens Nyheter
-- DN Direkt – 25-åriga kvinna i Röninge funnen död - Dagens Nyheter
-- DN Direkt – Storbritannien och Tyskland i vapenavtal - Dagens Nyheter
-- Så rik blev Elon Musk under 2025 - Västerbottens-Kuriren
+- Trumps Gazaval: Netanyahu eller rådgivarna - Västerbottens-Kuriren
+- Tre döda när hus kollapsade - Folkbladet
 - Experterna: Så mycket lyfter bopriserna nästa år - SN, Södermanlands Nyheter
+- Så rik blev Elon Musk under 2025 - Västerbottens-Kuriren
+- DN Direkt – Storbritannien och Tyskland i vapenavtal - Dagens Nyheter
 - Ny jätte ska utvinna 300 000 ton litium - SvD
 - Ninja Foodi 3-i-1 brödrost, grill & paninipress - FoodMonitor
-- CES 2026: LG visar upp UltraGear evo med tre extrema gaming-skärmar - Teknikveckan
+- Årets spel 2025 – Robert - varvat.se
 
 ## World News
 
-- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -46,7 +44,9 @@ _Updated: 2025-12-28 18:48_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2025-12-28 18:48_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
