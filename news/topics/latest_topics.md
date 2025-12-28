@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-28 20:51_
+_Updated: 2025-12-28 21:38_
 
 ## Top Stories
 
 - Kvinnan som försvann i Salem är död – person misstänkt för mord - SVT Nyheter
-- Putins varning inför ödesmötet i Trumps residens - Expressen
+- Zelenskyj och Trump i möte – diskuterar fredsplan - SVT Nyheter
+- Aggressivt vildsvin till attack mot flera personer - Norra Halland
+- USA 250 år: från skattegräl till tullkrig - SvD
 - Eon: Antalet strömlösa i länet har ökat - Östersunds-Posten
-- 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
-- Hjälp polisen att undvika onödiga olyckor på nyår - polisen.se
-- Blåsten kommer tillbaka – med kyla och snöbyar - Helagotland
+- Misstänkte mördarens mamma: Han var en fara för sig själv och andra - Omni
 - Brukare evakueras – osäkra trygghetslarm - GP
 - Tullverkets facit: noll stoppade handgranater - Västerbottens-Kuriren
-- Statsministern om julmorden: ”Mardrömslikt” - Aftonbladet
-- 27 december 07.44, Sammanfattning natt, Östergötlands län - polisen.se
+- 28 december 14.50, Trafikkontroll, Norrbottens län - Polisen.se
+- Kristersson om de misstänkta morden: Mardrömslikt - Aftonbladet
 - Stormen avtar i Finland – men många strömlösa - Västerbottens-Kuriren
-- Trumps Gazaval: Netanyahu eller rådgivarna - Västerbottens-Kuriren
-- Tre döda när hus kollapsade - Aftonbladet
-- DN Direkt – 25-åriga kvinna i Röninge funnen död - Dagens Nyheter
+- Nathan Shachar: Gazas framtid på bordet när Trump tar emot Netanyahu - Dagens Nyheter
+- Kattart fångades på kamera – troddes vara utrotad - GP
+- Spansk fotbollstränare död i båtolyckan i Indonesien - Omni
 - Tidigare IBM-chefen Louis Gerstner är död - Omni
-- Så mycket ökade Elon Musks förmögenhet under 2025 - Dagens Nyheter
 - Experterna: Så mycket lyfter bopriserna nästa år - SN, Södermanlands Nyheter
-- Storbritannien och Tyskland sluter vapenavtal - DI
-- Ninja Foodi 3-i-1 brödrost, grill & paninipress - FoodMonitor
-- Årets spel 2025 – Robert - varvat.se
+- 11-miljonersvilla vid 26 – så gjorde det unga paret bostadskarriär i Stockholm - Dagens Nyheter
+- Så mycket rikare blev de rikaste – Musks förmögenhet dubblerades - Sydsvenskan
+- Waterfox blir AI-fritt alternativ till Firefox - mobil.se
+- The Smurfs: Dreams - En lyckad smurfig utflykt i drömlandet” - FZ.se
 
 ## World News
 
@@ -33,7 +33,7 @@ _Updated: 2025-12-28 20:51_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
@@ -41,12 +41,12 @@ _Updated: 2025-12-28 20:51_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2025-12-28 20:51_
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -134,31 +134,31 @@ _Updated: 2025-12-28 20:51_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
