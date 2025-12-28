@@ -1,36 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-28 17:41_
+_Updated: 2025-12-28 18:48_
 
 ## Top Stories
 
-- Två arbetare avled under röjning i stormen - Arbetet
-- Den försvunna kvinnan i Salem hittad - Polisen.se
-- Brukare evakueras – osäkra trygghetslarm – Stormen Johannes - SVT Nyheter
-- 28 december 14.50, Trafikkontroll, Norrbottens län - Polisen.se
+- ”Är ett litet samhälle − ingen går oberörd” - SvD
+- Eon: Antalet strömlösa i länet har ökat - Östersunds-Posten
+- Skadat vildsvin ska ha attackerat flera personer i Kungsbacka - SVT Nyheter
 - Regleringsbreven för rättsväsendets myndigheter 2026 - Regeringen.se
+- 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
 - Blåsten kommer tillbaka – med kyla och snöbyar - Helagotland
-- 28 december 07.10, Sammanfattning natt, Värmlands län - Polisen.se
-- 27 december 07.44, Sammanfattning natt, Östergötlands län - Polisen.se
-- 27 december 11.46, Trafikhinder, Gävleborgs län - Polisen.se
-- 27 december 10.00, Trafikkontroll, Västerbottens län - Polisen.se
+- DN Direkt – Svåråkt i Semmering – svenskorna långt efter - Dagens Nyheter
+- 28 december 07.10, Sammanfattning natt, Värmlands län - polisen.se
+- 27 december 07.44, Sammanfattning natt, Östergötlands län - polisen.se
+- 27 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
+- Stormen avtar i Finland – men många strömlösa - Västerbottens-Kuriren
 - Zelenskyj om Trumpmötet: Säkerhetsgaranti behövs - SVT Nyheter
-- Man i 20-årsåldern död efter olycka i Smedby i Österåker - Expressen
+- ”Barnbarn” till enormt fettberg hittat i Londons kloaker - Dagens Nyheter
 - DN Direkt – 25-åriga kvinna i Röninge funnen död - Dagens Nyheter
-- Iran: ”Vi är i krig med USA, Israel och Europa” - Västerbottens-Kuriren
-- Storbritannien och Tyskland sluter vapenavtal - DI
-- Experter: Så mycket lyfter bopriserna 2026 - SvD
-- Ryssland förlänger förbudet – får inte exportera - Expressen
-- Guld och silver rusar: ”Mätare på hur världen mår” - HD
-- Blizzard planerar att släppa fler stora spel och expansioner varje år - FZ.se
+- DN Direkt – Storbritannien och Tyskland i vapenavtal - Dagens Nyheter
+- Så rik blev Elon Musk under 2025 - Västerbottens-Kuriren
+- Experterna: Så mycket lyfter bopriserna nästa år - SN, Södermanlands Nyheter
+- Ny jätte ska utvinna 300 000 ton litium - SvD
+- Ninja Foodi 3-i-1 brödrost, grill & paninipress - FoodMonitor
 - CES 2026: LG visar upp UltraGear evo med tre extrema gaming-skärmar - Teknikveckan
 
 ## World News
 
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -44,9 +46,7 @@ _Updated: 2025-12-28 17:41_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -75,6 +75,7 @@ _Updated: 2025-12-28 17:41_
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
@@ -88,7 +89,6 @@ _Updated: 2025-12-28 17:41_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
@@ -153,12 +153,12 @@ _Updated: 2025-12-28 17:41_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
