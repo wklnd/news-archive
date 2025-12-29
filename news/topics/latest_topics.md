@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 22:46_
+_Updated: 2025-12-29 23:41_
 
 ## Top Stories
 
-- Misstänkta 26-åringens liv på anstalten – hotade att ”pricka” personalen - Aftonbladet
+- Uppgifter: 26-åring misstänks för mord i Rönninge - SVT Nyheter
+- Trump: Om inte Hamas avväpnar sig kommer de få betala dyrt – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Vita huset: Trump och Putin hade positivt samtal - Omni
+- Hopp om pangväder på nyårsafton - Sydsvenskan
 - Katarina har åtta grader hemma - UNT
-- Kreml hävdar attack mot Putins sommarbostad – Zelenskyj förnekar - Omni
-- Här hänger Malmös utsatta – nya byggplaner kan förändra allt - Sydsvenskan
-- Nya kraftiga vindar ställer in fler färjor - Horisont magasin
-- Nyheter från dagen: 29 december - SVT Nyheter
+- Ryssland: Ukraina har attackerat Putins bostad - Aftonbladet
 - Farligt lavinläge i två fjällområden - SVT Nyheter
-- Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
-- 29 december 13.20, Trafikkontroll, Norrbottens län - polisen.se
-- 29 december 19.08, Trafikkontroll, Västerbottens län - polisen.se
-- Trump och Netanyahu möts om nästa fas i Gaza - GP
-- Hamas: Kommer inte lägga ner vapen - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Ryske chefen: Kärnkraftverk i gång tidigast 2027 - Dagens Nyheter
-- DN Direkt – Problem med överföringar hos Handelsbanken löst - Dagens Nyheter
-- Afv avslöjar: Intellegos tidigare VD fick miljonbonus strax innan gripandet - Affärsvärlden
+- Kvällsfärjan försenad en timme i ovädret - Horisont magasin
+- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
+- Två dog i kö till hjärnkirurgi på Sahlgrenska - Läkartidningen
+- Reparation av kärnkraftverk påbörjad i Ukraina - Västerbottens-Kuriren
+- Trump: Attackerat ”stor anläggning” - GP
+- Polisjakt norr om Stockholm efter rånförsök - Omni
+- Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
+- Brottsmisstänkt vd fick miljonbonus - Västerbottens-Kuriren
 - Silverpriset vänder ned efter nytt rekord - DI
-- Försvarsaktier backar efter fredssamtalen om Ukraina - Expressen
-- Klimatklivsreglerna ändras efter kritiken - ATL
+- DN Direkt – Försvarsaktier i Europa backar efter fredssamtal - Dagens Nyheter
+- Från tullkaos till AI-frossa – så var nyhetsåret 2025 - DI
 - ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
 - Spelare fick plötsligt miljarder på kontot - Expressen
 
 ## World News
 
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Good News · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
@@ -99,23 +99,23 @@ _Updated: 2025-12-29 22:46_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- E-hälsa inom EU - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
