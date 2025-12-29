@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 15:12_
+_Updated: 2025-12-29 15:54_
 
 ## Top Stories
 
-- Längdskidor: Alvar Myhlback och William Poromaas besvikelse: ”Värsta som finns” - SVT Nyheter
-- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
-- Nyordslistan kan vara årets deppigaste läsning - Aftonbladet
-- Nyårsvädret: Snösmocka välkomnar 2026 - Expressen
-- Ung kvinna hittad död - 8 Sidor
+- Uppdatering om misstänkt mord i Boden - Åklagarmyndigheten
+- Analyser: Det går inte bakåt – en seger för Ukraina - Omni
+- Uppgifter: 26-åring misstänks för mordet i Rönninge – har tidigare försökt kidnappa flicka - SVT Nyheter
 - Storbritanniens ”mörkaste” skandal - SvD
-- Vägar och tågtrafik fortfarande påverkade av stormen - Dagens Nyheter
+- Oväder påverkar färjetrafiken – berör tusentals resenärer - SVT Nyheter
+- Rejält snöoväder drar in över Sverige - Marcus Oscarsson
+- Strömmen tillbaka hos de flesta i Västerbotten – elbolag spränger träd - SVT Nyheter
 - Två dog i kö till hjärnkirurgi på Sahlgrenska - GP
+- Ekonomisk smäll för skidorten efter stormen - Tidningen Näringslivet
 - Nya incidenter efter dödsolyckan – banarbetare nära bli påkörda 28 gånger - Arbetet
-- Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
-- Juri von Bonsdorff Försiktig optimism men inget genombrott när Trump mötte Zelenskyj - Hufvudstadsbladet
 - Ukraina hotat av total befolkningskollaps - Dagens Nyheter
 - Flera döda i tillslag mot IS i Turkiet - GP
+- Kreml: Vi och USA tycker inte vapenvila vore bäst - Omni
 - Man i 80-årsåldern knivhöggs till döds – ung man åtalas - Expressen
+- Brottsmisstänkt vd fick miljonbonus - Västerbottens-Kuriren
 - Försvarsjättarna backar efter fredssamtal - DI
-- Intellegos tidigare VD fick miljonbonus strax innan gripandet - Affärsvärlden
 - Analytiker: Slutet på en era – historiskt bostadsrally över - EFN.se
-- Acuvi lämnar preliminär information om nettoomsättningen för 2025 och informerar om att tidigare kommunicerad EBITDA-prognos inte längre bedöms uppnås - Cision News
+- Efter rallyt – jätteutdelningar väntas från försvarsbolagen - EFN.se
+- Spelare fick plötsligt miljarder på kontot - Expressen
 - Jordens dygn är inte vad du tror: Mänsklig aktivitet och katastrofer förändrar dygnets längd - Illustrerad Vetenskap
-- LG visar upp nya bildskärmar med AI-uppskalning - PC för Alla
 
 ## World News
 
@@ -75,24 +75,24 @@ _Updated: 2025-12-29 15:12_
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
