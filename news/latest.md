@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-29 12:54_
+_Updated: 2025-12-29 13:49_
 
-- Takeaways from Trump’s meeting with Zelensky in Florida - CNN
+- Donald Trump and Volodymyr Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal - Financial Times
 - China launches war games around Taiwan as island vows to defend democracy - Reuters
 - Storm track shifts in Michigan’s blizzard zone, up to 33 inches of snow now forecast - MLive.com
-- Winter storm brings heavy snow and ice to busy holiday travel weekend - NPR
-- Kosovo's ruling party wins election after months of political deadlock - BBC
-- Joint Statement by the Foreign Ministers of Jordan,Egypt,Algeria Comoros,Djibouti,Gambia Iran,Iraq Kuwait,Libya Maldives,Nigeria Oman,Pakistan, Palestine,Qatar,Saudi Arabia,Somalia Sudan,Turkiye,Yemen and the OIC - Ministry of Foreign Affairs, Government of Pakistan
-- One person dead and one injured after two helicopters crash in New Jersey - The Guardian
+- Thailand-Cambodia ceasefire begins after weeks of deadly clashes - BBC
+- Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
+- "Bomb cyclone" winter storm brings ice and snow, snarls thousands of flights. Maps show the latest forecast. - CBS News
+- One dead after 2 helicopters crash mid-air in, New Jersey, Hammonton police say near Basin Road - ABC7 New York
 - US-Nigeria strikes: Living in fear of Lakurawa - the militant group Trump targeted - BBC
-- Justice Department says Jan. 6 pipe bomb suspect believed election conspiracy theories - Politico
 - Southern California cleans up after the wettest recent Christmas season - The Guardian
+- Freezing rain and icy conditions in Massachusetts could cause slick roads early Monday - CBS News
+- Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens - AP News
 - Benjamin Netanyahu to meet Donald Trump as differences over Gaza grow - Financial Times
-- Mexican train derailment kills at least 13 people, 98 injured - KSL.com
-- Top diplomats of China, Cambodia and Thailand meet as Beijing seeks a stronger role in dispute - AP News
-- Bondi Beach shooting hero says he just wanted to stop the assailant from killing more innocent people - CBS News
-- Silver retreats from $80 peak while gold softens on profit-taking - Reuters
-- More Student Loan Borrowers Are Shedding Debts in Bankruptcy - The New York Times
+- Six ISIL fighters, 3 police officers killed in northwest Turkiye raid - Al Jazeera
+- China opposes recognition of Somaliland, affirms support for Somalia - Reuters
 - Asian stocks rise, precious metals hit records on Fed rate cut bets By Reuters - Investing.com
-- New York subway ends its MetroCard era and switches fully to tap-and-go fares - ABC7 New York
-- Goodbye Gemini? Samsung’s One UI 8.5 brings Perplexity AI to Bixby - Sammy Fans
-- The RPS Selection Box: James' bonus games of the year 2025 - Rock Paper Shotgun
+- S&P 500 futures slip after benchmark index hits fresh record: Live updates - CNBC
+- End of an era as New York subway finally switches payment system - The Independent
+- Market ‘Will Punish People’ If Trump Influences Federal Reserve, Bank Of America CEO Warns - Forbes
+- Samsung Plans To Bring Google Photos to Samsung AI TV Lineup, Helping Users Relive Their Favorite Memories on the Big Screen - samsung.com
+- Ubisoft is rolling back Rainbow Six Siege servers after being forced to shut them down - Engadget
