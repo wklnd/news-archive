@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-29 23:48_
+_Updated: 2025-12-30 00:50_
 
 - Trump Live Updates: Ukraine Talks, Netanyahu Meeting, Venezuela and More - The New York Times
+- Ukraine denies drone attack on Putin's residence - BBC
 - Winter storm could become "bomb cyclone" over Great Lakes and Northeast. Maps show latest forecast. - CBS News
 - Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC
-- US offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says - AP News
-- CMS Announces $50 Billion in Awards to Strengthen Rural Health in All 50 States - Centers for Medicare & Medicaid Services | CMS (.gov)
-- Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
-- Two pilots killed after mid-air helicopter collision in New Jersey - BBC
-- Democrats' redistricting win sparks a new party war in California - Politico
-- Judge orders release of transcript from closed hearing for man accused of killing Charlie Kirk - ABC News
-- Body of triathlete apparently killed by shark found on California beach - The Guardian
-- British-Egyptian dissident apologises for tweets as Tories push for UK deportation - BBC
+- Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula - The New York Times
+- Trump says US hit Venezuela dock where drugs were allegedly loaded - Reuters
+- Group of GOP legislators call for Gov. Walz to resign - KTTC | Rochester, MN
+- Alleged Jan. 6 pipe bomber said he wasn't targeting Congress' certification of Biden's victory: DOJ - ABC News
+- Trump news at a glance: progress but no breakthrough in Ukraine peace talks - The Guardian
+- 2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site - AP News
+- China stages military drills around Taiwan to warn 'external forces' after US, Japan tensions - ABC News
+- US pledges $2bn for humanitarian aid, but tells UN 'adapt or die' - BBC
 - Thailand accuses Cambodia of breaking newly signed ceasefire - BBC
 - Deadly derailment in Mexico revives allegations of rail project corruption - Financial Times
-- Aid workers find little life in Sudan's al-Fashir after paramilitary takeover - Reuters
 - S&P 500 closes lower Monday as investors sell tech names into year-end: Live updates - CNBC
-- Nvidia deal shows why inference is AI's next battleground - Axios
-- Electric vehicles had a bumpy road in 2025 — and one pleasant surprise - NPR
-- ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - The Guardian
+- The barbarians are at Lululemon’s gate - CNN
+- Five Things to Know About Nvidia’s $20 Billion Licensing Deal - The Wall Street Journal
+- Silver Prices Surge, Then Slump. How ‘Index Rebalancing’ Could Lead to More Wild Swings. - Barron's
 - Linux will be unstoppable in 2026 - but one open-source legend may not survive - ZDNet
 - Leonardo’s wood charring method predates Japanese practice - Ars Technica
