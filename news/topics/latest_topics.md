@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 10:55_
+_Updated: 2025-12-29 11:51_
 
 ## Top Stories
 
-- Vasaloppet inför repguider och förlänger reptiden i Smågan - Vasaloppet
-- Här är nyorden 2025: ”Det är ju inte ens svenska” - Sveriges Radio
-- Detta vet vi om det misstänka mordet i Salem - SvD
-- Nyårsfyrverkerier - detta gäller - Örnsköldsviks kommun
-- Kraftig brand i flerfamiljshus – stor styrka på plats - Smålands-Tidningen
-- Kina ska öva runt Taiwan: ”En varning” - DI
-- Hundratals fortfarande utan ström: "Kan ta dagar" - UNT
-- 28 december 13.57, Räddningsinsats, Borlänge - polisen.se
+- Nyordslistan kan vara årets deppigaste läsning - Aftonbladet
+- Eon: Antalet strömlösa i länet har ökat - Östersunds-Posten
+- Detta vet vi om det misstänka mordet i Salem - Aftonbladet
+- Trump och Zelenskyj höll pressträff efter möte i Florida - SVT Nyheter
+- Kina utför militärövningar runt Taiwan - Hufvudstadsbladet
 - 29 december 07.52, Sammanfattning natt, Östergötlands län - polisen.se
-- Två män misshandlade i Malmö - Sydsvenskan
-- Juri von Bonsdorff Försiktig optimism men inget genombrott när Trump mötte Zelenskyj - Hufvudstadsbladet
-- Trump och Netanyahu möts för att diskutera Gaza - Aftonbladet
+- 28 december 13.57, Räddningsinsats, Borlänge - polisen.se
+- Nyårsfyrverkerier - detta gäller - Örnsköldsviks kommun
+- Har du pratat med din tonåring om riskerna med alkohol inför nyår? - Östersund.se
+- SMHI: ”Inte det bästa fyrverkerivädret” - Mitt i
 - Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
-- Fyra nordkoreanska avhoppare berättar: Så flydde vi från Kim Jong-Un - Expressen
+- Nathan Shachar: Gazas framtid på bordet när Trump tar emot Netanyahu - Dagens Nyheter
+- DN Direkt – Hjälp med reptider ska få fler i mål i Vasaloppet - Dagens Nyheter
+- Stormen avtar i Finland – men många strömlösa - GP
+- Analytiker: Slutet på en era – historiskt bostadsrally över - EFN.se
 - Kopparpriset lyfter – oljan rekylerar upp - DI
 - Så var elåret 2025 – och vad kan vi förvänta oss av 2026 - Cision News
-- Folkkära klassikerna Trocadero och Ahlgrens bilar möts i ett smakrikt samarbete - Via TT
-- Miljardinvestering för att klara nya PFAS-gränsen - SVT Nyheter
+- AI på väg mot kollaps – tar våra hjärnor med sig - Aftonbladet
+- Den här LG-skärmen gör något Apple helst inte pratar om - Dagens PS
 - Lira The Legend of Zelda: Breath of the Wild i VR. VR-mod släpps imorgon. - feber.se
-- Jordens dygn är inte vad du tror: Mänsklig aktivitet och katastrofer förändrar dygnets längd - Illustrerad Vetenskap
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-12-29 10:55_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
