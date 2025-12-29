@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 08:58_
+_Updated: 2025-12-29 09:46_
 
 ## Top Stories
 
 - Här är nyorden 2025: ”Det är ju inte ens svenska” - Sveriges Radio
 - 25-åriga kvinnan i Rönninge hittad död – två anhållna - Mitt i
-- Två arbetare avled under röjning i stormen - Arbetet
-- Utan vävkonsten – ingen digital teknik - SvD
-- Trump och Zelenskyj: 90 procent av fredsplanen på plats - EFN
-- Vaggerydskår på brand i Eksjö - Skillingaryd
+- Då blir ditt fyrverkeri ett lagbrott - Skillingaryd
+- Eon: Antalet strömlösa i länet har ökat - Östersunds-Posten
+- Kina ska öva runt Taiwan: ”En varning” - SVT Nyheter
+- 29 december 07.52, Sammanfattning natt, Östergötlands län - polisen.se
 - 28 december 13.57, Räddningsinsats, Borlänge - polisen.se
-- Hjälp polisen att undvika onödiga olyckor på nyår - polisen.se
 - Två män misshandlade i Malmö - Sydsvenskan
 - 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
+- DEBATT: Här är myndigheterna som försvinner 2026 - Expressen
+- Trump och Zelenskyj höll pressträff efter möte i Florida - SVT Nyheter
 - Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
+- Trumps Gazaval: Netanyahu eller rådgivarna - Folkbladet
 - Bomb från andra världskriget flyttad från Belgrad - Västerbottens-Kuriren
-- Kina utför militärövningar runt Taiwan - Hufvudstadsbladet
-- DN Direkt – Stormen avtar i Finland – men många strömlösa - Dagens Nyheter
+- Kronjuvelen i svensk basindustri rivs – kan bli Europas största AI-datacenter - Dagens Nyheter
 - Kopparpriset lyfter – oljan rekylerar upp - DI
-- Försiktiga rörelser i Asien – pendlar kring nollan - Aftonbladet
-- Malmö Airport erbjuder gratis parkering för hundar på nyårsafton - Cision News
-- Second hand-försäljningen ökade i november – uppsving för fysiska butiker - Svensk Handel
+- Snart vet bilen när du är irriterad - Dagens PS
+- Svensk läkemedelsexport ökade i oktober - DI
+- Snart 25-timmars dygn? Det här händer med tiden på jorden - News55
 - Svensk dominans bland de mest spelade i P3 - GP
-- Årets spel 2025 – P-O - varvat.se
 
 ## World News
 
@@ -54,22 +54,22 @@ _Updated: 2025-12-29 08:58_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
 ## Business
 
@@ -122,21 +122,21 @@ _Updated: 2025-12-29 08:58_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - En marsch för vetenskap och forskning! - Institutet för framtidsstudier
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
