@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 21:38_
+_Updated: 2025-12-29 22:46_
 
 ## Top Stories
 
-- Samlas efter mordet: ”Känns så djupt meningslöst” - SVT Nyheter
-- Stormen har dragit förbi – men fortfarande gul varning - Harnosand.se
-- Orange varning utfärdad på Gotland: ”Mycket blåsigt” - Omni
-- Person saknas efter fall från färja mellan Ystad och Świnoujście - Sydsvenskan
-- Boden: Gärningsmannen var inne hos familjen i över tre timmar - Expressen
+- Misstänkta 26-åringens liv på anstalten – hotade att ”pricka” personalen - Aftonbladet
+- Katarina har åtta grader hemma - UNT
+- Kreml hävdar attack mot Putins sommarbostad – Zelenskyj förnekar - Omni
+- Här hänger Malmös utsatta – nya byggplaner kan förändra allt - Sydsvenskan
+- Nya kraftiga vindar ställer in fler färjor - Horisont magasin
+- Nyheter från dagen: 29 december - SVT Nyheter
 - Farligt lavinläge i två fjällområden - SVT Nyheter
 - Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
-- 60 000 avelshönor avlivade i Skåne - Aftonbladet
 - 29 december 13.20, Trafikkontroll, Norrbottens län - polisen.se
-- Ekonomisk smäll för skidorten efter stormen - Tidningen Näringslivet
-- Ukraina dömer ut påstådd attack mot Putins palats som lögn - Hufvudstadsbladet
-- Hamas: Kommer inte lägga ner vapen - Västerbottens-Kuriren
+- 29 december 19.08, Trafikkontroll, Västerbottens län - polisen.se
 - Trump och Netanyahu möts om nästa fas i Gaza - GP
-- Reparation av kärnkraftverk påbörjad i Ukraina - Västerbottens-Kuriren
-- Intellegos ex-vd fick miljonbonus dagar före gripandet - DI
-- Ädelmetallen som rusat mer än guld - SvD
+- Hamas: Kommer inte lägga ner vapen - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Ryske chefen: Kärnkraftverk i gång tidigast 2027 - Dagens Nyheter
+- DN Direkt – Problem med överföringar hos Handelsbanken löst - Dagens Nyheter
+- Afv avslöjar: Intellegos tidigare VD fick miljonbonus strax innan gripandet - Affärsvärlden
+- Silverpriset vänder ned efter nytt rekord - DI
 - Försvarsaktier backar efter fredssamtalen om Ukraina - Expressen
 - Klimatklivsreglerna ändras efter kritiken - ATL
 - ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
@@ -29,6 +29,7 @@ _Updated: 2025-12-29 21:38_
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Good News · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -39,14 +40,13 @@ _Updated: 2025-12-29 21:38_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -99,45 +99,45 @@ _Updated: 2025-12-29 21:38_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- E-hälsa inom EU - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
