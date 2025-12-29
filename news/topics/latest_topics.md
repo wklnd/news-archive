@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 07:51_
+_Updated: 2025-12-29 08:58_
 
 ## Top Stories
 
-- Kvinnan som försvann i Salem är död – person misstänkt för mord - SVT Nyheter
-- Trump och Zelenskyj: 90 procent av fredsplanen på plats - EFN.se
-- Årets största konkurser i Skåne – hundratals jobb i spillror - Sydsvenskan
-- Varningen: Andersson kan förlora valet - SvD
-- Kina ska öva runt Taiwan: ”En varning” - DI
-- Sex personer som kan påverka Europa 2026 - SvD
-- Hundratals fortfarande utan ström: "Kan ta dagar" - UNT
+- Här är nyorden 2025: ”Det är ju inte ens svenska” - Sveriges Radio
+- 25-åriga kvinnan i Rönninge hittad död – två anhållna - Mitt i
+- Två arbetare avled under röjning i stormen - Arbetet
+- Utan vävkonsten – ingen digital teknik - SvD
+- Trump och Zelenskyj: 90 procent av fredsplanen på plats - EFN
 - Vaggerydskår på brand i Eksjö - Skillingaryd
+- 28 december 13.57, Räddningsinsats, Borlänge - polisen.se
+- Hjälp polisen att undvika onödiga olyckor på nyår - polisen.se
+- Två män misshandlade i Malmö - Sydsvenskan
 - 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
-- Hårda vindbyar stoppar en av Fåröfärjorna - Helagotland
+- Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
 - Bomb från andra världskriget flyttad från Belgrad - Västerbottens-Kuriren
-- Bondi-anhöriga kräver utredning - GP
-- Ukraina-allierade ska mötas - DI
-- Fyra nordkoreanska avhoppare berättar: Så flydde vi från Kim Jong-Un - expressen.se
+- Kina utför militärövningar runt Taiwan - Hufvudstadsbladet
+- DN Direkt – Stormen avtar i Finland – men många strömlösa - Dagens Nyheter
+- Kopparpriset lyfter – oljan rekylerar upp - DI
+- Försiktiga rörelser i Asien – pendlar kring nollan - Aftonbladet
+- Malmö Airport erbjuder gratis parkering för hundar på nyårsafton - Cision News
 - Second hand-försäljningen ökade i november – uppsving för fysiska butiker - Svensk Handel
-- Årets energinyheter: Intäkter från hembatterier rasade - Nyteknik
-- Skaparen av geniala bilfunktionen död - expressen.se
-- Analytiker: Slutet på en era – historiskt bostadsrally över - EFN.se
-- Ny studie avfärdar gammal teori: Vikingarna utrotade INTE den inhemska befolkningen - Världens Historia
-- Xiaomi lanserar mobil med fysisk zoomring - mobil.se
+- Svensk dominans bland de mest spelade i P3 - GP
+- Årets spel 2025 – P-O - varvat.se
 
 ## World News
 
@@ -56,18 +56,18 @@ _Updated: 2025-12-29 07:51_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
@@ -122,43 +122,43 @@ _Updated: 2025-12-29 07:51_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
