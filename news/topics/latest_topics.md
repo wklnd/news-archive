@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 04:39_
+_Updated: 2025-12-29 06:34_
 
 ## Top Stories
 
 - Trump: Stora framsteg – mycket närmare ett avtal - Omni
+- 25-åriga kvinnan sörjs i Rönninge: ”Hon var väldigt älskad” - Dagens Nyheter
+- Bondi-anhöriga i kräver utredning efter terrordådet - SVT Nyheter
 - TV-profilen Anders jagade stormen: "Ett inferno" - UNT
-- Kina ska öva runt Taiwan: ”En varning” - SvD
-- Tågurspårning i Mexiko – 13 döda - SVT Nyheter
+- 28 december 13.57, Räddningsinsats, Borlänge - polisen.se
 - 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
-- Blåsten kommer tillbaka – med kyla och snöbyar - Helagotland
-- Man död efter dykolycka i äventyrsgruva i Borlänge - SVT Nyheter
-- 27 december 10.00, Trafikkontroll, Västerbottens län - polisen.se
-- 27 december 11.46, Trafikhinder, Gävleborgs län - polisen.se
-- 27 december 07.18, Sammanfattning natt, Värmlands län - polisen.se
-- Bondi-anhöriga kräver utredning - GP
+- Vaggerydskår på brand i Eksjö - Skillingaryd
+- Dorotea är ett extremt exempel på glesbygdsproblemen - Altinget.SE
+- Räddningstjänsten ryckte ut på larm om villabrand - UNT
+- Hårda vindbyar stoppar en av Fåröfärjorna - Helagotland
 - Sex döda i skottlossning på strandpromenad - Västerbottens-Kuriren
-- Kattart fångades på kamera – troddes vara utrotad - GP
 - DN Direkt – Stormen avtar i Finland – men många strömlösa - Dagens Nyheter
-- Så mycket ökade Elon Musks förmögenhet under 2025 - Dagens Nyheter
-- Så blir motoråret 2026 – förändringarna som kan påverka - Dagens Nyheter
-- Swedavia erbjuder gratis parkering för hundar på nyårsafton - Swedavia
+- Kina utför militärövningar runt Taiwan - Hufvudstadsbladet
+- En miljon hushåll utan el efter anfall mot Kiev - Corren
 - Skaparen av geniala bilfunktionen död - expressen.se
+- Swedavia erbjuder gratis parkering för hundar på nyårsafton - Swedavia
+- Bilhandlare: Blockets sajtkaos kan ge fyndläge - Omni
+- 11-miljonersvilla vid 26 – så gjorde det unga paret bostadskarriär i Stockholm - Dagens Nyheter
+- Ny studie avfärdar gammal teori: Vikingarna utrotade INTE den inhemska befolkningen - Världens Historia
 - Xiaomi lanserar mobil med fysisk zoomring - mobil.se
-- The Smurfs: Dreams - En lyckad smurfig utflykt i drömlandet” - FZ.se
 
 ## World News
 
@@ -45,8 +45,8 @@ _Updated: 2025-12-29 04:39_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -56,7 +56,6 @@ _Updated: 2025-12-29 04:39_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
@@ -65,11 +64,12 @@ _Updated: 2025-12-29 04:39_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -106,11 +106,11 @@ _Updated: 2025-12-29 04:39_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
@@ -123,8 +123,8 @@ _Updated: 2025-12-29 04:39_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -132,33 +132,33 @@ _Updated: 2025-12-29 04:39_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
