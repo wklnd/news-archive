@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-29 15:24_
+_Updated: 2025-12-29 15:57_
 
-- Donald Trump and Volodymyr Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal - Financial Times
 - China launches war games around Taiwan as island vows to defend democracy - Reuters
-- Thailand-Cambodia ceasefire begins after weeks of deadly clashes - BBC
+- Donald Trump and Volodymyr Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal - Financial Times
+- Teens are having disturbing interactions with chatbots. Here's how to lower the risks - NPR
 - Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
-- "Bomb cyclone" winter storm brings ice and snow, snarls thousands of flights. Maps show the latest forecast. - CBS News
-- Joint Statement by the Foreign Ministers of Jordan,Egypt,Algeria Comoros,Djibouti,Gambia Iran,Iraq Kuwait,Libya Maldives,Nigeria Oman,Pakistan, Palestine,Qatar,Saudi Arabia,Somalia Sudan,Turkiye,Yemen and the OIC - Ministry of Foreign Affairs, Government of Pakistan
-- NEXT Weather: Aftereffects of Sunday snowstorm impacting road conditions Monday - CBS News
+- Winter storm brings ice and snow, snarling thousands of flights. Maps show the latest forecast. - CBS News
+- Thailand-Cambodia ceasefire begins after weeks of deadly clashes - BBC
+- Winter storm moves east on Monday, bringing dangerous wind, snow and ice - ABC News
 - US-Nigeria strikes: Living in fear of Lakurawa - the militant group Trump targeted - BBC
 - One dead after 2 helicopters crash mid-air in, New Jersey, Hammonton police say near Basin Road - ABC7 New York
-- Southern California cleans up after the wettest recent Christmas season - The Guardian
-- Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens - AP News
+- Freezing rain and icy conditions in Massachusetts could cause slick roads early Monday - CBS News
+- Mexican train derailment kills at least 13 people, 98 injured - KSL.com
 - US pledges $2B for UN humanitarian aid as Trump slashes funding and warns agencies to 'adapt or die' - AP News
-- Indonesian rescuers find a body while searching for Spanish soccer coach and 3 children - ABC News
-- Benjamin Netanyahu to meet Donald Trump as differences over Gaza grow - Financial Times
+- Trump, Netanyahu to discuss next phase of Gaza plan - Reuters
+- Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays - CNN
 - Electric vehicles had a bumpy road in 2025 — and one pleasant surprise - NPR
+- Stocks Climb in Asia, Silver Whipsaws After Record: Markets Wrap - Bloomberg.com
 - Sam Altman and Alex Karp are learning to hate one of Elon Musk's most frequent enemies - Business Insider
-- Silver Prices Soar as China's New Export Rules Take Effect—Elon Musk Says, 'This Is Not Good' - Yahoo Finance
-- New York subway ends its MetroCard era and switches fully to tap-and-go fares - ABC7 New York
+- Silver retreats from $80 peak while gold softens on profit-taking - Reuters
 - With Galaxy S26, Samsung may have initiated efforts to lean less on Qualcomm Snapdragon chips - PhoneArena
-- Samsung Plans To Bring Google Photos to Samsung AI TV Lineup, Helping Users Relive Their Favorite Memories on the Big Screen - samsung.com
+- Samsung Expands Its Audio Ecosystem for 2026 With Smarter Multi-Device Sound and Immersive New Designs - samsung.com
