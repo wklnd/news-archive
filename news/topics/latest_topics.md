@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 20:52_
+_Updated: 2025-12-29 21:38_
 
 ## Top Stories
 
 - Samlas efter mordet: ”Känns så djupt meningslöst” - SVT Nyheter
 - Stormen har dragit förbi – men fortfarande gul varning - Harnosand.se
-- Ukraina förnekar attack mot Putins sommarresidens - DI
-- Gängkriminell köpte dyr jacka – då agerade NK: ”Vill inte prata om det” - Aftonbladet
-- Orange vindvarning för Fårö och Fårösund - Region Gotland
+- Orange varning utfärdad på Gotland: ”Mycket blåsigt” - Omni
+- Person saknas efter fall från färja mellan Ystad och Świnoujście - Sydsvenskan
 - Boden: Gärningsmannen var inne hos familjen i över tre timmar - Expressen
+- Farligt lavinläge i två fjällområden - SVT Nyheter
 - Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
-- Ekonomisk smäll för skidorten efter stormen - Tidningen Näringslivet
 - 60 000 avelshönor avlivade i Skåne - Aftonbladet
-- Så blir nyårsvädret: Blåst, solsken och snö - Västerbottens-Kuriren
+- 29 december 13.20, Trafikkontroll, Norrbottens län - polisen.se
+- Ekonomisk smäll för skidorten efter stormen - Tidningen Näringslivet
+- Ukraina dömer ut påstådd attack mot Putins palats som lögn - Hufvudstadsbladet
 - Hamas: Kommer inte lägga ner vapen - Västerbottens-Kuriren
 - Trump och Netanyahu möts om nästa fas i Gaza - GP
-- DN Direkt – Flera döda i tillslag mot IS i Turkiet - Dagens Nyheter
 - Reparation av kärnkraftverk påbörjad i Ukraina - Västerbottens-Kuriren
 - Intellegos ex-vd fick miljonbonus dagar före gripandet - DI
 - Ädelmetallen som rusat mer än guld - SvD
-- Försvarssektorn pressas efter fredssamtal: ”Logiskt” - EFN
+- Försvarsaktier backar efter fredssamtalen om Ukraina - Expressen
 - Klimatklivsreglerna ändras efter kritiken - ATL
 - ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
 - Spelare fick plötsligt miljarder på kontot - Expressen
@@ -52,6 +52,7 @@ _Updated: 2025-12-29 20:52_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -64,7 +65,6 @@ _Updated: 2025-12-29 20:52_
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
@@ -99,23 +99,23 @@ _Updated: 2025-12-29 20:52_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- E-hälsa inom EU - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
