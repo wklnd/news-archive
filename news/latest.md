@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-29 09:51_
+_Updated: 2025-12-29 11:00_
 
 - Trump says Russia and Ukraine are 'maybe very close' to peace deal after Zelenskyy meeting - ABC News
 - China holds military drills around Taiwan as warning to 'separatist forces' - BBC
-- US-Nigeria strikes: Living in fear of Lakurawa - the militant group Trump targeted - BBC
 - ‘Bomb cyclone’ forecasted to bring heavy snow, blizzard conditions and dangerous travel - NPR
-- FBI deploys more resources to ‘dismantle fraud schemes’ in Minnesota - The Guardian
-- Pilot Is Dead After Helicopters Crash in New Jersey - The New York Times
-- Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6 - The New York Times
-- Ski patrol strike shuts down Colorado's popular Telluride resort indefinitely - CBS News
 - Winter storm brings heavy snow and ice to busy holiday travel weekend - NPR
 - Gas leak outside Los Angeles shuts down major highway, nearby residents shelter in place for hours - ABC News
-- In the US, Netanyahu aims to convince Trump that only threat of war can bring peace - The Times of Israel
+- Joint Statement by the Foreign Ministers of Jordan,Egypt,Algeria Comoros,Djibouti,Gambia Iran,Iraq Kuwait,Libya Maldives,Nigeria Oman,Pakistan, Palestine,Qatar,Saudi Arabia,Somalia Sudan,Turkiye,Yemen and the OIC - Ministry of Foreign Affairs, Government of Pakistan
+- One person dead and one injured after two helicopters crash in New Jersey - The Guardian
+- US-Nigeria strikes: Living in fear of Lakurawa - the militant group Trump targeted - BBC
+- Ski patrol strike shuts down Colorado's popular Telluride resort indefinitely - CBS News
+- Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6 - The New York Times
+- Benjamin Netanyahu to meet Donald Trump as differences over Gaza grow - Financial Times
+- North Korea's Kim Jong Un oversees cruise missile launches - Reuters
 - Bondi Beach shooting hero says he just wanted to stop the assailant from killing more innocent people - CBS News
 - Train derails in southern Mexico, killing 13 and injuring dozens - Al Jazeera
-- Suriname: Nine people, including five children, stabbed to death - BBC
-- Y’all thought stocks and crypto would soar - Morning Brew
-- Asian stocks rise, precious metals hit records on Fed rate cut bets By Reuters - Investing.com
-- China's LandSpace gears up to take on Elon Musk and SpaceX - Reuters
-- The ‘occupations most exposed to AI automation’ actually outperform the rest of the job market, new research reveals - Fortune
+- Asian stocks rise, precious metals hit records on Fed rate cut bets - Reuters
+- New York subway ends its MetroCard era and switches fully to tap-and-go fares - AP News
+- What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years? - Yahoo Finance
+- Market ‘Will Punish People’ If Trump Influences Federal Reserve, Bank Of America CEO Warns - Forbes
 - A guide to choosing the right Apple Watch - TechCrunch
-- Samsung Expands Its Audio Ecosystem for 2026 With Smarter Multi-Device Sound and Immersive New Designs - samsung.com
+- Trump chooses to go back to the moon — and to do it this decade - The Hill
