@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 15:54_
+_Updated: 2025-12-29 16:47_
 
 ## Top Stories
 
-- Uppdatering om misstänkt mord i Boden - Åklagarmyndigheten
+- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
 - Analyser: Det går inte bakåt – en seger för Ukraina - Omni
-- Uppgifter: 26-åring misstänks för mordet i Rönninge – har tidigare försökt kidnappa flicka - SVT Nyheter
+- Uppdatering: Arbetet fortsätter med full intensitet efter stormen Johannes - www.ellevio.se
+- Här letar teknikerna i den misstänktes soptunnor - Aftonbladet
 - Storbritanniens ”mörkaste” skandal - SvD
-- Oväder påverkar färjetrafiken – berör tusentals resenärer - SVT Nyheter
-- Rejält snöoväder drar in över Sverige - Marcus Oscarsson
-- Strömmen tillbaka hos de flesta i Västerbotten – elbolag spränger träd - SVT Nyheter
-- Två dog i kö till hjärnkirurgi på Sahlgrenska - GP
-- Ekonomisk smäll för skidorten efter stormen - Tidningen Näringslivet
-- Nya incidenter efter dödsolyckan – banarbetare nära bli påkörda 28 gånger - Arbetet
+- Nyårsvädret: Snösmocka välkomnar 2026 - Expressen
+- Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
+- 60 000 avelshönor avlivade i Skåne - SVT Nyheter
+- Två dog i kö till hjärnkirurgi på Sahlgrenska - Läkartidningen
+- Åtalas för mord på äldre man i Skurup - SVT Nyheter
 - Ukraina hotat av total befolkningskollaps - Dagens Nyheter
 - Flera döda i tillslag mot IS i Turkiet - GP
-- Kreml: Vi och USA tycker inte vapenvila vore bäst - Omni
-- Man i 80-årsåldern knivhöggs till döds – ung man åtalas - Expressen
-- Brottsmisstänkt vd fick miljonbonus - Västerbottens-Kuriren
-- Försvarsjättarna backar efter fredssamtal - DI
-- Analytiker: Slutet på en era – historiskt bostadsrally över - EFN.se
+- DN Direkt – Polis vid SVT – demonstranter hindrade personal från att gå in - Dagens Nyheter
+- FN: al-Fashir ”det mänskliga lidandets epicentrum” - Aftonbladet
+- Intellegos ex-vd fick miljonbonus dagar före gripandet - DI
+- Försvarssektorn pressas efter fredssamtal: ”Logiskt” - EFN.se
+- Ekonom: Tiden med rusande bostadspriser är över - Omni
 - Efter rallyt – jätteutdelningar väntas från försvarsbolagen - EFN.se
-- Spelare fick plötsligt miljarder på kontot - Expressen
+- LG visar upp nya bildskärmar med AI-uppskalning - PC för Alla
 - Jordens dygn är inte vad du tror: Mänsklig aktivitet och katastrofer förändrar dygnets längd - Illustrerad Vetenskap
 
 ## World News
@@ -40,13 +40,13 @@ _Updated: 2025-12-29 15:54_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -132,12 +132,12 @@ _Updated: 2025-12-29 15:54_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
