@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 07:04_
+_Updated: 2025-12-29 07:51_
 
 ## Top Stories
 
 - Kvinnan som försvann i Salem är död – person misstänkt för mord - SVT Nyheter
-- Utan vävkonsten – ingen digital teknik - SvD
-- Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
-- Hjälp polisen att undvika onödiga olyckor på nyår - polisen.se
+- Trump och Zelenskyj: 90 procent av fredsplanen på plats - EFN.se
+- Årets största konkurser i Skåne – hundratals jobb i spillror - Sydsvenskan
+- Varningen: Andersson kan förlora valet - SvD
+- Kina ska öva runt Taiwan: ”En varning” - DI
+- Sex personer som kan påverka Europa 2026 - SvD
+- Hundratals fortfarande utan ström: "Kan ta dagar" - UNT
+- Vaggerydskår på brand i Eksjö - Skillingaryd
 - 28 december 14.50, Trafikkontroll, Norrbottens län - polisen.se
-- Statsministern om kvinnomorden: ”Mardrömslikt” - expressen.se
-- Villa brann ner i Hylte kommun - SVT Nyheter
-- Dorotea är ett extremt exempel på glesbygdsproblemen - Altinget.SE
-- Räddningstjänsten ryckte ut på larm om villabrand - UNT
-- Två misstänkta rattfyllerier i Skellefteå - Västerbottens-Kuriren
-- Trump och Zelenskyj höll pressträff efter möte i Florida - SVT Nyheter
+- Hårda vindbyar stoppar en av Fåröfärjorna - Helagotland
 - Bomb från andra världskriget flyttad från Belgrad - Västerbottens-Kuriren
+- Bondi-anhöriga kräver utredning - GP
+- Ukraina-allierade ska mötas - DI
 - Fyra nordkoreanska avhoppare berättar: Så flydde vi från Kim Jong-Un - expressen.se
-- Konflikterna som hamnat i skymundan: ”Världens farligaste” - Aftonbladet
+- Second hand-försäljningen ökade i november – uppsving för fysiska butiker - Svensk Handel
+- Årets energinyheter: Intäkter från hembatterier rasade - Nyteknik
 - Skaparen av geniala bilfunktionen död - expressen.se
-- Swedavia erbjuder gratis parkering för hundar på nyårsafton - Swedavia
-- 11-miljonersvilla vid 26 – så gjorde det unga paret bostadskarriär i Stockholm - Dagens Nyheter
-- Därför får dåliga chefer vara kvar på jobbet - Nerikes Allehanda
+- Analytiker: Slutet på en era – historiskt bostadsrally över - EFN.se
 - Ny studie avfärdar gammal teori: Vikingarna utrotade INTE den inhemska befolkningen - Världens Historia
 - Xiaomi lanserar mobil med fysisk zoomring - mobil.se
 
@@ -120,45 +120,45 @@ _Updated: 2025-12-29 07:04_
 ## Science
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
