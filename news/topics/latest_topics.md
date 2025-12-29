@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-29 18:49_
+_Updated: 2025-12-29 19:43_
 
 ## Top Stories
 
-- Ukraina förnekar attack mot Putins sommarresidens - DI
-- Uppgifter: 26-åring misstänks för mordet i Rönninge – har tidigare försökt kidnappa flicka - SVT Nyheter
+- Detta vet vi om det misstänka mordet i Salem - Dagens Nyheter
 - Stormen har dragit förbi – men fortfarande gul varning - Harnosand.se
+- Ukraina förnekar attack mot Putins sommarresidens - DI
 - Gängkriminell köpte dyr jacka – då agerade NK: ”Vill inte prata om det” - Aftonbladet
-- Uppdatering om misstänkt mord i Boden - Åklagarmyndigheten
+- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
+- Fira in det nya året på ett tryggt sätt! - Svedala kommun
 - Ekonomisk smäll för skidorten efter stormen - Tidningen Näringslivet
-- Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
-- 60 000 avelshönor avlivade i Skåne - SVT Nyheter
-- Oväder påverkar färjetrafiken – berör tusentals resenärer - SVT Nyheter
 - 29 december 13.20, Trafikkontroll, Norrbottens län - polisen.se
+- Tak blåste av skola – flera utan ström - Horisont magasin
+- 29 december 07.52, Sammanfattning natt, Östergötlands län - polisen.se
 - Hamas: Kommer inte lägga ner vapen - Västerbottens-Kuriren
+- Trump och Netanyahu i fas 2-samtal - SVT Nyheter
 - Zelenskyj: Fredsavtal ger säkerhetsgarantier i 15 år - Dagens Nyheter
-- Ukraina hotat av total befolkningskollaps - Dagens Nyheter
-- Flera döda i tillslag mot IS i Turkiet - GP
+- Polisjakt norr om Stockholm efter rånförsök - Omni
 - Intellegos ex-vd fick miljonbonus dagar före gripandet - DI
-- Industrin vill accelerera – EU riskerar att bromsa - Tidningen PROFFS
 - Försvarssektorn pressas efter fredssamtal: ”Logiskt” - EFN.se
-- Ekonom: Tiden med rusande bostadspriser är över - Omni
+- Industrin vill accelerera – EU riskerar att bromsa - Tidningen PROFFS
+- Ädelmetallen som rusat mer än guld - SvD
 - ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
 - Spelare fick plötsligt miljarder på kontot - Expressen
 
@@ -65,9 +65,9 @@ _Updated: 2025-12-29 18:49_
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
@@ -98,7 +98,6 @@ _Updated: 2025-12-29 18:49_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -106,12 +105,13 @@ _Updated: 2025-12-29 18:49_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -124,7 +124,7 @@ _Updated: 2025-12-29 18:49_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -135,9 +135,9 @@ _Updated: 2025-12-29 18:49_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
