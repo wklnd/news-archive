@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-29 21:48_
+_Updated: 2025-12-29 22:52_
 
-- Trump and Netanyahu to discuss next phase of Gaza plan in Florida - Reuters
-- The U.S. offers Ukraine a 15-year security guarantee for now, Zelenskyy says - NPR
-- China holds military drills around Taiwan as warning to 'separatist forces' - BBC
-- Trump Claims US Strike on ‘Big Facility’ Inside Venezuela - Bloomberg.com
-- Winter storm brings blizzard conditions and dangerous wind chills to the Midwest - AP News
-- Missing Texas teen in "imminent danger" as search continues - BBC
-- Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
+- US offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says - AP News
+- Trump Live Updates: Ukraine Talks, Netanyahu Meeting, Venezuela and More - The New York Times
+- New winter storm brings dangerous wind, snow and ice - ABC News
+- Ukraine denies drone attack on Putin's residence - BBC
+- China announces war games around Taiwan after hitting out at major US arms deal - CNN
+- Iran Central Bank governor resigns as protests erupt over currency drop - AP News
+- Alleged Jan. 6 pipe bomber said he wasn't targeting Congress' certification of Biden's victory: DOJ - ABC News
 - Two pilots killed after mid-air helicopter collision in New Jersey - BBC
-- Putin tells Trump Ukraine attacked his residence, which Kyiv denies - Axios
+- A Texas teen went missing on Christmas Eve. Authorities believe she could be in imminent danger - CNN
 - Marjorie Taylor Greene says she was ‘naive’ for believing Trump is man of the people - The Guardian
-- Top diplomats of China, Cambodia and Thailand meet as Beijing seeks a stronger role in dispute - AP News
-- Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays - CNN
 - British-Egyptian dissident apologises for tweets as Tories push for UK deportation - BBC
-- Train accident in southern Mexico leaves at least 13 dead and dozens injured - CBS News
+- Thailand accuses Cambodia of breaking newly signed ceasefire deal - BBC
+- US pledges $2bn in new UN model for delivery of humanitarian assistance - The Guardian
+- Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC
 - S&P 500 falls as investors take profit on tech stocks into final stretch of 2025: Live updates - CNBC
-- GM's record stock performance beats Tesla, Ford and other automakers in 2025 - CNBC
+- Nvidia deal shows why inference is AI's next battleground - Axios
 - The weakest labor market since 2011 has BofA asking, ‘Dude, where’s my job?’ - Fortune
-- Bankruptcy success rate for student loan borrowers jumps to 87%, study finds - CNBC
-- Linux will be unstoppable in 2026 - but one open-source legend may not survive - ZDNET
+- GM's record stock performance beats Tesla, Ford and other automakers in 2025 - CNBC
+- Linux will be unstoppable in 2026 - but one open-source legend may not survive - ZDNet
 - Rainbow Six Siege servers are back online after shutting down in response to Marketplace hacks - Engadget
