@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-30 07:52_
+_Updated: 2025-12-30 08:59_
 
-- Trump says U.S. destroyed loading dock in Venezuela - The Washington Post
+- C.I.A. Conducted Drone Strike on Port in Venezuela - The New York Times
 - How a viral video prompted investigations into alleged fraud at day care centers in Minnesota - CBS News
 - Ukraine denies drone attack on Putin's residence - BBC
 - Trump threatens to 'knock the hell' out of Iran if they build weapons - CNBC
-- New Year’s Eve Concerts at Kennedy Center Are Canceled - The New York Times
-- Trump administration rolls out rural health funding, with strings attached - PBS
-- Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' - Reuters
-- Transcript from Charlie Kirk shooting suspect hearing for must be released, judge orders - PBS
+- New Year’s Eve concert is latest cancellation at the Kennedy Center - The Washington Post
+- Trump says Hamas must disarm very soon or "there will be hell to pay" - CBS News
+- Transcript from October closed hearing for Charlie Kirk murder suspect released by Utah court - CBS News
 - National Guard to patrol New Orleans for New Year's a year after deadly attack - ABC News
-- Mamdani Will Be Sworn In at Abandoned Subway Station Beneath City Hall - The New York Times
+- States step into the breach as Obamacare subsidies lapse - Politico
+- Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' - Reuters
+- Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE - AP News
 - China fires rockets towards Taiwan in war games simulating blockade - Reuters
 - Bangladesh's first female prime minister Khaleda Zia dies aged 80 - BBC
-- Trump, top aides asked Netanyahu to change policy in occupied West Bank - Axios
-- Israeli recognition of Somaliland prompts global outcry, emergency U.N. meeting - The Washington Post
+- CCTV suggests alleged Bondi shooters acted alone and did not receive training in Philippines, AFP says - The Guardian
+- Asia-Pacific markets mostly fall on penultimate day of the year - CNBC
+- Dow Jones Futures: AppLovin, Nvidia, Palantir, Tesla Slide During Stock Market Drop - Investor's Business Daily
 - Lululemon founder calls for board overhaul at struggling fitness brand - Financial Times
-- OpenAI seeks new safety chief as Altman flags growing risks - theregister.com
 - Trump says he might sue Fed Chair Jerome Powell for ‘gross incompetence’ - The Washington Post
-- Bank of America CEO drops unexpected view on economy - thestreet.com
-- LG to unveil a canvas-style TV at CES 2026 - Engadget
-- 71 Hysterical Fails From This Year That Made Me Laugh So Hard I Forgot 2025 Was Hell on Earth - BuzzFeed
+- LG officially enters the art TV category with the Gallery TV - The Verge
+- Samsung’s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo
