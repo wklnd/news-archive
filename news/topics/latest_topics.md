@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 11:47_
+_Updated: 2025-12-30 12:48_
 
 ## Top Stories
 
-- 26-åringen begärd häktad – misstänks för mordet i Rönninge - SVT Nyheter
-- Saudiarabien bombar vapenlast i Jemen - Aftonbladet
-- Dödade mamman och höll dottern fången i timmar: "Vansinnesdåd" - NSD
-- Uppdatering: Arbetet fortsätter med full intensitet efter stormen Johannes - www.ellevio.se
-- 30 december 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
+- Anton, 24: Jag är redo att möta min systers mördare - Sydsvenskan
+- Brand i villa i Mjällom – rökdykare har fått ut en person - SVT Nyheter
+- Nytt europeiskt toppmöte om Ukraina - Aftonbladet
 - 30 december 07.05, Sammanfattning natt, Västerbottens län - Polisen.se
-- Hemtjänsten fast på Fårö: ”Väntas snö – det blir en tuff dag” - Helagotland
-- Tryggt nyårsfirande – så arbetar polisen i länet - Polisen.se
+- Här utplånar USA ”knarkbåt” på Stilla havet på Hegseths order - Expressen
+- Två män gripna efter nattlig fyrverkerikupp i Västerås – hade kundvagnar fyllda - SVT Nyheter
 - 30 december 07.00, Sammanfattning natt, Västra Götalands län - Polisen.se
+- 2025 i sammandrag – en tillbakablick från Svenska Läkaresällskapet - sls.se
 - Regeringen satsar på att uppmärksamma ungas ideella engagemang - Regeringen.se
-- Kina avfyrar raketer runt Taiwan - GP
-- Nathan Shachar: Trump prisar Netanyahu – men utdelar flera nålstick - Dagens Nyheter
-- Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
+- Fängelse och böter för Pokémonstölder - Aftonbladet
+- Brytningen mellan påve Leo XIV och Trump närmar sig - Dagens Nyheter
+- Kvintetten som behöver slås ut om regimen i Venezuela ska falla - Dagens Nyheter
+- Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
 - Uppgifter: CIA anföll hamn i Venezuela - SVT Nyheter
-- Stark julhandel – ”handelsföretagen fick den julklapp de önskat sig” - Svensk Handel
-- Minister om Kirunaflytten: ”Kan inte ge ett slutdatum” - Dagens Nyheter
-- 2025 som helhet blev ett rekordår på Tokyobörsen - DI
 - Flera nyheter – bra läge att se över pensionen - Aftonbladet
+- 2025 som helhet blev ett rekordår på Tokyobörsen - Dagens industri
+- Swedbank höjer bolåneräntorna - Aftonbladet
+- ”Sagan om den gröna omställningen” - Västerbottens-Kuriren
+- Förbud vid vite mot hantering av oförpackat kött efter allvarliga hygienbrister - FoodMonitor
 - Ny One UI 8 Watch-uppdatering verkar förstöra funktioner på Galaxy Watch 4 Classic - m3.se
-- Pirriga prylar som gör vintern hetare – 9 tips - Aftonbladet
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2025-12-30 11:47_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -104,41 +104,41 @@ _Updated: 2025-12-30 11:47_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
