@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 07:47_
+_Updated: 2025-12-30 08:56_
 
 ## Top Stories
 
-- Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
-- Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
-- Larmet om 26-åringen i fängelset − våld och hot - Aftonbladet
+- Uppgifter: 26-åring misstänks för mord i Rönninge - SVT Nyheter
 - Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
-- Saudiarabien bombar stad i Jemen - Aftonbladet
-- Alex, 22, dog i olycka – hedrades med biltåg - Aftonbladet
-- Strömmen tillbaka hos de flesta i Västerbotten – elbolag spränger träd - SVT Nyheter
-- Vindar med stormstyrka väntas – orange varning utfärdad - Helagotland
-- Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
-- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
+- Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
+- 40 000 utan el efter stormen – grannar hjälper barnfamilj i Åshammar - Dagens Nyheter
+- Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
+- 30 december 07.00, Sammanfattning natt, Västra Götalands län - Polisen.se
+- Kvällsfärjan försenad en timme i ovädret - Horisont magasin
+- Polisen om alla smällar: "Hur många larm som helst" - Corren
+- Tryggt nyårsfirande – så arbetar polisen i länet - Polisen.se
+- 30 december 07.05, Sammanfattning natt, Västerbottens län - Polisen.se
+- Trump efter mötet med Netanyahu: Kom fram till många slutsatser - Dagens Nyheter
 - Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
-- Zelenskyj: Fredsavtal ger säkerhetsgarantier i 15 år - Dagens Nyheter
-- Kina avfyrar raketer runt Taiwan - GP
-- Flera i slagsmål i Helsingborg – en till sjukhus - Expressen
+- SvD Morgonrapport: Två döda i amerikansk båtattack - SvD
+- Zelenskyj: 15 års säkerhetsgarantier i fredsplan - GP
+- Stärkt julhandel jämfört med förra året - SvD
+- December: Aktiespararna positionerar sig inför 2026 — in med svensk rea och ut med amerikanska dyrgripar - Avanza Investor Relations
 - Ädelmetaller rasar efter julrallyt: ”Det bubblar” - Dagens industri
-- 2025 nytt rekordår med nästan 8 miljoner fordon över Öresundsbron - newsoresund.se
-- Klimatklivsreglerna ändras efter kritiken - ATL
-- Wall Street föll – teknikaktier tyngde - Aftonbladet
-- ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
-- LG visar upp nya bildskärmar med AI-uppskalning - PC för Alla
+- LKAB:s besked: Ansöker om köp av mer mark i Kiruna - EFN.se
+- CD Projekt Red säljer spelbutik till medgrundare - Börsvärlden
+- Det här är ”life-maxxing” – 2026 års största trend - GP
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2025-12-30 07:47_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Avlyssningsskandalen växer - Journalisten
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Avlyssningsskandalen fick polischef att avgå - Journalisten
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -100,45 +100,45 @@ _Updated: 2025-12-30 07:47_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -155,10 +155,10 @@ _Updated: 2025-12-30 07:47_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
