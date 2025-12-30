@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 08:56_
+_Updated: 2025-12-30 09:43_
 
 ## Top Stories
 
-- Uppgifter: 26-åring misstänks för mord i Rönninge - SVT Nyheter
-- Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
+- Uppgifter: Vilma Andersson, 26, misstänks för mordet i Rönninge - Aftonbladet
 - Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
-- 40 000 utan el efter stormen – grannar hjälper barnfamilj i Åshammar - Dagens Nyheter
-- Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
 - 30 december 07.00, Sammanfattning natt, Västra Götalands län - Polisen.se
-- Kvällsfärjan försenad en timme i ovädret - Horisont magasin
-- Polisen om alla smällar: "Hur många larm som helst" - Corren
+- 40 000 utan el efter stormen – grannar hjälper barnfamilj i Åshammar - Dagens Nyheter
+- Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
+- Fyrverkeripjäs hamnade på balkong i Hageby: "Kunde gått illa" - NT
+- 30 december 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
 - Tryggt nyårsfirande – så arbetar polisen i länet - Polisen.se
+- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
 - 30 december 07.05, Sammanfattning natt, Västerbottens län - Polisen.se
+- Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
 - Trump efter mötet med Netanyahu: Kom fram till många slutsatser - Dagens Nyheter
-- Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
 - SvD Morgonrapport: Två döda i amerikansk båtattack - SvD
-- Zelenskyj: 15 års säkerhetsgarantier i fredsplan - GP
-- Stärkt julhandel jämfört med förra året - SvD
+- Två gripna efter fyrverkeristöld på Erikslund - VLT
+- Stark julhandel – ”handelsföretagen fick den julklapp de önskat sig” - Svensk Handel
 - December: Aktiespararna positionerar sig inför 2026 — in med svensk rea och ut med amerikanska dyrgripar - Avanza Investor Relations
-- Ädelmetaller rasar efter julrallyt: ”Det bubblar” - Dagens industri
-- LKAB:s besked: Ansöker om köp av mer mark i Kiruna - EFN.se
+- 36 år gammalt rekord utraderat på Tokyobörsen - GP
+- Ädelmetallen som rusat mer än guld - SvD
+- Digital Foundry ger tummen upp till Flight Simulator 2024 på PS5 - FZ.se
 - CD Projekt Red säljer spelbutik till medgrundare - Börsvärlden
-- Det här är ”life-maxxing” – 2026 års största trend - GP
 
 ## World News
 
@@ -39,19 +39,20 @@ _Updated: 2025-12-30 08:56_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -64,7 +65,6 @@ _Updated: 2025-12-30 08:56_
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
@@ -83,10 +83,10 @@ _Updated: 2025-12-30 08:56_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
