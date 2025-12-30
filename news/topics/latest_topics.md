@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 05:49_
+_Updated: 2025-12-30 06:57_
 
 ## Top Stories
 
+- Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
 - Uppgifter: 26-åring misstänks för mord i Rönninge - SVT Nyheter
-- Trump: Om inte Hamas avväpnar sig kommer de få betala dyrt – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
-- Dödade mamman och höll dottern fången i timmar: "Vansinnesdåd" - NSD
+- Trump: Om inte Hamas avväpnar sig kommer de få betala dyrt – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Saudiarabien bombar stad i Jemen - Aftonbladet
-- 40 000 utan el efter stormen – grannar hjälper barnfamilj i Åshammar - Dagens Nyheter
+- Dödade mamman och höll dottern fången i timmar: "Vansinnesdåd" - NSD
+- Kvällsfärjan försenad en timme i ovädret - Horisont magasin
+- Strömmen tillbaka hos de flesta i Västerbotten – elbolag spränger träd - SVT Nyheter
 - Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
 - Polisen om alla smällar: "Hur många larm som helst" - Corren
-- 29 december 13.20, Trafikkontroll, Norrbottens län - polisen.se
-- Fick böter för ”onödig körning” - Västerbottens-Kuriren
 - Ukraina om påstådd attack mot Putins palats: Lögn - Västerbottens-Kuriren
 - Zelenskyj: 15 års säkerhetsgarantier i fredsplan - GP
-- Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
+- Kina avfyrar raketer runt Taiwan - Hufvudstadsbladet
 - Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
-- Ädelmetallen som rusat mer än guld - SvD
-- Försvarsaktier i Europa backar efter fredssamtal - Västerbottens-Kuriren
-- Nytt rekordår för Öresundsbron - Aftonbladet
+- Nytt rekordår för Öresundsbron - SvD
 - Klimatklivsreglerna ändras efter kritiken - ATL
+- Wall Street föll – teknikaktier tyngde - Aftonbladet
+- Stockholmsbörsen uppåt efter julledigheten - GP
 - ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
 - LG visar upp nya bildskärmar med AI-uppskalning - PC för Alla
 
@@ -38,38 +38,38 @@ _Updated: 2025-12-30 05:49_
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- NTM nominerade i INMA Global Media Awards - ntm.se
-- Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Avlyssningsskandalen växer - Journalisten
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2025-12-30 05:49_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
@@ -142,18 +142,18 @@ _Updated: 2025-12-30 05:49_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
@@ -161,4 +161,4 @@ _Updated: 2025-12-30 05:49_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Så ska det australiensiska jordbruket bli hållbart - ATL
