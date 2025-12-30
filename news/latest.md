@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-31 00:51_
+_Updated: 2025-12-31 01:49_
 
+- Tatiana Schlossberg, journalist and granddaughter of JFK, dies at 35 - The Washington Post
 - Protests spread across Iran for third day after currency hits record low - BBC
-- Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35 - The New York Times
 - Judge orders Trump administration to continue to seek funding for the CFPB - NPR
-- 3 hikers found dead during search and rescue effort on Mount Baldy in California, authorities say - ABC News
-- CIA Squad Smashed Venezuela With Powerful Weapon, New Report Reveals - OutKick
 - Russian official threatens Zelenskyy as Moscow claims Kyiv attacked Putin residence - ABC News
-- Suspected DC pipe bomber to appear at detention hearing after alleged confession - The Guardian
+- 3 hikers found dead during search and rescue effort on Mount Baldy in California, authorities say - ABC News
+- An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf - NPR
+- Alleged D.C. pipe bomber Brian Cole appearing in court for arguments over his continued detention - CBS News
 - US Homeland Security investigates daycares in Minneapolis - BBC
-- The federal government’s top watchdog has retired. Now Congress has to pick a replacement. - Politico
+- Missing Texas teen Camila Mendoza Olmos' father speaks out as search continues: "I miss her" - CBS News
 - Intensifying winter storm snarls U.S. holiday travel amid "hazardous" conditions - Axios
 - China flexes blockade capabilities near Taiwan on second day of military drills - AP News
-- Saudi Arabia strikes Yemen port over alleged UAE weapons shipment - The Washington Post
 - Cecilia Giménez, famed for ‘Monkey Christ’ mural mishap, dies at 94 - The Guardian
-- US judge halts ending of temporary protected status for South Sudanese migrants - The Guardian
-- Minutes of the Federal Open Market Committee, December 9–10, 2025 - Federal Reserve Board (.gov)
-- Idaho company recalls nearly 3,000 pounds of ground beef for E. coli risk - ABC News
+- Russia shows nuclear-capable Oreshnik missile system deployed in Belarus - Euronews.com
+- Israel says it will bar aid groups, including Doctors Without Borders, from Gaza - NPR
+- Deep Divide Inside Fed Raises Questions About Timing of Further Rate Cuts - The New York Times
 - Disney to pay $10m over alleged children's privacy law violations - BBC
 - Meta to Buy Manus, an AI Startup With Chinese Roots - Bloomberg.com
+- Idaho company recalls nearly 3,000 pounds of ground beef for E. coli risk - ABC News
 - Galaxy S26 Ultra leak shows off new camera bump that’s sure to be annoying [Gallery] - 9to5Google
-- Report: Xbox & PlayStation Could Delay Next-Gen Consoles Due To RAM Price Increases - Pure Xbox
+- LG Takes On Samsung's Frame With Gallery TV - CNET
