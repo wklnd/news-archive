@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 09:43_
+_Updated: 2025-12-30 10:53_
 
 ## Top Stories
 
-- Uppgifter: Vilma Andersson, 26, misstänks för mordet i Rönninge - Aftonbladet
-- Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
-- 30 december 07.00, Sammanfattning natt, Västra Götalands län - Polisen.se
+- 26-åringen begärd häktad – misstänks för mordet i Rönninge - SVT Nyheter
+- Tidningsbud misshandlades – ville inte släppa in män i trapphus - SVT Nyheter
 - 40 000 utan el efter stormen – grannar hjälper barnfamilj i Åshammar - Dagens Nyheter
-- Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
-- Fyrverkeripjäs hamnade på balkong i Hageby: "Kunde gått illa" - NT
-- 30 december 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
+- Saudiarabien bombar stad i Jemen - SVT Nyheter
+- 30 december 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
+- Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
 - Tryggt nyårsfirande – så arbetar polisen i länet - Polisen.se
 - Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
 - 30 december 07.05, Sammanfattning natt, Västerbottens län - Polisen.se
-- Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
+- 30 december 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
+- Kina avfyrar raketer runt Taiwan - GP
 - Trump efter mötet med Netanyahu: Kom fram till många slutsatser - Dagens Nyheter
-- SvD Morgonrapport: Två döda i amerikansk båtattack - SvD
-- Två gripna efter fyrverkeristöld på Erikslund - VLT
+- Bondi-anhöriga kräver utredning efter terrordådet - SVT Nyheter
+- Juri von Bonsdorff Försiktig optimism men inget genombrott när Trump mötte Zelenskyj - Hufvudstadsbladet
 - Stark julhandel – ”handelsföretagen fick den julklapp de önskat sig” - Svensk Handel
+- 2025 som helhet blev ett rekordår på Tokyobörsen - Dagens industri
+- Flytten av Kiruna: ”Aldrig att det går på tio år” - Dagens Nyheter
 - December: Aktiespararna positionerar sig inför 2026 — in med svensk rea och ut med amerikanska dyrgripar - Avanza Investor Relations
-- 36 år gammalt rekord utraderat på Tokyobörsen - GP
-- Ädelmetallen som rusat mer än guld - SvD
-- Digital Foundry ger tummen upp till Flight Simulator 2024 på PS5 - FZ.se
-- CD Projekt Red säljer spelbutik till medgrundare - Börsvärlden
+- Ny One UI 8 Watch-uppdatering verkar förstöra funktioner på Galaxy Watch 4 Classic - m3.se
+- Microsofts operativsystem för vikbara Windows Phone-mobiler har läckt ut - m3.se
 
 ## World News
 
@@ -40,36 +40,36 @@ _Updated: 2025-12-30 09:43_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -98,14 +98,12 @@ _Updated: 2025-12-30 09:43_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
@@ -114,51 +112,53 @@ _Updated: 2025-12-30 09:43_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
