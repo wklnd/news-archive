@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-30 09:50_
+_Updated: 2025-12-30 10:58_
 
-- Exclusive: CIA carried out drone strike on port facility on Venezuelan coast - CNN
-- How a viral video prompted investigations into alleged fraud at day care centers in Minnesota - CBS News
 - Trump, top aides asked Netanyahu to change policy in occupied West Bank - Axios
+- Trump says US 'hit' dock in Venezuela, marking first known land attack - ABC News
+- How a viral video prompted investigations into alleged fraud at day care centers in Minnesota - CBS News
 - Ukraine denies drone attack on Putin's residence - BBC
-- New Year’s Eve concert is latest cancellation at the Kennedy Center - The Washington Post
-- Read the letter celebrity lawyer Alex Spiro wrote to Gavin Newsom, warning that his clients will 'permanently relocate' if California wealth tax passes - Business Insider
-- Transcript from Oct. closed hearing for man accused of killing Charlie Kirk released by Utah court - CBS News
+- New Year’s Eve Concerts at Kennedy Center Are Canceled - The New York Times
+- Trump administration rolls out rural health funding, with strings attached - PBS
+- Transcript from October closed hearing for Charlie Kirk murder suspect released by Utah court - CBS News
+- Trump admin can share immigrants’ Medicaid data with ICE, judge rules - Politico
 - National Guard to patrol New Orleans for New Year's a year after deadly attack - ABC News
-- Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' - Reuters
-- Trump administration rolls out rural health funding, with strings attached - AP News
-- Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE - AP News
+- States step into the breach as Obamacare subsidies lapse - Politico
 - China fires rockets towards Taiwan in war games simulating blockade - Reuters
-- Alleged Bondi gunmen did not train in the Philippines and acted alone, police say - CNN
-- Bangladesh's first female prime minister Khaleda Zia dies aged 80 - BBC
-- Asia-Pacific markets mostly fall on penultimate day of the year - CNBC
-- ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - The Guardian
-- Dow Jones Futures: AppLovin, Nvidia, Palantir, Tesla Slide During Stock Market Drop - Investor's Business Daily
+- Saudi Arabia says national security is a red line as UAE forces asked to leave Yemen - Reuters
+- Khaleda Zia: Slain leader's widow who went on to lead Bangladesh - BBC
+- Israeli recognition of Somaliland prompts global outcry, emergency U.N. meeting - The Washington Post
+- Stock futures climb marginally after S&P 500 posts back-to-back losses: Live updates - CNBC
 - Lululemon founder calls for board overhaul at struggling fitness brand - Financial Times
+- Trump says he might sue Fed Chair Jerome Powell for ‘gross incompetence’ - The Washington Post
+- OpenAI seeks new safety chief as Altman flags growing risks - theregister.com
 - LG officially enters the art TV category with the Gallery TV - The Verge
-- 71 Hysterical Fails From This Year That Made Me Laugh So Hard I Forgot 2025 Was Hell on Earth - BuzzFeed
+- CD Projekt Co-Founder Buys Steam Rival GOG - Gizmodo
