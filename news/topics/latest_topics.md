@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 13:41_
+_Updated: 2025-12-30 15:12_
 
 ## Top Stories
 
-- Uppgifter: 26-åring misstänks för mordet i Rönninge – har tidigare försökt kidnappa flicka - SVT Nyheter
-- Anton, 24: Jag är redo att möta min systers mördare - Sydsvenskan
-- Brand i villa i Mjällom – rökdykare har fått ut en person - SVT Nyheter
-- Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
-- Tidigare Sollefteåpolitiker frias – hotfulla mejlet inte brottsligt - SVT Nyheter
-- Nytt europeiskt toppmöte om Ukraina - Aftonbladet
-- Startar insamling för döttrarna efter mordet i Boden ”Alla berörs” - SVT Nyheter
-- Tusentals strömlösa efter stormen ”Ett slagfält” - Västerbottens-Kuriren
-- Så blir nyårsvädret: Blåst, solsken och snö - Västerbottens-Kuriren
-- Kvällsfärjan försenad en timme i ovädret - Horisont magasin
+- En begärs häktad för mordet i Rönninge - SVT Nyheter
+- Unga utförare ligger bakom flera mordbränder i Malmö - Polisen.se
+- Fyrverkeri i Halland – det här gäller i din kommun för nyårsafton 2025 - SVT Nyheter
 - Uppgifter: CIA anföll hamn i Venezuela - SVT Nyheter
-- Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
+- Startar insamling för döttrarna efter mordet i Boden: ”Alla berörs” - SVT Nyheter
+- Kina avfyrar raketer runt Taiwan - SVT Nyheter
+- Snöoväder till nyår: ”Upp till en halvmeter” - SvD
+- Misstänks ha lurat till sig miljoner – åtalas - SVT Nyheter
+- Tusentals strömlösa efter stormen ”Ett slagfält” - Västerbottens-Kuriren
+- 30 december 08.00, Sammanfattning natt, Södermanlands län - Polisen.se
+- Brytningen mellan påve Leo XIV och Trump närmar sig - Dagens Nyheter
 - Tonåring dog i samband med Tiktok-utmaning - SvD
-- Kina avfyrar raketer runt Taiwan - GP
-- Flera nyheter – bra läge att se över pensionen - Aftonbladet
-- Guld och silver rekylerar upp efter rasen - DI
-- Minister om Kirunaflytten: ”Kan inte ge ett slutdatum” - Dagens Nyheter
-- Ännu ett fint börsår i Japan - Aktiellt
+- Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
+- Protester i Iran mot skenande ekonomi - GP
+- Flera nyheter – bra läge att se över pensionen - SvD
+- H&M stänger flaggskeppsbutik i Hongkong - GP
+- Stark julhandel – ”handelsföretagen fick den julklapp de önskat sig” - Svensk Handel
+- Familjen Perssons massiva köpräd under 2025 - DI
 - Efter stor studie ifrågasätter astronomer en grundläggande teori om vår egen galax - Illustrerad Vetenskap
 - Årets Spel 2025 – Hampus - varvat.se
 
 ## World News
 
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -40,13 +41,12 @@ _Updated: 2025-12-30 13:41_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -106,16 +106,16 @@ _Updated: 2025-12-30 13:41_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2025-12-30 13:41_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
