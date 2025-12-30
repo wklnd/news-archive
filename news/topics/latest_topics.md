@@ -1,36 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 22:45_
+_Updated: 2025-12-30 23:41_
 
 ## Top Stories
 
-- Dna-spår ledde polisen – häktad förnekar mord - SvD
-- Buss har kört in i husfasad i Liljeholmen – 16 skadade - SVT Nyheter
-- Unga utförare ligger bakom flera mordbränder i Malmö - Polisen.se
-- Nyheter från dagen tisdag 30 december - SVT Nyheter
-- Bekräftat: Den misstänkte för dubbelmordet på britterna är död - Sydsvenskan
-- Uppdatering: Arbetet fortsätter med full intensitet efter stormen Johannes - www.ellevio.se
-- 30 december 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
-- Fyrverkeri i Halland – det här gäller i din kommun för nyårsafton 2025 - SVT Nyheter
+- 17-årig pojke tände på flerfamiljshus – började själv brinna - Sydsvenskan
+- Öppen mötesplats i Bara - Svedala kommun
+- Israel stoppar flera hjälporganisationer i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Kraftig spridning av influensa – NU-sjukvården i stabsläge - SVT Nyheter
+- 30 december 07.05, Sammanfattning natt, Västerbottens län - polisen.se
+- Alkoholmarkörer och juridiskt kön – detta debatterade ni 2025 - Läkartidningen
+- 16 skadade i busskrasch i Stockholm – 7 förda till sjukhus - Dagens Nyheter
+- En död efter villabrand i Skellefteå - SVT Nyheter
 - Julia filmade vargen: ”Trodde det var en hund först och stannade och lockade” - Sveriges Radio
 - Strömmer om morden: ”Outsäglig sorg” - SVT Nyheter
-- Protester i Iran mot skenande ekonomi - GP
-- Regeringen avsätter 800 miljoner kronor i humanitärt stöd till Gaza och regionen för 2026 - Regeringen.se
-- Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
-- Rånare kom över 300 miljoner – som ”Ocean’s eleven” - Sydsvenskan
-- Saab får order på GlobalEye från Frankrike - Saab
-- Nej från S till regeringens kärnkraftsplan - EFN.se
-- H&M stänger flaggskeppsbutik i Hongkong - Västerbottens-Kuriren
-- Årets börsraketer och aktietorpeder 2025 – Lundin och Saab i topp - Affärsvärlden
-- Det här var de bästa spelen från det gångna året - m3.se
-- Samsung Bixby får hjälp av Perplexity - Swedroid
+- Brytningen mellan påve Leo XIV och Trump närmar sig - Dagens Nyheter
+- USA:s största covid-bedrägeri splittrar Minnesotas somalier - GP
+- Ukraina evakuerar samhällen i norr - Västerbottens-Kuriren
+- Uppgifter: CIA anföll hamn i Venezuela - SVT Nyheter
+- S tror inte på ny kärnkraft till 2035 - SvD
+- Få förändringar gällande avgifter för vårdbesök 2026 - Region Kalmar Län
+- Stockholmsbörsen stänger året med flaggan i topp - Dagens industri
+- Convendums rekonstruktion i mål: ”Ska generera vinst” - Dagens industri
+- Vi provar Sony A7 V – En rejäl förbättring! - Fotosidan.se
+- Så hamnade Indiana Jones i Uppsala - Dagens PS
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -42,9 +40,11 @@ _Updated: 2025-12-30 22:45_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- NTM nominerade i INMA Global Media Awards - ntm.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
@@ -75,47 +75,47 @@ _Updated: 2025-12-30 22:45_
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2025-12-30 22:45_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
