@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 04:30_
+_Updated: 2025-12-30 05:49_
 
 ## Top Stories
 
 - Uppgifter: 26-åring misstänks för mord i Rönninge - SVT Nyheter
 - Trump: Om inte Hamas avväpnar sig kommer de få betala dyrt – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Butiker hålls stängda i Teheran – protester mot valutakrisen - SVT Nyheter
-- Orange varning utfärdad på Gotland: ”Mycket blåsigt” - Omni
-- Ny amerikansk båtattack i Stilla havet – två döda - Omni
+- Dödade mamman och höll dottern fången i timmar: "Vansinnesdåd" - NSD
+- Saudiarabien bombar stad i Jemen - Aftonbladet
 - 40 000 utan el efter stormen – grannar hjälper barnfamilj i Åshammar - Dagens Nyheter
-- Efter våldsdådet i Boden – regionen vill inte bemöta kritiken - SVT Nyheter
-- Tryggt nyårsfirande – så arbetar polisen i länet - Polisen.se
+- Tryggt nyårsfirande – så arbetar polisen i länet - polisen.se
 - Polisen om alla smällar: "Hur många larm som helst" - Corren
-- Två dog i kö till hjärnkirurgi på Sahlgrenska - Läkartidningen
-- Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
+- 29 december 13.20, Trafikkontroll, Norrbottens län - polisen.se
+- Fick böter för ”onödig körning” - Västerbottens-Kuriren
+- Ukraina om påstådd attack mot Putins palats: Lögn - Västerbottens-Kuriren
 - Zelenskyj: 15 års säkerhetsgarantier i fredsplan - GP
 - Elleshia Seymour försvann med barnen ”i skräck för domedagen” - Aftonbladet
-- 29 december 17.12, Rån, försök, Järfälla - Polisen.se
-- Europas försvarsaktier repade sig efter nya bråket - Omni
+- Uppgifter: CIA har attackerat hamn i Venezuela - SVT Nyheter
+- Ädelmetallen som rusat mer än guld - SvD
+- Försvarsaktier i Europa backar efter fredssamtal - Västerbottens-Kuriren
+- Nytt rekordår för Öresundsbron - Aftonbladet
 - Klimatklivsreglerna ändras efter kritiken - ATL
-- Nytt rekordår för Öresundsbron - SVT Nyheter
-- Wall Street föll – teknikaktier tyngde - Aftonbladet
 - ”Robinson”-Robban om skilsmässan, okända pengarna och punggroggen - Aftonbladet
 - LG visar upp nya bildskärmar med AI-uppskalning - PC för Alla
 
@@ -52,24 +52,24 @@ _Updated: 2025-12-30 04:30_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2025-12-30 04:30_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Spotify-grundare bakom nytt bolag med fokus på preventiv vård - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-12-30 04:30_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
