@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-30 04:32_
+_Updated: 2025-12-30 05:51_
 
-- Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – live - The Guardian
-- Noem says Homeland Security is investigating fraud in Minneapolis - PBS
-- Trump says US 'hit' dock in Venezuela, marking first known land attack - ABC News
+- Trump Live Updates: Netanyahu Meeting, Ukraine Talks, Venezuela and More - The New York Times
+- Here’s what to know about a viral YouTube video about fraud in Minnesota - MPR News
 - Ukraine denies drone attack on Putin's residence - BBC
+- Trump threatens to 'knock the hell' out of Iran if they build weapons - CNBC
 - Winter storm could become "bomb cyclone" over Great Lakes and Northeast. Maps show latest forecast. - CBS News
-- CMS Announces $50 Billion in Awards to Strengthen Rural Health in All 50 States - Centers for Medicare & Medicaid Services | CMS (.gov)
-- Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
-- Trump news at a glance: progress but no breakthrough in Ukraine peace talks - The Guardian
+- Trump administration rolls out rural health funding, with strings attached - PBS
+- Transcript from Charlie Kirk shooting suspect hearing for must be released, judge orders - PBS
+- Trump says U.S. destroyed loading dock in Venezuela - The Washington Post
+- U.S. offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says - PBS
 - 2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site - AP News
-- Protests erupt in Iran over currency’s plunge to record low - CNN
-- China launches live-firing drills around Taiwan in its biggest war games to date - Reuters
-- Bangladesh's first female prime minister Khaleda Zia dies aged 80 - BBC
+- China launches live-firing drills around Taiwan simulating blockade - Reuters
+- Bangladesh’s former Prime Minister Khaleda Zia dies - Al Jazeera
 - U.S. Pledges $2 Billion for U.N. Aid but Trump Administration Tells Agencies to ‘Adapt, Shrink, or Die’ - The New York Times
-- Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula - The New York Times
+- Israeli recognition of Somaliland prompts global outcry, emergency U.N. meeting - The Washington Post
 - Lululemon founder calls for board overhaul at struggling fitness brand - Financial Times
 - ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - The Guardian
+- Trump says he might sue Fed Chair Jerome Powell for ‘gross incompetence’ - The Washington Post
 - GM's record stock performance beats Tesla, Ford and other automakers in 2025 - CNBC
-- Trump says he’d ‘love to fire’ Jerome Powell in latest attack on Fed chair - The Guardian
 - Samsung’s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo
-- NASA finally has a leader, but its future is no more certain - Engadget
+- LG officially enters the art TV category with the Gallery TV - The Verge
