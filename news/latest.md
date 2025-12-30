@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-30 01:49_
+_Updated: 2025-12-30 04:32_
 
-- Netanyahu says Donald Trump will receive Israel prize as pair hold press conference at Mar-a-Lago – live - The Guardian
-- Ukraine denies drone attack on Putin's residence - BBC
+- Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – live - The Guardian
+- Noem says Homeland Security is investigating fraud in Minneapolis - PBS
 - Trump says US 'hit' dock in Venezuela, marking first known land attack - ABC News
+- Ukraine denies drone attack on Putin's residence - BBC
 - Winter storm could become "bomb cyclone" over Great Lakes and Northeast. Maps show latest forecast. - CBS News
-- Homeland Security to investigate over 30 sites in Minneapolis on Monday for what it calls "rampant fraud" - CBS News
-- U.S. offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says - PBS
-- Alleged Jan. 6 pipe bomber said he wasn't targeting Congress' certification of Biden's victory: DOJ - ABC News
+- CMS Announces $50 Billion in Awards to Strengthen Rural Health in All 50 States - Centers for Medicare & Medicaid Services | CMS (.gov)
+- Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
+- Trump news at a glance: progress but no breakthrough in Ukraine peace talks - The Guardian
 - 2 New Jersey pilots killed in a helicopter collision frequented a cafe together near the crash site - AP News
-- A Texas teen went missing on Christmas Eve. Authorities believe she could be in imminent danger - CNN
-- Trump admin doles out billions for rural health - Politico
-- China stages military drills around Taiwan to warn 'external forces' after US, Japan tensions - ABC News
+- Protests erupt in Iran over currency’s plunge to record low - CNN
+- China launches live-firing drills around Taiwan in its biggest war games to date - Reuters
+- Bangladesh's first female prime minister Khaleda Zia dies aged 80 - BBC
+- U.S. Pledges $2 Billion for U.N. Aid but Trump Administration Tells Agencies to ‘Adapt, Shrink, or Die’ - The New York Times
 - Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula - The New York Times
-- US pledges $2bn in new UN model for delivery of humanitarian assistance - The Guardian
-- Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC
-- Stock Market Today: Dow, Nasdaq Slip; Silver and Gold Futures Slide — Live Updates - The Wall Street Journal
-- Silver Prices Surge, Then Slump. How ‘Index Rebalancing’ Could Lead to More Wild Swings. - Barron's
+- Lululemon founder calls for board overhaul at struggling fitness brand - Financial Times
 - ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - The Guardian
+- GM's record stock performance beats Tesla, Ford and other automakers in 2025 - CNBC
 - Trump says he’d ‘love to fire’ Jerome Powell in latest attack on Fed chair - The Guardian
-- Leonardo’s wood charring method predates Japanese practice - Ars Technica
-- The Jewish billionaire who took over NASA, with a push from Musk - Ynetnews
+- Samsung’s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo
+- NASA finally has a leader, but its future is no more certain - Engadget
