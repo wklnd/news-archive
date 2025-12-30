@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-30 15:53_
+_Updated: 2025-12-30 16:47_
 
 ## Top Stories
 
-- En begärs häktad för mordet i Rönninge - SVT Nyheter
-- Utbrott av svinpest – misstanke om labbläcka - SvD
+- Vilma Andersson häktas misstänkt för styckmordet i Rönninge - Aftonbladet
+- Stormen Johannes drog fram med rekordhastigheter - DI
+- Kina avfyrar raketer runt Taiwan - SVT Nyheter
 - Fyrverkeri i Halland – det här gäller i din kommun för nyårsafton 2025 - SVT Nyheter
 - Startar insamling för döttrarna efter mordet i Boden: ”Alla berörs” - SVT Nyheter
+- Öppen mötesplats i Bara - Svedala kommun
+- Snöoväder till nyår: ”Upp till en halvmeter” - Dagens Nyheter
+- Två personer åtalas misstänkta för grova bedrägerier - Polisen.se
+- Hemtjänsten fast på Fårö: ”Väntas snö – det blir en tuff dag” - Helagotland
+- Undersköterska kirurgmottagning - Region Kalmar Län
 - Uppgifter: CIA anföll hamn i Venezuela - SVT Nyheter
-- Kina avfyrar raketer runt Taiwan - SVT Nyheter
-- Snöoväder till nyår: ”Upp till en halvmeter” - SvD
-- Misstänks ha lurat till sig miljoner – åtalas - SVT Nyheter
-- Tusentals strömlösa efter stormen ”Ett slagfält” - Västerbottens-Kuriren
-- Kvällsfärjan försenad en timme i ovädret - Horisont magasin
-- Tonåring dog i samband med Tiktok-utmaning - SvD
 - Brytningen mellan påve Leo XIV och Trump närmar sig - Dagens Nyheter
+- Tonåring dog i samband med Tiktok-utmaning - SvD
 - Ukraina om påstådd drönarattack mot Putins palats: Lögn - Hufvudstadsbladet
-- Protester i Iran mot skenande ekonomi - GP
 - Flera nyheter – bra läge att se över pensionen - SvD
-- Familjen Perssons massiva köpräd under 2025 - DI
-- Stark julhandel – ”handelsföretagen fick den julklapp de önskat sig” - Svensk Handel
+- H&M lämnar prestigebutik i Hongkong – hyror och e-handel pressar - DI
 - Ännu ett fint börsår i Japan - Aktiellt
+- Branta fall för ädelmetaller: ”Tar hem vinster” - EFN.se
 - Efter stor studie ifrågasätter astronomer en grundläggande teori om vår egen galax - Illustrerad Vetenskap
 - Årets Spel 2025 – Hampus - varvat.se
 
@@ -38,36 +38,36 @@ _Updated: 2025-12-30 15:53_
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
-- Deepseek är det nya Linux - Computer Sweden
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Deepseek är det nya Linux - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
@@ -119,26 +119,26 @@ _Updated: 2025-12-30 15:53_
 
 ## Science
 
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
