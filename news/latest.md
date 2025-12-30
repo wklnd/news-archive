@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-30 22:52_
+_Updated: 2025-12-30 23:50_
 
-- An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf - NPR
-- Russian official threatens Zelenskyy as Moscow claims Kyiv attacked Putin residence - ABC News
-- C.I.A. Conducted Drone Strike on Port in Venezuela - The New York Times
 - Protests spread across Iran for third day after currency hits record low - BBC
-- What being around death taught this hospital chaplain about life - NPR
-- The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal - BBC
-- Suspected DC pipe bomber to appear at detention hearing after alleged confession - The Guardian
-- YouTuber’s ‘Somali daycare’ video spurs sweeping $18 billion federal fraud probe in Minnesota - Fortune
-- Time for Congress to find a new top watchdog for Trump to nominate - Politico
+- Tatiana Schlossberg, granddaughter of JFK, has died - ABC News
+- Russia and Ukraine trade barbs over alleged drone attack on Putin residence - CNBC
+- An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf - NPR
+- Judge orders Trump administration to continue to seek funding for the CFPB - NPR
+- China encircles Taiwan in massive military display - CNBC
+- Ahead of alleged Jan. 6 pipe bomber's Tuesday court appearance, attorneys urge judge to release him before trial - ABC News
+- US Homeland Security investigates daycares in Minneapolis - BBC
 - Intensifying winter storm snarls U.S. holiday travel amid "hazardous" conditions - Axios
-- China flexes blockade capabilities near Taiwan on second day of military drills - AP News
+- 3 hikers found dead during search and rescue effort on Mount Baldy in California, authorities say - ABC News
 - Cecilia Giménez, famed for ‘Monkey Christ’ mural mishap, dies at 94 - The Guardian
 - British-Egyptian dissident appears to endorse 'smear campaign' claims - BBC
+- Trump, top aides express concern over Israel’s West Bank policies in meeting with PM - The Times of Israel
 - US judge halts ending of temporary protected status for South Sudanese migrants - The Guardian
 - Fed minutes show officials were in tight split over December rate cut - CNBC
 - Meta to Buy Manus, an AI Startup With Chinese Roots - Bloomberg.com
-- Stock Market Today: Silver Prices Jump; Dow Creeps Lower — Live Updates - The Wall Street Journal
-- Where to invest $10,000 as AI-bubble fears mount, according to 8 Wall Street pros - Business Insider
+- These restaurant chains closed locations in 2025 - CNBC
+- IRS increases 2026 business mileage rate by 2.5 cents - Yahoo Finance
 - Galaxy S26 Ultra leak shows off new camera bump that’s sure to be annoying [Gallery] - 9to5Google
-- LG has announced a rival to one of Samsung’s most controversial TVs - What Hi-Fi?
+- New Report Says PS6 And The Next Xbox Could Be Delayed Thanks To AI - Forbes
