@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-31 05:50_
+_Updated: 2025-12-31 07:01_
 
-- Trump administration says it's freezing child care funds to Minnesota after series of fraud schemes - AP News
-- Tatiana Schlossberg, journalist and granddaughter of JFK, dies at 35 - The Washington Post
-- An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf - NPR
+- Trump administration says it's freezing child care funds to Minnesota - NPR
+- Body found amid search for missing Texas teen Camila Mendoza Olmos - CBS News
+- Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35 - The New York Times
 - 3 found dead during search for fallen hiker in California, authorities say - ABC News
-- Judge orders Trump administration to continue to seek funding for the CFPB - NPR
 - SNAP bans on soda, candy and other foods take effect in five states Jan. 1 - CNN
-- Body located amid search for missing Texas teen: Sheriff - ABC News
-- Alleged D.C. pipe bomber Brian Cole appears in court for arguments over his continued detention - CBS News
+- 6 Takeaways on the Unwinding U.S.-Ukraine Alliance - The New York Times
 - Former U.S. Sen. Ben Nighthorse Campbell dies - The Colorado Sun
 - California homeowner says 550-pound black bear is living under his house - ABC News
+- 'It’s A Top Priority’: Unsealed Order Suggests DOJ Retaliated Against Abrego Garcia for Court Victory - Democracy Docket
+- Trump vetoes bipartisan bill to provide clean water to rural Southeastern Colorado - Colorado Public Radio
+- Tensions between Saudi Arabia and UAE spike with bombing of port - The Washington Post
 - Train crash near Peru’s Machu Picchu kills driver, injures dozens - Al Jazeera
 - China flexes blockade capabilities near Taiwan on second day of military drills - AP News
-- Israel to bar 37 aid groups from Gaza - BBC
 - Thieves drill into German bank vault and make off with millions - CNN
+- Gold and silver see rollercoaster end to blockbuster year - BBC
+- Asia-Pacific markets fall in year-end trade; investors parse China manufacturing data - CNBC
 - Fed officials showed deep divisions at December meeting, minutes show - Reuters
-- What's driving the rollercoaster in gold and silver prices? - ABC News
-- Disney to pay $10m over alleged children's privacy law violations - BBC
 - Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them - MarketWatch
 - LG is taking on Samsung’s ‘The Frame’ with its new ‘Gallery TV’ - 9to5Google
-- Apple's foldable iPhone leaks again, and it's thinner than expected - TechSpot
+- The 9 Best Video Games of 2025 - Roger Ebert
