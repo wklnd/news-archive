@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-01 00:51_
+_Updated: 2026-01-01 01:49_
 
-- Live Updates: Trump Vetoes, Epstein Files and More - The New York Times
-- HHS freezing child care payments to all states after Minnesota fraud allegations: Official - ABC News
-- Colombia president says U.S. strike in Venezuela struck cocaine plant - upi.com
+- These bipartisan bills were noncontroversial — until Trump vetoed them - AP News
+- What to know about Nick Shirley, the YouTuber alleging day care fraud in Minnesota - NPR
+- House Judiciary Committee releases video and transcript of Jack Smith deposition - CNN
+- EU's top diplomat rejects Russian claims of Ukrainian attack on government sites - BBC
 - Oil tanker pursued by US now has a Russian flag painted on its side - CNN
 - Venezuela Detains U.S. Citizens Amid Trump Administration’s Growing Pressure - The New York Times
-- Bexar sheriff feels 'strongly' human remains belong to Camila Mendoza Olmos - San Antonio Express-News
+- Body found confirmed to be missing 19-year-old Camila Mendoza Olmos, death ruled suicide - ABC News
+- SNAP bans on soda, candy and other foods take effect in five states Jan. 1 - ABC7 Los Angeles
 - Take a look at the abandoned New York City subway station where Zohran Mamdani will be sworn in as mayor - Business Insider
-- Congress releases Jack Smith's testimony about Trump prosecutions - BBC
-- Trump tears into Kennedys hours after family death is announced - NJ.com
 - Documents suggest Kilmar Ábrego García was retaliated against after wrongful deportation - The Guardian
-- Photos of New Year’s celebrations across the globe - AP News
+- New Year's Eve 2026 celebrations kick off as the new year dawns around the world - CBS News
 - Suicide bomber kills at least one police officer in Syria’s Aleppo - Al Jazeera
-- Photos show the year in politics as Trump brought change to America in 2025 - CBS News
 - China announces it 'successfully completed' Taiwan military maneuvers - ABC News
-- Some Warren Buffett wisdom on his last day leading Berkshire Hathaway - AP News
+- Photos show the year in politics as Trump brought change to America in 2025 - CBS News
+- Warren Buffett steps down as Berkshire Hathaway CEO after six decades - Los Angeles Times
+- Gold Forecast 2026: Why Macro Forces and Technical Breakouts Point to $6,000 - FXEmpire
 - 5 themes that defined business and markets in 2025: Morning Squawk - CNBC
-- Is anything open on New Year's Eve 2025? Here are open stores, restaurants and fast-food chains. - CBS News
-- Wall Street ends 2025 near record highs after year of economic upheaval - The Guardian
+- Sprinkles Cupcakes founder confirms bakery chain is closing permanently - CBS News
 - Samsung unveils its new $200 Galaxy A17 5G smartphone, arriving in January - Engadget
-- Apple drops cryptic teaser for Apple Fitness+: ‘Something big is coming’ in 2026 - 9to5Mac
+- LG is taking on Samsung’s ‘The Frame’ with its new ‘Gallery TV’ - 9to5Google
