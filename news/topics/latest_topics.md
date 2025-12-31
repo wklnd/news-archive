@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-31 07:48_
+_Updated: 2025-12-31 08:56_
 
 ## Top Stories
 
+- Nyårsvädret: Minusgrader och snö - Horisont magasin
 - 26-åringen dömd för trafikolycka – ett år tidigare - Dagens Nyheter
+- Det här kommer att bli riktigt otrevligt - SvD
 - Träden skyddar Winfridas gård mot det nya vädret - Aftonbladet
-- 30 december 16.06, Trafikolycka, personskada, Stockholm - Polisen.se
-- Sorg och nytt hopp – upplev 2025 i bilder - SvD
-- Quiz: Vad minns du av nyhetsåret 2025? - Tidningen Näringslivet
-- Uppdatering: Arbetet fortsätter med full intensitet efter stormen Johannes - www.ellevio.se
+- 31 december 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
+- World Weather Attribution: Extrema väderhändelser 2025 blottlade ojämlikhet och begränsningar i anpassningsförmågan - SMHI
 - Så får du skjuta fyrverkerier under nyår – det gäller i Västmanland - SVT Nyheter
-- 30 december 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
-- Misstänkta mördaren i Boden ringde på dörren – var i huset i flera timmar - SvD
-- Snöoväder till nyår: ”Upp till en halvmeter” - Västerbottens-Kuriren
-- Ukraina om påstådd attack mot Putins palats: Lögn - GP
+- Kraftigt snöfall försenar för strömlösa - Dagens Nyheter
+- 30 december 16.06, Trafikolycka, personskada, Stockholm - Polisen.se
+- 31 december 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
 - Ryssland: Ukrainsk attack mot hamnstad - Folkbladet
-- Skräckvapnet visas upp – nya hot om attacker - Aftonbladet
+- Året som kan förändra allt – skaffa Omni Mer och få 1 månad gratis - Omni
+- Ryska hotet – flyttar vapen närmare Europa - Expressen
 - Regeringen avsätter 800 miljoner kronor i humanitärt stöd till Gaza och regionen för 2026 - Regeringen.se
-- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
+- Elförbrukningen i Sverige fortsätter att minska - SvD
+- Här är pensionsnyheterna du behöver ha koll på 2026 - Sydsvenskan
 - Höjd pension och sänkt skatt för de rikaste – så mycket mer får du i plånboken 2026 - Arbetet
-- Swedbank höjer bolåneräntorna - Tidningen Näringslivet
-- Tio frågor som avgör ekonomin 2026 - Aftonbladet
+- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
 - Det här var de bästa spelen från det gångna året - m3.se
 - Apples iPad under 2025: höjdpunkterna, missarna och vad vi vill se under 2026 - TechRadar
 
@@ -52,6 +52,7 @@ _Updated: 2025-12-31 07:48_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -60,7 +61,6 @@ _Updated: 2025-12-31 07:48_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
@@ -119,26 +119,26 @@ _Updated: 2025-12-31 07:48_
 
 ## Science
 
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2025-12-31 07:48_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
