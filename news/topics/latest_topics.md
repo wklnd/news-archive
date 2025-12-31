@@ -1,41 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-31 17:43_
+_Updated: 2025-12-31 18:49_
 
 ## Top Stories
 
-- Längdskidor: Edvin Anger sämste svensk: ”En bedrövelse” - SVT Nyheter
 - Röd varning för ovädret Anna – kan ”isolera landsbygd” - Aftonbladet
-- Dubbla kabelbrott – skepp taget i beslag - SvD
-- Fyrverkerier i Ö-vik – detta gäller - Allehanda.se
-- Misstänkt för mordet i Rönninge – tidigare dömd - GP
-- Kraftigt snöfall försenar för strömlösa - Dagens Nyheter
-- Strömmer i Salem: ”Ett fruktansvärt mörker” - GP
-- En jockey, en nobelpristagare – och alla hjältar däremellan - Sydsvenskan
+- 26-åringen bedömdes lida av pedofili efter kidnappningsförsöket av tioåringen - Dagens Nyheter
+- Nya kabelbrott i Finska viken – fartyg i beslag - Dagens Nyheter
+- Torg avspärrat i Västerås – misstänkt farligt föremål - SVT Nyheter
+- Regeringen: Nollvision mot mäns våld mot kvinnor - Västerbottens-Kuriren
+- Polisens uppmaning: "Prata med era ungdomar om smällare" - NT
+- Chefen för elnät om stormen: ”Värsta som hänt i Falun någonsin” - SVT Nyheter
+- Nyheter från dagen tisdag 30 december - SVT Nyheter
 - 31 december 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
-- En död efter villabrand i Skellefteå - SVT Nyheter
+- Man begärd häktad för bl.a. mord och försök till mord i Göteborg 2012 - Åklagarmyndigheten
+- Putin: Tror på seger i Ukraina - Västerbottens-Kuriren
+- Sammandrabbningar under protesterna i Iran - SVT Nyheter
 - Stor sökinsats i Helsingör: Svensk tonåring försvunnen - Sydsvenskan
-- Dags för 2026 – här firas det nya året över världen - Dagens Nyheter
-- Israel: Är med iranska demonstranter ”på plats” - GP
-- Flera skadade i attacker i Ryssland och Ukraina - GP
-- Oro för amerikansk ”segway-ekonomi” - SvD
+- Kiribati först ut att fira år 2026 – Sydney firade nyår klockan 15 - Yle
 - Trumps oberäknelighet guld för Lundin Gold - SvD
-- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
+- Oro för amerikansk ”segway-ekonomi” - SvD
 - Ny prognos: Så högt blir elpriset i Västerbotten i vinter - Norran
+- Saab får order på GlobalEye från Frankrike - Saab
 - Årets spel 2025 – Jonas - varvat.se
-- Kingdom Come: Deliverance ryktas få en nyversion till de senaste konsolerna - FZ.se
+- IKEA gör rollspelet Drönjöns & Dragan av sin katalog - Teknikveckan
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
@@ -45,6 +43,8 @@ _Updated: 2025-12-31 17:43_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
@@ -142,11 +142,12 @@ _Updated: 2025-12-31 17:43_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,9 +157,8 @@ _Updated: 2025-12-31 17:43_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
