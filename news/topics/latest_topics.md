@@ -1,52 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-31 22:44_
+_Updated: 2025-12-31 23:41_
 
 ## Top Stories
 
-- SMHI utfärdar röd varning för ovädret Anna: Extrema snömängder - Dagens Nyheter
+- Röd varning för ovädret Anna – kan ”isolera landsbygd” - Aftonbladet
 - Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
-- Samlat in nästan två miljoner till döttrarna i Boden - Expressen
-- Såg Vilma Andersson leverera mat till kafé – efter mordet - Aftonbladet
-- Fartyg misstänks för kabelbrott i Finska viken - Hufvudstadsbladet
-- Tre steg till ett nyårslöfte som är lättare att hålla – psykologen tipsar - SVT Nyheter
+- Hade lagt ut annons på nätet – när misstänkte mördaren ringde på i Boden - Aftonbladet
+- Mossad manar på iranska protester - SVT Nyheter
+- Putins hemliga nätverk med palats – ”paranoid” - SvD
+- Nya kabelbrott i Finska viken – fartyg i beslag - Dagens Nyheter
 - Fyrverkeri exploderade i lägenhet – en person till sjukhus - SVT Nyheter
+- Språken som riskerar dö ut: ”Sverige borde göra mer” - Dagens Nyheter
 - Man död efter dykolycka i Malmö - SVT Nyheter
-- Så får du skjuta fyrverkerier under nyår – det gäller i Västmanland - SVT Nyheter
-- Julia filmade vargen: ”Trodde det var en hund först och stannade och lockade” - Sveriges Radio
+- 26-åringen bedömdes lida av pedofili efter kidnappningsförsöket av tioåringen - Dagens Nyheter
 - Sydney firade in nya året – efter tyst minut - Västerbottens-Kuriren
 - Efter nedtystade övergreppen – hon ska läka Engelska kyrkan - Dagens Nyheter
 - Netanyahu om bosättarvåldet: ”Handfull tonåringar” - Aftonbladet
-- Putin: Tror på seger i Ukraina - Västerbottens-Kuriren
-- Kraftigt höjt elpris i söder – billigt i norr - SvD
-- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
-- Lista: Här är årets förlorare på börsen - Dagens industri
-- Gott nytt år från Borgholm Energi - NewsMachine AB
+- Stor sökinsats i Helsingör: Svensk tonåring försvunnen - Sydsvenskan
+- Guld, vapen och ull – årets vinnare - SvD
+- Brand i ICA-butik – kunder utrymdes - Smålänningen
+- Låga elpriser i norr i år – 25 procent dyrare i söder - Omni
+- Här är nya lagarna som träder i kraft 2026 - TV4 Nyheterna
 - Årets spel 2025 – Jonas - varvat.se
-- ”Leopardfläckar” kan ge svar på livets gåta - SvD
-
-## World News
-
-- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
-- New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Avlyssningsskandalen växer - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Kingdom Come: Deliverance ryktas få en nyversion till de senaste konsolerna - FZ.se
 
 ## Technology
 
@@ -61,27 +38,27 @@ _Updated: 2025-12-31 22:44_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Agentiska CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -89,8 +66,8 @@ _Updated: 2025-12-31 22:44_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -144,21 +121,21 @@ _Updated: 2025-12-31 22:44_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
