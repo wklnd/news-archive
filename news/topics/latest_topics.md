@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-31 08:56_
+_Updated: 2025-12-31 09:44_
 
 ## Top Stories
 
-- Nyårsvädret: Minusgrader och snö - Horisont magasin
 - 26-åringen dömd för trafikolycka – ett år tidigare - Dagens Nyheter
 - Det här kommer att bli riktigt otrevligt - SvD
-- Träden skyddar Winfridas gård mot det nya vädret - Aftonbladet
+- Ny orange vädervarning – hård vind och kraftigt snöfall väntas på nyårsdagen - Harnosand.se
+- Ryssland: Ukrainsk attack mot hamnstad - SvD
 - 31 december 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
-- World Weather Attribution: Extrema väderhändelser 2025 blottlade ojämlikhet och begränsningar i anpassningsförmågan - SMHI
+- Buss har kört in i husfasad i Liljeholmen – 16 skadade - SVT Nyheter
 - Så får du skjuta fyrverkerier under nyår – det gäller i Västmanland - SVT Nyheter
+- Strömmer om morden: ”Outsäglig sorg” - SVT Nyheter
 - Kraftigt snöfall försenar för strömlösa - Dagens Nyheter
-- 30 december 16.06, Trafikolycka, personskada, Stockholm - Polisen.se
 - 31 december 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- Ryssland: Ukrainsk attack mot hamnstad - Folkbladet
+- Flera värmerekord slagna under 2025 - Corren
 - Året som kan förändra allt – skaffa Omni Mer och få 1 månad gratis - Omni
-- Ryska hotet – flyttar vapen närmare Europa - Expressen
-- Regeringen avsätter 800 miljoner kronor i humanitärt stöd till Gaza och regionen för 2026 - Regeringen.se
+- Skräckvapnet visas upp – nya hot om attacker - Aftonbladet
+- Kennedys dotterdotter död – skrev själv om cancern - Omni
 - Elförbrukningen i Sverige fortsätter att minska - SvD
+- Ädelmetallen som rusat mer än guld - SvD
 - Här är pensionsnyheterna du behöver ha koll på 2026 - Sydsvenskan
 - Höjd pension och sänkt skatt för de rikaste – så mycket mer får du i plånboken 2026 - Arbetet
-- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
 - Det här var de bästa spelen från det gångna året - m3.se
 - Apples iPad under 2025: höjdpunkterna, missarna och vad vi vill se under 2026 - TechRadar
 
@@ -52,32 +52,33 @@ _Updated: 2025-12-31 08:56_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
-- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -86,12 +87,11 @@ _Updated: 2025-12-31 08:56_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
@@ -119,26 +119,26 @@ _Updated: 2025-12-31 08:56_
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Upp till försvar för forskningen - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2025-12-31 08:56_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
