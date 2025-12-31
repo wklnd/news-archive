@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-31 13:48_
+_Updated: 2025-12-31 15:20_
 
-- Body located amid search for missing Texas teen: Sheriff - ABC News
-- Trump administration says it's freezing child care funds to Minnesota after series of fraud schemes - AP News
+- Health Dept. Pauses Child Care Funding to Minnesota, Citing State’s Fraud Scandal - The New York Times
 - Tatiana Schlossberg, granddaughter of JFK, dies aged 35 - DW
+- National Guard arrives in New Orleans for 1st New Year's since Bourbon Street attack - NPR
+- Body found amid search for missing Texas teen Camila Mendoza Olmos - CBS News
 - CIA Was Behind Venezuela Drone Strike, Source Says - The Intercept
 - Congressional Bill H.R. 504 Vetoed - The White House (.gov)
-- Guinea elections: Gen Mamady Doumbouya wins presidency by landslide - BBC
+- Former U.S. Sen. Ben Nighthorse Campbell dies at 92 - The Colorado Sun
 - Mayor-elect Zohran Mamdani's swearing-in to take place at Old City Hall subway station at midnight on New Year's Day - ABC7 New York
-- Ben Nighthorse Campbell, Former Colorado Senator, Dies at 92 - The New York Times
-- Vermont receives $195M federal grant for rural health care transformation - VTDigger
-- Burst of snow in Boston area could impact travel on New Year's Eve after midnight - CBS News
+- Times Square has a dazzling new ball for the New Year’s Eve drop — and it’s the biggest yet - CNN
 - UK calls for restraint over China's military drills around Taiwan - Reuters
+- How Russia Is Brutalizing Its Own Soldiers, and More Than 5 Million Pages of Epstein Files - The New York Times
 - Thailand releases 18 Cambodian soldiers as ceasefire holds - Al Jazeera
-- Israel to suspend operations of several aid groups in Gaza as countries warn of renewed ‘catastrophic’ humanitarian crisis - CNN
-- Head-on train collision near Peru's Machu Picchu kills at least 1, injures 40 - CBS News
-- CME Hikes Precious-Metal Margins Again After Price Swings - Bloomberg.com
+- Tensions between Saudi Arabia and UAE spike with bombing of port - The Washington Post
 - Today is Warren Buffett’s last day as Berkshire CEO. Business leaders tell us what they learned from him - CNN
+- Silver shines in 2025 global market spotlight as softs, oil lag - Reuters
 - China factory activity returns to growth after record contraction - Financial Times
-- US stocks are set for a third-straight year of stellar gains - CNN
-- The phone is dead. Long live . . . what exactly? - TechCrunch
+- Analyst who predicted S&P 500 rally offers 2026 warning - thestreet.com
 - Eurogamer readers' top 50 games of 2025 - "It made me cry three times" - Eurogamer
+- Report: Apple's AI Strategy Could Finally Pay Off in 2026 - MacRumors
+- US government employee shares photo of shocking scene at workplace: 'Unfortunately, I don't think this is a unique story' - Yahoo
