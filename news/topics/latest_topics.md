@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-31 04:30_
+_Updated: 2025-12-31 05:47_
 
 ## Top Stories
 
-- 26-åringen dömd för trafikolycka – ett år tidigare - Dagens Nyheter
-- Nyårsvädret: Minusgrader och snö - Horisont magasin
-- Buss har kört in i husfasad i Liljeholmen – 16 skadade - SVT Nyheter
-- Uppdatering: Arbetet fortsätter med full intensitet efter stormen Johannes - www.ellevio.se
-- 30 december 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
-- Boden: Gärningsmannen var inne hos familjen i över tre timmar - Expressen
-- Fyrverkeri i Halland – det här gäller i din kommun för nyårsafton 2025 - SVT Nyheter
-- 30 december 07.05, Sammanfattning natt, Västerbottens län - Polisen.se
-- Mördade kvinnor räknas upp i mitt inre - SvD
-- Protester i Iran mot skenande ekonomi - GP
-- Tumult efter jättekuppen i Tyskland - Expressen
-- Regeringen avsätter 800 miljoner kronor i humanitärt stöd till Gaza och regionen för 2026 - Regeringen.se
 - Skräckvapnet visas upp – nya hot om attacker - Aftonbladet
-- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
-- Höjd pension och sänkt skatt för de rikaste – så mycket mer får du i plånboken 2026 - Arbetet
-- Swedbank höjer bolåneräntorna - Tidningen Näringslivet
-- Faktorerna: Det behövs för ett bra börsår 2026 - EFN.se
-- Det här var de bästa spelen från det gångna året - m3.se
-- OnePlus 15 fick full pott – så kan Galaxy S26 Ultra också bli en femma - TechRadar
+- Över 1,7 miljoner insamlat till döttrarna i Boden - Aftonbladet
+- Polisen om alla smällar: "Hur många larm som helst" - Corren
+- Öppen mötesplats i Bara - Svedala kommun
+- Lista: Sveriges mest populära idrottare 2025 - Aftonbladet
+- Israel stoppar flera hjälporganisationer i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Man omkom i villabrand i Burträsk - Aftonbladet
+- 30 december 07.05, Sammanfattning natt, Västerbottens län - Polisen.se
+- Läkarkritik mot rapport som vill lägga ner toraxkirurgi i Karlskrona - Läkartidningen
+- Trycket på 112 tredubblas vid nyår i Stockholm - Mitt i
+- Två män gripna efter nattlig fyrverkerikupp i Västerås – hade kundvagnar fyllda - SVT Nyheter
+- Ryssland: Ukrainsk attack mot hamnstad - Folkbladet
+- Tumult efter jättekuppen i Tyskland - Expressen
+- Putins nya krav: Boende i Ryssland ska rösta - Expressen
+- Tio frågor som avgör ekonomin 2026 - Aftonbladet
+- Nya möjligheter för biogasen 2026 - LRF - Lantbrukarnas Riksförbund
+- Få förändringar gällande avgifter för vårdbesök 2026 - Region Kalmar Län
+- Ännu ett fint börsår i Japan - Aktiellt
 - Samsung Bixby får hjälp av Perplexity - Swedroid
+- Vi provar Sony A7 V – En rejäl förbättring! - Fotosidan.se
 
 ## World News
 
-- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
+- Global Healthcare Conference HIMSS26 to Explore AI-Powered Diagnostics and Next-Generation Care Models - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- VITREUS: A Newcomer is Taking AI and Blockchain Innovation to the Next Level (PR Newswire) - Aktiellt
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -144,21 +144,21 @@ _Updated: 2025-12-31 04:30_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
