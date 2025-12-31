@@ -1,38 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-12-31 20:51_
+_Updated: 2025-12-31 21:38_
 
 ## Top Stories
 
 - SMHI utfärdar röd varning för ovädret Anna: Extrema snömängder - Dagens Nyheter
 - Därför kallar vi Vilma Andersson för man - Expressen
-- Fartyg misstänks för kabelbrott i Finska viken - Hufvudstadsbladet
 - Fyrverkeri exploderade i lägenhet – en person till sjukhus - SVT Nyheter
+- Nya kabelbrott i Finska viken – fartyg i beslag - Dagens Nyheter
+- Tre steg till ett nyårslöfte som är lättare att hålla – psykologen tipsar - SVT Nyheter
 - Man död efter dykolycka i Malmö - SVT Nyheter
-- Fyrverkerier i Ö-vik – detta gäller - Allehanda.se
+- Så får du skjuta fyrverkerier under nyår – det gäller i Västmanland - SVT Nyheter
+- Man knivhuggen i Farsta – misstänkt mordförsök - SVT Nyheter
 - Chefen för elnät om stormen: ”Värsta som hänt i Falun någonsin” - SVT Nyheter
 - 30 december 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
-- Man begärd häktad för bl.a. mord och försök till mord i Göteborg 2012 - Åklagarmyndigheten
-- 31 december 10.28, Trafikolycka, Lund - Polisen.se
-- Putin: Tror på seger i Ukraina - Västerbottens-Kuriren
 - Efter nedtystade övergreppen – hon ska läka Engelska kyrkan - Dagens Nyheter
-- Stor sökinsats i Helsingör: Svensk tonåring försvunnen - Sydsvenskan
-- USA:s största covid-bedrägeri splittrar Minnesotas somalier - GP
-- Trumps oberäknelighet guld för Lundin Gold - SvD
+- Putin: Jag tror på seger i Ukraina - Hufvudstadsbladet
+- Sammandrabbningar under protesterna i Iran - SVT Nyheter
+- DN Direkt – USA stryper barnomsorgsmedel till Minnesota - Dagens Nyheter
 - Ny prognos: Så högt blir elpriset i Västerbotten i vinter - Norran
-- Saab får fransk mångmiljardorder på spaningsflyg - SVT Nyheter
-- Gott nytt år från Borgholm Energi - NewsMachine AB
+- Saab får order på GlobalEye från Frankrike - Saab
+- Har du koll? Nya lagarna som träder i kraft 1 januari 2026 - GP
+- Trumps oberäknelighet guld för Lundin Gold - SvD
 - Årets spel 2025 – Jonas - varvat.se
-- IKEA gör rollspelet Drönjöns & Dragan av sin katalog - Teknikveckan
+- Kingdom Come: Deliverance ryktas få en nyversion till de senaste konsolerna - FZ.se
 
 ## World News
 
-- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -41,43 +39,45 @@ _Updated: 2025-12-31 20:51_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
-- Sling Pilot Academy Partners with NAVI AI to Revolutionize Flight Training with Cutting-Edge AI Technology - Aktiellt
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- Artificiell intelligens: Möjligheter och risker - European Parliament
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -89,8 +89,8 @@ _Updated: 2025-12-31 20:51_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -119,35 +119,34 @@ _Updated: 2025-12-31 20:51_
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -155,9 +154,10 @@ _Updated: 2025-12-31 20:51_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
