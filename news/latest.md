@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-12-31 11:52_
+_Updated: 2025-12-31 12:52_
 
+- Body located amid search for missing Texas teen: Sheriff - ABC News
 - Trump administration says it's freezing child care funds to Minnesota after series of fraud schemes - AP News
-- Body found amid search for missing Texas teen Camila Mendoza Olmos - CBS News
-- Tatiana Schlossberg, journalist and granddaughter of JFK, dies at 35 - The Washington Post
+- Tatiana Schlossberg, granddaughter of JFK, dies aged 35 - dw.com
 - Congressional Bill H.R. 504 Vetoed - The White House (.gov)
 - Iowa Democrat Wins State Senate Seat, Fending Off G.O.P. Supermajority - The New York Times
-- 3 Hikers Are Found Dead on Mt. Baldy in Southern California, Sheriff Says - The New York Times
-- Ben Nighthorse Campbell, Native American senator, dies at 92 - The Washington Post
+- Guinea elections: Gen Mamady Doumbouya wins controversial election - BBC
+- Mayor-elect Zohran Mamdani's swearing-in to take place at Old City Hall subway station at midnight on New Year's Day - ABC7 New York
+- Former US Sen. Ben Nighthorse Campbell, of Colorado, dies at 92 - Politico
+- Times Square has a dazzling new ball for the New Year’s Eve drop — and it’s the biggest yet - CNN
 - Donald Trump confirms US carried out strike on ‘dock area’ in Venezuela - Financial Times
-- California homeowner says 550-pound black bear is living under his house - ABC News
-- Head-on train collision near Peru's Machu Picchu kills at least 1, injures 40 - CBS News
 - China flexes blockade capabilities near Taiwan on second day of military drills - AP News
-- Thailand releases 18 Cambodian soldiers as ceasefire holds - Al Jazeera
+- Head-on train collision near Peru's Machu Picchu kills at least 1, injures 40 - CBS News
 - Israel to suspend operations of several aid groups in Gaza as countries warn of renewed ‘catastrophic’ humanitarian crisis - CNN
-- China Factory Activity Grows, Ending Longest Slump on Record - Bloomberg.com
-- What's driving the rollercoaster in gold and silver prices? - ABC News
-- Division at the Fed: Some officials want to keep interest rates on hold "for some time" - Axios
+- An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf - NPR
 - Today is Warren Buffett’s last day as Berkshire CEO. Business leaders tell us what they learned from him - CNN
+- CME Hikes Precious-Metal Margins Again After Price Swings - Bloomberg.com
+- China's factory activity snaps record slump on festive stockpiling - Reuters
+- US stocks are set for a third-straight year of stellar gains - CNN
 - The phone is dead. Long live . . . what exactly? - TechCrunch
-- Report: Apple's AI Strategy Could Finally Pay Off in 2026 - MacRumors
-- Samsung unveils its new $200 Galaxy A17 5G smartphone, arriving in January - Engadget
+- Eurogamer readers' top 50 games of 2025 - "It made me cry three times" - Eurogamer
