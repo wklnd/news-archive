@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 07:49_
+_Updated: 2026-01-01 08:56_
 
 ## Top Stories
 
+- Ovädret Anna drar in över Sverige – SMHI med röd varning - SVT Nyheter
+- Psykiatrins fiasko skördar många offer - SvD
+- Putins hemliga nätverk med palats – ”paranoid” - SvD
+- Fyrverkerier i Ö-vik – detta gäller - Allehanda.se
+- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
+- 01 januari 07.42, Sammanfattning natt, Norrbottens län - Polisen.se
 - Fick fyrverkeripjäs i ansiktet – allvarligt skadad - SVT Nyheter
-- Mossad manar på iranska protester - SVT Nyheter
-- Röd varning för snöfall och vind - Krisinformation.se
-- Rånarliga kom över 300 miljoner - SvD
-- Polisens uppmaning: "Prata med era ungdomar om smällare" - NT
-- Vilma Andersson levererade mat till kafé – anhölls timmar senare - Aftonbladet
-- INSÄNDARE: Möt 2026 med tillförsikt - Kristianstadsbladet
-- Kraftigt snöfall försenar för strömlösa - Dagens Nyheter
-- 30 december 08.00, Sammanfattning natt, Södermanlands län - Polisen.se
-- Samlat in nästan två miljoner till döttrarna i Boden - Expressen
+- 01 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
+- Häktas för Salemmord – erkänner gravfridsbrott - Västerbottens-Kuriren
 - Zelenskyj: Skriver inte på ett svagt fredsavtal - Dagens Nyheter
 - Sydney firade in nya året – efter tyst minut - Västerbottens-Kuriren
-- USA: Ukraina attackerade inte Putins sommarresidens - Dagens Nyheter
 - Hård kritik mot Israels stopp för nödhjälp - Corren
-- Därför kan 2026 bli året då allt vänder - EFN
-- Ny prognos: Så högt blir elpriset i Västerbotten i vinter - Norran
+- UPPDATERAS: Rysk oljedepå och raffinaderi bombade - tre barn inklusive sjumånaders bebis skadade i terrorbombning mot Odesa - cornucopia.se
+- Därför kan 2026 bli året då allt vänder - EFN.se
+- Ny elavgift på väg – vanor kan göra kostnaden dyrare - Omni
+- Fjärde raka minusdagen på Wall Street – Alphabet årets stora vinnare - Dagens industri
 - Här är de nya lagarna som börjar gälla 1 januari 2026 - SVT Nyheter
-- Wall Street på rött under årets sista handelsdag - Dagens industri
 - Årets spel 2025 – Jonas - varvat.se
 - Vikbar Iphone: läckorna som Apple inte lyckats stoppa - Dagens PS
+- Här kan du se en människa vandra runt i ett M5-chipp - Macworld.se
 
 ## World News
 
@@ -52,6 +52,7 @@ _Updated: 2026-01-01 07:49_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -63,13 +64,12 @@ _Updated: 2026-01-01 07:49_
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -144,6 +144,7 @@ _Updated: 2026-01-01 07:49_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -157,8 +158,7 @@ _Updated: 2026-01-01 07:49_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
