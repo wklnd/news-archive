@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-01 23:48_
+_Updated: 2026-01-02 00:51_
 
 - Fire at Swiss Ski Resort Kills Roughly 40 - The Wall Street Journal
-- In Mamdani’s New York, Muslims become a political and demographic force - The Washington Post
-- Trump says he takes more aspirin than recommended by his doctors - NBC News
-- Day four of Iran protests sees rallies spread and regime change calls grow - ایران اینترنشنال
+- Zohran Mamdani vows to govern New York ‘expansively and audaciously’ after being sworn in by Bernie Sanders – live - The Guardian
+- Trump says he underwent CT scan, not MRI, during October examination - CBS News
+- Iran Update, December 31, 2025 - Institute for the Study of War
 - Jan. 6 attack 'does not happen' without Trump, Jack Smith told Congress - PBS
-- Trump says he's dropping push for National Guard in Chicago and other cities - PBS
+- US military says five killed in strike on alleged drug boats - BBC
 - Threat to Suspend Aid for Minnesota Child-Care Centers Rattles Families - The New York Times
+- Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them - NPR
 - Special Report: Surprise PRC Military Exercise Around Taiwan - Institute for the Study of War
-- Americans brace to start New Year without healthcare - BBC
 - Body found confirmed to be missing Camila Mendoza Olmos in Texas, death ruled suicide - ABC7 Los Angeles
-- Bulgaria switches to the euro amid mixed reactions from its citizens - Euronews.com
-- First Photos Of 2026: Global New Year’s Celebrations Finish With A Bang - Forbes
+- New Trump-ordered immigration restrictions go into effect Jan. 1 - ABC News
 - Guinea election results: Gen Mamady Doumbouya wins presidency by landslide - BBC
-- At least two die in violent New Year Dutch police call 'unprecedented' - Euronews.com
-- We Read Wall Street’s 2026 Forecasts So You Don’t Have To - Bloomberg.com
+- First Photos Of 2026: Global New Year’s Celebrations Finish With A Bang - Forbes
+- Bulgaria is joining the euro. Here's what it means for consumers and businesses - Yahoo Finance
 - The Hellcat Is Back! Ram 1500 TRX Rises From the Dead With 777 Horsepower - Edmunds
-- Tesla Sales Outlook Darkens Despite Musk’s Self-Driving Euphoria - Bloomberg.com
-- Stock market ends 2025 with double-digit gains - ABC News
-- HP to launch EliteBook X G2 laptop with AMD, Intel and Qualcomm CPU options - VideoCardz.com
-- In 2025, quitting social media felt easier than ever - Engadget
+- We Read Wall Street’s 2026 Forecasts So You Don’t Have To - Bloomberg.com
+- The Best AI Names for 2026, According to Wall Street’s Most Outspoken Tech Bull - Barron's
+- Tesla publishes analyst forecasts suggesting sales set to fall - The Guardian
+- Samsung launches the Galaxy A17 and Galaxy Tab A11+ in the US, here are the prices - GSMArena.com news - GSMArena.com
+- Samsung Galaxy S26 Ultra Hands-On Leak Reveals A New Camera Island Design - Forbes
