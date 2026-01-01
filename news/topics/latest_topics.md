@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 07:02_
+_Updated: 2026-01-01 07:49_
 
 ## Top Stories
 
 - Fick fyrverkeripjäs i ansiktet – allvarligt skadad - SVT Nyheter
-- Christer räddade bilarna minuter innan garaget rasade - Ljusnan
 - Mossad manar på iranska protester - SVT Nyheter
-- Orange varning i Uppsala län nyårsdagen - UNT
+- Röd varning för snöfall och vind - Krisinformation.se
 - Rånarliga kom över 300 miljoner - SvD
 - Polisens uppmaning: "Prata med era ungdomar om smällare" - NT
-- 26-åringen bedömdes lida av pedofili efter kidnappningsförsöket av tioåringen - Dagens Nyheter
-- Nyheter från dagen tisdag 30 december - SVT Nyheter
-- Plattformsarbete: vad det är och hur det fungerar ur ett arbetsmiljöperspektiv - Arbetsmiljöverket
-- Man svårt knivhuggen i södra Stockholm - Aftonbladet
-- Sydney firade in nya året – efter tyst minut - Västerbottens-Kuriren
+- Vilma Andersson levererade mat till kafé – anhölls timmar senare - Aftonbladet
+- INSÄNDARE: Möt 2026 med tillförsikt - Kristianstadsbladet
+- Kraftigt snöfall försenar för strömlösa - Dagens Nyheter
+- 30 december 08.00, Sammanfattning natt, Södermanlands län - Polisen.se
+- Samlat in nästan två miljoner till döttrarna i Boden - Expressen
 - Zelenskyj: Skriver inte på ett svagt fredsavtal - Dagens Nyheter
-- Netanyahu om bosättarvåldet: ”Handfull tonåringar” - GP
+- Sydney firade in nya året – efter tyst minut - Västerbottens-Kuriren
+- USA: Ukraina attackerade inte Putins sommarresidens - Dagens Nyheter
 - Hård kritik mot Israels stopp för nödhjälp - Corren
-- Fjärde raka minusdagen på Wall Street – Alphabet årets stora vinnare - Dagens industri
+- Därför kan 2026 bli året då allt vänder - EFN
 - Ny prognos: Så högt blir elpriset i Västerbotten i vinter - Norran
-- Guld, vapen och ull – årets vinnare - Sydsvenskan
-- Warren Buffett gör sin sista dag på jobbet - Dagens industri
+- Här är de nya lagarna som börjar gälla 1 januari 2026 - SVT Nyheter
+- Wall Street på rött under årets sista handelsdag - Dagens industri
 - Årets spel 2025 – Jonas - varvat.se
 - Vikbar Iphone: läckorna som Apple inte lyckats stoppa - Dagens PS
 
@@ -74,25 +74,25 @@ _Updated: 2026-01-01 07:02_
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2026-01-01 07:02_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
