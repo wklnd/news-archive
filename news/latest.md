@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-01 08:59_
+_Updated: 2026-01-01 09:50_
 
-- Mamdani’s Man-of-the-People Style Could Present Security Challenges - The New York Times
-- Alleged drug smugglers jumped overboard in recent boat strikes, U.S. military says - CBS News
+- The history behind the NYC subway station chosen for Mamdani's swearing-in - NPR
+- Trump ends effort to keep National Guard in Chicago, Los Angeles, Portland - The Washington Post
+- 7 takeaways from Jack Smith’s congressional testimony - Politico
+- Trump administration reportedly freezes all childcare payments to all states - The Guardian
 - Fact Sheet: President Donald J. Trump Adjusts Imports of Timber, Lumber, and Their Derivative Products into the United States - The White House (.gov)
-- Trump vetoes first bills of his second term - BBC
-- Russian Offensive Campaign Assessment, December 29, 2025 - Institute for the Study of War
-- With major Supreme Court rulings ahead, Chief Justice Roberts says Constitution remains 'firm and unshaken' - PBS
-- Body found confirmed to be missing 19-year-old Camila Mendoza Olmos, death ruled suicide - ABC News
+- Alleged drug smugglers jumped overboard in recent boat strikes, U.S. military says - CBS News
+- San Antonio teen who vanished Christmas Eve found dead by suicide in nearby field after days-long search - Fox News
 - Federal ruling blocks Hawaii's climate change tourist tax on cruise ships - ABC News
-- Lone actors and groups driven by ideology are ‘most significant terrorism threat’ to New Year’s celebrations, report says - CNN
-- ACA subsidies that lower monthly insurance premiums for millions of Americans set to expire - ABC News
+- Live updates: Storm to bring heavy rain to Southern California - ABC7 Los Angeles
+- EU's top diplomat rejects Russian claims of Ukrainian attack on government sites - BBC
+- Photos: New Year's celebrations from NYC to Sydney, as world welcomes 2026 - Axios
 - Ex-champ Joshua out of hospital after car crash - ESPN
-- China Signals It Won’t Give an Inch to the U.S. in Latin America - The Wall Street Journal
 - Bulgaria joins the euro after rocky path to new currency - BBC
-- Sydney sends message of peace for New Year's after Bondi attack - BBC
+- China’s Xi says ‘reunification’ with Taiwan ‘unstoppable’ - Al Jazeera
+- Trump administration orders a Colorado coal-fired power generator to stay open - AP News
+- Warren Buffett hands over Berkshire Hathaway’s reins to Greg Abel - Financial Times
 - The stock market surged in 2025. What do experts think could happen in 2026? - ABC News
-- Amazon allows visa workers stranded in India to work remotely with restrictions. Here's what they can't do. - Business Insider
-- The year the U.S. economy bent but didn't break - Axios
-- 2026 Holiday Collection Schedule - City of Charlotte (.gov)
-- The phone is dead. Long live . . . what exactly? - TechCrunch
-- Carolyn Petit’s Top 5 Games Of 2025 - Kotaku
+- Sprinkles, known for cupcake ATMs, is closing all of its locations nationwide today, founder says - WFAA
+- You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram - The Verge
+- Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI Industry Demand - TechPowerUp
