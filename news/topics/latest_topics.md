@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 15:10_
+_Updated: 2026-01-01 15:50_
 
 ## Top Stories
 
+- Tiotals döda i brand på skidort i Schweiz - SvD
 - Ovädret Anna drar in över Sverige – SMHI med röd varning - SVT Nyheter
-- Dussintals döda i brand på skidort i Schweiz - SvD
+- 01 januari 12.17, Mord/dråp, Göteborg - polisen.se
 - Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
 - Manifestation för Ukraina på årsdagen av den fullskaliga ryska invasionen - Svenska FN-förbundet
-- 01 januari 12.15, Trafikkontroll, Västerbottens län - polisen.se
 - Villabrand i Arlöv • Explosion på Virentofta • Fyrverkeri i kök – man skadad - Sydsvenskan
-- Mats-Åke och Karin utan el i 96 timmar – förbereder sig på nytt oväder - Dagens Nyheter
+- 01 januari 12.15, Trafikkontroll, Västerbottens län - polisen.se
 - 01 januari 07.42, Sammanfattning natt, Norrbottens län - polisen.se
-- Misstänkt mord nära Frölunda torg - SVT Nyheter
+- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
 - 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
 - 1800-talskyrka i Amsterdam förstörd i brand - Aftonbladet
 - Zelenskyj: Skriver inte på ett svagt fredsavtal - Dagens Nyheter
-- Tonårspojken som söks i Helsingör är från Helsingborg - Sydsvenskan
 - Fartyg som misstänks ha skadat kabel hade förbjuden last - SVT Nyheter
+- Iran: En död i samband med protesterna - GP
 - Här är Sveriges nya lagar – SFI, nikotinskatt och slopat förbud mot uranutvinning - Omni
 - Stark avslutning på året: 42% valde elbil i december - Allt om Elbil
-- ”Den här mannen är så skyldig” - SvD
+- Rekordmånga avnoteringar i år: ”En nödvändig utrensning” - Realtid
 - Lista: De tjänar mest deg på pizza - Dagens industri
 - Ny studie: Märkliga fynd på Mars kan vara avslöjande spår från planetens gåtfulla förflutna - Illustrerad Vetenskap
 - Prischock hotar på hemelektronik: ”Marknaden är galen” - Dagens industri
@@ -33,7 +33,6 @@ _Updated: 2026-01-01 15:10_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -41,12 +40,13 @@ _Updated: 2026-01-01 15:10_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -102,19 +102,19 @@ _Updated: 2026-01-01 15:10_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
@@ -156,9 +156,9 @@ _Updated: 2026-01-01 15:10_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
