@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 23:41_
+_Updated: 2026-01-02 00:45_
 
 ## Top Stories
 
-- Länets hantering av stormen Anna - Länsstyrelsen
-- Tusentals strömlösa efter kaosstormen Annas intåg - Expressen
-- ”De skrek av smärta när man tog i dem” - SvD
+- Strömavbrott, olyckor och trafikpåverkan i snöstormen Annas spår - Dagens Nyheter
+- JUST NU: Dödssiffran stiger – 47 döda - Expressen
 - Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
-- Två anhållna på skepp misstänkt för kabelbrott - SVT Nyheter
+- Våldsamma protester i Iran: ”Död åt diktatorn!” - Expressen
+- Drabbade familjen: "Sprid inte bilder" - SvD
 - Stökig nyårsnatt – över 160 polisärenden - Nerikes Allehanda
-- Drabbade familjen i Rönninge: "Sprid inte bilder" - GP
-- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
-- Strömmer i Salem: ”Ett fruktansvärt mörker” - SvD
+- Fria ord: Ska jag vara ärlig så skäms jag för männen i min generation - GP
 - 01 januari 12.15, Trafikkontroll, Västerbottens län - polisen.se
-- Flera dödade i protesterna i Iran - GP
-- Brand i flerfamiljshus i Ockelbo - Expressen
+- 01 januari 07.42, Sammanfattning natt, Norrbottens län - polisen.se
+- 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
+- Två anhållna på skepp misstänkt för kabelbrott - SVT Nyheter
 - Israel bekräftar kritiserat stopp för nödhjälp - Västerbottens-Kuriren
 - Färre nattliga ryska attacker i december - GP
+- 1800-talskyrka i Amsterdam förstörd i brand - Västerbottens-Kuriren
 - Trump tullhotade till tusen – inte alla blev av - SvD
 - Ny elavgift på väg – vanor kan göra kostnaden dyrare - Omni
+- Guld, vapen och ull – årets vinnare - Sydsvenskan
 - Från sänkta skatter till uranbrytning – 10 nya lagar 2026 - Dala-Demokraten
-- Pizzadagen i full gång på Pizzeria Alpina: ”Då är det kaos” - sla.se
 - Chrome för Android får nytt smartare läsläge - Teknikveckan
-- Playstation Plus januariskörd har racing, en episk mus och svensk överlevnad - FZ.se
+- Tre nya Macbook väntas tidigt nästa år – här är vad Apple tros lansera - Macworld.se
 
 ## World News
 
@@ -65,19 +65,19 @@ _Updated: 2026-01-01 23:41_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - Källor: Deepseek på väg med ny AI-modell - Omni
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -86,13 +86,13 @@ _Updated: 2026-01-01 23:41_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -101,25 +101,26 @@ _Updated: 2026-01-01 23:41_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -127,8 +128,6 @@ _Updated: 2026-01-01 23:41_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -138,6 +137,7 @@ _Updated: 2026-01-01 23:41_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
