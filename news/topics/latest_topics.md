@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 11:46_
+_Updated: 2026-01-01 12:47_
 
 ## Top Stories
 
-- Så var nyårsnatten: ”Folk har firat och festat och bråkat” - SVT Nyheter
-- Explosion i bar i Schweiz – minst tio döda - SVT Nyheter
 - Ovädret Anna drar in över Sverige – SMHI med röd varning - SVT Nyheter
-- Villabrand i Arlöv • Explosion på Virentofta • Fyrverkeri i kök – man skadad - Sydsvenskan
+- Mordförsök och fyrverkerier – så var nyårsnatten - Aftonbladet
+- Dussintals döda i brand på skidort i Schweiz - SvD
 - Man anhållen för misstänkt våldtäkt - Aftonbladet
+- Villabrand i Arlöv • Explosion på Virentofta • Fyrverkeri i kök – man skadad - Sydsvenskan
+- Utvisade sjuksköterskorna är tillbaka på jobbet: ”Det känns otroligt bra” - Sydsvenskan
+- Expert: Tvångsvårdade i psykiatrin släpps ut för tidigt - Dagens Nyheter
 - 01 januari 07.42, Sammanfattning natt, Norrbottens län - Polisen.se
-- DEBATT: Som polis ser jag hur psykiskt sjuka släpps ut - Expressen
+- 01 januari 08.28, Sammanfattning natt, Örebro län - Polisen.se
 - 01 januari 07.11, Sammanfattning natt, Jämtlands län - Polisen.se
-- Sköt raketer från hotellfönster i Knivsta – mot grannar - SVT Nyheter
-- 01 januari 08.00, Sammanfattning natt, Jönköpings län - Polisen.se
 - Zelenskyj: Skriver inte på ett svagt fredsavtal - Dagens Nyheter
-- Hård kritik mot Israels stopp för nödhjälp - Västerbottens-Kuriren
-- Sammandrabbningar under protesterna i Iran - SVT Nyheter
-- USA: Ukraina attackerade inte Putins sommarresidens - Dagens Nyheter
+- Hård kritik mot Israels stopp för nödhjälp - GP
+- Brand i Sundbyberg – brinner i två lägenheter - SVT Nyheter
+- Sydney firade in nya året – efter tyst minut - Västerbottens-Kuriren
 - ”Den här mannen är så skyldig” - SvD
 - Så bra blir börsåret 2026 – om inte AI-bubblan spricker - Dagens industri
-- Här är de nya lagarna som börjar gälla 1 januari 2026 - SVT Nyheter
-- GUIDE: Här är Ystads bästa kebabpizza – hittills - Ystads Allehanda
+- Ny elavgift på väg – vanor kan göra kostnaden dyrare - Omni
+- Börsen går in i 2026 med röd svit: ”Kan se väldigt annorlunda ut” - EFN.se
+- Prischock hotar på hemelektronik: ”Marknaden är galen” - Dagens industri
 - Årets spel 2025 – Jonas - varvat.se
-- 3 Garmin-klockor jag vill se under 2026 – och högst upp på listan står en riktig uppföljare till Forerunner 55 - TechRadar
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-01-01 11:46_
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
