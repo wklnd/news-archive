@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 06:33_
+_Updated: 2026-01-01 07:02_
 
 ## Top Stories
 
 - Fick fyrverkeripjäs i ansiktet – allvarligt skadad - SVT Nyheter
-- Orange varning i Uppsala län nyårsdagen - UNT
 - Christer räddade bilarna minuter innan garaget rasade - Ljusnan
-- USA: Åtta döda i attacker mot misstänkta knarkbåtar - SVT Nyheter
+- Mossad manar på iranska protester - SVT Nyheter
+- Orange varning i Uppsala län nyårsdagen - UNT
 - Rånarliga kom över 300 miljoner - SvD
-- Hästar, fyrverkerier och tyst minut – så firas nyår - SvD
-- Så får du skjuta fyrverkerier under nyår – det gäller i Västmanland - SVT Nyheter
-- Hade lagt ut annons på nätet – när misstänkte mördaren ringde på i Boden - Aftonbladet
-- En begärs häktad för mordet i Rönninge - SVT Nyheter
-- Mordförsök i Stockholm - Expressen
+- Polisens uppmaning: "Prata med era ungdomar om smällare" - NT
+- 26-åringen bedömdes lida av pedofili efter kidnappningsförsöket av tioåringen - Dagens Nyheter
+- Nyheter från dagen tisdag 30 december - SVT Nyheter
+- Plattformsarbete: vad det är och hur det fungerar ur ett arbetsmiljöperspektiv - Arbetsmiljöverket
+- Man svårt knivhuggen i södra Stockholm - Aftonbladet
+- Sydney firade in nya året – efter tyst minut - Västerbottens-Kuriren
 - Zelenskyj: Skriver inte på ett svagt fredsavtal - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Netanyahu om bosättarvåldet: ”Handfull tonåringar” - Dagens Nyheter
+- Netanyahu om bosättarvåldet: ”Handfull tonåringar” - GP
 - Hård kritik mot Israels stopp för nödhjälp - Corren
-- Flera skadade i attacker i Ryssland och Ukraina - GP
-- Guld, vapen och ull – årets vinnare - Sydsvenskan
 - Fjärde raka minusdagen på Wall Street – Alphabet årets stora vinnare - Dagens industri
 - Ny prognos: Så högt blir elpriset i Västerbotten i vinter - Norran
-- Här är nya lagarna som träder i kraft 2026 - TV4 Nyheterna
+- Guld, vapen och ull – årets vinnare - Sydsvenskan
+- Warren Buffett gör sin sista dag på jobbet - Dagens industri
 - Årets spel 2025 – Jonas - varvat.se
 - Vikbar Iphone: läckorna som Apple inte lyckats stoppa - Dagens PS
 
 ## World News
 
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
@@ -35,16 +36,15 @@ _Updated: 2026-01-01 06:33_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- PressReader partners with Le Monde to bring trusted news to global readers (PR Newswire) - Aktiellt
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
@@ -63,26 +63,23 @@ _Updated: 2026-01-01 06:33_
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +90,9 @@ _Updated: 2026-01-01 06:33_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -119,39 +119,40 @@ _Updated: 2026-01-01 06:33_
 
 ## Science
 
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
@@ -161,4 +162,3 @@ _Updated: 2026-01-01 06:33_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Lediga jobb - Land Lantbruk
