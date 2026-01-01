@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-01 11:51_
+_Updated: 2026-01-01 12:53_
 
 - Zohran Mamdani Is Sworn In as Mayor of New York City - The New York Times
-- New Year's 2026: Celebrations around the world - ABC News
-- Trump ends effort to keep National Guard in Chicago, Los Angeles, Portland - The Washington Post
+- Trump will drop push for National Guard deployments in Chicago, LA and Portland, Ore. - NPR
+- Trump administration reportedly freezes all childcare payments to all states - The Guardian
 - Alleged drug smugglers jumped overboard in recent boat strikes, U.S. military says - CBS News
-- Several dead and injured in explosion at Swiss ski resort town Crans-Montana, police say - The Guardian
-- Chinese military exercises Conducted around Taiwan (Statement by Press Secretary KITAMURA Toshihiro) - mofa.go.jp
+- 7 takeaways from Jack Smith’s congressional testimony - Politico
+- Body found confirmed to be missing Camila Mendoza Olmos in Texas, death ruled suicide - ABC7 Los Angeles
 - Federal ruling blocks Hawaii's climate change tourist tax on cruise ships - ABC News
-- EU's top diplomat rejects Russian claims of Ukrainian attack on government sites - BBC
-- Who's performing at tonight's Times Square ball drop for New Year's Eve 2026? - CBS News
-- ACA subsidies that lower monthly insurance premiums for millions of Americans set to expire - ABC News
-- Xi Jinping vows to reunify China and Taiwan in New Year’s Eve speech - The Guardian
-- British-Egyptian dissident appears to endorse 'smear campaign' claims - BBC
-- Sydney sends message of peace for New Year's after Bondi attack - BBC
-- Judge voids decision to end legal status of 60,000 immigrants from Honduras, Nepal and Nicaragua - CBS News
-- Amazon allows visa workers stranded in India to work remotely with restrictions. Here's what they can't do. - Business Insider
-- What’s open on New Year’s Day 2026? Walmart, Target, grocery stores, restaurants and more - Yahoo
-- IRS issues nationwide notice: How you may be able to save $10K on 2026 taxes - MassLive.com
-- Here’s How the US Economy Fared Under Trump in 2025 - Bloomberg.com
-- The phone is dead. Long live . . . what exactly? - Yahoo Finance
+- Rose Parade organizers brace for near-certain rain as strong storm soaks SoCal - Los Angeles Times
+- Exclusive | U.S. Finds Ukraine Didn’t Target Putin in Drone Strike - The Wall Street Journal
+- Several killed in blaze at Swiss ski resort town: Police - Al Jazeera
+- Photos of New Year’s celebrations across the globe - AP News
+- North Korea's Kim Jong Un attends New Year celebrations with daughter - Reuters
+- Bulgaria joins Eurozone despite pro-Russian disinformation - Financial Times
+- Warren Buffett hands over Berkshire Hathaway’s reins to Greg Abel - Financial Times
+- What to expect from stocks in 2026 - CNN
+- Trump administration orders a Colorado coal-fired power generator to stay open - AP News
+- Trump Media company announces plans to award shareholders digital tokens - Al Jazeera
+- You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram - The Verge
+- Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI Industry Demand - TechPowerUp
 - Carolyn Petit’s Top 5 Games Of 2025 - Kotaku
