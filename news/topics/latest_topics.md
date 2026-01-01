@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 22:45_
+_Updated: 2026-01-01 23:41_
 
 ## Top Stories
 
-- Snöovädret drar in – flera varningar - SVT Nyheter
-- JUST NU: Dödssiffran stiger – 47 döda - Expressen
+- Länets hantering av stormen Anna - Länsstyrelsen
+- Tusentals strömlösa efter kaosstormen Annas intåg - Expressen
+- ”De skrek av smärta när man tog i dem” - SvD
 - Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
 - Två anhållna på skepp misstänkt för kabelbrott - SVT Nyheter
-- 01 januari 13.46, Trafikbrott, Uppsala - polisen.se
 - Stökig nyårsnatt – över 160 polisärenden - Nerikes Allehanda
-- Drabbade familjen i Salem: ”Sprid inte bilder” - SVT Nyheter
-- Utan el sedan första stormen: ”Turas om att elda” - Hudiksvalls Tidning
-- Stor lavinfara i flera fjällområden - SVT Nyheter
+- Drabbade familjen i Rönninge: "Sprid inte bilder" - GP
 - Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
-- Nathan Shachar: Irans regim saknar verktyg för att lösa folkets problem - Dagens Nyheter
+- Strömmer i Salem: ”Ett fruktansvärt mörker” - SvD
+- 01 januari 12.15, Trafikkontroll, Västerbottens län - polisen.se
+- Flera dödade i protesterna i Iran - GP
 - Brand i flerfamiljshus i Ockelbo - Expressen
 - Israel bekräftar kritiserat stopp för nödhjälp - Västerbottens-Kuriren
 - Färre nattliga ryska attacker i december - GP
+- Trump tullhotade till tusen – inte alla blev av - SvD
 - Ny elavgift på väg – vanor kan göra kostnaden dyrare - Omni
 - Från sänkta skatter till uranbrytning – 10 nya lagar 2026 - Dala-Demokraten
 - Pizzadagen i full gång på Pizzeria Alpina: ”Då är det kaos” - sla.se
-- Kinesisk elbilsjätte ökar – Tesla tappar - Aftonbladet
-- Playstation Plus januariskörd har racing, en episk mus och svensk överlevnad - FZ.se
 - Chrome för Android får nytt smartare läsläge - Teknikveckan
+- Playstation Plus januariskörd har racing, en episk mus och svensk överlevnad - FZ.se
 
 ## World News
 
@@ -42,34 +42,34 @@ _Updated: 2026-01-01 22:45_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Källor: Deepseek på väg med ny AI-modell - Omni
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -146,6 +146,7 @@ _Updated: 2026-01-01 22:45_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -158,7 +159,6 @@ _Updated: 2026-01-01 22:45_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
