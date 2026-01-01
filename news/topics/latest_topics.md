@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 19:43_
+_Updated: 2026-01-01 20:52_
 
 ## Top Stories
 
-- Krisledningsstab aktiverad - det här gör kommunen just nu - Söderhamns kommun
-- JUST NU: Brand på bar – flera dussin döda - Expressen
-- Två anhållna på skepp misstänkt för kabelbrott - SVT Nyheter
+- Anna drar in – med extrema snömängder och röda varningar: ”Stanna inne” - Aftonbladet
+- JUST NU: Dödssiffran stiger – 47 döda - Expressen
+- Våldsamma protester i Iran: ”Död åt diktatorn!” - Expressen
 - Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
 - 01 januari 12.15, Trafikkontroll, Västerbottens län - polisen.se
-- Inställda nattåg till Norrbotten - SVT Nyheter
-- Drabbade familjen i Salem: "Sprid inte bilder" - Västerbottens-Kuriren
+- Fyra punkter om mordet i Rönninge - Expressen
+- JUST NU: 4 000 hushåll utan el – stormen slår till - Expressen
 - Regeringen: Nollvision mot mäns våld mot kvinnor - Västerbottens-Kuriren
-- 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
 - 01 januari 07.42, Sammanfattning natt, Norrbottens län - polisen.se
-- Protesterna växer i Iran – uppgifter om flera döda - Dagens Nyheter
-- Kvinna våldtagen på krog – man anhållen - Nerikes Allehanda
-- Färre nattliga ryska attacker i december - GP
+- 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
+- USA hindrade Israel att förödmjuka palestinsk ledare - Dagens Nyheter
+- Två anhållna på skepp misstänkt för kabelbrott - SVT Nyheter
 - Israel bekräftar kritiserat stopp för nödhjälp - Västerbottens-Kuriren
+- Färre nattliga ryska attacker i december - GP
 - Svenskt Näringsliv: ”Det finns ingen väg tillbaka” - SvD
 - Ny elavgift på väg – vanor kan göra kostnaden dyrare - Omni
 - Från sänkta skatter till uranbrytning – 10 nya lagar 2026 - Dala-Demokraten
-- Europas banker har haft ett rekordår – nu väntar den stora frågan 2026 - Dagens PS
-- Prischock hotar på hemelektronik: ”Marknaden är galen” - Dagens industri
-- Bil körde av vägen - Västerbottens-Kuriren
+- Lyxvaruhusets blodröda siffror: ”Utvecklas åt rätt håll” - Aftonbladet
+- Sjuksköterskan Charlotte har jour i snöstormen – ensam - TV4 Nyheterna
+- Playstation Plus januariskörd har racing, en episk mus och svensk överlevnad - FZ.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,36 +40,36 @@ _Updated: 2026-01-01 19:43_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -78,7 +78,7 @@ _Updated: 2026-01-01 19:43_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -101,12 +101,12 @@ _Updated: 2026-01-01 19:43_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -120,7 +120,6 @@ _Updated: 2026-01-01 19:43_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -128,6 +127,7 @@ _Updated: 2026-01-01 19:43_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
