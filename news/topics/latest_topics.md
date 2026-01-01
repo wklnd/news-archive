@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 13:40_
+_Updated: 2026-01-01 15:10_
 
 ## Top Stories
 
 - Ovädret Anna drar in över Sverige – SMHI med röd varning - SVT Nyheter
-- Brand i bar i Schweiz – ”flera tiotal” döda - SVT Nyheter
+- Dussintals döda i brand på skidort i Schweiz - SvD
 - Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
-- Villabrand i Arlöv • Explosion på Virentofta • Fyrverkeri i kök – man skadad - Sydsvenskan
+- Manifestation för Ukraina på årsdagen av den fullskaliga ryska invasionen - Svenska FN-förbundet
 - 01 januari 12.15, Trafikkontroll, Västerbottens län - polisen.se
-- Raket sköts in i folkmassa - SVT Nyheter
-- Psykiatriker: Svårt psykiskt sjuka släpps ut för tidigt - Omni
-- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
+- Villabrand i Arlöv • Explosion på Virentofta • Fyrverkeri i kök – man skadad - Sydsvenskan
+- Mats-Åke och Karin utan el i 96 timmar – förbereder sig på nytt oväder - Dagens Nyheter
+- 01 januari 07.42, Sammanfattning natt, Norrbottens län - polisen.se
+- Misstänkt mord nära Frölunda torg - SVT Nyheter
 - 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
-- 01 januari 07.11, Sammanfattning natt, Jämtlands län - polisen.se
+- 1800-talskyrka i Amsterdam förstörd i brand - Aftonbladet
 - Zelenskyj: Skriver inte på ett svagt fredsavtal - Dagens Nyheter
-- Hård kritik mot Israels stopp för nödhjälp - GP
-- Fartyg misstänks för kabelbrott i Finska viken - Hufvudstadsbladet
-- Brand i Sundbyberg – brinner i två lägenheter - SVT Nyheter
-- ”Den här mannen är så skyldig” - SvD
-- Två klockor, en handled – är det här framtiden för lyx? - Dagens PS
+- Tonårspojken som söks i Helsingör är från Helsingborg - Sydsvenskan
+- Fartyg som misstänks ha skadat kabel hade förbjuden last - SVT Nyheter
 - Här är Sveriges nya lagar – SFI, nikotinskatt och slopat förbud mot uranutvinning - Omni
 - Stark avslutning på året: 42% valde elbil i december - Allt om Elbil
+- ”Den här mannen är så skyldig” - SvD
+- Lista: De tjänar mest deg på pizza - Dagens industri
 - Ny studie: Märkliga fynd på Mars kan vara avslöjande spår från planetens gåtfulla förflutna - Illustrerad Vetenskap
 - Prischock hotar på hemelektronik: ”Marknaden är galen” - Dagens industri
 
@@ -33,20 +33,20 @@ _Updated: 2026-01-01 13:40_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Avlyssningsskandalen fick polischef att avgå - Journalisten
 
 ## Technology
 
@@ -61,13 +61,13 @@ _Updated: 2026-01-01 13:40_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - Källor: Deepseek på väg med ny AI-modell - Omni
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
@@ -78,7 +78,7 @@ _Updated: 2026-01-01 13:40_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -98,23 +98,23 @@ _Updated: 2026-01-01 13:40_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
@@ -125,19 +125,19 @@ _Updated: 2026-01-01 13:40_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
@@ -145,7 +145,6 @@ _Updated: 2026-01-01 13:40_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
@@ -153,6 +152,7 @@ _Updated: 2026-01-01 13:40_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
