@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-01 21:39_
+_Updated: 2026-01-01 22:45_
 
 ## Top Stories
 
-- Anna drar in – med extrema snömängder och röda varningar: ”Stanna inne” - Aftonbladet
-- JUST NU: Brand på bar – flera dussin döda - Expressen
-- Kropp hittad i sökarbetet efter försvunna pojken - Sydsvenskan
-- Våldsamma protester i Iran: ”Död åt diktatorn!” - Expressen
-- 01 januari 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
+- Snöovädret drar in – flera varningar - SVT Nyheter
+- JUST NU: Dödssiffran stiger – 47 döda - Expressen
+- Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
 - Två anhållna på skepp misstänkt för kabelbrott - SVT Nyheter
-- Drabbade familjen i Salem: "Sprid inte bilder" - Västerbottens-Kuriren
-- Två trafikolyckor på E4:an utanför Vaggeryd - Skillingaryd
-- Strömmer i Salem: ”Ett fruktansvärt mörker” - SvD
+- 01 januari 13.46, Trafikbrott, Uppsala - polisen.se
+- Stökig nyårsnatt – över 160 polisärenden - Nerikes Allehanda
+- Drabbade familjen i Salem: ”Sprid inte bilder” - SVT Nyheter
+- Utan el sedan första stormen: ”Turas om att elda” - Hudiksvalls Tidning
+- Stor lavinfara i flera fjällområden - SVT Nyheter
 - Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
+- Nathan Shachar: Irans regim saknar verktyg för att lösa folkets problem - Dagens Nyheter
+- Brand i flerfamiljshus i Ockelbo - Expressen
 - Israel bekräftar kritiserat stopp för nödhjälp - Västerbottens-Kuriren
 - Färre nattliga ryska attacker i december - GP
-- 1800-talskyrka i Amsterdam förstörd i brand - Västerbottens-Kuriren
-- Källa: CIA avfärdar ryska uppgifter om attack - GP
 - Ny elavgift på väg – vanor kan göra kostnaden dyrare - Omni
-- Svenskt Näringsliv: ”Det finns ingen väg tillbaka” - SvD
 - Från sänkta skatter till uranbrytning – 10 nya lagar 2026 - Dala-Demokraten
-- Pizzadagen i Nyköping: "Förberett för 400 pizzor" - SN, Södermanlands Nyheter
-- Sjuksköterskan Charlotte har jour i snöstormen – ensam - TV4 Nyheterna
+- Pizzadagen i full gång på Pizzeria Alpina: ”Då är det kaos” - sla.se
+- Kinesisk elbilsjätte ökar – Tesla tappar - Aftonbladet
 - Playstation Plus januariskörd har racing, en episk mus och svensk överlevnad - FZ.se
+- Chrome för Android får nytt smartare läsläge - Teknikveckan
 
 ## World News
 
@@ -52,47 +52,47 @@ _Updated: 2026-01-01 21:39_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 - Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -101,12 +101,12 @@ _Updated: 2026-01-01 21:39_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -120,24 +120,24 @@ _Updated: 2026-01-01 21:39_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
