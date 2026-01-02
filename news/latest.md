@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-02 16:52_
+_Updated: 2026-01-02 17:51_
 
-- There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means. - The New York Times
-- Mamdani revokes IHRA antisemitism definition on day 1, amid broad rejection of Adams orders - The Times of Israel
-- Trump and top Iranian officials exchange threats over protests roiling Iran - AP News
-- Maduro says Venezuela open to US talks on drug trafficking - bbc.com
-- Department of Justice is reviewing over 5.2 million Jeffrey Epstein files - PBS
+- Revelers at Swiss Alpine bar describe horror and panic when a fire broke out, leaving about 40 dead - AP News
+- Trump says if Iran "kills peaceful protesters," the U.S. will "come to their rescue" - CBS News
+- Mamdani Lays Out Agenda of ‘Affordability and Abundance’ on First Day in Office - The New York Times
 - Finnish police seize ship suspected of sabotaging undersea telecoms cable - bbc.com
-- Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes - ABC7 Chicago
-- Suspected mountain lion attack in Northern Colorado leaves woman dead; officers euthanize 2 animals - CBS News
-- Threat to Suspend Aid for Minnesota Child-Care Centers Rattles Families - The New York Times
-- U.S. military strikes 5 more alleged drug boats, killing 8 - NPR
+- Trump says he's dropping push for National Guard in Chicago and other cities - PBS
+- Response to China’s Military Exercise Near Taiwan - U.S. Department of State (.gov)
+- Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes - ABC7 New York
+- Woman dies in suspected mountain lion attack, Colorado's first deadly encounter since 1999 - NBC News
+- Records reveal Minnesota's long history with day care fraud warnings - CBS News
+- A search is underway for whoever killed a dentist and his wife while they were home with 2 children - CNN
 - Politicians have given away too much power to deliver pledges, says PM's ex-aide - bbc.com
 - U.S. interventions in Latin America and the Caribbean haven't always gone as planned - NPR
 - Kim’s daughter visits family mausoleum, promoting her potential status as heir - ABC News
-- Cash machines in Bulgaria issue euros for the first time after joining the currency union - AP News
-- European shares rally as tech leads gains; Britain’s FTSE 100 hits 10,000 points for first time - CNBC
-- S&P 500 rises to kick off 2026 as tech shares pick up where they left off in 2025: Live updates - CNBC
+- Earthquake of magnitude 6.3 strikes southern Mexico - Reuters
 - Tesla loses EV crown to China’s BYD - Financial Times
-- Tesla publishes analyst forecasts suggesting sales set to fall - The Guardian
-- Clicks debuts its own take on the BlackBerry smartphone, plus a $79 snap-on mobile keyboard - TechCrunch
+- Stock Market Today: Nasdaq Rises; Chip Stocks Rally as New Year Kicks Off — Live Updates - The Wall Street Journal
+- Oracles of Wall Street: The top calls for 2026 from last year's most accurate market forecasters - Business Insider
+- European shares rally as tech leads gains; Britain’s FTSE 100 hits 10,000 points for first time - CNBC
 - Samsung adds much needed brightness to its Freestyle projector - The Verge
+- Welcome to the Future of Noise Canceling - WIRED
