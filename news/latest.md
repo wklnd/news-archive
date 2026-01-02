@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-02 09:50_
+_Updated: 2026-01-02 10:58_
 
 - Fire in Swiss Alps Leaves Dozens of New Year’s Revelers Dead - The New York Times
-- Mamdani revokes nine Eric Adams executive orders issued after his corruption indictment - New York Daily News
-- 5 takeaways from Trump's defiant WSJ interview on his health - Axios
+- Exclusive | As Signs of Aging Emerge, Trump Responds With Defiance - The Wall Street Journal
 - Deaths reported during widening protests in Iran sparked by ailing economy - NPR
 - Response to China’s Military Exercise Near Taiwan - U.S. Department of State (.gov)
-- US military says five killed in strike on alleged drug boats - BBC
+- Trump says he's dropping push for National Guard in Chicago and other cities - PBS
+- Bulgaria joins euro area from 1 January - European Commission
+- Despite cold and rain, thousands flock to 137th Rose Parade in Pasadena - Los Angeles Times
 - Maduro says Venezuela open to US talks on drug trafficking - BBC
-- Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them - NPR
-- Medicaid, ICE and a ticking clock for undocumented Californians - Politico
-- What to know about Trump administration freezing federal child care funds - PBS
-- Yemen: Separatists allow Saudi-backed forces in seized areas - dw.com
-- Bulgaria is joining the euro. Here's what it means for consumers and businesses - Yahoo Finance
+- Woman killed in suspected mountain lion attack while hiking in northern Colorado - ABC News
 - Japan PM joins fight for more female toilets in parliament - BBC
-- First Photos Of 2026: Global New Year’s Celebrations Finish With A Bang - Forbes
-- 5 Top Artificial Intelligence Stocks to Buy in 2026 - The Motley Fool
+- Israel says it will bar dozens of aid groups from operating in Gaza - The Washington Post
+- ‘We are always living in fear’: inside Myanmar’s ‘sham’ election - The Guardian
+- North Korea's Kim Jong Un attends New Year celebrations with daughter - Reuters
+- China AI chipmaker Biren soars over 100% on Hong Kong debut as IPO wave builds - Yahoo Finance
 - Crypto users forced to share account details with tax officials - BBC
-- Stocks Set to Start 2026 Tepidly After Recent Drop: Markets Wrap - Bloomberg.com
-- Mortgage rates fall to their lowest level in 2025 - CBS News
-- Tipster reveals 10 spectacular upgrades for the Galaxy S26 Ultra - PhoneArena
+- China's BYD set to overtake Tesla as world's top EV seller - BBC
+- What's open on New Year's Day 2026? Here are open stores, restaurants and fast-food chains. - CBS News
+- Samsung's latest Freestyle portable projector is brighter and smarter - Engadget
 - The Best Gadgets of December 2025 - Gizmodo
+- Swansea man swaps personal trainer for AI and is 'strongest ever' - BBC
