@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 20:52_
+_Updated: 2026-01-02 21:39_
 
 ## Top Stories
 
-- Besked: Då avtar snöovädret i länet - Västerbottens-Kuriren
+- Nytt oväder med mycket snö - 8 Sidor
 - Dubbeldäckare i diket – flera till sjukhus - Aftonbladet
-- Partybloss tros ha orsakat dödsbranden i Schweiz - SVT Nyheter
+- Metz Tahirys Dos Santos svårt skadad i schweiziska brandtragedin - Fotbollskanalen
 - Hundratals flyg inställda i Amsterdam - SVT Nyheter
 - Mordet i Boden: Gärningsmannen kom för en annons - TV4 Nyheterna
-- Trump varnar Iran: USA redo att slå till - Dagens Nyheter
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Mördade kvinnans familj: ”Sprid inte bilder” - TV4 Nyheterna
 - Strömlös i sju dagar – "har gått åt helsike" - SvD
-- Olle Lönnaeus Trumps år vid makten värre än olyckskorparna befarat - Sydsvenskan
 - 02 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
+- 02 januari 07.58, Sammanfattning natt, Jönköpings län - polisen.se
 - Ryssland erövrade en knapp procent av Ukraina 2025 - Västerbottens-Kuriren
+- Zelenskyj: Fredsavtal tio procent bort - GP
 - ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
-- Källa: CIA avfärdar ryska uppgifter om attack - Västerbottens-Kuriren
-- Färre nattliga ryska attacker i december - GP
-- Stockholmsbörsen inleder året i rött - Dagens industri
-- Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
+- Därför tog myrorna över världen - SvD
+- Stockholmsbörsen kring nollan – tunga fall för serieförvärvare - Dagens industri
 - Börsen inför 2026: Fortsatt optimism men varning för turbulens - Cision News
-- Intellegos brottsmisstänkte ex-vd kräver ny styrelse - Dagens industri
+- Trump tullhotade till tusen – inte alla blev av - Aftonbladet
+- Svagt fordonsår 2025 – rekordår för laddhybrider - Mobility Sweden
 - Sverige hotas av super- influensan: ”Hoppas...” - Expressen
 - TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
 
@@ -29,23 +29,23 @@ _Updated: 2026-01-02 20:52_
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Avlyssningsskandalen växer - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -147,18 +147,18 @@ _Updated: 2026-01-02 20:52_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
