@@ -1,38 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 09:44_
+_Updated: 2026-01-02 10:52_
 
 ## Top Stories
 
+- Brinnande personer flydde baren i Crans-Montana: ”Som en dödsfälla” - SVT Nyheter
 - Vädervarningar ligger kvar: ”Ha tålamod” - SvD
-- Våldsam explosion och brand i bar i Schweiz – många döda - GP
+- Åtal väckt för dubbelmord i Klippan - Åklagarmyndigheten
 - Aftonbladets undersökning visar: 22 procent av kvinnorna vill inte ha barn - Aftonbladet
+- Förseningar på Arlanda – efter stormen Anna - Expressen
 - 02 januari 07.58, Sammanfattning natt, Jönköpings län - polisen.se
-- 02 januari 07.04, Sammanfattning natt, Jämtlands län - polisen.se
-- Tror på starkt börsår: ”Trump kan leverera” - SvD
 - Barn attackerat av hund i Norrköping– kvinna döms - SVT Nyheter
-- 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
-- Michael har varit utan ström i snart sex dygn - Ljusnan
-- Så var nyårsnatten – fler polisärenden än förra året - SVT Nyheter
+- Utan el sedan första stormen: ”Turas om att elda” - Hudiksvalls Tidning
+- Strömmer i Salem: ”Ett fruktansvärt mörker” - Västerbottens-Kuriren
+- 02 januari 07.04, Sammanfattning natt, Jämtlands län - polisen.se
 - ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
 - Källa: CIA avfärdar ryska uppgifter om attack - Västerbottens-Kuriren
 - Kremls miss: Avslöjar egna övergreppen - Expressen
-- Bil sladdade in i träd utanför Avesta - Expressen
-- Fallande bostadspriser 2025 - SvD
-- Nya lagar och regler 2026 som påverkar socialförsäkringen - Via TT
-- Trump tullhotade till tusen – inte alla blev av - Aftonbladet
-- Kinesiska BYD ökar – Tesla tappar - Ny Teknik
+- Grönlands svar till Trump: ”Vårt land är inte till salu” - Expressen
+- Lugn start på nya börsåret väntas – fem saker att ha koll på - Dagens industri
+- Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
+- Europeiska banker kan säga upp 200 000 till följd av AI - Computer Sweden
+- Guld, vapen och ull – årets vinnare - Sydsvenskan
 - Googles största AI-succé heter Notebook LM – så fungerar verktyget - Ny Teknik
-- Härmed proklamerar jag 2026 som backloggens år! - FZ.se
+- Nothing uppdaterar Phone 3 - mobil.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -41,12 +42,11 @@ _Updated: 2026-01-02 09:44_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -83,16 +83,16 @@ _Updated: 2026-01-02 09:44_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -101,9 +101,9 @@ _Updated: 2026-01-02 09:44_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -121,15 +121,15 @@ _Updated: 2026-01-02 09:44_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -150,15 +150,15 @@ _Updated: 2026-01-02 09:44_
 - Lediga jobb - Land Lantbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
