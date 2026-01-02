@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-02 21:48_
+_Updated: 2026-01-02 22:51_
 
-- Swiss ski resort bar fire started by sparklers, investigators say, as desperate families wait for news of dead, missing - CBS News
-- FBI thwarts 'potential terrorist attack' planned for New Year's Eve in North Carolina - WCNC
+- Sparklers may have led to deadly New Year's Swiss resort bar fire, investigators say - ABC News
+- US says it thwarted potential ISIS-inspired New Year's Eve attack in North Carolina - Reuters
 - Iran protests sparked by failing economy turn deadly - The Washington Post
+- Mamdani’s inauguration – through the eyes of five New Yorkers - City & State New York
 - Woman killed in suspected mountain lion attack while hiking in northern Colorado - The Colorado Sun
 - A search is underway for whoever killed a dentist and his wife while they were home with 2 children - CNN
-- Mamdani’s inauguration – through the eyes of five New Yorkers - City & State New York
 - ‘Mighty mad’: Democrats prepare to harness public anger over expired Obamacare subsidies - Politico
 - Right-wing influencer's fraud claim leads to threats for Somali day care owners - NPR
-- US slashes proposed tariffs on Italian pasta imports - BBC
 - Maduro "ready" to talk with U.S. on drug trafficking, won't comment on dock strike - Axios
-- Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - ABC7 Los Angeles
+- Italian pasta makers win reprieve from Trump tariffs - The Guardian
+- Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - AP News
 - Volodymyr Zelenskyy picks military spymaster to replace top aide - Financial Times
-- Yemen Sends Its Military to Push Out Separatist Faction - The New York Times
-- Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’ - The Guardian
-- Tesla loses EV crown to China's BYD as competition, tax credit expiry hit demand - Reuters
-- European shares rally as tech leads gains; Britain’s FTSE 100 hits 10,000 points for first time - CNBC
-- Saks Global Announces CEO Transition - PR Newswire
-- Stock Market Today: Chip Stocks Rally as New Year Kicks Off — Live Updates - The Wall Street Journal
+- Saudi warplanes strike UAE-backed separatists in southern Yemen - NBC News
+- Grok says safeguard lapses led to images of 'minors in minimal clothing' on X - Reuters
+- Tesla sales fall to lowest point since 2022 after Elon Musk backlash - Axios
+- London stocks hit record as 2026 kicks off with global gains - Yahoo Finance
+- Saks Global announces new CEO as it reportedly prepares for bankruptcy - CNBC
+- Wall Street mixed on the first trading day of 2026; precious metals resume rally - Reuters
 - Pebble brings its round-faced smartwatch back from the dead - Engadget
-- Fender’s new Bluetooth speakers can play audio from four sources simultaneously - The Verge
+- Clicks debuts its own take on the BlackBerry smartphone, plus a $79 snap-on mobile keyboard - TechCrunch
