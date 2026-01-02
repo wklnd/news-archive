@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 17:44_
+_Updated: 2026-01-02 18:49_
 
 ## Top Stories
 
-- Metz Tahirys Dos Santos svårt skadad i schweiziska brandtragedin - Fotbollskanalen
-- Buss och personbilar i krock på E4 vid Önnesmark – 16 till sjukhus - SVT Nyheter
-- Gul vädervarning - fortsatt snö och vind på fredag och lördag - Söderhamns kommun
-- Snöfall, vind och orange varning – vad undrar du om snöovädret? - SVT Nyheter
-- 02 januari 12.33, Trafikkontroll, Västerbottens län - polisen.se
-- Ett av polisens spår: Mördade kvinnan hade lagt ut annons på säljsida - SVT Nyheter
-- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
+- Brinnande personer flydde baren i Crans-Montana i Schweiz - SVT Nyheter
+- Bodenmordet: Mannen kom dit på grund av säljannons - Aftonbladet
+- Besked: Då avtar snöovädret i länet - Västerbottens-Kuriren
+- JUST NU: Sjukhuset i förstärkningsläge efter bussolyckan - Norran
+- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Pressad ekonomi driver missnöjet: ”Förlamats” - SvD
 - 02 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
-- 02 januari 14.08, Trafikolycka, Salem - polisen.se
+- Efter bussolyckan – två veckors undersökning väntar - Mitt i
+- Släp i diket utanför Karlskoga – väg avstängd - SVT Nyheter
 - 02 januari 07.58, Sammanfattning natt, Jönköpings län - polisen.se
-- Flera dödade i protesterna i Iran - Hufvudstadsbladet
-- Ukraina: Attackerar enbart militära mål - Västerbottens-Kuriren
+- ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
+- Källa: CIA avfärdar ryska uppgifter om attack - Västerbottens-Kuriren
+- 0,75 proc av Ukraina erövrat 2025 - SVT Nyheter
 - Insändare. Inför sanktioner mot Israel som stoppar läkare i Gaza - Dagens Nyheter
-- Nya uppgifter: I sådant skick är misstänkta fartyget - Hufvudstadsbladet
-- Christer Gardell: ”Övriga Europa borde kopiera Sverige” - SvD
-- Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
 - Intellegos brottsmisstänkte ex-vd kräver ny styrelse - Dagens industri
-- Ørsted stämmer USA:s regering efter stopp för havsbaserad vindkraft - Vindkraftsnyheter
-- TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
+- Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
+- Afv-portföljen 2025: Ett mediokert år - Affärsvärlden
+- Börsen inför 2026: Fortsatt optimism men varning för turbulens - Cision News
 - Sverige hotas av super- influensan: ”Hoppas...” - Expressen
+- TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -61,15 +61,15 @@ _Updated: 2026-01-02 17:44_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- EY.ai | EY - Sverige - EY
 - Deepseek är det nya Linux - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-02 17:44_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -147,16 +147,16 @@ _Updated: 2026-01-02 17:44_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
