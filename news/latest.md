@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-02 19:49_
+_Updated: 2026-01-02 20:56_
 
-- Young golfer named as first Italian victim of Swiss bar blaze - Reuters
-- Trump says if Iran "kills peaceful protesters," the U.S. will "come to their rescue" - CBS News
-- Mamdani Lays Out Agenda of ‘Affordability and Abundance’ on First Day in Office - The New York Times
-- Woman killed in suspected mountain lion attack while hiking in northern Colorado - ABC News
-- Department of Justice is reviewing over 5.2 million Jeffrey Epstein files - PBS
-- Response to China’s Military Exercise Near Taiwan - U.S. Department of State (.gov)
-- FBI says it thwarted potential New Year's terror attack 'directly inspired' by ISIS - ABC News
+- Swiss ski resort bar fire started by sparklers, investigators say, as desperate families wait for news of dead, missing - CBS News
+- FBI thwarts 'potential terrorist attack' planned for New Year's Eve in North Carolina - WCNC
+- Iran protests sparked by failing economy turn deadly - The Washington Post
+- Woman killed in suspected mountain lion attack while hiking in northern Colorado - The Colorado Sun
+- ‘Mighty mad’: Democrats prepare to harness public anger over expired Obamacare subsidies - Politico
 - A search is underway for whoever killed a dentist and his wife while they were home with 2 children - CNN
+- Following Mamdani’s Win, Souvenir Shops Look to Cash In - The New York Times
 - Records reveal Minnesota's long history with day care fraud warnings - CBS News
-- Maduro "ready" to talk with U.S. on drug trafficking, won't comment on dock strike - Axios
+- Italian pasta makers win reprieve from Trump tariffs - The Guardian
+- U.S. military strikes 5 more alleged drug boats, killing 8 - NPR
+- Volodymyr Zelenskyy picks military spymaster to replace top aide - Financial Times
 - Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - ABC7 Los Angeles
-- Politicians have given away too much power to deliver pledges, says PM's ex-aide - bbc.com
-- Saudi warplanes strike UAE-backed separatists in southern Yemen - NBC News
-- Kim’s daughter visits family mausoleum, promoting her potential status as heir - ABC News
-- Tesla loses title as world's biggest electric vehicle maker as sales fall for second year in a row - AP News
+- Yemen Sends Military to Push Out Separatist Faction - The New York Times
+- U.S. interventions in Latin America and the Caribbean haven't always gone as planned - NPR
+- Tesla Loses EV Crown to BYD After Second Annual Sales Drop - Bloomberg.com
 - European shares rally as tech leads gains; Britain’s FTSE 100 hits 10,000 points for first time - CNBC
 - Berkshire Hathaway shares dip as Warren Buffett exits and Greg Abel era begins - CNBC
-- S&P, Nasdaq start 2026 on firm footing as tech rebounds after recent losses - Reuters
+- Saks Global announces new CEO as it reportedly prepares for bankruptcy - CNBC
 - Pebble brings its round-faced smartwatch back from the dead - Engadget
-- Fender’s new Bluetooth speakers can play audio from four sources simultaneously - The Verge
+- Samsung adds much needed brightness to its Freestyle projector - The Verge
