@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 11:46_
+_Updated: 2026-01-02 12:46_
 
 ## Top Stories
 
-- Vädervarningar ligger kvar: ”Ha tålamod” - SvD
+- Polis: Identifiering av brandoffer kan ta veckor - SvD
+- Ovädret går mot kulmen: ”Mitt i det kraftigaste” - Dagens industri
 - Åtal väckt för dubbelmord i Klippan - Åklagarmyndigheten
 - Kremls tabbe: Soldaters klagomål blev offentliga - Omni
 - Källa: CIA avfärdar ryska uppgifter om attack - Aftonbladet
-- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
 - 02 januari 07.58, Sammanfattning natt, Jönköpings län - polisen.se
+- Utan el sedan första stormen: ”Turas om att elda” - Hudiksvalls Tidning
 - Barn attackerat av hund i Norrköping– kvinna döms - SVT Nyheter
 - Strömmer i Salem: ”Ett fruktansvärt mörker” - Västerbottens-Kuriren
 - 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
-- Lastbil fast under järnvägsbro i Katrineholm – påverkar tåg- och biltrafik - SVT Nyheter
-- Våldsam explosion och brand i bar i Schweiz – många döda - GP
 - ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
 - DN Direkt – Maduro: Redo för dialog med USA - Dagens Nyheter
-- Mossad manar på iranska protester - SVT Nyheter
+- Ukraina: Attackerar enbart militära mål - Västerbottens-Kuriren
+- Sammandrabbningar under protesterna i Iran - SVT Nyheter
+- Lugn start på nya börsåret väntas – fem saker att ha koll på - Dagens industri
 - Bostadspriserna föll under 2025 – trots räntehopp - Fastighetsnytt
 - Europeiska banker kan säga upp 200 000 till följd av AI - Computer Sweden
-- Lugn start på nya börsåret väntas – fem saker att ha koll på - Dagens industri
-- Trump tullhotade till tusen – inte alla blev av - Sydsvenskan
+- Experten: Så säkrar du din ekonomi 2026 - Jönköpings-Posten
 - Googles största AI-succé heter Notebook LM – så fungerar det - Ny Teknik
 - TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
 
@@ -57,19 +57,19 @@ _Updated: 2026-01-02 11:46_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
 
@@ -125,10 +125,10 @@ _Updated: 2026-01-02 11:46_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -137,16 +137,18 @@ _Updated: 2026-01-02 11:46_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -155,10 +157,8 @@ _Updated: 2026-01-02 11:46_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
