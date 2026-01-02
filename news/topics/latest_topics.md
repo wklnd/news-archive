@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 13:40_
+_Updated: 2026-01-02 15:09_
 
 ## Top Stories
 
-- Brinnande personer flydde baren i Crans-Montana i Schweiz - SVT Nyheter
+- Buss och personbilar i krock på E4 vid Önnesmark – bussen har vält - SVT Nyheter
 - Vädervarningar ligger kvar: ”Ha tålamod” - SvD
+- Brand i Crans-Montana i Schweiz – 47 döda och över 100 skadade - SVT Nyheter
 - Kremls miss: Avslöjar egna övergreppen - Expressen
 - Olle Lönnaeus Trumps år vid makten värre än olyckskorparna befarat - Sydsvenskan
 - Protester i Iran - 8 Sidor
+- Stormen Anna har bedarrat – tusentals ännu strömlösa - Dagens Nyheter
+- Barn attackerat av hund – kvinna döms - Sydsvenskan
+- Efter bussolyckan – två veckors undersökning väntar - Mitt i
+- 02 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
+- Grönlands svar till Trump: ”Vårt land är inte till salu” - Expressen
 - ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
-- Barn attackerat av hund i Norrköping– kvinna döms - SVT Nyheter
-- Trygghetspunkt i Trönö fortsatt öppen under nyårshelgen - Söderhamns kommun
-- UL ställer in flera avgångar - UNT
-- Strömmer i Salem: ”Ett fruktansvärt mörker” - Västerbottens-Kuriren
-- DN Direkt – Maduro: Redo för dialog med USA - Dagens Nyheter
 - Ukraina: Attackerar enbart militära mål - Västerbottens-Kuriren
-- Källa: CIA avfärdar ryska uppgifter om attack - Västerbottens-Kuriren
-- Rekordår för Göteborg med över 6 miljoner gästnätter och starkast utveckling i landet - Via TT
-- Bostadspriserna föll under 2025 – trots räntehopp - Fastighetsnytt
-- Elförbrukningen i Sverige fortsätter att minska - Aktuell Hållbarhet
+- Källa: CIA avfärdar ryska uppgifter om attack - GP
 - Christer Gardell: ”Övriga Europa borde kopiera Sverige” - SvD
 - Ørsted stämmer USA:s regering efter stopp för havsbaserad vindkraft - Vindkraftsnyheter
-- Googles största AI-succé heter Notebook LM – så fungerar det - Ny Teknik
+- Lugn start på nya börsåret väntas – fem saker att ha koll på - Dagens industri
+- Elförbrukningen i Sverige fortsätter att minska - Aktuell Hållbarhet
 - TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
+- Sverige hotas av super- influensan: ”Hoppas...” - Expressen
 
 ## World News
 
@@ -31,9 +31,9 @@ _Updated: 2026-01-02 13:40_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -74,25 +74,25 @@ _Updated: 2026-01-02 13:40_
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - tv4.se
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-02 13:40_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- HDO:er för åtkomst till "Health-ISAC SBOM Studio" genom Cybeats och Health-ISAC-partnerskap - Health-ISAC - Health Information Sharing and Analysis Center
 - Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -142,11 +142,13 @@ _Updated: 2026-01-02 13:40_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Lediga jobb - Land Lantbruk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -155,10 +157,8 @@ _Updated: 2026-01-02 13:40_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- KSLA Koncentrerar – Rapport från Kommittén för hållbar svensk matproduktion och -konsumtion - Mynewsdesk
