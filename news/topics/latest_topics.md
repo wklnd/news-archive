@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 07:49_
+_Updated: 2026-01-02 08:56_
 
 ## Top Stories
 
-- Sorg och upprördhet efter branden i Crans-Montana - SvD
-- SMHI: Röd vädervarning i Gävleborg - SVT Nyheter
-- Ukraina fejkade stridandes död för att få ut rysk bonus - Omni
-- ”Träning gör nytta – även om man inte får träningsvärk” - Dagens Nyheter
-- Börsen inför 2026: Fortsatt optimism men varning för turbulens - Dagens industri
-- Taxikrasch, hot och bråk – så var nyårsnatten i Skåne - Sydsvenskan
-- Interna larm om hundratals städmissar på sjukhus - Omni
-- Service i Holmsveden/Stråtjära med anledning av oväder - Söderhamns kommun
-- Utan el sedan första stormen: ”Turas om att elda” - Hudiksvalls Tidning
-- Drabbade familjen i Salem: ”Sprid inte bilder” - SVT Nyheter
-- Flera dödade i protesterna i Iran - GP
+- Ovädret går mot kulmen: ”Mitt i det kraftigaste” - Dagens industri
+- Våldsam explosion och brand i bar i Schweiz – många döda - GP
+- Aftonbladets undersökning visar: 22 procent av kvinnorna vill inte ha barn - Aftonbladet
+- 02 januari 07.04, Sammanfattning natt, Jämtlands län - polisen.se
+- Tror på starkt börsår: ”Trump kan leverera” - SvD
+- Villa totalförstörd i brand i Hylte - SVT Nyheter
+- 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
+- Michael har varit utan ström i snart sex dygn - Ljusnan
+- Så var nyårsnatten – fler polisärenden än förra året - SVT Nyheter
+- Här är de nya lagarna som börjar gälla 1 januari 2026 - SVT Nyheter
+- ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
 - Kremls miss: Avslöjar egna övergreppen - Expressen
-- Trump godkände CIA:s plan för att bomba Putins olja - Expressen
 - Bil sladdade in i träd utanför Avesta - Expressen
-- Trump skjuter upp vissa tullar – i ett år - vk.se
-- Elpriser, bolån och ISK – så förändras din ekonomi 2026 - Omni
-- Årliga pizzadagen i full gång på Pizzeria Alpina: ”Då är det kaos” - sla.se
-- Lyxvaruhusets blodröda siffror: ”Utvecklas åt rätt håll” - Aftonbladet
-- Googles största AI-succé heter Notebook LM – så fungerar det - Ny Teknik
+- Grönlands svar till Trump - Expressen
+- Fallande bostadspriser 2025 - SvD
+- Trump skjuter upp vissa tullar – i ett år - Västerbottens-Kuriren
+- Kinesiska bolaget kör om Tesla – är världens största elbilstillverkare - Dagens industri
+- Nu får 1,9 miljoner personer sitt årsbesked från CSN - CSN
+- Googles största AI-succé heter Notebook LM – så fungerar verktyget - Ny Teknik
 - Härmed proklamerar jag 2026 som backloggens år! - FZ.se
 
 ## World News
@@ -30,29 +30,29 @@ _Updated: 2026-01-02 07:49_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Xiaomi 17 Ultra global version kommer 2026 med mindre batteri än kinesiska - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -67,9 +67,9 @@ _Updated: 2026-01-02 07:49_
 - Deepseek är det nya Linux - Computer Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -83,16 +83,16 @@ _Updated: 2026-01-02 07:49_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2026-01-02 07:49_
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
