@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 22:44_
+_Updated: 2026-01-02 23:40_
 
 ## Top Stories
 
-- Man död i skidolycka i Härjedalen - Aftonbladet
+- Hundratals flyg inställda i Amsterdam - SVT Nyheter
 - Offer från nio länder i barbranden - Expressen
-- Nytt oväder med mycket snö - 8 Sidor
-- Misstänkte mördaren i Boden hade haft kontakt med kvinnan - Dagens Nyheter
 - 02 januari 12.10, Trafikolycka, Skellefteå - polisen.se
-- Ryssland erövrade en procent av Ukraina - Expressen
-- Strömlös i sju dagar – "har gått åt helsike" - SvD
+- Bodenmordet: Mannen kom dit på grund av säljannons - Aftonbladet
+- JUST NU: Stopp hela natten på E18 – trafiken leds om - NWT
+- Skidåkare saknas i Leksand – befaras ha gått genom isen - SVT Nyheter
+- Chockstart för Daniel när snöovädret slog till: ”Kan behöva jobba i sju dagar” - NWT
+- Tonårspojke döms för skjutning på Stureplan – ordningsvakt skadades - SVT Nyheter
+- Man död i skidolycka i Härjedalen - Aftonbladet
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
-- Mördade kvinnans familj: ”Sprid inte bilder” - TV4 Nyheterna
-- 02 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
-- Flera dödade i protesterna i Iran - GP
+- Trump hotar Iran efter protester - SVT Nyheter
 - Ryssland erövrade en knapp procent av Ukraina 2025 - Västerbottens-Kuriren
 - Zelenskyj: Fredsavtal tio procent bort - GP
 - ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
 - Stockholmsbörsen kring nollan – tunga fall för serieförvärvare - Dagens industri
 - Buffett: Skulle helst låta honom sköta mina pengar - Dagens industri
 - Börsen inför 2026: Fortsatt optimism men varning för turbulens - Cision News
-- Trump tullhotade till tusen – inte alla blev av - Aftonbladet
+- Volvo årets mest köpta bil – Tesla faller utanför pallplats - Omni
 - Sverige hotas av super- influensan: ”Hoppas...” - Expressen
-- TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
+- Epic skänker bort PvPvE-spelet Wildgate och Total War: Three Kingdoms - FZ.se
 
 ## World News
 
@@ -110,9 +110,9 @@ _Updated: 2026-01-02 22:44_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
