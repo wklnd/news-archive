@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-02 19:42_
+_Updated: 2026-01-02 20:52_
 
 ## Top Stories
 
-- Branden i Crans-Montana – polisen kallade till pressträff - SVT Nyheter
-- Bodenmordet: Mannen kom dit på grund av säljannons - Aftonbladet
 - Besked: Då avtar snöovädret i länet - Västerbottens-Kuriren
-- 0,75 proc av Ukraina erövrat 2025 - SVT Nyheter
-- JUST NU: Sjukhuset i förstärkningsläge efter bussolyckan - Norran
-- Pressad ekonomi driver missnöjet: ”Förlamats” - SvD
+- Dubbeldäckare i diket – flera till sjukhus - Aftonbladet
+- Partybloss tros ha orsakat dödsbranden i Schweiz - SVT Nyheter
+- Hundratals flyg inställda i Amsterdam - SVT Nyheter
+- Mordet i Boden: Gärningsmannen kom för en annons - TV4 Nyheterna
+- Trump varnar Iran: USA redo att slå till - Dagens Nyheter
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Strömlös i sju dagar – "har gått åt helsike" - SvD
+- Olle Lönnaeus Trumps år vid makten värre än olyckskorparna befarat - Sydsvenskan
 - 02 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
-- Efter bussolyckan – två veckors undersökning väntar - Mitt i
-- Flera inställda flyg på grund av stormen - Aftonbladet
+- Ryssland erövrade en knapp procent av Ukraina 2025 - Västerbottens-Kuriren
 - ”Jag hoppades på att bli sårad eller tagen som krigsfånge” - Dagens Nyheter
-- Ukraina: Attackerar enbart militära mål - Västerbottens-Kuriren
-- 02 januari 14.08, Trafikolycka, Salem - polisen.se
-- Israel bekräftar kritiserat stopp för nödhjälp - Västerbottens-Kuriren
+- Källa: CIA avfärdar ryska uppgifter om attack - Västerbottens-Kuriren
+- Färre nattliga ryska attacker i december - GP
 - Stockholmsbörsen inleder året i rött - Dagens industri
-- Intellegos brottsmisstänkte ex-vd kräver ny styrelse - Dagens industri
 - Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
 - Börsen inför 2026: Fortsatt optimism men varning för turbulens - Cision News
+- Intellegos brottsmisstänkte ex-vd kräver ny styrelse - Dagens industri
 - Sverige hotas av super- influensan: ”Hoppas...” - Expressen
 - TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
 
@@ -42,16 +42,17 @@ _Updated: 2026-01-02 19:42_
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -62,37 +63,36 @@ _Updated: 2026-01-02 19:42_
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - EY.ai | EY - Sverige - EY
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-02 19:42_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
