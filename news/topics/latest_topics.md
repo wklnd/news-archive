@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 11:42_
+_Updated: 2026-01-03 12:44_
 
 ## Top Stories
 
-- ”Krig med Venezuela inte i USA:s intresse" - SvD
+- Andreas Gustavsson: USA rövar bort Maduro – då jublar Ryssland och Kina - ETC.se
 - Orange vädervarning: snöfall i kombination med vind - Stockholms stad
-- Trumps hot mot Iran: ”Förberedda för strid” - Expressen
-- Kvinna och man hittade döda i bostad i Ånge - Aftonbladet
 - Akademiska rycker in efter tragedin - UNT
 - 400 fordon var fast på E22 - SVT Nyheter
+- Israels ”toppgisslan” visas upp av Trump - SvD
+- Man och kvinna hittade döda i Ånge – mord utreds - Omni
+- Pusslet om makten: Vem tar vem efter valet? - Dagens Nyheter
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
-- Ett av polisens spår: Mördade kvinnan hade lagt ut annons på säljsida - SVT Nyheter
-- 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
-- En skadad i lägenhetsbrand på Kungsholmen - SVT Nyheter
-- Ukraina-allierade möts i Kiev - SVT Nyheter
-- Många dödade av IS-stödd milisgrupp - Expressen
+- Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
+- Misstänkte mördaren i Boden hade haft kontakt med kvinnan - Dagens Nyheter
+- Ukraina-allierade möts i Kiev - Dagens Nyheter
+- Fler döda vid protester i Iran - GP
 - Guterres om Gaza: Djupt oroad - Västerbottens-Kuriren
-- Puma misstänks ha dödat kvinna i Colorado - Sydsvenskan
+- Polisens uppmaning till stockholmarna: ”Sushi är INTE nödvändigt” - Aftonbladet
 - Tesla bommar estimaten – blir omkört av BYD - Omni
+- Analys: Det gör Investor världsunika - DI
+- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
-- Svagt fordonsår 2025 – rekordår för laddhybrider - Mobility Sweden
-- Arbetslösa spelutvecklare får stöd – hoppas på nya bolag - DI
-- ”Ett jättekul år!” - 7an
-- Kommer det en Switch 2-version av Splatoon 3? - FZ.se
+- Det är Norrtäljebons favoritbil - Norrtelje Tidning
+- Teknikveckan frågar: Vilket är ditt bästa prylköp under 2025? - Teknikveckan
 
 ## World News
 
@@ -31,7 +31,7 @@ _Updated: 2026-01-03 11:42_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -39,14 +39,14 @@ _Updated: 2026-01-03 11:42_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -77,13 +77,15 @@ _Updated: 2026-01-03 11:42_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Meet the Team – Fredrik - Uber
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -91,8 +93,6 @@ _Updated: 2026-01-03 11:42_
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -122,7 +122,7 @@ _Updated: 2026-01-03 11:42_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -130,21 +130,20 @@ _Updated: 2026-01-03 11:42_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -153,12 +152,13 @@ _Updated: 2026-01-03 11:42_
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
