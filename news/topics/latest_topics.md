@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 07:45_
+_Updated: 2026-01-03 08:53_
 
 ## Top Stories
 
+- Nytt oväder med mycket snö - 8 Sidor
 - Kaos i snöovädret: ”Extrem situation” - Aftonbladet
-- Gul vädervarning - fortsatt snö och vind på fredag och lördag - Söderhamns kommun
+- 02 januari 22.20, Mord/dråp, försök, Stockholm - polisen.se
+- Israels ”toppgisslan” visas upp av Trump - SvD
 - Metz Tahirys Dos Santos svårt skadad i schweiziska brandtragedin - Fotbollskanalen
 - Misstänkte mördaren i Boden hade haft kontakt med kvinnan - Dagens Nyheter
-- Explosion i Hällesåker i Mölndals kommun - GP
 - Man och kvinna hittade döda i Ånge - SVT Nyheter
+- 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
 - 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
-- 02 januari 15.54, Trafikolycka, Karlskoga - polisen.se
-- 02 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
 - Många dödade av IS-stödd grupp - Aftonbladet
-- Ukraina-allierade möts i Kiev - GP
-- Läkare utan gränser Sverige om Israels stopp för nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- DN Direkt – En person till sjukhus vid brand i lägenhet - Dagens Nyheter
-- Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
+- Ukraina-allierade möts i Kiev - SVT Nyheter
+- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
+- Puma misstänks ha dödat kvinna i Colorado - SvD
 - Volvo årets mest köpta bil – Tesla faller utanför pallplats - Omni
+- Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
 - Stockholmsbörsen inleder året i rött - DI
 - Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
 - TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
-- Mobil listar: 2025 års bästa smartklocka - mobil.se
+- Clicks har skapat en Blackberry-liknande mobil med fysiskt tangentbord - Swedroid
 
 ## World News
 
@@ -52,47 +52,47 @@ _Updated: 2026-01-03 07:45_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Meet the Team – Fredrik - Uber
+- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -114,31 +114,31 @@ _Updated: 2026-01-03 07:45_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
@@ -149,9 +149,9 @@ _Updated: 2026-01-03 07:45_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
