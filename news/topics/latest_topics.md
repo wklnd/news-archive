@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 09:39_
+_Updated: 2026-01-03 10:49_
 
 ## Top Stories
 
+- Kristine Stavås Skistad lämnar Tour de Ski - Aftonbladet
+- Här blir snöovädret som värst i helgen: ”Stora mängder” - DI
 - Snöstormen Anna skapade nattligt trafikkaos i södra Sverige - Yle
-- Nytt oväder med mycket snö - 8 Sidor
-- 02 januari 22.20, Mord/dråp, försök, Stockholm - polisen.se
-- 03 januari 07.54, Sammanfattning natt, Norrbottens län - polisen.se
-- Kvinna och man hittade döda i bostad i Ånge - Aftonbladet
-- Misstänkte mördaren i Boden hade haft kontakt med kvinnan - Dagens Nyheter
-- Explosioner i Venezuelas huvudstad Caracas - SvD
-- 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Trumps krigshets mot Iran: ”Är redo” - Expressen
+- Man och kvinna hittade döda i Ånge - SVT Nyheter
 - 03 januari 07.55, Sammanfattning natt, Jämtlands län - polisen.se
-- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Uppgifter: USA har attackerat Venezuela - SvD
+- Ett av polisens spår: Mördade kvinnan hade lagt ut annons på säljsida - SVT Nyheter
+- 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
+- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
 - Ukraina-allierade möts i Kiev - SVT Nyheter
 - Guterres om Gaza: Djupt oroad - Västerbottens-Kuriren
-- Många dödade av IS-stödd milisgrupp - Expressen
+- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
 - Puma misstänks ha dödat kvinna i Colorado - Sydsvenskan
-- Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
-- Volvo årets mest köpta bil – Tesla faller utanför pallplats - Omni
-- Stockholmsbörsen inleder året i rött - DI
-- Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
-- TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
-- Clicks har skapat en Blackberry-liknande mobil med fysiskt tangentbord - Swedroid
+- Tesla bommar estimaten – blir omkört av BYD - Omni
+- Svagt fordonsår 2025 – rekordår för laddhybrider - Mobility Sweden
+- Mäklarna: Så utvecklas bostadsmarknaden 2026 - Alingsås Tidning
+- När britterna satte rekord i superi - SvD
+- ”Ett jättekul år!” - 7an
+- Kommer det en Switch 2-version av Splatoon 3? - FZ.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Avlyssningsskandalen växer - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -57,8 +57,8 @@ _Updated: 2026-01-03 09:39_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
@@ -68,8 +68,8 @@ _Updated: 2026-01-03 09:39_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- EU och USA skriver under juridiskt bindande AI-avtal - Computer Sweden
 
 ## Business
 
@@ -82,7 +82,6 @@ _Updated: 2026-01-03 09:39_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2026-01-03 09:39_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 
 ## Health
 
@@ -122,19 +122,19 @@ _Updated: 2026-01-03 09:39_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -142,23 +142,23 @@ _Updated: 2026-01-03 09:39_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
