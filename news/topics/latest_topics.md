@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 22:44_
+_Updated: 2026-01-03 23:40_
 
 ## Top Stories
 
-- Flera explosioner i Venezuelas huvudstad Caracas - GP
-- 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
+- Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
+- Tiotusentals utan ström i Berlin - SVT Nyheter
+- Zelenskyj positiv inför veckans möte - Aftonbladet
 - SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
-- Glamorösa alppärlan blev plats för katastrof - SvD
-- Lägesrapport efter kvällens och nattens snöfall - Mönsterås kommun
-- Protest mot regimen i Iran –manifestation i Malmö - Sydsvenskan
+- 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
+- All tågtrafik norr om Gävle ställs in - Aftonbladet
 - 03 januari 04.19, Mordbrand, Stockholm - polisen.se
-- 03 januari 17.49, Övrigt, Mölndal - polisen.se
+- Kvinna hittad skadad i Helsingborg – förd till sjukhus - SVT Nyheter
+- Bodenmördare hade kontakt via annons - Aftonbladet
 - Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
-- Efter julens råa mord: ”Orkar inte vara arg längre” - Helagotland
-- Uppgifter: Venezuelas vicepresident i Ryssland - Aftonbladet
+- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
+- Trump hotar Iran efter dödliga protester - GP
+- 03 januari 17.49, Övrigt, Mölndal - polisen.se
 - Landet byter huvudstad - Sydsvenskan
-- Zelenskyj positiv inför veckans möte - GP
-- Spänt i Finska viken: Krock med färja mardrömmen - Aftonbladet
 - Varslar var femte – AI slår mot it-jobben - SvD
-- AI på väg mot kollaps – tar våra hjärnor med sig - Aftonbladet
+- Stockholm pekas ut som Europas nya huvudstad - SvD
+- Så förändras arbetsmarknaden: ”Kommer vara till stor nytta” - NLT
 - Intellego: Jätteordern var förfalskad - DI
-- Småsparare och Wall Street väntas dra kryptoloket - DI
 - Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
 - CES 2026: Dreame kommer att lansera en Wi-Fi 7-router - Teknikveckan
 
@@ -34,17 +34,17 @@ _Updated: 2026-01-03 22:44_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- New Secretary General appointed - palmecenter.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
+- Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -102,6 +102,7 @@ _Updated: 2026-01-03 22:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -111,10 +112,9 @@ _Updated: 2026-01-03 22:44_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
