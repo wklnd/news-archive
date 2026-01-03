@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 12:44_
+_Updated: 2026-01-03 13:39_
 
 ## Top Stories
 
-- Andreas Gustavsson: USA rövar bort Maduro – då jublar Ryssland och Kina - ETC.se
-- Orange vädervarning: snöfall i kombination med vind - Stockholms stad
+- Därför bombar Donald Trump Venezuela - Arbetet
+- Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
 - Akademiska rycker in efter tragedin - UNT
-- 400 fordon var fast på E22 - SVT Nyheter
+- Kvinna och man hittade döda i bostad i Ånge - Aftonbladet
+- 400 fordon var fast i 15 kilometer lång kö - DI
 - Israels ”toppgisslan” visas upp av Trump - SvD
-- Man och kvinna hittade döda i Ånge – mord utreds - Omni
-- Pusslet om makten: Vem tar vem efter valet? - Dagens Nyheter
-- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
 - Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
-- Misstänkte mördaren i Boden hade haft kontakt med kvinnan - Dagens Nyheter
-- Ukraina-allierade möts i Kiev - Dagens Nyheter
+- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Ett av polisens spår: Mördade kvinnan hade lagt ut annons på säljsida - SVT Nyheter
+- 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Anna-Lena Laurén: Zelenskyj försöker pressa Ryssland genom överdriven optimism - Dagens Nyheter
+- Polisens uppmaning till stockholmarna: ”Sushi är INTE nödvändigt” - Aftonbladet
 - Fler döda vid protester i Iran - GP
 - Guterres om Gaza: Djupt oroad - Västerbottens-Kuriren
-- Polisens uppmaning till stockholmarna: ”Sushi är INTE nödvändigt” - Aftonbladet
-- Tesla bommar estimaten – blir omkört av BYD - Omni
 - Analys: Det gör Investor världsunika - DI
-- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
+- Analytiker delade kring Tesla – AI och självkörande i fokus - Omni Ekonomi
+- Hans flyttade från Hällefors till svenskgruvan i Afrika – hade aldrig varit utomlands - Dagens Arbete
 - Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
 - Det är Norrtäljebons favoritbil - Norrtelje Tidning
 - Teknikveckan frågar: Vilket är ditt bästa prylköp under 2025? - Teknikveckan
@@ -31,7 +31,7 @@ _Updated: 2026-01-03 12:44_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -39,14 +39,14 @@ _Updated: 2026-01-03 12:44_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Avlyssningsskandalen växer - Journalisten
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Avlyssningsskandalen växer - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -57,30 +57,32 @@ _Updated: 2026-01-03 12:44_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- EU och USA skriver under juridiskt bindande AI-avtal - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -88,11 +90,9 @@ _Updated: 2026-01-03 12:44_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -129,16 +129,16 @@ _Updated: 2026-01-03 12:44_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
