@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 13:39_
+_Updated: 2026-01-03 15:06_
 
 ## Top Stories
 
-- Därför bombar Donald Trump Venezuela - Arbetet
+- Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
 - Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
-- Akademiska rycker in efter tragedin - UNT
-- Kvinna och man hittade döda i bostad i Ånge - Aftonbladet
-- 400 fordon var fast i 15 kilometer lång kö - DI
-- Israels ”toppgisslan” visas upp av Trump - SvD
-- Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
+- Stora problem i tågtrafiken - UNT
+- Man och kvinna hittade döda i Ånge – mord utreds - Omni
+- Sös-läkaren: Varför och hur är det ens möjligt, Johan Forssell? - Aftonbladet
+- 400 fordon fastnade i snöovädret på E22 - Dagens Nyheter
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
-- Ett av polisens spår: Mördade kvinnan hade lagt ut annons på säljsida - SVT Nyheter
-- 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Anna-Lena Laurén: Zelenskyj försöker pressa Ryssland genom överdriven optimism - Dagens Nyheter
+- Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
+- 03 januari 08.02, Sammanfattning natt, Södermanlands län - polisen.se
+- 03 januari 10.33, Trafikolycka, Munkedal - polisen.se
+- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
+- Båt på väg mot Europa sjönk – tiotals saknas - Aftonbladet
 - Polisens uppmaning till stockholmarna: ”Sushi är INTE nödvändigt” - Aftonbladet
-- Fler döda vid protester i Iran - GP
-- Guterres om Gaza: Djupt oroad - Västerbottens-Kuriren
+- Trump hotar Iran efter dödliga protester - GP
+- Så stoppar du bråk mellan dina arvingar - Sydsvenskan
 - Analys: Det gör Investor världsunika - DI
-- Analytiker delade kring Tesla – AI och självkörande i fokus - Omni Ekonomi
+- Experter delade om oljan – spår ”omedelbart” prislyft - Omni
 - Hans flyttade från Hällefors till svenskgruvan i Afrika – hade aldrig varit utomlands - Dagens Arbete
-- Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
-- Det är Norrtäljebons favoritbil - Norrtelje Tidning
+- Uppgifter: Apples budget-Macbook släpps i vår - Macworld.se
 - Teknikveckan frågar: Vilket är ditt bästa prylköp under 2025? - Teknikveckan
 
 ## World News
@@ -31,22 +31,22 @@ _Updated: 2026-01-03 13:39_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -109,13 +109,13 @@ _Updated: 2026-01-03 13:39_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Diamyd Medical bekräftar viktiga framsteg mot Accelererat godkännande för Diamyd efter Type C-möte med FDA - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -129,12 +129,12 @@ _Updated: 2026-01-03 13:39_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -144,8 +144,9 @@ _Updated: 2026-01-03 13:39_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -161,4 +162,3 @@ _Updated: 2026-01-03 13:39_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
