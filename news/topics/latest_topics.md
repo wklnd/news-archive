@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 08:53_
+_Updated: 2026-01-03 09:39_
 
 ## Top Stories
 
+- Snöstormen Anna skapade nattligt trafikkaos i södra Sverige - Yle
 - Nytt oväder med mycket snö - 8 Sidor
-- Kaos i snöovädret: ”Extrem situation” - Aftonbladet
 - 02 januari 22.20, Mord/dråp, försök, Stockholm - polisen.se
-- Israels ”toppgisslan” visas upp av Trump - SvD
-- Metz Tahirys Dos Santos svårt skadad i schweiziska brandtragedin - Fotbollskanalen
+- 03 januari 07.54, Sammanfattning natt, Norrbottens län - polisen.se
+- Kvinna och man hittade döda i bostad i Ånge - Aftonbladet
 - Misstänkte mördaren i Boden hade haft kontakt med kvinnan - Dagens Nyheter
-- Man och kvinna hittade döda i Ånge - SVT Nyheter
+- Explosioner i Venezuelas huvudstad Caracas - SvD
 - 03 januari 07.02, Sammanfattning kväll och natt, Hallands län - polisen.se
-- 01 januari 08.28, Sammanfattning natt, Örebro län - polisen.se
+- 03 januari 07.55, Sammanfattning natt, Jämtlands län - polisen.se
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
-- Många dödade av IS-stödd grupp - Aftonbladet
 - Ukraina-allierade möts i Kiev - SVT Nyheter
-- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
-- Puma misstänks ha dödat kvinna i Colorado - SvD
-- Volvo årets mest köpta bil – Tesla faller utanför pallplats - Omni
+- Guterres om Gaza: Djupt oroad - Västerbottens-Kuriren
+- Många dödade av IS-stödd milisgrupp - Expressen
+- Puma misstänks ha dödat kvinna i Colorado - Sydsvenskan
 - Experterna överens: Stora prisökningar 2026 på den skånska bostadsmarknaden - Sydsvenskan
+- Volvo årets mest köpta bil – Tesla faller utanför pallplats - Omni
 - Stockholmsbörsen inleder året i rött - DI
 - Nya lagar och regler 2026 som påverkar socialförsäkringen | Försäkringskassan - Via TT
 - TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
@@ -57,8 +57,8 @@ _Updated: 2026-01-03 08:53_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
@@ -69,7 +69,7 @@ _Updated: 2026-01-03 08:53_
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
+- EU och USA skriver under juridiskt bindande AI-avtal - Computer Sweden
 
 ## Business
 
@@ -122,19 +122,19 @@ _Updated: 2026-01-03 08:53_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -149,9 +149,9 @@ _Updated: 2026-01-03 08:53_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
