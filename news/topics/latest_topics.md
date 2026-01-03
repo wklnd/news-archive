@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 15:06_
+_Updated: 2026-01-03 15:45_
 
 ## Top Stories
 
-- Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
 - Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
-- Stora problem i tågtrafiken - UNT
+- Flera explosioner i Venezuelas huvudstad Caracas - GP
 - Man och kvinna hittade döda i Ånge – mord utreds - Omni
-- Sös-läkaren: Varför och hur är det ens möjligt, Johan Forssell? - Aftonbladet
-- 400 fordon fastnade i snöovädret på E22 - Dagens Nyheter
-- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Kvinna avliden efter lägenhetsbrand på Kungsholmen - SVT Nyheter
+- Oväntat stöd för sänkt straffmyndighetsålder - SvD
+- Stora problem i tågtrafiken - UNT
+- Krav på amnesti för utvisade familjen: ”Hål i huvudet” - Dagens Nyheter
 - Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
+- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
 - 03 januari 08.02, Sammanfattning natt, Södermanlands län - polisen.se
-- 03 januari 10.33, Trafikolycka, Munkedal - polisen.se
-- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
 - Båt på väg mot Europa sjönk – tiotals saknas - Aftonbladet
-- Polisens uppmaning till stockholmarna: ”Sushi är INTE nödvändigt” - Aftonbladet
 - Trump hotar Iran efter dödliga protester - GP
-- Så stoppar du bråk mellan dina arvingar - Sydsvenskan
+- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
+- Läkare utan gränser Sverige om Israels stopp för nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Så stoppar du bråk mellan dina arvingar - SvD
 - Analys: Det gör Investor världsunika - DI
-- Experter delade om oljan – spår ”omedelbart” prislyft - Omni
-- Hans flyttade från Hällefors till svenskgruvan i Afrika – hade aldrig varit utomlands - Dagens Arbete
+- Mäklarna: Så utvecklas bostadsmarknaden 2026 - Alingsås Tidning
+- Intellego: Jätteordern var förfalskad - DI
 - Uppgifter: Apples budget-Macbook släpps i vår - Macworld.se
-- Teknikveckan frågar: Vilket är ditt bästa prylköp under 2025? - Teknikveckan
+- ”Ett jättekul år!” - 7an
 
 ## World News
 
@@ -52,23 +52,23 @@ _Updated: 2026-01-03 15:06_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
-- Deepseek är det nya Linux - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Deepseek är det nya Linux - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
 ## Business
@@ -144,9 +144,8 @@ _Updated: 2026-01-03 15:06_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Lediga jobb - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -157,8 +156,9 @@ _Updated: 2026-01-03 15:06_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
