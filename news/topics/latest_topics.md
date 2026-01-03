@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 23:40_
+_Updated: 2026-01-04 00:43_
 
 ## Top Stories
 
 - Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
 - Tiotusentals utan ström i Berlin - SVT Nyheter
-- Zelenskyj positiv inför veckans möte - Aftonbladet
-- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
 - 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
-- All tågtrafik norr om Gävle ställs in - Aftonbladet
+- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
+- Glamorösa alppärlan blev plats för katastrof - SvD
+- Halka på motorvägar i Skåne – flera olyckor och långa bilköer - HD
 - 03 januari 04.19, Mordbrand, Stockholm - polisen.se
 - Kvinna hittad skadad i Helsingborg – förd till sjukhus - SVT Nyheter
-- Bodenmördare hade kontakt via annons - Aftonbladet
-- Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
-- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
-- Trump hotar Iran efter dödliga protester - GP
-- 03 januari 17.49, Övrigt, Mölndal - polisen.se
-- Landet byter huvudstad - Sydsvenskan
-- Varslar var femte – AI slår mot it-jobben - SvD
+- Trygghetspunkter öppnas i Ljusne och Holmsveden - Söderhamns kommun
+- 400 fordon var fast på E22 efter snökaoset - SVT Nyheter
+- Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
+- Vargjakten i Finland 2026: Läget efter två dagar - Jakt & Jägare
+- Krafterna som vill förgöra de kristna - SvD
 - Stockholm pekas ut som Europas nya huvudstad - SvD
-- Så förändras arbetsmarknaden: ”Kommer vara till stor nytta” - NLT
-- Intellego: Jätteordern var förfalskad - DI
+- Svårare för nyexaminerade programmerare att få jobb - Omni
+- Maxa plånboken 2026 – så mycket mer pengar får du nästa år - Filipstads Tidning
+- Intellego: Utredare har avslöjat orderbluff - Aftonbladet
+- Efterlängtat ”Assassin’s Creed”-spel som utspelar sig i Kina lever igen - MovieZine.se
 - Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
 - CES 2026: Dreame kommer att lansera en Wi-Fi 7-router - Teknikveckan
 
@@ -38,13 +38,13 @@ _Updated: 2026-01-03 23:40_
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - palmecenter.se
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -102,17 +102,17 @@ _Updated: 2026-01-03 23:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
@@ -125,6 +125,7 @@ _Updated: 2026-01-03 23:40_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -135,30 +136,29 @@ _Updated: 2026-01-03 23:40_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
