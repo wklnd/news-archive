@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 21:38_
+_Updated: 2026-01-03 22:44_
 
 ## Top Stories
 
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
 - 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
+- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
 - Glamorösa alppärlan blev plats för katastrof - SvD
-- Här blir snöovädret som värst i helgen: ”Stora mängder” - DI
-- Bagagekaos på Arlanda – stor ilska bland passagerare - Expressen
+- Lägesrapport efter kvällens och nattens snöfall - Mönsterås kommun
 - Protest mot regimen i Iran –manifestation i Malmö - Sydsvenskan
-- Tåg inställda tills på måndag: ”Blivit tvingade” - Västerbottens-Kuriren
 - 03 januari 04.19, Mordbrand, Stockholm - polisen.se
-- 400 fordon var fast på E22 efter snökaoset - SVT Nyheter
-- Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
-- Uppgifter: Venezuelas vicepresident i Ryssland - aftonbladet.se
 - 03 januari 17.49, Övrigt, Mölndal - polisen.se
-- Stor insats utanför Ikea – efter vapenliknande föremål - Expressen
-- Nikkita misshandlades till döds – ”en demon” - aftonbladet.se
+- Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
+- Efter julens råa mord: ”Orkar inte vara arg längre” - Helagotland
+- Uppgifter: Venezuelas vicepresident i Ryssland - Aftonbladet
+- Landet byter huvudstad - Sydsvenskan
+- Zelenskyj positiv inför veckans möte - GP
+- Spänt i Finska viken: Krock med färja mardrömmen - Aftonbladet
 - Varslar var femte – AI slår mot it-jobben - SvD
-- AI-boten Grok anmäls av franska ministrar - Omni
-- Kommentar: Lägre oljepris att vänta - DI
-- Så stoppar du bråk mellan dina arvingar - Sydsvenskan
+- AI på väg mot kollaps – tar våra hjärnor med sig - Aftonbladet
+- Intellego: Jätteordern var förfalskad - DI
+- Småsparare och Wall Street väntas dra kryptoloket - DI
 - Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
 - CES 2026: Dreame kommer att lansera en Wi-Fi 7-router - Teknikveckan
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -102,7 +102,6 @@ _Updated: 2026-01-03 21:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -112,9 +111,10 @@ _Updated: 2026-01-03 21:38_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
@@ -142,23 +142,23 @@ _Updated: 2026-01-03 21:38_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
