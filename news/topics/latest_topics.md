@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 19:41_
+_Updated: 2026-01-03 20:51_
 
 ## Top Stories
 
 - Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
+- 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
 - Glamorösa alppärlan blev plats för katastrof - SvD
-- Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
-- Flera olyckor på E6 i Västsverige – väldigt halt väglag - SVT Nyheter
-- Oväntat stöd för sänkt straffmyndighetsålder - SvD
+- Här blir snöovädret som värst i helgen: ”Stora mängder” - DI
+- Bagagekaos på Arlanda – stor ilska bland passagerare - Expressen
 - Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
-- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
-- Snökaoset: Inställda tåg och träd över E22 - GP
+- Tåg inställda tills på måndag: ”Blivit tvingade” - vk.se
+- Kvinna avliden efter lägenhetsbrand på Kungsholmen - SVT Nyheter
 - Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
-- 03 januari 08.02, Sammanfattning natt, Södermanlands län - polisen.se
+- 400 fordon var fast på E22 efter snökaoset - SVT Nyheter
+- 03 januari 17.49, Övrigt, Mölndal - polisen.se
 - Ayatollan: Upprorsmakare ska sättas på plats - Hufvudstadsbladet
+- Nikkita misshandlades till döds – ”en demon” - Aftonbladet
 - Läkare utan gränser Sverige om Israels stopp för nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Ukraina-allierade möts i Kiev - DI
-- Ukraina fejkade stridandes död för att få ut rysk bonus - Omni
 - Så stoppar du bråk mellan dina arvingar - SvD
-- Elon Musks chatbot Grok erkänner brister i skyddsåtgärder på X-plattformen - Investing.com Sverige
-- Stockholmsbörsen inleder året i rött - DI
-- Analys: ”Game changer” om USA går in i Venezuela - Omni
+- AI-boten Grok anmäls av franska ministrar - Omni
+- Läkare från Harvard slår hål myten om dieter som ger ett längre liv - Dagens PS
+- Kommentar: Lägre oljepris att vänta - DI
+- Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
 - CES 2026: Dreame kommer att lansera en Wi-Fi 7-router - Teknikveckan
-- Red Bull avslöjar ny hyperbil – kör ifrån F1-bil - Carup.se
 
 ## World News
 
@@ -52,7 +52,6 @@ _Updated: 2026-01-03 19:41_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -63,26 +62,25 @@ _Updated: 2026-01-03 19:41_
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -90,9 +88,11 @@ _Updated: 2026-01-03 19:41_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2026-01-03 19:41_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
