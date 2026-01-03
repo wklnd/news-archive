@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2026-01-03 07:52_
+_Updated: 2026-01-03 08:57_
 
 - Swiss Bar Fire Likely Caused By Sparklers, Authorities Say - The New York Times
+- Mamdani defends eliminating executive orders on antisemitism, boycotting Israel - Politico
 - Is Trump taking too much aspirin? Here's what experts say - NPR
-- Trump warns US is 'locked and loaded' if Iran kills peaceful protesters - ABC News
-- US military says five killed in strike on alleged drug boats - BBC
-- As Mamdani rises in New York, San Francisco turns away from the left - Politico
-- Everything we know about Minnesota's massive fraud schemes - CBS News
-- California's open carry ban unconstitutional, appeals court rules - NBC News
-- Ohio police seek suspect after dentist and his wife found shot to death at home - CBS News
-- North Carolina Man Accused of Planning Potential Terrorist Attack - The New York Times
+- Missing Alabama boy, 4, found dead 2 miles from home: Police - ABC News
+- Mamdani brings the campaign mobilization to City Hall - City & State New York
 - Man fought off a mountain lion weeks before a suspected fatal Colorado attack - AP News
-- Earthquake with 6.5 magnitude rattles southern and central Mexico killing 2 - NBC News
-- Yemen’s separatists announce a constitution for an independent south - AP News
-- Elon Musk's Grok under fire for generating explicit AI images of minors - Axios
-- Russian strike on Ukraine's Kharkiv kills two, injures 25, Moscow denies attack took place - Reuters
+- DHS hypes worksite enforcement as fraud allegations rip through Minnesota - Axios
+- FBI thwarts 'potential terrorist attack' on New Year's Eve in NC inspired by ISIS - WPDE
+- Ohio police seek suspect after dentist and his wife found shot to death at home - CBS News
+- California ban on open carry of firearms ruled unconstitutional by appeals court - Los Angeles Times
+- 6.5 magnitude earthquake rattles Mexico City and Acapulco, a popular tourist hotspot - CBS News
+- Yemen clashes bring Saudi and UAE-backed forces into confrontation - BBC
+- CNN team witnesses multiple explosions in Venezuela’s capital Caracas - CNN
+- Elon Musk's Grok AI floods X with sexualized photos of women and minors - Reuters
 - Tesla sales fall to lowest point since 2022 - Axios
 - Stock Market Today: Dow Up With 'January Barometer' On Watch; Nvidia Stock Climbs (Live Coverage) - Investor's Business Daily
 - Saks C.E.O. Steps Down as Company Struggles to Pay Down Debt - The New York Times
