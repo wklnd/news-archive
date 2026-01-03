@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 16:42_
+_Updated: 2026-01-03 17:41_
 
 ## Top Stories
 
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Man misstänks ha mördat kvinna i Ånge - Omni
-- Snökaos i Stockholm: SMHI utfärdar orange varning - Mitt i
+- Man och kvinna hittade döda i bostad i Ånge - SVT Nyheter
 - Oväntat stöd för sänkt straffmyndighetsålder - SvD
-- Protest mot regimen i Iran –manifestation i Malmö - Sydsvenskan
+- Kraftig brand i Stockholm: ”Slog lågor genom fönstret” - Expressen
+- Nytt oväder med mycket snö - 8 Sidor
 - Metz Tahirys Dos Santos svårt skadad i schweiziska brandtragedin - Fotbollskanalen
-- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
-- Krav på amnesti för utvisade familjen: ”Hål i huvudet” - Dagens Nyheter
 - Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
+- Krav på amnesti för utvisade familjen: ”Hål i huvudet” - Dagens Nyheter
 - 03 januari 08.02, Sammanfattning natt, Södermanlands län - polisen.se
-- Båt på väg mot Europa sjönk – tiotals saknas - Sydsvenskan
-- Polisens uppmaning till stockholmarna: ”Sushi är INTE nödvändigt” - Aftonbladet
+- 03 januari 10.33, Trafikolycka, Munkedal - polisen.se
+- Ayatollan: Upprorsmakare ska sättas på plats - Hufvudstadsbladet
+- Ukraina-allierade möts i Kiev - DI
 - Läkare utan gränser Sverige om Israels stopp för nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
 - 02 januari 22.20, Mord/dråp, försök, Stockholm - polisen.se
 - Så stoppar du bråk mellan dina arvingar - SvD
 - Elon Musks chatbot Grok erkänner brister i skyddsåtgärder på X-plattformen - Investing.com Sverige
-- Investerare: Ingen roll för sparkade vd:n - DI
-- Experter delade om oljan – spår ”omedelbart” prislyft - Omni
+- Stockholmsbörsen inleder året i rött - DI
+- Intellego: Utredare har avslöjat orderbluff - Aftonbladet
+- Red Bull avslöjar ny hyperbil – kör ifrån F1-bil - Carup.se
 - Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
-- CES: Pebble Round 2 lanseras till våren. Uppdaterad klassiker med färgskärm och två veckors batteri. - feber.se
 
 ## World News
 
-- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -43,6 +42,7 @@ _Updated: 2026-01-03 16:42_
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -52,24 +52,24 @@ _Updated: 2026-01-03 16:42_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2026-01-03 16:42_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -129,36 +129,36 @@ _Updated: 2026-01-03 16:42_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
-- Lediga jobb - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
