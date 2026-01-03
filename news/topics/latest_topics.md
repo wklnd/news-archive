@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 20:51_
+_Updated: 2026-01-03 21:38_
 
 ## Top Stories
 
-- Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
+- Flera explosioner i Venezuelas huvudstad Caracas - GP
 - 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
 - Glamorösa alppärlan blev plats för katastrof - SvD
 - Här blir snöovädret som värst i helgen: ”Stora mängder” - DI
 - Bagagekaos på Arlanda – stor ilska bland passagerare - Expressen
-- Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
-- Tåg inställda tills på måndag: ”Blivit tvingade” - vk.se
-- Kvinna avliden efter lägenhetsbrand på Kungsholmen - SVT Nyheter
-- Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
+- Protest mot regimen i Iran –manifestation i Malmö - Sydsvenskan
+- Tåg inställda tills på måndag: ”Blivit tvingade” - Västerbottens-Kuriren
+- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
 - 400 fordon var fast på E22 efter snökaoset - SVT Nyheter
+- Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
+- Uppgifter: Venezuelas vicepresident i Ryssland - aftonbladet.se
 - 03 januari 17.49, Övrigt, Mölndal - polisen.se
-- Ayatollan: Upprorsmakare ska sättas på plats - Hufvudstadsbladet
-- Nikkita misshandlades till döds – ”en demon” - Aftonbladet
-- Läkare utan gränser Sverige om Israels stopp för nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Så stoppar du bråk mellan dina arvingar - SvD
+- Stor insats utanför Ikea – efter vapenliknande föremål - Expressen
+- Nikkita misshandlades till döds – ”en demon” - aftonbladet.se
+- Varslar var femte – AI slår mot it-jobben - SvD
 - AI-boten Grok anmäls av franska ministrar - Omni
-- Läkare från Harvard slår hål myten om dieter som ger ett längre liv - Dagens PS
 - Kommentar: Lägre oljepris att vänta - DI
+- Så stoppar du bråk mellan dina arvingar - Sydsvenskan
 - Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
 - CES 2026: Dreame kommer att lansera en Wi-Fi 7-router - Teknikveckan
 
@@ -30,57 +30,59 @@ _Updated: 2026-01-03 20:51_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Två monografier om artificiell intelligens och digital transformation inom journalistik och media har lanserats. - Vietnam.vn
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- Spår superintelligens om tio år – vill leda racet - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -88,11 +90,9 @@ _Updated: 2026-01-03 20:51_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -102,6 +102,7 @@ _Updated: 2026-01-03 20:51_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -109,7 +110,6 @@ _Updated: 2026-01-03 20:51_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -121,6 +121,7 @@ _Updated: 2026-01-03 20:51_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -128,37 +129,36 @@ _Updated: 2026-01-03 20:51_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
