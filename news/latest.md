@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-03 09:48_
+_Updated: 2026-01-03 10:55_
 
-- Crans-Montana fire: families face agonising wait for victims’ identification - The Guardian
-- Coast Guard Suspends Search for Survivors of Latest Boat Strikes - The New York Times
+- Swiss Bar Fire Likely Caused By Sparklers, Authorities Say - The New York Times
+- At least 7 explosions and low-flying aircraft are heard in Venezuela’s Caracas - AP News
 - Missing Alabama boy, 4, found dead 2 miles from home: Police - ABC News
+- Coast Guard Suspends Search for Survivors of Latest Boat Strikes - The New York Times
 - Mamdani defends eliminating executive orders on antisemitism, boycotting Israel - Politico
-- Is Trump taking too much aspirin? Here's what experts say - NPR
-- Federal Appeals Court Says California Open-Carry Ban Is Unconstitutional - The New York Times
+- California ban on open carry of firearms ruled unconstitutional by appeals court - Los Angeles Times
+- North Carolina Man Accused of Planning Potential Terrorist Attack - The New York Times
 - 9 Minnesota child care centers discussed in viral video "operating as expected," state officials say - CBS News
-- Democratic Socialists Celebrate Mayor Mamdani With a Rave in Brooklyn - The New York Times
-- FBI says it thwarted potential New Year's terror attack 'directly inspired' by ISIS - ABC News
+- Zohran Mamdani's first full day as NYC mayor: subway rides, new offices and backlash from Israel - AP News
 - Woman dies in suspected mountain lion attack, Colorado's first deadly encounter since 1999 - NBC News
-- Strong earthquake shakes Mexico's independence monument, hits roads and hospitals - KSL.com
-- Yemen clashes bring Saudi and UAE-backed forces into confrontation - BBC
-- Zelensky names spy chief to head presidential administration in big shake-up - CNN
-- Elon Musk's Grok AI floods X with sexualized photos of women and minors - Reuters
-- Tesla sales fall to lowest point since 2022 - Axios
-- Stock Market Today: Dow Up With 'January Barometer' On Watch; Nvidia Stock Climbs (Live Coverage) - Investor's Business Daily
-- Saks C.E.O. Steps Down as Company Struggles to Pay Down Debt - The New York Times
+- Yemen’s separatists announce a constitution for an independent south - AP News
+- 6.5 magnitude earthquake rattles Mexico City and Acapulco, a popular tourist hotspot - CBS News
+- Military-backed party in Myanmar takes lead in first phase of polls - Reuters
+- Ukraine’s Zelensky Names Kyrylo Budanov as New Chief of Staff - The New York Times
+- Tesla sales hit lowest point since 2022 after Musk backlash and end of tax credit - Axios
 - These Stocks Drove the Market’s Gains in 2025 - Morningstar
-- Pebble brings its round-faced smartwatch back from the dead - Engadget
-- Fender’s new Bluetooth speakers can play audio from four sources simultaneously - The Verge
+- Offshore Wind Projects Challenge Trump Administration’s Order to Stop Work - The New York Times
+- Luxury retailer Saks Global CEO Marc Metrick steps down as bankruptcy looms - Reuters
+- Instagram Head Calls Out Camera Companies for Going in the Wrong Direction - PetaPixel
+- Clicks is bringing its first smartphone and a new keyboard to CES 2026 - Engadget
