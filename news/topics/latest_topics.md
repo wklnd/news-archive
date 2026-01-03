@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-03 18:48_
+_Updated: 2026-01-03 19:41_
 
 ## Top Stories
 
-- USA har tillfångatagit Maduro – ska ställas inför rätta - Dagens Nyheter
-- Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
-- Vinter med Göran: ”Ser inte ut” - Aftonbladet
-- Två döda hittade – utreds som mord - GP
-- Bagageförseningar på Arlanda i snökaoset - SVT Nyheter
+- Trump: Venezuelas president Nicolás Maduro tillfångatagen - GP
 - Glamorösa alppärlan blev plats för katastrof - SvD
-- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
-- Snökaoset: Inställda tåg och träd över E22 - vk.se
+- Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
+- Flera olyckor på E6 i Västsverige – väldigt halt väglag - SVT Nyheter
+- Oväntat stöd för sänkt straffmyndighetsålder - SvD
 - Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
-- 03 januari 15.28, Trafikhinder, Strömstad - polisen.se
+- 03 januari 04.19, Mordbrand, Stockholm - polisen.se
+- Snökaoset: Inställda tåg och träd över E22 - GP
+- Storbråk utanför mataffär – tre personer misstänks för misshandel - Sydsvenskan
+- 03 januari 08.02, Sammanfattning natt, Södermanlands län - polisen.se
 - Ayatollan: Upprorsmakare ska sättas på plats - Hufvudstadsbladet
 - Läkare utan gränser Sverige om Israels stopp för nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Ukraina fejkade stridandes död för att få ut rysk bonus - Omni
 - Ukraina-allierade möts i Kiev - DI
+- Ukraina fejkade stridandes död för att få ut rysk bonus - Omni
 - Så stoppar du bråk mellan dina arvingar - SvD
-- Grok publicerade sexuella bilder av minderåriga - Omni Ekonomi
+- Elon Musks chatbot Grok erkänner brister i skyddsåtgärder på X-plattformen - Investing.com Sverige
 - Stockholmsbörsen inleder året i rött - DI
-- Experter delade om oljan – spår ”omedelbart” prislyft - Omni
+- Analys: ”Game changer” om USA går in i Venezuela - Omni
 - CES 2026: Dreame kommer att lansera en Wi-Fi 7-router - Teknikveckan
 - Red Bull avslöjar ny hyperbil – kör ifrån F1-bil - Carup.se
 
@@ -30,9 +30,10 @@ _Updated: 2026-01-03 18:48_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -40,11 +41,10 @@ _Updated: 2026-01-03 18:48_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -52,6 +52,7 @@ _Updated: 2026-01-03 18:48_
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -62,7 +63,6 @@ _Updated: 2026-01-03 18:48_
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
@@ -103,7 +103,6 @@ _Updated: 2026-01-03 18:48_
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
@@ -116,6 +115,7 @@ _Updated: 2026-01-03 18:48_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
