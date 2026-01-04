@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-04 19:48_
+_Updated: 2026-01-04 20:55_
 
-- Inside the U.S. Operation to Oust Venezuela’s President - The New York Times
+- 'It's a violation of the law': Schumer criticizes Trump's decision to strike Venezuela - ABC News
+- Transcript: Secretary of State Marco Rubio on "Face the Nation with Margaret Brennan," Jan. 4, 2026 - CBS News
+- Trump’s plan to seize and revitalize Venezuela’s oil industry faces major hurdles - AP News
 - Important Travel Update for San Juan Disembarkation. - Virgin Voyages
 - Executive Order 07 - NYC.gov
 - Is Trump taking too much aspirin? Here's what experts say - NPR
-- Nick Emmanwori Shines In Dominant Defensive Performance As Seahawks Top 49ers - Seattle Seahawks
-- How to Watch, Listen, Live Stream Ravens vs. Steelers ‘Sunday Night Football’ - Ravens Home | Baltimore Ravens – baltimoreravens.com
-- Marco Rubio sets out US demands for Venezuela’s remaining leaders - Financial Times
-- Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
-- Appeals panel says California's ban on open carry in more populated counties is unconstitutional - ABC News
-- Donald Trump's plan to seize Venezuela oil industry after Nicolas Maduro captured faces major hurdles - ABC7 Los Angeles
-- How the Monroe Doctrine factors into US arrest of Venezuela’s Nicolás Maduro - AP News
-- Greece: Thousands stranded across Europe as air space disrupted - BBC
-- ‘Everyone Is in Shock’: Swiss Town Grieves as More Fire Victims Are Identified - The New York Times
+- LEADER JEFFRIES STATEMENT ON TRUMP ADMINISTRATION ACTIONS IN VENEZUELA - Congressman Hakeem Jeffries (.gov)
+- Denmark urges 'respect' after Trump aide's wife posts on Greenland - BBC
+- Iran's leader says rioters 'must be put in their place' as protest death toll rises to at least 10 - PBS
+- Heavy Rain and King Tides Cause Flooding in California - The New York Times
+- Girls aged 14 and 15 among 24 victims of Crans-Montana fire identified - The Guardian
+- As Trump imposes 'Donroe' Doctrine, murky message to US rivals - France 24
 - Yemeni Forces, Backed by Saudi Arabia, Reclaim Territory From Separatists - The New York Times
-- From the AI bubble to Fed fears: the global economic outlook for 2026 - The Guardian
+- Greece: Thousands stranded across Europe as air space disrupted - BBC
+- Last year’s odd economy in five charts, and what to watch for in 2026 - AP News
 - OPEC+ keeps oil output steady amid turmoil among members - Reuters
-- Bosses are fighting a new battle in the RTO wars: It's not about where you work, but when you work - Fortune
-- Thoughts on the U.S. Economy and the Year Ahead - Philadelphia Federal Reserve Bank
-- At CES 2026, Govee rethinks what smart lighting should actually do - Android Central
-- Jackery’s expensive solar-powered Gazebo is a good DIY idea - The Verge
+- Saks Global CEO steps down as luxury retailer reportedly preparing for bankruptcy - The Guardian
+- Fed's Paulson signals another rate cut could take a while - Reuters
+- Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch - The Verge
+- Plaud launches a new AI pin and a desktop meeting notetaker - TechCrunch
