@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 07:48_
+_Updated: 2026-01-04 08:54_
 
 ## Top Stories
 
+- Utspel om Grönland i Trumps krets: ”Snart” - SvD
+- Storbritannien: Genomfört attack mot IS - SVT Nyheter
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Glamorösa alppärlan blev plats för katastrof - SvD
-- Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
 - SJ om inställda tågen: ”Vi är på helspänn” - Aftonbladet
+- Glamorösa alppärlan blev plats för katastrof - SvD
+- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
+- Halka på motorvägar i Skåne – flera olyckor och långa bilköer - Sydsvenskan
 - 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
-- Varnar – inför hemvändartrafiken - Nerikes Allehanda
-- Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
-- Kvinna skadad efter mordförsök - Aftonbladet
-- Flera olyckor på E6 i Västsverige – väldigt halt väglag - SVT Nyheter
-- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- Kvinna hittad skadad i Helsingborg – förd till sjukhus - SVT Nyheter
+- 04 januari 07.20, Sammanfattning natt, Dalarnas län - polisen.se
+- Ingen ny valsedel i höst - Sydsvenskan
 - Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
-- Landet byter huvudstad - Sydsvenskan
 - Zelenskyj positiv inför veckans möte - GP
 - Nikkita misshandlades till döds – ”en demon” - Aftonbladet
-- Klassiska Volkswagen Polo blir eldriven - Teknikens Värld
-- Maxa plånboken 2026 – så mycket mer pengar får du nästa år - Filipstads Tidning
+- Okända risken kan kosta dig 100 000-tals kronor - Aftonbladet
+- Funktionellt och retro – VW visar interiören hos ID. Polo - Elbilen
 - Summeringen: Bostadspriserna sjönk i december - Skillingaryd
-- Stockholm pekas ut som Europas nya huvudstad - SvD
-- Här är de 10 spel vi ser mest fram emot 2026 - Cafe.se
-- Kunglig glamour på Amalienborg – se modevalen från danska nyårstaffeln - elle.se
+- Nya lagar och regler 2026 som påverkar socialförsäkringen - Örebronyheter
+- Årets första spelhelg är här – vad firar du den med? - FZ.se
+- TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-01-04 07:48_
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -82,11 +82,11 @@ _Updated: 2026-01-04 07:48_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -102,7 +102,6 @@ _Updated: 2026-01-04 07:48_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -112,17 +111,18 @@ _Updated: 2026-01-04 07:48_
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -130,15 +130,15 @@ _Updated: 2026-01-04 07:48_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
