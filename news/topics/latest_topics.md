@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 21:38_
+_Updated: 2026-01-04 22:44_
 
 ## Top Stories
 
-- Sonen dog i lågorna: ”Är i frid omgiven av ljus” - SvD
-- SMHI varnar: Snart drar snöovädret in över sydvästra Skåne - Sydsvenskan
-- Tio bussar fast i snöovädret - Expressen
-- Man med järnrör på fyrhjuling i Tings Nöbbelöv – misshandlade flera personer - SVT Nyheter
+- Kaos i snöstormen – tio bussar fast i backe - Expressen
 - Här tas stegen mot den yttersta makten - SvD
+- Mordutredaren ska hitta luckorna i polisens arbete: ”Min största skräck” - Sydsvenskan
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
+- Mette Frederiksen svarar Trump om Grönland - SVT Nyheter
+- Första offren identifierade efter branden - Västerbottens-Kuriren
 - SMHI varnar på nytt – kraftigt snöfall fortsätter - GP
 - Ljusmanifestation för mördade kvinnor hålls på flera platser i landet - SVT Nyheter
 - Stor polisinsats på hotell kan vara falskt larm - Västerbottens-Kuriren
-- Mordutredaren ska hitta luckorna i polisens arbete: ”Min största skräck” - Sydsvenskan
-- Ankare släpades flera kilometer vid kabelbrott - Västerbottens-Kuriren
-- Utspel om Grönland i Trumps krets: ”Snart” - GP
+- Man med järnrör på fyrhjuling i Tings Nöbbelöv – misshandlade flera personer - SVT Nyheter
 - DN Direkt – Svenske tränaren får sparken i Skottland - Dagens Nyheter
-- Ukraina-allierade möts i Kiev - DI
+- Ankare släpades flera kilometer vid kabelbrott - Västerbottens-Kuriren
+- Ukraina-allierade möts i Kiev - SVT Nyheter
+- Polisen: Gå inte fram till den ärrade mannen - Expressen
 - Intellego: Storordern bakom kursraset var förfalskad - EFN.se
-- Han gjorde som SJ skrev – nekas ändå ersättning - Expressen
 - DN Direkt – Andersson totalfyra i Tour de Ski - Dagens Nyheter
 - Volkswagen visar ny interiör – nu med fysiska knappar igen - m3.se
+- Se upp för fällorna vid pensionsrådgivning - DI
 - Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
 - Så ska Microsoft hindra oss från att byta till Chat GPT Atlas - PC för Alla
 
@@ -80,8 +80,8 @@ _Updated: 2026-01-04 21:38_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -101,21 +101,21 @@ _Updated: 2026-01-04 21:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -136,9 +136,9 @@ _Updated: 2026-01-04 21:38_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-04 21:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Soffa.jpg - Mynewsdesk
