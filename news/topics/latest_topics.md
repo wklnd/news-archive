@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 11:41_
+_Updated: 2026-01-04 12:44_
 
 ## Top Stories
 
-- Frida Karlsson avbryter touren - Sydsvenskan
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Gul vädervarning i Stockholm - Stockholms stad
-- Nya hotet mot Grönland från Trumps led - Expressen
+- SMHI varnar på nytt – kraftigt snöfall fortsätter - SvD
+- Grönlands statsminister sågar USA: "Respektlöst" - Realtid
 - 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
-- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
-- Tåg inställda tills på måndag: ”Blivit tvingade” - vk.se
-- 03 januari 21.29, Mord/dråp, försök, Helsingborg - polisen.se
-- Bötfälls för snö på taket - UNT
-- Man i 35-årsåldern på Gotland misstänkt för mordförsök - SVT Nyheter
-- Fler offer i branden i Schweiz har identifierats - vk.se
-- Björn Wiman: Vad blir Trumps nästa drag – krigsfartyg mot Köpenhamn? - Dagens Nyheter
-- Storbritannien: Genomfört attack mot IS - vk.se
-- Ayatollan: Upprorsmakare ska sättas på plats - vk.se
+- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
+- I NATT: Grov misshandel med trubbigt föremål – ung man anhållen i Karlstad - NWT
+- Lugnt trafikläge trots besvärligt väglag - Dagens Nyheter
+- Ingen ny valsedel i höst - GP
+- M:s ordförande i Lund: ”Sverige utvisar både för många och för få.” - Sydsvenskan
+- Polisens varning till buskörarna – i ovädret: ”Har ringt hela natten” - Aftonbladet
+- Fler offer i branden i Schweiz har identifierats - Västerbottens-Kuriren
+- Storbritannien: Genomfört attack mot IS - Västerbottens-Kuriren
+- Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
+- Zelenskyj positiv inför veckans möte - GP
 - Pensionen flyttas framåt – så blir det för dig - SvD
 - Svårare för nyexaminerade programmerare att få jobb - Omni
+- Buffett: Skulle helst låta honom sköta mina pengar - DI
 - Analys: Det gör Investor världsunika - DI
-- Okända risken kan kosta dig 100 000-tals kronor - Aftonbladet
 - Marshall Bromley 750 är högtalaren som tar över festen - Teknikveckan
-- I dag drar Awesome Games Done Quick 2026 igång. En hel vecka med turbospelande. - feber.se
+- Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
 
 ## World News
 
@@ -44,8 +44,8 @@ _Updated: 2026-01-04 11:41_
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -66,10 +66,10 @@ _Updated: 2026-01-04 11:41_
 - Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
 
@@ -85,10 +85,10 @@ _Updated: 2026-01-04 11:41_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -101,44 +101,44 @@ _Updated: 2026-01-04 11:41_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
