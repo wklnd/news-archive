@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-04 04:59_
+_Updated: 2026-01-04 06:37_
 
-- Nicolás Maduro arrives in New York after removal as Venezuelan president - The Guardian
-- Delta cancels Caribbean flights; closely monitoring ongoing situation in region - Delta News Hub
+- Pete Hegseth says U.S. intervention in Venezuela is "exact opposite" of Iraq - CBS News
+- Important Travel Update for San Juan Disembarkation. - Virgin Voyages
+- Iran's leader says rioters 'must be put in their place' as protest death toll rises to at least 10 - PBS
 - 'We just want to find him': Families of missing and injured describe agonising wait after Swiss bar fire - BBC
 - Executive Order 07 - NYC.gov
-- Is Trump taking too much aspirin? Here's what experts say - NPR
-- Rapid Reactions: Panthers fall to Bucs, division decided Sunday - Panthers.com
-- Trump intervention warning over Iran protests 'reckless' says foreign minister - BBC
-- DHS hypes worksite enforcement as fraud allegations rip through Minnesota - Axios
-- Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
-- A month before their 5-year anniversary, an Ohio couple was killed in the home where they exchanged vows. Here’s what we know - CNN
+- Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
+- Appeals panel says California's ban on open carry in more populated counties is unconstitutional - ABC News
+- Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term - CNBC
+- What to know about Trump administration freezing federal child care funds - Oregon Public Broadcasting - OPB
+- Hannah Dugan, Wisconsin Judge Convicted of Obstructing Immigration Agents, Resigns - The New York Times
+- Yemen's southern separatists welcome Saudi call for dialogue amid Saudi-UAE rift - Reuters
+- Pyongyang fires ballistic missiles as South Korean President Lee Jae Myung makes state visit to China - CNN
 - Removing Maduro Was ‘Donroe Doctrine’ in Action, Trump Says - The Wall Street Journal
 - More Saudi airstrikes hit separatist positions in Yemeni port city - ABC News
-- After Venezuela operation, Trump says the whole hemisphere is in play - Politico
-- Yemen's separatists announce a constitution for an independent south - NPR
-- Tesla is no longer the world’s top EV seller - Morning Brew
+- How UK plush toy Jellycat conquered China - BBC
 - Greg Abel takes over as CEO of Berkshire Hathaway. What to know about Warren Buffett's successor. - CBS News
+- BYD officially crushes Tesla in all-electric sales for 2025, secures global BEV crown - Electrek
 - Offshore Wind Projects Challenge Trump Administration’s Order to Stop Work - The New York Times
-- Someone made $400K by predicting Maduro's capture. Here's what happened - Axios
 - Say Goodbye To Fossil Fuels With This Gas Alternative Without Petroleum - bgr.com
-- Microsoft CEO Satya Nadella calls for consensus about AI - theregister.com
+- Clicks is bringing its first smartphone and a new keyboard to CES 2026 - Engadget
