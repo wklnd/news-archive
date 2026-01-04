@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 07:03_
+_Updated: 2026-01-04 07:48_
 
 ## Top Stories
 
@@ -10,18 +10,18 @@ _Updated: 2026-01-04 07:03_
 - SJ om inställda tågen: ”Vi är på helspänn” - Aftonbladet
 - 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
 - Varnar – inför hemvändartrafiken - Nerikes Allehanda
+- Trafikverkets varning till skåningarna: Ge er inte ut på vägarna - Sydsvenskan
 - Kvinna skadad efter mordförsök - Aftonbladet
-- 03 januari 13.01, Trafikolycka, singel, Älvdalen - polisen.se
-- Brand i flerfamiljshus i Drängsered - SVT Nyheter
+- Flera olyckor på E6 i Västsverige – väldigt halt väglag - SVT Nyheter
 - Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
 - Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
+- Landet byter huvudstad - Sydsvenskan
 - Zelenskyj positiv inför veckans möte - GP
-- Spänt i Finska viken: Krock med färja mardrömmen - Aftonbladet
-- Smittlarm i turistparadis – drastiska ökningen - Expressen
+- Nikkita misshandlades till döds – ”en demon” - Aftonbladet
+- Klassiska Volkswagen Polo blir eldriven - Teknikens Värld
 - Maxa plånboken 2026 – så mycket mer pengar får du nästa år - Filipstads Tidning
+- Summeringen: Bostadspriserna sjönk i december - Skillingaryd
 - Stockholm pekas ut som Europas nya huvudstad - SvD
-- Massor av snö – men ingen slalom - UNT
-- Intellego: Utredare har avslöjat orderbluff - Aftonbladet
 - Här är de 10 spel vi ser mest fram emot 2026 - Cafe.se
 - Kunglig glamour på Amalienborg – se modevalen från danska nyårstaffeln - elle.se
 
@@ -123,22 +123,22 @@ _Updated: 2026-01-04 07:03_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
