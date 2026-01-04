@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 00:44_
+_Updated: 2026-01-05 01:42_
 
 ## Top Stories
 
-- Expert om Venezuela: Mycket som är osäkert - Sydsvenskan
+- Första marknadsreaktionerna: Börsen upp – oljan faller - EFN.se
 - Alla dödsoffer identifierade efter nyårsbranden - GP
-- Trump: ”Vi har absolut ett behov av Grönland” - Aftonbladet
-- Ännu en varning för snöfall - Expressen
 - Kaos i snöstormen – tio bussar fast i backe - Expressen
+- Trafikverkets säkerhetstips inför hemvändartrafiken - Norran
 - Omfattande reparationsarbete i Gävleborg fortsätter – snömängder försvårar - www.ellevio.se
-- SMHI varnar på nytt – kraftigt snöfall fortsätter - GP
-- Åsa Beckman: Nej, inte alla män – men alldeles för många - Dagens Nyheter
+- Gul varning: Risk för kraftiga snöbyar över Gotland - Region Gotland
+- Mördade kvinnor hedrades med ljusmanifestation - GP
 - 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
-- Mordutredaren ska hitta luckorna i polisens arbete: ”Min största skräck” - Sydsvenskan
-- Nya kabelskador har upptäckts i Östersjön - DI
+- Man med järnrör på fyrhjuling i Tings Nöbbelöv – misshandlade flera personer - SVT Nyheter
+- Rån på Ica Supermarket i Löddeköpinge – polis jagar två yngre män - SVT Nyheter
+- Utspel om Grönland i Trumps krets: ”Snart” - GP
 - Ankare släpades flera kilometer vid kabelbrott - Västerbottens-Kuriren
+- Alla i familjen dog timmar före bröllop - Expressen
 - Vänsterextrem grupp tar på sig elavbrott i Berlin - TV4 Nyheterna
-- Nationella säkerhetsrådgivare besökte Kiev den 3 januari - Regeringen.se
-- Intellego: Storordern bakom kursraset var förfalskad - EFN.se
-- Han gjorde som SJ skrev – nekas ändå ersättning - Expressen
 - DN Direkt – Stor del av Maduros säkerhetsstyrkor dödades av USA - Dagens Nyheter
+- Volkswagen visar ny interiör – nu med fysiska knappar igen - m3.se
 - Anett, 45, fast i Marocko: ”Aldrig mer Norweigan” - Expressen
+- Lunchrestaurang i Östersund ute till försäljning - Östersunds-Posten
 - Ett över 20 år gammalt ”Star Wars”-spel rusar i pris – av oväntad anledning - MovieZine.se
 - Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
 
@@ -35,15 +35,15 @@ _Updated: 2026-01-05 00:44_
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -59,15 +59,15 @@ _Updated: 2026-01-05 00:44_
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
+- EY.ai | EY - Sverige - EY
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
@@ -151,6 +151,7 @@ _Updated: 2026-01-05 00:44_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
@@ -160,5 +161,4 @@ _Updated: 2026-01-05 00:44_
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
