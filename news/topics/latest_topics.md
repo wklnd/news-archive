@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 12:44_
+_Updated: 2026-01-04 13:39_
 
 ## Top Stories
 
-- Flera explosioner i Venezuelas huvudstad Caracas - GP
-- SMHI varnar på nytt – kraftigt snöfall fortsätter - SvD
-- Grönlands statsminister sågar USA: "Respektlöst" - Realtid
+- Vintersport: Johannes Hösflot Kläbo historisk – tar sin femte totalseger i Tour de Ski - SVT Nyheter
+- Björn Wiman: Vad blir Trumps nästa drag – krigsfartyg mot Köpenhamn? - Dagens Nyheter
+- Fortsatta snövarningar och strömavbrott i landet - Aftonbladet
+- SJ om inställda tågen: ”Vi är på helspänn” - Aftonbladet
 - 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
-- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
-- I NATT: Grov misshandel med trubbigt föremål – ung man anhållen i Karlstad - NWT
-- Lugnt trafikläge trots besvärligt väglag - Dagens Nyheter
-- Ingen ny valsedel i höst - GP
+- Nya hotet mot Grönland från Trumps led - Expressen
+- Misstänkt grovt brott på Hotel Diplomat - Aftonbladet
 - M:s ordförande i Lund: ”Sverige utvisar både för många och för få.” - Sydsvenskan
-- Polisens varning till buskörarna – i ovädret: ”Har ringt hela natten” - Aftonbladet
-- Fler offer i branden i Schweiz har identifierats - Västerbottens-Kuriren
-- Storbritannien: Genomfört attack mot IS - Västerbottens-Kuriren
-- Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
-- Zelenskyj positiv inför veckans möte - GP
+- Halka på motorvägar i Skåne – flera olyckor och långa bilköer - Sydsvenskan
+- Namnbyte är inte juridiskt könsbyte - SvD
+- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
+- Flygplan stoppas i Grekland - Expressen
+- Storbritannien: Genomfört attack mot IS - vk.se
+- Ayatollan: Upprorsmakare ska sättas på plats - vk.se
 - Pensionen flyttas framåt – så blir det för dig - SvD
+- Buffett: Berkshire bäst rustat att överleva i hundra år - Affärsvärlden
 - Svårare för nyexaminerade programmerare att få jobb - Omni
-- Buffett: Skulle helst låta honom sköta mina pengar - DI
-- Analys: Det gör Investor världsunika - DI
+- Hyresgäster under press – krav på höjt bidrag - SvD
+- Ny modell av Airpods Pro kan få inbyggda IR-kameror - Macworld.se
 - Marshall Bromley 750 är högtalaren som tar över festen - Teknikveckan
-- Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2026-01-04 12:44_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
+- Källor: Deepseek på väg med ny AI-modell - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
 
@@ -100,21 +100,21 @@ _Updated: 2026-01-04 12:44_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -126,19 +126,19 @@ _Updated: 2026-01-04 12:44_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-04 12:44_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
