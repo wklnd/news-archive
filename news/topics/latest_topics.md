@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 10:49_
+_Updated: 2026-01-04 11:41_
 
 ## Top Stories
 
+- Frida Karlsson avbryter touren - Sydsvenskan
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Grönlands statsminister sågar USA: "Respektlöst" - Realtid
-- TV: Snön fortsätter – risk för halka - Nerikes Allehanda
-- 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
 - Gul vädervarning i Stockholm - Stockholms stad
-- Kvinna i 50-årsåldern misstänkt för mordförsök i Helsingborg - SVT Nyheter
-- Ingen ny valsedel hinns med – hundratals miljoner trycks - Omni
-- Lugnt trafikläge trots besvärligt väglag - Dagens Nyheter
+- Nya hotet mot Grönland från Trumps led - Expressen
+- 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
+- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
+- Tåg inställda tills på måndag: ”Blivit tvingade” - vk.se
+- 03 januari 21.29, Mord/dråp, försök, Helsingborg - polisen.se
 - Bötfälls för snö på taket - UNT
-- Kontroversiellt vaccin på väg – skyddar personer med beroende - Marcus Oscarsson
-- Storbritannien: Genomfört attack mot IS - Västerbottens-Kuriren
-- Turister och lokalbor först på plats att hjälpa offren - Dagens Nyheter
+- Man i 35-årsåldern på Gotland misstänkt för mordförsök - SVT Nyheter
+- Fler offer i branden i Schweiz har identifierats - vk.se
 - Björn Wiman: Vad blir Trumps nästa drag – krigsfartyg mot Köpenhamn? - Dagens Nyheter
-- Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
+- Storbritannien: Genomfört attack mot IS - vk.se
+- Ayatollan: Upprorsmakare ska sättas på plats - vk.se
+- Pensionen flyttas framåt – så blir det för dig - SvD
 - Svårare för nyexaminerade programmerare att få jobb - Omni
+- Analys: Det gör Investor världsunika - DI
 - Okända risken kan kosta dig 100 000-tals kronor - Aftonbladet
-- Godsägare köpte bil för 2,7 miljoner – har inte kunnat användas - Skånska Dagbladet
-- Klassiska Volkswagen Polo blir eldriven - Teknikens Värld
+- Marshall Bromley 750 är högtalaren som tar över festen - Teknikveckan
 - I dag drar Awesome Games Done Quick 2026 igång. En hel vecka med turbospelande. - feber.se
-- Multiplayer-läget i Metal Gear 3-rebooten har få till inga spelare - FZ.se
 
 ## World News
 
@@ -44,8 +44,8 @@ _Updated: 2026-01-04 10:49_
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -85,10 +85,10 @@ _Updated: 2026-01-04 10:49_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -102,6 +102,7 @@ _Updated: 2026-01-04 10:49_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -113,32 +114,31 @@ _Updated: 2026-01-04 10:49_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
 
 ## Jordbruk
 
