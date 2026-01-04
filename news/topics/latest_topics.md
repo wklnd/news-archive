@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 08:54_
+_Updated: 2026-01-04 09:42_
 
 ## Top Stories
 
 - Utspel om Grönland i Trumps krets: ”Snart” - SvD
-- Storbritannien: Genomfört attack mot IS - SVT Nyheter
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
+- Gul vädervarning: Kraftiga snöbyar över Gotland - Region Gotland
+- 03 januari 21.29, Mord/dråp, försök, Helsingborg - polisen.se
 - SJ om inställda tågen: ”Vi är på helspänn” - Aftonbladet
-- Glamorösa alppärlan blev plats för katastrof - SvD
-- SMHI: Mer snö än tidigare väntat i Stockholmsområdet - Dagens Nyheter
-- Halka på motorvägar i Skåne – flera olyckor och långa bilköer - Sydsvenskan
+- Trafikverket: Besvärligt väglag runtom i Sörmland - SVT Nyheter
 - 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
-- Kvinna hittad skadad i Helsingborg – förd till sjukhus - SVT Nyheter
+- 04 januari 08.04, Sammanfattning natt, Östergötlands län - polisen.se
+- 04 januari 07.47, Sammanfattning natt, Norrbottens län - polisen.se
 - 04 januari 07.20, Sammanfattning natt, Dalarnas län - polisen.se
 - Ingen ny valsedel i höst - Sydsvenskan
+- Isfacklor utpekas som brandorsak - SVT Nyheter
 - Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
 - Zelenskyj positiv inför veckans möte - GP
-- Nikkita misshandlades till döds – ”en demon” - Aftonbladet
+- Svårare för nyexaminerade programmerare att få jobb - Omni
 - Okända risken kan kosta dig 100 000-tals kronor - Aftonbladet
 - Funktionellt och retro – VW visar interiören hos ID. Polo - Elbilen
-- Summeringen: Bostadspriserna sjönk i december - Skillingaryd
-- Nya lagar och regler 2026 som påverkar socialförsäkringen - Örebronyheter
-- Årets första spelhelg är här – vad firar du den med? - FZ.se
-- TEST: 10 spårningsbrickor – så bra funkar de - Aftonbladet
+- Maxa plånboken 2026 – så mycket mer pengar får du nästa år - Filipstads Tidning
+- I dag drar Awesome Games Done Quick 2026 igång. En hel vecka med turbospelande. - feber.se
+- Multiplayer-läget i Metal Gear 3-rebooten har få till inga spelare - FZ.se
 
 ## World News
 
@@ -82,13 +82,13 @@ _Updated: 2026-01-04 08:54_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -153,12 +153,12 @@ _Updated: 2026-01-04 08:54_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
