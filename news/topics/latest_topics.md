@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 06:33_
+_Updated: 2026-01-04 07:03_
 
 ## Top Stories
 
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
 - Glamorösa alppärlan blev plats för katastrof - SvD
 - Polisen uppmanar fortsatt till att ta vädervarning på allvar - polisen.se
-- Maduro har landat i USA - Expressen
 - SJ om inställda tågen: ”Vi är på helspänn” - Aftonbladet
 - 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
-- Flera olyckor på E6 i Västsverige – väldigt halt väglag - SVT Nyheter
+- Varnar – inför hemvändartrafiken - Nerikes Allehanda
+- Kvinna skadad efter mordförsök - Aftonbladet
 - 03 januari 13.01, Trafikolycka, singel, Älvdalen - polisen.se
 - Brand i flerfamiljshus i Drängsered - SVT Nyheter
-- Kvinna hittad skadad i Helsingborg – förd till sjukhus - SVT Nyheter
+- Minst en vecka tills alla har strömmen åter – Falu kommun erbjuder ved och boende - SVT Nyheter
 - Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
+- Zelenskyj positiv inför veckans möte - GP
 - Spänt i Finska viken: Krock med färja mardrömmen - Aftonbladet
-- 02 januari 22.20, Mord/dråp, försök, Stockholm - polisen.se
-- Ukraina: Attackerar enbart militära mål - Västerbottens-Kuriren
+- Smittlarm i turistparadis – drastiska ökningen - Expressen
 - Maxa plånboken 2026 – så mycket mer pengar får du nästa år - Filipstads Tidning
 - Stockholm pekas ut som Europas nya huvudstad - SvD
-- Intellego: Utredare har avslöjat orderbluff - Aftonbladet
 - Massor av snö – men ingen slalom - UNT
+- Intellego: Utredare har avslöjat orderbluff - Aftonbladet
 - Här är de 10 spel vi ser mest fram emot 2026 - Cafe.se
 - Kunglig glamour på Amalienborg – se modevalen från danska nyårstaffeln - elle.se
 
@@ -102,6 +102,7 @@ _Updated: 2026-01-04 06:33_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -111,11 +112,10 @@ _Updated: 2026-01-04 06:33_
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
