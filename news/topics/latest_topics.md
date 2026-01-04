@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 09:42_
+_Updated: 2026-01-04 10:49_
 
 ## Top Stories
 
-- Utspel om Grönland i Trumps krets: ”Snart” - SvD
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Gul vädervarning: Kraftiga snöbyar över Gotland - Region Gotland
-- 03 januari 21.29, Mord/dråp, försök, Helsingborg - polisen.se
-- SJ om inställda tågen: ”Vi är på helspänn” - Aftonbladet
-- Trafikverket: Besvärligt väglag runtom i Sörmland - SVT Nyheter
-- 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
-- 04 januari 08.04, Sammanfattning natt, Östergötlands län - polisen.se
-- 04 januari 07.47, Sammanfattning natt, Norrbottens län - polisen.se
-- 04 januari 07.20, Sammanfattning natt, Dalarnas län - polisen.se
-- Ingen ny valsedel i höst - Sydsvenskan
-- Isfacklor utpekas som brandorsak - SVT Nyheter
+- Grönlands statsminister sågar USA: "Respektlöst" - Realtid
+- TV: Snön fortsätter – risk för halka - Nerikes Allehanda
+- 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
+- Gul vädervarning i Stockholm - Stockholms stad
+- Kvinna i 50-årsåldern misstänkt för mordförsök i Helsingborg - SVT Nyheter
+- Ingen ny valsedel hinns med – hundratals miljoner trycks - Omni
+- Lugnt trafikläge trots besvärligt väglag - Dagens Nyheter
+- Bötfälls för snö på taket - UNT
+- Kontroversiellt vaccin på väg – skyddar personer med beroende - Marcus Oscarsson
+- Storbritannien: Genomfört attack mot IS - Västerbottens-Kuriren
+- Turister och lokalbor först på plats att hjälpa offren - Dagens Nyheter
+- Björn Wiman: Vad blir Trumps nästa drag – krigsfartyg mot Köpenhamn? - Dagens Nyheter
 - Ayatollan: Upprorsmakare ska sättas på plats - Västerbottens-Kuriren
-- Zelenskyj positiv inför veckans möte - GP
 - Svårare för nyexaminerade programmerare att få jobb - Omni
 - Okända risken kan kosta dig 100 000-tals kronor - Aftonbladet
-- Funktionellt och retro – VW visar interiören hos ID. Polo - Elbilen
-- Maxa plånboken 2026 – så mycket mer pengar får du nästa år - Filipstads Tidning
+- Godsägare köpte bil för 2,7 miljoner – har inte kunnat användas - Skånska Dagbladet
+- Klassiska Volkswagen Polo blir eldriven - Teknikens Värld
 - I dag drar Awesome Games Done Quick 2026 igång. En hel vecka med turbospelande. - feber.se
 - Multiplayer-läget i Metal Gear 3-rebooten har få till inga spelare - FZ.se
 
@@ -30,23 +30,23 @@ _Updated: 2026-01-04 09:42_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Den interstellära kometen 3I/ATLAS avslöjar anomalier och kräver en ny global strategi - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Intervju | Anna Andrén öppnar dörren till - och från - världen - Finanswatch.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -85,10 +85,10 @@ _Updated: 2026-01-04 09:42_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -122,7 +122,7 @@ _Updated: 2026-01-04 09:42_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -130,15 +130,15 @@ _Updated: 2026-01-04 09:42_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2026-01-04 09:42_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
