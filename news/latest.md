@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-04 12:51_
+_Updated: 2026-01-04 13:48_
 
-- Trump says US to run Venezuela after raid captures Maduro - Reuters
 - Iran's leader says rioters 'must be put in their place' as protest death toll rises to at least 10 - PBS
 - Important Travel Update for San Juan Disembarkation. - Virgin Voyages
 - Executive Order 07 - NYC.gov
-- Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
 - China & Taiwan Update, January 2, 2026 - Institute for the Study of War
-- Live storm updates: North Bay freeway, businesses flooded following storm - ABC7 San Francisco
-- FBI says it thwarted potential New Year's terror attack 'directly inspired' by ISIS - ABC News
-- What to know about Trump administration freezing federal child care funds - Oregon Public Broadcasting - OPB
+- Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
+- Is Trump taking too much aspirin? Here's what experts say - NPR
+- Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
 - Who is María Corina Machado, Venezuela's Nobel Peace Prize winning opposition leader? - NPR
-- Swiss launch criminal investigation over deadly fire at ski resort bar - Al Jazeera
-- China’s Russian Town Has Log Cabins and Cyrillic Signs, but No Russians - The New York Times
+- Trump Administration’s Historic Rural Health Care Investments Hailed Nationwide - The White House (.gov)
+- Coast Guard Suspends Search for Survivors of Latest Boat Strikes - The New York Times
 - Donald Trump wants to run Venezuela, and dominate the western hemisphere - The Economist
-- North Korea launches ballistic missiles toward sea ahead of South Korean leader's visit to China - AP News
+- South Korea's Lee begins China state visit after North fires missiles - CNBC
+- More Saudi airstrikes hit separatist positions in Yemeni port city - ABC News
+- Syria: UK and France airstrikes hit underground IS arms bunker near Palmyra - BBC
 - Powerball winning numbers for Saturday, January 3, 2026 - USA Today
 - Finance Industry Eyes Investment Opportunities in Venezuela - The Wall Street Journal
-- Buffett leaves, and Berkshire investors waste no time reacting - thestreet.com
-- How Likely Is It That the Stock Market Crashes Under President Donald Trump in 2026? Here's What History Tells Us. - The Motley Fool
+- Offshore Wind Projects Challenge Trump Administration’s Order to Stop Work - The New York Times
+- MarketWatch’s 7-day money challenge: How to get rich(er) in 2026 - MarketWatch
+- Say Goodbye To Fossil Fuels With This Gas Alternative Without Petroleum - bgr.com
 - How to get stronger as you age - The Washington Post
-- Piplup’s the Charming Star of Pokémon GO’s January 2026 Community Day Classic - Pokemon.com
