@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-04 06:37_
+_Updated: 2026-01-04 07:05_
 
-- Pete Hegseth says U.S. intervention in Venezuela is "exact opposite" of Iraq - CBS News
-- Important Travel Update for San Juan Disembarkation. - Virgin Voyages
+- What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention - The New York Times
 - Iran's leader says rioters 'must be put in their place' as protest death toll rises to at least 10 - PBS
 - 'We just want to find him': Families of missing and injured describe agonising wait after Swiss bar fire - BBC
+- Important Travel Update for San Juan Disembarkation. - Virgin Voyages
 - Executive Order 07 - NYC.gov
 - Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
 - Appeals panel says California's ban on open carry in more populated counties is unconstitutional - ABC News
 - Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term - CNBC
-- What to know about Trump administration freezing federal child care funds - Oregon Public Broadcasting - OPB
 - Hannah Dugan, Wisconsin Judge Convicted of Obstructing Immigration Agents, Resigns - The New York Times
+- Who is Delcy Rodríguez, Venezuela’s leader after Maduro’s capture? - CNN
+- Donald Trump wants to run Venezuela, and dominate the western hemisphere - The Economist
 - Yemen's southern separatists welcome Saudi call for dialogue amid Saudi-UAE rift - Reuters
-- Pyongyang fires ballistic missiles as South Korean President Lee Jae Myung makes state visit to China - CNN
-- Removing Maduro Was ‘Donroe Doctrine’ in Action, Trump Says - The Wall Street Journal
+- North Korea launches ballistic missiles towards sea hours before South Korean leader’s visit to China - The Guardian
 - More Saudi airstrikes hit separatist positions in Yemeni port city - ABC News
 - How UK plush toy Jellycat conquered China - BBC
 - Greg Abel takes over as CEO of Berkshire Hathaway. What to know about Warren Buffett's successor. - CBS News
-- BYD officially crushes Tesla in all-electric sales for 2025, secures global BEV crown - Electrek
+- Tesla is no longer the world’s top EV seller - Morning Brew
 - Offshore Wind Projects Challenge Trump Administration’s Order to Stop Work - The New York Times
-- Say Goodbye To Fossil Fuels With This Gas Alternative Without Petroleum - bgr.com
 - Clicks is bringing its first smartphone and a new keyboard to CES 2026 - Engadget
+- How to get stronger as you age - The Washington Post
