@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 16:42_
+_Updated: 2026-01-04 17:41_
 
 ## Top Stories
 
-- Norske skådespelarikonen Sverre Anker Ousdal död - SVT Nyheter
-- Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Gul varning: Risk för kraftiga snöbyar över Gotland - Region Gotland
-- Schweiz: Fler brandoffer har identifierats - SVT Nyheter
-- Båda vill bilda regering – här är hindren på vägen - SvD
+- USA:s attacker mot Venezuela – detta har hänt - SVT Nyheter
+- SMHI varnar på nytt – kraftigt snöfall fortsätter - DI
+- Tiotusentals utan ström i Berlin - SVT Nyheter
 - 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
+- Flyg till och från Grekland stoppas - Expressen
+- Strandad i Åre efter tågstopp: ”Lite stressigt” - SvD
 - Stor polisinsats på hotell i Stockholm - Västerbottens-Kuriren
 - Halka på motorvägar i Skåne – flera olyckor och långa bilköer - Sydsvenskan
-- Bötfälls för snö på taket - UNT
-- Kvinna i 50-årsåldern misstänkt för mordförsök i Helsingborg - SVT Nyheter
+- Trafikverket: Besvärligt väglag runtom i Sörmland - SVT Nyheter
+- 03 januari 21.29, Mord/dråp, försök, Helsingborg - polisen.se
+- Göteborgs kommuntopp om Schweiz: ”Ett fruktansvärt eko från Backabranden” - GP
 - Utspel om Grönland i Trumps krets: ”Snart” - GP
-- Flyg till och från Grekland stoppas - Expressen
 - Zelenskyj positiv inför veckans möte - Västerbottens-Kuriren
-- Polisen: Gå inte fram till den ärrade mannen - Expressen
+- Han tror på förändring i Iran - Kvartal
 - Nu införs ny riktålder – då kan du gå i pension - SvD
-- Hyresgäster under press – krav på höjt bidrag - SvD
+- Intellego: Storordern bakom kursraset var förfalskad - EFN.se
 - Stockholm pekas ut som Europas nya huvudstad - SvD
-- Oljebjässar ökar inte produktionen - DI
-- Läroböckerna behöver kanske skrivas om: Två av planeterna i vårt solsystem kan vara helt annorlunda än vi har trott - Illustrerad Vetenskap
+- Hyresgäster under press – krav på höjt bidrag - SvD
 - Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
+- Så ska Microsoft hindra oss från att byta till Chat GPT Atlas - PC för Alla
 
 ## World News
 
@@ -39,9 +39,9 @@ _Updated: 2026-01-04 16:42_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Avlyssningsskandalen växer - Journalisten
@@ -51,25 +51,25 @@ _Updated: 2026-01-04 16:42_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- EY.ai | EY - Sverige - EY
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
-- Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Källor: Deepseek på väg med ny AI-modell - Omni
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Deepseek är det nya Linux - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- EU och USA skriver under juridiskt bindande AI-avtal - Computer Sweden
 
 ## Business
 
@@ -104,18 +104,18 @@ _Updated: 2026-01-04 16:42_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2026-01-04 16:42_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
