@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-04 22:44_
+_Updated: 2026-01-04 23:41_
 
 ## Top Stories
 
-- Kaos i snöstormen – tio bussar fast i backe - Expressen
-- Här tas stegen mot den yttersta makten - SvD
-- Mordutredaren ska hitta luckorna i polisens arbete: ”Min största skräck” - Sydsvenskan
+- Alla dödsoffer identifierade efter nyårsbranden - GP
+- Ännu en varning för snöfall - Expressen
 - Flera explosioner i Venezuelas huvudstad Caracas - GP
-- Mette Frederiksen svarar Trump om Grönland - SVT Nyheter
-- Första offren identifierade efter branden - Västerbottens-Kuriren
+- Tio bussar fast i snöovädret - Expressen
+- Mordutredaren ska hitta luckorna i polisens arbete: ”Min största skräck” - Sydsvenskan
+- Omfattande reparationsarbete i Gävleborg fortsätter – snömängder försvårar - www.ellevio.se
 - SMHI varnar på nytt – kraftigt snöfall fortsätter - GP
-- Ljusmanifestation för mördade kvinnor hålls på flera platser i landet - SVT Nyheter
-- Stor polisinsats på hotell kan vara falskt larm - Västerbottens-Kuriren
+- Tjejerna arrangerar tyst minut på torget – mot kvinnovåldet: ”Vi hoppas att många kommer” - NLT
+- 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
 - Man med järnrör på fyrhjuling i Tings Nöbbelöv – misshandlade flera personer - SVT Nyheter
-- DN Direkt – Svenske tränaren får sparken i Skottland - Dagens Nyheter
+- Utspel om Grönland i Trumps krets: ”Snart” - GP
 - Ankare släpades flera kilometer vid kabelbrott - Västerbottens-Kuriren
-- Ukraina-allierade möts i Kiev - SVT Nyheter
-- Polisen: Gå inte fram till den ärrade mannen - Expressen
+- Vänsterextrem grupp tar på sig elavbrott i Berlin - TV4 Nyheterna
+- Nationella säkerhetsrådgivare besökte Kiev den 3 januari - Regeringen.se
 - Intellego: Storordern bakom kursraset var förfalskad - EFN.se
-- DN Direkt – Andersson totalfyra i Tour de Ski - Dagens Nyheter
+- DN Direkt – Stor del av Maduros säkerhetsstyrka dödades av USA - Dagens Nyheter
+- Han gjorde som SJ skrev – nekas ändå ersättning - Expressen
 - Volkswagen visar ny interiör – nu med fysiska knappar igen - m3.se
-- Se upp för fällorna vid pensionsrådgivning - DI
+- Ett över 20 år gammalt ”Star Wars”-spel rusar i pris – av oväntad anledning - MovieZine.se
 - Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
-- Så ska Microsoft hindra oss från att byta till Chat GPT Atlas - PC för Alla
 
 ## World News
 
@@ -43,10 +43,10 @@ _Updated: 2026-01-04 22:44_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -80,8 +80,8 @@ _Updated: 2026-01-04 22:44_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -105,16 +105,16 @@ _Updated: 2026-01-04 22:44_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
@@ -136,29 +136,29 @@ _Updated: 2026-01-04 22:44_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-10-16 Seminarium: Vinst eller förlust? En ekonomisk analys av avreglering av nya genomiska tekniker i växtförädling - Mynewsdesk
