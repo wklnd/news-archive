@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-04 01:49_
+_Updated: 2026-01-04 04:59_
 
-- Trump says US will ‘run’ Venezuela after ousting Maduro in military attack - The Guardian
-- Important Travel Update for San Juan Disembarkation. - Virgin Voyages
-- Le Constellation, Swiss Bar Where Fire Hit, Was Popular With Young People - The New York Times
-- FBI Disrupts Alleged New Year’s Eve Attack, Man Charged with Attempting to Provide Material Support to ISIS - Department of Justice (.gov)
-- Mamdani brings the campaign mobilization to City Hall - City & State New York
+- Nicolás Maduro arrives in New York after removal as Venezuelan president - The Guardian
+- Delta cancels Caribbean flights; closely monitoring ongoing situation in region - Delta News Hub
+- 'We just want to find him': Families of missing and injured describe agonising wait after Swiss bar fire - BBC
+- Executive Order 07 - NYC.gov
 - Is Trump taking too much aspirin? Here's what experts say - NPR
-- What to know about Trump administration freezing federal child care funds - Oregon Public Broadcasting - OPB
-- A month before their 5-year anniversary, an Ohio couple was killed in the home where they exchanged vows. Here’s what we know - CNN
+- Rapid Reactions: Panthers fall to Bucs, division decided Sunday - Panthers.com
 - Trump intervention warning over Iran protests 'reckless' says foreign minister - BBC
-- Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
-- More Saudi airstrikes hit separatist positions in Yemeni port city - ABC News
+- DHS hypes worksite enforcement as fraud allegations rip through Minnesota - Axios
+- Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
+- A month before their 5-year anniversary, an Ohio couple was killed in the home where they exchanged vows. Here’s what we know - CNN
 - Removing Maduro Was ‘Donroe Doctrine’ in Action, Trump Says - The Wall Street Journal
-- Elon Musk's Grok AI floods X with sexualized photos of women and minors - Reuters
-- Trump signals more Latin American invasions could be next after capturing Maduro - Axios
-- Tesla sales hit lowest point since 2022 after Musk backlash and end of tax credit - Axios
-- Saks CEO steps down as luxury retailer struggles under heavy debt load - ABC News
-- Why Micron Stock Popped Today - The Motley Fool
+- More Saudi airstrikes hit separatist positions in Yemeni port city - ABC News
+- After Venezuela operation, Trump says the whole hemisphere is in play - Politico
+- Yemen's separatists announce a constitution for an independent south - NPR
+- Tesla is no longer the world’s top EV seller - Morning Brew
 - Greg Abel takes over as CEO of Berkshire Hathaway. What to know about Warren Buffett's successor. - CBS News
-- Instagram boss admits AI slop has won, but where does that leave creatives? - Creative Bloq
+- Offshore Wind Projects Challenge Trump Administration’s Order to Stop Work - The New York Times
+- Someone made $400K by predicting Maduro's capture. Here's what happened - Axios
+- Say Goodbye To Fossil Fuels With This Gas Alternative Without Petroleum - bgr.com
 - Microsoft CEO Satya Nadella calls for consensus about AI - theregister.com
