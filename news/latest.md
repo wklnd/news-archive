@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-05 23:50_
+_Updated: 2026-01-06 00:53_
 
-- Nicolas Maduro, wife plead not guilty to terrorism charges in court appearance - Fox News
-- Walz, Democrats' 2024 VP pick, drops bid for third term as Minnesota governor; Klobuchar considers - AP News
-- Secretary-General's remarks to the Security Council - on Venezuela - Welcome to the United Nations
-- Hegseth Starts Proceedings Against Sen. Mark Kelly Over His Remarks - The New York Times
-- Europe must unite or it’s ‘finished,’ Poland’s Tusk warns as Trump salivates over Greenland - politico.eu
-- Health officials slash the number of vaccines recommended for all kids - NPR
+- Maduro declares 'I am innocent' and 'still president' in Manhattan court appearance - ABC News
+- NATO is done if Trump invades Greenland, Danish PM warns - politico.eu
+- Which countries could be in Trump's sights next? - BBC
+- Pentagon to cut Sen. Mark Kelly's military retirement pay over 'seditious' video: Hegseth - CNBC
+- US allies and adversaries use UN meeting to blast Venezuela intervention as America defends action - AP News
+- Trump intervention warning over Iran protests 'reckless' says foreign minister - BBC
+- Trump said Venezuela stole America’s oil. Here’s what really happened - CNN
+- Minnesota governor Tim Walz drops re-election run after fraud allegations - Financial Times
+- JD Vance Asks Media to Refrain From Sharing Photos After Attempted Break-In at Ohio Home - TheWrap
 - Venezuela swears in interim leader, seeking to show it operates free from U.S. control - NPR
-- JD Vance’s windows smashed in ‘break-in’ attempt - The Telegraph
-- Trial begins for former Uvalde officer charged in Robb Elementary shooting response - ABC News
-- Iran protests enter ninth day as Trump renews intervention threat - BBC
 - All 116 injured in Swiss ski resort fire identified - BBC
+- Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights - The New York Times
 - Holocaust survivor Eva Schloss, stepsister of Anne Frank, dies at 96 - ABC News
-- Caribbean travel disruptions leave local families stranded after Venezuela operation - 6abc Philadelphia
-- South Korea's Lee Jae Myung meets China's Xi as he seeks a reset in ties - BBC
-- Stock Market Today: Dow Jumps After U.S. Captures Venezuela’s Maduro - The Wall Street Journal
+- Israel begins strikes of Hezbollah and Hamas 'targets' in Lebanon - Reuters
 - Lucrative online trades on Maduro ouster spur new bill to ban Polymarket insider trading - Axios
 - Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war - The Guardian
-- Dimon’s $770 Million Windfall Shows How Banking Is Great Again - The New York Times
-- Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES - TechCrunch
+- Michael Burry's big play off the U.S.-Venezuela situation, which the investor has held for years - CNBC
+- Massive bluefin tuna nets over $3 million at Tokyo auction - DW
 - Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new friend - The Verge
+- XGIMI, best known for projectors, launches its own smart glasses - Engadget
