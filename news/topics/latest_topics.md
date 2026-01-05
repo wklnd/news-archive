@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 17:48_
+_Updated: 2026-01-05 18:52_
 
 ## Top Stories
 
-- Analytiker: Attacken uppsida för ekonomin - SvD
+- Gripandet av Maduro – en del av Trumps större maktspel 5 januari 2026 - Dagens Eko - Sveriges Radio
 - Risk för nya kraftiga snöbyar i Nacka och Värmdö - Nacka Värmdö Posten
 - Danmark rasar efter Trumps upprepade Grönlandskrav – får europeiskt stöd - Europaportalen
-- Hund bet ihjäl kvinna – ägaren åtalas - SVT Nyheter
-- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
-- Besked: Tågen rullar igen - Västerbottens-Kuriren
+- Trumps hårda ord mot presidenten väcker debatt men ingen panik i Colombia - Yle
+- Man död på Kronobergshäktet – hittades på nyårsafton - SVT Nyheter
+- Hund bet ihjäl kvinna – ägaren åtalas - VLT
 - Mördade kvinnor hedrades med ljusmanifestationer - NWT
-- DN Direkt – En anhållen misstänkt för spioneri - Dagens Nyheter
+- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
+- Antalet strömlösa gävleborgare under 1000 för första gången sedan stormen Johannes slog till - www.ellevio.se
 - Adrian, 4, gick in i glasdörr i Thailand – fick sy 239 stygn - Aftonbladet
-- Boden ställer in sophämtning på grund av kyla - SVT Nyheter
-- Alla skadade identifierade efter branden i Schweiz - Västerbottens-Kuriren
 - Fönster krossade hos JD Vance – man gripen - Västerbottens-Kuriren
-- Man hittad död på Kronobergshäktet - SVT Nyheter
-- Tim Walz ställer inte upp för omval till guvernör - Omni
-- Köpte rekorddyr tonfisk – för 30 miljoner - SvD
+- Alla dödsoffer identifierade efter nyårsbranden - GP
+- Tio personer döms för nättrakasserier mot Brigitte Macron - SVT Nyheter
+- Tyska bankkuppen: Kan ha fått med sig över en miljard - DI
+- Tonfisk såld för 30 miljoner på auktion i Tokyo - Omni
+- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
 - Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
 - Snökaos i Europa – svenska resenärer strandade - Aftonbladet
-- Guldpriset stiger efter attack – nära rekord - Expressen
-- Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
+- Ja, Arc Raiders matchar dig baserat på hur vänlig eller aggressiv du är - TechRadar
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-01-05 17:48_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -63,12 +63,12 @@ _Updated: 2026-01-05 17:48_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Spår superintelligens om tio år – vill leda racet - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
@@ -100,22 +100,22 @@ _Updated: 2026-01-05 17:48_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,21 +123,21 @@ _Updated: 2026-01-05 17:48_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
@@ -148,17 +148,17 @@ _Updated: 2026-01-05 17:48_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Lediga jobb - Land Lantbruk
