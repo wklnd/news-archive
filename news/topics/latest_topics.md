@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 13:42_
+_Updated: 2026-01-05 15:22_
 
 ## Top Stories
 
-- Ny varning för kraftigt snöfall över Sörmland - SVT Nyheter
-- Guterres: USA:s agerande i Venezuela "utgör ett farligt prejudikat" - unric
+- Diktatorn föll, diktaturen består - tidningensyre.se
+- Snökanoner drar in över Uppland – SMHI varnar igen - UNT
 - Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
-- Ayatollans plan: Fly till Ryssland - SvD
-- Alla dödsoffer identifierade efter nyårsbranden - GP
-- Boden ställer in sophämtning på grund av kyla - SVT Nyheter
+- Hund bet ihjäl kvinna – ägaren åtalas - SVT Nyheter
+- Adrian, 4, gick in i glasdörr i Thailand – fick sy 239 stygn - Aftonbladet
+- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
 - Man hölls kvar i lägenhet – 30-åring misstänks för olovligt frihetsberövande - SVT Nyheter
 - Mördade kvinnor hedrades med ljusmanifestationer - NWT
-- Tågtrafik återupptagen till länet efter snöoväder - SVT Nyheter
-- Rättegången mot Joakim Medin riskerar att skjutas upp – igen - Dagens Nyheter
-- Protest mot regimen i Iran –manifestation i Malmö - Sydsvenskan
-- Polisinsats hemma hos JD Vance - Omni
-- Busskaos i Tullinge efter snösmockan - Mitt i
-- Trump: Kuba kommer falla av sig själv - DI
-- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
-- Guldpriset stiger – nära nytt rekord - DI
-- Samsung tänker dubbla antalet mobila AI-enheter under 2026 - Computer Sweden
-- SATS: Nyårslöftet som höll - Affärsvärlden
+- Boden ställer in sophämtning på grund av kyla - Västerbottens-Kuriren
+- Oklart skadeläge för misshandlade mannen – 16-åring fortsatt anhållen - NWT
+- Trump om militär insats i Colombia: ”Låter bra” - Sydsvenskan
+- Tio personer döms för nättrakasserier mot Brigitte Macron - SVT Nyheter
+- Fortsatta protester i Iran – Trump varnar regimen - Aftonbladet
+- Ayatollans plan: Fly till Ryssland - SVT Nyheter
+- Köpte rekorddyr tonfisk – för 30 miljoner - SvD
+- Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
+- Guldpriset stiger – nära nytt rekord - Aftonbladet
+- Dynamiska priser blir allt vanligare – kunden förlorar - Omni
+- Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
-- Nya läckor om Samsung Galaxy S26 Ultra avslöjar färger, kamera och S Pen-förändringar - TechRadar
 
 ## World News
 
+- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -101,21 +101,21 @@ _Updated: 2026-01-05 13:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
