@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 06:41_
+_Updated: 2026-01-05 07:56_
 
 ## Top Stories
 
+- Utspel om Grönland i Trumps krets: ”Snart” - GP
+- Det historiska verket blir levande - SvD
 - Trump hotar att ingripa i fler länder - SVT Nyheter
-- Grönlands statsminister: ”Respektlöst” - GP
-- Sverige klart för final i JVM efter enormt drama - Aftonbladet
 - Gul varning: Risk för kraftiga snöbyar över Gotland - Region Gotland
+- Alla dödsoffer identifierade efter nyårsbranden - GP
 - Kvinna förblödde efter hundattack – ägaren åtalas - Expressen
+- Mördade kvinnor hedrades med ljusmanifestationer - NWT
+- Höll man fången i lägenhet – misshandlade med tillhygge - Sydsvenskan
 - 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
-- Mördade kvinnor hedrades med ljusmanifestation - GP
 - Svåra vägförhållanden – snökaos hotar hemvändartrafiken: ”Säkerheten går alltid först” - NWT
-- 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
-- Omfattande reparationsarbete i Gävleborg fortsätter – snömängder försvårar - www.ellevio.se
 - Lågt oljepris kan sabba Trumps Venezuela-plan - Västerbottens-Kuriren
+- Trump: Kuba kommer falla av sig själv - DI
 - Nationella säkerhetsrådgivare besökte Kiev den 3 januari - Regeringen.se
 - Polisen: En i Fitburgs besättning begärs häktad - Yle
-- Lettlands premiärminister: Nya kabelskador i Östersjön - Hufvudstadsbladet
 - DN Direkt – Stor del av Maduros säkerhetsstyrkor dödades av USA - Dagens Nyheter
-- Volkswagen visar ny interiör – nu med fysiska knappar igen - m3.se
-- Okända risken kan kosta dig 100 000-tals kronor - Aftonbladet
-- Svårare för nyexaminerade programmerare att få jobb - Omni
+- Verksamhetschef Medicintekniska avdelningen - Region Kalmar Län
+- Intellego-order från Moveomed är återkallad - villkor var förfalskade - Börsvärlden
+- Nyheter i socialförsäkringen 2026 – här är listan - Skillingaryd
 - Inga fler nya mobiler från Asus - mobil.se
 - Påminnelse: Anthems servrar stängs ned den 12:e januari - FZ.se
 
@@ -73,33 +73,32 @@ _Updated: 2026-01-05 06:41_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
@@ -110,8 +109,9 @@ _Updated: 2026-01-05 06:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
