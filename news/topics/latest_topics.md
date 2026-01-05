@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 15:22_
+_Updated: 2026-01-05 15:56_
 
 ## Top Stories
 
-- Diktatorn föll, diktaturen består - tidningensyre.se
+- Europas svar verkade följa en mall - SvD
 - Snökanoner drar in över Uppland – SMHI varnar igen - UNT
 - Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
 - Hund bet ihjäl kvinna – ägaren åtalas - SVT Nyheter
 - Adrian, 4, gick in i glasdörr i Thailand – fick sy 239 stygn - Aftonbladet
-- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
-- Man hölls kvar i lägenhet – 30-åring misstänks för olovligt frihetsberövande - SVT Nyheter
+- Expert om nya hotet: ”Ta honom på orden” - SvD
 - Mördade kvinnor hedrades med ljusmanifestationer - NWT
-- Boden ställer in sophämtning på grund av kyla - Västerbottens-Kuriren
-- Oklart skadeläge för misshandlade mannen – 16-åring fortsatt anhållen - NWT
-- Trump om militär insats i Colombia: ”Låter bra” - Sydsvenskan
+- Misstänkt människorov – man anhållen - GP
+- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
+- Boden ställer in sophämtning på grund av kyla - SVT Nyheter
 - Tio personer döms för nättrakasserier mot Brigitte Macron - SVT Nyheter
-- Fortsatta protester i Iran – Trump varnar regimen - Aftonbladet
-- Ayatollans plan: Fly till Ryssland - SVT Nyheter
-- Köpte rekorddyr tonfisk – för 30 miljoner - SvD
+- Medier: Polisinsats vid JD Vances hem - Hufvudstadsbladet
+- Schweiz fryser Maduros tillgångar - DI
+- Källor: Liga kan ha kommit över en dryg miljard - Sydsvenskan
+- Tonfisk såld för 30 miljoner på auktion i Tokyo - Omni
 - Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
-- Guldpriset stiger – nära nytt rekord - Aftonbladet
-- Dynamiska priser blir allt vanligare – kunden förlorar - Omni
+- Dyrare för konsumenten när prislappar försvinner - SvD
+- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
 - Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
 
@@ -122,23 +122,23 @@ _Updated: 2026-01-05 15:22_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
