@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-05 08:00_
+_Updated: 2026-01-05 09:05_
 
-- Celebrations, protests across Houston after U.S. operation in Venezuela - Houston Public Media
-- Rubio Stresses U.S. Plan to Coerce Venezuela Rather Than Govern It - The New York Times
+- Delcy Rodríguez becomes Venezuela’s interim president after Maduro’s ouster - AP News
+- Oil prices swing after U.S. captures Venezuela's Maduro - NBC News
 - US legal case against Maduro to test limits of presidential power - Financial Times
+- U.S. plan to ‘run’ Venezuela clouded in confusion and uncertainty - The Washington Post
 - American tourists stranded across the Caribbean after airspace closed for Maduro capture - ABC News
-- Crude prices edge lower as Maduro overthrow casts uncertainty over oil-rich Venezuela - CNBC
-- Danish PM tells Trump to stop 'threats' against Greenland - BBC
-- Cuba says 32 Cuban officers were killed in US action in Venezuela - AP News
-- Trump says U.S. "in charge" of Venezuela as interim leader vows cooperation - Axios
-- What to know about the protests now shaking Iran as tensions remain high over its nuclear program - ABC News
-- Charlotte Niddam: Teen girl educated in UK died in Swiss bar fire - BBC
+- Denmark's PM urges Trump to 'stop the threats' of annexing Greenland - ABC News
+- Trump warns new Venezuelan leader as Maduro set to appear in court - BBC
+- Cuba says 32 Cuban officers were killed in US operation in Venezuela that captured Nicolás Maduro - ABC7 Los Angeles
+- Trump says U.S. is "in charge" of Venezuela, Maduro expected in court Monday - CBS News
+- Sporadic protests in Tehran as riots reported in Iran’s west - Al Jazeera
+- Israeli teen Charlotte Niddam confirmed dead in New Year’s fire at Swiss ski resort - The Times of Israel
 - Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers - The New York Times
-- Israel Flexes New Diplomatic Muscle in Recognition of Somaliland - The Wall Street Journal
 - N Korea’s Kim oversees hypersonic missile tests, cites geopolitical crisis - Al Jazeera
-- Asian markets rise, defense stocks lead after after U.S. captures Venezuela’s Maduro - CNBC
+- South Korea's Lee Jae Myung to meet China's Xi - BBC
+- CES 2026 Live: Tech's Big Event Kicks Off From Las Vegas - CNET
 - China's services growth hits 6-month low in December, shows private PMI - Reuters
-- How Boston Dynamics upgraded the Atlas robot — and what's next - CBS News
-- It now costs $3 to ride the subway and some New Yorkers are already angry - Gothamist
+- Boston Dynamics is training an AI-powered humanoid robot to do factory work - CBS News
+- 3 Artificial Intelligence Stocks to Buy in 2026 That Could Be Better Picks Than Palantir - The Motley Fool
 - LG TVs at CES 2026: A stunning Wallpaper set, glorious Micro RGB colors and a better Gallery TV - Engadget
-- Lockin’s New Smart Locks Never Need Recharging Thanks to Infrared Light - Gizmodo
-- Plaud launches a new AI pin and a desktop meeting notetaker - TechCrunch
+- Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech
