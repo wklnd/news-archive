@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 15:56_
+_Updated: 2026-01-05 16:51_
 
 ## Top Stories
 
-- Europas svar verkade följa en mall - SvD
 - Snökanoner drar in över Uppland – SMHI varnar igen - UNT
 - Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
 - Hund bet ihjäl kvinna – ägaren åtalas - SVT Nyheter
-- Adrian, 4, gick in i glasdörr i Thailand – fick sy 239 stygn - Aftonbladet
-- Expert om nya hotet: ”Ta honom på orden” - SvD
+- Trump hotar gå in i ännu ett land - Expressen
+- Polisinsats hemma hos vicepresident JD Vance - Yle
+- Författaren Eva Schloss är död - Aftonbladet
 - Mördade kvinnor hedrades med ljusmanifestationer - NWT
+- DN Direkt – En anhållen misstänkt för spioneri - Dagens Nyheter
 - Misstänkt människorov – man anhållen - GP
-- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
 - Boden ställer in sophämtning på grund av kyla - SVT Nyheter
+- Maduro förd till domstol i New York - Västerbottens-Kuriren
+- Alla dödsoffren i schweiziska branden identifierade – 20 var minderåriga - Yle
 - Tio personer döms för nättrakasserier mot Brigitte Macron - SVT Nyheter
-- Medier: Polisinsats vid JD Vances hem - Hufvudstadsbladet
-- Schweiz fryser Maduros tillgångar - DI
-- Källor: Liga kan ha kommit över en dryg miljard - Sydsvenskan
-- Tonfisk såld för 30 miljoner på auktion i Tokyo - Omni
-- Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
+- Tim Walz ställer inte upp för omval till guvernör - Omni
+- DN Direkt – Tonfisken gick på auktion – för nära 29 miljoner kronor - Dagens Nyheter
+- Guldpriset stiger – nära nytt rekord - DI
+- Börsfest för försvarsaktier efter anfallet i Venezuela - Omni
 - Dyrare för konsumenten när prislappar försvinner - SvD
-- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
 - Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
 
@@ -51,21 +51,21 @@ _Updated: 2026-01-05 15:56_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
+- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
@@ -122,23 +122,23 @@ _Updated: 2026-01-05 15:56_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
