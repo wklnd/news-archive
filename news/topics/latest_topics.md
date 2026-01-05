@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 22:47_
+_Updated: 2026-01-05 23:43_
 
 ## Top Stories
 
-- Maduro i domstolen: ”Inte skyldig” - DI
-- Snökanoner drar in över Uppland – SMHI varnar igen - UNT
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Gripandet av Maduro – en del av Trumps större maktspel 5 januari 2026 - Dagens Eko - Sveriges Radio
 - Säkerhetsfel granskas i jakten på brandorsaken - SvD
+- JUST NU: Man har fått kemikalier över sig – förd till sjukhus - NWT
+- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Borrade sig in i valv – rånartrend i Tyskland - SvD
+- Snökanoner drar in över Uppland – SMHI varnar igen - UNT
 - Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
-- Snöröjning och prioriteringar efter snöstormen Anna - Söderhamns kommun
-- Tågtrafiken rullar igen efter olycka i Surahammar - SVT Nyheter
 - Döms för våldtäkt på kollega på äldreboende - SVT Nyheter
-- Efter SVT:s avslöjande om fusk – nu stoppas Quality care från att driva HVB-hem - SVT Nyheter
-- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
+- Tågtrafiken rullar igen efter olycka i Surahammar - SVT Nyheter
+- Här skapas de nya barnfängelserna - SvD
 - Fönster krossade hos JD Vance – man gripen - Västerbottens-Kuriren
-- Fortsatta protester i Iran – Trump varnar regimen - Aftonbladet
+- 05 januari 17.51, Bedrägeri, Täby - Polisen.se
 - Trumps hårda ord mot presidenten väcker debatt men ingen panik i Colombia - Yle
 - Guvernör i Minnesota ställer inte upp för omval - GP
 - Köpte rekorddyr tonfisk – för 30 miljoner - SvD
-- Ilija Batljans manöver sågas: ”Skenaffär” - DI
+- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
 - Guldpriset stiger – nära nytt rekord - Västerbottens-Kuriren
-- Börsfest för försvarsaktier efter anfallet i Venezuela - Omni
-- Bowser säger hejdå och tackar för sin tid på Nintendo - FZ.se
-- Ja, Arc Raiders matchar dig baserat på hur vänlig eller aggressiv du är - TechRadar
+- Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
+- Maktskifte på Nintendo of America - Teknikveckan
+- CES 2026: Xreal 1S slipar på detaljerna och sänker priset - Teknikveckan
 
 ## World News
 
@@ -34,8 +34,8 @@ _Updated: 2026-01-05 22:47_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
@@ -63,12 +63,12 @@ _Updated: 2026-01-05 22:47_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
@@ -101,21 +101,21 @@ _Updated: 2026-01-05 22:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
