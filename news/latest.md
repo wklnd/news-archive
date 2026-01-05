@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-05 11:57_
+_Updated: 2026-01-05 12:56_
 
-- Russian politicians say Trump strike on Venezuela unlawful, destabilising - Reuters
+- US capture of Maduro tests limits of China's diplomatic push - Reuters
 - Who controls Venezuela's oil now? What Maduro's arrest means for energy markets - CNBC
-- Trump Suggests U.S. Could Take Action Against More Countries - The New York Times
-- Trump warns new Venezuelan leader as Maduro set to appear in court - BBC
-- Important Travel Update for San Juan Disembarkation. - Virgin Voyages
+- Trump threatens Colombia’s Petro, says Cuba looks ‘ready to fall’ - Al Jazeera
 - U.S. plan to ‘run’ Venezuela clouded in confusion and uncertainty - The Washington Post
+- Important Travel Update for San Juan Disembarkation. - Virgin Voyages
+- Venezuela's Maduro to appear in US court, Trump says further strikes possible - Reuters
 - Trump on return trip to Washington predicts demise of Cuba, warns Colombia, threatens Greenland - Politico
-- Denmark's PM urges Trump to 'stop the threats' of annexing Greenland - ABC News
-- Sporadic protests in Tehran as riots reported in Iran’s west - Al Jazeera
-- Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
-- Switzerland: All victims of bar fire disaster identified - DW
-- At least 30 killed after gunmen raid village in northern Nigeria - CBS News
-- Israel Flexes New Diplomatic Muscle in Recognition of Somaliland - The Wall Street Journal
+- 'We need Greenland': Trump repeats threat to annex Danish territory - BBC
+- Islamic Republic in ‘survival mode’ amid protests, Iranian officials said to believe - The Times of Israel
+- Minnesota investigators say child care centers accused of fraud in viral video are operating normally. Here’s what comes next - CNN
+- Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers - The New York Times
+- Israeli teen Charlotte Niddam confirmed dead in New Year’s fire at Swiss ski resort - The Times of Israel
 - South Korea's Lee Jae Myung meets China's Xi as he seeks a reset in ties - BBC
+- N Korea’s Kim oversees hypersonic missile tests, cites geopolitical crisis - Al Jazeera
 - CES 2026 Live: Tech's Big Event Kicks Off From Las Vegas - CNET
-- CNBC Daily Open: Investors had much to cheer in 2025 — but 2026's starting out rocky - CNBC
-- China's services growth hits 6-month low in December, shows private PMI - Reuters
-- ‘Position Yourself for 2026,’ Says Top Investor About Palantir Stock - TipRanks
+- Gold surges as US capture of Venezuela president spurs safe-haven demand - Reuters
+- European stocks open higher as traders track Venezuela developments - CNBC
+- Retirement 2026 by the Numbers - The New York Times
+- LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin - The Verge
 - Samsung brought an absolute beast of a 130-inch Micro RGB TV to CES 2026 - Engadget
-- LG brought back the Wallpaper TV for CES and ditched the companion sound bar - Engadget
