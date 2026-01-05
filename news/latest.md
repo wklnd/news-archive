@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-05 21:48_
+_Updated: 2026-01-05 22:54_
 
-- Ousted Venezuelan President Maduro arraigned in U.S. court today; Trump threatens other nations - CBS News
-- Minnesota Gov. Tim Walz says he is dropping re-election bid - NBC News
-- Pentagon to cut Sen. Mark Kelly's military retirement pay over 'seditious' video: Hegseth - CNBC
-- Denmark Tells Trump to ‘Stop the Threats’ About Greenland - The New York Times
-- Secretary-General's remarks to the Security Council - on Venezuela - Welcome to the United Nations
 - Committee Releases Conferenced CJS, E&W, and Interior Bills - House Committee on Appropriations (.gov)
-- JD Vance’s home ‘broken into by hammer-wielding intruder’ - The Telegraph
+- Trump intervention warning over Iran protests 'reckless' says foreign minister - BBC
+- Trump said Venezuela stole America’s oil. Here’s what really happened - CNN
+- Demonstration Alert: Protests and Vandalism Outside the U.S. Embassy, Mexico City - U.S. Embassy & Consulates in Mexico (.gov)
+- Secretary of War's 'Arsenal of Freedom' Tour to Rally Nation - U.S. Department of War (.gov)
+- Browns relieve Kevin Stefanski of duties as head coach - Cleveland Browns
+- Maduro enters not guilty plea in New York City court: Live updates - CNN
 - Trial begins for former Uvalde officer charged in Robb Elementary shooting response - ABC News
-- Trump says U.S. is "in charge" of Venezuela, Maduro jailed in New York after U.S. military operation - CBS News
-- Iran protests enter ninth day as Trump renews intervention threat - BBC
-- Eva Schloss, Holocaust survivor and Anne Frank's stepsister, dies at 96 - CBS News
-- All 116 injured in Swiss ski resort fire identified - BBC
-- Caribbean travel disruptions leave local families stranded after Venezuela operation - 6abc Philadelphia
-- Protest over AI, climate crisis leaves tens of thousands without power in Berlin - CNBC
-- Wall St rallies amid energy surge after Venezuela strike; Dow hits record - Reuters
-- Wegovy obesity pill now available at pharmacies : Shots - Health News - NPR
-- GM posts 5.5% U.S. sales gain in 2025, Stellantis' Jeep marks first increase in seven years - CNBC
-- US traders make big profits betting on Maduro’s capture in January - The Guardian
-- Lego announces Smart Brick, the ‘most significant evolution’ in 50 years - The Verge
+- Winter Storms Ease Drought in California, for Now - The New York Times
+- Amid Tina Peters fight, Trump is withholding funding from parts of Colorado that overwhelmingly voted for him - Colorado Public Radio
+- Eva Schloss, Anne Frank’s Stepsister and Auschwitz Survivor, Dies at 96 - The New York Times
+- European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers - Reuters
+- Zelenskyy forces out Ukrainian spy chief who led daring raids against Russia - The Guardian
+- ‘Grab what you can:’ The global rush for second passports - CNN
+- Dimon’s $770 Million Windfall Shows How Banking Is Great Again - The New York Times
+- Michael Burry's big play off the U.S.-Venezuela situation, which the investor has held for years - CNBC
+- Total Eclipsed of the Sun - Magic: The Gathering
+- Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t - The Wall Street Journal
 - Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES - TechCrunch
+- Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new friend - The Verge
