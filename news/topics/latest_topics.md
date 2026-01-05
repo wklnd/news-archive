@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 00:46_
+_Updated: 2026-01-06 01:42_
 
 ## Top Stories
 
-- Person död – påkörd av tåg i Västmanland - Expressen
-- Gul vädervarning 6-7 januari - Söderhamns kommun
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Maduro i domstolen: ”Jag är inte skyldig” - Sydsvenskan
 - Säkerhetsfel granskas i jakten på brandorsaken - SvD
+- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Gul vädervarning 6-7 januari - Söderhamns kommun
+- Tysk trend – serie av spektakulära bankrån - SvD
 - Hund bet ihjäl kvinna – flickvän åtalas för grovt vållande till annans död - Dagens Nyheter
-- Ansträngt läge för snöröjningen i Huddinge - Mitt i
 - Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
 - Döms för våldtäkt på kollega på äldreboende - SVT Nyheter
 - Här skapas de nya barnfängelserna - SvD
 - Efter SVT:s avslöjande om fusk – nu stoppas Quality care från att driva HVB-hem - SVT Nyheter
 - 05 januari 17.51, Bedrägeri, Täby - Polisen.se
 - Trumps hårda ord mot presidenten väcker debatt men ingen panik i Colombia - Yle
-- Gjorde abort hemma – riskerar nu dödstraff - Expressen
-- Melonis strama finanspolitik överraskar - DI
-- Börsfest för försvarsaktier efter anfallet i Venezuela - Omni
-- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
-- Piteåvännerna Frida och Malin fast i kaoset i Amsterdam - Piteå-tidningen
-- SJ pudlar – Isak får tillbaka pengar: ”Blev inte bra” - Expressen
+- Man fick kemikalier över sig i arbetsplatsolycka – fördes till sjukhus - NWT
+- Fönster krossade hos JD Vance – man gripen - Västerbottens-Kuriren
+- DN Direkt – Tonfisken gick på auktion – för nära 29 miljoner kronor - Dagens Nyheter
+- Guld och silver stiger efter Venezuela-räd - Affärsvärlden
+- Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
+- Biltema nobbade fackets förslag – alla anställda tvingas sluta - Arbetet
 - Vatten läckte in genom taket på en restaurang - Västerbottens-Kuriren
-- CES 2026: Xreal 1S slipar på detaljerna och sänker priset - Teknikveckan
+- Maktskifte på Nintendo of America - Teknikveckan
 
 ## World News
 
@@ -53,23 +53,23 @@ _Updated: 2026-01-06 00:46_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
-- Deepseek är det nya Linux - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
+- Cathie Wood on the first year of The Ark and Avanza Partnership - Avanzabloggen
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Deepseek är det nya Linux - Computer Sweden
+- From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
 
 ## Business
 
@@ -86,13 +86,13 @@ _Updated: 2026-01-06 00:46_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -100,28 +100,29 @@ _Updated: 2026-01-06 00:46_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
@@ -136,7 +137,6 @@ _Updated: 2026-01-06 00:46_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 
