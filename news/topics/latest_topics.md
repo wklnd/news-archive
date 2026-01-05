@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 16:51_
+_Updated: 2026-01-05 17:48_
 
 ## Top Stories
 
-- Snökanoner drar in över Uppland – SMHI varnar igen - UNT
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Analytiker: Attacken uppsida för ekonomin - SvD
+- Risk för nya kraftiga snöbyar i Nacka och Värmdö - Nacka Värmdö Posten
+- Danmark rasar efter Trumps upprepade Grönlandskrav – får europeiskt stöd - Europaportalen
 - Hund bet ihjäl kvinna – ägaren åtalas - SVT Nyheter
-- Trump hotar gå in i ännu ett land - Expressen
-- Polisinsats hemma hos vicepresident JD Vance - Yle
-- Författaren Eva Schloss är död - Aftonbladet
+- Priset för fast bredband ökar – historiska sänkningar för mobilt - Dagens Nyheter
+- Besked: Tågen rullar igen - Västerbottens-Kuriren
 - Mördade kvinnor hedrades med ljusmanifestationer - NWT
 - DN Direkt – En anhållen misstänkt för spioneri - Dagens Nyheter
-- Misstänkt människorov – man anhållen - GP
+- Adrian, 4, gick in i glasdörr i Thailand – fick sy 239 stygn - Aftonbladet
 - Boden ställer in sophämtning på grund av kyla - SVT Nyheter
-- Maduro förd till domstol i New York - Västerbottens-Kuriren
-- Alla dödsoffren i schweiziska branden identifierade – 20 var minderåriga - Yle
-- Tio personer döms för nättrakasserier mot Brigitte Macron - SVT Nyheter
+- Alla skadade identifierade efter branden i Schweiz - Västerbottens-Kuriren
+- Fönster krossade hos JD Vance – man gripen - Västerbottens-Kuriren
+- Man hittad död på Kronobergshäktet - SVT Nyheter
 - Tim Walz ställer inte upp för omval till guvernör - Omni
-- DN Direkt – Tonfisken gick på auktion – för nära 29 miljoner kronor - Dagens Nyheter
-- Guldpriset stiger – nära nytt rekord - DI
-- Börsfest för försvarsaktier efter anfallet i Venezuela - Omni
-- Dyrare för konsumenten när prislappar försvinner - SvD
+- Köpte rekorddyr tonfisk – för 30 miljoner - SvD
+- Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
+- Snökaos i Europa – svenska resenärer strandade - Aftonbladet
+- Guldpriset stiger efter attack – nära rekord - Expressen
 - Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Arbeten i Lillängshamnen - Hammarö kommun
 
@@ -34,25 +34,26 @@ _Updated: 2026-01-05 16:51_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Avlyssningsskandalen växer - Journalisten
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
@@ -62,13 +63,12 @@ _Updated: 2026-01-05 16:51_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
@@ -86,13 +86,13 @@ _Updated: 2026-01-05 16:51_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 
 ## Health
 
@@ -100,14 +100,14 @@ _Updated: 2026-01-05 16:51_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -122,23 +122,23 @@ _Updated: 2026-01-05 16:51_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
