@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-05 01:42_
+_Updated: 2026-01-05 04:58_
 
 ## Top Stories
 
-- Första marknadsreaktionerna: Börsen upp – oljan faller - EFN.se
+- Ännu en varning för snöfall - Expressen
+- Mördade kvinnor hedrades med ljusmanifestationer - Aftonbladet
 - Alla dödsoffer identifierade efter nyårsbranden - GP
-- Kaos i snöstormen – tio bussar fast i backe - Expressen
-- Trafikverkets säkerhetstips inför hemvändartrafiken - Norran
-- Omfattande reparationsarbete i Gävleborg fortsätter – snömängder försvårar - www.ellevio.se
+- Utspel om Grönland i Trumps krets: ”Snart” - GP
 - Gul varning: Risk för kraftiga snöbyar över Gotland - Region Gotland
-- Mördade kvinnor hedrades med ljusmanifestation - GP
+- Ishockey: Sverige klart för JVM-final – vann galen straffrysare mot Finland - SVT Nyheter
 - 04 januari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
 - Man med järnrör på fyrhjuling i Tings Nöbbelöv – misshandlade flera personer - SVT Nyheter
-- Rån på Ica Supermarket i Löddeköpinge – polis jagar två yngre män - SVT Nyheter
-- Utspel om Grönland i Trumps krets: ”Snart” - GP
+- 03 januari 15.52, Trafikolycka, Markaryd - polisen.se
+- Stormen Johannes kan sätta punkt för höga virkespriser - EFN.se
+- Lågt oljepris kan sabba Trumps Venezuela-plan - Västerbottens-Kuriren
 - Ankare släpades flera kilometer vid kabelbrott - Västerbottens-Kuriren
-- Alla i familjen dog timmar före bröllop - Expressen
-- Vänsterextrem grupp tar på sig elavbrott i Berlin - TV4 Nyheterna
+- Nationella säkerhetsrådgivare besökte Kiev den 3 januari - Regeringen.se
+- Nästan 600 gripna under en veckas protester i Iran - Omni
 - DN Direkt – Stor del av Maduros säkerhetsstyrkor dödades av USA - Dagens Nyheter
 - Volkswagen visar ny interiör – nu med fysiska knappar igen - m3.se
 - Anett, 45, fast i Marocko: ”Aldrig mer Norweigan” - Expressen
-- Lunchrestaurang i Östersund ute till försäljning - Östersunds-Posten
+- Se upp för fällorna vid pensionsrådgivning - DI
+- Inga fler nya mobiler från Asus - mobil.se
 - Ett över 20 år gammalt ”Star Wars”-spel rusar i pris – av oväntad anledning - MovieZine.se
-- Så här fungerar integritetsdisplayen i Galaxy S26 Ultra - Swedroid
 
 ## World News
 
@@ -38,38 +38,38 @@ _Updated: 2026-01-05 01:42_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
-- EY.ai | EY - Sverige - EY
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
-- Källor: Deepseek på väg med ny AI-modell - Omni
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-05 01:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ledarskap i sjukvård och akademi – Mia von Knorrings grupp - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -129,12 +129,12 @@ _Updated: 2026-01-05 01:42_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -154,11 +154,11 @@ _Updated: 2026-01-05 01:42_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
