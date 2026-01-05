@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-05 05:00_
+_Updated: 2026-01-05 06:44_
 
-- Legality of US capture of Venezuela's Maduro in focus at United Nations - Reuters
-- Rubio Stresses U.S. Plan to Coerce Venezuela Rather Than Govern It - The New York Times
+- Venezuela’s Rodriguez Asks US for Cooperation After Maduro Raid - Bloomberg.com
+- US legal case against Maduro to test limits of presidential power - Financial Times
 - American tourists stranded across the Caribbean after airspace closed for Maduro capture - ABC News
-- Denmark tells Trump to stop threatening to seize Greenland - CNBC
 - Crude prices edge lower as Maduro overthrow casts uncertainty over oil-rich Venezuela - CNBC
-- Trump intervention warning over Iran protests 'reckless' says foreign minister - BBC
-- Nicolás Maduro will appear in U.S. federal court on Monday - NPR
-- Executive Order 07 - NYC.gov
-- I wrote a book on the politics of war powers, and Trump’s attack on Venezuela reflects Congress surrendering its decision-making powers - The Conversation
-- Cuba says 32 Cuban fighters killed in US raids on Venezuela - Al Jazeera
-- Crans-Montana: Mourners gather at mass for Swiss bar fire victims - BBC
+- Danish PM tells Trump to stop 'threats' against Greenland - BBC
+- Rubio Stresses U.S. Plan to Coerce Venezuela Rather Than Govern It - The New York Times
+- What to know about the protests now shaking Iran as tensions remain high over its nuclear program - ABC News
+- Venezuelans under TPS can apply for refugee status, Kristi Noem says - The Guardian
+- Charlotte Niddam: Teen girl educated in UK died in Swiss bar fire - BBC
 - Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers - The New York Times
-- N Korea’s Kim oversees hypersonic missile tests, cites geopolitical crisis - Al Jazeera
-- Saudi-backed forces regain control of Yemen’s Hadramout after days of airstrikes - AP News
-- Palantir: The Market Is Finally Blinking, And It Could Get Worse (NASDAQ:PLTR) - Seeking Alpha
+- Israel Flexes New Diplomatic Muscle in Recognition of Somaliland - The Wall Street Journal
+- North Korea's Kim oversaw hypersonic missile test, KCNA says - Reuters
+- Asian markets rise, defense stocks lead after after U.S. captures Venezuela’s Maduro - CNBC
+- China's services growth hits 6-month low in December, shows private PMI - Reuters
 - How Boston Dynamics upgraded the Atlas robot — and what's next - CBS News
-- Subway and Bus Fare Rises to $3 in New York City on Sunday - The New York Times
-- Bosses are fighting a new battle in the RTO wars: It's not about where you work, but when you work - Fortune
+- It now costs $3 to ride the subway and some New Yorkers are already angry - Gothamist
+- Lockin’s New Smart Locks Never Need Recharging Thanks to Infrared Light - Gizmodo
+- At CES, Belkin launches a new charging case for the Switch 2 with a screen for checking battery life - Engadget
 - Plaud launches a new AI pin and a desktop meeting notetaker - TechCrunch
-- You Can Switch HDMI Inputs Using Your Apple TV Remote - Here's How - bgr.com
+- Subtle releases ear buds with its noise cancelation models - TechCrunch
