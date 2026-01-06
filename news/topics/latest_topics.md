@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 23:43_
+_Updated: 2026-01-07 00:47_
 
 ## Top Stories
 
 - Danmark och Grönland begär krismöte med USA – Trump utesluter inte militär insats - SVT Nyheter
-- Buss körde in i ortodox demonstration – en död - aftonbladet.se
 - 40 procent av flygen ställs in i Paris - Expressen
-- 06 januari 10.00, Misshandel, Örebro - Polisen.se
-- Person till sjukhus efter olycka på E4 i Markaryd - SVT Nyheter
-- 06 januari 21.38, Försvunnen person, Karlstad - Polisen.se
-- Kristersson efter toppmötet: ”Ett klart steg framåt” - aftonbladet.se
-- Trafikolycka på E16 i Borlänge - SVT Nyheter
+- Buss körde in i ortodox demonstration – en död - aftonbladet.se
+- FN:s människorättschef Volker Türk: Mänskliga rättigheter ingen förevändning för intervention i Venezuela - Unric
+- Enighet om starka säkerhetsgarantier för Ukraina - SvD
+- 06 januari 12.43, Trafikolycka, Borlänge - Polisen.se
 - Behovsstyrt öppethållande av trygghetspunkterna i Bergvik och Holmsveden från och med tisdag 6 januari - Söderhamns kommun
+- SL: ”Var ute i god tid i kollektivtrafiken idag” - SVT Nyheter
 - Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
-- Lina Lund: Därför tiger Bryssel om Trumps våldsäventyr - Dagens Nyheter
+- 06 januari 10.00, Misshandel, Örebro - Polisen.se
 - Det hindrar Trump från att föra bort Kim Jong-Un - Dagens Nyheter
 - De väldigt arga brevens tid är förbi - SvD
-- Terrormisstankar efter tyskt strömavbrott - DI
-- Nvidia-chefen orsakar kylfrossa på börsen - DI
+- DN Direkt – EU öppnar plånboken för att få igenom handelsavtal - Dagens Nyheter
+- Terrormisstankar efter strömavbrottet i Berlin - Folkbladet
 - Vardags-AI gör intåg när teknikjättar visar upp sig - DI
-- EU utreder Musks chatbot efter lättklädda bilder - Expressen
 - William, 22, sa upp sig – drar in en miljon i månaden - UNT
+- AI Know: AI i reklam – är det en bra idé? - Business Region Göteborg
 - Solpaneler i odlingar även bra för lantarbetare - Natursidan
 - Panther Lake här – spelprestanda i klass med RTX 4050 - SweClockers
+- Nya Copilot Plus-datorerna släpps i april - PC för Alla
 
 ## World News
 
@@ -38,14 +38,14 @@ _Updated: 2026-01-06 23:43_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -54,6 +54,7 @@ _Updated: 2026-01-06 23:43_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
@@ -63,7 +64,6 @@ _Updated: 2026-01-06 23:43_
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
-- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
 - Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
@@ -121,24 +121,24 @@ _Updated: 2026-01-06 23:43_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Kurs: Open Science in the Swedish Context 2026 - snd.se
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- SND at Almedalsveckan 2024 - snd.se
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
