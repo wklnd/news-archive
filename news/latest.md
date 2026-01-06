@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-06 23:51_
+_Updated: 2026-01-07 00:53_
 
+- Republican Rep. LaMalfa dies, further narrowing GOP’s House majority - The Washington Post
 - Trump administration halting $10 billion in social service funding to 5 Democratic states - CBS News
 - Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine - consilium.europa.eu
-- Venezuela latest updates: Trump says U.S. is not at war after Maduro pleads not guilty in U.S. federal court - Yahoo
-- Inside Tim Walz's dramatic political fall - Axios
-- Swiss Bar Hit by Deadly Fire Was Not Inspected for Six Years, Authorities Say - The New York Times
-- How the ‘Donroe Doctrine’ Reinforces Xi’s Vision of Power in Asia - The New York Times
-- Rep. Doug LaMalfa of California dies, reducing GOP's narrow control of the House to 218-213 - AP News
+- American Federation of Teachers Sues Texas Over Educators’ Comments on Charlie Kirk - The New York Times
+- Trump wants Venezuela's oil. Will his plan work? - BBC
+- Joint Statement on the Trilateral Meeting Between the Governments of the United States of America, the State of Israel, and the Syrian Arab Republic - U.S. Department of State (.gov)
+- New video released of person of interest in mysterious murders of Ohio dentist, wife - ABC News
+- Uvalde officer was told location of gunman but he failed to act, prosecutors say - ABC News
+- Ray Jayawardhana Appointed Caltech's Tenth President - Caltech
 - ‘Mexico should indeed be concerned’: Trump’s threats rattle Mexican officials, businesses - Politico
-- Abortion stays legal in Wyoming after state's top court strikes down bans - BBC
-- Milwaukee judge convicted of obstructing federal immigration agents resigns - ABC News
-- Trump weighs using U.S. military to acquire Greenland: White House - CNBC
+- 6.2 magnitude earthquake detected in Japan, no tsunami warning issued - ABC News
 - Target 'divisive' Reform in 2026, Keir Starmer tells ministers - BBC
-- Map: 5.7-Magnitude Earthquake Shakes Japan - The New York Times
 - Can China and South Korea reset complex ties after Xi-Lee summit? - Al Jazeera
-- Why Elon Musk And Tesla Aren't 'Losing Sleep' Over Nvidia's Self-Driving Announcement - Investor's Business Daily
-- Alaska Airlines pilot who safely landed plane after panel blew out says Boeing unfairly blamed him - ABC News
+- Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia - NBC News
 - Ford reports best annual U.S. vehicle sales since 2019 - CNBC
-- CES 2026: Live updates on Lego, Samsung, NVIDIA, Dell and more - Engadget
+- Attempting to predict the economy in 2026 : Planet Money - NPR
+- US car market shows signs of fatigue as costs weigh on buyers - Financial Times
+- Alaska Airlines pilot who safely landed plane after panel blew out says Boeing unfairly blamed him - ABC News
 - Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica
-- Klipsch’s feature-packed range of powered speakers boasts precision engineering from Onkyo - What Hi-Fi?
+- Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks - theregister.com
