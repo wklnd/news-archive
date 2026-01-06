@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 21:40_
+_Updated: 2026-01-06 22:46_
 
 ## Top Stories
 
-- Enighet om säkerhetsgarantier för Ukraina - SvD
-- Efter krismötet i Danmark – länderna kräver möte med USA - SVT Nyheter
-- SMHI varnar för kraftigt snöfall i Skaraborg – kan bli uppemot 25 centimeter - NLT
-- Michael Winiarski: Ingår Venezuela i en hemlig ”deal” mellan Trump och Putin? - Dagens Nyheter
-- Ovanligt ljusfenomen i skyn - Expressen
-- Behovsstyrt öppethållande av trygghetspunkterna i Ljusne och Stråtjära från och med onsdag 7 januari - Söderhamns kommun
-- Snökaos orsakar problem för flygtrafiken i Europa - Yle
-- 06 januari 12.43, Trafikolycka, Borlänge - Polisen.se
-- Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
+- ”USA går som en ångvält – Kina vill ha win-win” - SvD
+- 40 procent av flygen ställs in i Paris - Expressen
+- Utkast: USA ska övervaka vapenvila i Ukraina - aftonbladet.se
 - 06 januari 10.00, Misshandel, Örebro - Polisen.se
-- Det hindrar Trump från att föra bort Kim Jong-Un - Dagens Nyheter
-- Israelisk minister i Somaliland – vill ha ambassad - Västerbottens-Kuriren
-- Terrormisstankar efter strömavbrottet i Berlin - Folkbladet
+- Person till sjukhus efter olycka på E4 i Markaryd - SVT Nyheter
 - Borgmästaren i Crans-Montana: Har förbjudit alla isfacklor inomhus - SVT Nyheter
-- Kronan gör svensken till kung på utlandsresan - SvD
-- AI-jätten visar upp nya storsatsning Vera Rubin - Expressen
+- Behovsstyrt öppethållande av trygghetspunkterna i Bergvik och Holmsveden från och med tisdag 6 januari - Söderhamns kommun
+- Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
+- 06 januari 11.05, Trafikkontroll, Västernorrlands län - Polisen.se
+- 06 januari 07.00, Sammanfattning natt, Örebro län - Polisen.se
+- Terrormisstankar efter tyskt strömavbrott - DI
+- Nathan Shachar: Irans regim måste snart välja: folkets behov – eller de privilegierades förmåner - Dagens Nyheter
+- Trump: Utan mellanårsvinst ställs jag inför riksrätt - Omni
+- Efter Maduro – Medvedev vill kidnappa Merz - Omni
 - Vardags-AI gör intåg när teknikjättar visar upp sig - DI
-- EU öppnar plånboken för att få igenom Mercosur - aftonbladet.se
+- Uppåt på Stockholmsbörsen – Saab rusar - GP
+- EU utreder Musks chatbot efter lättklädda bilder - Expressen
+- William, 22, sa upp sig – drar in en miljon i månaden - UNT
 - Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Solpaneler i odlingar även bra för lantarbetare - Natursidan
 
 ## World News
 
 - Amerikanska bolag slipper global minimiskatt - SvD
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -54,7 +54,6 @@ _Updated: 2026-01-06 21:40_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
@@ -65,6 +64,7 @@ _Updated: 2026-01-06 21:40_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
@@ -102,43 +102,43 @@ _Updated: 2026-01-06 21:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Engineering Health 2024 - Chalmers
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - snd.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- SND at Almedalsveckan 2024 - snd.se
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-01-06 21:40_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -159,6 +159,6 @@ _Updated: 2026-01-06 21:40_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
