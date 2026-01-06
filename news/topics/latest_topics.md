@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 07:48_
+_Updated: 2026-01-06 08:58_
 
 ## Top Stories
 
-- Ett styrkebesked för svenska modellen - SvD
-- "Påstår sig vara världens åklagare" - Expressen
-- Gul vädervarning 6-7 januari - Söderhamns kommun
-- 05 januari 17.51, Bedrägeri, Täby - polisen.se
+- Alva, 13, är mobbad sedan lågstadiet: ”Flera personer i gäng skrattar och viskar” - Sydsvenskan
+- Snökanoner drar in – SMHI varnar igen - UNT
 - Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- 06 januari 07.28, Sammanfattning natt, Västerbottens län - Polisen.se
+- Ett styrkebesked för svenska modellen - SvD
 - Säkerhetsfel granskas i jakten på brandorsaken - SvD
-- Åtta dagar utan ström: ”Hade inte gått utan hjälp” - Hudiksvalls Tidning
-- Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
-- 04 januari 07.46, Sammanfattning natt, Västerbottens län - polisen.se
+- Lägesbilden just nu – så många är fortsatt strömlösa - Falu-Kuriren
+- Norrkommuner kräver flyttbidrag: ”Fler jobb än människor” - Dagens Nyheter
+- Flera nya fetmaläkemedel på väg – här är de viktigaste att hålla koll på - Dagens Nyheter
 - Fortsatt strul i tågtrafiken – inställda avgångar - UNT
 - DN Direkt – Trump: Inget nyval i Venezuela närmsta 30 dagarna - Dagens Nyheter
 - Tiotusentals utan ström i Berlin – vänsterextrem grupp tar på sig ansvaret - SVT Nyheter
+- Skottlossning vid presidentpalatset i Caracas - Västerbottens-Kuriren
 - Thailand: Kambodja har beskjutit gränsområde - Västerbottens-Kuriren
-- Machado: Kommer hem så snart som möjligt - GP
+- EU utreder Musks chatbot - TV4 Nyheterna
+- Avanza kastar ut Tin Fonder: ”Inte presterat” - SvD
 - Experternas spaning: Så går börsen 2026 - Expressen
 - FACKET: Biltema nobbade att flytta personal till Säffle - Säffle-Tidningen
-- Oljebolag och banker lyfte på börsen i USA - Västerbottens-Kuriren
-- Hundratals flyg i Europa inställda efter snöoväder - GP
 - Målet: En miljon kvantbitar per chip med oprövade tekniken - NyTeknik
 - AMD:s hårdvarunyheter från CES 2026 - SweClockers
 
@@ -51,23 +51,23 @@ _Updated: 2026-01-06 07:48_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Deepseek är det nya Linux - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
@@ -119,23 +119,23 @@ _Updated: 2026-01-06 07:48_
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
