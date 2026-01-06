@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 10:54_
+_Updated: 2026-01-06 11:48_
 
 ## Top Stories
 
-- Säkerhetsfel granskas i jakten på brandorsaken - SvD
-- Gul vädervarning 6-7 januari - Söderhamns kommun
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
-- Person till sjukhus efter olycka på E4 i Markaryd - SVT Nyheter
-- Gultorkan är över – Sverige JVM-mästare: ”Skrivit historia” - NHL.com
+- Trump: Kan bygga upp oljeindustrin på 18 månader - SvD
+- SMHI tidigarelägger snövarning – gäller från tisdag förmiddag - SVT Nyheter
 - Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
+- Kontroller brast innan branden i Schweiz - Aftonbladet
+- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Thailand: Kambodja har beskjutit gränsområde - SvD
 - Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
-- Flera nya fetmaläkemedel på väg – här är de viktigaste att hålla koll på - Dagens Nyheter
-- 06 januari 07.00, Sammanfattning natt, Västernorrlands län - polisen.se
 - Tågtrafiken rullar igen efter olycka i Surahammar - SVT Nyheter
-- DN Direkt – Trump: Inget nyval i Venezuela närmsta 30 dagarna - Dagens Nyheter
+- 06 januari 07.00, Sammanfattning natt, Västernorrlands län - polisen.se
+- 06 januari 10.00, Misshandel, Örebro - polisen.se
 - Nobelpristagaren: Jag vill dela priset med Trump - Omni
-- Guvernör i Minnesota ställer inte upp för omval - GP
-- Skottlossning vid presidentpalatset i Caracas - Västerbottens-Kuriren
-- Banken: Stigande temperatur på bomarknaden - DI
+- Toppmöte i Paris kan avgöra garantier för Ukraina - GP
+- USA kapar vaccinrekommendation för barn - Västerbottens-Kuriren
+- Tiotusentals utan ström i Berlin – vänsterextrem grupp tar på sig ansvaret - SVT Nyheter
+- Med nuvarande takt blir temperaturen på bostads-marknaden normal först mot slutet av 2026 - sbab.se
 - Hyllade fondförvaltaren: ”Klart vi inte är nöjda” - SvD
-- EU utreder Musks chatbot - TV4 Nyheterna
+- Musks chatbot i nytt blåsväder – EU utreder - DI
 - Experternas spaning: Så går börsen 2026 - Expressen
-- Målet: En miljon kvantbitar per chip med oprövade tekniken - NyTeknik
 - AMD:s hårdvarunyheter från CES 2026 - SweClockers
+- Lista: Årets dyraste hus i Bjurholm - Västerbottningen
 
 ## World News
 
@@ -60,39 +60,39 @@ _Updated: 2026-01-06 10:54_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Meet the Team – Fredrik - Uber
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
