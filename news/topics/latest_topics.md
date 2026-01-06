@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 16:50_
+_Updated: 2026-01-06 17:46_
 
 ## Top Stories
 
-- Nytt snöoväder drar in: ”Det kommer mer” - Dagens Nyheter
-- Här är länderna Trump hotat efter Venezuela - SvD
-- 06 januari 11.16, Trafikolycka, Gävleborgs län - polisen.se
+- Attacken som skakar världen - Utrikespolitiska institutet
 - Krismöte i Danmark efter USA:s Grönlandshot - SVT Nyheter
-- Ilska i Berlin – efter flera pinsamma incidenter - SvD
+- 06 januari 11.16, Trafikolycka, Gävleborgs län - polisen.se
+- Ovanligt ljusfenomen i skyn - Expressen
 - Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
-- Man död på häktet i Göteborg - GP
+- Person död i häktet i Göteborg - SVT Nyheter
+- Dubbelt så många barn under 15 ställs inför rätta - Dagens Nyheter
 - 06 januari 10.00, Misshandel, Örebro - polisen.se
-- 06 januari 11.05, Trafikkontroll, Västernorrlands län - polisen.se
 - Bråk under parmiddag – misstänkt grov misshandel - Aftonbladet
+- Trafikolycka på E16 i Borlänge - SVT Nyheter
 - Utkast: USA ska övervaka vapenvila i Ukraina - SVT Nyheter
-- Baren i Schweiz inte inspekterad på fem år - GP
-- Larm om explosion i centrala Stockholm - Omni
 - Efter Maduro – Medvedev vill kidnappa Merz - Omni
-- AI-jätte visar upp nästa plattform - SvD
-- Avanza avslutar samarbetet med Tin Fonder: ”Inte nöjda” - Omni
-- SBAB: Med nuvarande takt blir temperaturen på bostadsmarknaden normal först mot slutet av 2026 - svenskbyggtidning -
-- Snöoväder i Europa – dödsolyckor och flygkaos - DI
+- Fortsatta protester i Iran – Trump varnar regimen - SVT Nyheter
+- Machado: Vill dela Nobelpriset med Trump - GP
+- AI-jätten visar upp nästa plattform - DI
+- Ny legobit visas upp – så funkar den - Expressen
+- AI Know: AI i reklam – är det en bra idé? - Business Region Göteborg
+- UNICEF: Sexuellt våld mot barn ökar kraftigt i DR Kongo - Unric
 - Solpaneler i odlingar även bra för lantarbetare - Natursidan
 - Anker Innovations visar framtidens teknik för laddning, smarta hem och underhållning under CES 2026 - Via TT
 
@@ -29,24 +29,24 @@ _Updated: 2026-01-06 16:50_
 
 - Amerikanska bolag slipper global minimiskatt - SvD
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-06 16:50_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -145,7 +145,6 @@ _Updated: 2026-01-06 16:50_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -156,9 +155,10 @@ _Updated: 2026-01-06 16:50_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
