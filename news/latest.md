@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-06 11:00_
+_Updated: 2026-01-06 11:54_
 
-- Trump’s Foray Into Venezuela Could Embolden Russia’s and China’s Own Aggression - The New York Times
-- A $400,000 profit on Maduro's capture raises insider trading questions on Polymarket - NPR
-- For Many Jan. 6 Rioters, a Pardon From Trump Wasn’t Enough - The New York Times
-- 92-year-old judge handling Maduro case ‘doesn’t give a s--t what anyone thinks about him’ - Politico
-- Danish prime minister says a US takeover of Greenland would mark the end of NATO - AP News
+- ‘It ought to provide a deterrent’: what US action in Venezuela means for Taiwan - The Guardian
+- Stephen Miller Asserts U.S. Has Right to Take Greenland - The New York Times
+- The NYC jail holding Maduro has a history of big names and dangerous conditions - NPR
 - Trump’s Post About Slain Minnesota Lawmaker Dismays Her Children - The New York Times
+- Why Trump Refused to Back Venezuela’s Machado: Fears of Chaos, and Fraying Ties - The New York Times
+- Iran protests enter ninth day as Trump renews intervention threat - BBC
 - Ohio police release video of person of interest in killing of dentist and his wife - CBS News
-- Protests shake Iran at its weakest point in years - BBC
-- Trump suggests extended U.S. stay in Venezuela for oil operations - Axios
+- Ahead of 5-year anniversary of Jan. 6, report examines aftermath following Trump's return to office - ABC News
 - Trump admin freezes child care funds for Colorado and four other states - Axios
+- Minnesota governor drops reelection campaign amid controversy over child care centers accused of fraud viral video - CNN
 - 6.2 magnitude earthquake detected in Japan, no tsunami warning issued - ABC News
-- How Trump’s Big Moment Left Him Truly Exposed: Political Guru David Rothkopf - The Daily Beast
-- Swiss police identify all 116 people injured in deadly New Year’s bar fire - AP News
-- Why China Stopped Publicly Urging for North Korean Denuclearization - The Wall Street Journal
-- Maduro’s Ouster Doesn’t Change Morningstar’s Oil Price Forecasts - The Wall Street Journal
-- Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’ - WIRED
-- Hyundai plans 30,000 humanoid robots a year for factories by 2028 - Axios
+- Trump administration's capture of Maduro raises unease about the international legal framework - AP News
+- All 116 people injured in Swiss resort fire identified, say police - The Guardian
+- Israel strikes multiple sites in Lebanon ahead of a key disarmament meeting - Politico
+- Trump’s strike on Venezuela gives the U.S. 30% of the world’s oil reserves on paper and a $100 billion rebuilding job in reality - Fortune
+- Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes - The New York Times
+- Hyundai Unveils New Humanoid Robot for Work in Car Factories - Bloomberg.com
 - Asian defense stocks extend rally as Venezuela tensions linger, markets mixed - CNBC
 - Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica
 - Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves - The Verge
