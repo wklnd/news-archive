@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 05:50_
+_Updated: 2026-01-06 06:57_
 
 ## Top Stories
 
-- Snökanoner drar in – SMHI varnar igen - UNT
-- Hund bet ihjäl kvinna – ägaren åtalas - SVT Nyheter
-- Svenske stjärnan går kamp mot klockan - Expressen
-- Snöröjning och prioriteringar efter snöstormen Anna - Söderhamns kommun
-- Säkerhetsfel granskas i jakten på brandorsaken - SvD
-- 05 januari 17.51, Bedrägeri, Täby - polisen.se
+- Sverige tar JVM-guld - SvD
+- "Städare" stal guld från kvinna - Expressen
+- Gul vädervarning 6-7 januari - Söderhamns kommun
+- Bruno Mars klar med nytt album - SVT Nyheter
+- Putins general är fast – efter Trumps attack - Expressen
+- Hund bet ihjäl kvinna – flickvän åtalas för grovt vållande till annans död - Dagens Nyheter
+- Lägesbilden just nu – så många är fortsatt strömlösa - Falu-Kuriren
 - Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
-- Antalet strömlösa gävleborgare under 1000 för första gången sedan stormen Johannes slog till - www.ellevio.se
-- 04 januari 07.46, Sammanfattning natt, Västerbottens län - polisen.se
-- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
+- Nästan hälften har samma besvär – ”Många skäms” - Marcus Oscarsson
+- 04 januari 07.46, Sammanfattning natt, Västerbottens län - Polisen.se
 - Nicolás Maduro i rätten: ”Jag är kidnappad och oskyldig” - Dagens Nyheter
-- Skottlossning vid presidentpalatset i Caracas - Västerbottens-Kuriren
 - Mette Frederiksen svarar Trump om Grönland – stödet från Kristersson - SVT Nyheter
+- Alla dödsoffer identifierade efter nyårsbranden - GP
 - Guvernör i Minnesota ställer inte upp för omval - GP
-- Köpte tonfisk för 30 miljoner: ”Kan inte motstå” - Aftonbladet
+- Experternas spaning: Så går börsen 2026 - Expressen
 - FACKET: Biltema nobbade att flytta personal till Säffle - Säffle-Tidningen
-- Sätter in helikoptrar – efter stormen: "Skapat stor oreda" - UNT
-- Snösmocka i Europa – hundratals inställda flyg - Dagens Nyheter
-- Vatten läckte in genom taket på en restaurang - Västerbottens-Kuriren
+- Oljebolag och banker lyfte på börsen i USA - Västerbottens-Kuriren
+- Köpte tonfisk för 30 miljoner: ”Kan inte motstå” - Aftonbladet
 - AMD:s hårdvarunyheter från CES 2026 - SweClockers
+- Vatten läckte in genom taket på en restaurang - Västerbottens-Kuriren
 
 ## World News
 
@@ -33,6 +33,7 @@ _Updated: 2026-01-06 05:50_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -41,12 +42,11 @@ _Updated: 2026-01-06 05:50_
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -119,19 +119,18 @@ _Updated: 2026-01-06 05:50_
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -139,6 +138,7 @@ _Updated: 2026-01-06 05:50_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
