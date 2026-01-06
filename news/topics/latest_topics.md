@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 15:54_
+_Updated: 2026-01-06 16:50_
 
 ## Top Stories
 
-- SMHI tidigarelade snövarning i södra Norrland - SVT Nyheter
-- Attacken som skakar världen - Utrikespolitiska institutet
-- Mitt i Grönlands-krisen: Ulf Kristersson beredd att ge bort ditt ansikte till Donald Trump - Arbetet
+- Nytt snöoväder drar in: ”Det kommer mer” - Dagens Nyheter
+- Här är länderna Trump hotat efter Venezuela - SvD
+- 06 januari 11.16, Trafikolycka, Gävleborgs län - polisen.se
+- Krismöte i Danmark efter USA:s Grönlandshot - SVT Nyheter
 - Ilska i Berlin – efter flera pinsamma incidenter - SvD
-- 06 januari 12.43, Trafikolycka, Borlänge - polisen.se
-- Borgmästaren i Crans-Montana: Har förbjudit alla isfacklor inomhus - SVT Nyheter
-- Person död i häktet i Göteborg - SVT Nyheter
-- Norrkommuner kräver flyttbidrag: ”Fler jobb än människor” - Dagens Nyheter
-- Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
-- Parmiddag spårade ur - Expressen
-- Toppmöte i Paris kan avgöra garantier för Ukraina - GP
+- Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
+- Man död på häktet i Göteborg - GP
+- 06 januari 10.00, Misshandel, Örebro - polisen.se
+- 06 januari 11.05, Trafikkontroll, Västernorrlands län - polisen.se
+- Bråk under parmiddag – misstänkt grov misshandel - Aftonbladet
+- Utkast: USA ska övervaka vapenvila i Ukraina - SVT Nyheter
+- Baren i Schweiz inte inspekterad på fem år - GP
 - Larm om explosion i centrala Stockholm - Omni
-- Fortsatta protester i Iran – Trump varnar regimen - SVT Nyheter
-- USA kapar vaccinrekommendation för barn - Västerbottens-Kuriren
-- AI-jätten visar upp nästa plattform - DI
+- Efter Maduro – Medvedev vill kidnappa Merz - Omni
+- AI-jätte visar upp nästa plattform - SvD
 - Avanza avslutar samarbetet med Tin Fonder: ”Inte nöjda” - Omni
-- Med nuvarande takt blir temperaturen på bostadsmarknaden normal först mot slutet av 2026 - Via TT
-- Oväder i Europa – dödsolyckor och flygkaos - Aftonbladet
+- SBAB: Med nuvarande takt blir temperaturen på bostadsmarknaden normal först mot slutet av 2026 - svenskbyggtidning -
+- Snöoväder i Europa – dödsolyckor och flygkaos - DI
+- Solpaneler i odlingar även bra för lantarbetare - Natursidan
 - Anker Innovations visar framtidens teknik för laddning, smarta hem och underhållning under CES 2026 - Via TT
-- AMD:s hårdvarunyheter från CES 2026 - SweClockers
 
 ## World News
 
@@ -60,11 +60,11 @@ _Updated: 2026-01-06 15:54_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
@@ -121,12 +121,14 @@ _Updated: 2026-01-06 15:54_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -135,10 +137,8 @@ _Updated: 2026-01-06 15:54_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
