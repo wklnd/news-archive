@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 09:46_
+_Updated: 2026-01-06 10:54_
 
 ## Top Stories
 
-- Hennes son sköts ihjäl: ”Ett svek av samhället” - SvD
-- Snökanoner drar in – SMHI varnar igen - UNT
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
-- Tio personer döms för nättrakasserier mot Brigitte Macron - SVT Nyheter
-- Gultorkan är över – Sverige JVM-mästare: ”Skrivit historia” - NHL.com
 - Säkerhetsfel granskas i jakten på brandorsaken - SvD
-- Lägesbilden just nu – så många är fortsatt strömlösa - Falu-Kuriren
-- Flera nya fetmaläkemedel på väg – här är de viktigaste att hålla koll på - Dagens Nyheter
+- Gul vädervarning 6-7 januari - Söderhamns kommun
+- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
+- Person till sjukhus efter olycka på E4 i Markaryd - SVT Nyheter
+- Gultorkan är över – Sverige JVM-mästare: ”Skrivit historia” - NHL.com
+- Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
 - Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
-- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
+- Flera nya fetmaläkemedel på väg – här är de viktigaste att hålla koll på - Dagens Nyheter
+- 06 januari 07.00, Sammanfattning natt, Västernorrlands län - polisen.se
+- Tågtrafiken rullar igen efter olycka i Surahammar - SVT Nyheter
 - DN Direkt – Trump: Inget nyval i Venezuela närmsta 30 dagarna - Dagens Nyheter
-- Tiotusentals utan ström i Berlin – vänsterextrem grupp tar på sig ansvaret - SVT Nyheter
+- Nobelpristagaren: Jag vill dela priset med Trump - Omni
+- Guvernör i Minnesota ställer inte upp för omval - GP
 - Skottlossning vid presidentpalatset i Caracas - Västerbottens-Kuriren
-- Machado: Kommer hem så snart som möjligt - GP
-- Med nuvarande takt blir temperaturen på bostadsmarknaden normal först mot slutet av 2026 - Via TT
+- Banken: Stigande temperatur på bomarknaden - DI
 - Hyllade fondförvaltaren: ”Klart vi inte är nöjda” - SvD
-- Experternas spaning: Så går börsen 2026 - Expressen
 - EU utreder Musks chatbot - TV4 Nyheterna
+- Experternas spaning: Så går börsen 2026 - Expressen
 - Målet: En miljon kvantbitar per chip med oprövade tekniken - NyTeknik
 - AMD:s hårdvarunyheter från CES 2026 - SweClockers
 
@@ -60,16 +60,16 @@ _Updated: 2026-01-06 09:46_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2026-01-06 09:46_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2026-01-06 09:46_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
