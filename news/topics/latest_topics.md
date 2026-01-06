@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 12:50_
+_Updated: 2026-01-06 13:41_
 
 ## Top Stories
 
+- SMHI tidigarelägger snövarning i södra Norrland - SVT Nyheter
 - (+) Så reagerar kyrkor på USA:s insats i Venezuela - Kyrkans Tidning
+- Krismöte i Danmark efter USA:s Grönlandshot - SVT Nyheter
 - Borgmästaren i Crans-Montana: Har förbjudit alla isfacklor inomhus - SVT Nyheter
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
-- Gul vädervarning 6-7 januari - Söderhamns kommun
 - Tiotusentals utan ström i Berlin – vänsterextrem grupp tar på sig ansvaret - SVT Nyheter
 - Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
-- Norrkommuner kräver flyttbidrag: ”Fler jobb än människor” - Dagens Nyheter
+- Norrbotten saknar arbetskraft – vill se flyttbidrag - Omni
 - 06 januari 11.05, Trafikkontroll, Västernorrlands län - Polisen.se
 - 06 januari 10.00, Misshandel, Örebro - Polisen.se
-- Tågtrafiken rullar igen efter olycka i Surahammar - SVT Nyheter
-- Nobelpristagaren: Jag vill dela priset med Trump - Omni
-- USA kapar vaccinrekommendation för barn - Barometern-OT
+- 06 januari 07.34, Sammanfattning natt, Östergötlands län - Polisen.se
+- Machado: Vill dela Nobelpriset med Trump - GP
+- ”Stå upp för det iranska folket – alternativet finns” - Västerbottens-Kuriren
 - Snö i Paris – då intar skidåkare Montmartre - Västerbottens-Kuriren
-- Hopp om nedräkning för Irans skägg - Fokus - Sveriges nyhetsmagasin
-- Banken: Stigande temperatur på bomarknaden - DI
-- Avanza avslutar samarbetet med Tin Fonder: ”Inte nöjda” - Omni
-- EU utreder Musks chatbot efter lättklädda bilder - Expressen
-- Inställda flyg i Amsterdam och Paris efter snöovädret - TV4 Nyheterna
+- Toppmöte i Paris kan avgöra garantier för Ukraina - GP
+- AI-jätte visar upp nästa plattform - SvD
+- Uselt år för Tin – överges av Avanza - DI
+- Med nuvarande takt blir temperaturen på bostadsmarknaden normal först mot slutet av 2026 - Via TT
+- Elon Musks AI-robot skapar bilder på avklädda barn – skarp kritik från experter - GP
 - Anker Innovations visar framtidens teknik för laddning, smarta hem och underhållning under CES 2026 - Via TT
 - AMD:s hårdvarunyheter från CES 2026 - SweClockers
 
 ## World News
 
 - Amerikanska bolag slipper global minimiskatt - SvD
-- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -60,16 +60,16 @@ _Updated: 2026-01-06 12:50_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- EY.ai | EY - Sverige - EY
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -121,23 +121,23 @@ _Updated: 2026-01-06 12:50_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -146,14 +146,14 @@ _Updated: 2026-01-06 12:50_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
