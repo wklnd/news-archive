@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-06 04:34_
+_Updated: 2026-01-06 05:52_
 
 - Ousted Venezuelan President Maduro arraigned in U.S. court today; Trump threatens other nations - CBS News
+- A third of Americans support US strike on Venezuela, Reuters/Ipsos poll finds - Reuters
+- Iran protests enter ninth day as Trump renews intervention threat - BBC
 - Remarks at a UN Security Council Briefing on Venezuela - United States Mission to the United Nations (.gov)
 - Trump’s Venezuela attack deepens Europe’s Greenland dilemma - politico.eu
-- Health officials slash the number of vaccines recommended for all kids - NPR
-- A third of Americans support US strike on Venezuela, Reuters/Ipsos poll finds - Reuters
-- Committee Releases Conferenced CJS, E&W, and Interior Bills - House Committee on Appropriations (.gov)
-- Minnesota Gov. Tim Walz ends reelection bid amid child-care fraud scandal - ABC News
-- Venezuela Fuels Broad Sector Rally But These Oil And Gas Plays Slide - Investor's Business Daily
+- US cuts the number of vaccines recommended for every child, a move slammed by physicians - AP News
+- Jury seated in trial for ex-officer accused in police response to Uvalde school shooting - NBC News
+- Minnesota governor drops reelection campaign amid controversy over child care centers accused of fraud viral video - CNN
 - 'Everything I knew burned down around me': A journalist looks back on LA's fires - NPR
-- Trial begins for former Uvalde officer charged in Robb Elementary shooting response - ABC News
+- "Come get me": Colombian president's war of words with Trump escalates - Axios
+- Magnitude 6.2 quake hits Shimane Prefecture - The Japan Times
 - Eva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96 - The New York Times
+- South Korea's Lee Jae Myung seeks 'new phase' in ties with China at Xi Jinping meeting - BBC
 - Swiss police identify all 116 people injured in deadly New Year’s bar fire - AP News
-- Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers - Business Insider
-- Mother of one of Elon Musk’s sons ‘horrified’ at use of Grok to create fake sexualised images of her - The Guardian
-- Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes - The New York Times
-- Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028 - The Verge
-- Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war - The Guardian
-- There's Compelling Evidence That Someone Connected to the Trump Administration Profited Off the Invasion of Venezuela by Placing Large Bets on Polymarket - Futurism
-- Samsung unveiled AI-powered products at CES 2026: Everything announced from the year's first press conference - Engadget
-- Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new friend - The Verge
+- Big Oil doesn’t share Trump’s dream of making Venezuelan oil great again - CNN
+- Nvidia unveils 'reasoning' AI technology for self-driving cars - BBC
+- Hyundai plans 30,000 humanoid robots a year for factories by 2028 - Axios
+- Jamie Dimon’s $770 Million Haul Shows How Bankers Are on Top Again - The New York Times
+- Lego Smart Bricks Light Up With Jedi Magic In Coming Star Wars Set – and I'm Obsessed - CNET
+- Dell revives its XPS laptops after a boneheaded rebranding - Engadget
