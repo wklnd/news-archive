@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-06 07:54_
+_Updated: 2026-01-06 09:02_
 
-- Nicolas Maduro, wife plead not guilty to terrorism charges in court appearance - Fox News
-- Trump has a list of demands for Venezuela’s new leader - Politico
+- Maduro Says He Is a Prisoner of War, Not a Defendant. The Words Matter. - The New York Times
 - U.S. officials reveal new details on the covert operation to capture Maduro - CBS News
-- Danish prime minister says a US takeover of Greenland would mark the end of NATO - AP News
+- Stephen Miller Asserts U.S. Has Right to Take Greenland - The New York Times
+- A third of Americans support US strike on Venezuela, Reuters/Ipsos poll finds - Reuters
+- Iran protests enter ninth day as Trump renews intervention threat - BBC
 - A $400,000 profit on Maduro's capture raises insider trading questions on Polymarket - NPR
-- CDC cuts universal child vaccine recommendations, including covid and hepatitis - BBC
-- Eerie surveillance video shows 'person of interest' in unsolved Ohio dentist murder case - Fox News
+- Ohio police release video of person of interest in killing of dentist and his wife - CBS News
+- Jury selected in trial for former Uvalde officer charged in Robb Elementary shooting response - ABC News
 - Sen. Amy Klobuchar seriously considers run for Minnesota governor - Axios
 - Inside Congress' deep split after marathon Venezuela briefing - Axios
-- Ahead of 5-year anniversary of Jan. 6, report examines aftermath following Trump's return to office - ABC News
-- Strong earthquake rattles western Japan, followed by several more shakes - The Japan Times
-- South Korea's Lee Jae Myung seeks 'new phase' in ties with China at Xi Jinping meeting - BBC
-- Swiss police identify all 116 people injured in deadly New Year’s bar fire - AP News
-- Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers - Business Insider
-- Trump administration sets meetings with oil companies over Venezuela, source says - Reuters
+- 6.2 magnitude earthquake detected in Japan, no tsunami warning issued - ABC News
+- All 116 people injured in Swiss resort fire identified, say police - The Guardian
+- European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers - Reuters
+- South Korean president visits China - Politico
+- Maduro’s Ouster Doesn’t Change Morningstar’s Oil Price Forecasts - The Wall Street Journal
 - Nvidia unveils 'reasoning' AI technology for self-driving cars - BBC
-- Hyundai Unveils New Humanoid Robot for Work in Car Factories - Bloomberg.com
+- Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors - WIRED
 - Asian defense stocks extend rally as Venezuela tensions linger, markets mixed - CNBC
 - Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica
-- LEGO just brought out a smart brick, unlocking new generation of play - Euronews.com
+- Dell revives its XPS laptops after a boneheaded rebranding - Engadget
