@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 17:46_
+_Updated: 2026-01-06 18:55_
 
 ## Top Stories
 
-- Attacken som skakar världen - Utrikespolitiska institutet
+- Flera olyckor i snövädret: ”Det kommer mer” - Dagens Nyheter
+- Michael Winiarski: Ingår Venezuela i en hemlig ”deal” mellan Trump och Putin? - Dagens Nyheter
 - Krismöte i Danmark efter USA:s Grönlandshot - SVT Nyheter
 - 06 januari 11.16, Trafikolycka, Gävleborgs län - polisen.se
-- Ovanligt ljusfenomen i skyn - Expressen
+- Enkla missen kan kosta körkortet: ”Eget ansvar” - SvD
 - Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
-- Person död i häktet i Göteborg - SVT Nyheter
-- Dubbelt så många barn under 15 ställs inför rätta - Dagens Nyheter
+- Man död på häktet i Göteborg - GP
 - 06 januari 10.00, Misshandel, Örebro - polisen.se
-- Bråk under parmiddag – misstänkt grov misshandel - Aftonbladet
-- Trafikolycka på E16 i Borlänge - SVT Nyheter
+- 06 januari 12.43, Trafikolycka, Borlänge - polisen.se
+- 06 januari 11.05, Trafikkontroll, Västernorrlands län - polisen.se
 - Utkast: USA ska övervaka vapenvila i Ukraina - SVT Nyheter
-- Efter Maduro – Medvedev vill kidnappa Merz - Omni
 - Fortsatta protester i Iran – Trump varnar regimen - SVT Nyheter
-- Machado: Vill dela Nobelpriset med Trump - GP
-- AI-jätten visar upp nästa plattform - DI
-- Ny legobit visas upp – så funkar den - Expressen
-- AI Know: AI i reklam – är det en bra idé? - Business Region Göteborg
-- UNICEF: Sexuellt våld mot barn ökar kraftigt i DR Kongo - Unric
+- Israelisk minister i Somaliland – vill ha ambassad - Västerbottens-Kuriren
+- Baren i Schweiz inte inspekterad på fem år - GP
+- Kronan gör svensken till kung på utlandsresan - SvD
+- Avanza avslutar samarbetet med Tin Fonder: ”Inte nöjda” - Omni
+- AI-jätten visar upp nya storsatsning Vera Rubin - Expressen
+- Oväder i Europa – dödsolyckor och flygkaos - TV4 Nyheterna
+- Sju miljoner år gammal art dolde ett häpnadsväckande mänskligt drag - Illustrerad Vetenskap
 - Solpaneler i odlingar även bra för lantarbetare - Natursidan
-- Anker Innovations visar framtidens teknik för laddning, smarta hem och underhållning under CES 2026 - Via TT
 
 ## World News
 
 - Amerikanska bolag slipper global minimiskatt - SvD
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Jobbslakt i Malmös spelbransch: ”En tydlig global trend” - DI
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -102,7 +102,6 @@ _Updated: 2026-01-06 17:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2026-01-06 17:46_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -145,6 +145,7 @@ _Updated: 2026-01-06 17:46_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -155,10 +156,9 @@ _Updated: 2026-01-06 17:46_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
