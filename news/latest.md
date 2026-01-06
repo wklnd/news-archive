@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-06 20:57_
+_Updated: 2026-01-06 21:49_
 
-- Trump says his Greenland fixation is about national security. Europeans are skeptical. - Politico
-- Venezuela, After Maduro - The New York Times
-- California Congressman Doug LaMalfa dies, GOP confirms, slimming Republican margin in Congress - Los Angeles Times
-- Venezuelan Oil Shunned by China as Offers Get More Expensive - Bloomberg.com
+- Trump administration's capture of Maduro raises unease about the international legal framework - AP News
+- Republican Rep. LaMalfa dies, further narrowing GOP’s House majority - The Washington Post
 - Trump administration halting $10 billion in social service funding to 5 Democratic states - CBS News
-- Swiss Bar Hit by Deadly Fire Was Not Inspected for Six Years, Authorities Say - The New York Times
-- Trump to meet with House Republicans amid questions about Venezuela - NPR
-- Five years after Jan 6 attack, Senate Democrats seek to ban taxpayer-funded payouts to Capitol rioters - CBS News
 - Inside Tim Walz's dramatic political fall - Axios
+- A Jan. 6 plaque was made to honor law enforcement at the Capitol. Its whereabouts are unknown - PBS
+- Trump wants Venezuela's oil. Will his plan work? - BBC
+- US justice department has released less than 1% of Epstein files, filing reveals - The Guardian
+- Uvalde officer was told location of gunman but he failed to act, prosecutors say - ABC News
 - ‘Mexico should indeed be concerned’: Trump’s threats rattle Mexican officials, businesses - Politico
-- US to run high-tech ceasefire monitoring under draft Ukraine plan - Financial Times
-- Israeli FM Sa'ar lands in Somaliland for first visit - The Jerusalem Post
-- Venezuela's future in balance after Trump officials brief lawmakers; Maduro held in NYC jail - CBS News
+- Sunken tourist boat and another body found after Spanish soccer coach, 3 children go missing off Indonesia - CBS News
+- Target 'divisive' Reform in 2026, Keir Starmer tells ministers - BBC
 - Can China and South Korea reset complex ties after Xi-Lee summit? - Al Jazeera
-- Trump suggests US taxpayers could reimburse oil firms for Venezuela investment - The Guardian
-- Nvidia unveils self-driving car tech as part of physical AI push - BBC
-- The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her - NBC News
-- Dow heads for first close above 49,000 as investors shrug at Venezuela situation, buy chip stocks: Live updates - CNBC
+- Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia - NBC News
+- Why Elon Musk And Tesla Aren't 'Losing Sleep' Over Nvidia's Self-Driving Announcement - Investor's Business Daily
+- S&P 500 hits fresh all-time high, Dow heads for first close over 49,000: Live updates - CNBC
+- Ford reports best annual U.S. vehicle sales since 2019 - CNBC
+- Attempting to predict the economy in 2026 : Planet Money - NPR
 - Lego unveils tech-filled Smart Bricks - to play experts' dismay - BBC
 - Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica
+- Transform your charging with Anker's new lineup at CES 2026 - AppleInsider
