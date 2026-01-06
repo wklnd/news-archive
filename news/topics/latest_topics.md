@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 19:47_
+_Updated: 2026-01-06 20:53_
 
 ## Top Stories
 
-- Flera olyckor i snövädret: ”Det kommer mer” - Dagens Nyheter
+- SMHI tidigarelade snövarning – och utfärdade nya - SVT Nyheter
 - Krismöte i Danmark efter USA:s Grönlandshot - SVT Nyheter
 - Michael Winiarski: Ingår Venezuela i en hemlig ”deal” mellan Trump och Putin? - Dagens Nyheter
-- 06 januari 11.16, Trafikolycka, Gävleborgs län - polisen.se
-- Enkla missen kan kosta körkortet: ”Eget ansvar” - SvD
 - Fortsatt flygkaos i Europa - Expressen
-- Kritik mot att dömda personer raderas från polisens dna-register - Dagens Nyheter
+- SMHI varnar – mer snö på väg - GP
+- Ovanligt ljusfenomen i skyn - Expressen
 - Man död på häktet i Göteborg - GP
-- 06 januari 10.00, Misshandel, Örebro - polisen.se
-- Behovsstyrt öppethållande av trygghetspunkterna i Bergvik och Holmsveden från och med tisdag 6 januari - Söderhamns kommun
-- Utkast: USA ska övervaka vapenvila i Ukraina - SVT Nyheter
-- Det hindrar Trump från att föra bort Kim Jong-Un - Dagens Nyheter
+- 06 januari 12.43, Trafikolycka, Borlänge - polisen.se
+- Trafikolycka med tre bilar norr om Ludvika – Väder- och trafikläget i landet - SVT Nyheter
+- Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
+- Terrormisstankar efter strömavbrottet i Berlin - Folkbladet
 - Israelisk minister i Somaliland – vill ha ambassad - Västerbottens-Kuriren
-- Borgmästaren i Crans-Montana: Har förbjudit alla isfacklor inomhus - SVT Nyheter
+- Det hindrar Trump från att föra bort Kim Jong-Un - Dagens Nyheter
+- Utkast: USA ska övervaka vapenvila i Ukraina - SVT Nyheter
 - Kronan gör svensken till kung på utlandsresan - SvD
 - AI-jätten visar upp nya storsatsning Vera Rubin - Expressen
-- Avanza avslutar samarbetet med Tin Fonder: ”Inte nöjda” - Omni
+- Vardags-AI gör intåg när teknikjättar visar upp sig - DI
 - Svenske miljardärens nya fiasko - Dagens PS
-- Sju miljoner år gammal art dolde ett häpnadsväckande mänskligt drag - Illustrerad Vetenskap
 - Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
+- Solpaneler i odlingar även bra för lantarbetare - Natursidan
 
 ## World News
 
@@ -44,7 +44,7 @@ _Updated: 2026-01-06 19:47_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -63,13 +63,13 @@ _Updated: 2026-01-06 19:47_
 - AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Muah AI: A Revolutionary Multi-Modal AI platform, Redefining Human-AI Interaction as a true Character AI Alternative - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -101,30 +101,30 @@ _Updated: 2026-01-06 19:47_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -132,12 +132,12 @@ _Updated: 2026-01-06 19:47_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
