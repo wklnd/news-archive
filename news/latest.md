@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-06 01:49_
+_Updated: 2026-01-06 04:34_
 
-- Maduro declares 'I am innocent' and 'still president' in Manhattan court appearance - ABC News
-- Denmark Says US Attack on Greenland Would Mean End of NATO - Bloomberg.com
-- US allies and adversaries use UN meeting to critique Venezuela intervention as America defends it - AP News
-- Pentagon cuts Sen. Mark Kelly’s military retirement pay as punishment over ‘illegal orders’ video - CNN
-- Which countries could be in Trump's sights next? - BBC
-- Only 33% of Americans approve of US military operation to capture Maduro, Reuters/Ipsos poll finds - Reuters
+- Ousted Venezuelan President Maduro arraigned in U.S. court today; Trump threatens other nations - CBS News
+- Remarks at a UN Security Council Briefing on Venezuela - United States Mission to the United Nations (.gov)
+- Trump’s Venezuela attack deepens Europe’s Greenland dilemma - politico.eu
+- Health officials slash the number of vaccines recommended for all kids - NPR
+- A third of Americans support US strike on Venezuela, Reuters/Ipsos poll finds - Reuters
+- Committee Releases Conferenced CJS, E&W, and Interior Bills - House Committee on Appropriations (.gov)
 - Minnesota Gov. Tim Walz ends reelection bid amid child-care fraud scandal - ABC News
+- Venezuela Fuels Broad Sector Rally But These Oil And Gas Plays Slide - Investor's Business Daily
+- 'Everything I knew burned down around me': A journalist looks back on LA's fires - NPR
 - Trial begins for former Uvalde officer charged in Robb Elementary shooting response - ABC News
-- Venezuela swears in interim leader after Maduro appears in court - BBC
-- Iran protests enter ninth day as Trump renews intervention threat - BBC
-- Holocaust survivor Eva Schloss, stepsister of Anne Frank, dies at 96 - ABC News
-- Caribbean Travelers Are Stranded After U.S. Raid in Venezuela Cancels Flights - The New York Times
-- All 116 injured in Swiss ski resort fire identified - BBC
-- Israel begins strikes of Hezbollah and Hamas 'targets' in Lebanon - Reuters
-- Trump administration sets meetings with oil companies over Venezuela - Reuters
+- Eva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96 - The New York Times
+- Swiss police identify all 116 people injured in deadly New Year’s bar fire - AP News
+- Maps show the scale of the Caribbean air travel chaos — and how airlines are adding extra flights to rescue passengers - Business Insider
+- Mother of one of Elon Musk’s sons ‘horrified’ at use of Grok to create fake sexualised images of her - The Guardian
+- Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes - The New York Times
+- Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028 - The Verge
 - Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war - The Guardian
-- J.P. Morgan Launches Special Advisory Services - J.P. Morgan
-- NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom
-- Lego Smart Bricks introduce a new way to build — and they don’t require screens - TechCrunch
+- There's Compelling Evidence That Someone Connected to the Trump Administration Profited Off the Invasion of Venezuela by Placing Large Bets on Polymarket - Futurism
+- Samsung unveiled AI-powered products at CES 2026: Everything announced from the year's first press conference - Engadget
 - Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new friend - The Verge
