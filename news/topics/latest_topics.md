@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 01:42_
+_Updated: 2026-01-06 04:31_
 
 ## Top Stories
 
-- Maduro i domstolen: ”Jag är inte skyldig” - Sydsvenskan
-- Säkerhetsfel granskas i jakten på brandorsaken - SvD
+- Så påverkas bensinpriset – Putins fördel: ”Viktigare” - Expressen
+- Putins general är fast – efter Trumps attack - Expressen
+- 05 januari 17.51, Bedrägeri, Täby - polisen.se
 - Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
-- Gul vädervarning 6-7 januari - Söderhamns kommun
-- Tysk trend – serie av spektakulära bankrån - SvD
-- Hund bet ihjäl kvinna – flickvän åtalas för grovt vållande till annans död - Dagens Nyheter
+- Snökanoner drar in – SMHI varnar igen - UNT
+- Källor: Liga kan ha kommit över en dryg miljard - GP
 - Uppåt 12 000 kunder drabbades av elavbrott i Visby - SVT Nyheter
-- Döms för våldtäkt på kollega på äldreboende - SVT Nyheter
-- Här skapas de nya barnfängelserna - SvD
-- Efter SVT:s avslöjande om fusk – nu stoppas Quality care från att driva HVB-hem - SVT Nyheter
-- 05 januari 17.51, Bedrägeri, Täby - Polisen.se
-- Trumps hårda ord mot presidenten väcker debatt men ingen panik i Colombia - Yle
+- DN Direkt – Man våldtog kollega på äldreboende - Dagens Nyheter
+- Antalet strömlösa gävleborgare under 1000 för första gången sedan stormen Johannes slog till - www.ellevio.se
+- Fortsatt strul i tågtrafiken – inställda avgångar - UNT
+- Skottlossning vid presidentpalatset i Caracas - Västerbottens-Kuriren
+- Alla dödsoffer identifierade efter nyårsbranden - GP
+- Guvernör i Minnesota ställer inte upp för omval - GP
 - Man fick kemikalier över sig i arbetsplatsolycka – fördes till sjukhus - NWT
-- Fönster krossade hos JD Vance – man gripen - Västerbottens-Kuriren
-- DN Direkt – Tonfisken gick på auktion – för nära 29 miljoner kronor - Dagens Nyheter
-- Guld och silver stiger efter Venezuela-räd - Affärsvärlden
-- Börsen stänger på grönt – gruv- och försvarsaktier vinnare - DI
-- Biltema nobbade fackets förslag – alla anställda tvingas sluta - Arbetet
+- Guldpriset stiger – nära nytt rekord - DI
+- Köpte tonfisk för 30 miljoner: ”Kan inte motstå” - Aftonbladet
+- FACKET: Biltema nobbade att flytta personal till Säffle - Säffle-Tidningen
+- Börsfest för försvarsaktier efter anfallet i Venezuela - Omni
 - Vatten läckte in genom taket på en restaurang - Västerbottens-Kuriren
 - Maktskifte på Nintendo of America - Teknikveckan
 
@@ -34,8 +34,8 @@ _Updated: 2026-01-06 01:42_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
@@ -53,23 +53,23 @@ _Updated: 2026-01-06 01:42_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
+- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
-- Cathie Wood on the first year of The Ark and Avanza Partnership - Avanzabloggen
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Deepseek är det nya Linux - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - From Brain-Computer Chips to Climate Change: Dubai Future Forum 2024 Predicts the Future of Humanity - Via TT
+- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
 ## Business
 
@@ -86,13 +86,13 @@ _Updated: 2026-01-06 01:42_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-01-06 01:42_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,7 @@ _Updated: 2026-01-06 01:42_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -131,34 +131,34 @@ _Updated: 2026-01-06 01:42_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-11-08 Seminar: Production, Food Security and Sustainability - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
