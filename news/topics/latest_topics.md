@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-06 20:53_
+_Updated: 2026-01-06 21:40_
 
 ## Top Stories
 
-- SMHI tidigarelade snövarning – och utfärdade nya - SVT Nyheter
-- Krismöte i Danmark efter USA:s Grönlandshot - SVT Nyheter
+- Enighet om säkerhetsgarantier för Ukraina - SvD
+- Efter krismötet i Danmark – länderna kräver möte med USA - SVT Nyheter
+- SMHI varnar för kraftigt snöfall i Skaraborg – kan bli uppemot 25 centimeter - NLT
 - Michael Winiarski: Ingår Venezuela i en hemlig ”deal” mellan Trump och Putin? - Dagens Nyheter
-- Fortsatt flygkaos i Europa - Expressen
-- SMHI varnar – mer snö på väg - GP
 - Ovanligt ljusfenomen i skyn - Expressen
-- Man död på häktet i Göteborg - GP
-- 06 januari 12.43, Trafikolycka, Borlänge - polisen.se
-- Trafikolycka med tre bilar norr om Ludvika – Väder- och trafikläget i landet - SVT Nyheter
+- Behovsstyrt öppethållande av trygghetspunkterna i Ljusne och Stråtjära från och med onsdag 7 januari - Söderhamns kommun
+- Snökaos orsakar problem för flygtrafiken i Europa - Yle
+- 06 januari 12.43, Trafikolycka, Borlänge - Polisen.se
 - Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
-- Terrormisstankar efter strömavbrottet i Berlin - Folkbladet
-- Israelisk minister i Somaliland – vill ha ambassad - Västerbottens-Kuriren
+- 06 januari 10.00, Misshandel, Örebro - Polisen.se
 - Det hindrar Trump från att föra bort Kim Jong-Un - Dagens Nyheter
-- Utkast: USA ska övervaka vapenvila i Ukraina - SVT Nyheter
+- Israelisk minister i Somaliland – vill ha ambassad - Västerbottens-Kuriren
+- Terrormisstankar efter strömavbrottet i Berlin - Folkbladet
+- Borgmästaren i Crans-Montana: Har förbjudit alla isfacklor inomhus - SVT Nyheter
 - Kronan gör svensken till kung på utlandsresan - SvD
 - AI-jätten visar upp nya storsatsning Vera Rubin - Expressen
 - Vardags-AI gör intåg när teknikjättar visar upp sig - DI
-- Svenske miljardärens nya fiasko - Dagens PS
+- EU öppnar plånboken för att få igenom Mercosur - aftonbladet.se
 - Uppgifter: Open AI:s kommande AI-pryl ska styras med rösten - Computer Sweden
 - Solpaneler i odlingar även bra för lantarbetare - Natursidan
 
