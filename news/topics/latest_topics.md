@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 19:50_
+_Updated: 2026-01-07 20:56_
 
 ## Top Stories
 
 - Rubio: Ska mötas med Danmark nästa vecka - SVT Nyheter
-- Lerums gymnasium ställer in all undervisning på torsdag! - Lerums kommun
-- UPPDATERAS: Frankrike, Storbritannien, Sverige och Belgien redo gå in militärt i Ukraina vid vapenstillestånd - cornucopia.se
+- Orange varning för snö i Göteborg – spårvagnar inställda - GP
+- Flera gymnasieskolor i Göteborg håller stängt på torsdagen - GP
+- Spionmisstänkt har jobbat inom Försvarsmakten - Expressen
 - Butiken utan ström i tre dygn – tvingades slänga mat för 73 000 - Expressen
-- Rio, 16, sköts till döds – pojke döms till tio års fängelse - Aftonbladet
-- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
-- Västtrafik ställer in alla spårvagnar i Göteborg: ”För farligt” - GP
+- USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
+- 16-årige Rio dog i felskjutning – 17-åring döms för mord - Dagens Nyheter
+- Drunkningslarm i Värnamo – en person gick genom isen - SVT Nyheter
 - Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Tre personbilar i krock i centrala Östersund - SVT Nyheter
-- MER SNÖ PÅ VÄG: Gul varning i Värmland – upp till 25 centimeter - NWT
+- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
+- Spänt mellan USA och Ryssland efter aktion mot oljetanker - Dagens Nyheter
+- Trump: Vi kommer alltid finnas där för Nato - DI
 - Maduro delar häkte med rappare och Luigi Mangione - Omni
-- (+) Högerdebattören kritisk mot julottans ”ideologifostran” - Kyrkans Tidning
-- Förhandlingar pågår om frihandelsavtalet - Jordbruksaktuellt
-- Syriens militär uppges bomba Aleppo - Västerbottens-Kuriren
-- Nyköpings kommun begär Xshore i konkurs - DI
-- Dynavox Group: Hjälpmedel till portföljen - Affärsvärlden
-- Rekordlyft på börsen – kraftigt uppåt i flera storbolag - DI
+- 07 januari 17.00, Trafikolycka, Mjölby - Polisen.se
+- Affärsvärlden ger köpråd för Dynavox - Börsvärlden
 - Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet - Regeringen.se
-- HP:s nya dator är inbyggd i tangentbordet - Computer Sweden
+- Så gick e-handelsåret 2025 - Svensk Handel
+- Katarina Wolf: Ett hållbart företag kräver balans mellan arbete och fritid - Land Lantbruk och Skogsbruk
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
+- Dolby sätter en ny standard för premiumunderhållning på CES 2026 - Via TT
 
 ## World News
 
@@ -63,9 +63,9 @@ _Updated: 2026-01-07 19:50_
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Deepseek är det nya Linux - Computer Sweden
-- Elon Musk presenterar sitt nya AI-företag - Gamereactor
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
@@ -130,6 +130,7 @@ _Updated: 2026-01-07 19:50_
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -137,7 +138,6 @@ _Updated: 2026-01-07 19:50_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
