@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 12:50_
+_Updated: 2026-01-07 13:42_
 
 ## Top Stories
 
 - Tonårspojke sköts till döds i Fruängen – 17-åring döms för mord - SVT Nyheter
+- USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
 - Malmös dystra rekord: Över 12 000 anmälda skolkränkningar - Sydsvenskan
-- Danmark rasar efter Trumps Grönlandskrav – får europeiskt stöd - Europaportalen
-- Misstänkt spion arbetar med cybersäkerhet - SvD
-- Lotta har varit utan ström i tio dagar efter stormen Johannes: ”Tungt” - Dagens Nyheter
-- Man misstänks ha mördat kvinna och dumpat henne i sjö – åtalas - SVT Nyheter
-- Västtrafik ställer in alla spårvagnar i Göteborg: ”För farligt” - GP
-- Snökaos i Europa – tältsängar på flygplatsen i Amsterdam - Sydsvenskan
-- 07 januari 07.41, Sammanfattning natt, Södermanlands län - polisen.se
-- Industribrand i Värnamo – personalen har utrymts - SVT Nyheter
-- Brigitte Bardot begravs i Saint Tropez - Sydsvenskan
-- Flera bussavgångar ställdes in i Västernorrland på grund av vädret - SVT Nyheter
-- 06 januari 23.26, Olaga hot, Botkyrka - polisen.se
-- Linus de Faire tilldelas Årets Migrantpris för Sveasagorna - Albert Bonniers Förlag
+- Orange varning för snö i Göteborg – spårvagnar inställda - GP
+- Spionmisstänkt 33-åring arbetade på Försvarsmakten - Aftonbladet
+- Tre partier under spärren i mätning - Expressen
+- Med anledning av stormen Johannes: Så arbetar vi tillsammans för en trygg elförsörjning - Via TT
+- Försvunnen kvinna hittades strypt i en sjö – nu åtalas sambon - NWT
+- Västtrafik ställer in alla spårvagnar i Göteborg – efter snökaoset - GP
+- Flera inställda avgångar för tåg- och busstrafik - UNT
+- Trump: Venezuela-olja till USA - SVT Nyheter
+- Vita huset: Kapitoliumupplopp var fredlig protest - GP
+- DN Direkt – Två brandmän omkomna i villabrand i Norge - Dagens Nyheter
+- Hundratals turister fast på paradisö efter eskalering - Omni
 - Bang & Olufsen vinstvarnar – svenska vd:n sparkas - Aftonbladet
 - Brittisk Klarna-konkurrent i turkisk offensiv - Sydsvenskan
-- Rekordlyft på börsen – kraftigt uppåt i flera storbolag - DI
-- Trumpbolaget pressas av blankare - DI
+- Dyr nota för tidig pension – så mycket förlorar du - DI
+- Företagare rankar landets myndigheter - Företagarna
 - Dolby sätter en ny standard för premiumunderhållning på CES 2026 - Via TT
 - Världens minsta hörlurar får aktiv brusreducering - m3.se
 
@@ -32,10 +32,8 @@ _Updated: 2026-01-07 12:50_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
@@ -43,10 +41,12 @@ _Updated: 2026-01-07 12:50_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -55,6 +55,7 @@ _Updated: 2026-01-07 12:50_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
@@ -63,7 +64,6 @@ _Updated: 2026-01-07 12:50_
 - Deepseek är det nya Linux - Computer Sweden
 - Elon Musk presenterar sitt nya AI-företag - Gamereactor
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
