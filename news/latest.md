@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-07 19:54_
+_Updated: 2026-01-07 21:00_
 
+- Live Updates: U.S. Intercepts Russian-Flagged Tanker; Trump Says Venezuela Will Start Sending Oil - The New York Times
+- Buy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand. - The New York Times
 - Fact Sheet: Trump Administration Resets U.S. Nutrition Policy, Puts Real Food Back at the Center of Health - Department of Health and Human Services (HHS) (.gov)
-- 5 Democratic-run states are told that their child care funds have been frozen - Axios
 - At least 36 people killed during Iran protests, rights group says - BBC
 - Rep. Doug LaMalfa, a steadfast advocate for California’s North State, dies at 65 - CalMatters
-- Paris Declaration - 'Robust Security Guarantees for a Solid and Lasting Peace in Ukraine', issued by France - consilium.europa.eu
 - DHS Secretary Kristi Noem Hits the Streets with ICE Agents on Major Minneapolis Enforcement Operation to Arrest Criminal Illegal Alien Murderer and Sexual Predator Released Into the Country by the Biden Administration - Homeland Security (.gov)
-- New video released of person of interest in mysterious murders of Ohio dentist, wife - ABC News
-- Ray Jayawardhana Appointed Caltech's Tenth President - Caltech
+- ICE agents fatally shoot woman in Minneapolis, DHS says - CNBC
 - "Put up or shut up now": Walz unleashed after announcing political exit - Axios
-- Iran executes man accused of spying for Israel - Reuters
+- Separate and alone: How Nicolás Maduro and his wife can expect to be treated in jail - CNN
+- Trump judge orders Lindsey Halligan to explain why she's using U.S. attorney title - Axios
+- China’s Threat to Block Rare Earths Has Put Japan on High Alert - The New York Times
 - In Maduro’s capture, Russia sees a great-power rival act with impunity - The Washington Post
-- Chris Mason: UK grapples with new era of US unpredictability - BBC
 - Greetings from a Paris park, where a lone sequoia tree is a marvel to behold - NPR
-- The number of available jobs in the US just hit its lowest level in more than a year - CNN
-- GameStop Announces Long-Term Performance Award for Ryan Cohen - Business Wire
-- American Airlines keeps frequent flyer status requirements the same, following rivals - CNBC
-- S&P 500 notches fresh record, Dow adds nearly 500 points for first close above 49,000: Live updates - CNBC
-- The best chargers and portable power solutions at CES 2026 - The Verge
-- Dell’s XPS revival is a welcome reprieve from the “AI PC” fad - Ars Technica
-- Lenovo’s second SteamOS handheld is the Legion Go 2 - The Verge
+- Chris Mason: UK grapples with new era of US unpredictability - BBC
+- Trump says U.S. to ban large investors from buying homes - CNBC
+- Avelo To Exit Deportation Biz - New Haven Independent
+- Alaska Airlines to Buy 110 Boeing Planes as It Seeks to Expand - The New York Times
+- Grok's explicit images reveal AI's legal ambiguities - Axios
+- The best phone chargers and portable power solutions at CES 2026 - The Verge
+- HP's New Business Laptops Will Make Your IT Staff Happier - CNET
