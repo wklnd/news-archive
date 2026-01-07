@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 22:48_
+_Updated: 2026-01-07 23:43_
 
 ## Top Stories
 
-- Flera gymnasieskolor i Göteborg håller stängt på torsdagen - GP
+- Rubio: Möte med Danmark om Grönland nästa vecka - Dagens Nyheter
+- Butiken utan ström i tre dygn – tvingades slänga mat för 73 000 - Expressen
+- Kvinna skjuten till döds av ICE-agent - Sydsvenskan
 - Misstänkte spionen studerade IT-säkerhet i Karlskrona - SVT Nyheter
 - USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
-- Förslag om ersättning när artskydd begränsar markanvändning - Regeringen.se
-- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
-- 07 januari 12.20, Trafikkontroll, Västerbottens län - Polisen.se
+- Snöoväder - så håller du koll på läget - Uddevalla kommun
 - Tonårspojke sköts till döds i Fruängen – 17-åring döms för mord - SVT Nyheter
-- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- Räddad ur isvak - förd till sjukhus - Västerbottens-Kuriren
-- Jaroslav i Göteborg har drömt om skidor till jobbet sedan 1995 – här blir det verklighet - SVT Nyheter
-- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
-- Spänt mellan USA och Ryssland efter aktion mot oljetanker - Dagens Nyheter
-- Här är det ökända häktet där Maduro sitter - Dagens Nyheter
-- Totalstopp på E4 – en till sjukhus - Expressen
-- Kommunen begär Xshores moderbolag i konkurs - SN, Södermanlands Nyheter
+- Orange varning för snö i Göteborg – spårvagnar inställda - GP
+- Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
+- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
+- Trump: Tvivlar på att Nato skulle ställa upp - Västerbottens-Kuriren
+- (+) Högerdebattören kritisk mot julottans ”ideologifostran” - Kyrkans Tidning
+- God afton, herr Wallenberg – Bio i Lund - Kino.nu
+- Lennart Wretlind: Mina fem minuter med Patti Smith - Senioren
+- Julledigt – då höjde två banker sina boräntor - SvD
 - Försvarsaktier faller efter Trumps utspel - DI
-- Så gick e-handelsåret 2025 - Svensk Handel
-- Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet - Regeringen.se
+- Snön orsakar inställda avgångar: ”Det är kaos” - Norra Halland
+- Svenskfavoriten rasar på Nasdaq efter budrykte - DI
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 - Dolby sätter en ny standard för premiumunderhållning på CES 2026 - Via TT
 
@@ -43,7 +43,7 @@ _Updated: 2026-01-07 22:48_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
-- Ramudden Global säljs – ny ägare tar över - DagensNaringsliv.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -63,9 +63,9 @@ _Updated: 2026-01-07 22:48_
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Deepseek är det nya Linux - Computer Sweden
+- Elon Musk presenterar sitt nya AI-företag - Gamereactor
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
@@ -103,16 +103,16 @@ _Updated: 2026-01-07 22:48_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
