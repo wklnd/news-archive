@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-07 13:50_
+_Updated: 2026-01-07 15:26_
 
+- DHS wants Venezuelans to return home, but fears remain as long as Maduro regime is in power - NPR
 - District of Massachusetts | Update on Investigation into Brown University and Brookline Shootings - Department of Justice (.gov)
-- 5 Democratic-run states are told that their child care funds have been frozen - Axios
-- Europe gets warm words from US on Ukraine — but reliability fears loom - politico.eu
 - The House GOP confronts a shocking loss and a difficult road ahead - Politico
-- Aldrich Ames, C.I.A. Turncoat Who Helped the Soviets, Dies at 84 - The New York Times
-- Office of Public Affairs | Justice Department Sues Arizona and Connecticut for Failure to Produce Voter Rolls - Department of Justice (.gov)
-- Russia sends navy ships to guard oil tanker being pursued by US forces - BBC
-- Jury selected in trial for former Uvalde officer charged in Robb Elementary shooting response - ABC News
-- White House re-litigates Jan. 6 with webpage claiming "insurrection" was a Democratic fabrication - Axios
-- Sen. Amy Klobuchar seriously considers run for Minnesota governor - Axios
-- Why does Trump want Greenland? - The New York Times
-- As Venezuela buckles under Trump, Iran sees an uncomfortable parallel - CNN
-- Pope Leo XIV closes 2025 Holy Year with critique of consumerism and xenophobia - NBC News
-- Trump presses Venezuela to dismiss agents from China, Russia, Iran and Cuba - Axios
-- Got $5,000? 3 Tech Stocks to Buy and Hold for the Long Term - The Motley Fool
-- Six dead and hundreds of flights cancelled as snow causes chaos across Europe - BBC
+- Europe gets warm words from US on Ukraine — but reliability fears loom - politico.eu
+- A Jan. 6 plaque was made to honor law enforcement at the Capitol. Its whereabouts are unknown - PBS
+- Why Trump Refused to Back Venezuela’s Machado: Fears of Chaos, and Fraying Ties - The New York Times
+- Aldrich Ames, most damaging CIA traitor in agency history, dies at 84 - The Washington Post
+- The LA wildfire victims still living in toxic homes: ‘We have nowhere else to go’ - The Guardian
+- Buy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand. - The New York Times
+- Trump’s plan to own the Western Hemisphere and Greenland is not what Americans want - CNN
+- Jubilee: Rite for the closing of Holy Door at St. Peter’s Basilica - Vatican News
+- What’s Your Reaction to the U.S. Military Operation in Venezuela? - The New York Times
+- WBD once again rejects Paramount offer in favor of Netflix deal - CNBC
 - Euro zone inflation hits 2% in December, in line with forecasts - CNBC
-- Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war - The Guardian
-- XGIMI, best known for projectors, launches its own smart glasses - Engadget
+- Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again) - The White House (.gov)
+- Ford reports best annual U.S. vehicle sales since 2019 - CNBC
+- Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves - The Verge
 - HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard - Ars Technica
+- XGIMI, best known for projectors, launches its own smart glasses - Engadget
+- The Newest Health Trend Is Tracking Your Pee - WIRED
