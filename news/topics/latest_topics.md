@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 17:49_
+_Updated: 2026-01-07 18:56_
 
 ## Top Stories
 
+- Västtrafik ställer in alla spårvagnar i Göteborg: ”För farligt” - GP
+- JUST NU: Eskilstunabo misstänks för spioneri - Ekuriren
+- Rubio: Ska mötas med Danmark nästa vecka - SVT Nyheter
+- Mer snö väntas – skolor i Göteborg håller stängt - SvD
 - Rio, 16, sköts till döds – pojke döms till tio års fängelse - Aftonbladet
-- Drunkningslarm i Värnamo – en person gick genom isen - SVT Nyheter
 - UPPDATERAS: Frankrike, Storbritannien, Sverige och Belgien redo gå in militärt i Ukraina vid vapenstillestånd - cornucopia.se
-- Kvinna häktad för mordförsök på hemtjänstpersonal - SVT Nyheter
-- Danmark och Grönland begär krismöte med USA – Trump utesluter inte militär insats - SVT Nyheter
-- Vinterberedskap för vägar och gång- och cykelbanor - Tyresö kommun
+- Drunkningslarm i Värnamo – en person gick genom isen - SVT Nyheter
 - Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
+- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
 - Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Tre personbilar i krock i centrala Östersund - SVT Nyheter
-- Försvunnen kvinna hittades strypt i en sjö – nu åtalas sambon - NWT
-- USA har bordat oljetanker kopplad till Venezuela - SVT Nyheter
-- Trump: Venezuela-olja till USA - SVT Nyheter
-- Trump: Tvivlar på att Nato skulle vara där för oss - Omni
+- Trump: Vi kommer alltid finnas där för Nato - DI
 - Brandmän antas döda i villabrand i Norge - Sydsvenskan
+- Flera personer utsatta för rån i sina bostäder - SVT Nyheter
+- (+) Högerdebattören kritisk mot julottans ”ideologifostran” - Kyrkans Tidning
 - Nyköpings kommun begär Xshore i konkurs - DI
-- Företagare rankar landets myndigheter - Företagarna
+- Dynavox Group: Hjälpmedel till portföljen - Affärsvärlden
 - Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet - Regeringen.se
-- ”Det här borde ha gjorts tidigare” - Aftonbladet
+- Rekordlyft på börsen – kraftigt uppåt i flera storbolag - DI
 - HP:s nya dator är inbyggd i tangentbordet - Computer Sweden
-- För 7 000 år sedan ägde en våldsam händelse rum på Grönland – nu befarar forskare att det händer igen - Illustrerad Vetenskap
+- Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Amerikanska bolag slipper global minimiskatt - SvD
+- The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -40,12 +41,11 @@ _Updated: 2026-01-07 17:49_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -101,21 +101,21 @@ _Updated: 2026-01-07 17:49_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -146,7 +146,6 @@ _Updated: 2026-01-07 17:49_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -159,6 +158,7 @@ _Updated: 2026-01-07 17:49_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
