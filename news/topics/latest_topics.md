@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 09:46_
+_Updated: 2026-01-07 10:55_
 
 ## Top Stories
 
 - Danmark och Grönland begär krismöte med USA – Trump utesluter inte militär insats - SVT Nyheter
-- Chatta med experterna om det spända omvärldsläget - SVT Nyheter
-- En kvart – sedan släpps bomb rakt på sjukhuset - SvD
-- SMHI varnar – mer snö på väg - GP
-- 07 januari 07.41, Sammanfattning natt, Södermanlands län - polisen.se
-- 07 januari 07.48, Sammanfattning natt, Norrbottens län - polisen.se
+- Malmös dystra rekord: Över 12 000 anmälda skolkränkningar - Sydsvenskan
+- Se reporterns färd på väg 50 mellan Bollnäs och Söderhamn – Väder- och trafikläget i landet - SVT Nyheter
 - 06 januari 23.26, Olaga hot, Botkyrka - polisen.se
+- 07 januari 07.41, Sammanfattning natt, Södermanlands län - polisen.se
+- Lotta har varit utan ström i tio dagar efter stormen Johannes: ”Tungt” - Dagens Nyheter
+- Kvinna hittades i sjö – sambo åtalas för mord - Sydsvenskan
+- 07 januari 07.48, Sammanfattning natt, Norrbottens län - polisen.se
+- SL: ”Var ute i god tid i kollektivtrafiken idag” - SVT Nyheter
 - 07 januari 06.57, Sammanfattning natt, Värmlands län - polisen.se
-- 07 januari 07.00, Sammanfattning natt, Hallands län - polisen.se
-- Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
-- Ryska hundar sköts ihjäl i Norge - Sydsvenskan
-- Källa: Ryssland skickar ubåt till oljetanker - Aftonbladet
-- Terrormisstankar efter strömavbrottet i Berlin - GP
-- Bisonoxar återvänder till prärie efter 200 år - Natursidan
-- Här är varorna som blev dyrare förra året - Expressen
-- Urstark krona gör svenska resenärer rika - Dagens Nyheter
-- Musks AI-bolag tar in 20 miljarder – Nvidia investerare - Omni
+- Vita huset: Kapitoliumupplopp var fredlig protest - Västerbottens-Kuriren
+- Ryska hundar sköts ihjäl i Norge - Hufvudstadsbladet
+- Hundratals turister strandsatta på ö - Västerbottens-Kuriren
+- Amerikansk dubbelagent död - Aftonbladet
+- Musks AI-bolag tar in 20 miljarder – Nvidia investerar - Omni
+- Rekordlyft på börsen – kraftigt uppåt i flera storbolag - DI
+- Skogsägare ska ersättas vid artskyddsåtgärder - SVT Nyheter
 - De bäst presterande svenska aktierna 2025 - Morningstar Canada
-- Grönt ljus för Kitrons förvärv av DeltaNordic - Evertiq
-- Ny podd för tegelälskare - Tidningen ByggMaterial
+- Dolby sätter en ny standard för premiumunderhållning på CES 2026 - Via TT
+- CES 2026: Philips Hue visar upp den ny funktionen SpatialAware - Teknikveckan
 
 ## World News
 
@@ -33,25 +33,26 @@ _Updated: 2026-01-07 09:46_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Congratulations Thomas Schön – nominated for prestigious AI award – Department of Information Technology - Uppsala universitet
@@ -60,14 +61,13 @@ _Updated: 2026-01-07 09:46_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
@@ -100,31 +100,31 @@ _Updated: 2026-01-07 09:46_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -137,7 +137,7 @@ _Updated: 2026-01-07 09:46_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -145,6 +145,7 @@ _Updated: 2026-01-07 09:46_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -154,11 +155,10 @@ _Updated: 2026-01-07 09:46_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
