@@ -1,41 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 16:51_
+_Updated: 2026-01-07 17:49_
 
 ## Top Stories
 
-- USA har bordat oljetanker kopplad till Venezuela - SVT Nyheter
 - Rio, 16, sköts till döds – pojke döms till tio års fängelse - Aftonbladet
-- GUL VARNING: Nu kommer snö i mängder - KT-Kuriren
+- Drunkningslarm i Värnamo – en person gick genom isen - SVT Nyheter
 - UPPDATERAS: Frankrike, Storbritannien, Sverige och Belgien redo gå in militärt i Ukraina vid vapenstillestånd - cornucopia.se
+- Kvinna häktad för mordförsök på hemtjänstpersonal - SVT Nyheter
 - Danmark och Grönland begär krismöte med USA – Trump utesluter inte militär insats - SVT Nyheter
 - Vinterberedskap för vägar och gång- och cykelbanor - Tyresö kommun
 - Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- Misstänkt spion begärs häktad - SVT Nyheter
-- Västtrafik ställer in alla spårvagnar i Göteborg: ”För farligt” - GP
 - Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Syrisk militär: Delar av Aleppo ”militära zoner” - Sydsvenskan
-- Brandmän antas döda i villabrand i Norge - Västerbottens-Kuriren
-- Flera personer utsatta för rån i sina bostäder - SVT Nyheter
-- (+) Högerdebattören kritisk mot julottans ”ideologifostran” - Kyrkans Tidning
-- Bang & Olufsen vinstvarnar – svenska vd:n sparkas - Sydsvenskan
-- Elon Musks AI-bolag tar in 184 miljarder - DI
+- Tre personbilar i krock i centrala Östersund - SVT Nyheter
+- Försvunnen kvinna hittades strypt i en sjö – nu åtalas sambon - NWT
+- USA har bordat oljetanker kopplad till Venezuela - SVT Nyheter
+- Trump: Venezuela-olja till USA - SVT Nyheter
+- Trump: Tvivlar på att Nato skulle vara där för oss - Omni
+- Brandmän antas döda i villabrand i Norge - Sydsvenskan
+- Nyköpings kommun begär Xshore i konkurs - DI
 - Företagare rankar landets myndigheter - Företagarna
 - Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet - Regeringen.se
+- ”Det här borde ha gjorts tidigare” - Aftonbladet
 - HP:s nya dator är inbyggd i tangentbordet - Computer Sweden
 - För 7 000 år sedan ägde en våldsam händelse rum på Grönland – nu befarar forskare att det händer igen - Illustrerad Vetenskap
 
 ## World News
 
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Amerikanska bolag slipper global minimiskatt - SvD
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -43,7 +44,6 @@ _Updated: 2026-01-07 16:51_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -55,19 +55,19 @@ _Updated: 2026-01-07 16:51_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
 - Deepseek är det nya Linux - Computer Sweden
+- Elon Musk presenterar sitt nya AI-företag - Gamereactor
 - 290 million for digitalisation of Swedish industry - Vinnova
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- Shield AI avslutar V-BAT-insatser i Europa till stöd för gräns- och nödinsatser - PR Newswire
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
@@ -101,30 +101,30 @@ _Updated: 2026-01-07 16:51_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -137,8 +137,8 @@ _Updated: 2026-01-07 16:51_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -148,6 +148,7 @@ _Updated: 2026-01-07 16:51_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -160,5 +161,4 @@ _Updated: 2026-01-07 16:51_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
