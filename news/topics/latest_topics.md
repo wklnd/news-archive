@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 20:56_
+_Updated: 2026-01-07 21:41_
 
 ## Top Stories
 
 - Rubio: Ska mötas med Danmark nästa vecka - SVT Nyheter
 - Orange varning för snö i Göteborg – spårvagnar inställda - GP
 - Flera gymnasieskolor i Göteborg håller stängt på torsdagen - GP
-- Spionmisstänkt har jobbat inom Försvarsmakten - Expressen
 - Butiken utan ström i tre dygn – tvingades slänga mat för 73 000 - Expressen
+- Misstänkte spionen studerade IT-säkerhet i Karlskrona - SVT Nyheter
 - USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
-- 16-årige Rio dog i felskjutning – 17-åring döms för mord - Dagens Nyheter
+- Tonårspojke sköts till döds i Fruängen – 17-åring döms för mord - SVT Nyheter
 - Drunkningslarm i Värnamo – en person gick genom isen - SVT Nyheter
 - Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
+- Skurups kommun ställer in skolskjuts på grund av vädret - SVT Nyheter
+- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
 - Spänt mellan USA och Ryssland efter aktion mot oljetanker - Dagens Nyheter
-- Trump: Vi kommer alltid finnas där för Nato - DI
-- Maduro delar häkte med rappare och Luigi Mangione - Omni
-- 07 januari 17.00, Trafikolycka, Mjölby - Polisen.se
-- Affärsvärlden ger köpråd för Dynavox - Börsvärlden
+- Trump: Tvivlar på att Nato skulle ställa upp - Aftonbladet
+- Snöoväder i Europa – dödsolyckor och flygkaos - DI
 - Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet - Regeringen.se
 - Så gick e-handelsåret 2025 - Svensk Handel
+- ”Det behövs standardisering i AI-utbyggnaden” - Fastighetstidningen
 - Katarina Wolf: Ett hållbart företag kräver balans mellan arbete och fritid - Land Lantbruk och Skogsbruk
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 - Dolby sätter en ny standard för premiumunderhållning på CES 2026 - Via TT
@@ -62,14 +62,14 @@ _Updated: 2026-01-07 20:56_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Deepseek är det nya Linux - Computer Sweden
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Fokus på AI när IVA och Kronprinsessparet besöker Silicon Valley - Via TT
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Elon Musk presenterar sitt nya AI-företag - Gamereactor
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Deepseek är det nya Linux - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -101,14 +101,14 @@ _Updated: 2026-01-07 20:56_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -119,25 +119,25 @@ _Updated: 2026-01-07 20:56_
 
 ## Science
 
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
