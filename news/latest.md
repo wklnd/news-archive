@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-07 15:59_
+_Updated: 2026-01-07 16:56_
 
-- Russia sends navy to guard oil tanker being pursued by US forces - BBC
-- District of Massachusetts | Update on Investigation into Brown University and Brookline Shootings - Department of Justice (.gov)
+- 5 Democratic-run states are told that their child care funds have been frozen - Axios
 - A Jan. 6 plaque was made to honor law enforcement at the Capitol. Its whereabouts are unknown - PBS
+- Remarks at a UN Security Council Briefing on Venezuela - United States Mission to the United Nations (.gov)
 - Rep. Doug LaMalfa, a steadfast advocate for California’s North State, dies at 65 - CalMatters
-- Why Trump Refused to Back Venezuela’s Machado: Fears of Chaos, and Fraying Ties - The New York Times
-- Office of Public Affairs | Justice Department Sues Arizona and Connecticut for Failure to Produce Voter Rolls - Department of Justice (.gov)
+- Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine - consilium.europa.eu
+- Iran protests enter ninth day as Trump renews intervention threat - BBC
 - The LA wildfire victims still living in toxic homes: ‘We have nowhere else to go’ - The Guardian
-- New video released of person of interest in mysterious murders of Ohio dentist, wife - ABC News
-- President Trump says his voters loved the Venezuela attack — here’s what they think - AP News
-- Why does Trump want Greenland? - The New York Times
+- Trump triggers a renaissance for grand juries - Politico
+- Uvalde trial takes dramatic turn as key witness changes testimony - Texas Public Radio | TPR
+- Notorious CIA spy whose treachery caused the deaths of countless sources has died in federal prison - CNN
+- Yemen separatist leader accused of treason as Saudis strike forces - BBC
 - Trump’s plan to own the Western Hemisphere and Greenland is not what Americans want - CNN
-- What’s Your Reaction to the U.S. Military Operation in Venezuela? - The New York Times
 - Jubilee: Rite for the closing of Holy Door at St. Peter’s Basilica - Vatican News
-- WBD once again rejects Paramount offer in favor of Netflix deal - CNBC
-- DoorDash’s CEO blasts ‘appalling’ claim that a major delivery app gives drivers a desperation score: ‘I would fire anyone who tolerated this’ - Yahoo Finance
-- Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again) - The White House (.gov)
+- US adds more nations, including Venezuela, to costly visa bond policy - Reuters
 - Six dead and hundreds of flights cancelled as snow causes chaos across Europe - BBC
-- Asus made a GoPro-inspired ProArt PX13 laptop - The Verge
-- This 16-inch laptop is so light I can easily lift it with three fingers - The Verge
+- DoorDash’s CEO blasts ‘appalling’ claim that a major delivery app gives drivers a desperation score: ‘I would fire anyone who tolerated this’ - Yahoo Finance
+- Euro zone inflation hits 2% in December, in line with forecasts - CNBC
+- Wegovy obesity pill now available at pharmacies : Shots - Health News - NPR
 - HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard - Ars Technica
+- Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7 - The Verge
