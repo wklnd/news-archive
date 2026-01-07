@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 07:48_
+_Updated: 2026-01-07 08:57_
 
 ## Top Stories
 
 - Danmark och Grönland begär krismöte med USA – Trump utesluter inte militär insats - SVT Nyheter
 - En kvart – sedan släpps bomb rakt på sjukhuset - SvD
-- Vem inspireras av ett parkeringshus? - SvD
-- Tåg i krock med träd – 60 evakueras - Expressen
+- SMHI varnar – mer snö på väg - GP
+- 16-åring sköts till döds i Fruängen – nu kommer domen - SVT Nyheter
 - Trafikolycka under natten - Östersunds-Posten
-- Villabrand i Sorsele kommun - SVT Nyheter
+- 07 januari 07.00, Sammanfattning natt, Hallands län - polisen.se
 - Tre partier under spärren i december - Aftonbladet
-- Matpriser 2026: Lägre kostnader väntar svenskar - TV4 Nyheterna
 - Andreas Ek, 25, har varit fast i flygkaoset – i fyra dagar - Dagens Nyheter
-- Helikoptrar sätts in efter stormen: "Skapat stor oreda" - UNT
-- Ryska hundar sköts ihjäl i Norge - GP
-- DN Direkt – EU öppnar plånboken för att få igenom handelsavtal - Dagens Nyheter
+- SL: ”Var ute i god tid i kollektivtrafiken idag” - SVT Nyheter
+- 07 januari 07.41, Sammanfattning natt, Södermanlands län - polisen.se
+- Ryska hundar sköts ihjäl i Norge - Aftonbladet
+- Terrormisstankar efter strömavbrottet i Berlin - GP
+- Bisonoxar återvänder till prärie efter 200 år - Natursidan
 - Borgmästaren i Crans-Montana: Har förbjudit alla isfacklor inomhus - SVT Nyheter
-- Källa: Ryssland skickar ubåt till oljetanker - Aftonbladet
-- Så kan ditt bankkort kapas utan att det lämnat plånboken - Dagens PS
-- DEBATT: Biljettkontroller på villovägar - Arbetsvärlden
-- Fortsatt uppåt på börsen i USA - GP
-- Bryggarna om Bolaget: ”Svårt att växa” - Beernews
-- En anledning att köpa den sista Nokia-mobilen - mobil.se
-- Samsung visar upp vikbar skärm utan synligt veck - Swedroid
+- "Fattigmånaden" är här – så lagar du billig mat - UNT
+- Urstark krona gör svenska resenärer rika - Dagens Nyheter
+- De bäst presterande svenska aktierna 2025 - Morningstar Canada
+- X AI gör miljardrunda – under bikiniskandal - SvD
+- Grönt ljus för Kitrons förvärv av DeltaNordic - Evertiq
+- Motorola utökar smarta hemmet: Ny Moto Tag, klocka och wifi-högtalare - mobil.se
 
 ## World News
 
@@ -41,8 +41,8 @@ _Updated: 2026-01-07 07:48_
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -60,16 +60,16 @@ _Updated: 2026-01-07 07:48_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- AI stocks to watch: CoreWeave (CRWV), Nebius (NBIS), SoundHound AI (SOUN) - Markets.com
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Deepseek är det nya Linux - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
