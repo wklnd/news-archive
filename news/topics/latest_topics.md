@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-07 23:43_
+_Updated: 2026-01-08 00:46_
 
 ## Top Stories
 
-- Rubio: Möte med Danmark om Grönland nästa vecka - Dagens Nyheter
-- Butiken utan ström i tre dygn – tvingades slänga mat för 73 000 - Expressen
-- Kvinna skjuten till döds av ICE-agent - Sydsvenskan
+- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
+- Simon, 36, går in i tolfte dagen utan el: ”Blivit en del knäckemackor” - Aftonbladet
 - Misstänkte spionen studerade IT-säkerhet i Karlskrona - SVT Nyheter
+- Trafikkontoret: ”Vi ska klara de flesta snöfall” - SvD
 - USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
 - Snöoväder - så håller du koll på läget - Uddevalla kommun
+- Flera gymnasieskolor i Göteborg håller stängt på torsdagen - GP
 - Tonårspojke sköts till döds i Fruängen – 17-åring döms för mord - SVT Nyheter
-- Orange varning för snö i Göteborg – spårvagnar inställda - GP
-- Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
+- Räddad ur isvak - förd till sjukhus - Västerbottens-Kuriren
+- Efter krismötet – så hanterade Göteborgs stad snökaoset - GP
+- Unik stridstrumpet från järnåldern hittad i Storbritannien - Dagens Nyheter
 - Trump: Tvivlar på att Nato skulle ställa upp - Västerbottens-Kuriren
 - (+) Högerdebattören kritisk mot julottans ”ideologifostran” - Kyrkans Tidning
 - God afton, herr Wallenberg – Bio i Lund - Kino.nu
-- Lennart Wretlind: Mina fem minuter med Patti Smith - Senioren
 - Julledigt – då höjde två banker sina boräntor - SvD
-- Försvarsaktier faller efter Trumps utspel - DI
-- Snön orsakar inställda avgångar: ”Det är kaos” - Norra Halland
-- Svenskfavoriten rasar på Nasdaq efter budrykte - DI
-- Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
-- Dolby sätter en ny standard för premiumunderhållning på CES 2026 - Via TT
+- ”Det behövs standardisering i AI-utbyggnaden” - Fastighetstidningen
+- Katarina Wolf: Ett hållbart företag kräver balans mellan arbete och fritid - Land Lantbruk och Skogsbruk
+- Frösöbageriet kan räddas - Östersunds-Posten
+- Asus presenterar router med WiFi 8 - mobil.se
+- CES 2026: FiiO M33 R2R kombinerar R2R-ljud med Android i miniformat - Teknikveckan
 
 ## World News
 
@@ -31,19 +31,19 @@ _Updated: 2026-01-07 23:43_
 - Amerikanska bolag slipper global minimiskatt - SvD
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -62,14 +62,14 @@ _Updated: 2026-01-07 23:43_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Deepseek är det nya Linux - Computer Sweden
-- Elon Musk presenterar sitt nya AI-företag - Gamereactor
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Elon Musk presenterar sitt nya AI-företag - Gamereactor
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Deepseek är det nya Linux - Computer Sweden
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
-- Skolelever med koncentrationsproblem uppskattar AI-stöd mest - Computer Sweden
 
 ## Business
 
@@ -78,12 +78,14 @@ _Updated: 2026-01-07 23:43_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -91,8 +93,6 @@ _Updated: 2026-01-07 23:43_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2026-01-07 23:43_
 
 ## Science
 
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
