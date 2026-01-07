@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 00:46_
+_Updated: 2026-01-08 01:42_
 
 ## Top Stories
 
-- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
+- Rubio: Träffar danska representanter nästa vecka - Västerbottens-Kuriren
 - Simon, 36, går in i tolfte dagen utan el: ”Blivit en del knäckemackor” - Aftonbladet
+- SMHI snövarnar: ”Vräker på ordentligt just nu” - Dagens Nyheter
+- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
+- Man påträffad avliden i vatten - Expressen
 - Misstänkte spionen studerade IT-säkerhet i Karlskrona - SVT Nyheter
-- Trafikkontoret: ”Vi ska klara de flesta snöfall” - SvD
-- USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
-- Snöoväder - så håller du koll på läget - Uddevalla kommun
-- Flera gymnasieskolor i Göteborg håller stängt på torsdagen - GP
 - Tonårspojke sköts till döds i Fruängen – 17-åring döms för mord - SVT Nyheter
+- Orange varning för snö i Göteborg – spårvagnar inställda - GP
 - Räddad ur isvak - förd till sjukhus - Västerbottens-Kuriren
-- Efter krismötet – så hanterade Göteborgs stad snökaoset - GP
+- Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
 - Unik stridstrumpet från järnåldern hittad i Storbritannien - Dagens Nyheter
 - Trump: Tvivlar på att Nato skulle ställa upp - Västerbottens-Kuriren
 - (+) Högerdebattören kritisk mot julottans ”ideologifostran” - Kyrkans Tidning
-- God afton, herr Wallenberg – Bio i Lund - Kino.nu
+- Syriens militär uppges bomba Aleppo - Västerbottens-Kuriren
 - Julledigt – då höjde två banker sina boräntor - SvD
-- ”Det behövs standardisering i AI-utbyggnaden” - Fastighetstidningen
-- Katarina Wolf: Ett hållbart företag kräver balans mellan arbete och fritid - Land Lantbruk och Skogsbruk
-- Frösöbageriet kan räddas - Östersunds-Posten
+- Trump föreslår rekordstor militärbudget för 2027 - SVT Nyheter
+- Dammsugar-bilen klar – dammar på rejält - Carup.se
+- Hotellanställd våldtog gäst – döms till fängelse - Expressen
 - Asus presenterar router med WiFi 8 - mobil.se
-- CES 2026: FiiO M33 R2R kombinerar R2R-ljud med Android i miniformat - Teknikveckan
+- Intel-aktien stiger med 10 % efter CES-avslöjandet: är AI-datorer nästa stora katalysator? - Invezz
 
 ## World News
 
@@ -31,19 +31,19 @@ _Updated: 2026-01-08 00:46_
 - Amerikanska bolag slipper global minimiskatt - SvD
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -51,8 +51,8 @@ _Updated: 2026-01-08 00:46_
 ## Technology
 
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
@@ -60,14 +60,14 @@ _Updated: 2026-01-08 00:46_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Elon Musk presenterar sitt nya AI-företag - Gamereactor
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Deepseek är det nya Linux - Computer Sweden
+- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 - AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 - Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
 
@@ -78,14 +78,12 @@ _Updated: 2026-01-08 00:46_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -93,6 +91,8 @@ _Updated: 2026-01-08 00:46_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,43 +101,43 @@ _Updated: 2026-01-08 00:46_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Engineering Health 2024 - Chalmers
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
