@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 17:50_
+_Updated: 2026-01-08 18:57_
 
 ## Top Stories
 
-- Flera skolor stänger - Sundsvalls Tidning
-- Västtrafik om snöovädret: ”Ingen normal situation” - GP
 - Efter Trumps utspel om Grönland: Danmark bekräftar möte med Rubio - SVT Nyheter
-- EU ingriper då AI-verktyget Grok skapar olagliga bilder på barn och kvinnor - Yle
-- Regeringen har bjudit in riksdagspartierna att nominera ledamöter till Försvarsberedningen - Regeringen.se
-- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- 08 januari 13.28, Försvunnen person, Uddevalla - Polisen.se
-- Så tacklade värmlänningarna snöovädret: ”Han mår som en kung” - NWT
+- Skräckexemplet tas upp i Tyskland - SvD
+- Vy buss ställer in skolskjutsen torsdag 8 januari - Lerums kommun
+- Ödesdag i Australien: ”Ostoppbara” bränder - SvD
+- Västtrafik om snöovädret: ”Ingen normal situation” - GP
 - Information om skolskjuts med anledning av snön - Mönsterås kommun
-- Gymnasiet håller stängt – elever och lärare arbetar hemifrån under fredagen - Harnosand.se
-- USA drar sig ur viktigt klimatavtal - Hufvudstadsbladet
-- Moskva: Utländska styrkor i Ukraina ”legitima mål” - Sydsvenskan
-- UPPDATERAS: Massiva strömavbrott i regionerna Zaporizjzjia och Dnipropetrovsk - extrema ryska förluster - nya breda amerikanska oljesanktioner på gång - cornucopia.se
-- Ilska i Berlin – efter flera pinsamma incidenter - SvD
-- Zalando stänger logistikcenter – 2.700 riskerar jobbet - DI
-- Brutal logik bakom nya pensionsregler - SvD
-- Allt fler bostadsbolag arbetar vräkningsförebyggande – men avhysningarna fortsätter att öka - Sveriges Allmännytta
+- Chatt med SVT:s meteorolog och Trafikverket - SVT Nyheter
+- 08 januari 13.28, Försvunnen person, Uddevalla - Polisen.se
+- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
+- 08 januari 17.34, Trafikkontroll, Västerbottens län - Polisen.se
+- USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
+- Över en miljon utan vatten och värme i Ukraina - ETC.se
+- Ovanlig födsel i nationalpark: Tvillinggorillor - GP
+- Pepes stoppar isfacklor efter dödsbranden i Schweiz - bjarenu.se
+- Förändring i Studsvik: Segra Capital, ett investeringsbolag med fokus på kärnkraft, blir storägare - Cision News
+- Enbart förebyggande insatser räcker inte - Fastighetstidningen
 - Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
+- Regeringen missar chansen att leda energieffektiviseringen - Altinget.se
 - Microsoft skrotar kritiserad ändring i Exchange Online - Computer Sweden
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 
@@ -30,20 +30,20 @@ _Updated: 2026-01-08 17:50_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Amerikanska bolag slipper global minimiskatt - SvD
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -103,42 +103,42 @@ _Updated: 2026-01-08 17:50_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
