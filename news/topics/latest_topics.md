@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 15:57_
+_Updated: 2026-01-08 16:53_
 
 ## Top Stories
 
-- Uppgifter: Katja Nyberg (SD) misstänkt för rattfylla - SVT Nyheter
+- SD-kvinna gripen för rattfylla – polisen hittade påse med misstänkt kokain - Aftonbladet
+- … och orange varningar för snö i Bohuslän, Göteborg och Västernorrland - cornucopia.se
 - Danmark bekräftar möte med Rubio - SVT Nyheter
-- Därför håller staden grundskolorna öppna - GP
-- 37-åriga Renee Nicole Good sköts till döds av ICE - Dagens Nyheter
+- Trump öppnar för att styra Venezuela – i flera år - Expressen
+- Flera skolor stänger - Sundsvalls Tidning
 - Västtrafik om snöovädret: ”Ingen normal situation” - GP
-- USA drar sig ur viktigt klimatavtal - SvD
 - 08 januari 13.28, Försvunnen person, Uddevalla - Polisen.se
 - Information om skolskjuts med anledning av snön - Mönsterås kommun
 - Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
 - 08 januari 13.09, Trafikkontroll, Norrbottens län - Polisen.se
 - Iranska protester spridda till alla provinser - Dagens Nyheter
+- Ovanlig födsel i nationalpark: Tvillinggorillor - GP
 - Ödesdag i Australien: ”Ostoppbara” bränder - SvD
-- Syriens militär uppges bomba Aleppo - Sydsvenskan
-- Moskva: Utländska styrkor i Ukraina legitima mål - SvD
-- Zalando stänger logistikcenter – 2.700 riskerar jobbet - DI
+- Nya protester mot Mercosur-avtal – traktorer i Paris - GP
 - Brutal logik bakom nya pensionsregler - SvD
+- Zalando stänger logistikcenter – 2.700 riskerar jobbet - DI
+- Kristersson om bilderna på Busch: Sexualiserat våld - Aftonbladet
 - Allt fler bostadsbolag arbetar vräkningsförebyggande – men avhysningarna fortsätter att öka - Sveriges Allmännytta
-- Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
 - Microsoft skrotar kritiserad ändring i Exchange Online - Computer Sweden
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 
@@ -41,8 +41,8 @@ _Updated: 2026-01-08 15:57_
 - Avlyssningsskandalen växer - Journalisten
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -65,11 +65,11 @@ _Updated: 2026-01-08 15:57_
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
-- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -125,14 +125,14 @@ _Updated: 2026-01-08 15:57_
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
