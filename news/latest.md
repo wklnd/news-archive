@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-08 21:49_
+_Updated: 2026-01-08 22:54_
 
-- Trump Says U.S. Oversight of Venezuela Could Last for Years - The New York Times
 - Greenlanders express fear and indignation as Trump eyes territory - BBC
-- IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
-- As part of the 2026–27 budget proposal, Governor Newsom proposes improving state education governance - California State Portal | CA.gov
 - FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
-- Governor Mills Announces Actions on Bills Held From Prior Legislative Session - Maine.gov
+- IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
+- Russian Offensive Campaign Assessment, January 7, 2026 - Institute for the Study of War
+- 2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever,' ICE says - PBS
+- The Menin era begins - City & State New York
+- Former Democratic House Majority Leader Steny Hoyer announces retirement after more than 40 years in Congress - abcnews.go.com
 - Venezuela and health care are the early focus for Congress in a busy start to 2026 - NPR
-- 2 dead, 6 wounded after shooting outside Salt Lake City funeral; no suspects in custody - abcnews.go.com
-- A year after LA fires, survivors face a perfect storm of insurance shortfalls and rising homebuilding costs - CNN
-- U.S Disasters Cost U.S. More Than $100 Billion in 2025 - The New York Times
+- Uvalde officer trial: Judge tosses testimony of key prosecution witness - abcnews.go.com
+- 'States should lead:' McMahon grants Iowa first-of-its-kind education funding waiver - abcnews.go.com
+- Senate Agrees to Vote on Reining in Trump's Use of Force in Venezuela: Live Updates - The New York Times
 - Lebanon: Army says has taken over security in Hezbollah-dominated south - BBC
-- Leo’s consistory, Francis’ legacy - The Pillar
-- Blackout in Ukraine leaves 1mn without power in freezing weather - Financial Times
-- Australia to hold wide-ranging inquiry into antisemitism after Bondi attack - Reuters
-- Google and AI startup to settle lawsuits alleging chatbots led to teen suicide - The Guardian
+- China and Japan, uneasy neighbors in East Asia, are at odds again - AP News
+- French farmers force their way through Paris with tractors to protest free trade deal - abcnews.go.com
+- Billionaires Are Ramping Up Their California Exits on Threat of Wealth Tax - Bloomberg.com
+- Paramount Reaffirms $30 A Share Cash Offer For Warner Bros. Discovery - Deadline
+- Why Trump is going after institutional homebuyers: They dominate markets like Atlanta, Jacksonville - CNBC
 - The Tech That Will Invade Our Lives in 2026 - The New York Times
-- China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus - The New York Times
-- Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly
 - Bose is open-sourcing its old smart speakers instead of bricking them - The Verge
-- The Lego Smart Brick backlash, explained - Creative Bloq
+- Lenovo CEO addresses AI skeptics at CES: 'Nobody can avoid it.' - Mashable
