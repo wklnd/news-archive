@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 10:55_
+_Updated: 2026-01-08 11:50_
 
 ## Top Stories
 
-- Västtrafik om väderläget: ”Som igår fast värre” – Väder- och trafikläget i landet - SVT Nyheter
-- Experter: Oljan inte målet med USA:s attack mot Venezuela - SvD
-- Planen för att stoppa Trumps planer för Grönland - Expressen
+- Västtrafik om snöovädret: ”Ingen normal situation” - GP
 - Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
 - Inställda bussar efter kraftigt snöfall över Värmland - SVT Nyheter
-- Simon, 36, går in i tolfte dagen utan el: ”Blivit en del knäckemackor” - Aftonbladet
-- Ellinor övervann ångesten – klarade skolan på distans - Dagens Nyheter
-- Orange varning för snö i Göteborg – spårvagnar inställda - GP
-- Fortfarande strul i tågtrafiken - UNT
+- USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
 - Fem av årets mest lästa debatter på Altinget Vård och Hälsa - Altinget.se
+- Inflationen föll oväntat – kronan backar något - SVT Nyheter
+- Ellinor övervann ångesten – klarade skolan på distans - Dagens Nyheter
+- Börje levde strömlöst i tio dagar: ”Tufft” - Västerbottens-Kuriren
+- Fortfarande strul i tågtrafiken - UNT
+- Lerums gymnasium ställer in all undervisning på torsdag! - Lerums kommun
+- Minister: 100 döda i Venezuela – Maduro skadad - GP
+- Shahens son: Iran redo för demokratisk övergång - Hufvudstadsbladet
 - Libanon: Första fasen av Hizbollahs avväpning klar – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Nya protester mot Mercosur-avtal – traktorer i Paris - GP
 - USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
-- Siffrorna visar: Svantesson gjorde de rikaste rikare - Arbetet
 - Svenska elreserven säkrad i vinter - SvD
+- Då kan miljoner av din pension gå upp i rök - Dagens PS
 - Tudelade sparsignaler från hushållen inför 2026 - sebgroup.com
-- Regeringen missar chansen att leda energieffektiviseringen - Altinget.se
-- Påminnelse: Lämna synpunkter gällande funktioner i ett centralt datahanteringsverktyg - Energimarknadsinspektionen
+- Allt fler bostadsbolag arbetar vräkningsförebyggande – men avhysningarna fortsätter att öka - Sveriges Allmännytta
+- AMD visar upp nya AI-chipp för datacenter - Computer Sweden
 - Instrument ska kartlägga 20 miljoner stjärnor och galaxer - Uppsala universitet
-- CES: OMEN + HyperX blir “HyperX” - Teknikveckan
 
 ## World News
 
@@ -78,10 +78,11 @@ _Updated: 2026-01-08 10:55_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2026-01-08 10:55_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -112,10 +112,10 @@ _Updated: 2026-01-08 10:55_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -126,18 +126,18 @@ _Updated: 2026-01-08 10:55_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -146,8 +146,8 @@ _Updated: 2026-01-08 10:55_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -158,7 +158,7 @@ _Updated: 2026-01-08 10:55_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
