@@ -1,29 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 22:47_
-
-## Top Stories
-
-- Efter Trumps utspel om Grönland: Danmark bekräftar möte med Rubio - SVT Nyheter
-- Äldre kvinna halsade vodka och åt chips – innan attack - Expressen
-- Samantha, 28, blev felaktigt dödförklarad - Aftonbladet
-- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
-- Västtrafik om snöovädret: ”Ingen normal situation” - GP
-- Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
-- Rönningemordet: Det här vet vi om den misstänkta gärningsmannen 7 januari 2026 - P3 Krim - Sveriges Radio
-- Information om skolskjuts med anledning av snön - Mönsterås kommun
-- 08 januari 13.28, Försvunnen person, Uddevalla - polisen.se
-- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- Zelenskyj varnar för stor rysk attack mot Kyiv i natt - Omni
-- Venezuela: ”Stort antal” fångar ska släppas - Västerbottens-Kuriren
-- Äldre kvinna död efter lägenhetsbrand i Lessebo - SVT Nyheter
-- Över en miljon utan vatten och värme i Ukraina - ETC.se
-- Nytt hopp för krisande Stegra: ”Såg jävligt mörkt ut” - Dagens Nyheter
-- Q&A: Mediaprofessorn Andrew deWaard förklarar Netflixaffären - bon.se
-- Enbart förebyggande insatser räcker inte - Fastighetstidningen
-- Pengarna flödar över AI-jättarna - SvD
-- Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
-- Höga poäng för nya chippet Snapdragon X2 Elite - PC för Alla
+_Updated: 2026-01-08 23:43_
 
 ## World News
 
@@ -38,12 +15,12 @@ _Updated: 2026-01-08 22:47_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -77,8 +54,8 @@ _Updated: 2026-01-08 22:47_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -92,7 +69,7 @@ _Updated: 2026-01-08 22:47_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -105,16 +82,16 @@ _Updated: 2026-01-08 22:47_
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -150,15 +127,15 @@ _Updated: 2026-01-08 22:47_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Lediga jobb - Land Lantbruk
