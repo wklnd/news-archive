@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 00:47_
+_Updated: 2026-01-09 01:41_
 
 ## Top Stories
 
 - Efter Trumps utspel om Grönland: Danmark bekräftar möte med Rubio - SVT Nyheter
+- Västtrafik om snöovädret: ”Ingen normal situation” - GP
+- Renee Good, 37 sköts ihjäl av ICE – stora protester i Minnesota - GP
+- Väktare patrullerar vid äldreboende – efter konflikt mellan anställda - GP
 - Hela Iran utan internet - SVT Nyheter
-- Västtrafik: Därför kör inte bussarna i snöovädret i Göteborg - GP
-- Samantha, 28, blev felaktigt dödförklarad - Aftonbladet
-- Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
-- Röd varning för snö i Ångermanland - Dagens Nyheter
+- Ö-viks sjukhus upp i stabsläge - Allehanda.se
 - Han köpte militärens bergrum för 42 000 kronor – får inte veta vad som gömmer sig där - Dagens Nyheter
+- Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
 - Information om skolskjuts med anledning av snön - Mönsterås kommun
 - Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- 08 januari 17.34, Trafikkontroll, Västerbottens län - polisen.se
 - Syriens militär uppges bomba Aleppo - SVT Nyheter
 - Zelenskyj: Säkerhetsgarantier ”i stort sett redo” - Hufvudstadsbladet
-- Trump antyder: Natos framtid ställs mot Grönlands - Aftonbladet
-- Zelenskyj varnar för stor rysk attack mot Kyiv i natt - Omni
-- Q&A: Mediaprofessorn Andrew deWaard förklarar Netflixaffären - bon.se
+- ISS-astronauter åker hem – medicinskt problem - Omni
+- Äldre kvinna halsade vodka och åt chips – innan attack - Expressen
+- Studsvik får investmentbolag som ny storägare - DI
 - Enbart förebyggande insatser räcker inte - Fastighetstidningen
-- Receptet för TIN:s nya småbolagsfond: 15% – annars åker bolaget ut - Affärsvärlden
+- KAN VARA PÅ RÄTT VÄG IGEN, KÖP - AFV - Placera.se
 - Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 - IKEA lanserar billig snabbladdare - mobil.se
@@ -74,12 +74,14 @@ _Updated: 2026-01-09 00:47_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -91,8 +93,6 @@ _Updated: 2026-01-09 00:47_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -107,13 +107,13 @@ _Updated: 2026-01-09 00:47_
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
@@ -147,13 +147,12 @@ _Updated: 2026-01-09 00:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2026-01-09 00:47_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Lediga jobb - Land Lantbruk
