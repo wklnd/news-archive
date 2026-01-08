@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 19:51_
+_Updated: 2026-01-08 20:54_
 
 ## Top Stories
 
-- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
+- Misstänkta mördaren gömde kroppsdelar i kylen - Expressen
+- USA:s senat kräver godkännande inför nya attacker - Aftonbladet
 - Skräckexemplet tas upp i Tyskland - SvD
-- Experter: Oljan inte målet med USA:s attack mot Venezuela - SvD
-- Hanna, 18, försvunnen i Uddevalla - Aftonbladet
-- Information om skolskjuts med anledning av snön - Mönsterås kommun
-- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- Chatt med SVT:s meteorolog och Trafikverket - SVT Nyheter
+- Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
+- Misstänkt spion var it-konsult på försvaret - SvD
+- Ilskan efter avklädda AI-bilden på Busch: ”Förbannad” - Expressen
 - Evakuering av äldre förbereds under snöstormen - Dagens Nyheter
-- Västtrafik om snöovädret: ”Ingen normal situation” - GP
-- Största stormskadorna på skogen på tio år - Tidningen Näringslivet
+- Chatt med SVT:s meteorolog och Trafikverket - SVT Nyheter
+- Information om skolskjuts med anledning av snön - Mönsterås kommun
+- 08 januari 17.34, Trafikkontroll, Västerbottens län - polisen.se
 - Libanon: Första fasen av Hizbollahs avväpning klar – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Över en miljon utan vatten och värme i Ukraina - ETC.se
-- Syriens militär uppges bomba Aleppo - Aftonbladet
+- Konsistorium: Kardinalerna väljer synodalitet och mission som teman för reflektion - Vatican News
 - USA bordade ryskflaggad oljetanker på flykt från Venezuela - Yle
-- Förändring i Studsvik: Segra Capital, ett investeringsbolag med fokus på kärnkraft, blir storägare - Cision News
-- Kristersson om bilderna på Busch: Sexualiserat våld - Aftonbladet
+- USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
+- Nytt hopp för krisande Stegra: ”Såg jävligt mörkt ut” - Dagens Nyheter
+- SHB upprepar köp för SSAB - stigande priser väntas på nyckelmarknader - Placera.se
+- Tunnlar och källare kan bli skyddsrum vid krig - Aftonbladet
 - Enbart förebyggande insatser räcker inte - Fastighetstidningen
-- Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
-- Microsoft skrotar kritiserad ändring i Exchange Online - Computer Sweden
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
+- Instrument ska kartlägga 20 miljoner stjärnor och galaxer - Uppsala universitet
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Amerikanska bolag slipper global minimiskatt - SvD
-- Wendy Lund utsedd till global VD för Allison Worldwide av Investing.com - Investing.com Sverige
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -41,9 +40,10 @@ _Updated: 2026-01-08 19:51_
 - Avlyssningsskandalen växer - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -52,23 +52,23 @@ _Updated: 2026-01-08 19:51_
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
@@ -101,44 +101,44 @@ _Updated: 2026-01-08 19:51_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Engineering Health 2024 - Chalmers
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
