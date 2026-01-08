@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 09:45_
+_Updated: 2026-01-08 10:55_
 
 ## Top Stories
 
 - Västtrafik om väderläget: ”Som igår fast värre” – Väder- och trafikläget i landet - SVT Nyheter
+- Experter: Oljan inte målet med USA:s attack mot Venezuela - SvD
+- Planen för att stoppa Trumps planer för Grönland - Expressen
 - Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
-- USA och Danmark ska ha möte om Grönland - Expressen
 - Inställda bussar efter kraftigt snöfall över Värmland - SVT Nyheter
-- USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
+- Simon, 36, går in i tolfte dagen utan el: ”Blivit en del knäckemackor” - Aftonbladet
+- Ellinor övervann ångesten – klarade skolan på distans - Dagens Nyheter
+- Orange varning för snö i Göteborg – spårvagnar inställda - GP
+- Fortfarande strul i tågtrafiken - UNT
 - Fem av årets mest lästa debatter på Altinget Vård och Hälsa - Altinget.se
-- Börje levde strömlöst i tio dagar: ”Tufft” - Västerbottens-Kuriren
-- Rättegång mot Joakim Medin kan skjutas upp: ”Sverige har inte agerat i tid” - SVT Nyheter
-- Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Man hittad död i sjö i Leksand – gick genom isen - SVT Nyheter
-- Donald Trump och Gustavo Petro i samtal: ”Det svänger snabbt” - SVT Nyheter
-- Konsistorium: Kardinalerna väljer synodalitet och mission som teman för reflektion - Vatican News
+- Libanon: Första fasen av Hizbollahs avväpning klar – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Nya protester mot Mercosur-avtal – traktorer i Paris - GP
+- USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
 - Siffrorna visar: Svantesson gjorde de rikaste rikare - Arbetet
-- Mindre socker och mer rött kött i USA:s nya kostråd: ”Väldigt retro” - Omni
-- Inflationen föll oväntat – kronan backar något - SVT Nyheter
-- Brutal logik bakom nya pensionsregler - SvD
+- Svenska elreserven säkrad i vinter - SvD
 - Tudelade sparsignaler från hushållen inför 2026 - sebgroup.com
-- Mindre ökning av antalet sysselsatta i USA:s privata sektor än väntat - DI
+- Regeringen missar chansen att leda energieffektiviseringen - Altinget.se
+- Påminnelse: Lämna synpunkter gällande funktioner i ett centralt datahanteringsverktyg - Energimarknadsinspektionen
+- Instrument ska kartlägga 20 miljoner stjärnor och galaxer - Uppsala universitet
 - CES: OMEN + HyperX blir “HyperX” - Teknikveckan
-- Asus presenterar router med WiFi 8 - mobil.se
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Amerikanska bolag slipper global minimiskatt - SvD
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -103,24 +103,25 @@ _Updated: 2026-01-08 09:45_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -129,16 +130,15 @@ _Updated: 2026-01-08 09:45_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-01-08 09:45_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -160,5 +160,5 @@ _Updated: 2026-01-08 09:45_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
