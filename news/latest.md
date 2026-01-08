@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-08 19:02_
+_Updated: 2026-01-08 19:56_
 
-- Senators force third war powers vote to limit Trump's strikes on Venezuela - CBS News
-- FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
 - Trump Says U.S. Oversight of Venezuela Could Last for Years - The New York Times
-- Withdrawal from Wasteful, Ineffective, or Harmful International Organizations - U.S. Department of State (.gov)
+- FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
 - Joint statement by the Nordic Foreign Ministers on Greenland - Government.se
-- Colombia’s President Feared a U.S. Attack. Then Trump Called. - The New York Times
-- 2 dead, 6 wounded after shooting outside Salt Lake City funeral; no suspects in custody - abcnews.go.com
+- Russian Offensive Campaign Assessment, January 7, 2026 - Institute for the Study of War
+- IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
+- Donald Trump's Venezuela risk brings risk to China's plans - BBC
+- New Dietary Guidelines Abandon Longstanding Advice on Alcohol - The New York Times
 - House to vote on renewing ACA subsidies as a potential deal takes shape in the Senate - NPR
-- 'States should lead:' McMahon grants Iowa first-of-its-kind education funding waiver - abcnews.go.com
+- Separate and alone: How Nicolás Maduro and his wife can expect to be treated in jail - CNN
 - A year after LA fires, survivors face a perfect storm of insurance shortfalls and rising homebuilding costs - CNN
 - French farmers force their way through Paris with tractors to protest free trade deal - abcnews.go.com
-- Why Russian Tourists Are Flocking to Southern China’s Beaches - The New York Times
-- AI tool Grok used to create child sexual abuse imagery, watchdog says - The Guardian
-- Blackout in Ukraine leaves 1mn without power in freezing weather - Financial Times
-- Expect the unexpected in the last jobs report of 2025 - CNN
+- Russian Strikes Knock Out Power in Dnipro Region of Ukraine - The New York Times
+- Philippines evacuates 3,000 people after activity increases at Mayon Volcano - abcnews.go.com
+- Saudi-backed forces move to capture key Yemeni city as crisis with UAE deepens - CNN
+- Why Trump is going after institutional homebuyers: They dominate markets like Atlanta, Jacksonville - CNBC
+- The Tech That Will Invade Our Lives in 2026 - The New York Times
 - California’s exodus isn’t just billionaires — it’s regular people renting U-Hauls, too - Los Angeles Times
-- The Venezuela Polymarket Scandal Is Looking Really Bad - Futurism
-- CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry - hyundai.com
-- Wi-Fi 8 is already peeking out at CES 2026, even though it won't be finished until 2028 - TechSpot
-- Google Messages getting new long-press menu for texts, images - 9to5Google
+- Slightly more Americans file for jobless benefits in the last week of 2025, but layoffs remain low - abcnews.go.com
+- The Lego Smart Brick backlash, explained - Creative Bloq
+- Asus gave us a first look at its Wi-Fi 8 router at CES, and it's nothing we could've expected - ZDNET
