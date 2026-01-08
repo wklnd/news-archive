@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 04:32_
+_Updated: 2026-01-08 05:51_
 
 ## Top Stories
 
+- USA och Danmark ska ha möte om Grönland - Expressen
 - Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
-- Orange varning för snö i Göteborg – spårvagnar inställda - GP
-- Evakueringar efter vulkanaktivitet - Aftonbladet
+- Tolv dygn utan ström i Söderhamn: ”Man resignerar” - Aftonbladet
+- Evakueringar efter vulkanaktivitet i Filippinerna - SVT Nyheter
 - Misstänkte spionen studerade IT-säkerhet i Karlskrona - SVT Nyheter
 - USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
-- Förslag om ersättning när artskydd begränsar markanvändning - Regeringen.se
-- Börje levde strömlöst i tio dagar: ”Tufft” - Dagens Nyheter
-- Snöröjning pågår i hela kommunen - Värnamo kommun
+- Orange varning för snö i Göteborg – spårvagnar inställda - GP
+- Fem av årets mest lästa debatter på Altinget Vård och Hälsa - Altinget.se
 - Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
 - Man hittad död i sjö i Leksand – gick genom isen - SVT Nyheter
 - Spänt mellan USA och Ryssland efter aktion mot oljetanker - Dagens Nyheter
-- Trump: Tvivlar på att Nato skulle ställa upp - Västerbottens-Kuriren
 - USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
+- Fem av årets mest lästa debatter på Altinget Arbetsmarknad - Altinget.se
 - Avlidne dykaren hämtad i gruvan efter olyckan - Omni
 - Julledigt – då höjde två banker sina boräntor - SvD
-- Oväder i Europa – dödsolyckor och flygkaos - GP
-- ”Det behövs standardisering i AI-utbyggnaden” - Fastighetstidningen
-- Hotellanställd våldtog gäst – döms till fängelse - Expressen
+- Regeringen missar chansen att leda energieffektiviseringen - Altinget.se
+- Sexdagarsveckor och söndagsjobb på Volvo i Umeå: ”Då blir man slutkörd” - Dagens Arbete
+- Företagen vill växa men kan stoppas av effektbrist: ”Djupt problematiskt” - Tidningen Näringslivet
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 - CES: OMEN + HyperX blir “HyperX” - Teknikveckan
 
@@ -50,26 +50,26 @@ _Updated: 2026-01-08 04:32_
 
 ## Technology
 
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Elon Musk presenterar sitt nya AI-företag - Gamereactor
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - Deepseek är det nya Linux - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
-- Microsoft-koalition ska investera 100 miljarder dollar i AI-infrastruktur - Computer Sweden
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
 
 ## Business
 
@@ -101,20 +101,20 @@ _Updated: 2026-01-08 04:32_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2026-01-08 04:32_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
