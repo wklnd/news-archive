@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 20:54_
+_Updated: 2026-01-08 21:41_
 
 ## Top Stories
 
+- Efter Trumps utspel om Grönland: Danmark bekräftar möte med Rubio - SVT Nyheter
 - Misstänkta mördaren gömde kroppsdelar i kylen - Expressen
-- USA:s senat kräver godkännande inför nya attacker - Aftonbladet
-- Skräckexemplet tas upp i Tyskland - SvD
+- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
+- Så här hanterar vi den stora mängden av snö - Västerås stad
 - Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
-- Misstänkt spion var it-konsult på försvaret - SvD
-- Ilskan efter avklädda AI-bilden på Busch: ”Förbannad” - Expressen
-- Evakuering av äldre förbereds under snöstormen - Dagens Nyheter
-- Chatt med SVT:s meteorolog och Trafikverket - SVT Nyheter
 - Information om skolskjuts med anledning av snön - Mönsterås kommun
+- Evakuering av äldre förbereds under snöstormen - Dagens Nyheter
+- Ovanligt mycket snö för Göteborg – historiskt sett - GP
 - 08 januari 17.34, Trafikkontroll, Västerbottens län - polisen.se
-- Libanon: Första fasen av Hizbollahs avväpning klar – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Konsistorium: Kardinalerna väljer synodalitet och mission som teman för reflektion - Vatican News
-- USA bordade ryskflaggad oljetanker på flykt från Venezuela - Yle
-- USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
+- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
+- Venezuela: ”Stort antal” fångar ska släppas - Aftonbladet
+- Därför lägger Trump beslag på miljoner fat venezuelansk olja - Dagens Nyheter
+- Amerikanska senaten röstar mot Trumps förslag - EFN.se
+- Äldre kvinna död efter lägenhetsbrand i Lessebo - SVT Nyheter
 - Nytt hopp för krisande Stegra: ”Såg jävligt mörkt ut” - Dagens Nyheter
-- SHB upprepar köp för SSAB - stigande priser väntas på nyckelmarknader - Placera.se
-- Tunnlar och källare kan bli skyddsrum vid krig - Aftonbladet
 - Enbart förebyggande insatser räcker inte - Fastighetstidningen
+- Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
+- Saab och Sobi mot strömmen - placera.se
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 - Instrument ska kartlägga 20 miljoner stjärnor och galaxer - Uppsala universitet
 
