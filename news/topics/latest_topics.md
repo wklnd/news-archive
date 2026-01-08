@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 15:22_
+_Updated: 2026-01-08 15:57_
 
 ## Top Stories
 
-- Danmark bekräftar möte med Rubio - SVT Nyheter
 - Uppgifter: Katja Nyberg (SD) misstänkt för rattfylla - SVT Nyheter
-- Västtrafik om snöovädret: ”Ingen normal situation” - GP
-- Polis åtalas för våldtäkt mot barn - LT
-- 08 januari 07.59, Farligt föremål, misstänkt, Borås - polisen.se
-- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
-- Fem av årets mest lästa debatter på Altinget Vård och Hälsa - Altinget.se
-- 08 januari 13.09, Trafikkontroll, Norrbottens län - polisen.se
-- Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
-- Information om skolskjuts med anledning av snön - Mönsterås kommun
+- Danmark bekräftar möte med Rubio - SVT Nyheter
+- Därför håller staden grundskolorna öppna - GP
 - 37-åriga Renee Nicole Good sköts till döds av ICE - Dagens Nyheter
-- Över en miljon utan vatten och värme i Ukraina - Aftonbladet
-- Dödstalen stiger i Iranprotester - SVT Nyheter
+- Västtrafik om snöovädret: ”Ingen normal situation” - GP
+- USA drar sig ur viktigt klimatavtal - SvD
+- 08 januari 13.28, Försvunnen person, Uddevalla - Polisen.se
+- Information om skolskjuts med anledning av snön - Mönsterås kommun
+- Energi- och näringsminister Ebba Busch besöker Ockelbo - Regeringen.se
+- 08 januari 13.09, Trafikkontroll, Norrbottens län - Polisen.se
+- Iranska protester spridda till alla provinser - Dagens Nyheter
 - Ödesdag i Australien: ”Ostoppbara” bränder - SvD
+- Syriens militär uppges bomba Aleppo - Sydsvenskan
+- Moskva: Utländska styrkor i Ukraina legitima mål - SvD
 - Zalando stänger logistikcenter – 2.700 riskerar jobbet - DI
 - Brutal logik bakom nya pensionsregler - SvD
-- Volvo Cars dementerar återkallelse av bilar - DI
 - Allt fler bostadsbolag arbetar vräkningsförebyggande – men avhysningarna fortsätter att öka - Sveriges Allmännytta
+- Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
 - Microsoft skrotar kritiserad ändring i Exchange Online - Computer Sweden
 - Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 
@@ -56,6 +56,7 @@ _Updated: 2026-01-08 15:22_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -64,12 +65,11 @@ _Updated: 2026-01-08 15:22_
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2026-01-08 15:22_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-08 15:22_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
