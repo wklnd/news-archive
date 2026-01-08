@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-08 11:50_
+_Updated: 2026-01-08 12:50_
 
 ## Top Stories
 
+- Danmark bekräftar möte med Rubio - SVT Nyheter
 - Västtrafik om snöovädret: ”Ingen normal situation” - GP
-- Minneapolis borgmästare kritiserar ICE-skjutning - SVT Nyheter
+- Karl Dalén: Det var en tidsfråga innan en tragedi skulle ske - Dagens Nyheter
 - Inställda bussar efter kraftigt snöfall över Värmland - SVT Nyheter
-- USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
-- Fem av årets mest lästa debatter på Altinget Vård och Hälsa - Altinget.se
-- Inflationen föll oväntat – kronan backar något - SVT Nyheter
-- Ellinor övervann ångesten – klarade skolan på distans - Dagens Nyheter
-- Börje levde strömlöst i tio dagar: ”Tufft” - Västerbottens-Kuriren
-- Fortfarande strul i tågtrafiken - UNT
+- Simon, 36, går in i tolfte dagen utan el: ”Blivit en del knäckemackor” - Aftonbladet
+- Polis åtalas för våldtäkt mot barn - SVT Nyheter
 - Lerums gymnasium ställer in all undervisning på torsdag! - Lerums kommun
-- Minister: 100 döda i Venezuela – Maduro skadad - GP
-- Shahens son: Iran redo för demokratisk övergång - Hufvudstadsbladet
-- Libanon: Första fasen av Hizbollahs avväpning klar – Senaste nytt om kriget i Gaza - SVT Nyheter
-- USA lämnar 60-tal internationella organisationer - Västerbottens-Kuriren
-- Svenska elreserven säkrad i vinter - SvD
-- Då kan miljoner av din pension gå upp i rök - Dagens PS
-- Tudelade sparsignaler från hushållen inför 2026 - sebgroup.com
+- Fem av årets mest lästa debatter på Altinget Vård och Hälsa - Altinget.se
+- Välkommen att kontakta oss om du har hjälpbehov - Söderhamns kommun
+- Vy buss ställer in skolskjutsen torsdag 8 januari - Lerums kommun
+- Ödesdag i Australien: ”Ostoppbara” bränder - SvD
+- SD-ledamot gripen för grov rattfylla - Folkbladet
+- USA lämnar 60-tal internationella organisationer - Hufvudstadsbladet
+- Ny konsumentkreditlag för stärkt konsumentskydd - Regeringen.se
+- Volvo Cars återkallar 413.000 bilar på nytt - DI
 - Allt fler bostadsbolag arbetar vräkningsförebyggande – men avhysningarna fortsätter att öka - Sveriges Allmännytta
+- Brutal logik bakom nya pensionsregler - SvD
+- Europeiska åklagarmyndighetens och Europeiska byrån för bedrägeribekämpnings åtkomst till information om mervärdesskatt på unionsnivå - Regeringen.se
 - AMD visar upp nya AI-chipp för datacenter - Computer Sweden
-- Instrument ska kartlägga 20 miljoner stjärnor och galaxer - Uppsala universitet
+- Polismördaren Jackie Arklöv får sitta kvar i fängelset på livstid - SVT Nyheter
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Amerikanska bolag slipper global minimiskatt - SvD
+- The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -45,7 +46,6 @@ _Updated: 2026-01-08 11:50_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -55,12 +55,12 @@ _Updated: 2026-01-08 11:50_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
@@ -69,7 +69,7 @@ _Updated: 2026-01-08 11:50_
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 - Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 
 ## Business
 
@@ -126,18 +126,18 @@ _Updated: 2026-01-08 11:50_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
