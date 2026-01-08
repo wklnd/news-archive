@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-08 23:51_
+_Updated: 2026-01-09 00:53_
 
+- Jonathan Ross identified as ICE agent who shot Renee Good - Star Tribune
+- Senate advances bill to block further military action in Venezuela - The Washington Post
 - FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
 - IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
 - Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement - The White House (.gov)
 - Fact Sheet: Trump Administration Resets U.S. Nutrition Policy, Puts Real Food Back at the Center of Health - HHS.gov
-- 2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever,' ICE says - PBS
-- Governor Mills Announces Actions on Bills Held From Prior Legislative Session - Maine.gov
-- Uvalde officer trial: Judge tosses testimony of key prosecution witness - abcnews.go.com
-- Internet blackout in Iran as large anti-government protests held across country - BBC
-- Former Democratic House Majority Leader Steny Hoyer announces retirement after more than 40 years in Congress - abcnews.go.com
-- Venezuela and health care are the early focus for Congress in a busy start to 2026 - NPR
-- Live Updates: Senate Advances Measure to Curb Trump’s Use of Force in Venezuela - The New York Times
+- House votes to renew ACA subsidies, as Senate Republicans rebuke Trump on Venezuela - NPR
+- Judge disqualifies federal prosecutor from overseeing investigations into Letitia James - PBS
+- It looks like Trump is running a private equity playbook in Venezuela - CNN
+- Hochul and Mamdani to unveil free child care plan in New York City - abcnews.go.com
 - Exclusive: Trump administration mulls payments to sway Greenlanders to join US - Reuters
+- Saudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape - The New York Times
+- Elon Musk’s xAI under fire for failing to rein in ‘digital undressing’ - CNN
 - French farmers force their way through Paris with tractors to protest free trade deal - abcnews.go.com
-- One million without heat and water after Russian strikes, Ukraine says - BBC
-- Stock Market Today: Defense Stocks Rally; Dow Gains — Live Updates - The Wall Street Journal
-- Hundreds of nonconsensual AI images being created by Grok on X, data shows - The Guardian
+- Trump instructs 'representatives' to buy $200 billion in mortgage bonds, aiming to lower rates - CNBC
+- GM takes $6 billion hit as cost of backing away from EVs - CNN
+- Slightly more Americans file for jobless benefits in the last week of 2025, but layoffs remain low - abcnews.go.com
 - Pomelo Care’s Valuation Soars To $1.7 Billion As It Plans Expansion Beyond Maternal Care - Forbes
-- 19 CES gadgets you can buy right now - Engadget
-- 2026 Is the Year of the RGB LED TV - WIRED
-- Switch 2 Sales Reportedly Struggled Over The Christmas Period - Nintendo Life
+- Performance of premium and budget TV brands is closer than ever - The Verge
+- This Company Is Reimagining the AI Pin at CES 2026 - CNET
