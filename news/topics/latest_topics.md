@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 18:54_
+_Updated: 2026-01-09 19:48_
 
 ## Top Stories
 
-- Hanna, 18, försvunnen – polisen inleder mordutredning - Aftonbladet
-- Snabbtester: SD-topp var påverkad - SVT Nyheter
-- Internet nedsläckt i Iran: ”Farhågan är att regimen ska slå till mot demonstranterna” - SVT Nyheter
+- Tidigare handbollsspelaren Viktor Rhodin är död – blev 31 år - Aftonbladet
+- Malmer Stenergard (M): Stöttar demonstranterna i Iran - SVT Nyheter
+- Åklagaren: Snabbtester tyder på att Nyberg var narkotikapåverkad - Omni
+- Skolanställd åtalas för våldtäkt mot barn – utgav sig för att vara flicka - Sydsvenskan
+- Region Västernorrland avvecklar krisledningen - Region Västernorrland
 - Växande kritik mot Trumps krav på Grönland - Europaportalen
-- Manifestation Nej till 13-åringar i fängelse! - Akademikerförbundet SSR
-- Efter snökaoset – Karlstads Energi tar igen inställd sophämtning: ”En utmaning” - NWT
-- Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
-- Antalet asylsökande minskar med 30 procent – Senaste nytt om valet 2026 - SVT Nyheter
-- 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
+- Köldknäpp till helgen – här blir det kallast - Expressen
 - Kommunen i kontakt med de flesta strömlösa – rundringning fortsätter - Söderhamns kommun
-- Hundratusentals utan el – tåg och flyg inställda - Hufvudstadsbladet
+- 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
+- Tågtrafik inställd till och från Stockholm - SVT Nyheter
 - USA inför nya kostråd – vänder på kostpyramiden - Dagens Nyheter
-- Nya protester mot Mercosur-avtal – traktorer i Paris - GP
+- Hundratusentals utan el – tågtrafik inställd - GP
+- Uppgifter: USA beslagtar ännu en tanker - GP
 - Trump och Machado ska ses i Washington nästa vecka - Omni
-- Uppgifter till Di: ”Svensk lösning” ska rädda Stegra - DI
-- Analytiker: Så mycket stiger bostadspriserna under 2026 - SvD
-- Många kontaktar oss om sin återbetalning - CSN
-- Agent: Kommer inte väcka talan mot Batljans ägarbolag - DI
+- Här väntas bopriserna öka mest under 2026 - SvD
+- Svårt att se klart när bilden är splittrad - Affärsvärlden
+- Hotar stämma Klarna – efter rapporten - SvD
+- Sveriges bortglömda klass – krisens verkliga förlorare - Dagens PS
 - Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
 - De finns på nästan alla telefoner. Dessa appar bör du radera omedelbart. - Dagens.se
 
@@ -29,20 +29,20 @@ _Updated: 2026-01-09 18:54_
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- Amerikanska bolag slipper global minimiskatt - SvD
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -74,25 +74,25 @@ _Updated: 2026-01-09 18:54_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2026-01-09 18:54_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
