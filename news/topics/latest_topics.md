@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 13:42_
+_Updated: 2026-01-09 15:20_
 
 ## Top Stories
 
-- Fortsatta trafikstörningar efter snöovädret - Trafiken.nu
 - Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
-- Trump: Att ta kontroll över Grönland kan vara viktigare än Nato - Europaportalen
-- Efter varningarna: Inte en enda trafikolycka - Omni
+- Minnesstund för offren i branden i Crans-Montana - SVT Nyheter
 - Svenska Natotruppens utrustning: Radio och kompass - Dagens Nyheter
 - Efter snökaoset – Karlstads Energi tar igen inställd sophämtning: ”En utmaning” - NWT
-- Fortsatt förhöjd terrorhotnivå i allvarligt säkerhetsläge - Säkerhetspolisen
 - 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
+- Skogsägare i Ockelbo hårt drabbade av vind och snö: ”det handlar om miljonbelopp” - LRF - Lantbrukarnas Riksförbund
+- 28-åring stal ost – ska utvisas från Sverige - Dagens Nyheter
+- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
+- Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
 - Tågtrafik inställd till och från Stockholm - SVT Nyheter
-- Uppsala universitets yttrande över betänkandet En kulturkanon för Sverige (SOU 2025:92) - Uppsala universitet
-- JUST NU: Trump blåser av våg två av attacker - Expressen
-- Mindre socker och mer rött kött i USA:s nya kostråd: ”Väldigt retro” - Omni
-- Slutstrid om jätteavtal – EU-ja till Mercosur? - GP
-- Machado och Trump ska träffas ”nästa vecka” - Hufvudstadsbladet
-- HD ska pröva Trumps tullar – miljarder på spel - SvD
-- Svenska konsumenter bakom danskt kursras - DI
+- Minst fyra döda i attack mot Kiev - SVT Nyheter
+- Turistparadis i brand – 3 000 evakueras - Expressen
+- Kräver längre fängelsestraff – och begär "Chrippa" häktad - Corren
+- Bönderna och hushållen får betala priset när EU öppnar för lägre matstandard - Via TT
+- Saab får order på Trackfire Remote Weapon Station - Saab
 - Uppgifter till DN: Ny stor ägare kan rädda Stegra - SVT Nyheter
 - Agent: Kommer inte väcka talan mot Batljans ägarbolag - DI
-- Astronaut sjuk – rymdfärd avbryts - Aftonbladet
-- Bose öppnar källkoden istället för att döda sina gamla smarta högtalare - Teknikveckan
+- Tomt på nötfärs i butikerna: ”Kan ta ett tag” - Aftonbladet
+- De finns på nästan alla telefoner. Dessa appar bör du radera omedelbart. - Dagens.se
+- Det blir nu lättare att lägga till länkar i Word-dokument - PC för Alla
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Wendy Lund utsedd till global VD för Allison Worldwide av Investing.com - Investing.com Sverige
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -43,9 +42,10 @@ _Updated: 2026-01-09 13:42_
 - Amerikanska bolag slipper global minimiskatt - SvD
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -62,6 +62,7 @@ _Updated: 2026-01-09 13:42_
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-01-09 13:42_
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2026-01-09 13:42_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-09 13:42_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
