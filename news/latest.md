@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-09 12:55_
+_Updated: 2026-01-09 13:49_
 
-- Russia Appears to Use Nuclear-Capable Missile in Ukraine - The New York Times
+- Portland awaits answers after Border Patrol wounds two people in shooting - Oregon Public Broadcasting - OPB
 - FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
+- Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify - The New York Times
+- Russian Offensive Campaign Assessment, January 7, 2026 - Institute for the Study of War
+- Russia Appears to Use Nuclear-Capable Missile in Ukraine - The New York Times
 - Greenlanders express fear and indignation as Trump eyes territory - BBC
-- UN experts condemn US aggression against Venezuela - ohchr
-- IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
-- The Official Website of Governor Phil Murphy - NJ.gov
 - Federal fund freeze sends Colorado child care providers and advocates scrambling to prove there is no fraud - Colorado Public Radio
+- How an Abrupt Call Between Trump and Colombia’s President Averted a Crisis - The New York Times
+- 100 skulls and mummified body parts found in a Pennsylvania grave robbery case, police say - abcnews.go.com
 - Bear removed after living underneath Altadena home for months - ABC7 Los Angeles
-- Hochul and Mamdani to unveil free child care plan in New York City - abcnews.go.com
-- Juneau braces for another storm as state coordinates disaster assistance - KTOO
+- Ukraine’s Spymaster Was Known for Killing Russians. Now He’ll Negotiate With Them for Peace. - The Wall Street Journal
 - Saudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape - The New York Times
-- Filipino Catholics express outrage over corruption scandal during massive religious procession - AP News
 - Soundproofing foam in Swiss bar fire should have been checked by law, official says - Reuters
-- French farmers block Paris streets in protest against free trade deal - NBC News
-- MiniMax, China's second 'AI tiger' to go public, doubles in value in Hong Kong debut - Reuters
-- China's consumer inflation scales 3-year high but deflation battle far from over - Reuters
-- J&J strikes deal with US government to cut drug prices, gain tariff exemptions - CNBC
-- Chase to become new issuer of Apple Card - JPMorganChase
-- Google Fi starts selling its first 5G tablet - 9to5Google
+- Amber weather warning issued for heavy snow across West Midlands - BBC
+- Stock futures are little changed ahead of jobs report, potential tariff ruling: Live updates - CNBC
+- CES 2026: Live updates on the latest gadgets at the biggest tech event of the year - Engadget
+- J&J strikes deal with US government to cut drug prices, gain tariff exemptions - Reuters
+- DeepSeek rival’s shares double in debut as Chinese AI companies rush to list - Financial Times
 - Season Start: For Demacia! Emote Twitch Drops - League of Legends
+- MEDIA ALERT: Pokémon Trading Card Game: Mega Evolution—Perfect Order Launching Soon, Featuring Debut of New Mega Evolution Pokémon ex in the Pokémon TCG - Pokemon Press
