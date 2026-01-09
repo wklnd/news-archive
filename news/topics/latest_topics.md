@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 05:51_
+_Updated: 2026-01-09 06:58_
 
 ## Top Stories
 
 - Västtrafik om snöovädret: ”Ingen normal situation” - GP
 - Efter Trumps utspel om Grönland: Danmark bekräftar möte med Rubio - SVT Nyheter
-- Renee Good sköts ihjäl av ICE – stora protester i Minnesota - GP
-- Röd varning för snö i Ångermanland - Dagens Nyheter
-- Hela Iran utan internet - SVT Nyheter
+- Hela Iran utan internet – stora protester - SVT Nyheter
+- Experter: Oljan inte målet med USA:s attack mot Venezuela - SvD
 - Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- Tunnlar och källare kan bli skyddsrum vid krig - SvD
 - Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
-- Snöröjning pågår i hela kommunen - Värnamo kommun
-- Man som jobbat för svenska försvarsmakten begärs häktad för spioneri - Yle
-- Två skjutna av federal agent i Portland - Aftonbladet
-- Venezuela: ”Stort antal” fångar ska släppas - Aftonbladet
+- Information om skolskjuts med anledning av snön - Mönsterås kommun
+- Sophämtningen är försenad - låt kärlen stå kvar - Lerums kommun
+- Gymnasiet håller stängt – elever och lärare arbetar hemifrån under fredagen - Harnosand.se
+- 07 januari 07.48, Sammanfattning natt, Västerbottens län - polisen.se
+- Venezuela: ”Stort antal” fångar ska släppas - Västerbottens-Kuriren
 - Rysk attack mot Kyiv efter Zelenskyjs varning - Omni
 - Ernkrans: Kristersson minglar när Europas framtid står på spel - Altinget.se
-- Enbart förebyggande insatser räcker inte - Fastighetstidningen
+- USA bordade ryskflaggad oljetanker på flykt från Venezuela - Yle
+- Klocktoppen avslöjar: Därför sticker svenska lyxköpare ut - DI
+- ChatGPT gör alla till "experter" – riktiga experter rasar - Dagens PS
+- De är finalister till Studentbostadspriset 2025 - Notified
 - Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
-- Regeringen missar chansen att leda energieffektiviseringen - Altinget.se
-- DEBATT: Utan friskolorna riskerar vi skolkaos i Stockholm - DI
+- Klipsch klipper till med nya versioner av The Fives, The Sevens och The Nines - Ljud & Bild
 - Höga poäng för nya chippet Snapdragon X2 Elite - PC för Alla
-- DJI Avata 360-läcka visar mångsidig drönare som kan slå Insta360 med en unik funktion - TechRadar
 
 ## World News
 
@@ -38,11 +38,11 @@ _Updated: 2026-01-09 05:51_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - Amerikanska bolag slipper global minimiskatt - SvD
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -51,16 +51,16 @@ _Updated: 2026-01-09 05:51_
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
+- Oron: Då tar datan på internet slut - SvD
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
@@ -98,24 +98,24 @@ _Updated: 2026-01-09 05:51_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
