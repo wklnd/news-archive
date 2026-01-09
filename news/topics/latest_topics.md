@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 11:51_
+_Updated: 2026-01-09 12:49_
 
 ## Top Stories
 
-- Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
-- Efter varningarna – då väntas bussarna rulla igen – VMA utfärdat – snöovädret håller Västernorrland i ett järngrepp - SVT Nyheter
-- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
-- Fast i snökaos – detta gäller om du inte tar dig till jobbet - Sveriges Radio
+- Utredare: Företag som missköter sig ska stoppas från att starta nya skolor - SVT Nyheter
+- Fortsatta trafikstörningar efter snöovädret - Trafiken.nu
+- Trump: Att ta kontroll över Grönland kan vara viktigare än Nato - Europaportalen
 - Här avfyras Putins skräckvapen mot Ukraina - Expressen
-- Växande kritik mot Trumps krav på Grönland - Europaportalen
+- Efter varningarna: Inte en enda trafikolycka - Omni
+- Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
 - Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
-- 10 miljoner skogskubikmeter kan ha fallit – värsta stormskadorna på tio år - Jordbruksaktuellt
-- Svenska Natotruppens utrustning: Radio och kompass - Dagens Nyheter
-- Bolag drar in bussar – 30-tals linjer inställda - GP
-- Palmepristagaren: Grönland kommer att få Europa att vakna - Dagens Nyheter
+- Fortsatt förhöjd terrorhotnivå i allvarligt säkerhetsläge - Säkerhetspolisen
+- 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
+- Tågtrafik inställd till och från Stockholm - SVT Nyheter
+- Regimen släcker internet i Iran – protesterna fortsätter - Dagens Nyheter
+- Venezuela: ”Stort antal” fångar ska släppas - Västerbottens-Kuriren
 - Nya protester mot Mercosur-avtal – traktorer i Paris - GP
-- Två skjutna av gränspolis i USA - Sydsvenskan
-- DN Direkt – Svenska Natotruppens utrustning: Radio och kompass - Dagens Nyheter
+- Palmepristagaren: Grönland kommer att få Europa att vakna - Dagens Nyheter
 - Svenska konsumenter bakom danskt kursras - DI
 - Historiska rallyt: Signalen som avslöjar nästa trend - EFN.se
-- Kinas producentpriser sjönk mindre än väntat - DI
+- Tomt på nötfärs i butikerna: ”Kan ta ett tag” - Aftonbladet
 - Agent: Kommer inte väcka talan mot Batljans ägarbolag - DI
+- Bose öppnar källkoden istället för att döda sina gamla smarta högtalare - Teknikveckan
 - Hej då, Apple! Så enkelt var det att byta från Iphone till Android - m3.se
-- Ovanligt få uppdaterar till iOS 26. Bara 15 procent ska ha uppdaterat. - feber.se
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Wendy Lund utsedd till global VD för Allison Worldwide av Investing.com - Investing.com Sverige
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - Amerikanska bolag slipper global minimiskatt - SvD
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -57,6 +57,7 @@ _Updated: 2026-01-09 11:51_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
@@ -69,7 +70,6 @@ _Updated: 2026-01-09 11:51_
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -98,20 +98,20 @@ _Updated: 2026-01-09 11:51_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -143,22 +143,22 @@ _Updated: 2026-01-09 11:51_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Så ska det australiensiska jordbruket bli hållbart - ATL
