@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 21:41_
+_Updated: 2026-01-09 22:46_
 
 ## Top Stories
 
+- Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
 - Hanna, 18, försvunnen – polisen inleder mordutredning - Aftonbladet
+- Två allvarligt skadade efter olycka på E6 vid Vellinge – väg avstängd - SVT Nyheter
 - Ryska attacker intensifieras medan temperaturen faller i Ukraina - Dagens Nyheter
 - Åklagaren: Snabbtest gav utslag för narkotikapåverkan - Dagens Nyheter
-- Trafikolycka vid Vellinge – E6 avstängd - SVT Nyheter
+- Ny köldsmocka – här blir det kallast - Expressen
 - Chatta med Västtrafik om kollektivtrafiken i Göteborg - GP
-- Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
-- 09 januari 12.57, Smällar, Stockholm - polisen.se
-- Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
+- Värsta ovädret är över - men snön påverkar trafiken - Harnosand.se
 - Antalet asylsökande minskar med 30 procent – Senaste nytt om valet 2026 - SVT Nyheter
-- Ingemar i Sundsvall fick blodpropp – räddades av Åke med traktorskopa - SVT Nyheter
-- USA inför nya kostråd – vänder på kostpyramiden - Dagens Nyheter
-- Gul varning utfärdad: Inställda färjeavgångar till och från Gotland - SVT Nyheter
+- Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
+- Trump: Ny Venezuela-attack stoppad - SVT Nyheter
 - ”Ukraina behöver säkerhet nu – inte sen” - Västerbottens-Kuriren
-- Trump och Machado ska ses i Washington nästa vecka - Omni
-- Uppgifter till Di: ”Svensk lösning” ska rädda Stegra - DI
+- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
+- Inget besked om Trumps tullar – börsen vobblar till - DI
 - Här väntas bopriserna öka mest under 2026 - SvD
 - Norska inflationshuvudvärken fortsätter - Tidningen Näringslivet
-- Svårt att se klart när bilden är splittrad - Affärsvärlden
-- Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
+- Många kontaktar oss om sin återbetalning - CSN
+- Reaktionen på Leksells skämt – om flickvännen • Asgarvet - Expressen
 - TCL presenterar årets innovations och produktnyheter under CES 2026 i Las Vegas - Mynewsdesk
+- Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
 
 ## World News
 
@@ -31,15 +31,15 @@ _Updated: 2026-01-09 21:41_
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -76,15 +76,15 @@ _Updated: 2026-01-09 21:41_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - deloitte.com
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - deloitte.com
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -98,17 +98,16 @@ _Updated: 2026-01-09 21:41_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -116,6 +115,7 @@ _Updated: 2026-01-09 21:41_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-09 21:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
