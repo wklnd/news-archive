@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 15:54_
+_Updated: 2026-01-09 16:50_
 
 ## Top Stories
 
 - Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
-- Efter varningarna: Inte en enda trafikolycka - Omni
-- Minnesstund för offren i branden i Crans-Montana - SVT Nyheter
-- Stort engagemang på LRF Dalarnas stormträffar – fler möten planeras - LRF - Lantbrukarnas Riksförbund
-- Ännu en polisskjutning i USA: Ilska och sorg - Aftonbladet
-- Här avfyras Putins skräckvapen mot Ukraina - Expressen
-- Fortsatta trafikstörningar efter snöovädret - Trafiken.nu
-- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
+- Efter snökaoset – Karlstads Energi tar igen inställd sophämtning: ”En utmaning” - NWT
+- USA:s nya kostråd: ”Kriget mot protein är över” - GP
+- Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
+- Röd varning för intensiva snöbyar och kraftig vind - Så här påverkas kommunens verksamheter - Örnsköldsviks kommun
 - 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
+- 28-åring stal ost – ska utvisas från Sverige - Dagens Nyheter
+- Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
+- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
 - Tågtrafik inställd till och från Stockholm - SVT Nyheter
-- Turistparadis i brand – 3 000 evakueras - Expressen
-- Slutstrid om jätteavtal – EU-ja till Mercosur? - GP
-- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
-- Analytiker: Så mycket stiger bostadspriserna under 2026 - SvD
-- Saab får order på Trackfire Remote Weapon Station - Saab
+- Hundratusentals utan ström i Frankrike - DI
+- Minnesstund för offren i branden i Crans-Montana - SVT Nyheter
+- Jätteavtal nära mellan EU och Sydamerika - GP
+- Trump och Machado ska ses i Washington nästa vecka - Omni
 - Uppgifter till Di: ”Svensk lösning” ska rädda Stegra - DI
-- Agent: Kommer inte väcka talan mot Batljans ägarbolag - DI
+- Analytiker: Så mycket stiger bostadspriserna under 2026 - SvD
+- Sensys Gatso: Tillbaka i rätt fil? - Affärsvärlden
+- Tomt på nötfärs i butikerna: ”Kan ta ett tag” - Aftonbladet
 - Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
 - De finns på nästan alla telefoner. Dessa appar bör du radera omedelbart. - Dagens.se
 
@@ -40,8 +40,8 @@ _Updated: 2026-01-09 15:54_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - Amerikanska bolag slipper global minimiskatt - SvD
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -57,18 +57,18 @@ _Updated: 2026-01-09 15:54_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
+- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -99,20 +99,20 @@ _Updated: 2026-01-09 15:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
