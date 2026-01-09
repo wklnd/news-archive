@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 16:50_
+_Updated: 2026-01-09 17:47_
 
 ## Top Stories
 
-- Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
-- Efter snökaoset – Karlstads Energi tar igen inställd sophämtning: ”En utmaning” - NWT
-- USA:s nya kostråd: ”Kriget mot protein är över” - GP
-- Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
-- Röd varning för intensiva snöbyar och kraftig vind - Så här påverkas kommunens verksamheter - Örnsköldsviks kommun
-- 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
-- 28-åring stal ost – ska utvisas från Sverige - Dagens Nyheter
-- Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
-- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
-- Tågtrafik inställd till och från Stockholm - SVT Nyheter
-- Hundratusentals utan ström i Frankrike - DI
+- Snabbtester: SD-topp var påverkad - SVT Nyheter
+- Glädjebeskedet för Zahra och Afshad: Får stanna i Sverige - TV4 Nyheterna
 - Minnesstund för offren i branden i Crans-Montana - SVT Nyheter
-- Jätteavtal nära mellan EU och Sydamerika - GP
-- Trump och Machado ska ses i Washington nästa vecka - Omni
+- Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
+- Snö och halka stoppar tågen - Expressen
+- Manifestation Nej till 13-åringar i fängelse! - Akademikerförbundet SSR
+- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
+- 09 januari 12.57, Smällar, Stockholm - Polisen.se
+- Chatta med Västtrafik om kollektivtrafiken i Göteborg - GP
+- Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
+- USA inför nya kostråd – vänder på kostpyramiden - Dagens Nyheter
+- Hundratusentals utan el – tåg och flyg inställda - Hufvudstadsbladet
+- Nya protester mot Mercosur-avtal – traktorer i Paris - GP
+- 600 liter olja har läckt ut i Nissan - SVT Nyheter
 - Uppgifter till Di: ”Svensk lösning” ska rädda Stegra - DI
+- HD ska pröva Trumps tullar – miljarder på spel - Dagens Nyheter
 - Analytiker: Så mycket stiger bostadspriserna under 2026 - SvD
-- Sensys Gatso: Tillbaka i rätt fil? - Affärsvärlden
-- Tomt på nötfärs i butikerna: ”Kan ta ett tag” - Aftonbladet
+- Danska skönhetssmällen – smittar av sig i Sverige - EFN.se
 - Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
 - De finns på nästan alla telefoner. Dessa appar bör du radera omedelbart. - Dagens.se
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - Amerikanska bolag slipper global minimiskatt - SvD
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -99,20 +99,20 @@ _Updated: 2026-01-09 16:50_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
