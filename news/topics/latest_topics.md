@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 07:49_
+_Updated: 2026-01-09 08:57_
 
 ## Top Stories
 
-- Fortsatt förhöjd terrorhotnivå i allvarligt säkerhetsläge - Säkerhetspolisen
+- Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
 - Västtrafik om snöovädret: ”Ingen normal situation” - GP
 - Hela Iran utan internet – stora protester - SVT Nyheter
-- Renee Good sköts ihjäl av ICE – stora protester i Minnesota - GP
-- Experter: Oljan inte målet med USA:s attack mot Venezuela - SvD
-- Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
-- Snöröjning pågår i hela kommunen - Värnamo kommun
-- Information om skolskjuts med anledning av snön - Mönsterås kommun
-- 07 januari 07.48, Sammanfattning natt, Västerbottens län - Polisen.se
-- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- Trump: Ska börja slå till mot drogkarteller - Aftonbladet
+- 09 januari 07.13, Sammanfattning natt, Södermanlands län - polisen.se
+- Farligt föremål i Uddevalla – trappuppgång avspärrad - SVT Nyheter
+- Fortsatt förhöjd terrorhotnivå i allvarligt säkerhetsläge - Säkerhetspolisen
+- Trump ska träffa Venezuelas oppositionsledare - EFN.se
+- Uppgifter: Trump skickar förstärkning till Minnesota efter dödsskjutningen - Dagens Nyheter
+- SvD Morgonrapport: Våldsamma protester i Iran – över 40 döda - SvD
 - Venezuela: ”Stort antal” fångar ska släppas - Västerbottens-Kuriren
-- För första gången: USA stödjer säkerhetsgarantier till Ukraina - Europaportalen
+- Clas Ohlsons försäljning steg i december - DI
+- Årets hetaste – och knäppaste – techprylar - SvD
 - Historiska rallyt: Signalen som avslöjar nästa trend - EFN.se
-- Så mycket får du i ersättning för strömavbrottet - SvD
-- Klocktoppen avslöjar: Därför sticker svenska lyxköpare ut - DI
-- De är finalister till Studentbostadspriset 2025 - Notified
+- Kinas producentpriser sjönk mindre än väntat - DI
+- Astronaut sjuk – rymdfärd avbryts - Aftonbladet
+- Geforce RTX 60-serien kan dröja till slutet av 2027 - SweClockers
 - Höga poäng för nya chippet Snapdragon X2 Elite - PC för Alla
-- Klipsch klipper till med nya versioner av The Fives, The Sevens och The Nines - Ljud & Bild
 - DJI Avata 360-läcka visar mångsidig drönare som kan slå Insta360 med en unik funktion - TechRadar
+- ”The little sister”: Lysande spel i drama om muslimsk lesbisk tonårstjej - Sydsvenskan
+- Nicholas Wennö: Här är veckans bästa strömningstips - Dagens Nyheter
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2026-01-09 07:49_
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Albanien utser AI-bot till minister - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -98,7 +98,9 @@ _Updated: 2026-01-09 07:49_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
@@ -110,17 +112,16 @@ _Updated: 2026-01-09 07:49_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -129,16 +130,15 @@ _Updated: 2026-01-09 07:49_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
