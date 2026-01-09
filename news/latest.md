@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-09 23:50_
+_Updated: 2026-01-10 00:52_
 
-- Minneapolis agitators target law enforcement after deadly ICE shooting - Fox News
+- Federal Officials Identify Pair Shot by Border Patrol in Portland, Ore. - The New York Times
 - Gov. Newsom’s last state budget: Here’s what we know - CalMatters
-- Trump blasts 5 Republican senators for war powers vote - PBS
+- Greenlanders express fear and indignation as Trump eyes territory - BBC
+- E.U. and South America to Form Free-Trade Zone With 700 Million People - The New York Times
 - Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota - U.S. Department of the Treasury (.gov)
-- DHS Launches Landmark USCIS Fraud Investigation in Minnesota - USCIS (.gov)
-- Funding America’s Strength: House Passes FY26 Bills on Security, Energy, and Stewardship - House Committee on Appropriations (.gov)
-- Trump says Venezuela stole American oil. Here's what really happened. - CBS News
+- Trump blasts 5 Republican senators for war powers vote - PBS
+- Agents in Trump’s Immigration Crackdown Have Fired at Vehicles at Least 10 Times - The New York Times
 - Supreme Court holds off on Trump tariff ruling for now — what's at stake for economy - CNBC
-- Pope Leo says ‘war is back in vogue’ in major address to global envoys - CNN
+- DHS Launches Landmark USCIS Fraud Investigation in Minnesota - USCIS (.gov)
+- 5 states sue Trump administration for withholding billions in social safety net funds - abcnews.go.com
+- Many Americans say the U.S. is not a moral leader but want it to be: NPR/Ipsos poll - NPR
 - Winter storm slams UK and France as cold snap spreads across Europe - AP News
-- ‘I don’t need international law’: Trump’s Wild West doctrine freezes European brains - politico.eu
 - Chinese, Russian and Iranian warships arrive for drills in South Africa - Al Jazeera
-- Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California - The New York Times
+- China blinks again following dual-use export threat earlier in the week - The Japan Times
 - Mortgage rates drop to lowest level in nearly 3 years as Trump orders buying of $200 billion in mortgage bonds - CNBC
 - Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill - CNBC
-- S&P 500 ends Friday with another record close, scores a winning week: Live updates - CNBC
-- NASA chief reviews Orion heat shield, expresses “full confidence” in it for Artemis II - Ars Technica
+- Stocks jump, dollar higher in wake of US jobs numbers - Reuters
+- GM hit with $6 billion in charges as EV incentives cut and emissions standards fade - abcnews.go.com
+- Is Orion’s heat shield really safe? New NASA chief conducts final review on eve of flight. - Ars Technica
 - Google: Don't Turn Your Content Into Bite-Sized Chunks - Search Engine Roundtable
-- YouTube will now let you filter Shorts out of search results - The Verge
-- Hands-on with a prototype of Clicks’ Communicator, a new BlackBerry-like smartphone - TechCrunch
