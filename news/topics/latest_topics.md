@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 17:47_
+_Updated: 2026-01-09 18:54_
 
 ## Top Stories
 
+- Hanna, 18, försvunnen – polisen inleder mordutredning - Aftonbladet
 - Snabbtester: SD-topp var påverkad - SVT Nyheter
-- Glädjebeskedet för Zahra och Afshad: Får stanna i Sverige - TV4 Nyheterna
-- Minnesstund för offren i branden i Crans-Montana - SVT Nyheter
-- Maria Malmer Stenergard böjer sig för USA – och gör världen farligare - Arbetet
-- Snö och halka stoppar tågen - Expressen
+- Internet nedsläckt i Iran: ”Farhågan är att regimen ska slå till mot demonstranterna” - SVT Nyheter
+- Växande kritik mot Trumps krav på Grönland - Europaportalen
 - Manifestation Nej till 13-åringar i fängelse! - Akademikerförbundet SSR
-- Försvunnen kvinna i Uddevalla söks av polis och militär - SVT Nyheter
-- 09 januari 12.57, Smällar, Stockholm - Polisen.se
-- Chatta med Västtrafik om kollektivtrafiken i Göteborg - GP
+- Efter snökaoset – Karlstads Energi tar igen inställd sophämtning: ”En utmaning” - NWT
 - Pressbriefing om migrationen till Sverige under 2025 - Regeringen.se
-- USA inför nya kostråd – vänder på kostpyramiden - Dagens Nyheter
+- Antalet asylsökande minskar med 30 procent – Senaste nytt om valet 2026 - SVT Nyheter
+- 09 januari 07.13, Sammanfattning natt, Södermanlands län - Polisen.se
+- Kommunen i kontakt med de flesta strömlösa – rundringning fortsätter - Söderhamns kommun
 - Hundratusentals utan el – tåg och flyg inställda - Hufvudstadsbladet
+- USA inför nya kostråd – vänder på kostpyramiden - Dagens Nyheter
 - Nya protester mot Mercosur-avtal – traktorer i Paris - GP
-- 600 liter olja har läckt ut i Nissan - SVT Nyheter
+- Trump och Machado ska ses i Washington nästa vecka - Omni
 - Uppgifter till Di: ”Svensk lösning” ska rädda Stegra - DI
-- HD ska pröva Trumps tullar – miljarder på spel - Dagens Nyheter
 - Analytiker: Så mycket stiger bostadspriserna under 2026 - SvD
-- Danska skönhetssmällen – smittar av sig i Sverige - EFN.se
+- Många kontaktar oss om sin återbetalning - CSN
+- Agent: Kommer inte väcka talan mot Batljans ägarbolag - DI
 - Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
 - De finns på nästan alla telefoner. Dessa appar bör du radera omedelbart. - Dagens.se
 
@@ -29,20 +29,20 @@ _Updated: 2026-01-09 17:47_
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
 - Amerikanska bolag slipper global minimiskatt - SvD
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -98,20 +98,20 @@ _Updated: 2026-01-09 17:47_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -129,36 +129,36 @@ _Updated: 2026-01-09 17:47_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
