@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 08:57_
+_Updated: 2026-01-09 09:45_
 
 ## Top Stories
 
@@ -9,21 +9,21 @@ _Updated: 2026-01-09 08:57_
 - Hela Iran utan internet – stora protester - SVT Nyheter
 - 09 januari 07.13, Sammanfattning natt, Södermanlands län - polisen.se
 - Farligt föremål i Uddevalla – trappuppgång avspärrad - SVT Nyheter
+- Enorma skogsskador efter stormen Johannes: ”Största på tio år” - SVT Nyheter
 - Fortsatt förhöjd terrorhotnivå i allvarligt säkerhetsläge - Säkerhetspolisen
-- Trump ska träffa Venezuelas oppositionsledare - EFN.se
-- Uppgifter: Trump skickar förstärkning till Minnesota efter dödsskjutningen - Dagens Nyheter
-- SvD Morgonrapport: Våldsamma protester i Iran – över 40 döda - SvD
-- Venezuela: ”Stort antal” fångar ska släppas - Västerbottens-Kuriren
-- Clas Ohlsons försäljning steg i december - DI
+- Antalet influensafall skjuter i höjden - Västerbottens-Kuriren
+- Tågtrafik inställd till och från Stockholm - SVT Nyheter
+- Förhandlingar pågår om frihandelsavtalet - Jordbruksaktuellt
+- Trump: Tvivlar på att Nato skulle ställa upp - Sydsvenskan
+- Attack med hypersonisk robot mot Kiev - Hufvudstadsbladet
+- Expert om dödsskjutningen i USA: Inte nödvärn - Corren
 - Årets hetaste – och knäppaste – techprylar - SvD
-- Historiska rallyt: Signalen som avslöjar nästa trend - EFN.se
 - Kinas producentpriser sjönk mindre än väntat - DI
-- Astronaut sjuk – rymdfärd avbryts - Aftonbladet
+- Guldpriset kommer att fortsätta stiga under 2026, säger framgångsrik fondförvaltare - Morningstar Canada
+- Svensk ekonomi växte mer än väntat - Aftonbladet
 - Geforce RTX 60-serien kan dröja till slutet av 2027 - SweClockers
 - Höga poäng för nya chippet Snapdragon X2 Elite - PC för Alla
 - DJI Avata 360-läcka visar mångsidig drönare som kan slå Insta360 med en unik funktion - TechRadar
-- ”The little sister”: Lysande spel i drama om muslimsk lesbisk tonårstjej - Sydsvenskan
-- Nicholas Wennö: Här är veckans bästa strömningstips - Dagens Nyheter
 
 ## World News
 
@@ -74,48 +74,48 @@ _Updated: 2026-01-09 08:57_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Engineering Health 2024 - Chalmers
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2026-01-09 08:57_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
