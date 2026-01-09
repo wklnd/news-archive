@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-09 19:53_
+_Updated: 2026-01-09 20:59_
 
-- US is seizing Olina tanker in the Caribbean, US officials say - Reuters
-- Oil CEOs are meeting with Trump today. These are their demands - CNN
-- Greenlanders express fear and indignation as Trump eyes territory - BBC
-- U.S. payrolls rose 50,000 in December, less than expected; unemployment rate falls to 4.4% - CNBC
+- Iran protests: 'People are more angry and determined now' - BBC
+- U.S. Forces Board Fifth Tanker in Campaign to Track Down Venezuelan Oil - The Wall Street Journal
+- Trump blasts 5 Republicans for war powers vote - PBS
+- DHS Launches Landmark USCIS Fraud Investigation in Minnesota - USCIS (.gov)
 - IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
 - California is "not silent, not retreating," Newsom tells lawmakers in major speech - CalMatters
-- Venezuela releases imprisoned opposition figures, which Trump says U.S. requested - NPR
-- How an Abrupt Call Between Trump and Colombia’s President Averted a Crisis - The New York Times
+- Shale chiefs warn Trump that Venezuelan oil will hobble US drillers - Financial Times
+- Trump says he’s canceled second wave of attacks on Venezuela - CNBC
+- Supreme Court holds off on Trump tariff ruling for now — what's at stake for economy - CNBC
 - 5 states sue Trump administration for withholding billions in social safety net funds - abcnews.go.com
-- US Senate votes to block Trump from more military action in Venezuela - Financial Times
 - Owner of Swiss ski resort bar held in custody after deadly New Year's Eve fire - BBC
 - Pope Leo says ‘war is back in vogue’ in major address to global envoys - CNN
-- An Interview With the President - The New York Times
 - Winter storm slams UK and France as cold snap spreads across Europe - AP News
-- Here’s what’s happening now with mortgage rates after Trump's latest push on housing affordability - CNBC
+- French opposition parties seek to topple government over Mercosur - Reuters
+- Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage - The New York Times
 - Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight-loss pill - CNBC
-- Apple’s John Ternus Could Be Tim Cook’s Successor as CEO - The New York Times
-- DeepSeek rival’s shares double in debut as Chinese AI companies rush to list - Financial Times
-- 2026 Pokémon TCG Standard Format Rotation Announcement - Pokemon.com
-- Your next primary care doctor could be online only, accessed through an AI tool : Shots - Health News - NPR
+- Google Guys Say Bye to California - The New York Times
+- Healthy Returns: What to expect from pharma at the JPM conference - CNBC
+- The weirdest tech we've seen at CES 2026 so far - Engadget
+- Everything We Learned About Divinity From Larian's Reddit AMA - IGN
