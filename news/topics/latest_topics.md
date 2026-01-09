@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-09 20:55_
+_Updated: 2026-01-09 21:41_
 
 ## Top Stories
 
-- SHL: Förändringar i ledarstaben - Färjestad BK
-- Trump: Att ta kontroll över Grönland kan vara viktigare än Nato - Europaportalen
+- Hanna, 18, försvunnen – polisen inleder mordutredning - Aftonbladet
+- Ryska attacker intensifieras medan temperaturen faller i Ukraina - Dagens Nyheter
+- Åklagaren: Snabbtest gav utslag för narkotikapåverkan - Dagens Nyheter
+- Trafikolycka vid Vellinge – E6 avstängd - SVT Nyheter
+- Chatta med Västtrafik om kollektivtrafiken i Göteborg - GP
 - Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
-- Efter snökaoset – Karlstads Energi tar igen inställd sophämtning: ”En utmaning” - NWT
-- JUST NU: Säger ja till Rysslands krav – Kreml tackar USA - Marcus Oscarsson
-- Facket tecknar avtal med strippklubb – därför ändrade de sig - Arbetet
 - 09 januari 12.57, Smällar, Stockholm - polisen.se
+- Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
 - Antalet asylsökande minskar med 30 procent – Senaste nytt om valet 2026 - SVT Nyheter
-- Sahlgrenska-anställda tvingas ta semester för snökaoset - GP
-- 09 januari 17.48, Trafikolycka, vilt, Jämtlands län - polisen.se
+- Ingemar i Sundsvall fick blodpropp – räddades av Åke med traktorskopa - SVT Nyheter
+- USA inför nya kostråd – vänder på kostpyramiden - Dagens Nyheter
 - Gul varning utfärdad: Inställda färjeavgångar till och från Gotland - SVT Nyheter
-- Trump och Machado ska ses i Washington nästa vecka - Omni
 - ”Ukraina behöver säkerhet nu – inte sen” - Västerbottens-Kuriren
-- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- Norska inflationshuvudvärken fortsätter - Tidningen Näringslivet
+- Trump och Machado ska ses i Washington nästa vecka - Omni
 - Uppgifter till Di: ”Svensk lösning” ska rädda Stegra - DI
 - Här väntas bopriserna öka mest under 2026 - SvD
-- Många kontaktar oss om sin återbetalning - CSN
+- Norska inflationshuvudvärken fortsätter - Tidningen Näringslivet
+- Svårt att se klart när bilden är splittrad - Affärsvärlden
 - Ny studie visar hur cellen reparerar sina återvinningsstationer - Umeå universitet
 - TCL presenterar årets innovations och produktnyheter under CES 2026 i Las Vegas - Mynewsdesk
 
@@ -29,19 +29,19 @@ _Updated: 2026-01-09 20:55_
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- The Sweden International Improv Festival Will Return in 2026 - BroadwayWorld.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Importers brace for $150 billion tariff refund fight if Trump loses at Supreme Court - Reuters
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
