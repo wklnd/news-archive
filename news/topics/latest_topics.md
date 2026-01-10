@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 13:39_
+_Updated: 2026-01-10 15:06_
 
 ## Top Stories
 
-- Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
-- Äldre man saknas efter villabrand utanför Östhammar - SVT Nyheter
-- Löneavdrag efter snökaos upprör anställda på Sahlgrenska sjukhuset - SVT Nyheter
+- Oljetoppar skeptiska till satsningen: ”Går inte att investera” - Expressen
+- Kristersson: Världen behöver färre rövhål - Expressen
+- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
+- Instruktionen till 13-åringen: Skjut den första som öppnar - Aftonbladet
 - 10 januari 11.23, Trafikkontroll, Västernorrlands län - Polisen.se
-- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
-- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
-- Kall och solig vinterhelg: ”Passa på” - Dagens Nyheter
+- Löneavdrag efter snökaos upprör anställda på Sahlgrenska sjukhuset - SVT Nyheter
+- Person anhållen för misstänkt våldtäkt på restaurang i Västerås - SVT Nyheter
+- S försvarstänk är kvar i det förgångna - SvD
 - En död efter olycka på E6 vid Vellinge - SVT Nyheter
-- Efter snösmockan i Stockholm – många klagomål på oplogade gator: ”Synd om de äldre” - Dagens Nyheter
-- C: Statsministern kan inte gömma sig för Trump – Senaste nytt om valet 2026 - SVT Nyheter
-- Så kan stormakterna dela upp världen mellan sig - Dagens Nyheter
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
+- Direkt – Kriget i Ukraina – Elen avstängd i Kiev efter ryska attacker - Dagens Nyheter
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- Ukraina: Över en miljon utan värme - SVT Nyheter
-- Högerns quislingar vill rulla ut mattan för Trump - Flamman
+- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
+- Macrons dilemma – fight i Vita huset - Expressen
 - Så går det till att starta en gruva - Östersunds-Posten
-- Allt fler unga sitter på livstid: "Inte mogna" - SvD
 - Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
-- Bill Gates ger ex-frun 72 miljarder - Expressen
-- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
-- Garmins släpper en ny färg till sin populära Venu X1-klocka - TechRadar
+- TV-kanal slutar fungera på måndag – många vet inte om det - Marcus Oscarsson
+- Allt fler unga sitter på livstid: "Inte mogna" - SvD
+- Ett 773 000 år gammalt grottfynd kan förändra människans historia - Illustrerad Vetenskap
+- Kunderna trodde att det var ett misstag när de såg det i hyllorna: Ny IKEA-produkt löser ett dyrt problem i ett enda grepp - Dagens.se
 
 ## World News
 
@@ -101,26 +101,28 @@ _Updated: 2026-01-10 13:39_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -129,14 +131,12 @@ _Updated: 2026-01-10 13:39_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
@@ -156,9 +156,9 @@ _Updated: 2026-01-10 13:39_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
