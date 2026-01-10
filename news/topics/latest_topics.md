@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 08:52_
+_Updated: 2026-01-10 09:40_
 
 ## Top Stories
 
 - Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
+- Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
+- Man död efter olycka på E6 - Expressen
 - När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
 - 10 januari 07.32, Sammanfattning natt, Norrbottens län - Polisen.se
-- Ny köldsmocka – här blir det kallast - Expressen
-- Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
+- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
+- Ei granskar elavbrotten efter stormarna – så arbetar vi med leveranssäkerheten - Energimarknadsinspektionen
 - Utvisning stoppas: ”Chockad och tacksam” - Dagens Nyheter
 - 09 januari 21.35, Trafikkontroll, Norrbottens län - Polisen.se
-- Här har skidspåren öppnat i Stockholm - Mitt i
-- En död efter olycka på E6 vid Vellinge - SVT Nyheter
-- Oljebolag skeptiska till Venezuela - SVT Nyheter
-- Ryska attacker intensifieras medan temperaturen faller i Ukraina - Dagens Nyheter
+- Ukraina: Över en miljon utan värme - SVT Nyheter
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- ”Ukraina behöver säkerhet nu – inte sen” - Västerbottens-Kuriren
+- Högerns quislingar vill rulla ut mattan för Trump - Flamman
+- Stärk Ukrainastödet utan att gynna Ryssland i Afrika - Altinget.se
 - Ekonom om nya elbilspremien: ”Väldigt få har råd” - Aftonbladet
-- Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
 - Allt fler unga sitter på livstid: "Inte mogna" - SvD
-- Många kontaktar oss om sin återbetalning - CSN
+- Stor potential efter jätteköp och kursfall - DI
+- Rekordmånga traktorer under klubban - Jordbruksaktuellt
 - Reaktionen på Leksells skämt – om flickvännen • Asgarvet - Expressen
 - TCL presenterar årets innovations och produktnyheter under CES 2026 i Las Vegas - Mynewsdesk
-- Polismördaren Arklöv får inte straff tidsbestämt - Folkbladet
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
@@ -41,7 +42,6 @@ _Updated: 2026-01-10 08:52_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -100,20 +100,20 @@ _Updated: 2026-01-10 08:52_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -146,7 +146,7 @@ _Updated: 2026-01-10 08:52_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
@@ -155,10 +155,10 @@ _Updated: 2026-01-10 08:52_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
