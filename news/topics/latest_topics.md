@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 07:44_
+_Updated: 2026-01-10 08:52_
 
 ## Top Stories
 
 - Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
-- Man i 30-årsåldern död efter olyckan på E6 - Sydsvenskan
-- Ryska attacker intensifieras medan temperaturen faller i Ukraina - Dagens Nyheter
-- Så här hanterar vi den stora mängden av snö - Västerås stad
+- När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
+- 10 januari 07.32, Sammanfattning natt, Norrbottens län - Polisen.se
+- Ny köldsmocka – här blir det kallast - Expressen
 - Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
-- Snödrev på vägarna i Skåne – flera olyckor - GP
 - Utvisning stoppas: ”Chockad och tacksam” - Dagens Nyheter
 - 09 januari 21.35, Trafikkontroll, Norrbottens län - Polisen.se
 - Här har skidspåren öppnat i Stockholm - Mitt i
+- En död efter olycka på E6 vid Vellinge - SVT Nyheter
+- Oljebolag skeptiska till Venezuela - SVT Nyheter
+- Ryska attacker intensifieras medan temperaturen faller i Ukraina - Dagens Nyheter
+- Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
 - ”Ukraina behöver säkerhet nu – inte sen” - Västerbottens-Kuriren
-- När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
-- Stärk Ukrainastödet utan att gynna Ryssland i Afrika - Altinget.se
-- Trump och Machado ska ses i Washington nästa vecka - Omni
-- Hotar stämma Klarna – efter rapporten - SvD
-- Tomt på nötfärs i butikerna: ”Kan ta ett tag” - Aftonbladet
+- Ekonom om nya elbilspremien: ”Väldigt få har råd” - Aftonbladet
 - Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
+- Allt fler unga sitter på livstid: "Inte mogna" - SvD
 - Många kontaktar oss om sin återbetalning - CSN
 - Reaktionen på Leksells skämt – om flickvännen • Asgarvet - Expressen
 - TCL presenterar årets innovations och produktnyheter under CES 2026 i Las Vegas - Mynewsdesk
@@ -37,9 +37,9 @@ _Updated: 2026-01-10 07:44_
 - Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -121,16 +121,15 @@ _Updated: 2026-01-10 07:44_
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -139,6 +138,7 @@ _Updated: 2026-01-10 07:44_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
