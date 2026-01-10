@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-10 21:48_
+_Updated: 2026-01-10 22:51_
 
-- 2 people were shot by a federal agent after accusations of having ties to a notorious gang. Here is what we know - CNN
-- Trump’s $100 Billion Venezuela Oil Plan Gets a Cool Reception - The New York Times
-- How Delcy Rodríguez, Venezuela’s Leader, Became Vital to Trump’s Plans for the Country - The New York Times
-- Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement - The White House (.gov)
-- Russian Offensive Campaign Assessment, January 8, 2026 - Institute for the Study of War
-- ICYMI: Secretary Rollins and Secretary Kennedy Pen Joint Op-ed in Fox News “New Dietary Plan Recommends Real Food for All Americans” - USDA (.gov)
+- Russia uses hypersonic missile against Ukraine - Financial Times
+- Trump pushes a 1-year, 10% cap on credit card interest rates and banks balk - AP News
+- Gov. Newsom’s last state budget: Here’s what we know - CalMatters
+- House easily passes spending package as lawmakers work to avoid another shutdown - PBS
+- Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota - U.S. Department of the Treasury (.gov)
+- IRS.gov resources can help answer questions about the One, Big, Beautiful Bill - IRS (.gov)
+- Ex-husband arrested in connection with murder of Ohio dentist and his wife - NBC News
 - Judge says Trump administration can’t block child care, other program money for 5 states for now - abcnews.go.com
-- More severe thunderstorms including tornadoes, flash flooding possible in the South - abcnews.go.com
-- Families of Slain Idaho Students Sue the University the Killer Attended - The New York Times
-- House refuses to override Trump veto of Colorado water project - Colorado Public Radio
+- Beef Tallow Rises to the Top of the U.S. Food Pyramid - The New York Times
+- Congress debates possible consequences for ICE and Noem after Renee Good's killing - PBS
+- Tehran’s show of strength—and the cracks beneath - ایران اینترنشنال
 - Winter pierces Kyiv homes after Russia knocks out heat - Reuters
-- Southern Yemen separatist group says it will dissolve after its head fled to the UAE - NPR
+- North Korea vows response as it accuses the South of flying drones across the border - abcnews.go.com
 - Protester climbs onto balcony of Iranian embassy in London - BBC
-- Trump, Venezuela and the doctrine that wouldn’t die - Financial Times
-- Amazon Pharmacy Begins Offering Wegovy Pill - WSJ - The Wall Street Journal
+- 'Out of stock': What went wrong at luxury retailer Saks? - BBC
 - Avelo Airlines to halt deportation flights for ICE - CBS News
-- Why tariffs have hit Americans’ jobs harder than their shopping carts - CNN
+- Trump order targeting defense contractor pay, stock buybacks is ‘full of ambiguity’ - Federal News Network
 - Boozman considers delaying crypto markup as bipartisan talks pick up - Politico
+- Samsung Confirms New Options For Android Users After Gmail Issues - Forbes
 - Why Tech Launches Stopped Feeling Magical - Lifehacker
-- iPhone Air 2 could get two of the most requested feature upgrades - 9to5Mac
