@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 06:54_
+_Updated: 2026-01-10 07:44_
 
 ## Top Stories
 
 - Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
 - Man i 30-årsåldern död efter olyckan på E6 - Sydsvenskan
 - Ryska attacker intensifieras medan temperaturen faller i Ukraina - Dagens Nyheter
-- Skärpta villkor för friskolesektorn – ytterligare förslag - Regeringen.se
+- Så här hanterar vi den stora mängden av snö - Västerås stad
 - Historiskt besked för Sveriges mark- och skogsägare - Moderaterna
-- Har vi tappat tron på barnets förmåga att bli en god människa? - Dagens Arena
 - Snödrev på vägarna i Skåne – flera olyckor - GP
 - Utvisning stoppas: ”Chockad och tacksam” - Dagens Nyheter
-- Ny köldsmocka – här blir det kallast - Expressen
 - 09 januari 21.35, Trafikkontroll, Norrbottens län - Polisen.se
+- Här har skidspåren öppnat i Stockholm - Mitt i
 - ”Ukraina behöver säkerhet nu – inte sen” - Västerbottens-Kuriren
+- När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
 - Stärk Ukrainastödet utan att gynna Ryssland i Afrika - Altinget.se
-- Machado och Trump ska träffas ”nästa vecka” - DI
+- Trump och Machado ska ses i Washington nästa vecka - Omni
 - Hotar stämma Klarna – efter rapporten - SvD
 - Tomt på nötfärs i butikerna: ”Kan ta ett tag” - Aftonbladet
+- Krafttag mot arbetslivskriminalitet i offentliga upphandlingar - Regeringen.se
 - Många kontaktar oss om sin återbetalning - CSN
-- Rekordmånga traktorer under klubban - Jordbruksaktuellt
 - Reaktionen på Leksells skämt – om flickvännen • Asgarvet - Expressen
 - TCL presenterar årets innovations och produktnyheter under CES 2026 i Las Vegas - Mynewsdesk
-- Lenovo visar framtiden på CES 2026 - personlig AI, nya koncept och smartare enheter - dopest.se
+- Polismördaren Arklöv får inte straff tidsbestämt - Folkbladet
 
 ## World News
 
@@ -64,12 +64,12 @@ _Updated: 2026-01-10 06:54_
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -100,45 +100,45 @@ _Updated: 2026-01-10 06:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- E-hälsa inom EU - Läkartidningen
+- Engineering Health 2024 - Chalmers
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
