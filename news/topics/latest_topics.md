@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 12:45_
+_Updated: 2026-01-10 13:39_
 
 ## Top Stories
 
 - Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
 - Äldre man saknas efter villabrand utanför Östhammar - SVT Nyheter
-- Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
-- DN Direkt – Ebba Busch: ”Ofrivilligt avklädd av Elon Musks Grok” - Dagens Nyheter
-- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
-- Silverskatten som försvann – värdefulla föremål stals från Kulturen - Sydsvenskan
+- Löneavdrag efter snökaos upprör anställda på Sahlgrenska sjukhuset - SVT Nyheter
+- 10 januari 11.23, Trafikkontroll, Västernorrlands län - Polisen.se
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
+- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
 - Kall och solig vinterhelg: ”Passa på” - Dagens Nyheter
-- Efter snösmockan i Stockholm – många klagomål på oplogade gator: ”Synd om de äldre” - Dagens Nyheter
 - En död efter olycka på E6 vid Vellinge - SVT Nyheter
-- 10 januari 07.48, Sammanfattning natt, Östergötlands län - polisen.se
+- Efter snösmockan i Stockholm – många klagomål på oplogade gator: ”Synd om de äldre” - Dagens Nyheter
+- C: Statsministern kan inte gömma sig för Trump – Senaste nytt om valet 2026 - SVT Nyheter
 - Så kan stormakterna dela upp världen mellan sig - Dagens Nyheter
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- Ryssland hotar attackera fredsstyrkor i Ukraina - DI
+- Ukraina: Över en miljon utan värme - SVT Nyheter
+- Högerns quislingar vill rulla ut mattan för Trump - Flamman
 - Så går det till att starta en gruva - Östersunds-Posten
-- Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
 - Allt fler unga sitter på livstid: "Inte mogna" - SvD
-- Trump vill begränsa kreditkortsräntor till 10 procent - DI
+- Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
+- Bill Gates ger ex-frun 72 miljarder - Expressen
+- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
 - Garmins släpper en ny färg till sin populära Venu X1-klocka - TechRadar
-- Microsoft testar att bygga in Copilot i Utforskaren - PC för Alla
 
 ## World News
 
@@ -68,8 +68,8 @@ _Updated: 2026-01-10 12:45_
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,11 +101,9 @@ _Updated: 2026-01-10 12:45_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -113,17 +111,19 @@ _Updated: 2026-01-10 12:45_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -146,6 +146,7 @@ _Updated: 2026-01-10 12:45_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -158,7 +159,6 @@ _Updated: 2026-01-10 12:45_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
