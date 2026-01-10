@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 17:41_
+_Updated: 2026-01-10 18:48_
 
 ## Top Stories
 
-- Uppgifter: Styrkor skjuter skarpt i Teheran - SvD
-- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
 - Oljetoppar skeptiska till satsningen: ”Går inte att investera” - Expressen
-- Man anhållen för grov våldtäkt i Boden - SVT Nyheter
-- Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
-- Person anhållen för misstänkt våldtäkt på restaurang i Västerås - SVT Nyheter
+- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
+- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
+- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
+- Missilvarning ljuder i Ryssland – aktiverar nödläge - Marcus Oscarsson
+- Misstaget som dödade 179 ombord: ”En chock” - aftonbladet.se
+- Misstänkt våldtäkt på krog i Västerås - Strengnäs Tidning
 - En död efter olycka på E6 vid Vellinge - SVT Nyheter
 - Löneavdrag efter snökaos upprör anställda på Sahlgrenska sjukhuset - SVT Nyheter
 - 10 januari 07.48, Sammanfattning natt, Östergötlands län - polisen.se
 - Iranska regimens flagga utbytt på X - GP
-- Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
-- Misstaget som dödade 179 ombord: ”En chock” - Aftonbladet
+- Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
+- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
 - Påvens tack till civila och kyrkliga organ som hjälpt till under jubelåret - Vatican News
-- Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - Aftonbladet
-- Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
-- Spara 300 000 kronor på att importera bilen - Aftonbladet
-- Skolvalet är igång – här är svaren på föräldrarnas frågor - Sydsvenskan
-- Godzilla återerövrar biodukarna i höst med ny storslagen film - MovieZine.se
+- Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - aftonbladet.se
+- Stjärnadvokaten ska försvara Intellegos vd – säger upp offentliga försvararen - DI
+- Johan, 73, bäst (?) i Sverige – åker inte skridskor - aftonbladet.se
+- Spara 300 000 kronor på att importera bilen - aftonbladet.se
 - UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
+- Nintendo släpper nya Joy-Con 2-kontroller till Switch 2 - m3.se
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2026-01-10 17:41_
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -58,18 +58,18 @@ _Updated: 2026-01-10 17:41_
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,8 +77,8 @@ _Updated: 2026-01-10 17:41_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -101,19 +101,19 @@ _Updated: 2026-01-10 17:41_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -122,22 +122,22 @@ _Updated: 2026-01-10 17:41_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -160,5 +160,5 @@ _Updated: 2026-01-10 17:41_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
