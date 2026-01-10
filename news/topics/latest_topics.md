@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 22:44_
+_Updated: 2026-01-10 23:40_
 
 ## Top Stories
 
 - Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
-- Polisen trappar ner sökandet efter Hanna - Expressen
-- Oljetoppar skeptiska till satsningen: ”Går inte att investera” - Expressen
+- ”En avsiktlig systematisk terror – 100 procent” - SvD
 - Polisen: Nu väntar vi på anmälningarna om julens våld - Sydsvenskan
-- 10 januari 11.23, Trafikkontroll, Västernorrlands län - Polisen.se
-- Gul varning: Kraftiga snöbyar med lokalt stora snömängder - Region Gotland
-- 10 januari 10.52, Trafikkontroll, Västerbottens län - Polisen.se
-- Efter snösmockan i Stockholm – många klagomål på oplogade gator: ”Synd om de äldre” - Dagens Nyheter
+- Turister fast på Gaustatoppen – räddningsinsats pågår - Expressen
+- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
+- Bagagekaos på Kastrup – stora förseningar - Expressen
+- 10 januari 10.52, Trafikkontroll, Västerbottens län - polisen.se
 - Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
 - En död i olycka i Vellinge - SvD
+- Oljebolag skeptiska till Venezuela - SVT Nyheter
 - Norge: Fredspriset kan inte delas med Trump - SVT Nyheter
-- Iranska regimens flagga utbytt på X - GP
-- Fördömanden efter ryska hypersoniska attacker - Hufvudstadsbladet
-- Direkt – Kriget i Ukraina – Elen avstängd i Kiev efter ryska attacker - Dagens Nyheter
+- Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
+- Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
 - ”Börsernas reaktion kan förvåna många” - SvD
 - Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
 - Elsa, 22: ”Är olagligt – men var sista utvägen” - SvD
-- Avanzas tidigare VD föreslås som nyval till styrelsen i Swedbank - Placera.se
+- Stjärnadvokaten ska försvara Intellegos vd – säger upp offentliga försvararen - DI
 - Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - Aftonbladet
 - Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
+- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
 
 ## World News
 
@@ -102,12 +102,12 @@ _Updated: 2026-01-10 22:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
