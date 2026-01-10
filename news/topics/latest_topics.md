@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 16:43_
+_Updated: 2026-01-10 17:41_
 
 ## Top Stories
 
+- Uppgifter: Styrkor skjuter skarpt i Teheran - SvD
 - Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
 - Oljetoppar skeptiska till satsningen: ”Går inte att investera” - Expressen
-- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
-- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
+- Man anhållen för grov våldtäkt i Boden - SVT Nyheter
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- 10 januari 11.23, Trafikkontroll, Västernorrlands län - Polisen.se
+- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
+- Person anhållen för misstänkt våldtäkt på restaurang i Västerås - SVT Nyheter
 - En död efter olycka på E6 vid Vellinge - SVT Nyheter
-- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
-- 08 januari 17.34, Trafikkontroll, Västerbottens län - Polisen.se
-- Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
-- Iranska regimens flagga utbytt på X - Aftonbladet
-- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
+- Löneavdrag efter snökaos upprör anställda på Sahlgrenska sjukhuset - SVT Nyheter
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - polisen.se
+- Iranska regimens flagga utbytt på X - GP
 - Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
 - Misstaget som dödade 179 ombord: ”En chock” - Aftonbladet
-- Ford Puma är ett litet lyckopiller med flera överraskningar - Dagens Nyheter
+- Påvens tack till civila och kyrkliga organ som hjälpt till under jubelåret - Vatican News
 - Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - Aftonbladet
 - Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
 - Spara 300 000 kronor på att importera bilen - Aftonbladet
-- Ett 773 000 år gammalt grottfynd kan förändra människans historia - Illustrerad Vetenskap
+- Skolvalet är igång – här är svaren på föräldrarnas frågor - Sydsvenskan
 - Godzilla återerövrar biodukarna i höst med ny storslagen film - MovieZine.se
+- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
 
 ## World News
 
@@ -64,12 +64,12 @@ _Updated: 2026-01-10 16:43_
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,19 +101,19 @@ _Updated: 2026-01-10 16:43_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -130,10 +130,10 @@ _Updated: 2026-01-10 16:43_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
