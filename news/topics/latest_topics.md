@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 00:44_
+_Updated: 2026-01-11 01:41_
 
 ## Top Stories
 
-- EU-parlamentet hotar frysa handelsavtal med USA efter Trumps utspel - SVT Nyheter
 - Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
-- Turister fast på Gaustatoppen – räddningsinsats pågår - Expressen
+- Venezuela skapar rubriker – fakta i frågan - Sverige för UNHCR
 - ”En avsiktlig systematisk terror – 100 procent” - SvD
 - Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
 - Bagagekaos på Kastrup – stora förseningar - Expressen
-- 10 januari 10.52, Trafikkontroll, Västerbottens län - Polisen.se
+- Gul varning: Kraftiga snöbyar med lokalt stora snömängder - Region Gotland
+- Expertens tips: Så skottar du utan att skada dig - GP
+- 10 januari 10.52, Trafikkontroll, Västerbottens län - polisen.se
 - En död i olycka i Vellinge - SvD
-- Vinterberedskap för vägar och gång- och cykelbanor - Tyresö kommun
 - Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
 - Norge: Fredspriset kan inte delas med Trump - SVT Nyheter
 - Uppgift: Barägaren hittade döda bakom låst dörr - Västerbottens-Kuriren
 - USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
+- LEDARE: Snart blir det olagligt att vara svartsjuk - Expressen
 - Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
 - Stjärnadvokaten ska försvara Intellegos vd – säger upp offentliga försvararen - DI
 - Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
-- Spara 300 000 kronor på att importera bilen - Aftonbladet
-- Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - Aftonbladet
 - Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
+- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
 
 ## World News
 
@@ -64,10 +64,10 @@ _Updated: 2026-01-11 00:44_
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
@@ -77,8 +77,8 @@ _Updated: 2026-01-11 00:44_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -125,17 +125,17 @@ _Updated: 2026-01-11 00:44_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
