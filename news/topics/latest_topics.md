@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 15:46_
+_Updated: 2026-01-10 16:43_
 
 ## Top Stories
 
+- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
 - Oljetoppar skeptiska till satsningen: ”Går inte att investera” - Expressen
-- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
-- Instruktionen till 13-åringen: Skjut den första som öppnar - Aftonbladet
 - Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
+- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
 - 10 januari 11.23, Trafikkontroll, Västernorrlands län - Polisen.se
-- Person anhållen för misstänkt våldtäkt på restaurang i Västerås - SVT Nyheter
 - En död efter olycka på E6 vid Vellinge - SVT Nyheter
-- Löneavdrag efter snökaos upprör anställda på Sahlgrenska sjukhuset - SVT Nyheter
-- 10 januari 13.03, Trafikolycka, personskada, Uppsala - Polisen.se
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
+- 08 januari 17.34, Trafikkontroll, Västerbottens län - Polisen.se
+- Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
 - Iranska regimens flagga utbytt på X - Aftonbladet
-- Stjärnadvokaten ska försvara Intellegos vd – säger upp… - DI
 - Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- MMA-krock– tvingas ändra allt för Trump - Expressen
-- Så går det till att starta en gruva - Östersunds-Posten
+- Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
+- Misstaget som dödade 179 ombord: ”En chock” - Aftonbladet
 - Ford Puma är ett litet lyckopiller med flera överraskningar - Dagens Nyheter
 - Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - Aftonbladet
 - Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
+- Spara 300 000 kronor på att importera bilen - Aftonbladet
 - Ett 773 000 år gammalt grottfynd kan förändra människans historia - Illustrerad Vetenskap
-- Kunderna trodde att det var ett misstag när de såg det i hyllorna: Ny IKEA-produkt löser ett dyrt problem i ett enda grepp - Dagens.se
+- Godzilla återerövrar biodukarna i höst med ny storslagen film - MovieZine.se
 
 ## World News
 
@@ -119,25 +119,25 @@ _Updated: 2026-01-10 15:46_
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -156,9 +156,9 @@ _Updated: 2026-01-10 15:46_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
