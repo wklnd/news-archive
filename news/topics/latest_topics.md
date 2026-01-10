@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 10:49_
+_Updated: 2026-01-10 11:42_
 
 ## Top Stories
 
-- Svensk man gripen i Egypten – misstänkt för anstiftan till mord - SVT Nyheter
-- Adam Cwejman: Den iranska regimens dagar är räknade - GP
+- Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
+- Person anhållen för misstänkt våldtäkt på restaurang i Västerås - SVT Nyheter
+- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
 - Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
-- Säger ja till Rysslands krav – Kreml tackar USA - Marcus Oscarsson
-- 10 januari 07.48, Sammanfattning natt, Östergötlands län - Polisen.se
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - polisen.se
 - Ei granskar elavbrotten efter stormarna – så arbetar vi med leveranssäkerheten - Energimarknadsinspektionen
-- 10 januari 07.32, Sammanfattning natt, Norrbottens län - Polisen.se
-- 09 januari 21.35, Trafikkontroll, Norrbottens län - Polisen.se
-- Här har skidspåren öppnat i Stockholm - Mitt i
-- Oljebolag skeptiska till Venezuela - SVT Nyheter
+- Svensk man gripen i Egypten – misstänkt för anstiftan till mord - SVT Nyheter
+- Kall och solig vinterhelg: ”Passa på” - Västerbottens-Kuriren
+- ”Det finns folk som aldrig flyttar sina bilar” - SvD
+- En död efter olycka på E6 vid Vellinge - SVT Nyheter
 - När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
 - Ukraina: Över en miljon utan värme - SVT Nyheter
-- Ekonom om nya elbilspremien: ”Väldigt få har råd” - SvD
+- Syriens regering: Vapenvila i Aleppo - SVT Nyheter
+- Ekonom om nya elbilspremien: ”Väldigt få har råd” - DI
 - Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
 - Allt fler unga sitter på livstid: "Inte mogna" - SvD
-- Stor potential efter jätteköp och kursfall - DI
+- Trump vill begränsa kreditkortsräntor till 10 procent - DI
+- Säkerhetsexperter varnar: Kolla den här iPhone-inställningen direkt - Dagens.se
 - Reaktionen på Leksells skämt – om flickvännen • Asgarvet - Expressen
-- The Division 3 kan få "lika stort genomslag som Division 1", menar producenten - FZ.se
-- Polismördaren Arklöv får inte straff tidsbestämt - Folkbladet
 
 ## World News
 
@@ -37,11 +37,11 @@ _Updated: 2026-01-10 10:49_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -64,19 +64,20 @@ _Updated: 2026-01-10 10:49_
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -86,13 +87,12 @@ _Updated: 2026-01-10 10:49_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,19 +101,19 @@ _Updated: 2026-01-10 10:49_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -146,7 +146,6 @@ _Updated: 2026-01-10 10:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -159,6 +158,7 @@ _Updated: 2026-01-10 10:49_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
