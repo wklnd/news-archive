@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 23:40_
+_Updated: 2026-01-11 00:44_
 
 ## Top Stories
 
-- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
-- ”En avsiktlig systematisk terror – 100 procent” - SvD
-- Polisen: Nu väntar vi på anmälningarna om julens våld - Sydsvenskan
+- EU-parlamentet hotar frysa handelsavtal med USA efter Trumps utspel - SVT Nyheter
+- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
 - Turister fast på Gaustatoppen – räddningsinsats pågår - Expressen
-- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
+- ”En avsiktlig systematisk terror – 100 procent” - SvD
+- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
 - Bagagekaos på Kastrup – stora förseningar - Expressen
-- 10 januari 10.52, Trafikkontroll, Västerbottens län - polisen.se
-- Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
+- 10 januari 10.52, Trafikkontroll, Västerbottens län - Polisen.se
 - En död i olycka i Vellinge - SvD
-- Oljebolag skeptiska till Venezuela - SVT Nyheter
+- Vinterberedskap för vägar och gång- och cykelbanor - Tyresö kommun
+- Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
 - Norge: Fredspriset kan inte delas med Trump - SVT Nyheter
+- Uppgift: Barägaren hittade döda bakom låst dörr - Västerbottens-Kuriren
+- USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
-- Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- ”Börsernas reaktion kan förvåna många” - SvD
 - Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
-- Elsa, 22: ”Är olagligt – men var sista utvägen” - SvD
 - Stjärnadvokaten ska försvara Intellegos vd – säger upp offentliga försvararen - DI
+- Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
+- Spara 300 000 kronor på att importera bilen - Aftonbladet
 - Mystiskt mejl från Instagram förvirrar: ”Väldigt märkligt” - Aftonbladet
 - Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
-- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
 
 ## World News
 
@@ -58,17 +58,17 @@ _Updated: 2026-01-10 23:40_
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -102,12 +102,12 @@ _Updated: 2026-01-10 23:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -126,13 +126,13 @@ _Updated: 2026-01-10 23:40_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
@@ -146,7 +146,7 @@ _Updated: 2026-01-10 23:40_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -154,11 +154,11 @@ _Updated: 2026-01-10 23:40_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
