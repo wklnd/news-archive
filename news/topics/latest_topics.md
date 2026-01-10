@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-10 11:42_
+_Updated: 2026-01-10 12:45_
 
 ## Top Stories
 
 - Protesterna tilltar i Iran: ”Slår till hårt mot demonstranterna” - SVT Nyheter
-- Person anhållen för misstänkt våldtäkt på restaurang i Västerås - SVT Nyheter
-- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
+- Äldre man saknas efter villabrand utanför Östhammar - SVT Nyheter
 - Så drabbade snöovädret läkarna: »Folk har ställt upp för varandra« - Läkartidningen
-- 10 januari 07.48, Sammanfattning natt, Östergötlands län - polisen.se
-- Ei granskar elavbrotten efter stormarna – så arbetar vi med leveranssäkerheten - Energimarknadsinspektionen
-- Svensk man gripen i Egypten – misstänkt för anstiftan till mord - SVT Nyheter
-- Kall och solig vinterhelg: ”Passa på” - Västerbottens-Kuriren
-- ”Det finns folk som aldrig flyttar sina bilar” - SvD
+- DN Direkt – Ebba Busch: ”Ofrivilligt avklädd av Elon Musks Grok” - Dagens Nyheter
+- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
+- Silverskatten som försvann – värdefulla föremål stals från Kulturen - Sydsvenskan
+- Kall och solig vinterhelg: ”Passa på” - Dagens Nyheter
+- Efter snösmockan i Stockholm – många klagomål på oplogade gator: ”Synd om de äldre” - Dagens Nyheter
 - En död efter olycka på E6 vid Vellinge - SVT Nyheter
-- När stormakterna styckar världen: Europas sista chans att vakna - Kvartal
+- 10 januari 07.48, Sammanfattning natt, Östergötlands län - polisen.se
+- Så kan stormakterna dela upp världen mellan sig - Dagens Nyheter
 - Skogsbränder bakom katastrofläge i Australien - SVT Nyheter
-- Ukraina: Över en miljon utan värme - SVT Nyheter
 - Syriens regering: Vapenvila i Aleppo - SVT Nyheter
-- Ekonom om nya elbilspremien: ”Väldigt få har råd” - DI
+- Ryssland hotar attackera fredsstyrkor i Ukraina - DI
+- Så går det till att starta en gruva - Östersunds-Posten
 - Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
 - Allt fler unga sitter på livstid: "Inte mogna" - SvD
 - Trump vill begränsa kreditkortsräntor till 10 procent - DI
-- Säkerhetsexperter varnar: Kolla den här iPhone-inställningen direkt - Dagens.se
-- Reaktionen på Leksells skämt – om flickvännen • Asgarvet - Expressen
+- Garmins släpper en ny färg till sin populära Venu X1-klocka - TechRadar
+- Microsoft testar att bygga in Copilot i Utforskaren - PC för Alla
 
 ## World News
 
@@ -37,11 +37,11 @@ _Updated: 2026-01-10 11:42_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -68,8 +68,8 @@ _Updated: 2026-01-10 11:42_
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -102,27 +102,26 @@ _Updated: 2026-01-10 11:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -130,15 +129,16 @@ _Updated: 2026-01-10 11:42_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
