@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 23:40_
+_Updated: 2026-01-12 00:44_
 
 ## Top Stories
 
+- Kristersson (M): USA borde tacka Danmark – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
 - Klart: Då skriver EU under jätteavtalet med Sydamerika - DI
+- Natos ÖB lyfter Sveriges roll i försvar av Arktis - Aftonbladet
+- Hisingsbron fastnade i två timmar – trafiken stod still - GP
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
-- Fortsatt inställda nattåg - SVT Nyheter
-- Satte in skräckvapen: Soldater kräktes blod - Expressen
+- ”En avsiktlig systematisk terror – 100 procent” - SvD
 - Misstänkt farligt föremål i Bunkeflostrand i Malmö - SVT Nyheter
+- Andersson (S): Vill ha multinationella styrkor på Gotland – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Fortsatt inställda nattåg - SVT Nyheter
 - Därför rullar vissa busslinjer och andra inte - GP
-- Natos ÖB lyfter Sveriges roll i försvar av Arktis - SvD
-- Epa-killarnas hjälteinsats i minus 35 grader - Aftonbladet
-- Startskottet går i Sävsjö kommun - nu införs Närsorterat - NewsMachine AB
-- Svensk man gripen i Egypten – misstänkt för anstiftan till mord - SVT Nyheter
 - President Trump till Kuba: Gör en uppgörelse innan det är för sent - Yle
 - USA uppmanar sina medborgare att lämna Venezuela - Aftonbladet
 - Britter utvecklar robot för Ukraina - SVT Nyheter
-- Polisinsats efter bedrägeriförsök och rån mot äldre - märsta.nu
+- Konsistoriet i backspegeln - Signum – Katolsk orientering om kyrka, kultur och samhälle
 - AI-minne slutsålt – priserna rusar i historisk takt - Dagens PS
 - Norrland sticker ut på bomarknaden - SVT Nyheter
-- Hisingsbron fastnade i öppet läge - Aftonbladet
-- Efter McDonalds – ytterligare en restaurang försvinner från Öster - Helagotland
-- V64 Tips Axevalla 13/1: Öppen omgång med stor potential att vänta! - Travcash
+- Uppsalaparets lyxiga lya lockade mest – i hela landet - UNT
+- Norrköpingsföretagets teknik kan ge miljardomsättning - NT
 - Dessa smartphones är nu kraftfullare än iPhone - Dagens PS
+- Dagens Dubbel Tips 12/1 - Travcash
 
 ## World News
 
@@ -74,25 +74,25 @@ _Updated: 2026-01-11 23:40_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2026-01-11 23:40_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - cordis - eu
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
