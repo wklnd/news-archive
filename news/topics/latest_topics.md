@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 04:56_
+_Updated: 2026-01-11 06:33_
 
 ## Top Stories
 
-- Flyr villaområdet efter morden – kirurg pekas ut - Aftonbladet
+- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
 - Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
-- Expert: Tydlig motsättning mellan Trump och de stora oljebolagen - Dagens Nyheter
+- USA: Amerikaner bör lämna Venezuela omedelbart - Omni
 - Därför rullar vissa busslinjer och andra inte - GP
 - ”En avsiktlig systematisk terror – 100 procent” - SvD
-- Nobelinstitutet: Fredspriset kan inte delas - Dagens Nyheter
+- Expert: Tydlig motsättning mellan Trump och de stora oljebolagen - Dagens Nyheter
+- En död i olycka i Vellinge - SvD
 - Snorkallt – sedan mer snö: ”Inget extremväder” - Södra Dalarnes Tidning
 - 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
-- En död i olycka i Vellinge - SvD
 - Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
-- DN Direkt – USA uppmanar sina medborgare att lämna Venezuela - Dagens Nyheter
 - Uppgift: Barägaren hittade döda bakom låst dörr - Västerbottens-Kuriren
-- DN Direkt – USA besköt IS-mål i Syrien - Dagens Nyheter
 - USA: Har attackerat IS-mål i Syrien - SVT Nyheter
+- Sonen: Maduro mår bra i amerikanskt förvar - SVT Nyheter
+- Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
 - Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
 - Ny metod fick kraftavtal i mål - Upphandling24
+- LEDARE: Snart blir det olagligt att vara svartsjuk - Expressen
 - Så många miljoner kostade dyraste villan i Degerfors kommun 2025 - NWT
-- Transportföretagen välkomnar åtgärder mot arbetslivskriminalitet - Bussmagasinet
-- Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
 - Nasa kallar hem astronauter från ISS – för första gången på 65 år - Expressen
+- Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
 
 ## World News
 
@@ -32,20 +32,20 @@ _Updated: 2026-01-11 04:56_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Avlyssningsskandalen växer - Journalisten
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -58,18 +58,18 @@ _Updated: 2026-01-11 04:56_
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - EU Digital Strategy
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
+- Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -119,25 +119,25 @@ _Updated: 2026-01-11 04:56_
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -146,19 +146,19 @@ _Updated: 2026-01-11 04:56_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
