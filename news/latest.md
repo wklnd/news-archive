@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-11 01:49_
+_Updated: 2026-01-11 04:59_
 
-- FBI’s Inquiry Into Minneapolis ICE Shooting Faces Doubts After White House’s Remarks - The New York Times
+- Iran Death Toll Rises as Crackdown Intensifies - The Wall Street Journal
+- Security Alert Venezuela: January 10, 2026: Do Not Travel to Venezuela; Depart Immediately - U.S. Embassy in Venezuela (.gov)
 - Cooler Temperatures Taking Over - KSAT
 - Russia uses hypersonic missile against Ukraine - Financial Times
 - Gov. Newsom’s last state budget: Here’s what we know - CalMatters
-- Trump announces one-year 10% cap on credit card interest rates - The Guardian
-- Rioter convicted for carrying Pelosi's podium seeks Florida county office - abcnews.go.com
-- Ex-husband arrested in connection with murder of Ohio dentist and his wife - NBC News
-- Judge says Trump administration can’t block child care, other program money for 5 states for now - abcnews.go.com
-- Congress debates possible consequences for ICE and Noem after Renee Good's killing - PBS
-- Agents in Trump’s Immigration Crackdown Have Fired at Vehicles at Least 10 Times - The New York Times
-- Winter pierces Kyiv homes after Russia knocks out heat - Reuters
+- Rams 34-31 Panthers (Jan 10, 2026) Game Recap - ESPN
+- Six Dead in Mississippi Shooting; Suspect in Custody, Clay County Sheriff Says - The New York Times
+- Machado Offered Trump Her Nobel, but Prize Institute Says It’s Not Allowed - The New York Times
+- US military strikes Islamic State group targets in Syria, officials say - BBC
+- Who is Reza Pahlavi, the exiled crown prince encouraging demonstrations across Iran? - NPR
+- North Korea's Kim Yo Jong urges South Korea to investigate drone incidents - Reuters
 - As Iranian regime shuts down internet, even Starlink seemingly being jammed - The Times of Israel
-- EU countries approve Mercosur trade deal after 25 years of talks - politico.eu
-- North Korea vows response as it accuses the South of flying drones across the border - abcnews.go.com
-- CEOs on Guard as Trump Rattles Companies With Series of Edicts - Bloomberg.com
-- Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California - The New York Times
-- 'Out of stock': What went wrong at luxury retailer Saks? - BBC
-- Amazon Pharmacy starts offering Novo Nordisk's Wegovy weight loss pill - CNBC
+- Israel planning new Gaza City op in March, but will need okay from Trump — officials - The Times of Israel
+- Winter pierces Kyiv homes after Russia knocks out heat - Reuters
+- Trump announces one-year 10% cap on credit card interest rates - The Guardian
+- As U.S. debt soars past $38 trillion, the flood of corporate bonds is a growing threat to the Treasury supply - Fortune
+- Town cashing-in on China's billion-dollar appetite for luxury durian - BBC
+- Pulte backs away from 50-year mortgage - Politico
+- Samsung Galaxy S26 Ultra Release Dates, Pre-Order Offers And Reviews - Forbes
 - Samsung Confirms New Options For Android Users After Gmail Issues - Forbes
-- Why Tech Launches Stopped Feeling Magical - Lifehacker
