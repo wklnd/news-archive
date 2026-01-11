@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 10:49_
+_Updated: 2026-01-11 11:43_
 
 ## Top Stories
 
-- Så kan USA ta över Grönland – i fyra ”enkla” steg - Aftonbladet
-- ”Tigrinnan” har tagit över i Venezuela - SvD
+- Carl Bildt om världsläget: Trump är berusad av sin egen makt - SvD
+- Satte in skräckvapen: Soldater kräktes blod - Expressen
 - Fårösund och Klintehamn ÅVC stängt på grund av vädret - Region Gotland
-- 11 januari 07.51, Sammanfattning natt, Södermanlands län - Polisen.se
-- ”En avsiktlig systematisk terror – 100 procent” - SvD
+- 11 januari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
 - Därför rullar vissa busslinjer och andra inte - GP
 - Så har Jacobs skog repat sig efter stormen Gudrun: ”Det växer på” - SVT Nyheter
-- Ledare: Snö är inget undantag - NWT
-- Polisinsats i Stockholm efter flera brott mot äldre - Dagens Nyheter
-- Inifrån Lundsberg: ”Att vägra lyda en order är lika med socialt självmord” - Dagens Nyheter
+- Könsidentitet i fokus efter Rönningemordet 10 januari 2026 - Medierna - Sveriges Radio
+- Efter kylan – nu rullar vissa nattåg igen - Västerbottens-Kuriren
+- ”Det finns folk som aldrig flyttar sina bilar” - SvD
 - Hisingsbron avstängd – bommar sitter fast i kylan - SVT Nyheter
-- DN Direkt – USA uppmanar sina medborgare att lämna Venezuela - Dagens Nyheter
+- Uppgift: Barägaren hittade döda bakom låst dörr - Västerbottens-Kuriren
+- USA: Amerikaner bör lämna Venezuela omedelbart - Omni
+- Fördömanden efter ryska hypersoniska attacker - Blekinge Läns Tidning
 - USA: Har attackerat IS-mål i Syrien - SVT Nyheter
-- Källor: Trumps tålamod med Putin börjar ta slut - Omni
 - Fler hjärtpatienter får snabbare hjälp med ny ablationsteknik - NewsMachine AB
 - Ekonomer till EU: Digital euro ”enda försvaret” mot USA - Omni
-- Northvolt sänkte bostadsmarknaden - DI
-- Börsåret inleds på plus: ”Saab är det sjukaste jag sett på länge” - Dagens Nyheter
+- Så går det till att starta en gruva - Östersunds-Posten
+- ”Höj rot-avdraget permanent” - Västerbottens-Kuriren
 - Världens största rymdteleskop avslöjar urgammal värld av lava – och planeten bjöd på en stor överraskning - Illustrerad Vetenskap
-- Reddit-annonsen förändrade Jennifers liv - Östersunds-Posten
+- JUST NU: Tekniska problem för e-tidningen - NWT
 
 ## World News
 
@@ -74,25 +74,25 @@ _Updated: 2026-01-11 10:49_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -146,6 +146,7 @@ _Updated: 2026-01-11 10:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -155,7 +156,6 @@ _Updated: 2026-01-11 10:49_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
