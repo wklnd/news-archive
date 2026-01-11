@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 12:45_
+_Updated: 2026-01-11 13:39_
 
 ## Top Stories
 
 - Dyr olja och livsfarliga fartygsleder – här är verkligheten bakom hajpen kring Grönland - Dagens Nyheter
 - Ryssland ville byta Kiev mot Caracas - SvD
+- En död och 22 skadade i olycka med turistbåt i Thailand - SVT Nyheter
 - Satte in skräckvapen: Soldater kräktes blod - Expressen
 - Fårösund och Klintehamn ÅVC stängt på grund av vädret - Region Gotland
 - 11 januari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
-- Hisingsbron fastnade i två timmar – trafiken stod still - GP
 - Inifrån Lundsberg: ”Att vägra lyda en order är lika med socialt självmord” - Dagens Nyheter
-- Könsidentitet i fokus efter Rönningemordet 10 januari 2026 - Medierna - Sveriges Radio
-- Polisinsats i Stockholm efter flera brott mot äldre - Dagens Nyheter
 - Så har Jacobs skog repat sig efter stormen Gudrun: ”Det växer på” - SVT Nyheter
+- Därför rullar vissa busslinjer och andra inte - GP
+- Polisinsats i Stockholm efter flera brott mot äldre - Dagens Nyheter
+- Uppgifter: Trump överväger attack på Iran - Dagens Nyheter
 - Brudpar omkom i explosion vid bröllopet - Aftonbladet
-- Brottningsmatch med inbrottstjuv i Ulricehamn - Expressen
-- ”En avsiktlig systematisk terror – 100 procent” - SvD
-- Källor: Trumps tålamod med Putin börjar ta slut - Omni
+- USA: Amerikaner bör lämna Venezuela omedelbart - Omni
+- USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - Norrland sticker ut på bomarknaden - SVT Nyheter
-- Så går det till att starta en gruva - Östersunds-Posten
+- Efter McDonalds – ytterligare en restaurang försvinner från Öster - Helagotland
 - Fler hjärtpatienter får snabbare hjälp med ny ablationsteknik - NewsMachine AB
-- Ekonomer till EU: Digital euro ”enda försvaret” mot USA - Omni
+- Ash Pournouri lämnar Umidas styrelse - DI
 - Världens största rymdteleskop avslöjar urgammal värld av lava – och planeten bjöd på en stor överraskning - Illustrerad Vetenskap
-- Google Gemini växer när ChatGPT tappar fart - Teknikveckan
+- Windows 11 ska bli bättre på att fortsätta jobbet från Android till dator - Teknikveckan
 
 ## World News
 
@@ -58,17 +58,17 @@ _Updated: 2026-01-11 12:45_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -130,15 +130,15 @@ _Updated: 2026-01-11 12:45_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
