@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 20:51_
+_Updated: 2026-01-11 21:38_
 
 ## Top Stories
 
+- DEBATT: Liberalerna: Så kan Sverige tänka snabbare än Putin - DI
 - Christer, 52, kallas in: ”Gammal gubbe” - SvD
-- Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
-- Trump låser in oljeintäkter från Venezuela - Tidningen Näringslivet
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- Dödliga laviner i Frankrike - Västerbottens-Kuriren
 - Fortsatt inställda nattåg - SVT Nyheter
-- 23-åring häktad misstänkt för mord vid moskén - Nerikes Allehanda
+- Superkylan – stor risk för förfrysning - Expressen
+- Nytt bråk om Lundsberg: ”Jävla Harry Potter-skola” - Omni
 - 11 januari 12.30, Skottlossning, Osby - polisen.se
-- Natos ÖB lyfter Sveriges roll i försvar av Arktis - SvD
 - Västtrafik: Inväntar besked från bussbolagen - GP
-- Utvecklad villabrand i Sörmjöle söder om Umeå - SVT Nyheter
+- Svensk man gripen i Egypten – misstänkt för anstiftan till mord - SVT Nyheter
 - President Trump till Kuba: Gör en uppgörelse innan det är för sent - Yle
 - Israelisk militär: Attackerar mål i södra Libanon - Västerbottens-Kuriren
-- Brudpar omkom i explosion vid bröllopet - Aftonbladet
-- Fängslade spanjorer frisläppta i Venezuela - Sydkusten
+- USA uppmanar sina medborgare att lämna Venezuela - Aftonbladet
+- Konsistoriet i backspegeln - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- Apple pekar ut efterträdare till Tim Cook – John Ternus i ledningen - Dagens PS
 - ”Börsernas reaktion kan förvåna många” - SvD
+- AI-minne slutsålt – priserna rusar i historisk takt - Dagens PS
 - Norrland sticker ut på bomarknaden - SVT Nyheter
-- Efter McDonalds – ytterligare en restaurang försvinner från Öster - Helagotland
-- Norrköpingsföretagets teknik kan ge miljardomsättning - NT
 - Steam Machines priser kan ha läckt av en tjeckisk återförsäljare - FZ.se
 - Dessa smartphones är nu kraftfullare än iPhone - Dagens PS
 
@@ -36,16 +36,16 @@ _Updated: 2026-01-11 20:51_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Avlyssningsskandalen växer - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -121,24 +121,24 @@ _Updated: 2026-01-11 20:51_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
