@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-11 20:55_
+_Updated: 2026-01-11 21:48_
 
-- Cuba defiant after Trump says island to receive no more Venezuelan oil or money - Reuters
-- Trump’s ‘Superstar’ Appellate Judges Have Voted 133 to 12 in His Favor - The New York Times
+- Trump tells Cuba to 'make a deal, before it is too late' - BBC
 - 'We are happy and hopeful for the future of Venezuela' - BBC
 - Bride and groom killed by gas explosion day after Pakistan wedding - BBC
-- Ben Johnson says "F—- the Packers," Bears heard the "noise" coming out of Green Bay - NBC Sports
 - What the US withdrawal from UN bodies could mean for climate, trade and development - UN News
+- Russian Offensive Campaign Assessment, January 9, 2026 - Institute for the Study of War
+- Security Alert Venezuela: January 10, 2026: Do Not Travel to Venezuela; Depart Immediately - U.S. Embassy in Venezuela (.gov)
 - Sen. Rand Paul warns bombing Iran 'not the answer' to protests against regime - abcnews.go.com
+- Suspect arrested in predawn fire that left parts of Mississippi’s largest synagogue in charred ruins - Mississippi Today
 - Family seeks answers after ICE deported man to Costa Rica in vegetative state - The Guardian
-- Left-wing group backs tens of thousands of anti-ICE demonstrations nationwide - Fox News
-- What happens when the US decides to seize an oil ship? - CNN
+- US military strikes Islamic State group targets in Syria, officials say - BBC
 - Venezuela's exiles in Chile caught between hope and uncertainty - NPR
-- Australia Wildfires Burn Nearly 900,000 Acres - The New York Times
+- Israeli fire kills three people in Gaza, three months on from truce - Reuters
 - Donald Trump won't take Greenland by force, Lord Mandelson says - BBC
-- Thousands of tourists stranded in northern Finland as deep freeze halts flights - AP News
+- ‘We hope they will give us heat:’ Bitter winter cold bites for Kyiv’s residents as Russia steps up attacks - CNN
 - Walmart teams up with Google's Gemini to make it easier for shoppers to find and buy products - CNBC
-- Walmart Expanding Drone Delivery to Hundreds More Stores - The Wall Street Journal
-- From Merrill Lynch to wok station: the daughter of San Francisco's Chinese food dynasty who defied her parents—by working alongside them - Fortune
+- A $400,000 payout after Maduro's capture is putting prediction markets in the spotlight - Yahoo Finance
+- Magnificent 7’s Stock Market Dominance Shows Signs of Cracking - Bloomberg.com
 - Trump’s housing plan casts Wall Street as the villain. He’s got the wrong guy - CNN
+- Sunday Preview – Angron Transfigured stares down the new Skitarii - Warhammer Community
 - Google’s AI Inbox could be a glimpse of Gmail’s future - The Verge
-- Samsung Confirms New Options For Android Users After Gmail Issues - Forbes
