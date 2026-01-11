@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 06:33_
+_Updated: 2026-01-11 07:02_
 
 ## Top Stories
 
-- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
-- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
+- Flyr villaområdet efter morden – kirurg pekas ut - Aftonbladet
 - USA: Amerikaner bör lämna Venezuela omedelbart - Omni
-- Därför rullar vissa busslinjer och andra inte - GP
-- ”En avsiktlig systematisk terror – 100 procent” - SvD
+- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
 - Expert: Tydlig motsättning mellan Trump och de stora oljebolagen - Dagens Nyheter
+- Utrikesminister Elina Valtonen deltar i säkerhetskonferens i Sälen - Ulkoministeriö
+- Därför rullar vissa busslinjer och andra inte - GP
+- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- Polisinsats i Stockholm efter flera brott mot äldre - Dagens Nyheter
 - En död i olycka i Vellinge - SvD
-- Snorkallt – sedan mer snö: ”Inget extremväder” - Södra Dalarnes Tidning
-- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
-- Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
+- Vinterberedskap för vägar och gång- och cykelbanor - Tyresö kommun
 - Uppgift: Barägaren hittade döda bakom låst dörr - Västerbottens-Kuriren
+- Fördömanden efter ryska hypersoniska attacker - Hufvudstadsbladet
 - USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - Sonen: Maduro mår bra i amerikanskt förvar - SVT Nyheter
-- Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
-- Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
 - Ny metod fick kraftavtal i mål - Upphandling24
+- Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
 - LEDARE: Snart blir det olagligt att vara svartsjuk - Expressen
-- Så många miljoner kostade dyraste villan i Degerfors kommun 2025 - NWT
+- Här vill företagen leta mineraler i Åre - Östersunds-Posten
 - Nasa kallar hem astronauter från ISS – för första gången på 65 år - Expressen
 - Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
 
@@ -31,7 +31,9 @@ _Updated: 2026-01-11 06:33_
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -41,8 +43,6 @@ _Updated: 2026-01-11 06:33_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
@@ -101,16 +101,16 @@ _Updated: 2026-01-11 06:33_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -153,8 +153,8 @@ _Updated: 2026-01-11 06:33_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
