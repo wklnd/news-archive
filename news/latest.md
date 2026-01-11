@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-11 19:48_
+_Updated: 2026-01-11 20:55_
 
-- Confronting protests, Iran vows to strike back if US attacks - Reuters
+- Cuba defiant after Trump says island to receive no more Venezuelan oil or money - Reuters
 - Trump’s ‘Superstar’ Appellate Judges Have Voted 133 to 12 in His Favor - The New York Times
-- US military strikes Islamic State group targets in Syria, officials say - BBC
-- What we know about the deaths of an Ohio dentist and his wife and her ex-husband's arrest - NBC News
+- 'We are happy and hopeful for the future of Venezuela' - BBC
 - Bride and groom killed by gas explosion day after Pakistan wedding - BBC
+- Ben Johnson says "F—- the Packers," Bears heard the "noise" coming out of Green Bay - NBC Sports
 - What the US withdrawal from UN bodies could mean for climate, trade and development - UN News
-- Trump tells Cuba to 'make a deal, before it is too late' - BBC
+- Sen. Rand Paul warns bombing Iran 'not the answer' to protests against regime - abcnews.go.com
 - Family seeks answers after ICE deported man to Costa Rica in vegetative state - The Guardian
-- Trump says Venezuela "starting process" of releasing political prisoners - CBS News
-- Security Alert Venezuela: January 10, 2026: Do Not Travel to Venezuela; Depart Immediately - U.S. Embassy in Venezuela (.gov)
-- Trump Shakes up Latin American Politics - The New York Times
+- Left-wing group backs tens of thousands of anti-ICE demonstrations nationwide - Fox News
+- What happens when the US decides to seize an oil ship? - CNN
 - Venezuela's exiles in Chile caught between hope and uncertainty - NPR
-- Inside a Gaza medical clinic at risk of shutting down after an Israeli ban - NPR
-- Israeli fire kills three people in Gaza, three months on from truce - Reuters
-- Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax - The New York Times
-- Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon - CNBC
+- Australia Wildfires Burn Nearly 900,000 Acres - The New York Times
+- Donald Trump won't take Greenland by force, Lord Mandelson says - BBC
+- Thousands of tourists stranded in northern Finland as deep freeze halts flights - AP News
+- Walmart teams up with Google's Gemini to make it easier for shoppers to find and buy products - CNBC
 - Walmart Expanding Drone Delivery to Hundreds More Stores - The Wall Street Journal
-- 'I had no electricity for six months': American families struggle with soaring energy prices - BBC
+- From Merrill Lynch to wok station: the daughter of San Francisco's Chinese food dynasty who defied her parents—by working alongside them - Fortune
+- Trump’s housing plan casts Wall Street as the villain. He’s got the wrong guy - CNN
 - Google’s AI Inbox could be a glimpse of Gmail’s future - The Verge
-- I dumped Windows 11 for Linux, and you should too - Hacker News
+- Samsung Confirms New Options For Android Users After Gmail Issues - Forbes
