@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 19:42_
+_Updated: 2026-01-11 20:51_
 
 ## Top Stories
 
-- Uppgifter: Trump överväger attack på Iran - Dagens Nyheter
-- Andersson (S): Vill ha multinationella styrkor på Gotland – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- Uppgifter: Våldsam liga söker upp änkor - Aftonbladet
+- Christer, 52, kallas in: ”Gammal gubbe” - SvD
+- Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
+- Trump låser in oljeintäkter från Venezuela - Tidningen Näringslivet
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
-- Ytterligare åtgärder för att möta hybridhotet - Regeringen.se
 - Fortsatt inställda nattåg - SVT Nyheter
-- Superkylan – stor risk för förfrysning - Expressen
-- Svensk man gripen i Egypten – misstänkt för anstiftan till mord - SVT Nyheter
+- 23-åring häktad misstänkt för mord vid moskén - Nerikes Allehanda
+- 11 januari 12.30, Skottlossning, Osby - polisen.se
 - Natos ÖB lyfter Sveriges roll i försvar av Arktis - SvD
-- Därför rullar vissa busslinjer och andra inte - GP
+- Västtrafik: Inväntar besked från bussbolagen - GP
+- Utvecklad villabrand i Sörmjöle söder om Umeå - SVT Nyheter
+- President Trump till Kuba: Gör en uppgörelse innan det är för sent - Yle
+- Israelisk militär: Attackerar mål i södra Libanon - Västerbottens-Kuriren
 - Brudpar omkom i explosion vid bröllopet - Aftonbladet
-- Konsistoriet i backspegeln - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- USA: Har attackerat IS-mål i Syrien - SVT Nyheter
-- En död och 22 skadade i olycka med turistbåt i Thailand - SVT Nyheter
+- Fängslade spanjorer frisläppta i Venezuela - Sydkusten
+- ”Börsernas reaktion kan förvåna många” - SvD
 - Norrland sticker ut på bomarknaden - SVT Nyheter
 - Efter McDonalds – ytterligare en restaurang försvinner från Öster - Helagotland
-- Storbankerna visar korten – här är veckans viktigaste händelser - DI
-- Löner kryddas med bonusar: ”Inte bara hos högre chefer” - DI
-- V64 Tips Axevalla 13/1: Öppen omgång med stor potential att vänta! - Travcash
+- Norrköpingsföretagets teknik kan ge miljardomsättning - NT
+- Steam Machines priser kan ha läckt av en tjeckisk återförsäljare - FZ.se
 - Dessa smartphones är nu kraftfullare än iPhone - Dagens PS
 
 ## World News
@@ -60,16 +60,16 @@ _Updated: 2026-01-11 19:42_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -84,13 +84,13 @@ _Updated: 2026-01-11 19:42_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
@@ -119,26 +119,26 @@ _Updated: 2026-01-11 19:42_
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
