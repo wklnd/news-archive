@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 15:47_
+_Updated: 2026-01-11 16:43_
 
 ## Top Stories
 
+- Skidskytte: Elvira Öberg tar hem segern i jaktstarten – är näst bäst genom tiderna - SVT Nyheter
 - Uppgifter: Trump överväger attack på Iran - Dagens Nyheter
-- Skottlossning från villa i Osby - SVT Nyheter
-- Andersson (S): Vill ha multinationella styrkor på Gotland – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- Ryssland ville byta Kiev mot Caracas - SvD
 - SMHI utfärdar gul varning för kyla – risk för förfrysning - SVT Nyheter
+- En landningsbana stängd i Oslo efter drönarlarm - SVT Nyheter
+- Ryssland ville byta Kiev mot Caracas - SvD
 - Satte in skräckvapen: Soldater kräktes blod - Expressen
+- S öppnar för multinationell styrka på Gotland - DI
+- 11 januari 12.30, Skottlossning, Osby - polisen.se
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
 - ”Tinder för goda gärningar” kan hjälpa ensamma - Dagens Nyheter
-- Inifrån Lundsberg: ”Att vägra lyda en order är lika med socialt självmord” - Dagens Nyheter
-- 11 januari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
 - Brudpar omkom i explosion vid bröllopet - Aftonbladet
 - USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - Konsistoriet i backspegeln - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- USA: Amerikaner bör lämna Venezuela omedelbart - Omni
 - Till salu: Tusentals liter potatismjölk - DI
 - Norrland sticker ut på bomarknaden - SVT Nyheter
+- Sporthandeln jublar efter snön: Helt annat tryck - Omni
 - Efter McDonalds – ytterligare en restaurang försvinner från Öster - Helagotland
-- Fler hjärtpatienter får snabbare hjälp med ny ablationsteknik - NewsMachine AB
-- Dagens Dubbel Tips 12/1 - Travcash
-- Google moderniserar inställningarna i Google Maps - m3.se
-- Windows 11 ska bli bättre på att fortsätta jobbet från Android till dator - Teknikveckan
+- Steam Machines priser kan ha läckt av en tjeckisk återförsäljare - FZ.se
+- CES 2026: Pioneer tar Dolby Atmos till CarPlay med deras nya Sphera - Teknikveckan
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2026-01-11 15:47_
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - EU Digital Strategy
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Oron: Då tar datan på internet slut - SvD
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -130,7 +130,7 @@ _Updated: 2026-01-11 15:47_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -147,18 +147,18 @@ _Updated: 2026-01-11 15:47_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
