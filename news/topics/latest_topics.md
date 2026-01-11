@@ -1,40 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-11 01:41_
+_Updated: 2026-01-11 04:56_
 
 ## Top Stories
 
-- Uppgifter: Regimen skjuter skarpt mot demonstranter i Iran - SVT Nyheter
-- Venezuela skapar rubriker – fakta i frågan - Sverige för UNHCR
+- Flyr villaområdet efter morden – kirurg pekas ut - Aftonbladet
+- Johan Ingerö Alias: Håll huvudet kallt om Grönland - GP
+- Expert: Tydlig motsättning mellan Trump och de stora oljebolagen - Dagens Nyheter
+- Därför rullar vissa busslinjer och andra inte - GP
 - ”En avsiktlig systematisk terror – 100 procent” - SvD
-- Västernorrland tillbaka i normalläge efter snökaos - Läkartidningen
-- Bagagekaos på Kastrup – stora förseningar - Expressen
-- Gul varning: Kraftiga snöbyar med lokalt stora snömängder - Region Gotland
-- Expertens tips: Så skottar du utan att skada dig - GP
-- 10 januari 10.52, Trafikkontroll, Västerbottens län - polisen.se
+- Nobelinstitutet: Fredspriset kan inte delas - Dagens Nyheter
+- Snorkallt – sedan mer snö: ”Inget extremväder” - Södra Dalarnes Tidning
+- 10 januari 11.23, Trafikkontroll, Västernorrlands län - polisen.se
 - En död i olycka i Vellinge - SvD
 - Försök till mord i Nässjö – Skadad man förd till sjukhus - SVT Nyheter
-- Norge: Fredspriset kan inte delas med Trump - SVT Nyheter
+- DN Direkt – USA uppmanar sina medborgare att lämna Venezuela - Dagens Nyheter
 - Uppgift: Barägaren hittade döda bakom låst dörr - Västerbottens-Kuriren
+- DN Direkt – USA besköt IS-mål i Syrien - Dagens Nyheter
 - USA: Har attackerat IS-mål i Syrien - SVT Nyheter
-- Rysk oljedepå i brand efter ukrainsk attack - Hufvudstadsbladet
-- LEDARE: Snart blir det olagligt att vara svartsjuk - Expressen
 - Tryck hos byggföretaget: "Vi har anställt sedan i somras" - Katrineholms-Kuriren
-- Stjärnadvokaten ska försvara Intellegos vd – säger upp offentliga försvararen - DI
-- Johan, 73, bäst (?) i Sverige – åker inte skridskor - Aftonbladet
+- Ny metod fick kraftavtal i mål - Upphandling24
+- Så många miljoner kostade dyraste villan i Degerfors kommun 2025 - NWT
+- Transportföretagen välkomnar åtgärder mot arbetslivskriminalitet - Bussmagasinet
 - Fisher-Price tar fler Mario-leksaker till Europa - Teknikveckan
-- UPPGIFTER: Stor förändring för iPhonekunder under 2026 - Marcus Oscarsson
+- Nasa kallar hem astronauter från ISS – för första gången på 65 år - Expressen
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Avlyssningsskandalen växer - Journalisten
@@ -42,9 +41,10 @@ _Updated: 2026-01-11 01:41_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - MSC Cruises lyfter fram oplanerade ögonblick i global kampanj - Resume.se
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -60,15 +60,15 @@ _Updated: 2026-01-11 01:41_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Oron: Då tar datan på internet slut - SvD
 - Nästa generations Internet of Things - EU Digital Strategy
+- Oron: Då tar datan på internet slut - SvD
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -77,8 +77,8 @@ _Updated: 2026-01-11 01:41_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -102,12 +102,12 @@ _Updated: 2026-01-11 01:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -133,9 +133,9 @@ _Updated: 2026-01-11 01:41_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -146,19 +146,19 @@ _Updated: 2026-01-11 01:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
