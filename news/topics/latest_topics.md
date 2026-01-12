@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 11:54_
+_Updated: 2026-01-12 12:51_
 
 ## Top Stories
 
-- Expert: Trump tappar ansiktet om han inte anfaller Iran - Dagens Nyheter
-- Svårt för Ukraina värja sig mot nya ryska vapnet - Dagens Nyheter
-- 12 januari 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
-- Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
-- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
-- 11 januari 07.53, Sammanfattning natt, Jönköpings län - Polisen.se
+- Senaste nytt om protesterna i Iran - SVT Nyheter
+- Kvinna avliden – tre misstänks för dråp - SVT Nyheter
+- Försvarsmakten saknar plan för om Nato skulle falla. Viceamiral: "Ser inte att det håller på att hända". - GP
+- Släkting: Förstår inte att man släppte ut honom - Omni
 - Johans pappa Kaj, 80 år, lämnades ute i kylan en hel natt: ”För jävligt” - SVT Nyheter
-- 12 januari 07.43, Sammanfattning natt, Östergötlands län - Polisen.se
-- Hanna fortfarande försvunnen – polisen välkomnar fler tips - GP
-- Peder Skrivares skola: ”Inga planer på kameraövervakning” - SVT Nyheter
-- Torbjörn Petersson: Kinas oljeaffärer i fara efter Trumps drag i Venezuela - Dagens Nyheter
+- 12 januari 07.00, Sammanfattning natt, Norrbottens län - polisen.se
+- Våldtog flickor via Snapchat – man döms - SVT Nyheter
+- Prinsnäs gård med anor från 1600-talet helt nedbrunnen - SVT Nyheter
+- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- Därför rullar vissa busslinjer och andra inte - GP
+- Efter kabelbrott: Fartyg eskorteras från Finland - Västerbottens-Kuriren
 - Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
 - Polis på plats vid grundskola efter hot om skolskjutning - SVT Nyheter
-- Då skriver von der Leyen under - SvD
-- Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
+- USA: Har attackerat IS-mål i Syrien - GP
 - Toppekonomen: Här hittar du årets börsvinnare - DI
-- CSN höjer räntan – läge att betala av? - SvD
 - Norska miljardförvaltaren: "Europeisk industri är helt fucked" - Affärsvärlden
+- Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
+- Försiktig optimism bland bostadsbyggare - Fastighetstidningen
 - Snart blir det tydligare namn på drivrutiner i Windows 11 - PC för Alla
 - Efter larm: Google tar bort AI-sammanfattningar om vissa hälsofrågor - Breakit
 
 ## World News
 
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -41,29 +41,29 @@ _Updated: 2026-01-12 11:54_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Nästa generations Internet of Things - EU Digital Strategy
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
@@ -77,8 +77,8 @@ _Updated: 2026-01-12 11:54_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -130,15 +130,15 @@ _Updated: 2026-01-12 11:54_
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
