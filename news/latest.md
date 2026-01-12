@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-12 15:29_
+_Updated: 2026-01-12 16:01_
 
+- Trump tells Cuba to make a "deal" before it's too late after Maduro ouster - CBS News
 - Chaos erupts as U-Haul drives into crowd during anti-Iranian regime rally in Westwood - ABC7 Los Angeles
-- Jailed Venezuelan politician's son criticises slow prisoner release - BBC
 - Australia social media ban: Meta blocks 550,000 accounts under new law - BBC
 - Golden Globes 2026 Winners: ‘One Battle After Another’ Earns 4 Awards, ‘Adolescence’ Leads TV - Variety
-- 'We are happy and hopeful for the future of Venezuela' - BBC
 - Richard Codey, former NJ governor who replaced Jim McGreevey, dies at 79 - 6abc Philadelphia
-- January 11, 2026 — Iran protest death toll tops 500 - CNN
+- Thousands of tourists stranded in Lapland as cold grounds flights - BBC
 - Trump Says He May Veto Extension of Health Care Subsidies - Bloomberg.com
-- Largest nursing strike in New York City history looming as contract negotiations continue - ABC News
+- Spencer and Monique Tepe: What we know about the Ohio dentist and his wife found dead in their home - CNN
 - Supreme Court to Consider West Virginia’s Trans Athlete Law. It Applies to One Girl. - The New York Times
+- Largest nursing strike in New York City history begins amid stalled contract negotiations - ABC News
 - Hearings on whether Myanmar committed genocide against the Rohingya opens at top UN court - ABC News
+- Hong Kong media tycoon Jimmy Lai's health in focus at mitigation hearing - Reuters
 - South Korea's Lee to head for Japan summit a week after meeting China's Xi - Reuters
-- Australia Wildfires Burn Nearly 900,000 Acres - The New York Times
 - Hungary grants asylum to nationalist Polish ex-justice minister - Reuters
-- Dow futures fall 300 points as Trump's DOJ opens criminal investigation into Fed Chair Powell: Live updates - CNBC
-- China, EU reach framework agreement in EV tariff dispute - South China Morning Post
-- Jersey Mike's strikes European expansion deal led by founder Peter Cancro - CNBC
+- Ho hum holiday: Retail's early results show modest growth in critical shopping season - CNBC
 - SEPTA Regional Rail's morning express service will resume Monday - 6abc Philadelphia
+- UBS warns Swiss government to water down bank capital plans - Financial Times
+- World's most vital oil chokepoint back in focus amid possible U.S. action against Iran - CNBC
 - The most fascinating monitors at CES 2026 - Ars Technica
-- Galaxy S26 with Exynos 2600 makes first Geekbench appearance – Global entry confirmed? - Sammy Fans
+- Google Photos may finally add a long-awaited video playback feature - Android Authority
