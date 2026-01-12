@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-12 04:56_
+_Updated: 2026-01-12 06:38_
 
-- Hundreds of Iranian protesters feared killed; U.S. considers military strikes - The Washington Post
-- U-Haul drives into crowd during anti-Iranian regime rally in Westwood, LAPD says - ABC7 Los Angeles
-- Lord Mandelson says Epstein friendship 'a terrible mistake' in first interview since sacking - BBC
-- 49ers 23-19 Eagles (Jan 11, 2026) Game Recap - ESPN
-- Last Kurdish forces leave Aleppo after ceasefire deal reached - BBC
-- Thousands of tourists stranded in Lapland as cold grounds flights - BBC
-- Statement from Federal Reserve Chair Jerome H. Powell - Federal Reserve Board (.gov)
-- Nobel Institute rejects Machado's peace prize offer to Trump - Axios
 - Trump tells Cuba to 'make a deal, before it is too late' - BBC
-- Largest nursing strike in New York City history looming as contract negotiations continue - ABC News
+- Denmark warns of ‘decisive moment’ as Trump renews threat of force over Greenland - France 24
+- Federal Prosecutors Are Said to Have Opened Inquiry Into Fed Chair Powell - The New York Times
+- Last Kurdish forces leave Aleppo after ceasefire deal reached - BBC
+- A Cooler Week Ahead - KSAT
+- 'We are happy and hopeful for the future of Venezuela' - BBC
+- U-Haul drives into crowd at Los Angeles anti-Iranian regime protest - ABC News
+- Nobel Institute rejects Machado's peace prize offer to Trump - Axios
+- Missing Oklahoma boy found safe after mother, stepfather arrested for alleged child abuse: officials - ABC7 Chicago
 - Iran Edges Closer to a Revolution That Would Reshape the World - Bloomberg.com
-- UK can legally stop shadow fleet tankers, ministers believe - BBC
+- US to push for quicker action in reducing reliance on China for rare earths - Reuters
 - Australia social media ban: Meta blocks 550,000 accounts under new law - BBC
 - Fleeing settler violence, Palestinians leave one of few remaining Jordan Valley hamlets - The Times of Israel
-- Why the JP Morgan conference is important — but not make-or-break - statnews.com
-- GM unveils its new corporate Detroit headquarters. Take a look inside - The Detroit News
+- Anthropic joins OpenAI's push into health care with new Claude tools - NBC News
+- 2026 looks ominous for media, from Hollywood to journalism - NPR
 - Google employee made redundant after reporting sexual harassment, court hears - BBC
-- 'I had no electricity for six months': American families struggle with soaring energy prices - BBC
-- I dumped Windows 11 for Linux, and you should too - Hacker News
+- Alnylam charts ambitious five-year plan as sales of key drug miss expectations - statnews.com
 - The struggle of resizing windows on macOS Tahoe - Hacker News
+- I dumped Windows 11 for Linux, and you should too - Hacker News
+- Samsung Confirms New Options For Android Users After Gmail Issues - Forbes
