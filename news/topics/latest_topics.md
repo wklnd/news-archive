@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 13:43_
+_Updated: 2026-01-12 15:23_
 
 ## Top Stories
 
-- Försvarsmakten saknar plan för om Nato skulle falla. Viceamiral: "Ser inte att det håller på att hända". - GP
-- Kvinna avliden i Djursholm – tre misstänks för dråp - SVT Nyheter
+- Senaste nytt om protesterna i Iran - SVT Nyheter
+- Stora störningar i busstrafiken - SVT Nyheter
+- Hovrättens beslut: Influencern ”Chrippa” häktas - SVT Nyheter
+- Nya attacker mot Kiev – flera explosioner - Aftonbladet
 - Johans pappa Kaj, 80 år, lämnades ute i kylan en hel natt: ”För jävligt” - SVT Nyheter
-- 12 januari 07.00, Sammanfattning natt, Norrbottens län - polisen.se
-- Svårt för Ukraina värja sig mot nya ryska vapnet - Dagens Nyheter
-- Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
-- Våldtog flickor via Snapchat – man döms - SVT Nyheter
+- Försvarsmakten saknar plan för om Nato skulle falla. Viceamiral: "Ser inte att det håller på att hända". - GP
+- Våldtog flickor via Snapchat – man döms - GP
 - Äldre kvinnor ska inte behöva dö i bröstcancer - Aftonbladet
-- Prinsnäs gård med anor från 1600-talet helt nedbrunnen - SVT Nyheter
+- 12 januari 07.00, Sammanfattning natt, Norrbottens län - polisen.se
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
-- Bonusprinsen misstänkt för nya brott – beskrivs som allvarligt - Aftonbladet
+- ”Tigrinnan” har tagit över i Venezuela - GP
+- Utrikesministerns tal vid Folk och Försvar 2026 - Regeringen.se
 - Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
-- Polis på plats vid grundskola efter hot om skolskjutning - SVT Nyheter
-- Passitivitet är medlöperi: Stäng Irans ambassad - Altinget.se
-- Isoz om Intellegos extrastämma: "En konsekvent ovilja" - Placera.se
-- Toppekonomen: Här hittar du årets börsvinnare - DI
+- Miljardbeslag av kokain i Helsingborg - Sydsvenskan
+- Intellego kallar till egen stämma - Affärsvärlden
 - Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
-- Norska miljardförvaltaren: "Ingen grön omställning utan kärnkraft" - Affärsvärlden
-- Sweclockers-läsarna: Clair Obscur, BF6 och Arc Raiders bäst 2025 - FZ.se
-- Snart blir det tydligare namn på drivrutiner i Windows 11 - PC för Alla
+- Han blir ny vd för Flat Capital - DI
+- Så säkerställer du att bilen startar i vinterkylan – expertens tips för ett köldtåligt startbatteri - Via TT
+- iPhone 17e kan släppas redan nästa månad - Teknikveckan
+- Apples Hälso-app ryktas få en stor uppdatering i iOS 26.4 - Teknikveckan
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
@@ -101,21 +101,21 @@ _Updated: 2026-01-12 13:43_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-12 13:43_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
