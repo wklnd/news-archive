@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 16:54_
+_Updated: 2026-01-12 17:50_
 
 ## Top Stories
 
-- Notan har anlänt för Irans ledare - historiens pris för förlorade krig är högt - Expressen
 - Hovrättens beslut: Influencern ”Chrippa” häktas - SVT Nyheter
-- Stora störningar i busstrafiken - SVT Nyheter
-- Nya attacker mot Kiev – flera explosioner - Aftonbladet
-- 12 januari 07.00, Sammanfattning natt, Norrbottens län - polisen.se
-- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- Sju åtalas efter allvarliga hot mot tjänstemän och förtroendevalda - polisen.se
 - Över 5,3 miljarder kronor till bred drönar- och rymdförmåga - Regeringen.se
+- Stora störningar i busstrafiken - SVT Nyheter
+- Länder blockerar Musks AI – efter sexbilder - Aftonbladet
+- Vill du göra en insats för demokratin? - Mjölby kommun
+- DN Direkt – Tre personer misstänkta för dråp i Djursholm - Dagens Nyheter
+- Därför kan ”snökanonerna” bli ännu kraftigare i framtiden - Dagens Nyheter
+- Kokain för tre miljarder hittades i container i Helsingborg – största beslaget i Sverige - SVT Nyheter
 - Våldtog flickor via Snapchat – man döms - GP
-- Kaj, 80, lämnades utanför boendet – blev kvar i snön hela natten - Dagens Nyheter
-- Äldre kvinnor ska inte behöva dö i bröstcancer - Aftonbladet
+- Ebba Busch: Ställer upp med vad som helst Danmark önskar – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
 - Natos högsta militära befälhavare besöker Sverige - Försvarsmakten
 - Flera äldrebedrägerier i Stockholm – misstänkt fångades av anhörig - SVT Nyheter
 - EU-toppen öppnar för europeisk armé - DI
-- Insats för att stoppa rekryteringen till kriminella gäng - polisen.se
-- Intellego kallar till egen stämma - Affärsvärlden
+- Affärsvärlden behåller köprådet för Thule - Affärsvärlden
 - Han blir ny vd för Flat Capital - DI
-- Ökat regelkrångel när gig-ekonomin ska regleras - Svenskt Näringsliv
+- Rymdboom i Kina – företag bygger egna raketer - Dagens PS
 - BoByggarBarometern: Bostadsbyggarna mer optimistiska inför första kvartalet - svenskbyggtidning -
+- Galaxy-telefoner erbjuder officiellt Stranger Things-tema - Swedroid
 - Apples Hälso-app ryktas få en stor uppdatering i iOS 26.4 - Teknikveckan
-- Kicks släpper reality med Lisa Borg - "tempo, drama och starka personligheter" - Ehandel.se
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- The Raja Saab worldwide box office collection day 3: Prabhas film earns ₹158 crore despite dip, beats Akhanda 2 lifetime | Hindustan Times - Hindustan Times
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -42,7 +43,6 @@ _Updated: 2026-01-12 16:54_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
@@ -62,14 +62,14 @@ _Updated: 2026-01-12 16:54_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2026-01-12 16:54_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2026-01-12 16:54_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
