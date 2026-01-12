@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 23:44_
+_Updated: 2026-01-13 00:44_
 
 ## Top Stories
 
-- Polisen: Foxtrot-toppen Ali Shehab gripen i Irak - SVT Nyheter
 - Senaste nytt om protesterna i Iran - SVT Nyheter
-- Kokain för tre miljarder hittades i container i Helsingborg – största beslaget i Sverige - SVT Nyheter
-- Europeisk Natostyrka till Grönland diskuteras – Sverige öppnar för att skicka trupper - Europaportalen
 - ”Bara att vi diskuterar det här får Putin att gnugga händerna” - GP
 - Nya attacker mot Kiev - 8 Sidor
 - Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
-- Man rånad och misshandlad i Gröndal - Mitt i
+- Marmorstein: ”Handlar inte om jättemycket pengar” – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Gator i Visby avstängda ikväll på grund av bortforsling av snö - Region Gotland
+- Polisen: Foxtrot-toppen Ali Shehab gripen i Irak - SVT Nyheter
+- Elev allvarligt skadad på skola i Hassela - SVT Nyheter
 - SMHI varnar för plötslig ishalka i södra Sverige - SVT Nyheter
-- Unik rättegång mot skånska politiker - Aftonbladet
+- Efter snösmockorna – anmälningar strömmar in - Aftonbladet
 - Ukraina: Civila fartyg attackerade i Svart havet - Aftonbladet
-- Hundratals fler federala agenter till Minneapolis - SVT Nyheter
+- Utrikesministern: ”Skakade om mig” - Expressen
 - Natos högsta militära befälhavare besöker Sverige - Försvarsmakten
 - Trump låser in oljeintäkter från Venezuela - Realtid
 - Försiktig optimism bland bostadsbyggare - Fastighetstidningen
 - Så säkerställer du att bilen startar i vinterkylan – expertens tips för ett köldtåligt startbatteri - Via TT
 - Webbinarium: Ekonomiska problem och risken för vräkning - Konsumentverket
 - Gävleborg: Snön försvårade efter Johannes - www.ellevio.se
+- Spelplattformen Steam slår nytt användarrekord - m3.se
 - Apples AI-val: Alphabet – som passerar rekordnivå - DI
-- Johansson: Inte bara AI - Musikindustrin
 
 ## World News
 
@@ -121,6 +121,7 @@ _Updated: 2026-01-12 23:44_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -131,14 +132,13 @@ _Updated: 2026-01-12 23:44_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
