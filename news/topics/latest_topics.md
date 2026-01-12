@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 15:23_
+_Updated: 2026-01-12 15:58_
 
 ## Top Stories
 
-- Senaste nytt om protesterna i Iran - SVT Nyheter
-- Stora störningar i busstrafiken - SVT Nyheter
+- Protesterna i Iran handlar om förtryck – inte ekonomi - Syre
 - Hovrättens beslut: Influencern ”Chrippa” häktas - SVT Nyheter
+- Stora störningar i busstrafiken - SVT Nyheter
+- Startar utredning efter avklädda bilder - Aftonbladet
 - Nya attacker mot Kiev – flera explosioner - Aftonbladet
 - Johans pappa Kaj, 80 år, lämnades ute i kylan en hel natt: ”För jävligt” - SVT Nyheter
-- Försvarsmakten saknar plan för om Nato skulle falla. Viceamiral: "Ser inte att det håller på att hända". - GP
-- Våldtog flickor via Snapchat – man döms - GP
+- Våldtog flickor via Snapchat – man döms - SVT Nyheter
 - Äldre kvinnor ska inte behöva dö i bröstcancer - Aftonbladet
+- Mördarens första ord: Har kroppsdelar i frysen - Expressen
 - 12 januari 07.00, Sammanfattning natt, Norrbottens län - polisen.se
-- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
-- ”Tigrinnan” har tagit över i Venezuela - GP
-- Utrikesministerns tal vid Folk och Försvar 2026 - Regeringen.se
 - Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
-- Miljardbeslag av kokain i Helsingborg - Sydsvenskan
-- Intellego kallar till egen stämma - Affärsvärlden
-- Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
+- Elbilskablar hittade i bil – tre misstänks för stöld i Växjö - Expressen
+- Polis på plats vid grundskola efter hot om skolskjutning - SVT Nyheter
+- Uppgifter: Rekordbeslag av kokain i Helsingborg - Dagens Nyheter
 - Han blir ny vd för Flat Capital - DI
+- Regeringen tar emot betänkandet från Utredningen om genomförande av plattformsdirektivet - Regeringen.se
+- Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
 - Så säkerställer du att bilen startar i vinterkylan – expertens tips för ett köldtåligt startbatteri - Via TT
 - iPhone 17e kan släppas redan nästa månad - Teknikveckan
 - Apples Hälso-app ryktas få en stor uppdatering i iOS 26.4 - Teknikveckan
@@ -77,8 +77,8 @@ _Updated: 2026-01-12 15:23_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
