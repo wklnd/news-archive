@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 07:52_
+_Updated: 2026-01-12 09:00_
 
 ## Top Stories
 
-- Hundratals uppges döda i Iran - Dagens Nyheter
-- Trump hotar Kuba: ”Gör en deal” - SvD
-- Hundratals fler federala agenter till Minneapolis - Aftonbladet
-- Hisingsbron fastnade i två timmar – trafiken stod still - GP
+- Misstänkt bomb i Bunkeflostrand - Sydsvenskan
+- Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
+- 12 januari 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
 - Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
 - Ekonom: USA:s försprång mot Europa mindre än många tror - Omni
-- Varannan kille i riskzonen för spelberoende - Aftonbladet
-- Strul på t-banans röda linje – risk för trängsel - SVT Nyheter
-- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- Svårt för Ukraina värja sig mot nya ryska vapnet - Dagens Nyheter
+- 12 januari 07.43, Sammanfattning natt, Östergötlands län - Polisen.se
+- Peder Skrivares skola: ”Inga planer på kameraövervakning” - SVT Nyheter
+- 12 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
 - Därför rullar vissa busslinjer och andra inte - GP
 - Världens dyraste experiment kan lösa energikrisen – fusionsreaktorn ITER byggs i södra Frankrike - Dagens Nyheter
+- Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
 - Torbjörn Petersson: Kinas oljeaffärer i fara efter Trumps drag i Venezuela - Dagens Nyheter
-- Storbritannien ska utveckla ny ballistisk robot för Ukrainas försvar - Dagens Nyheter
-- USA uppmanar sina medborgare att lämna Venezuela - Aftonbladet
+- USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - CSN höjer räntan – läge att betala av? - SvD
+- Toppekonomen: Här hittar du årets börsvinnare - DI
 - ”Vill inte att AI styr hur jag tänker” - SvD
-- Skapade egen låt för att hitta sommarpersonal: "Värt att prova nya vägar" - Notified
-- Rysk miljonär försvunnen - Expressen
+- USA:s centralbank stäms: ”Politiska påtryckningar” - SVT Nyheter
 - Forskare tittade närmare på gåtfull spökpartikel – och upptäckte något som kan skriva om fysiken, som vi känner den - Illustrerad Vetenskap
 - Nu kan du skaffa dig BrickBoy via Kickstarter - Teknikveckan
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -42,6 +41,7 @@ _Updated: 2026-01-12 07:52_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
@@ -51,24 +51,24 @@ _Updated: 2026-01-12 07:52_
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Albanien utser AI-bot till minister - Computer Sweden
+- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - EU Digital Strategy
-- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -102,18 +102,18 @@ _Updated: 2026-01-12 07:52_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -121,23 +121,23 @@ _Updated: 2026-01-12 07:52_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
