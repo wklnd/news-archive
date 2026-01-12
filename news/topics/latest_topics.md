@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 10:57_
+_Updated: 2026-01-12 11:54_
 
 ## Top Stories
 
-- Senaste nytt om protesterna i Iran - SVT Nyheter
-- Kristersson (M): USA borde tacka Danmark – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- 12 januari 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
+- Expert: Trump tappar ansiktet om han inte anfaller Iran - Dagens Nyheter
 - Svårt för Ukraina värja sig mot nya ryska vapnet - Dagens Nyheter
+- 12 januari 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
 - Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
-- Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- 11 januari 07.53, Sammanfattning natt, Jönköpings län - Polisen.se
+- Johans pappa Kaj, 80 år, lämnades ute i kylan en hel natt: ”För jävligt” - SVT Nyheter
 - 12 januari 07.43, Sammanfattning natt, Östergötlands län - Polisen.se
-- Därför rullar vissa busslinjer och andra inte - GP
+- Hanna fortfarande försvunnen – polisen välkomnar fler tips - GP
 - Peder Skrivares skola: ”Inga planer på kameraövervakning” - SVT Nyheter
-- Världens dyraste experiment kan lösa energikrisen – fusionsreaktorn ITER byggs i södra Frankrike - Dagens Nyheter
-- Maria Gunther: Vilket bränsle ska ge framtidens el? - Dagens Nyheter
 - Torbjörn Petersson: Kinas oljeaffärer i fara efter Trumps drag i Venezuela - Dagens Nyheter
-- USA uppmanar sina medborgare att lämna Venezuela - Aftonbladet
+- Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
+- Polis på plats vid grundskola efter hot om skolskjutning - SVT Nyheter
+- Då skriver von der Leyen under - SvD
 - Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
-- CSN höjer räntan – läge att betala av? - SvD
 - Toppekonomen: Här hittar du årets börsvinnare - DI
-- ”Vill inte att AI styr hur jag tänker” - SvD
-- Forskare tittade närmare på gåtfull spökpartikel – och upptäckte något som kan skriva om fysiken, som vi känner den - Illustrerad Vetenskap
-- Steam Machines priser kan ha läckt av en tjeckisk återförsäljare - FZ.se
+- CSN höjer räntan – läge att betala av? - SvD
+- Norska miljardförvaltaren: "Europeisk industri är helt fucked" - Affärsvärlden
+- Snart blir det tydligare namn på drivrutiner i Windows 11 - PC för Alla
+- Efter larm: Google tar bort AI-sammanfattningar om vissa hälsofrågor - Breakit
 
 ## World News
 
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Foreign Minister says USA didn't follow international law, suspected spy remanded in custody, more snow, junior world ice hockey champs - Sveriges Radio
 
@@ -77,8 +77,8 @@ _Updated: 2026-01-12 10:57_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Four European takes on open banking - Mastercard Data and Services - mastercard.com
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -130,10 +130,10 @@ _Updated: 2026-01-12 10:57_
 - Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -156,9 +156,9 @@ _Updated: 2026-01-12 10:57_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
