@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 20:56_
+_Updated: 2026-01-12 21:42_
 
 ## Top Stories
 
@@ -8,22 +8,22 @@ _Updated: 2026-01-12 20:56_
 - ”Bara att vi diskuterar det här får Putin att gnugga händerna” - GP
 - Kokain för tre miljarder hittades i container i Helsingborg – största beslaget i Sverige - SVT Nyheter
 - Trump 2.0: Ett år som skakade världen - SvD
-- Europeisk kritik mot X – Musk svarar med att klä av politiker - Dagens Nyheter
+- UD uppmanar svenskar i Iran att lämna landet - SVT Nyheter
 - Marmorstein: ”Handlar inte om jättemycket pengar” – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- Väderomslag i Göteborg: snö blir regn och is - GP
-- Man rånad och misshandlad i Gröndal - Mitt i
+- Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
+- Pågående polisinsats i Gröndal – man rånad - SVT Nyheter
 - Soptömning vintertid - Håbo
-- Efter snösmockorna – anmälningar strömmar in - Aftonbladet
-- Hundratals fler federala agenter till Minneapolis - SVT Nyheter
-- Trump låser in oljeintäkter från Venezuela - Västerbottens-Kuriren
+- Unik rättegång mot skånska politiker - Aftonbladet
+- Ukraina: Civila fartyg attackerade i Svart havet - Aftonbladet
 - EU-toppen öppnar för europeisk armé - DI
-- Flera äldrebedrägerier i Stockholm – misstänkt fångades av anhörig - SVT Nyheter
+- Insats för att stoppa rekryteringen till kriminella gäng - polisen.se
+- Norge: Fredspriset kan inte delas med Trump - SVT Nyheter
 - Tingsrätten anklagar jurist för AI-skräp - SvD
-- Silverpriserna stiger kraftigt i spåren av den globala oron - EFN.se
-- Så säkerställer du att bilen startar i vinterkylan – expertens tips för ett köldtåligt startbatteri - Via TT
+- Försiktig optimism bland bostadsbyggare - Fastighetstidningen
+- Webbinarium: Ekonomiska problem och risken för vräkning - Konsumentverket
 - Gävleborg: Snön försvårade efter Johannes - www.ellevio.se
-- Apples Hälso-app ryktas få en stor uppdatering i iOS 26.4 - Teknikveckan
 - Spelplattformen Steam slår nytt användarrekord - m3.se
+- iPhone 17e kan släppas redan nästa månad - Teknikveckan
 
 ## World News
 
@@ -37,8 +37,8 @@ _Updated: 2026-01-12 20:56_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
@@ -74,9 +74,9 @@ _Updated: 2026-01-12 20:56_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -100,22 +100,22 @@ _Updated: 2026-01-12 20:56_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
