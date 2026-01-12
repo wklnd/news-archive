@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 15:58_
+_Updated: 2026-01-12 16:54_
 
 ## Top Stories
 
-- Protesterna i Iran handlar om förtryck – inte ekonomi - Syre
+- Notan har anlänt för Irans ledare - historiens pris för förlorade krig är högt - Expressen
 - Hovrättens beslut: Influencern ”Chrippa” häktas - SVT Nyheter
 - Stora störningar i busstrafiken - SVT Nyheter
-- Startar utredning efter avklädda bilder - Aftonbladet
 - Nya attacker mot Kiev – flera explosioner - Aftonbladet
-- Johans pappa Kaj, 80 år, lämnades ute i kylan en hel natt: ”För jävligt” - SVT Nyheter
-- Våldtog flickor via Snapchat – man döms - SVT Nyheter
-- Äldre kvinnor ska inte behöva dö i bröstcancer - Aftonbladet
-- Mördarens första ord: Har kroppsdelar i frysen - Expressen
 - 12 januari 07.00, Sammanfattning natt, Norrbottens län - polisen.se
-- Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
-- Elbilskablar hittade i bil – tre misstänks för stöld i Växjö - Expressen
-- Polis på plats vid grundskola efter hot om skolskjutning - SVT Nyheter
-- Uppgifter: Rekordbeslag av kokain i Helsingborg - Dagens Nyheter
+- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- Över 5,3 miljarder kronor till bred drönar- och rymdförmåga - Regeringen.se
+- Våldtog flickor via Snapchat – man döms - GP
+- Kaj, 80, lämnades utanför boendet – blev kvar i snön hela natten - Dagens Nyheter
+- Äldre kvinnor ska inte behöva dö i bröstcancer - Aftonbladet
+- Natos högsta militära befälhavare besöker Sverige - Försvarsmakten
+- Flera äldrebedrägerier i Stockholm – misstänkt fångades av anhörig - SVT Nyheter
+- EU-toppen öppnar för europeisk armé - DI
+- Insats för att stoppa rekryteringen till kriminella gäng - polisen.se
+- Intellego kallar till egen stämma - Affärsvärlden
 - Han blir ny vd för Flat Capital - DI
-- Regeringen tar emot betänkandet från Utredningen om genomförande av plattformsdirektivet - Regeringen.se
-- Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
-- Så säkerställer du att bilen startar i vinterkylan – expertens tips för ett köldtåligt startbatteri - Via TT
-- iPhone 17e kan släppas redan nästa månad - Teknikveckan
+- Ökat regelkrångel när gig-ekonomin ska regleras - Svenskt Näringsliv
+- BoByggarBarometern: Bostadsbyggarna mer optimistiska inför första kvartalet - svenskbyggtidning -
 - Apples Hälso-app ryktas få en stor uppdatering i iOS 26.4 - Teknikveckan
+- Kicks släpper reality med Lisa Borg - "tempo, drama och starka personligheter" - Ehandel.se
 
 ## World News
 
@@ -62,14 +62,14 @@ _Updated: 2026-01-12 15:58_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Meta kauft den KI Agenten Manus – Der strategische Kauf, der die AI-Industrie neu ordnet - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,16 +101,16 @@ _Updated: 2026-01-12 15:58_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -126,16 +126,16 @@ _Updated: 2026-01-12 15:58_
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
