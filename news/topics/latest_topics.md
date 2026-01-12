@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 09:00_
+_Updated: 2026-01-12 09:47_
 
 ## Top Stories
 
+- Expert: Trump tappar ansiktet om han inte anfaller Iran - Dagens Nyheter
 - Misstänkt bomb i Bunkeflostrand - Sydsvenskan
 - Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
 - 12 januari 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
 - Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
 - Ekonom: USA:s försprång mot Europa mindre än många tror - Omni
-- Svårt för Ukraina värja sig mot nya ryska vapnet - Dagens Nyheter
+- Varannan kille i riskzonen för spelberoende - Aftonbladet
 - 12 januari 07.43, Sammanfattning natt, Östergötlands län - Polisen.se
+- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
 - Peder Skrivares skola: ”Inga planer på kameraövervakning” - SVT Nyheter
-- 12 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- Därför rullar vissa busslinjer och andra inte - GP
+- Nya attacker mot Kiev – flera explosioner - Västerbottens-Kuriren
 - Världens dyraste experiment kan lösa energikrisen – fusionsreaktorn ITER byggs i södra Frankrike - Dagens Nyheter
-- Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
+- Maria Gunther: Vilket bränsle ska ge framtidens el? - Dagens Nyheter
 - Torbjörn Petersson: Kinas oljeaffärer i fara efter Trumps drag i Venezuela - Dagens Nyheter
-- USA: Har attackerat IS-mål i Syrien - SVT Nyheter
 - CSN höjer räntan – läge att betala av? - SvD
 - Toppekonomen: Här hittar du årets börsvinnare - DI
 - ”Vill inte att AI styr hur jag tänker” - SvD
-- USA:s centralbank stäms: ”Politiska påtryckningar” - SVT Nyheter
+- Nu kommer annonserna till AI - SvD
 - Forskare tittade närmare på gåtfull spökpartikel – och upptäckte något som kan skriva om fysiken, som vi känner den - Illustrerad Vetenskap
 - Nu kan du skaffa dig BrickBoy via Kickstarter - Teknikveckan
 
@@ -64,35 +64,35 @@ _Updated: 2026-01-12 09:00_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
