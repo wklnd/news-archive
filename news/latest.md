@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-12 06:38_
+_Updated: 2026-01-12 07:17_
 
-- Trump tells Cuba to 'make a deal, before it is too late' - BBC
+- Trump briefed on new options for military strikes in Iran, source says - CBS News
+- Protests against ICE spread across U.S. after shootings in Minneapolis and Portland - PBS
 - Denmark warns of ‘decisive moment’ as Trump renews threat of force over Greenland - France 24
-- Federal Prosecutors Are Said to Have Opened Inquiry Into Fed Chair Powell - The New York Times
-- Last Kurdish forces leave Aleppo after ceasefire deal reached - BBC
+- More federal agents to be sent to Minnesota after shooting, Trump administration says - BBC
 - A Cooler Week Ahead - KSAT
 - 'We are happy and hopeful for the future of Venezuela' - BBC
-- U-Haul drives into crowd at Los Angeles anti-Iranian regime protest - ABC News
-- Nobel Institute rejects Machado's peace prize offer to Trump - Axios
+- Federal Reserve hit with DOJ subpoenas, indictment threat, Chair Jerome Powell says - NBC News
+- Trump 'inclined' to keep ExxonMobil out of Venezuela after CEO response at White House meeting - AP News
+- Largest nursing strike in New York City history looming as contract negotiations continue - ABC News
 - Missing Oklahoma boy found safe after mother, stepfather arrested for alleged child abuse: officials - ABC7 Chicago
 - Iran Edges Closer to a Revolution That Would Reshape the World - Bloomberg.com
-- US to push for quicker action in reducing reliance on China for rare earths - Reuters
 - Australia social media ban: Meta blocks 550,000 accounts under new law - BBC
-- Fleeing settler violence, Palestinians leave one of few remaining Jordan Valley hamlets - The Times of Israel
-- Anthropic joins OpenAI's push into health care with new Claude tools - NBC News
+- North Korea vows response as it accuses the South of flying drones across the border - ABC News
+- US to push for quicker action in reducing reliance on China for rare earths - Reuters
 - 2026 looks ominous for media, from Hollywood to journalism - NPR
-- Google employee made redundant after reporting sexual harassment, court hears - BBC
 - Alnylam charts ambitious five-year plan as sales of key drug miss expectations - statnews.com
+- Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax - The New York Times
+- Focus: Rio Tinto's bid for Glencore piles pressure on BHP - Reuters
+- Goodwill shopper sparks outrage after sharing photos of local store's shelves: 'Is this normal?' - Yahoo
 - The struggle of resizing windows on macOS Tahoe - Hacker News
-- I dumped Windows 11 for Linux, and you should too - Hacker News
-- Samsung Confirms New Options For Android Users After Gmail Issues - Forbes
