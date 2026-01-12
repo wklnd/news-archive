@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 17:50_
+_Updated: 2026-01-12 18:54_
 
 ## Top Stories
 
-- Hovrättens beslut: Influencern ”Chrippa” häktas - SVT Nyheter
-- Sju åtalas efter allvarliga hot mot tjänstemän och förtroendevalda - polisen.se
-- Över 5,3 miljarder kronor till bred drönar- och rymdförmåga - Regeringen.se
-- Stora störningar i busstrafiken - SVT Nyheter
-- Länder blockerar Musks AI – efter sexbilder - Aftonbladet
-- Vill du göra en insats för demokratin? - Mjölby kommun
+- Polisen: Foxtrot-toppen Ali Shehab gripen i Irak - SVT Nyheter
+- Senaste nytt om protesterna i Iran - SVT Nyheter
+- Kokain för tre miljarder hittades i container i Helsingborg – största beslaget i Sverige - SVT Nyheter
+- Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
+- Startar utredning efter avklädda bilder - Aftonbladet
+- Soptömning vintertid - Håbo
+- SMHI varnar för plötslig ishalka längst Västkusten - SVT Nyheter
 - DN Direkt – Tre personer misstänkta för dråp i Djursholm - Dagens Nyheter
 - Därför kan ”snökanonerna” bli ännu kraftigare i framtiden - Dagens Nyheter
-- Kokain för tre miljarder hittades i container i Helsingborg – största beslaget i Sverige - SVT Nyheter
-- Våldtog flickor via Snapchat – man döms - GP
-- Ebba Busch: Ställer upp med vad som helst Danmark önskar – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Vill du göra en insats för demokratin? - Mjölby kommun
+- ”Tigrinnan” har tagit över i Venezuela - Västerbottens-Kuriren
 - Natos högsta militära befälhavare besöker Sverige - Försvarsmakten
 - Flera äldrebedrägerier i Stockholm – misstänkt fångades av anhörig - SVT Nyheter
 - EU-toppen öppnar för europeisk armé - DI
-- Affärsvärlden behåller köprådet för Thule - Affärsvärlden
 - Han blir ny vd för Flat Capital - DI
-- Rymdboom i Kina – företag bygger egna raketer - Dagens PS
-- BoByggarBarometern: Bostadsbyggarna mer optimistiska inför första kvartalet - svenskbyggtidning -
-- Galaxy-telefoner erbjuder officiellt Stranger Things-tema - Swedroid
-- Apples Hälso-app ryktas få en stor uppdatering i iOS 26.4 - Teknikveckan
+- Så säkerställer du att bilen startar i vinterkylan – expertens tips för ett köldtåligt startbatteri - Via TT
+- Gävleborg: Snön försvårade efter Johannes - www.ellevio.se
+- Efter pensionen: Många tvingas dra ned - Senioren
+- Spelplattformen Steam slår nytt användarrekord - m3.se
+- iPhone 17e kan släppas redan nästa månad - Teknikveckan
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- The Raja Saab worldwide box office collection day 3: Prabhas film earns ₹158 crore despite dip, beats Akhanda 2 lifetime | Hindustan Times - Hindustan Times
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -43,9 +43,9 @@ _Updated: 2026-01-12 17:50_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -102,11 +102,11 @@ _Updated: 2026-01-12 17:50_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -130,11 +130,11 @@ _Updated: 2026-01-12 17:50_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
