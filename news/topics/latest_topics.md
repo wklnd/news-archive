@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 09:47_
+_Updated: 2026-01-12 10:57_
 
 ## Top Stories
 
-- Expert: Trump tappar ansiktet om han inte anfaller Iran - Dagens Nyheter
-- Misstänkt bomb i Bunkeflostrand - Sydsvenskan
-- Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
+- Senaste nytt om protesterna i Iran - SVT Nyheter
+- Kristersson (M): USA borde tacka Danmark – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
 - 12 januari 07.00, Sammanfattning natt, Norrbottens län - Polisen.se
+- Svårt för Ukraina värja sig mot nya ryska vapnet - Dagens Nyheter
 - Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
-- Ekonom: USA:s försprång mot Europa mindre än många tror - Omni
-- Varannan kille i riskzonen för spelberoende - Aftonbladet
-- 12 januari 07.43, Sammanfattning natt, Östergötlands län - Polisen.se
+- Must-chefen: Kan bli ännu sämre framöver - Aftonbladet
 - Gul varning på Gotland – trafikverket varnar - SVT Nyheter
+- 12 januari 07.43, Sammanfattning natt, Östergötlands län - Polisen.se
+- Därför rullar vissa busslinjer och andra inte - GP
 - Peder Skrivares skola: ”Inga planer på kameraövervakning” - SVT Nyheter
-- Nya attacker mot Kiev – flera explosioner - Västerbottens-Kuriren
 - Världens dyraste experiment kan lösa energikrisen – fusionsreaktorn ITER byggs i södra Frankrike - Dagens Nyheter
 - Maria Gunther: Vilket bränsle ska ge framtidens el? - Dagens Nyheter
 - Torbjörn Petersson: Kinas oljeaffärer i fara efter Trumps drag i Venezuela - Dagens Nyheter
+- USA uppmanar sina medborgare att lämna Venezuela - Aftonbladet
+- Stor lättnad för Saga, 25 – fick lägenhet av chefen - SvD
 - CSN höjer räntan – läge att betala av? - SvD
 - Toppekonomen: Här hittar du årets börsvinnare - DI
 - ”Vill inte att AI styr hur jag tänker” - SvD
-- Nu kommer annonserna till AI - SvD
 - Forskare tittade närmare på gåtfull spökpartikel – och upptäckte något som kan skriva om fysiken, som vi känner den - Illustrerad Vetenskap
-- Nu kan du skaffa dig BrickBoy via Kickstarter - Teknikveckan
+- Steam Machines priser kan ha läckt av en tjeckisk återförsäljare - FZ.se
 
 ## World News
 
@@ -34,13 +34,13 @@ _Updated: 2026-01-12 09:47_
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- AB InBev and International Cricket Council Announce Landmark Global Partnership - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -74,25 +74,25 @@ _Updated: 2026-01-12 09:47_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-12 09:47_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -146,6 +146,7 @@ _Updated: 2026-01-12 09:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -155,10 +156,9 @@ _Updated: 2026-01-12 09:47_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
