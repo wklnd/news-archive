@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-12 06:36_
+_Updated: 2026-01-12 07:52_
 
 ## Top Stories
 
-- Misstänkt bomb i Bunkeflostrand - Sydsvenskan
+- Hundratals uppges döda i Iran - Dagens Nyheter
 - Trump hotar Kuba: ”Gör en deal” - SvD
-- Hundratals fler federala agenter till Minneapolis - SVT Nyheter
+- Hundratals fler federala agenter till Minneapolis - Aftonbladet
+- Hisingsbron fastnade i två timmar – trafiken stod still - GP
 - Hur ska vi ta oss igenom oxveckorna? - Dagens Arena
-- Klart: Då skriver EU under jätteavtalet med Sydamerika - DI
-- Stellan Skarsgård vinner en Golden Globe - SVT Nyheter
+- Ekonom: USA:s försprång mot Europa mindre än många tror - Omni
+- Varannan kille i riskzonen för spelberoende - Aftonbladet
+- Strul på t-banans röda linje – risk för trängsel - SVT Nyheter
+- Gul varning på Gotland – trafikverket varnar - SVT Nyheter
 - Därför rullar vissa busslinjer och andra inte - GP
-- Hanna fortfarande försvunnen – polisen välkomnar fler tips - GP
-- Luf: Moderaterna och Kristdemokraterna saboterar EU:s klimatpolitik - Altinget.se
-- 11 januari 12.30, Skottlossning, Osby - Polisen.se
+- Världens dyraste experiment kan lösa energikrisen – fusionsreaktorn ITER byggs i södra Frankrike - Dagens Nyheter
 - Torbjörn Petersson: Kinas oljeaffärer i fara efter Trumps drag i Venezuela - Dagens Nyheter
-- USA: Har attackerat IS-mål i Syrien - SVT Nyheter
-- Polisinsats efter bedrägeriförsök och rån mot äldre - märsta.nu
-- Britter utvecklar robot för Ukraina - SVT Nyheter
+- Storbritannien ska utveckla ny ballistisk robot för Ukrainas försvar - Dagens Nyheter
+- USA uppmanar sina medborgare att lämna Venezuela - Aftonbladet
 - CSN höjer räntan – läge att betala av? - SvD
-- Sommarjobb kundtjänstmedarbetare - Region Kalmar Län
-- Norrland sticker ut på bomarknaden - SVT Nyheter
-- Anmäl dig till Seniorhälsoutmaningen 2026! - Östersund.se
+- ”Vill inte att AI styr hur jag tänker” - SvD
+- Skapade egen låt för att hitta sommarpersonal: "Värt att prova nya vägar" - Notified
+- Rysk miljonär försvunnen - Expressen
 - Forskare tittade närmare på gåtfull spökpartikel – och upptäckte något som kan skriva om fysiken, som vi känner den - Illustrerad Vetenskap
 - Nu kan du skaffa dig BrickBoy via Kickstarter - Teknikveckan
 
@@ -65,11 +65,11 @@ _Updated: 2026-01-12 06:36_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -102,15 +102,15 @@ _Updated: 2026-01-12 06:36_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2026-01-12 06:36_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
