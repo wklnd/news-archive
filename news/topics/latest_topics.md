@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 21:39_
+_Updated: 2026-01-13 22:47_
 
 ## Top Stories
 
-- Trump: ”Hjälp är på väg” – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Västtrafik beklagar sin bristfälliga information - GP
+- Uppgifter: Foxtrot-kopplad gängledare gripen - UNT
 - Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- Personal på äldreboende stängs av – politiker visste inget om krisen - Dagens Nyheter
 - Rånvåg mot äldre skakar Huskvarna: ”Det är fruktansvärt” - Expressen
-- Minnesota stämmer Trumpregeringen - GP
-- Pentagon satsar på Grok – ”ska inte vara woke” - Aftonbladet
-- DN Direkt – Organdonationer fortsätter minska – Väntetider ökar - Dagens Nyheter
+- Misstänkt grovt brott i Hallsberg - TV4 Nyheterna
+- Antik villa slår upp portarna i Rom – via videolänk - Dagens Nyheter
 - Regionens larm: Ovanligt många fall av papegojsjuka i Halland - SVT Nyheter
 - 13 januari 16.30, Trafikkontroll, Västerbottens län - Polisen.se
-- Plusgrader ger risk för istappar och takras: ”Fastighetsägaren har ett stort ansvar” - VF
-- Historiskt: Kolkraft backar i Kina och Indien - Aftonbladet
-- Nya attacker mot Kiev - 8 Sidor
-- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
-- Sju EU-frågor som kan prägla 2026 - Europaportalen
-- Trump i ny attack mot Powell: ”Inkompetent eller korrupt” - DI
-- Har sparat en halv miljon – kan jag förlora dem till särkullbarnet om sambon dör? - Amelia
-- Volvo varslar alla tjänster på batterifabrik - Norran
-- Chefsekonomen efter matprisökningarna: ”Sverige är Nordens lågprisland” - Börskollen
+- Företagen får sin egen krisbroschyr - Tidningen Näringslivet
+- DN Direkt – Organdonationer fortsätter minska – Väntetider ökar - Dagens Nyheter
+- Trump: ”Hjälp är på väg” – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Historiskt: Kolkraft backar i Kina och Indien - GP
+- Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
+- Tolvåring död i lavinolycka i Österrike - Expressen
+- Putin beslagtar danska företagets tillgångar - Expressen
+- Torvallabolag fördubblar sin produktion - Östersunds-Posten
+- Fler miljardärer skulle vara som Wallenberg - Aftonbladet
+- VIKTOR BARTH-KRON: Ska ÖB gå i krig mot Lisa på HR? - Expressen
 - Svenska spelstudions succé: Sålt över 12 miljoner exemplar - DI
 - OnePlus har enligt nya rykten lagt ner två av sina mest efterlängtade telefoner för 2026 – här är varför - TechRadar
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- At least 12,000 killed in Iran crackdown as blackout deepens | Iran International - ایران اینترنشنال
+- At least 12,000 killed in Iran crackdown during internet blackout - ایران اینترنشنال
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -74,25 +74,25 @@ _Updated: 2026-01-13 21:39_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- EY i Almedalen 2025 | EY - Sverige - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -102,9 +102,10 @@ _Updated: 2026-01-13 21:39_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -115,20 +116,20 @@ _Updated: 2026-01-13 21:39_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -138,7 +139,6 @@ _Updated: 2026-01-13 21:39_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
