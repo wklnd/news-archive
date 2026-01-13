@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 05:50_
+_Updated: 2026-01-13 06:58_
 
 ## Top Stories
 
 - Bildt om Trumps planer för Grönland ”Då blir det farligt” - SVT Nyheter
-- Trumps plan för Iran – oro i Vita huset för kaos - Aftonbladet
+- Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
 - Nya attacker mot Kiev - 8 Sidor
 - Hundratals fler federala agenter till Minneapolis - SVT Nyheter
-- Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
 - Försvarsministerns tal på Folk och Försvars rikskonferens 2026 - Regeringen.se
+- Gator i Visby avstängda ikväll på grund av bortforsling av snö - Region Gotland
 - Polisen: Foxtrot-toppen Ali Shehab gripen i Irak - SVT Nyheter
 - Nyheter från dagen: 12 januari - SVT Nyheter
-- SVT erfar: Försvarsmakten ges i uppdrag att köpa in ”kamikazedrönare” – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Pågående polisinsats i Gröndal – man rånad - SVT Nyheter
 - SMHI varnar för plötslig ishalka i södra Sverige - SVT Nyheter
-- Ukraina: Civila fartyg attackerade i Svart havet - Aftonbladet
+- Trump ska träffa venezuelansk fredspristagare - DI
 - ”Jag är utled på att se det här landet gå i krig” - Hufvudstadsbladet
 - Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
-- Insats för att stoppa rekryteringen till kriminella gäng - Polisen.se
+- Pojke brännskadad av fyrverkeripjäs – förd till sjukhus - SVT Nyheter
+- Läkare sågar Chat GPT – ska läsa journaler - SvD
 - Försiktig optimism bland bostadsbyggare - Fastighetstidningen
 - Nu rundar Tesla blockaden mot laddstolparna – med ny metod - Dagens Arbete
 - Skräckscenariot: Så kan oljepriset utvecklas 2026 - EFN
-- Saabs vd: ”Vi måste tänka om” - Tidningen Näringslivet
-- Här är Apples guldgruva – tjänar miljarder i det tysta - Dagens PS
 - Spelplattformen Steam slår nytt användarrekord - m3.se
+- iPhone 17e kan släppas redan nästa månad - Teknikveckan
 
 ## World News
 
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -34,7 +35,6 @@ _Updated: 2026-01-13 05:50_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -77,6 +77,7 @@ _Updated: 2026-01-13 05:50_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -85,9 +86,8 @@ _Updated: 2026-01-13 05:50_
 - EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -101,20 +101,20 @@ _Updated: 2026-01-13 05:50_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
@@ -131,11 +131,11 @@ _Updated: 2026-01-13 05:50_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2026-01-13 05:50_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
