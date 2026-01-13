@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 22:47_
+_Updated: 2026-01-13 23:44_
 
 ## Top Stories
 
 - Uppgifter: Foxtrot-kopplad gängledare gripen - UNT
 - Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
-- Personal på äldreboende stängs av – politiker visste inget om krisen - Dagens Nyheter
-- Rånvåg mot äldre skakar Huskvarna: ”Det är fruktansvärt” - Expressen
-- Misstänkt grovt brott i Hallsberg - TV4 Nyheterna
+- Grupperna som vill störta den iranska regimen utifrån - Dagens Nyheter
+- DN Direkt – Ovanlig ökning av ”papegojsjuka” i Halland - Dagens Nyheter
+- Dolt rum i ambassaden ses som hot mot London - SvD
 - Antik villa slår upp portarna i Rom – via videolänk - Dagens Nyheter
-- Regionens larm: Ovanligt många fall av papegojsjuka i Halland - SVT Nyheter
+- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
 - 13 januari 16.30, Trafikkontroll, Västerbottens län - Polisen.se
 - Företagen får sin egen krisbroschyr - Tidningen Näringslivet
-- DN Direkt – Organdonationer fortsätter minska – Väntetider ökar - Dagens Nyheter
+- Rånvåg mot äldre skakar Huskvarna: ”Det är fruktansvärt” - Expressen
 - Trump: ”Hjälp är på väg” – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Historiskt: Kolkraft backar i Kina och Indien - GP
+- Historiskt: Kolkraft backar i Kina och Indien - Västerbottens-Kuriren
 - Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
 - Tolvåring död i lavinolycka i Österrike - Expressen
-- Putin beslagtar danska företagets tillgångar - Expressen
-- Torvallabolag fördubblar sin produktion - Östersunds-Posten
-- Fler miljardärer skulle vara som Wallenberg - Aftonbladet
-- VIKTOR BARTH-KRON: Ska ÖB gå i krig mot Lisa på HR? - Expressen
+- Har sparat en halv miljon – kan jag förlora dem till särkullbarnet om sambon dör? - Amelia
+- Chefsekonomen efter matprisökningarna: ”Sverige är Nordens lågprisland” - Börskollen
+- Plattformsdirektivet – lovvärt men feltänkt - Almega
+- Myndigheter och beslutsfattare bevittnade förstörelse och hjälteinsatser efter stormarna Johannes och Anna - Via TT
 - Svenska spelstudions succé: Sålt över 12 miljoner exemplar - DI
 - OnePlus har enligt nya rykten lagt ner två av sina mest efterlängtade telefoner för 2026 – här är varför - TechRadar
 
@@ -29,23 +29,23 @@ _Updated: 2026-01-13 22:47_
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
 - At least 12,000 killed in Iran crackdown during internet blackout - ایران اینترنشنال
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -59,6 +59,7 @@ _Updated: 2026-01-13 22:47_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-01-13 22:47_
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,19 +80,19 @@ _Updated: 2026-01-13 22:47_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- EY i Almedalen 2025 | EY - Sverige - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -120,8 +120,8 @@ _Updated: 2026-01-13 22:47_
 ## Science
 
 - Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -134,21 +134,21 @@ _Updated: 2026-01-13 22:47_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-01-13 22:47_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
