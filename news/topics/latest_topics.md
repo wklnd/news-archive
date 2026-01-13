@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 04:30_
+_Updated: 2026-01-13 05:50_
 
 ## Top Stories
 
 - Bildt om Trumps planer för Grönland ”Då blir det farligt” - SVT Nyheter
 - Trumps plan för Iran – oro i Vita huset för kaos - Aftonbladet
-- Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
+- Nya attacker mot Kiev - 8 Sidor
 - Hundratals fler federala agenter till Minneapolis - SVT Nyheter
-- Senatorns motdrag – stämmer Pentagon - Aftonbladet
-- Gator i Visby avstängda ikväll på grund av bortforsling av snö - Region Gotland
+- Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
+- Försvarsministerns tal på Folk och Försvars rikskonferens 2026 - Regeringen.se
 - Polisen: Foxtrot-toppen Ali Shehab gripen i Irak - SVT Nyheter
-- Elev allvarligt skadad på skola i Hassela - SVT Nyheter
 - Nyheter från dagen: 12 januari - SVT Nyheter
-- Pågående polisinsats i Gröndal – man rånad - SVT Nyheter
+- SVT erfar: Försvarsmakten ges i uppdrag att köpa in ”kamikazedrönare” – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- SMHI varnar för plötslig ishalka i södra Sverige - SVT Nyheter
 - Ukraina: Civila fartyg attackerade i Svart havet - Aftonbladet
-- Trump 2.0: Ett år som skakade världen - GP
+- ”Jag är utled på att se det här landet gå i krig” - Hufvudstadsbladet
 - Inställda avgångar på röda linjen efter tekniskt fel - SVT Nyheter
 - Insats för att stoppa rekryteringen till kriminella gäng - Polisen.se
-- Startar utredning efter avklädda bilder - Aftonbladet
-- SEB:s oljescenario: Då kan priset rusa 140 procent - DI
-- UPPDATERAS: Stridsfordonet Lynx levereras till Ukraina snart - utökade djupa operationer mot Ryssland - cornucopia.se
+- Försiktig optimism bland bostadsbyggare - Fastighetstidningen
+- Nu rundar Tesla blockaden mot laddstolparna – med ny metod - Dagens Arbete
+- Skräckscenariot: Så kan oljepriset utvecklas 2026 - EFN
+- Saabs vd: ”Vi måste tänka om” - Tidningen Näringslivet
 - Här är Apples guldgruva – tjänar miljarder i det tysta - Dagens PS
 - Spelplattformen Steam slår nytt användarrekord - m3.se
-- iPhone 17e kan släppas redan nästa månad - Teknikveckan
 
 ## World News
 
@@ -53,13 +53,14 @@ _Updated: 2026-01-13 04:30_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - EU Digital Strategy
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-01-13 04:30_
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -127,16 +127,16 @@ _Updated: 2026-01-13 04:30_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 
