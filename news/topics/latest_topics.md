@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 23:44_
+_Updated: 2026-01-14 00:48_
 
 ## Top Stories
 
-- Uppgifter: Foxtrot-kopplad gängledare gripen - UNT
-- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
-- Grupperna som vill störta den iranska regimen utifrån - Dagens Nyheter
-- DN Direkt – Ovanlig ökning av ”papegojsjuka” i Halland - Dagens Nyheter
-- Dolt rum i ambassaden ses som hot mot London - SvD
-- Antik villa slår upp portarna i Rom – via videolänk - Dagens Nyheter
-- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
-- 13 januari 16.30, Trafikkontroll, Västerbottens län - Polisen.se
-- Företagen får sin egen krisbroschyr - Tidningen Näringslivet
-- Rånvåg mot äldre skakar Huskvarna: ”Det är fruktansvärt” - Expressen
 - Trump: ”Hjälp är på väg” – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Historiskt: Kolkraft backar i Kina och Indien - Västerbottens-Kuriren
 - Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
-- Tolvåring död i lavinolycka i Österrike - Expressen
-- Har sparat en halv miljon – kan jag förlora dem till särkullbarnet om sambon dör? - Amelia
-- Chefsekonomen efter matprisökningarna: ”Sverige är Nordens lågprisland” - Börskollen
+- Dolt rum i ambassaden ses som hot mot London - SvD
+- Kungsbacka kommun går upp i stabsläge efter gul isvarning - SVT Nyheter
+- Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
+- Regionen varnar för papegojsjuka - Expressen
+- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- Nu ska den nya beredskapsbroschyren skickas ut till Sveriges företag - Regeringen.se
+- Stora störningar i kollektivtrafiken - SVT Nyheter
+- Skolbussarna i Uddevalla ställs in onsdag morgon - SVT Nyheter
+- USA-lojala rojalister kan aldrig företräda Irans folk - Proletären
+- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
+- Sju EU-frågor som kan prägla 2026 - Europaportalen
+- Påven möter Venezuelas Nobelpristagare Maria Corina Machado - Vatican News
+- Trump i ny attack mot Powell: ”Inkompetent eller korrupt” - DI
+- It-utbildningar skrotas – svårare att få jobb - Tidningen Näringslivet
+- Svag avslutning på bostadsåret 2025 – men tecken på vändning - Fastighetstidningen
 - Plattformsdirektivet – lovvärt men feltänkt - Almega
-- Myndigheter och beslutsfattare bevittnade förstörelse och hjälteinsatser efter stormarna Johannes och Anna - Via TT
 - Svenska spelstudions succé: Sålt över 12 miljoner exemplar - DI
-- OnePlus har enligt nya rykten lagt ner två av sina mest efterlängtade telefoner för 2026 – här är varför - TechRadar
+- iOS 26.3 kan ge RCS-meddelanden bättre skydd - Teknikveckan
 
 ## World News
 
@@ -59,7 +59,6 @@ _Updated: 2026-01-13 23:44_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-01-13 23:44_
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,9 +80,10 @@ _Updated: 2026-01-13 23:44_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - EY i Almedalen 2025 | EY - Sverige - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-01-13 23:44_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -120,8 +120,8 @@ _Updated: 2026-01-13 23:44_
 ## Science
 
 - Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -134,21 +134,21 @@ _Updated: 2026-01-13 23:44_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-01-13 23:44_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
