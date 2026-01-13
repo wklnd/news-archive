@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-13 19:55_
+_Updated: 2026-01-13 20:59_
 
+- Facing Contempt Threat, Clintons Refuse to Testify in Epstein Inquiry - The New York Times
 - Greenland and Denmark unite against US advances before White House talks - The Guardian
+- DoJ attorneys resign over decision not to investigate agent in Minneapolis ICE shooting - The Guardian
+- People inside Iran describe heavy security and scattered damage in first calls to outside world - ABC News
 - Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
-- Apple turns to Google to power AI upgrade for Siri - BBC
-- Office of Public Affairs | Former U.S. Navy Sailor Sentenced to 200 Months for Spying for China - Department of Justice (.gov)
-- Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry - NPR
-- Federal prosecutor in Virginia fired, unwilling to take on Comey prosecution: Sources - ABC News
-- What we know about the alleged arson at Mississippi’s largest and oldest synagogue - CNN
-- The trans youth athletes in the US fighting for their rights: ‘Playing is an act of resistance’ - The Guardian
+- 16-year-old found shot to death in bathroom of Chipotle restaurant near Temple University in North Philadelphia identified - 6abc Philadelphia
+- Southern District of New York | Former New York City Official Charged With Bribery And Fraud - Department of Justice (.gov)
 - A suspect’s arrest in the killing of a Columbus, Ohio, couple leads to the next big question: What was the motive? - CNN
 - Which countries do business with Iran and what could US tariffs mean? - BBC
-- Starmer considers joining Trump's Gaza peace board - BBC
+- What we know about the alleged arson at Mississippi’s largest and oldest synagogue - CNN
+- Le Pen blames European Parliament in appeal that could decide political fate - BBC
+- Trump administration prepares to unveil new Gaza leadership - Financial Times
+- Search for single-tusked elephant after 22 killed in India rampage - The Guardian
 - US State Department threatens UK over probe into Elon Musk’s X - politico.eu
-- At This Office Park, Scamming the World Was the Business - The New York Times
-- Why Iran’s clerical establishment still holds as protests rage - Reuters
 - Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600 - CNBC
-- Delta adds Boeing 787 Dreamliner to widebody fleet - deltad8.prod.acquia-sites.com
-- CPI Report Shows Food Prices Rose Sharply in December - The New York Times
-- Microsoft has a plan to stop AI data centers from hiking up your electricity bill - CNN
-- Anthropic launches Claude Cowork, a version of its coding AI for regular people - Engadget
-- Signal creator Moxie Marlinspike wants to do for AI what he did for messaging - Ars Technica
+- Dimon Says ‘Trust Me’ on the Increase in JPMorgan’s Expenses - Bloomberg.com
+- JPMorgan Profit Falls on Investment-Banking Miss, Apple Card Charge - The Wall Street Journal
+- Cold weather and data centres drive up US greenhouse gas emissions - BBC
+- Anthropic launches Claude Cowork, a file-managing AI agent that could threaten dozens of startups - Fortune
+- I Watched the Lakers-Bucks Game Courtside on Apple Vision Pro. It Left Me Wanting More - CNET
