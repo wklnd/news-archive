@@ -1,19 +1,19 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 00:48_
+_Updated: 2026-01-14 01:41_
 
 ## Top Stories
 
 - Trump: ”Hjälp är på väg” – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
 - Dolt rum i ambassaden ses som hot mot London - SvD
+- Regionen varnar för papegojsjuka - Expressen
 - Kungsbacka kommun går upp i stabsläge efter gul isvarning - SVT Nyheter
 - Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
-- Regionen varnar för papegojsjuka - Expressen
 - Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
 - Nu ska den nya beredskapsbroschyren skickas ut till Sveriges företag - Regeringen.se
 - Stora störningar i kollektivtrafiken - SVT Nyheter
-- Skolbussarna i Uddevalla ställs in onsdag morgon - SVT Nyheter
+- Knivman sköts av polis – förundersökning läggs ner - Expressen
 - USA-lojala rojalister kan aldrig företräda Irans folk - Proletären
 - Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
 - Sju EU-frågor som kan prägla 2026 - Europaportalen
@@ -21,15 +21,15 @@ _Updated: 2026-01-14 00:48_
 - Trump i ny attack mot Powell: ”Inkompetent eller korrupt” - DI
 - It-utbildningar skrotas – svårare att få jobb - Tidningen Näringslivet
 - Svag avslutning på bostadsåret 2025 – men tecken på vändning - Fastighetstidningen
-- Plattformsdirektivet – lovvärt men feltänkt - Almega
+- Hasse och Ulla i Ockelbo har ingen el efter tre veckor - TV4 Nyheterna
 - Svenska spelstudions succé: Sålt över 12 miljoner exemplar - DI
 - iOS 26.3 kan ge RCS-meddelanden bättre skydd - Teknikveckan
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- At least 12,000 killed in Iran crackdown during internet blackout - ایران اینترنشنال
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- At least 12,000 killed in Iran crackdown during internet blackout - ایران اینترنشنال
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
@@ -74,9 +74,9 @@ _Updated: 2026-01-14 00:48_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
@@ -102,7 +102,6 @@ _Updated: 2026-01-14 00:48_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
@@ -116,6 +115,7 @@ _Updated: 2026-01-14 00:48_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 
 ## Science
 
