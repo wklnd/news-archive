@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 10:55_
+_Updated: 2026-01-13 11:50_
 
 ## Top Stories
 
 - Staffanstorp vägrade ta emot kvotflyktingar – kommunpolitiker riskerar fängelse - SVT Nyheter
-- Avgörande möte i Vita huset om Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
-- 3 förslag – så ser vi över könstillhörighetslagen - Aftonbladet
-- Facken demonstrerar mot 13-åringar i fängelse – "Lyssna!" - Arbetsvärlden
-- Nya attacker mot Kiev - 8 Sidor
+- Merz: Irans regim inne i ”sista dagar och veckor” – Senaste nytt om protesterna i Iran - SVT Nyheter
+- ”Bara att vi diskuterar det här får Putin att gnugga händerna” - GP
 - Regeringen utser samordnare för kortare vårdköer - Regeringen.se
+- Storbritannien ska lagstifta mot plattformen X: ”Vidrigt innehåll” - SVT Nyheter
 - Oron: Färre vill riskera livet - SvD
+- Säkerhetsbroschyr skickas ut till Sveriges företag – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Två bilar i krock utanför Ystad – orsakade stopp i trafiken - SVT Nyheter
+- Beskedet: Nya elbussarna kommer inte under Råckstabron - Mitt i
 - Västtrafik i krismöte om inställda bussar: ”Fordonsfel” - GP
-- Nyheter från dagen: 12 januari - SVT Nyheter
-- Broväg i Visby åter öppen - Region Gotland
+- Nya attacker mot Kiev – flera explosioner - GP
 - Schimpansen Ai är död - GP
-- Hundratals fler federala agenter till Minneapolis - SVT Nyheter
-- Färre organdonatorer - för andra året i rad - Socialstyrelsen
-- DN Direkt – Man gripen för grovt sexualbrott - Dagens Nyheter
-- Kommentar till Svensk Mäklarstatistik: Storstäderna visar vägen – ökad fart väntas på bostadsmarknaden 2026 - Via TT
+- Tung smäll för Kina när Trump stryper oljekranen - DI
+- Storbråk i hästvärlden & psykologens morgontips – P3 Nyheter med Babs Drougge - Sveriges Radio
+- Batterifabriken Novo Energy säger upp samtliga anställda - SVT Nyheter
 - Siri + Gemini = Sant - SvD
-- Företagen får sin egen krisbroschyr - Västerbottens-Kuriren
-- Myndigheter och beslutsfattare bevittnade förstörelse och hjälteinsatser efter stormarna Johannes och Anna - Via TT
+- Svag avslutning på bostadsåret 2025 – men tecken på vändning - Fastighetstidningen
+- It-utbildningar skrotas – svårare att få jobb - DI
+- CTEK släpper batteriladdare med wifi. Håll koll var du än är. - feber.se
 - Tror inte de slår Magnus A Djuse - Expressen
-- Arc Raiders har sålt i 12,4 miljoner – guldslägga till alla spelare! - FZ.se
 
 ## World News
 
+- Global centralbanksaktion till stöd för Powell - DI
 - Trump vs Fed utlöser global marknadsoro - Realtid
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -39,10 +40,9 @@ _Updated: 2026-01-13 10:55_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
@@ -77,11 +77,12 @@ _Updated: 2026-01-13 10:55_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Four European takes on open banking - Mastercard Data and Services - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - EY i Almedalen 2025 | EY - Sverige - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2026-01-13 10:55_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -102,20 +102,20 @@ _Updated: 2026-01-13 10:55_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 
 ## Science
 
