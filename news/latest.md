@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-13 16:00_
+_Updated: 2026-01-13 16:58_
 
 - Since the Supreme Court protected transgender people from discrimination, ‘The backlash has been brutal’ - CNN
-- Spencer and Monique Tepe: What we know about the Ohio dentist and his wife found dead in their home - CNN
-- Arrest made in alleged arson fire at historic Mississippi synagogue - ABC News
-- Missing Oklahoma boy found safe after mom, stepfather arrested on suspicion of child abuse - ABC News
-- Warren seeks to put her progressive stamp on Dems' 2028 makeover - Axios
-- Several monkeys loose in St. Louis and authorities have no clue how they got there - Dexerto
-- Portland putting ‘sand in the gears’ of local ICE operations after high-profile shootings - The Globe and Mail
-- Secretary of War Pete Hegseth to Travel to Brownsville and Fort Worth, Texas - U.S. Department of War (.gov)
-- South Korea's Lee to head for Japan summit a week after meeting China's Xi - Reuters
+- Adelaide Writers Week canceled as 180 speakers withdraw after the exclusion of a Palestinian writer - AP News
+- What countries do business with Iran and what could US tariffs mean? - BBC
+- Former Rep. Mary Peltola jumps into Alaska Senate race - Politico
+- Suspect arrested after a fire damages a historic Mississippi synagogue - Politico
+- Chaos erupts as U-Haul drives into crowd during anti-Iranian regime rally in Westwood - ABC7 Los Angeles
+- ICE Now So Hated Even Their Own Agents Are Terrified - The Daily Beast
+- ‘Shoot to Kill’: Accounts of Brutal Crackdown Emerge From Iran - The New York Times
+- ICE Arrests N.Y.C. City Council Employee at Routine Appointment - The New York Times
+- Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
+- As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties - AP News
 - Storms tear through tents in Gaza, exposing Palestinians to the elements - NBC News
-- Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink - The Guardian
-- Which are Iran’s main opposition groups? - Al Jazeera
-- New York sues Trump over stop work order on wind projects - Gothamist
-- Trump Indicates He’s Really Not Into Netflix Buying WB, Wants To Stop The Streamer’s So-Called “Cultural Takeover” - Deadline
-- Coinbase Stock (COIN) Faces Senate Review on Stablecoin Rewards - TipRanks
+- South Korea's Lee to head for Japan summit a week after meeting China's Xi - Reuters
+- Trump seeks to quell data center rebellion - The Washington Post
+- Gavin Newsom Vows to Stop Proposed Billionaire Tax in California - The New York Times
 - Why the JP Morgan conference is important — but not make-or-break - statnews.com
-- Nintendo now mentioned in Call of Duty game launcher code - My Nintendo News
+- Community banks sound Alarm on stablecoins as JPMorgan remains calm - CoinDesk
+- Galaxy S26 with Exynos 2600 makes first Geekbench appearance – Global entry confirmed? - Sammy Fans
 - Dell tested NVIDIA N1X laptop just two months ago - VideoCardz.com
-- The struggle of resizing windows on macOS Tahoe - Hacker News
-- AI can now 'see' optical illusions. What does it tell us about our own brains? - BBC
+- Nintendo now mentioned in Call of Duty game launcher code - My Nintendo News
