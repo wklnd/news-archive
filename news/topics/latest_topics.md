@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-13 20:55_
+_Updated: 2026-01-13 21:39_
 
 ## Top Stories
 
-- Senaste nytt om protesterna i Iran - SVT Nyheter
-- Politiker i Staffanstorp åtalas för att de vägrade ta emot kvotflyktingar - Sveriges Radio
-- Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
-- Halka och blötsnö väntar när temperaturen stiger – SMHI uppmanar till försiktighet - SVT Nyheter
-- Nytt gripande efter misstänkt dödshjälp i Djursholm - Expressen
-- Sociala plattformar ska tvingas ta bort gängens annonser – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- Kronprinsessan Victoria: Vi måste värna folkrätten - Dagens Nyheter
-- Allt färre donerar sina njurar - Dagens Medicin
-- Nu ska den nya beredskapsbroschyren skickas ut till Sveriges företag - Regeringen.se
-- Regeringen utser samordnare för kortare vårdköer - Regeringen.se
-- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
+- Trump: ”Hjälp är på väg” – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Västtrafik beklagar sin bristfälliga information - GP
+- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- Rånvåg mot äldre skakar Huskvarna: ”Det är fruktansvärt” - Expressen
 - Minnesota stämmer Trumpregeringen - GP
+- Pentagon satsar på Grok – ”ska inte vara woke” - Aftonbladet
+- DN Direkt – Organdonationer fortsätter minska – Väntetider ökar - Dagens Nyheter
+- Regionens larm: Ovanligt många fall av papegojsjuka i Halland - SVT Nyheter
+- 13 januari 16.30, Trafikkontroll, Västerbottens län - Polisen.se
+- Plusgrader ger risk för istappar och takras: ”Fastighetsägaren har ett stort ansvar” - VF
+- Historiskt: Kolkraft backar i Kina och Indien - Aftonbladet
+- Nya attacker mot Kiev - 8 Sidor
+- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
 - Sju EU-frågor som kan prägla 2026 - Europaportalen
-- Sydkorea: Kim Jong-Un har bytt säkerhetschefer - Västerbottens-Kuriren
-- Statliga Green Cargo varslar 115 - DI
-- Svag avslutning på bostadsåret 2025 – men tecken på vändning - Fastighetstidningen
+- Trump i ny attack mot Powell: ”Inkompetent eller korrupt” - DI
+- Har sparat en halv miljon – kan jag förlora dem till särkullbarnet om sambon dör? - Amelia
 - Volvo varslar alla tjänster på batterifabrik - Norran
-- Siri + Gemini = Sant - SvD
+- Chefsekonomen efter matprisökningarna: ”Sverige är Nordens lågprisland” - Börskollen
 - Svenska spelstudions succé: Sålt över 12 miljoner exemplar - DI
 - OnePlus har enligt nya rykten lagt ner två av sina mest efterlängtade telefoner för 2026 – här är varför - TechRadar
 
@@ -31,21 +31,21 @@ _Updated: 2026-01-13 20:55_
 - At least 12,000 killed in Iran crackdown as blackout deepens | Iran International - ایران اینترنشنال
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -68,31 +68,31 @@ _Updated: 2026-01-13 20:55_
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Connected cars, in-car payments driving the auto economy - mastercard.com
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- EY i Almedalen 2025 | EY - Sverige - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -128,16 +128,16 @@ _Updated: 2026-01-13 20:55_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
