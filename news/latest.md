@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-13 16:58_
+_Updated: 2026-01-13 17:56_
 
-- Since the Supreme Court protected transgender people from discrimination, ‘The backlash has been brutal’ - CNN
-- Adelaide Writers Week canceled as 180 speakers withdraw after the exclusion of a Palestinian writer - AP News
+- People in Iran describe heavy security and some damage in first calls to outside world - NPR
+- JD Vance to host Greenland talks at the White House - The Guardian
 - What countries do business with Iran and what could US tariffs mean? - BBC
-- Former Rep. Mary Peltola jumps into Alaska Senate race - Politico
-- Suspect arrested after a fire damages a historic Mississippi synagogue - Politico
-- Chaos erupts as U-Haul drives into crowd during anti-Iranian regime rally in Westwood - ABC7 Los Angeles
-- ICE Now So Hated Even Their Own Agents Are Terrified - The Daily Beast
-- ‘Shoot to Kill’: Accounts of Brutal Crackdown Emerge From Iran - The New York Times
-- ICE Arrests N.Y.C. City Council Employee at Routine Appointment - The New York Times
+- Randa Abdel-Fattah: How Adelaide Writers' Week imploded after axing Palestinian author - BBC
 - Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
-- As Canada tries to reduce its dependence on the US, its leader will visit China to rebuild ties - AP News
-- Storms tear through tents in Gaza, exposing Palestinians to the elements - NBC News
-- South Korea's Lee to head for Japan summit a week after meeting China's Xi - Reuters
+- Office of Public Affairs | Former U.S. Navy Sailor Sentenced to 200 Months for Spying for China - Department of Justice (.gov)
+- Facing Contempt Threat, Clintons Refuse to Testify in Epstein Inquiry - The New York Times
+- 16-year-old found shot to death in bathroom of Chipotle restaurant near Temple University in North Philadelphia identified - 6abc Philadelphia
+- Trump Suggests Renee Good’s ‘Disrespectful’ Attitude Justified Fatal ICE Shooting - The New York Times
+- Spencer and Monique Tepe: What we know about the Ohio dentist and his wife found dead in their home - CNN
+- At This Office Park, Scamming the World Was the Business - The New York Times
+- Marine Le Pen hopeful appeal will allow her to run for French president - BBC
+- US State Department threatens UK over probe into Elon Musk’s X - politico.eu
+- China urges Canada to break from US influence as PM Carney visits Beijing - ABC News
+- JPMorgan Says ‘Everything’ on Table to Fight 10% Credit Card Cap - Bloomberg.com
 - Trump seeks to quell data center rebellion - The Washington Post
-- Gavin Newsom Vows to Stop Proposed Billionaire Tax in California - The New York Times
-- Why the JP Morgan conference is important — but not make-or-break - statnews.com
-- Community banks sound Alarm on stablecoins as JPMorgan remains calm - CoinDesk
-- Galaxy S26 with Exynos 2600 makes first Geekbench appearance – Global entry confirmed? - Sammy Fans
-- Dell tested NVIDIA N1X laptop just two months ago - VideoCardz.com
-- Nintendo now mentioned in Call of Duty game launcher code - My Nintendo News
+- JPMorgan Profit Falls on Investment-Banking Miss, Apple Card Charge - The Wall Street Journal
+- Delta adds Boeing 787 Dreamliner to widebody fleet - Delta News Hub
+- Samsung Galaxy S26 Ultra Gets Updated Release Date - Forbes
+- What Apple and Google’s Gemini deal means for both companies - The Verge
