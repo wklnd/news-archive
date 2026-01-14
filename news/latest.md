@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 11:00_
+_Updated: 2026-01-14 11:55_
 
-- Trump hints at Iran decision as advisers meet to prepare strike options - The Washington Post
-- Fact check: Trump litters Detroit economic speech with numerous false claims about economy - CNN
-- Global temperatures dipped in 2025 but more heat records on way, scientists warn - BBC
-- Money in Your Pockets: Governor Hochul Unveils New Initiatives to Make New York More Affordable - Governor Kathy Hochul (.gov)
-- Homeland Security Terminates Somalia’s Temporary Protected Status Designation - Homeland Security (.gov)
+- ‘Like a Military Occupation’: Clashes Rise With Federal Agents in Minneapolis - The New York Times
+- Trump makes obscene gesture, mouths expletive at Detroit factory heckler - The Washington Post
+- Arson Suspect Targeted Mississippi Synagogue for Its ‘Jewish Ties,’ F.B.I. Says - The New York Times
+- Justice Department accuses judge of abusing power in questioning prosecutor’s authority - AP News
+- Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
 - Nurses strike begins in New York City as thousands walk off jobs at major hospitals - CBS News
-- New documents shed light on Renee Good’s ties to ICE monitoring efforts in Minneapolis - CNN
+- ‘Shoot to Kill’: Accounts of Brutal Crackdown Emerge From Iran - The New York Times
 - Au pair who had affair with Brendan Banfield describes alleged scheme to kill his wife and another man - CNN
-- China Announces Record Trade Surplus as Its Exports Flood World Markets - The New York Times
+- New documents shed light on Renee Good’s ties to ICE monitoring efforts in Minneapolis - CNN
 - Gov. Mike Kehoe wants voters to decide whether Missouri should eliminate its income tax - Missouri Independent
+- Access to Elon Musk’s Starlink internet service is now free in Iran as regime continues brutal crackdown on protests - CNN
 - Canada’s Mark Carney faces delicate balancing act in China visit - BBC
-- Search for single-tusked elephant after 22 killed in India rampage - The Guardian
 - Adelaide Writers’ Week Canceled After It Disinvited Palestinian Australian Author - The New York Times
-- Trump administration prepares to unveil new Gaza leadership - Financial Times
-- Saks Global files for bankruptcy - Financial Times
-- The biggest hurdle to Trump’s credit card proposals? His own party. - Politico
-- FTC accuses AI search engine of 'rampant consumer deception' - NPR
+- US accuses Russia of 'dangerous and inexplicable escalation' of war in Ukraine - ABC News
+- China Announces Record Trade Surplus as Its Exports Flood World Markets - The New York Times
+- US approves sale of Nvidia's advanced AI chips to China - BBC
+- Fears are brewing over an oil-price shock that could rattle markets and the economy - Business Insider
 - Japanese stocks hit another record high as expectations of snap poll rise - CNBC
-- Patch Tuesday, January 2026 Edition - Krebs on Security
-- 11 Things To Do Before Animal Crossing: New Horizons' 3.0 Update - GameSpot
+- Google’s update for Veo 3.1 lets users create vertical videos through reference images - TechCrunch
+- The Galaxy Z Fold 8 might be Samsung’s first foldable to ship without a crease - 9to5Google
