@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 00:48_
+_Updated: 2026-01-15 01:41_
 
 ## Top Stories
 
-- Trump: Dödandet i Iran har upphört – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
-- Stora störningar i busstrafiken - SVT Nyheter
-- Svensk kvinna död i Sri Lanka – föll från hotell - Expressen
-- Efter snön – ansträngt läge i busstrafiken - SVT Nyheter
-- S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
+- Snön smälter – kommunen förberedd för översvämning - Norra Halland
+- ”Har gjort det nästintill omöjliga” – styrkebesked från Ukraina - Marcus Oscarsson
+- Utvärderingen av polisarbetet vid Campus Risbergska är klar - polisen.se
+- Tillståndet kritiskt – eleven vårdas för livshotande skador - Hudiksvalls Tidning
+- SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
 - DN rapporterar från partiledardebatten - Dagens Nyheter
 - Man död efter trafikolycka i Glasberga - SVT Nyheter
-- Det var politikernas främsta budskap under debatten – Senaste nytt om valet 2026 - SVT Nyheter
-- Brottsofferjouren kräver skydd för äldre - Senioren
-- Borgmästaren: Mycket svårt läge i Kiev - GP
-- Journalists hem genomsökt efter Pentagonläcka - Aftonbladet
-- FN: Minst 100 barn dödade under vapenvilan i Gaza - SvD
-- Tung smäll för Kina när Trump stryper oljekranen - DI
+- Regeringen vill stoppa äldrerån – tittar på nya lagar efter händelser i Huskvarna - SVT Nyheter
+- Utrikesministern: Övertygad om att Grönland kommer att förbli danskt – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Trump: Inga planer på avrättningar i Iran - Dagens Nyheter
+- Maduros ersättare: Ny politisk era i Venezuela - GP
+- Journalists hem genomsökt efter Pentagonläcka - Dagens Nyheter
+- Körskolebil i krock - Expressen
+- Dåligt minne? Ta hjälp av den här manicken som kommer ihåg allt - Expressen
 - Inget HD-besked om Trumps tullar - DI
-- Nio nya yrkeshögskoleutbildningar till Blekinge - Region Blekinge
-- Riksbanken välkomnar finansutskottets utvärdering av penningpolitiken - Sveriges Riksbank
-- Kraftigt orderlyft för svensk industri - Tidningen Näringslivet
+- Bostadspriserna sjunker – och nyhet på gång: ”Tror unga barnfamiljer kan ha lättare...” - NWT
+- Västeråsbördig astronaut återvänder till rymden - VLT
 - Rese- och forskningsbidrag - Lunds universitet
 - 2021 års största skräckspel på väg till PS Plus, enligt läcka - MovieZine.se
 
@@ -39,8 +39,8 @@ _Updated: 2026-01-15 00:48_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
@@ -64,8 +64,8 @@ _Updated: 2026-01-15 00:48_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
@@ -109,16 +109,17 @@ _Updated: 2026-01-15 00:48_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -129,7 +130,6 @@ _Updated: 2026-01-15 00:48_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
