@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 22:45_
+_Updated: 2026-01-14 23:45_
 
 ## Top Stories
 
-- Fem saker att hålla koll på under årets första partiledardebatt - Dagens Nyheter
+- Grönlandsmötet avslutat – efter 50 minuter - Expressen
+- Man död efter trafikolycka i Glasberga - SVT Nyheter
+- Borgmästaren: Mycket svårt läge i Kiev - Västerbottens-Kuriren
+- Så sänder SVT kvällens partiledardebatt – Senaste nytt om valet 2026 - SVT Nyheter
 - Utvärderingen av polisarbetet vid Campus Risbergska är klar - polisen.se
-- Borgmästaren: Mycket svårt läge i Kiev - DI
-- Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
 - SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
-- Livshotande skador efter snöolycka på skolgård - Aftonbladet
+- Brottsofferjouren kräver skydd för äldre - Senioren
+- Stora störningar i busstrafiken - SVT Nyheter
 - ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - polisen.se
-- Snön smälter – kommunen förberedd för översvämning - Norra Halland
-- Person död efter trafikolycka i Glasberga - SVT Nyheter
-- Risk för snöras i centrala Göteborg – räddningstjänst på larmades - GP
-- Direkt – Krisen i Mellanöstern – Trump: Inga planer på avrättningar i Iran - Dagens Nyheter
-- Witkoff: USA inleder fas två av vapenvilan i Gaza - Omni
+- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
 - Journalists hem genomsökt efter Pentagonläcka - Dagens Nyheter
 - Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
+- ICE förebådar ett skräckvälde - SvD
+- Mellanösternkännare: Iran saknar meningsfullt försvar - Dagens Nyheter
 - Dåligt minne? Ta hjälp av den här manicken som kommer ihåg allt - Expressen
 - Inget HD-besked om Trumps tullar - DI
-- Byggföretagen välkomnar avgifter vid överklaganden - Byggföretagen
-- Trump avfärdar banktoppens kritik – ”det jag gör är helt okej” - DI
 - Rese- och forskningsbidrag - Lunds universitet
 - Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
+- 2021 års största skräckspel på väg till PS Plus, enligt läcka - MovieZine.se
+- Kratos är hittad! "Sons of Anarchy"-skådis får huvudrollen när "God of War" blir serie - MovieZine.se
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-01-14 22:45_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -102,20 +102,20 @@ _Updated: 2026-01-14 22:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -142,13 +142,13 @@ _Updated: 2026-01-14 22:45_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-01-14 22:45_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
