@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 17:47_
+_Updated: 2026-01-14 18:57_
 
 ## Top Stories
 
-- UD kallar upp Irans ambassadör: ”Markera mot dödligt våld” - Expressen
-- Svensk-amerikanska astronauten Jessica Meir till rymden igen - SVT Nyheter
-- ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - Polisen.se
-- Elev livshotande skadad efter olyckan i Hassela - SVT Nyheter
-- Buss brinner i Sundsvall – risk för explosion - SVT Nyheter
+- Danmark skickar militär förstärkning till Grönland - SVT Nyheter
+- Ulf Kristersson: Sverige skickar officerare till Grönland - GP
+- Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
+- DN Direkt – Elev livshotande skadad efter snöolycka i Gävleborg - Dagens Nyheter
+- Fem saker att hålla koll på under årets första partiledardebatt - Dagens Nyheter
+- USA pausar visumansökningar från 75 länder - Aftonbladet
+- Ny utvärdering om polisens insats på Campus Risbergska - SVT Nyheter
 - S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
-- Personangrepp är bannlysta i årets första partiledardebatt - GP
-- Svensk kvinna död i Sri Lanka – föll från hotell - Expressen
-- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
-- Åkesson om SD-kollegan: Då måste hon avgå – Senaste nytt om valet 2026 - SVT Nyheter
-- Jätteattack mot Zelenskyjs hemstad i natt - Folkbladet
-- Smittsamt torskvirus sprids – tiotusentals döda - Västerbottens-Kuriren
-- Personal vid USA-baser nära Iran uppges lämna - Aftonbladet
+- Besvärligt väglag på flera håll – inställd skolskjuts i Vara, Grästorp och Essunga - NLT
+- Miljonersättning till resenärer efter snösmocka - Norran
+- Förslaget klart – så ska EU stötta Ukraina - Västerbottens-Kuriren
+- 14 januari 12.23, Brand, Sollentuna - Polisen.se
 - Tung smäll för Kina när Trump stryper oljekranen - DI
-- Inget HD-besked om Trumps tullar - DI
+- Kran föll över tåg i Thailand – över 30 döda - SvD
 - Batljans drag kan skaka obligationsmarknaden - EFN.se
-- Forskare: Vissa svagheter i Riksbankens agerande - SvD
-- 2025: Fortsatt höga konkursnivåer – men tecken på stabilisering - Fastighetstidningen
+- Sverige uppmanas se över fladdriga kronan - DI
+- Nio nya yrkeshögskoleutbildningar till Blekinge - Region Blekinge
+- GÖR FÖRETRÄDESEMISSION 1,5 MDR KR (NY) - Placera.se
 - Rese- och forskningsbidrag - Lunds universitet
 - Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- At least 12,000 killed in Iran crackdown during internet blackout | Iran International - ایران اینترنشنال
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -44,6 +43,7 @@ _Updated: 2026-01-14 17:47_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -74,25 +74,25 @@ _Updated: 2026-01-14 17:47_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -102,63 +102,63 @@ _Updated: 2026-01-14 17:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
