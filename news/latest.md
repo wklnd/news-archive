@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 06:36_
+_Updated: 2026-01-14 07:03_
 
-- Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86 - The New York Times
-- Access to Elon Musk’s Starlink internet service is now free in Iran as regime continues brutal crackdown on protests - CNN
-- Linda Brown, Chicago teacher found dead in Lake Michigan at 31st Street Harbor, died by suicide, drowning: medical examiner - ABC7 Chicago
-- Trump Loyalist Asserts She Can Keep U.S. Attorney Title - The New York Times
-- White House to end funding to sanctuary cities and states on Feb. 1 - Politico
+- ‘Like a Military Occupation’: Clashes Rise With Federal Agents in Minneapolis - The New York Times
+- Fact check: Trump litters Detroit economic speech with numerous false claims about economy - CNN
+- Claudette Colvin, US civil rights pioneer, dies at 86 - BBC
+- Trump hints at Iran decision as advisers meet to prepare strike options - The Washington Post
+- Governor Kathy Hochul’s 2026 State of the State: Your Family. Your Future. My Fight. - Governor Kathy Hochul (.gov)
+- Homeland Security Terminates Somalia’s Temporary Protected Status Designation - USCIS (.gov)
 - Six Prosecutors Quit Over DOJ Push to Investigate Renee Good’s Widow - The New York Times
-- Au pair who had affair with Brendan Banfield describes alleged scheme to kill his wife and another man - CNN
+- Donald Trump Tells CBS News’ Tony Dokoupil That If Kamala Harris Won In 2024, “You Probably Wouldn’t Have A Job Right Now” - Yahoo News Canada
 - New documents shed light on Renee Good’s ties to ICE monitoring efforts in Minneapolis - CNN
-- Mamdani 'outraged' after New York City Council employee detained by ICE - ABC News
+- White House says Trump had "appropriate" reaction after he appeared to flip off a heckler and mouth "f*** you" - CBS News
+- Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
+- Cymbal of unity? South Korea and Japan leaders bash out K-pop hits after summit talks - The Guardian
+- Mom of one of Elon Musk's kids says AI chatbot Grok generated sexual deepfake images of her: "Make it stop" - CBS News
 - Search for single-tusked elephant after 22 killed in India rampage - The Guardian
-- Trump administration prepares to unveil new Gaza leadership - Financial Times
-- Le Pen blames European Parliament in appeal that could decide political fate - BBC
-- Adelaide Writers’ Week Canceled After It Disinvited Palestinian Australian Author - The New York Times
 - US approves sale of Nvidia's advanced H200 chips to China - BBC
-- For First Time Ever, Delta Premium Cabin Revenue Exceeds Economy Revenue - One Mile at a Time
-- Fears are brewing over an oil-price shock that could rattle markets and the economy - Business Insider
-- Pentagon to invest $1 billion in L3Harris rocket motor business - Reuters
+- Netflix Weighs Amending Warner Bros. Bid to Make It All Cash - Bloomberg.com
+- The biggest hurdle to Trump’s credit card proposals? His own party. - Politico
+- Japanese stocks hit another record high as expectations of snap poll rise - CNBC
 - The Galaxy Z Fold 8 might be Samsung’s first foldable to ship without a crease - 9to5Google
-- I Watched the Lakers-Bucks Game Courtside on Apple Vision Pro. It Left Me Wanting More - CNET
-- 11 Things To Do Before Animal Crossing: New Horizons' 3.0 Update - GameSpot
+- NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)
