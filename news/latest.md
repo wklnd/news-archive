@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 19:55_
+_Updated: 2026-01-14 20:59_
 
-- US reducing personnel at Qatar air base, official tells CBS - BBC
-- Why this legal expert says the Minnesota and Illinois immigration lawsuits ‘are close to completely meritless’ - CNN
-- Trump makes obscene gesture, mouths expletive at Detroit factory heckler - The Washington Post
-- How the feud between Trump and Minnesota is impacting the probe into the ICE shooting - NPR
-- 5 takeaways from the Supreme Court’s showdown over transgender athletes - Politico
-- Back in Michigan, President Trump Celebrates Auto Industry, Economic Revival - The White House (.gov)
-- Skeletal remains found on Washington beach identified as former Oregon mayor who vanished in 2006 - CBS News
-- Chuck Schumer Calls His Shot - The New York Times
-- Trump administration says Venezuela has released jailed US citizens - BBC
-- Oglala Sioux Tribe says three tribal members arrested in Minneapolis are in ICE detention - ABC News
+- FBI executes search warrant at Washington Post reporter’s home - The Washington Post
+- Governor Kathy Hochul’s 2026 State of the State: Your Family. Your Future. My Fight. - Governor Kathy Hochul (.gov)
+- Mississippi Man Arrested for Arson of Beth Israel and the Goldring/Woldenberg Institute of Southern Jewish Life - Department of Justice (.gov)
+- Homeland Security Terminates Somalia’s Temporary Protected Status Designation - USCIS (.gov)
+- DHS Highlights Worst of the Worst Criminal Illegal Aliens Arrested Yesterday During Operation Metro Surge Including Rapists, Armed Robbers, and Drug Traffickers - Homeland Security (.gov)
+- Terrorist Designations of Muslim Brotherhood Chapters - U.S. Department of State (.gov)
+- US and UK pulling some personnel from Qatar military base - BBC
+- Supreme Court revives GOP congressman’s absentee ballot suit that could spur more election litigation - CNN
+- The weapons the US could employ in any new strike on Iran - CNN
+- Family of couple allegedly killed by ex speaks out: 'She just had to get away from him' - ABC News
 - Trump’s Threats to Greenland Raise Serious Questions for NATO - The New York Times
 - Trump envoy announces launch of ‘phase two’ of plan to end Gaza war - Al Jazeera
-- Musk claims he was unaware of Grok generating explicit images of minors - The Guardian
-- South Korea's special prosecutor seeks death penalty for ex-President Yoon over martial law bid - CNBC
-- Bank of America Reports Fourth Quarter 2025 Financial Results - Bank of America
-- Citigroup profit slips as expenses rise amid sweeping overhaul - Financial Times
+- Why Greenland Matters for a Warming World - The New York Times
+- US suspending immigrant visa processing for 75 countries - CNN
+- China Announces Record Trade Surplus as Its Exports Flood World Markets - The New York Times
+- First look at the new Bilt 2.0 credit cards: Earn points on rent and mortgage payments - CNBC
 - How have prices changed in a year? NPR checked 114 items at Walmart - NPR
-- Banks Ready Battle Plans to Save Their Credit Card Businesses - The New York Times
-- Signal creator Moxie Marlinspike wants to do for AI what he did for messaging - Ars Technica
-- I Watched the Lakers-Bucks Game Courtside on Apple Vision Pro. It Left Me Wanting More - CNET
+- Tesla (TSLA) to stop selling Full Self-Driving package, moves to subscription-only: why it's a big move - Electrek
+- Popular PC franchise Civilization comes to Apple Arcade on February 5 - Apple
+- Apple might have just revealed the launch date for the M5 Pro/Max MacBook Pro - Macworld
