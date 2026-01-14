@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 06:34_
+_Updated: 2026-01-14 07:00_
 
 ## Top Stories
 
-- Nya varningar utfärdade – kan bli svårt i trafiken - Hudiksvalls Tidning
+- På tio år har klimatet värmts upp snabbare än vad forskarna förutsett - Yle
+- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
+- Vält lastbil stoppar trafiken på E4 mellan Ödeshög och Gränna - SVT Nyheter
 - Nio aktörer: Förslaget att sänka straffbarhetsåldern är maktarrogans - Altinget.se
 - Vinterberedskap för vägar och gång- och cykelbanor - Tyresö kommun
-- Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
 - 13 januari 16.30, Trafikkontroll, Västerbottens län - Polisen.se
-- Försvarsministerns tal på Folk och Försvars rikskonferens 2026 - Regeringen.se
+- Nya varningar utfärdade – kan bli svårt i trafiken - Hudiksvalls Tidning
 - Nu ska den nya beredskapsbroschyren skickas ut till Sveriges företag - Regeringen.se
-- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
 - Stora störningar i kollektivtrafiken - SVT Nyheter
-- Räddningstjänsten varnar för istappar och snö på tak - Lerums kommun
-- Motstridiga uppgifter om frigivna i Venezuela - GP
+- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- Medborgarrättskämpen Claudette Colvin är död - Aftonbladet
+- Motstridiga uppgifter om frigivna i Venezuela - Västerbottens-Kuriren
 - Nya attacker mot Kiev – flera explosioner - Hufvudstadsbladet
-- Sju EU-frågor som kan prägla 2026 - Europaportalen
-- IEA-chefen: Sverige behöver mer elektricitet - SvD
+- Minnesota stämmer Trumpregeringen - GP
 - It-utbildningar skrotas – svårare att få jobb - Tidningen Näringslivet
 - Batterifabriken Novo Energy säger upp samtliga anställda - SVT Nyheter
 - Plattformsdirektivet – lovvärt men feltänkt - Almega
 - Färre trafikanter omkom förra året - Trafiken.nu
+- Gamla Volvo-bilarna som är dyrare än nya - Carup.se
 - iOS 26.3 kan ge RCS-meddelanden bättre skydd - Teknikveckan
-- Rykte: Pixel 10a släpps redan i mitten av februari - Swedroid
 
 ## World News
 
@@ -65,11 +65,11 @@ _Updated: 2026-01-14 06:34_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz in Medizin & Bildung: Werden Ärzte und Lehrer überflüssig? Wie KI die Berufe verändert - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -86,11 +86,11 @@ _Updated: 2026-01-14 06:34_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
@@ -136,9 +136,9 @@ _Updated: 2026-01-14 06:34_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2026-01-14 06:34_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
