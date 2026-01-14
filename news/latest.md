@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 01:49_
+_Updated: 2026-01-14 04:54_
 
-- Make Driving Great Again: President Trump Showcases American Auto Industry’s Revival in Michigan - The White House (.gov)
-- Over 12,000 feared dead after Iran protests, as video shows bodies lined up at morgue - CBS News
-- Homeland Security Terminates Somalia’s Temporary Protected Status Designation - USCIS (.gov)
-- Clintons refuse to testify in House Epstein investigation - PBS
-- Governor Kathy Hochul’s 2026 State of the State: Your Family. Your Future. My Fight. - Governor Kathy Hochul (.gov)
-- Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
-- Scott Adams, Dilbert creator and conservative commentator, dies aged 68 - The Guardian
-- New documents shed light on Renee Good’s ties to ICE monitoring efforts in Minneapolis - CNN
-- A suspect’s arrest in the killing of a Columbus, Ohio, couple leads to the next big question: What was the motive? - CNN
-- Iran Is Hunting Down Starlink Users to Stop Protest Videos From Going Global - The Wall Street Journal
+- Trump gives heckler the middle finger during Michigan Ford plant visit - The Guardian
+- Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86 - The New York Times
+- Access to Elon Musk’s Starlink internet service is now free in Iran as regime continues brutal crackdown on protests - CNN
+- Trump warns Minnesota Dems: ‘THE DAY OF RECKONING & RETRIBUTION IS COMING’ - Politico
+- Read the full transcript of Tony Dokoupil's interview with President Trump here - CBS News
+- Fact check: Trump litters Detroit economic speech with numerous false claims about economy - CNN
+- The Defense Department’s Case Against Mark Kelly Is Even Dumber Than It Sounds - Slate
+- Missing Bronzeville Teacher Died By Suicide, Officials Confirm - Block Club Chicago
 - Search for single-tusked elephant after 22 killed in India rampage - The Guardian
-- Mom of one of Elon Musk's kids says AI chatbot Grok generated sexual deepfake images of her: "Make it stop" - CBS News
-- French farmers stage new Paris protest in effort to halt Mercosur deal - Yahoo Finance UK
+- Trump administration prepares to unveil new Gaza leadership - Financial Times
+- Le Pen blames European Parliament in appeal that could decide political fate - BBC
+- Adelaide Writers’ Week Canceled After It Disinvited Palestinian Australian Author - The New York Times
 - Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600 - CNBC
 - FTC accuses AI search engine of 'rampant consumer deception' - NPR
-- Microsoft has a plan to stop AI data centers from hiking up your electricity bill - CNN
-- Live updates: Trump tells business chiefs 'inflation is defeated' - BBC
-- Apple’s new AI server chips are reportedly coming this year - 9to5Mac
-- iOS 26.3 Hints at Improved iPhone-to-Android Texting Coming Soon - MacRumors
-- This Script Lets You Remove Built-In Windows 11's AI Features - 80 Level
+- US senators introduce long-awaited bill to define crypto market rules - Reuters
+- For First Time Ever, Delta Premium Cabin Revenue Exceeds Economy Revenue - One Mile at a Time
+- Kuo: Apple's AI Deal With Google Is Temporary and Buys It Time - MacRumors
+- Samsung Galaxy S26 Ultra Gets Updated Release Date - Forbes
+- NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)
+- Microsoft releases Windows 10 KB5073724 extended security update - BleepingComputer
