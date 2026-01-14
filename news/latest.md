@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 19:01_
+_Updated: 2026-01-14 19:55_
 
-- ‘We’re Not Stupid’: What Greenlanders Would Say to Trump - The New York Times
+- US reducing personnel at Qatar air base, official tells CBS - BBC
 - Why this legal expert says the Minnesota and Illinois immigration lawsuits ‘are close to completely meritless’ - CNN
-- Iran warns neighbours it could hit US bases if Washington strikes - Reuters
 - Trump makes obscene gesture, mouths expletive at Detroit factory heckler - The Washington Post
-- Despite Trump warning, Iran shopkeeper Erfan Soltani among many facing possible hanging - CBS News
-- Inside Schumer's plot to retake the Senate - Axios
-- Family of couple allegedly killed by ex speaks out: 'She just had to get away from him' - ABC News
+- How the feud between Trump and Minnesota is impacting the probe into the ICE shooting - NPR
+- 5 takeaways from the Supreme Court’s showdown over transgender athletes - Politico
+- Back in Michigan, President Trump Celebrates Auto Industry, Economic Revival - The White House (.gov)
+- Skeletal remains found on Washington beach identified as former Oregon mayor who vanished in 2006 - CBS News
+- Chuck Schumer Calls His Shot - The New York Times
+- Trump administration says Venezuela has released jailed US citizens - BBC
 - Oglala Sioux Tribe says three tribal members arrested in Minneapolis are in ICE detention - ABC News
-- Republicans try to scuttle Venezuela war powers vote after Trump fury - Axios
+- Trump’s Threats to Greenland Raise Serious Questions for NATO - The New York Times
+- Trump envoy announces launch of ‘phase two’ of plan to end Gaza war - Al Jazeera
+- Musk claims he was unaware of Grok generating explicit images of minors - The Guardian
 - South Korea's special prosecutor seeks death penalty for ex-President Yoon over martial law bid - CNBC
-- U.K. Retreats on Plan to Require ‘BritCard’ ID for Workers - The New York Times
-- Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens - The New York Times
-- Police chief apologises for AI error that helped form Maccabi Tel Aviv fan ban decision - ESPN
-- Banks Ready Battle Plans to Save Their Credit Card Businesses - The New York Times
 - Bank of America Reports Fourth Quarter 2025 Financial Results - Bank of America
-- Citigroup tops estimates as loan loss provisions come in lighter than expected - CNBC
+- Citigroup profit slips as expenses rise amid sweeping overhaul - Financial Times
 - How have prices changed in a year? NPR checked 114 items at Walmart - NPR
-- Google Gemini Can Proactively Analyze Users’ Gmail, Photos, Searches - Bloomberg.com
-- New Galaxy S26 series rumor brings some much-needed good news for Samsung's 'base' flagship - PhoneArena
+- Banks Ready Battle Plans to Save Their Credit Card Businesses - The New York Times
+- Signal creator Moxie Marlinspike wants to do for AI what he did for messaging - Ars Technica
 - I Watched the Lakers-Bucks Game Courtside on Apple Vision Pro. It Left Me Wanting More - CNET
