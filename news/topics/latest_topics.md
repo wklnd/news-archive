@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 19:51_
+_Updated: 2026-01-14 20:57_
 
 ## Top Stories
 
-- Danmark skickar militär förstärkning till Grönland - Expressen
-- Stoppar utvisningar till Iran - GP
+- Person död efter trafikolycka i Glasberga - SVT Nyheter
+- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
+- Kristersson: S kriminalpolitik är som ett duschdraperi – Senaste nytt om valet 2026 - SVT Nyheter
+- Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
 - SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
 - ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - polisen.se
+- Fem saker att hålla koll på under årets första partiledardebatt - Dagens Nyheter
 - Eleven har livshotande skador efter olyckan i Hassela - SVT Nyheter
-- S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
-- Personangrepp är bannlysta i årets första partiledardebatt - GP
-- Risk för snöras i centrala Göteborg – räddningstjänst på larmades - GP
-- Tomas Ramberg: Regeringen är vilse i Trumps värld - Dagens Nyheter
-- Sorry, men Ebba Busch hycklar om Donald Trump och gruvorna - Arbetet
-- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
+- LEDARE: Livsfarlig snölek – så håller du barnen säkra - Hudiksvalls Tidning
+- Buss brinner i Sundsvall – risk för explosion - SVT Nyheter
+- FN: Minst 100 barn dödade under vapenvilan i Gaza - SvD
 - Förseningar på gröna linjen - Mitt i
-- Tung smäll för Kina när Trump stryper oljekranen - DI
 - Förslaget klart – så ska EU stötta Ukraina - Västerbottens-Kuriren
+- Trumps svar på arbetarens kritik: Visade fingret - GP
 - Inget HD-besked om Trumps tullar - DI
 - Batljans drag kan skaka obligationsmarknaden - EFN.se
 - Riksbanken välkomnar finansutskottets utvärdering av penningpolitiken - Sveriges Riksbank
-- Dansk jätteorder på förarlösa lokaltåg - GP
-- Svensk-amerikanska astronauten Jessica Meir till rymden igen - SVT Nyheter
+- Dansk jätteorder på förarlösa lokaltåg - Sydsvenskan
 - Rese- och forskningsbidrag - Lunds universitet
+- Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- At least 12,000 killed in Iran crackdown during internet blackout | Iran International - ایران اینترنشنال
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -45,7 +45,7 @@ _Updated: 2026-01-14 19:51_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
