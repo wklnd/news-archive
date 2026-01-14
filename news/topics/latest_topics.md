@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 21:41_
+_Updated: 2026-01-14 22:45_
 
 ## Top Stories
 
 - Fem saker att hålla koll på under årets första partiledardebatt - Dagens Nyheter
-- Svensk kvinna död i Sri Lanka – föll från hotell - Expressen
-- Borgmästaren: Mycket svårt läge i Kiev - Västerbottens-Kuriren
-- Kaos i trafiken – SL: ”Var beredd på att gå” - Expressen
-- Renare luft kan ha förvärrat läget - SvD
+- Utvärderingen av polisarbetet vid Campus Risbergska är klar - polisen.se
+- Borgmästaren: Mycket svårt läge i Kiev - DI
 - Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
-- DN Direkt – Elev livshotande skadad efter snöolycka i Gävleborg - Dagens Nyheter
+- SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
+- Livshotande skador efter snöolycka på skolgård - Aftonbladet
+- ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - polisen.se
+- Snön smälter – kommunen förberedd för översvämning - Norra Halland
 - Person död efter trafikolycka i Glasberga - SVT Nyheter
 - Risk för snöras i centrala Göteborg – räddningstjänst på larmades - GP
-- Tomas Ramberg: Regeringen är vilse i Trumps värld - Dagens Nyheter
-- Danmark skickar militär förstärkning till Grönland - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Trump: Inga planer på avrättningar i Iran - Dagens Nyheter
+- Witkoff: USA inleder fas två av vapenvilan i Gaza - Omni
 - Journalists hem genomsökt efter Pentagonläcka - Dagens Nyheter
-- Mellanösternkännare: Iran saknar meningsfullt försvar - Dagens Nyheter
-- ICE förebådar ett skräckvälde - SvD
+- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
+- Dåligt minne? Ta hjälp av den här manicken som kommer ihåg allt - Expressen
 - Inget HD-besked om Trumps tullar - DI
-- Utvisningar till Iran stoppas - Expressen
 - Byggföretagen välkomnar avgifter vid överklaganden - Byggföretagen
 - Trump avfärdar banktoppens kritik – ”det jag gör är helt okej” - DI
 - Rese- och forskningsbidrag - Lunds universitet
@@ -42,11 +42,11 @@ _Updated: 2026-01-14 21:41_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-01-14 21:41_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
