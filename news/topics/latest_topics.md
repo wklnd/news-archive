@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 09:46_
+_Updated: 2026-01-14 10:55_
 
 ## Top Stories
 
-- Trumps svar till Grönland - Expressen
-- På tio år har klimatet värmts upp snabbare än vad forskarna förutsett - Yle
 - Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
+- Partiledardebatt den 14 januari - Riksdagen
+- På tio år har klimatet värmts upp snabbare än vad forskarna förutsett - Yle
 - Miljonersättning till resenärer efter snösmocka - Aftonbladet
-- Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
 - 14 januari 07.28, Sammanfattning natt, Värmlands län - polisen.se
-- Tar emot samtalen – när stockholmarna ringer - SvD
+- Sociala plattformar ska tvingas ta bort gängens annonser – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Nio aktörer: Förslaget att sänka straffbarhetsåldern är maktarrogans - Altinget.se
 - Vält lastbil stoppar trafiken på E4 mellan Ödeshög och Gränna - SVT Nyheter
-- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
 - 13 januari 07.19, Sammanfattning natt, Jämtlands län - polisen.se
-- Minnesota stämmer Trumpregeringen - GP
-- Sju EU-frågor som kan prägla 2026 - Europaportalen
-- Påven möter Venezuelas Nobelpristagare Maria Corina Machado - Vatican News
-- Göran Greider: Vad är det för tid vi lever i? - ETC.se
-- Dämpad modehandel i december - Svensk Handel
+- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- Trumps reaktion när han fick kritik – visade långfingret - Dagens Nyheter
+- Venezuelas problemolja – tjock, dyr och smutsig - SvD
+- (+) I detta land ökar förtrycket av kristna mest - Kyrkans Tidning
+- DEBATT: Regeringen har satt Sverige på svältkur - Expressen
+- Klarna lanserar Swish-konkurrent - Aftonbladet
+- Svag månad för modehandeln: ”Fortsatt mycket ansträngt” - Market.se
+- Silverpriset rusar – bank höjer prognosen - DI
 - Börsoro i USA: sälja eller sitta still i båten? - SvD
-- Sociala medier-inlägg kan vägas in när du söker jobb – så ska du tänka - Dagens Nyheter
-- Rekord för guldpriset efter åtalshot mot Fed - Västerbottens-Kuriren
-- Gamla Volvo-bilarna som är dyrare än nya - Carup.se
-- Battlefield 6 försenar säsong två med en knapp månad - FZ.se
+- BMW M släpper högpresterande elbilar på nya Neue Klasse-plattformen - Allt om Elbil
+- Du kan nu boka ett hotellrum på Månen för 250 000 dollar - Teknikveckan
 
 ## World News
 
@@ -37,38 +37,38 @@ _Updated: 2026-01-14 09:46_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -136,9 +136,9 @@ _Updated: 2026-01-14 09:46_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
