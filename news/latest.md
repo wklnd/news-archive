@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 07:03_
+_Updated: 2026-01-14 07:54_
 
-- ‘Like a Military Occupation’: Clashes Rise With Federal Agents in Minneapolis - The New York Times
 - Fact check: Trump litters Detroit economic speech with numerous false claims about economy - CNN
 - Claudette Colvin, US civil rights pioneer, dies at 86 - BBC
 - Trump hints at Iran decision as advisers meet to prepare strike options - The Washington Post
 - Governor Kathy Hochul’s 2026 State of the State: Your Family. Your Future. My Fight. - Governor Kathy Hochul (.gov)
+- Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
 - Homeland Security Terminates Somalia’s Temporary Protected Status Designation - USCIS (.gov)
 - Six Prosecutors Quit Over DOJ Push to Investigate Renee Good’s Widow - The New York Times
-- Donald Trump Tells CBS News’ Tony Dokoupil That If Kamala Harris Won In 2024, “You Probably Wouldn’t Have A Job Right Now” - Yahoo News Canada
 - New documents shed light on Renee Good’s ties to ICE monitoring efforts in Minneapolis - CNN
-- White House says Trump had "appropriate" reaction after he appeared to flip off a heckler and mouth "f*** you" - CBS News
-- Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
+- Trump makes obscene gesture, mouths expletive at Detroit factory heckler - The Washington Post
+- Au pair who had affair with Brendan Banfield describes alleged scheme to kill his wife and another man - CNN
 - Cymbal of unity? South Korea and Japan leaders bash out K-pop hits after summit talks - The Guardian
-- Mom of one of Elon Musk's kids says AI chatbot Grok generated sexual deepfake images of her: "Make it stop" - CBS News
-- Search for single-tusked elephant after 22 killed in India rampage - The Guardian
+- Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations - AP News
+- Adelaide Writers’ Week Canceled After It Disinvited Palestinian Australian Author - The New York Times
+- Trump administration prepares to unveil new Gaza leadership - Financial Times
+- Gavin Newsom Vows to Stop Proposed Billionaire Tax in California - The New York Times
 - US approves sale of Nvidia's advanced H200 chips to China - BBC
-- Netflix Weighs Amending Warner Bros. Bid to Make It All Cash - Bloomberg.com
 - The biggest hurdle to Trump’s credit card proposals? His own party. - Politico
-- Japanese stocks hit another record high as expectations of snap poll rise - CNBC
+- Trump says Microsoft will pay more for its datacenters’ electricity - The Guardian
 - The Galaxy Z Fold 8 might be Samsung’s first foldable to ship without a crease - 9to5Google
-- NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)
+- 11 Things To Do Before Animal Crossing: New Horizons' 3.0 Update - GameSpot
