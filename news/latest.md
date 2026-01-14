@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 17:53_
+_Updated: 2026-01-14 19:01_
 
-- ‘Like a Military Occupation’: Clashes Rise With Federal Agents in Minneapolis - The New York Times
-- US Supreme Court does not issue ruling on Trump's tariffs - Reuters
-- Oglala Sioux Tribe says ICE illegally holding tribal members from Minneapolis raids - Axios
-- How ICE Crackdowns Set Off a Resistance in American Cities - The New York Times
-- Democratic lawmakers to file articles of impeachment against Kristi Noem - The Guardian
-- Russia detains top doctors at Siberian hospital after nine babies die - Reuters
-- PMQs live: Keir Starmer facing Kemi Badenoch after digital ID U-turn - BBC
+- ‘We’re Not Stupid’: What Greenlanders Would Say to Trump - The New York Times
+- Why this legal expert says the Minnesota and Illinois immigration lawsuits ‘are close to completely meritless’ - CNN
+- Iran warns neighbours it could hit US bases if Washington strikes - Reuters
+- Trump makes obscene gesture, mouths expletive at Detroit factory heckler - The Washington Post
+- Despite Trump warning, Iran shopkeeper Erfan Soltani among many facing possible hanging - CBS News
+- Inside Schumer's plot to retake the Senate - Axios
+- Family of couple allegedly killed by ex speaks out: 'She just had to get away from him' - ABC News
+- Oglala Sioux Tribe says three tribal members arrested in Minneapolis are in ICE detention - ABC News
+- Republicans try to scuttle Venezuela war powers vote after Trump fury - Axios
+- South Korea's special prosecutor seeks death penalty for ex-President Yoon over martial law bid - CNBC
+- U.K. Retreats on Plan to Require ‘BritCard’ ID for Workers - The New York Times
 - Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens - The New York Times
-- Uganda Cuts Internet Days Before Presidential Election - The New York Times
-- Citi Warns of Potential Economic Slowdown From Trump’s Credit Card Cap - Bloomberg.com
+- Police chief apologises for AI error that helped form Maccabi Tel Aviv fan ban decision - ESPN
+- Banks Ready Battle Plans to Save Their Credit Card Businesses - The New York Times
+- Bank of America Reports Fourth Quarter 2025 Financial Results - Bank of America
+- Citigroup tops estimates as loan loss provisions come in lighter than expected - CNBC
 - How have prices changed in a year? NPR checked 114 items at Walmart - NPR
-- Frustration mounts inside White House over Pirro’s handling of Powell investigation - CNN
-- Gold, silver extend record-breaking rallies as uncertainty persists - Reuters
-- Signal’s Founder Turns His Attention to AI’s Privacy Problem - Gizmodo
+- Google Gemini Can Proactively Analyze Users’ Gmail, Photos, Searches - Bloomberg.com
+- New Galaxy S26 series rumor brings some much-needed good news for Samsung's 'base' flagship - PhoneArena
 - I Watched the Lakers-Bucks Game Courtside on Apple Vision Pro. It Left Me Wanting More - CNET
-- Instagram Rolls Out Algorithm Control Option to All English-Speaking Users - Social Media Today
-- More details about the OnePlus 15T surface online - GSMArena.com news - GSMArena.com
-- The Art of a Good Awards-Show Speech - The New York Times
-- BAFTA Rising Star Nominees: Chase Infiniti, Archie Madekwe, Miles Caton - Variety
-- Golden Globes Hit 8.7 Million Viewers Amid NFL Competition - Variety
