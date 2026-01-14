@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 12:52_
+_Updated: 2026-01-14 13:43_
 
 ## Top Stories
 
+- Polisen: Halt på vägarna - GP
+- Talmannens drag – efter SVT-bråket - SvD
 - Trafikverkets förslag kommer inte rädda svensk järnväg - Altinget.se
-- Ridsport: Konflikten fortsätter – generalsekreteraren lämnar direkt - SVT Nyheter
-- Trumps svar: ”Kommer bli ett stort problem” - Expressen
-- Sociala plattformar ska tvingas ta bort gängens annonser – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- Partiledardebatt den 14 januari - Riksdagen
+- Marianne Björklund: Trumps ”Donroedoktrin” kan bana väg för Kina att inta Taiwan - Dagens Nyheter
+- Jätteattack mot Zelenskyjs hemstad i natt - Västerbottens-Kuriren
+- Klart: Dream Park säger nej till Mölleplatsen – tar paus i år - Sydsvenskan
+- Miljardbadhus pallar inte Kirunas snömängder - Dagens Nyheter
+- Tomas Ramberg: Regeringen är vilse i Trumps värld - Dagens Nyheter
+- Gul varning för snö och ishalka: ”Något att tänka på” - Helagotland
 - S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
-- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
-- Lastbil har vält – blockerar väg 530 i Grillby - SVT Nyheter
-- LEDARE: Livsfarlig snölek – så håller du barnen säkra - Hudiksvalls Tidning
-- 14 januari 07.28, Sammanfattning natt, Värmlands län - Polisen.se
-- Jätteattack mot Zelenskyjs hemstad i natt - GP
-- Franskt konsulat på Grönland – redan i februari - Västerbottens-Kuriren
-- Trumps svar på arbetarens kritik: Visade fingret - GP
-- (+) I detta land ökar förtrycket av kristna mest - Kyrkans Tidning
-- Klarna lanserar Swish-konkurrent - Aftonbladet
+- Bildt om Trumps planer för Grönland ”Då blir det farligt” - SVT Nyheter
+- Förslaget klart – så ska EU stötta Ukraina - SvD
+- Nu är det Nuuk – succé för Trumpkritisk keps - Aftonbladet
+- Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
+- Techjätten genomför största förändringen någonsin: “Var redo” - Dagens PS
 - Vågar inte lita på USA – Lidl storsatsar på AI - SvD
-- Nio nya yrkeshögskoleutbildningar till Blekinge - Region Blekinge
-- Bostadspriserna sjunker – och nyhet på gång: ”Tror unga barnfamiljer kan ha lättare...” - NWT
+- Svensken i ny rapport: Jag blir en glad pensionär - Dagens PS
+- Kraftigt orderlyft för svensk industri - Folkbladet
 - Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
-- Känd poddare bland massor av paddor - Alekuriren
+- Battlefield 6 försenar säsong två med en knapp månad - FZ.se
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - At least 12,000 killed in Iran crackdown during internet blackout | Iran International - ایران اینترنشنال
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -97,25 +97,25 @@ _Updated: 2026-01-14 12:52_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -146,9 +146,9 @@ _Updated: 2026-01-14 12:52_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-01-14 12:52_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
