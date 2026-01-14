@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 11:51_
+_Updated: 2026-01-14 12:52_
 
 ## Top Stories
 
-- Miljonersättning till resenärer efter snösmocka - Norran
-- Partiledardebatt den 14 januari - Riksdagen
+- Trafikverkets förslag kommer inte rädda svensk järnväg - Altinget.se
 - Ridsport: Konflikten fortsätter – generalsekreteraren lämnar direkt - SVT Nyheter
-- Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
-- Trafikverket: Kör försiktigt – och hör av dig! - Avesta Tidning
-- Trumps reaktion när han fick kritik – visade långfingret - Dagens Nyheter
-- Tomas Ramberg: Regeringen är vilse i Trumps värld - Dagens Nyheter
-- 14 januari 07.28, Sammanfattning natt, Värmlands län - polisen.se
-- 80-årig kvinna gripen för mordförsöket i länet - Värnamo Nyheter
-- Nio aktörer: Förslaget att sänka straffbarhetsåldern är maktarrogans - Altinget.se
-- Bil körde i fel färdriktning på E18 – i 200 knyck - Expressen
+- Trumps svar: ”Kommer bli ett stort problem” - Expressen
+- Sociala plattformar ska tvingas ta bort gängens annonser – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
+- Partiledardebatt den 14 januari - Riksdagen
+- S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
+- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
+- Lastbil har vält – blockerar väg 530 i Grillby - SVT Nyheter
+- LEDARE: Livsfarlig snölek – så håller du barnen säkra - Hudiksvalls Tidning
+- 14 januari 07.28, Sammanfattning natt, Värmlands län - Polisen.se
+- Jätteattack mot Zelenskyjs hemstad i natt - GP
+- Franskt konsulat på Grönland – redan i februari - Västerbottens-Kuriren
+- Trumps svar på arbetarens kritik: Visade fingret - GP
 - (+) I detta land ökar förtrycket av kristna mest - Kyrkans Tidning
-- Venezuelas problemolja – tjock, dyr och smutsig - SvD
-- Sju EU-frågor som kan prägla 2026 - Europaportalen
 - Klarna lanserar Swish-konkurrent - Aftonbladet
-- SBAB: Fler binder räntan – men tidsfönstret är på väg att stängas - Bostadspolitik
-- Börsoro i USA: sälja eller sitta still i båten? - SvD
+- Vågar inte lita på USA – Lidl storsatsar på AI - SvD
 - Nio nya yrkeshögskoleutbildningar till Blekinge - Region Blekinge
-- Du kan nu boka ett hotellrum på Månen för 250 000 dollar - Teknikveckan
-- Gamla Volvo-bilarna som är dyrare än nya - Carup.se
+- Bostadspriserna sjunker – och nyhet på gång: ”Tror unga barnfamiljer kan ha lättare...” - NWT
+- Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
+- Känd poddare bland massor av paddor - Alekuriren
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - At least 12,000 killed in Iran crackdown during internet blackout | Iran International - ایران اینترنشنال
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -146,9 +146,9 @@ _Updated: 2026-01-14 11:51_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-01-14 11:51_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
