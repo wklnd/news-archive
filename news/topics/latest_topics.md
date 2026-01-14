@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 23:45_
+_Updated: 2026-01-15 00:48_
 
 ## Top Stories
 
-- Grönlandsmötet avslutat – efter 50 minuter - Expressen
-- Man död efter trafikolycka i Glasberga - SVT Nyheter
-- Borgmästaren: Mycket svårt läge i Kiev - Västerbottens-Kuriren
-- Så sänder SVT kvällens partiledardebatt – Senaste nytt om valet 2026 - SVT Nyheter
-- Utvärderingen av polisarbetet vid Campus Risbergska är klar - polisen.se
-- SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
-- Brottsofferjouren kräver skydd för äldre - Senioren
-- Stora störningar i busstrafiken - SVT Nyheter
-- ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - polisen.se
-- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
-- Journalists hem genomsökt efter Pentagonläcka - Dagens Nyheter
+- Trump: Dödandet i Iran har upphört – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
-- ICE förebådar ett skräckvälde - SvD
-- Mellanösternkännare: Iran saknar meningsfullt försvar - Dagens Nyheter
-- Dåligt minne? Ta hjälp av den här manicken som kommer ihåg allt - Expressen
+- Stora störningar i busstrafiken - SVT Nyheter
+- Svensk kvinna död i Sri Lanka – föll från hotell - Expressen
+- Efter snön – ansträngt läge i busstrafiken - SVT Nyheter
+- S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
+- DN rapporterar från partiledardebatten - Dagens Nyheter
+- Man död efter trafikolycka i Glasberga - SVT Nyheter
+- Det var politikernas främsta budskap under debatten – Senaste nytt om valet 2026 - SVT Nyheter
+- Brottsofferjouren kräver skydd för äldre - Senioren
+- Borgmästaren: Mycket svårt läge i Kiev - GP
+- Journalists hem genomsökt efter Pentagonläcka - Aftonbladet
+- FN: Minst 100 barn dödade under vapenvilan i Gaza - SvD
+- Tung smäll för Kina när Trump stryper oljekranen - DI
 - Inget HD-besked om Trumps tullar - DI
+- Nio nya yrkeshögskoleutbildningar till Blekinge - Region Blekinge
+- Riksbanken välkomnar finansutskottets utvärdering av penningpolitiken - Sveriges Riksbank
+- Kraftigt orderlyft för svensk industri - Tidningen Näringslivet
 - Rese- och forskningsbidrag - Lunds universitet
-- Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
 - 2021 års största skräckspel på väg till PS Plus, enligt läcka - MovieZine.se
-- Kratos är hittad! "Sons of Anarchy"-skådis får huvudrollen när "God of War" blir serie - MovieZine.se
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-01-14 23:45_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -64,8 +64,8 @@ _Updated: 2026-01-14 23:45_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
@@ -102,24 +102,23 @@ _Updated: 2026-01-14 23:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -130,6 +129,7 @@ _Updated: 2026-01-14 23:45_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -145,9 +145,9 @@ _Updated: 2026-01-14 23:45_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
@@ -155,10 +155,10 @@ _Updated: 2026-01-14 23:45_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
