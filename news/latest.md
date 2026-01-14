@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-14 16:58_
+_Updated: 2026-01-14 17:53_
 
-- New documents shed light on Renee Good’s ties to ICE monitoring efforts in Minneapolis - CNN
-- At least 6 Minnesota federal prosecutors resign amid pressure to treat Renee Good killing as assault on ICE agent - CBS News
-- Oglala Sioux Tribe says three tribal members arrested in Minneapolis are in ICE detention - ABC News
-- South Korea's special prosecutor seeks death penalty for ex-President Yoon over martial law bid - CNBC
-- What a new law and an investigation could mean for Grok AI deepfakes - BBC
-- Adelaide Writers' Week cancelled after week of escalating controversy - Australian Broadcasting Corporation
-- ‘Shoot to Kill’: Accounts of Brutal Crackdown Emerge From Iran - The New York Times
-- Schumer thinks these four states will deliver for Dems in November - Politico
-- 'Daily Show' Makes An Embarrassing Example Out Of RFK Jr.'s New Topsy-Turvy Food Pyramid - HuffPost
-- Justice Department accuses judge of abusing power in questioning prosecutor's authority - ABC News
+- ‘Like a Military Occupation’: Clashes Rise With Federal Agents in Minneapolis - The New York Times
+- US Supreme Court does not issue ruling on Trump's tariffs - Reuters
+- Oglala Sioux Tribe says ICE illegally holding tribal members from Minneapolis raids - Axios
+- How ICE Crackdowns Set Off a Resistance in American Cities - The New York Times
+- Democratic lawmakers to file articles of impeachment against Kristi Noem - The Guardian
+- Russia detains top doctors at Siberian hospital after nine babies die - Reuters
+- PMQs live: Keir Starmer facing Kemi Badenoch after digital ID U-turn - BBC
+- Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens - The New York Times
 - Uganda Cuts Internet Days Before Presidential Election - The New York Times
-- An Emboldened Trump Makes Big Bets in Venezuela, Iran and Beyond - The New York Times
-- Japan, South Korea vow stronger ties amid China challenge - DW.com
-- No power or water and -19C: Kyiv seeks relief from Russian strikes and cold - BBC
-- Saks Global files for bankruptcy amid luxury market strains - CNN
-- Wholesale inflation was softer than expected, retail sales moved higher in November - CNBC
-- Citigroup profit slips as expenses rise amid sweeping overhaul - Financial Times
+- Citi Warns of Potential Economic Slowdown From Trump’s Credit Card Cap - Bloomberg.com
 - How have prices changed in a year? NPR checked 114 items at Walmart - NPR
+- Frustration mounts inside White House over Pirro’s handling of Powell investigation - CNN
+- Gold, silver extend record-breaking rallies as uncertainty persists - Reuters
+- Signal’s Founder Turns His Attention to AI’s Privacy Problem - Gizmodo
 - I Watched the Lakers-Bucks Game Courtside on Apple Vision Pro. It Left Me Wanting More - CNET
-- ‘Android 17’ split Notifications & Quick Settings panels leak in full [Gallery] - 9to5Google
+- Instagram Rolls Out Algorithm Control Option to All English-Speaking Users - Social Media Today
+- More details about the OnePlus 15T surface online - GSMArena.com news - GSMArena.com
+- The Art of a Good Awards-Show Speech - The New York Times
+- BAFTA Rising Star Nominees: Chase Infiniti, Archie Madekwe, Miles Caton - Variety
+- Golden Globes Hit 8.7 Million Viewers Amid NFL Competition - Variety
