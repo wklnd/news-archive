@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 08:57_
+_Updated: 2026-01-14 09:46_
 
 ## Top Stories
 
-- Läkarens vittnesmål i Iran: Demonstranter skjuts i ögonen - GP
-- Polisen hittade studenternas stulna datorer – men lämnar inte tillbaka dem - Sydsvenskan
-- Trumps reaktion när han fick kritik – visade långfingret - Dagens Nyheter
-- Henrietta Lysén gick emellan – när pappa slog mamma - GP
-- Rasande elefant dödade 20 personer - GP
-- Kartläggning: Samma konto har beställt flera grova brott i Gävle - Gefle Dagblad
+- Trumps svar till Grönland - Expressen
+- På tio år har klimatet värmts upp snabbare än vad forskarna förutsett - Yle
 - Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
-- Fortsatt snöstrul i söderort: "Sannolikt blir det viten" - Mitt i
-- Sorry, men Ebba Busch hycklar om Donald Trump och gruvorna - Arbetet
-- 14 januari 06.51, Sammanfattning natt, Jämtlands län - polisen.se
-- Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
-- Bil körde i fel färdriktning på E18 – i 200 knyck - Expressen
-- Hela familjen dog i den svåra olyckan - Expressen
-- Par mystiskt döda i semesterparadis - Expressen
-- Silverpriset rusar – bank höjer prognosen - DI
-- Sociala medier-inlägg kan vägas in när du söker jobb – så ska du tänka - Dagens Nyheter
+- Miljonersättning till resenärer efter snösmocka - Aftonbladet
+- Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
+- 14 januari 07.28, Sammanfattning natt, Värmlands län - polisen.se
+- Tar emot samtalen – när stockholmarna ringer - SvD
+- Vält lastbil stoppar trafiken på E4 mellan Ödeshög och Gränna - SVT Nyheter
+- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- 13 januari 07.19, Sammanfattning natt, Jämtlands län - polisen.se
+- Minnesota stämmer Trumpregeringen - GP
+- Sju EU-frågor som kan prägla 2026 - Europaportalen
+- Påven möter Venezuelas Nobelpristagare Maria Corina Machado - Vatican News
+- Göran Greider: Vad är det för tid vi lever i? - ETC.se
+- Dämpad modehandel i december - Svensk Handel
 - Börsoro i USA: sälja eller sitta still i båten? - SvD
+- Sociala medier-inlägg kan vägas in när du söker jobb – så ska du tänka - Dagens Nyheter
+- Rekord för guldpriset efter åtalshot mot Fed - Västerbottens-Kuriren
 - Gamla Volvo-bilarna som är dyrare än nya - Carup.se
-- iOS 26.3 kan ge RCS-meddelanden bättre skydd - Teknikveckan
-- Google Home får nya villkor och kommandon för automation - Swedroid
+- Battlefield 6 försenar säsong två med en knapp månad - FZ.se
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
 - At least 12,000 killed in Iran crackdown during internet blackout | Iran International - ایران اینترنشنال
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -66,9 +66,9 @@ _Updated: 2026-01-14 08:57_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -86,11 +86,11 @@ _Updated: 2026-01-14 08:57_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
@@ -101,20 +101,20 @@ _Updated: 2026-01-14 08:57_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
