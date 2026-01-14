@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 10:55_
+_Updated: 2026-01-14 11:51_
 
 ## Top Stories
 
-- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
+- Miljonersättning till resenärer efter snösmocka - Norran
 - Partiledardebatt den 14 januari - Riksdagen
-- På tio år har klimatet värmts upp snabbare än vad forskarna förutsett - Yle
-- Miljonersättning till resenärer efter snösmocka - Aftonbladet
-- 14 januari 07.28, Sammanfattning natt, Värmlands län - polisen.se
-- Sociala plattformar ska tvingas ta bort gängens annonser – Senaste nytt om Folk och försvar 2026 - SVT Nyheter
-- Nio aktörer: Förslaget att sänka straffbarhetsåldern är maktarrogans - Altinget.se
-- Vält lastbil stoppar trafiken på E4 mellan Ödeshög och Gränna - SVT Nyheter
-- 13 januari 07.19, Sammanfattning natt, Jämtlands län - polisen.se
-- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
+- Ridsport: Konflikten fortsätter – generalsekreteraren lämnar direkt - SVT Nyheter
+- Ryska attacker skördar liv i Ukraina - Sverige för UNHCR
+- Trafikverket: Kör försiktigt – och hör av dig! - Avesta Tidning
 - Trumps reaktion när han fick kritik – visade långfingret - Dagens Nyheter
-- Venezuelas problemolja – tjock, dyr och smutsig - SvD
+- Tomas Ramberg: Regeringen är vilse i Trumps värld - Dagens Nyheter
+- 14 januari 07.28, Sammanfattning natt, Värmlands län - polisen.se
+- 80-årig kvinna gripen för mordförsöket i länet - Värnamo Nyheter
+- Nio aktörer: Förslaget att sänka straffbarhetsåldern är maktarrogans - Altinget.se
+- Bil körde i fel färdriktning på E18 – i 200 knyck - Expressen
 - (+) I detta land ökar förtrycket av kristna mest - Kyrkans Tidning
-- DEBATT: Regeringen har satt Sverige på svältkur - Expressen
+- Venezuelas problemolja – tjock, dyr och smutsig - SvD
+- Sju EU-frågor som kan prägla 2026 - Europaportalen
 - Klarna lanserar Swish-konkurrent - Aftonbladet
-- Svag månad för modehandeln: ”Fortsatt mycket ansträngt” - Market.se
-- Silverpriset rusar – bank höjer prognosen - DI
+- SBAB: Fler binder räntan – men tidsfönstret är på väg att stängas - Bostadspolitik
 - Börsoro i USA: sälja eller sitta still i båten? - SvD
-- BMW M släpper högpresterande elbilar på nya Neue Klasse-plattformen - Allt om Elbil
+- Nio nya yrkeshögskoleutbildningar till Blekinge - Region Blekinge
 - Du kan nu boka ett hotellrum på Månen för 250 000 dollar - Teknikveckan
+- Gamla Volvo-bilarna som är dyrare än nya - Carup.se
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
 - At least 12,000 killed in Iran crackdown during internet blackout | Iran International - ایران اینترنشنال
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Stockholm Observatory for Global China - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
