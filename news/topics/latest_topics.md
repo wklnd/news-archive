@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 16:52_
+_Updated: 2026-01-14 17:47_
 
 ## Top Stories
 
-- Polisen: Halt på vägarna - GP
-- Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
-- Ny kartläggning: därför är tågen försenade - Sydsvenskan
+- UD kallar upp Irans ambassadör: ”Markera mot dödligt våld” - Expressen
+- Svensk-amerikanska astronauten Jessica Meir till rymden igen - SVT Nyheter
+- ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - Polisen.se
+- Elev livshotande skadad efter olyckan i Hassela - SVT Nyheter
 - Buss brinner i Sundsvall – risk för explosion - SVT Nyheter
-- Dömd för barnpornografi – stoppades på väg in i Filippinerna - Dagens Nyheter
-- Fem åtalas för grova bedrägerier – hemmahörande i Värmland - NWT
-- Personangrepp är bannlysta i årets första partiledardebatt - GP
-- Besvärligt väglag på flera håll – inställd skolskjuts i Vara, Grästorp och Essunga - NLT
 - S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
-- Beredskap om kriget eller krisen kommer - Tidningen PROFFS
-- Förslaget klart – så ska EU stötta Ukraina - GP
-- ICE förebådar ett skräckvälde - SvD
-- Succé för den nya anti-Trumpkepsen - Expressen
-- Trumps reaktion när han fick kritik – visade långfingret - Dagens Nyheter
-- Dansk jätteorder på förarlösa pendeltåg - DI
-- Techjätten genomför största förändringen någonsin: “Var redo” - Dagens PS
+- Personangrepp är bannlysta i årets första partiledardebatt - GP
+- Svensk kvinna död i Sri Lanka – föll från hotell - Expressen
+- Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
+- Åkesson om SD-kollegan: Då måste hon avgå – Senaste nytt om valet 2026 - SVT Nyheter
+- Jätteattack mot Zelenskyjs hemstad i natt - Folkbladet
+- Smittsamt torskvirus sprids – tiotusentals döda - Västerbottens-Kuriren
+- Personal vid USA-baser nära Iran uppges lämna - Aftonbladet
+- Tung smäll för Kina när Trump stryper oljekranen - DI
+- Inget HD-besked om Trumps tullar - DI
+- Batljans drag kan skaka obligationsmarknaden - EFN.se
+- Forskare: Vissa svagheter i Riksbankens agerande - SvD
+- 2025: Fortsatt höga konkursnivåer – men tecken på stabilisering - Fastighetstidningen
+- Rese- och forskningsbidrag - Lunds universitet
 - Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
-- Googles Pixel-telefoner ökade 25 procent i global försäljning 2025 - Teknikveckan
-- Spigen hyllar Macintosh med nytt retroskal till iPhone 17 Pro - Teknikveckan
-- Oxiemordet: Tre av fyra häktade från Blekinge – polisen söker anstiftare - Sydöstran
 
 ## World News
 
@@ -97,25 +97,25 @@ _Updated: 2026-01-14 16:52_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-01-14 16:52_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
