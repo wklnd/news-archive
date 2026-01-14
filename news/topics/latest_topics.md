@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 07:49_
+_Updated: 2026-01-14 08:57_
 
 ## Top Stories
 
-- Trumps svar till Grönland - Expressen
-- Vält lastbil stoppar trafiken på E4 mellan Ödeshög och Gränna - SVT Nyheter
-- På tio år har klimatet värmts upp snabbare än vad forskarna förutsett - Yle
+- Läkarens vittnesmål i Iran: Demonstranter skjuts i ögonen - GP
+- Polisen hittade studenternas stulna datorer – men lämnar inte tillbaka dem - Sydsvenskan
+- Trumps reaktion när han fick kritik – visade långfingret - Dagens Nyheter
+- Henrietta Lysén gick emellan – när pappa slog mamma - GP
+- Rasande elefant dödade 20 personer - GP
+- Kartläggning: Samma konto har beställt flera grova brott i Gävle - Gefle Dagblad
 - Ishalka och snöoväder: ”Stanna hemma om du kan” - Dagens Nyheter
-- Nio aktörer: Förslaget att sänka straffbarhetsåldern är maktarrogans - Altinget.se
-- Nyckelperson inom Foxtrot gripen i Irak - Polisen.se
-- Stora störningar i kollektivtrafiken - SVT Nyheter
-- Nu ska den nya beredskapsbroschyren skickas ut till Sveriges företag - Regeringen.se
-- Regionens larm: Ovanligt många fall av papegojsjuka i Halland - SVT Nyheter
-- Niklas Orrenius: Politiker kan veva mot flyktingar – att bryta mot lagen är svårare - Dagens Nyheter
-- Nya attacker mot Kiev – flera explosioner - Hufvudstadsbladet
-- Minnesota stämmer Trumpregeringen - GP
-- Sju EU-frågor som kan prägla 2026 - Europaportalen
-- Påven möter Venezuelas Nobelpristagare Maria Corina Machado - Vatican News
+- Fortsatt snöstrul i söderort: "Sannolikt blir det viten" - Mitt i
+- Sorry, men Ebba Busch hycklar om Donald Trump och gruvorna - Arbetet
+- 14 januari 06.51, Sammanfattning natt, Jämtlands län - polisen.se
+- Underjordiska motståndet mot ICE i Minneapolis: ”Ett gerillakrig på gatorna” - Aftonbladet
+- Bil körde i fel färdriktning på E18 – i 200 knyck - Expressen
+- Hela familjen dog i den svåra olyckan - Expressen
+- Par mystiskt döda i semesterparadis - Expressen
+- Silverpriset rusar – bank höjer prognosen - DI
+- Sociala medier-inlägg kan vägas in när du söker jobb – så ska du tänka - Dagens Nyheter
 - Börsoro i USA: sälja eller sitta still i båten? - SvD
-- Nya Northvoltaffären riskerar att falla - SvD
-- It-utbildningar skrotas – svårare att få jobb - Tidningen Näringslivet
-- Batterifabriken Novo Energy säger upp samtliga anställda - SVT Nyheter
 - Gamla Volvo-bilarna som är dyrare än nya - Carup.se
 - iOS 26.3 kan ge RCS-meddelanden bättre skydd - Teknikveckan
+- Google Home får nya villkor och kommandon för automation - Swedroid
 
 ## World News
 
@@ -119,8 +119,10 @@ _Updated: 2026-01-14 07:49_
 
 ## Science
 
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -128,14 +130,12 @@ _Updated: 2026-01-14 07:49_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
