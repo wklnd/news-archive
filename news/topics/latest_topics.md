@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-14 20:57_
+_Updated: 2026-01-14 21:41_
 
 ## Top Stories
 
-- Person död efter trafikolycka i Glasberga - SVT Nyheter
-- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
-- Kristersson: S kriminalpolitik är som ett duschdraperi – Senaste nytt om valet 2026 - SVT Nyheter
-- Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
-- SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
-- ”Jag vågar knappt svara i telefon längre” – äldre lurade i falsk windowssupport - polisen.se
 - Fem saker att hålla koll på under årets första partiledardebatt - Dagens Nyheter
-- Eleven har livshotande skador efter olyckan i Hassela - SVT Nyheter
-- LEDARE: Livsfarlig snölek – så håller du barnen säkra - Hudiksvalls Tidning
-- Buss brinner i Sundsvall – risk för explosion - SVT Nyheter
-- FN: Minst 100 barn dödade under vapenvilan i Gaza - SvD
-- Förseningar på gröna linjen - Mitt i
-- Förslaget klart – så ska EU stötta Ukraina - Västerbottens-Kuriren
-- Trumps svar på arbetarens kritik: Visade fingret - GP
+- Svensk kvinna död i Sri Lanka – föll från hotell - Expressen
+- Borgmästaren: Mycket svårt läge i Kiev - Västerbottens-Kuriren
+- Kaos i trafiken – SL: ”Var beredd på att gå” - Expressen
+- Renare luft kan ha förvärrat läget - SvD
+- Åklagaren om utredningen mot Katja Nyberg: ”Varit med om att snabbtester varit fel” - Dagens Nyheter
+- DN Direkt – Elev livshotande skadad efter snöolycka i Gävleborg - Dagens Nyheter
+- Person död efter trafikolycka i Glasberga - SVT Nyheter
+- Risk för snöras i centrala Göteborg – räddningstjänst på larmades - GP
+- Tomas Ramberg: Regeringen är vilse i Trumps värld - Dagens Nyheter
+- Danmark skickar militär förstärkning till Grönland - SVT Nyheter
+- Journalists hem genomsökt efter Pentagonläcka - Dagens Nyheter
+- Mellanösternkännare: Iran saknar meningsfullt försvar - Dagens Nyheter
+- ICE förebådar ett skräckvälde - SvD
 - Inget HD-besked om Trumps tullar - DI
-- Batljans drag kan skaka obligationsmarknaden - EFN.se
-- Riksbanken välkomnar finansutskottets utvärdering av penningpolitiken - Sveriges Riksbank
-- Dansk jätteorder på förarlösa lokaltåg - Sydsvenskan
+- Utvisningar till Iran stoppas - Expressen
+- Byggföretagen välkomnar avgifter vid överklaganden - Byggföretagen
+- Trump avfärdar banktoppens kritik – ”det jag gör är helt okej” - DI
 - Rese- och forskningsbidrag - Lunds universitet
 - Proceedo – inköps- och fakturahanteringssystem - Lunds universitet
 
@@ -44,8 +44,8 @@ _Updated: 2026-01-14 20:57_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -101,21 +101,21 @@ _Updated: 2026-01-14 20:57_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 
 ## Science
 
