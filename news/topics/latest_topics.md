@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 17:55_
+_Updated: 2026-01-15 19:02_
 
 ## Top Stories
 
-- Pojke död efter olyckan i en snögrotta i Hassela - SVT Nyheter
-- Trafikinspektören dog i olyckan: ”Mycket mörk dag för oss” - Aftonbladet
-- Zelenskyj utropar nödläge i strömlöst Kiev - GP
-- Blixthalkan ger köer på akuten i Malmö och Lund - Sydsvenskan
-- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
-- ”På gränsen till farligt att dödförklara Nato” - SvD
-- Förslaget: Fler misstänkta ska kunna häktas – Senaste nytt om valet 2026 - SVT Nyheter
-- Elev sköt raket inne i skola – en skadad - SVT Nyheter
-- Varning för blixthalka på fredag - SVT Nyheter
-- Efter köldknäppen – 23 Västtrafikbussar har frusit sönder - GP
-- Irans kollapsade ekonomi bakom folkligt uppror - Dagens Nyheter
-- Därför bemöter Irans grannländer upproret med tystnad - Dagens Nyheter
-- Putins spioner testar vapen på serbiska hundar - GP
-- Vad har sagts under kardinalskollegiet? - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- Nationella bombskyddet på väg till Växjö på grund av misstänkt brev - SVT Nyheter
+- KLART: Lodjur får skjutas i Värmland – så många ingår i licensjakten - NWT
+- Klart: Så blir nya Nobel Center vid Slussen - Fastighetsvärlden
+- Zelenskyj utropar nödläge i strömlöst Kiev - Hufvudstadsbladet
+- SMHI varnar för blixthalka – 42 mil långt isbälte korsar landet - Expressen
 - Idag träder nya cybersäkerhetslagen i kraft – detta innebär den - Voister
-- MYH beviljar fyra YH-utbildningar i Piteå – ny utbildning inom cybersäkerhet - Skola - Aktuellt - Piteå kommun
-- Reglerna om lönetransparens missar målet - Svenskt Näringsliv
-- Föreläsning med Carl Heath på tema AI - Försvarshögskolan
+- Pojke död efter olyckan i en snögrotta i Hassela - SVT Nyheter
+- Katja Nyberg (SD) pausas från justitieutskottet - Dagens Nyheter
+- Mannen misstänks ha spionerat för Ryssland – arbetade nära svenska nyhetsredaktioner - Dagens Nyheter
+- Båda döttrarna hörda i Bodenfallet - Västerbottens-Kuriren
+- Irans kollapsade ekonomi bakom folkligt uppror - Dagens Nyheter
+- Grannar ska ha fått Trump att backa: ”Sömnlös natt” - Corren
+- Putins spioner testar vapen på serbiska hundar - Corren
+- Då ska Trump och Machado träffas - GP
+- Coca-Cola planerar IPO för indiska buteljeringsbolaget - Affärsvärlden
+- Nattsvarta utsikter för världen inför toppmötet - DI
+- Analytiker: Bitcoin in i värmen igen – mot viktig nivå - Börskollen
+- Matpriserna stiger – gurka och kött i topp - Placera.se
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
 - Kontrollera tillgängligheten i Word, spara som PDF och gör en kontroll i Acrobat - Lunds universitet
 
@@ -58,8 +58,8 @@ _Updated: 2026-01-15 17:55_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Nästa generations Internet of Things - EU Digital Strategy
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -85,14 +85,14 @@ _Updated: 2026-01-15 17:55_
 - EY i Almedalen 2025 | EY - Sverige - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -119,6 +119,7 @@ _Updated: 2026-01-15 17:55_
 
 ## Science
 
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -129,7 +130,6 @@ _Updated: 2026-01-15 17:55_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
