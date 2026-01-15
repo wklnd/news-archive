@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-15 11:00_
+_Updated: 2026-01-15 11:55_
 
+- Federal agent shoots man in leg leading to protests - kare11.com
+- Trump would want military action in Iran to be swift and decisive, sources say - NBC News
 - Woman Killed by ICE Agent Seemed at Fault, N.Y. Republican Says - The New York Times
-- Judge skeptical on ICE agents wearing masks in case that could have national implications - Los Angeles Times
-- X to stop Grok AI from undressing images of real people after backlash - BBC
-- U.S. Races to Sell Venezuelan Oil, Transforming Ties With Former Foe - The New York Times
-- Au Pair Testifies of Lurid Plot in Virginia Double-Murder Trial - The New York Times
-- Boeing Knew About Flaws in UPS Plane That Crashed in Louisville, N.T.S.B. Says - The New York Times
+- Attorney General Bonta Launches Investigation into xAI, Grok Over Undressed, Sexual AI Images of Women and Children - State of California - Department of Justice (.gov)
+- Trump administration rolls back $2 billion mental health, addiction grant cuts - NPR
+- Congressional Bill S. 222 Signed into Law - The White House (.gov)
 - Embarrassing floor meltdown has House Republicans questioning their leaders - Politico
-- Venezuelan Immigrants Urge Appeals Court to Restore Deportation Protections - The New York Times
-- Iran’s regime still looks likely to survive protests but has no answers for public anger - The Times of Israel
-- Zelensky declares state of emergency in Ukraine's energy sector - BBC
-- UK digital ID plans will no longer be mandatory - The Verge
-- Germany joins European partners with troop deployment to Greenland - Reuters
-- Verizon Resolves Hourslong, Widespread Outage - The Wall Street Journal
-- Stellantis CEO: 2026 is the ‘year of execution’ as Wall Street awaits turnaround strategy - CNBC
-- Goldman Sachs is about to report fourth-quarter earnings — here's what the Street expects - CNBC
-- Peter Thiel makes his biggest donation in years to help defeat California’s billionaire wealth tax - Fortune
-- Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons - Ars Technica
-- Animal Crossing: New Horizons Update 3.0 Is Live Now, A Day Early - Game Informer
-- Most Downloaded PS5 Games of 2025 Revealed, as Xbox's Forza Horizon 5 Tops Ghost of Yotei - Push Square
-- Civilization VII is coming to Apple Arcade - The Verge
+- US and UK pulling some personnel from Qatar military base - BBC
+- Federal Judges Uphold California’s New Congressional Maps - The New York Times
+- Colorado appeals panel appears skeptical of Tina Peters’ sentence - The Colorado Sun
+- A pop star, an ageing autocrat and a crackdown: What to expect from Uganda’s election - CNN
+- European nations to send additional troops to Greenland as US annexation threats escalate - CNN
+- Writers’ Festival Unraveled After It Disinvited Palestinian Australian Author - The New York Times
+- Starlink reportedly made free in Iran - but protesters are taking huge risks by using it - BBC
+- TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand - CNBC
+- Banks Ready Battle Plans to Save Their Credit Card Businesses - The New York Times
+- A private memo from central banks to governments - The Economist
+- NCAA asks CFTC to suspend prediction markets - ESPN
+- Direct observation of the Migdal effect induced by neutron bombardment - Nature
+- Pokémon Horizons: Season 2 Part 3 Available on Amazon, Apple TV, and YouTube - Pokemon.com
