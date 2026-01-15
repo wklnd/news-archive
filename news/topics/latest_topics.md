@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 19:58_
+_Updated: 2026-01-15 21:02_
 
 ## Top Stories
 
 - Pojken som skadades i snöolyckan har dött - Aftonbladet
-- Nationella bombskyddet på väg till Växjö på grund av misstänkt brev - SVT Nyheter
-- ”Sexmanifest” sprids bland Lunds studenter - SvD
+- 15 januari 12.56, Kontroll, Växjö - polisen.se
 - Klart: Så blir nya Nobel Center vid Slussen - Fastighetsvärlden
-- SD begär att Katja Nyberg entledigas – Senaste nytt om valet 2026 - SVT Nyheter
-- KLART: Lodjur får skjutas i Värmland – så många ingår i licensjakten - NWT
+- Trafikinspektören dog i olyckan: ”Mycket mörk dag för oss” - Aftonbladet
+- UPPDATERAS: Nödläge utlyst i Kyjiv och energisektorn när -20ºC väntas i en vecka - cornucopia.se
+- Lars Løkkes pipa ett gott tecken – men krisen är inte avvärjd - Hufvudstadsbladet
+- Efter 10 000 klagomål – snöröjare riskerar vite - Dagens Nyheter
 - Mannen misstänks ha spionerat för Ryssland – arbetade nära svenska nyhetsredaktioner - Dagens Nyheter
-- DN Direkt – Elev sköt raket i skolas trapphus - Dagens Nyheter
-- Idag träder nya cybersäkerhetslagen i kraft – detta innebär den - Voister
-- Zelenskyj utropar nödläge i strömlöst Kiev - GP
-- Kalle Kniivilä Ukrainas forna hjältinna misstänkt för korruption - Sydsvenskan
+- Båda döttrarna hörda i Bodenfallet - Västerbottens-Kuriren
+- Efter köldknäppen – 23 Västtrafikbussar har frusit sönder - GP
+- Tilltänkt ambassadör: Island blir USA-delstat - GP
+- USA: Vi har beslagtagit ny oljetanker - Hufvudstadsbladet
 - Le Pens politiska framtid på spel i ny rättegång - Dagens Nyheter
-- Irans kollapsade ekonomi bakom folkligt uppror - Dagens Nyheter
-- Coca-Cola planerar IPO för indiska buteljeringsbolaget - Affärsvärlden
-- Fractal Gaming: Medvind ett minne blott - Affärsvärlden
+- Därför bemöter Irans grannländer upproret med tystnad - Dagens Nyheter
+- Idag träder cybersäkerhetslagen i kraft - pts.se
+- MYH beviljar fyra YH-utbildningar i Piteå – ny utbildning inom cybersäkerhet - Skola - Aktuellt - Piteå kommun
+- Melatonin ska utredas - Expressen
 - Matpriserna stiger – gurka och kött i topp - Placera.se
-- Analytiker: Bitcoin in i värmen igen – mot viktig nivå - Börskollen
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
-- Kontrollera tillgängligheten i Word, spara som PDF och gör en kontroll i Acrobat - Lunds universitet
 - Kungen av rock ’n’ roll inom generation W - Notified
 
 ## World News
@@ -33,8 +33,8 @@ _Updated: 2026-01-15 19:58_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -50,8 +50,8 @@ _Updated: 2026-01-15 19:58_
 
 ## Technology
 
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -68,8 +68,8 @@ _Updated: 2026-01-15 19:58_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -82,26 +82,25 @@ _Updated: 2026-01-15 19:58_
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- EY i Almedalen 2025 | EY - Sverige - EY
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -109,17 +108,17 @@ _Updated: 2026-01-15 19:58_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -130,8 +129,8 @@ _Updated: 2026-01-15 19:58_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -139,26 +138,27 @@ _Updated: 2026-01-15 19:58_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
