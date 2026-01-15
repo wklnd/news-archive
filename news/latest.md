@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-15 22:55_
+_Updated: 2026-01-15 23:51_
 
 - X to stop Grok AI from undressing images of real people after backlash - BBC
-- Erfan Soltani: Iran denies plan to execute detained protester - BBC
+- Colbert Jokes That Trump Has Found ‘a New National Bird’ - The New York Times
 - ‘Tip of the iceberg’: The FBI search of a reporter’s home has newsrooms bracing for more - CNN
+- Trump Suggests U.S. ‘Shouldn’t Even Have’ November Midterms - Forbes
 - What Teddy Roosevelt has to do with Trump's moves in Venezuela and Greenland - NPR
 - Secretary Bessent Announces Sanctions Against Architects of Iran’s Brutal Crackdown on Peaceful Protests - U.S. Department of the Treasury (.gov)
-- 83-year-old man convicted of killing Uber driver who he wrongly thought was scamming him - Yahoo
+- Anger in Iceland over incoming US ambassador’s ‘52nd state’ joke - The Guardian
 - Abortion opponents threaten to withhold midterm support amid rift with Trump - Politico
-- Harvard Slips on a Global Ranking List, as Chinese Schools Surge Ahead - The New York Times
-- One State, Two Very Different Views of Minneapolis - The New York Times
 - Footage shows US military seizing sixth oil tanker accused of defying sanctions - BBC
-- Large fire breaks out in Dutch city of Utrecht following explosion - BBC
-- Canadian prime minister hails renewed relations with China during his Beijing visit - AP News
+- Netanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative move’ - AP News
+- Canada's Carney hails warmer ties with China and signs energy pact - Reuters
 - Russia Knocks Out the Heat in Ukraine - The New York Times
-- Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless - CNBC
-- Bank CEOs Say Record $134 Billion Trading Haul Is Just the Start - Bloomberg.com
+- These Are Your Favorite Auto Show Moments - Jalopnik
+- TSMC Spurs Tech Revival as Metals Slide From Peaks: Markets Wrap - Bloomberg.com
 - College students and teens could be fueling the prediction markets boom - CNBC
-- Stock Market Today: Small Caps Lead, Some Medical Stocks Fall; BlackRock, Talen Build Bases (Live Coverage) - Investor's Business Daily
+- Elon Musk says retirement savings 'won't matter' in 20 years. We asked 7 personal finance and AI gurus what they think. - Business Insider
 - The Animal Crossing: New Horizons 3.0 expansion has arrived earlier than expected - Engadget
 - iPhone 17e to Gain Dynamic Island But Display Still Stuck at 60Hz - MacRumors
 - How To Add Jalopnik As A Preferred Source On Google - Jalopnik
+- My 2026 Headphones Forecast Might Surprise You, but It's an Open Secret - CNET
