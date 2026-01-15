@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 00:47_
+_Updated: 2026-01-16 01:42_
 
 ## Top Stories
 
 - DN Direkt – Senatorer från USA träffar Danmarks statsminister - Dagens Nyheter
-- Operation Arctic Endurance – så blir militärövningen på Grönland - GP
-- Pojken som skadades i snöolyckan har dött - Aftonbladet
+- Expert: Osannolikt att Irans regim faller - Dagens Nyheter
+- Machado: Erbjöd Trump min fredsprismedalj - SVT Nyheter
+- 15 januari 12.56, Kontroll, Växjö - polisen.se
 - Efter 10 000 klagomål – snöröjare riskerar vite - Dagens Nyheter
-- Uppgifter: Netanyahu uppmanade Trump att vänta - Expressen
 - Halt i Västsverige – flera busslinjer indragna - GP
 - Peter Alestig: Så blev värmepumpar ett politiskt slagträ - Dagens Nyheter
 - DN Direkt – Anföll kvinna på vårdboende – ung man åtalas - Dagens Nyheter
 - Ny lag stärker cybersäkerheten - Regeringen.se
-- Beslut: Sex lodjur får skjutas i Värmland - SVT Nyheter
-- Fransk trupp på Grönland - Expressen
-- Machado: Jag erbjöd Trump fredsprismedaljen - Aftonbladet
-- Migrationsverket stoppar tillfälligt alla utvisningar till Iran - SVT Nyheter
-- DN Direkt – Island kräver svar från USA efter skämt om 52:a delstat - Dagens Nyheter
+- Detta borde de flesta se som en bra sak - SvD
+- Första franska soldaterna har kommit till Grönland - Omni
+- Polisen i Stockholm flaggar på halv stång - Expressen
+- Dolda förklaringarna bakom USA:s agerande - EFN
+- Vad händer med tarmfloran på vägen mot Mars? - Dagens Nyheter
 - Iphone kan hotas – för första gången - SvD
-- Bolidens börsrevansch: ”Vi har lyckats vända rätt mycket” - Privata Affärer
-- Styrelseledamot miljonköper aktier i Swedbank - DI
-- Stopp för sexuella bilder - 8 Sidor
+- Lista: Guld- och silverbolagen som lyser starkast på börsen - Affärsvärlden
+- Svantesson backar upp Fed-chefen: ”En cocktail som är riktigt dålig” - DI
+- Bankens svar: ”Gör allt vi kan för att hjälpa” - Aftonbladet
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
 - Kungen av rock ’n’ roll inom generation W - Notified
 
@@ -32,10 +32,10 @@ _Updated: 2026-01-16 00:47_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Annual Report 2024 - Olof Palme International Center
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
@@ -98,23 +98,23 @@ _Updated: 2026-01-16 00:47_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
