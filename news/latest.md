@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-15 04:34_
+_Updated: 2026-01-15 05:56_
 
-- Some personnel at key US base in Qatar advised to evacuate as Iran official brings up earlier attack - AP News
 - Federal Judges Uphold California’s New Congressional Maps - The New York Times
-- Trump administration cuts up to $1.9 billion from mental health and addiction treatment programs - statnews.com
-- U.S. Department of Education’s Office for Civil Rights Initiates 18 Title IX Investigations - U.S. Department of Education (.gov)
-- Adjusting Imports of Processed Critical Minerals and Their Derivative Products into the United States - The White House (.gov)
-- Clintons refuse to testify in House Epstein investigation - PBS
-- Minnesota and Illinois invoke the 10th Amendment in lawsuits to block federal agents in their cities. Here’s why that matters - CNN
-- Brazilian au pair testifies against former employer and lover in double homicide case - ABC News
-- Half of Americans think ICE is making cities less safe, poll finds – live - The Guardian
-- Virginia House committee advances 4 proposed constitutional amendments - VPM
-- US announces start of phase two of Trump's Gaza peace plan - BBC
+- U.S. Races to Sell Venezuelan Oil, Transforming Ties With Former Foe - The New York Times
+- Judge skeptical on ICE agents wearing masks in case that could have national implications - Los Angeles Times
+- The Real Reason the Supreme Court Reversed Its Position on Trans Rights - Slate
+- Clintons say Comer is 'lying with impunity' about Epstein inquiry, release written declarations - ABC News
+- Trump signs a law returning whole milk to school lunches - ABC News
+- Embarrassing floor meltdown has House Republicans questioning their leaders - Politico
+- Anti-Trump US reporter says she was offered job at ICE after ‘minimal vetting’ - The Guardian
 - Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens - The New York Times
-- Iran briefly closes airspace as U.S. tensions rise, flights rerouted across region - CNBC
-- Free Starlink access for Iran seen as game changer for demonstrators getting their message out - ABC News
-- Oil prices fall after Trump signals he could hold off on attacking Iran - CNBC
-- NTSB investigators pinpoint failed aircraft part from UPS crash last year - CNN
-- Bank of America Reports Fourth Quarter 2025 Financial Results - Bank of America
-- Committing $9B Annual Payout; Strengthening Stewardship of Funds - Gates Foundation
-- A single click mounted a covert, multistage attack against Copilot - Ars Technica
-- Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited - The Hacker News
+- Twenty one English councils ask for election delays - BBC
+- Zelensky declares state of emergency in Ukraine’s energy sector as crisis worsens - The Kyiv Independent
+- Why Greenland Matters for a Warming World - The New York Times
+- Stellantis CEO: 2026 is the ‘year of execution’ as Wall Street awaits turnaround strategy - CNBC
+- A part that broke on a UPS plane that crashed in Kentucky failed 4 times on other planes years ago - AP News
+- 3 ways to invest in what could become a $200 billion market for humanoid robots - MarketWatch
+- Citigroup CEO Jane Fraser warns of job cuts and says it's time to raise the bar in memo to staff - Fortune
+- New Pixel 10a leak reveals price, exact launch date - Android Authority
+- Animal Crossing: New Horizons Update 3.0 Is Live Now, A Day Early - Game Informer
+- Most Downloaded PS5 Games of 2025 Revealed, as Xbox's Forza Horizon 5 Tops Ghost of Yotei - Push Square
+- I TRULY Was Not Prepared For How Hard I Cackled At These Random People Who Dropped The Funniest Replies Out Of Nowhere - BuzzFeed
