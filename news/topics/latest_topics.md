@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 11:49_
+_Updated: 2026-01-15 12:50_
 
 ## Top Stories
 
+- Rekommendation att koka Gotlandsvattnet förlängs till februari – minst - SVT Nyheter
+- Beslut om licensjakt efter lodjur - Länsstyrelsen
 - WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
+- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
 - Halt i Västsverige – flera busslinjer indragna - GP
-- Högst tre lodjur får fällas i Västra Götaland i årets licensjakt - Länsstyrelsen
 - Länsstyrelsen Västra Götaland får nytt tillsynsuppdrag inom cybersäkerhet - Länsstyrelsen
-- Lastbilar har sladdat på E6 – vägen avstängd vid Blomsholmsmotet - SVT Nyheter
-- FN vädjar om 2,3 miljarder dollar i humanitärt bistånd till Ukraina - Unric
-- Grannar larmade om rök från lägenhet – kvinna hittad död - Sydsvenskan
+- Kvinna död efter lägenhetsbrand i Tollarp - SVT Nyheter
+- DN Direkt – Gripna vid kärnkraftverk döms till böter - Dagens Nyheter
 - MP-topp: Bussoperatör kör med reducerad trafik för att spara pengar - Dagens Nyheter
-- Nu startar gymnasievalet - Karlskrona kommun
-- Eleven har livshotande skador efter olyckan i Hassela - SVT Nyheter
+- Dags för Carl Bildt att vittna i Lundinmålet - Aftonbladet
+- Borgmästaren: Mycket svårt läge i Kiev - Västerbottens-Kuriren
 - Vad är nästa steg för Trump i utrikespolitiken? - Dagens Arena
-- Trump: Putin redo för fred - SvD
-- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
+- USA: Vapenvilans andra fas har inletts i Gaza - SvD
 - Iran stängde luftrummet – efter spända läget med USA - Omni
 - Ericsson varslar 1 600 i Sverige - SVT Nyheter
 - Proffsen oeniga inför Ericssons guldregn - DI
-- Bensin och möbler trycker ned inflationen - SVT Nyheter
 - Varför är det köttbrist? - LRF - Lantbrukarnas Riksförbund
+- Låt inte lycksökarna sätta agendan - SvD
 - Kontrollera tillgängligheten i Word, spara som PDF och gör en kontroll i Acrobat - Lunds universitet
 - Kungen av rock ’n’ roll inom generation W - Notified
 
