@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-15 16:00_
+_Updated: 2026-01-15 16:57_
 
+- Federal Agent Shoots Man in Minneapolis, Prompting Tense Protests - The New York Times
 - What are Trump’s military options for an attack on Iran? - Al Jazeera
 - Exclusive: Trump questions support for son of Iran's last Shah inside country - Reuters
-- Woman Killed by ICE Agent Seemed at Fault, N.Y. Republican Says - The New York Times
 - Harvard Slips on a Global Ranking List, as Chinese Schools Surge Ahead - The New York Times
 - "Performative bullsh*t": Some Democrats fume as Kristi Noem impeachment gains steam - Axios
 - X to stop Grok AI from undressing images of real people after backlash - BBC
-- Federal Agent Shoots Man in Minneapolis, Prompting Tense Protests - The New York Times
-- Nobel Committee Takes Heat at Home as Machado Courts Trump in D.C. - The New York Times
-- Au Pair Testifies of Lurid Plot in Virginia Double-Murder Trial - The New York Times
 - How do you prosecute another country’s president? - Politico
-- Australia banned social media for under 16s a month ago — here's how it's going - CNBC
+- Cassidy raises $1.65 million for reelection fight - Politico
+- 4 More Lawmakers in Video Say Federal Prosecutors Are Investigating Them - The New York Times
 - A new era for Canada-China relations? Prime Minister Carney signals change in Beijing - AP News
-- Ukraine's Zelenskiy to declare energy emergency to tackle aftermath of Russian attacks - Reuters
-- Microsoft, Meta, and Amazon are paying up for ‘enterprise’ access to Wikipedia - The Verge
+- Russia Knocks Out the Heat in Ukraine - The New York Times
+- Henry Zeffman: Jenrick sacking is huge moment for future of British right - BBC
+- What Teddy Roosevelt has to do with Trump's moves in Venezuela and Greenland - NPR
+- Jobless claims — aka layoffs — fall below key 200,000 threshold. Labor market may be improving. - MarketWatch
+- Trump’s D.O.J. Went After the Fed. It Backfired. - The New York Times
+- Spotify is hiking prices again - The Verge
 - Elon Musk says retirement savings 'won't matter' in 20 years. We asked 7 personal finance and AI gurus what they think. - Business Insider
-- High-Income Consumers Are Living Larger, While Others Cut Protein to Make Ends Meet, New Fed Report Finds - Investopedia
-- Aimed at the growing number of young Chinese who live alone, a new app asks: ‘Are you dead?' - AP News
-- NCAA asks CFTC to suspend prediction markets - ESPN
 - Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking - WIRED
 - OpenAI’s ChatGPT translator challenges Google Translate - The Verge
+- Intel says laptop makers are sitting on 'about 9 to 12 months' of stock, and it might be the key to surviving the RAM crunch - Tom's Guide
