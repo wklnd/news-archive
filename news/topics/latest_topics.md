@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 19:02_
+_Updated: 2026-01-15 19:58_
 
 ## Top Stories
 
+- Pojken som skadades i snöolyckan har dött - Aftonbladet
 - Nationella bombskyddet på väg till Växjö på grund av misstänkt brev - SVT Nyheter
-- KLART: Lodjur får skjutas i Värmland – så många ingår i licensjakten - NWT
+- ”Sexmanifest” sprids bland Lunds studenter - SvD
 - Klart: Så blir nya Nobel Center vid Slussen - Fastighetsvärlden
-- Zelenskyj utropar nödläge i strömlöst Kiev - Hufvudstadsbladet
-- SMHI varnar för blixthalka – 42 mil långt isbälte korsar landet - Expressen
-- Idag träder nya cybersäkerhetslagen i kraft – detta innebär den - Voister
-- Pojke död efter olyckan i en snögrotta i Hassela - SVT Nyheter
-- Katja Nyberg (SD) pausas från justitieutskottet - Dagens Nyheter
+- SD begär att Katja Nyberg entledigas – Senaste nytt om valet 2026 - SVT Nyheter
+- KLART: Lodjur får skjutas i Värmland – så många ingår i licensjakten - NWT
 - Mannen misstänks ha spionerat för Ryssland – arbetade nära svenska nyhetsredaktioner - Dagens Nyheter
-- Båda döttrarna hörda i Bodenfallet - Västerbottens-Kuriren
+- DN Direkt – Elev sköt raket i skolas trapphus - Dagens Nyheter
+- Idag träder nya cybersäkerhetslagen i kraft – detta innebär den - Voister
+- Zelenskyj utropar nödläge i strömlöst Kiev - GP
+- Kalle Kniivilä Ukrainas forna hjältinna misstänkt för korruption - Sydsvenskan
+- Le Pens politiska framtid på spel i ny rättegång - Dagens Nyheter
 - Irans kollapsade ekonomi bakom folkligt uppror - Dagens Nyheter
-- Grannar ska ha fått Trump att backa: ”Sömnlös natt” - Corren
-- Putins spioner testar vapen på serbiska hundar - Corren
-- Då ska Trump och Machado träffas - GP
 - Coca-Cola planerar IPO för indiska buteljeringsbolaget - Affärsvärlden
-- Nattsvarta utsikter för världen inför toppmötet - DI
-- Analytiker: Bitcoin in i värmen igen – mot viktig nivå - Börskollen
+- Fractal Gaming: Medvind ett minne blott - Affärsvärlden
 - Matpriserna stiger – gurka och kött i topp - Placera.se
+- Analytiker: Bitcoin in i värmen igen – mot viktig nivå - Börskollen
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
 - Kontrollera tillgängligheten i Word, spara som PDF och gör en kontroll i Acrobat - Lunds universitet
+- Kungen av rock ’n’ roll inom generation W - Notified
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -45,8 +45,8 @@ _Updated: 2026-01-15 19:02_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Saks Global riskerar konkurs efter missad räntebetalning - Market.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2026-01-15 19:02_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Meet the Oura Medical Advisory Board - Oura Ring
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -145,9 +145,9 @@ _Updated: 2026-01-15 19:02_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
@@ -155,10 +155,10 @@ _Updated: 2026-01-15 19:02_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
