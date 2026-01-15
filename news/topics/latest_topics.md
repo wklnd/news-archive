@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 05:54_
+_Updated: 2026-01-15 06:58_
 
 ## Top Stories
 
-- WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
-- Stora störningar i busstrafiken - SVT Nyheter
-- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
-- FN vädjar om 2,3 miljarder dollar i humanitärt bistånd till Ukraina - unric
+- Partiledardebatten var långsammare än älgvandringen - Aftonbladet
+- En död efter villabrand i Älvsjö - SVT Nyheter
+- Republikaner svängde – röstade med Trump - Aftonbladet
 - Efter snön – ansträngt läge i busstrafiken - SVT Nyheter
-- Livshotande skador efter snöolycka på skolgård - Aftonbladet
-- Man död efter trafikolycka i Glasberga - SVT Nyheter
+- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
+- Snön smälter – kommunen förberedd för översvämning - Norra Halland
 - Utvärderingen av polisarbetet vid Campus Risbergska är klar - polisen.se
 - Fredsperspektivet i skymundan på Folk och försvar - Syre
-- S: Kräver nollvision för barn och unga i grov kriminalitet - Socialdemokraterna
-- Republikaner svängde – röstade med Trump - Aftonbladet
-- Motstridiga uppgifter om frigivna i Venezuela - GP
+- SMHI utfärdar ännu en varning för kraftigt snöfall - Dagens Nyheter
+- Hasselaeleven vårdas för livshotande skador - Sundsvalls Tidning
+- Expert: Därför väljer Putin att fortsätta kriget - Omni
+- USA: Vapenvilans andra fas har inletts i Gaza - SvD
+- Jätteattack mot Zelenskyjs hemstad i natt - Västerbottens-Kuriren
 - Journalists hem genomsökt efter Pentagonläcka - Aftonbladet
-- ”Glöm inte vad diktaturen i Venezuela har gjort” - Västerbottens-Kuriren
 - Replik: Symbolpolitik som gör vardagen dyrare är inte ansvarsfull klimatpolitik - Altinget.se
 - Nya rekordpriser för guld och silver - Västerbottens-Kuriren
 - Kraftigt orderlyft för svensk industri - Tidningen Näringslivet
@@ -28,25 +28,25 @@ _Updated: 2026-01-15 05:54_
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -100,6 +100,7 @@ _Updated: 2026-01-15 05:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -107,11 +108,10 @@ _Updated: 2026-01-15 05:54_
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
