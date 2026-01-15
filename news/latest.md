@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-15 21:04_
+_Updated: 2026-01-15 21:53_
 
-- Trump threatens to invoke the Insurrection Act in response to Minneapolis protests - NBC News
-- Arab governments believe US-Iran tension ‘de-escalated’ - Financial Times
+- Erfan Soltani: Iran denies plan to execute detained protester - BBC
 - What Teddy Roosevelt has to do with Trump's moves in Venezuela and Greenland - NPR
-- Trump releases health policy outline - Politico
-- US military seizes Venezuela oil tanker under Trump sanctions - The Guardian
-- 75% of Americans oppose US attempting to take control of Greenland, CNN poll finds - CNN
-- ‘Tip of the iceberg’: The FBI search of a reporter’s home has newsrooms bracing for more - CNN
+- G.O.P. Candidate for Governor Says Renee Good’s Killing Seems Justified - The New York Times
+- X to stop Grok AI from undressing images of real people after backlash - BBC
+- Journalists confront new reality in reporting after FBI raid - The Washington Post
+- Secretary Bessent Announces Sanctions Against Architects of Iran’s Brutal Crackdown on Peaceful Protests - U.S. Department of the Treasury (.gov)
 - Abortion opponents threaten to withhold midterm support amid rift with Trump - Politico
 - Harvard Slips on a Global Ranking List, as Chinese Schools Surge Ahead - The New York Times
 - One State, Two Very Different Views of Minneapolis - The New York Times
+- ‘Squished Between Chairs’ on a Train: How Some Passengers Survived a Crane Collapse - The New York Times
 - Veterans aged 65 told to prepare for war - Yahoo
-- Large fire breaks out in Dutch city of Utrecht following explosion - BBC
 - Canadian prime minister hails renewed relations with China during his Beijing visit - AP News
-- Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday - AP News
-- Goldman Sachs sees M&A accelerating, as companies believe the ‘art of the deal’ is now possible - MarketWatch
-- Wall Street Eliminated 10,600 Jobs Last Year, Most Since 2016 - Bloomberg.com
-- Just 198,000 Americans filed jobless claims last week, fewer than expected as layoffs remain low - AP News
-- BlackRock assets surge above $14tn after record quarter - Financial Times
-- OpenAI’s ChatGPT translator challenges Google Translate - The Verge
+- Russia Knocks Out the Heat in Ukraine - The New York Times
+- Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless - CNBC
+- Mortgage Rates Drop to 6.06%—Lowest Level Since 2022 - Realtor.com
+- Goldman and Morgan Stanley investment bankers ride dealmaking wave - Financial Times
+- ICE raid on Meta shows tension between Trump's immigration and AI agendas - Axios
+- iPhone 17e to Gain Dynamic Island But Display Still Stuck at 60Hz - MacRumors
 - Valerion VisionMaster Max projector review: Near-perfect image quality comes at a price - Engadget
+- Are people avoiding iOS 26 because of Liquid Glass? It’s complicated. - Ars Technica
