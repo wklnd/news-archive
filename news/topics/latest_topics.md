@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 10:55_
+_Updated: 2026-01-15 11:49_
 
 ## Top Stories
 
-- Ericsson vill säga upp 1.600 anställda i Sverige - DI
-- Carl Bildt vittnar i Lundinmålet - Dagens Nyheter
-- Man skjuten i Minneapolis – nya protester mot ICE - SVT Nyheter
-- DEBATT: Vänta inte på ett USA som gått vilse - DI
-- ÖB: Grönlandsbråket en svaghet Putin kan utnyttja - Aftonbladet
-- Kvinna död efter lägenhetsbrand i Tollarp - SVT Nyheter
-- DN Direkt – Gripna vid kärnkraftverk döms till böter - Dagens Nyheter
-- MP-topp: Bussoperatör kör med reducerad trafik för att spara pengar - Dagens Nyheter
+- WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
 - Halt i Västsverige – flera busslinjer indragna - GP
-- Salwan Najem söker skydd i USA - LT
-- Borgmästaren: Mycket svårt läge i Kiev - GP
-- Trump: Putin redo för fred - GP
-- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
-- Trumps svar på arbetarens kritik: Visade fingret - Aftonbladet
-- Låt inte lycksökarna sätta agendan - SvD
+- Högst tre lodjur får fällas i Västra Götaland i årets licensjakt - Länsstyrelsen
+- Länsstyrelsen Västra Götaland får nytt tillsynsuppdrag inom cybersäkerhet - Länsstyrelsen
+- Lastbilar har sladdat på E6 – vägen avstängd vid Blomsholmsmotet - SVT Nyheter
+- FN vädjar om 2,3 miljarder dollar i humanitärt bistånd till Ukraina - Unric
+- Grannar larmade om rök från lägenhet – kvinna hittad död - Sydsvenskan
+- MP-topp: Bussoperatör kör med reducerad trafik för att spara pengar - Dagens Nyheter
+- Nu startar gymnasievalet - Karlskrona kommun
+- Eleven har livshotande skador efter olyckan i Hassela - SVT Nyheter
+- Vad är nästa steg för Trump i utrikespolitiken? - Dagens Arena
+- Trump: Putin redo för fred - SvD
+- Flera döda i Gaza – väggar kollapsade i hård vind - Västerbottens-Kuriren
+- Iran stängde luftrummet – efter spända läget med USA - Omni
+- Ericsson varslar 1 600 i Sverige - SVT Nyheter
 - Proffsen oeniga inför Ericssons guldregn - DI
-- Kraftig minskning av bostäder i andra hand: ”Ökad konkurrens” - Dagens Nyheter
-- Skatteverket skärper kontrollen av deklarationsombud - Dagens Juridik
+- Bensin och möbler trycker ned inflationen - SVT Nyheter
+- Varför är det köttbrist? - LRF - Lantbrukarnas Riksförbund
+- Kontrollera tillgängligheten i Word, spara som PDF och gör en kontroll i Acrobat - Lunds universitet
 - Kungen av rock ’n’ roll inom generation W - Notified
-- Stjärnan vinner efter vintervilan - Expressen
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2026-01-15 10:55_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Saks Global riskerar konkurs efter missad räntebetalning - Market.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -90,32 +90,32 @@ _Updated: 2026-01-15 10:55_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-15 10:55_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
