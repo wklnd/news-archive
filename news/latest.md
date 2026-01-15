@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-15 07:54_
+_Updated: 2026-01-15 09:01_
 
-- Reports: Shooting involving federal law enforcement in north Minneapolis - kare11.com
-- Republicans Block Effort to Check Trump’s Power in Venezuela - The New York Times
-- US will suspend immigrant visa processing from 75 countries over public assistance concerns - AP News
-- Federal Judges Uphold California’s New Congressional Maps - The New York Times
-- Congressional Bill S. 222 Signed into Law - The White House (.gov)
-- US announces start of phase two of Trump's Gaza peace plan - BBC
-- With a tiny majority, House GOP leaders tell members to show up unless it's 'life or death' - NBC News
-- "Performative bullsh*t": Some Democrats fume as Kristi Noem impeachment gains steam - Axios
-- The Real Reason the Supreme Court Reversed Its Position on Trans Rights - Slate
-- Louisiana wants a California doctor extradited to face abortion charges. Newsom isn't having it. - Politico
-- Twenty one English councils ask for election delays - BBC
+- Venezuela war powers resolution fails in Senate as 2 Republicans bow to Trump pressure - AP News
+- Videos show security forces firing into crowds in at least six cities across Iran - The Washington Post
+- Judge skeptical on ICE agents wearing masks in case that could have national implications - Los Angeles Times
+- U.S. Races to Sell Venezuelan Oil, Transforming Ties With Former Foe - The New York Times
+- Clintons say Comer is 'lying with impunity' about Epstein inquiry, release written declarations - ABC News
+- Embarrassing floor meltdown has House Republicans questioning their leaders - Politico
+- Venezuelan Immigrants Urge Appeals Court to Restore Deportation Protections - The New York Times
+- 33 ex-federal prosecutors ask Trump to reconsider excluding state from Renee Good investigation - Star Tribune
+- FBI executes search warrant at Washington Post reporter’s home - The Washington Post
+- X to stop Grok AI from undressing images of real people after backlash - BBC
 - Digital IDs: Starmer’s change of heart another ‘almighty backtracking’ - BBC
-- Two Palestine Action protesters end 73-day hunger strike - BBC
+- A pop star, an ageing autocrat and a crackdown: What to expect from Uganda’s election - CNN
 - K-pop drum duet caps off Japan and South Korea's diplomatic meeting - BBC
-- Oil prices fall after Trump signals he could hold off on attacking Iran - CNBC
+- Factbox-What Saks Global's bankruptcy filing reveals about its assets, creditors, financing - Yahoo Finance
 - Banks Ready Battle Plans to Save Their Credit Card Businesses - The New York Times
-- Gavin Newsom Vows to Stop Proposed Billionaire Tax in California - The New York Times
+- S&P 500 books back-to-back losses as tech sells off, Bank of America slides after earnings: Live updates - CNBC
 - NCAA asks CFTC to suspend prediction markets - ESPN
-- The five new gadgets I tried and loved at CES 2026 (that you can buy right now) - The Guardian
-- Ligand-specific activation trajectories dictate GPCR signalling in cells - Nature
+- Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons - Ars Technica
+- New Pixel 10a leak reveals price, exact launch date - Android Authority
+- I TRULY Was Not Prepared For How Hard I Cackled At These Random People Who Dropped The Funniest Replies Out Of Nowhere - BuzzFeed
