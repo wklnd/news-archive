@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-15 16:51_
+_Updated: 2026-01-15 17:55_
 
 ## Top Stories
 
-- Vill ha strafflindring – förnekar hatmotiv - SvD
-- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
+- Pojke död efter olyckan i en snögrotta i Hassela - SVT Nyheter
+- Trafikinspektören dog i olyckan: ”Mycket mörk dag för oss” - Aftonbladet
 - Zelenskyj utropar nödläge i strömlöst Kiev - GP
-- Efter köldknäppen – 23 Västtrafikbussar har frusit sönder - GP
-- Idag träder nya cybersäkerhetslagen i kraft – detta innebär den - Voister
-- Klart: Så blir nya Nobel Center vid Slussen - Fastighetsvärlden
+- Blixthalkan ger köer på akuten i Malmö och Lund - Sydsvenskan
+- Svenskt militärt bidrag till danska insatsen på Grönland - SVT Nyheter
+- ”På gränsen till farligt att dödförklara Nato” - SvD
+- Förslaget: Fler misstänkta ska kunna häktas – Senaste nytt om valet 2026 - SVT Nyheter
 - Elev sköt raket inne i skola – en skadad - SVT Nyheter
-- DN Direkt – SMHI varnar för blixthalka - Dagens Nyheter
-- Båda döttrarna hörda i Bodenfallet - Aftonbladet
-- Efter stormarna – försäkringsanmälningarna skjuter i höjden - Dagens Nyheter
+- Varning för blixthalka på fredag - SVT Nyheter
+- Efter köldknäppen – 23 Västtrafikbussar har frusit sönder - GP
 - Irans kollapsade ekonomi bakom folkligt uppror - Dagens Nyheter
-- Putins spioner testar vapen på serbiska hundar - GP
 - Därför bemöter Irans grannländer upproret med tystnad - Dagens Nyheter
-- USA vill beslagta fler Venezuela-kopplade tankfartyg - DI
-- Fractal Gaming: Medvind ett minne blott - Affärsvärlden
-- SAS vd: ”Jag har slutat planera” – dementerar rykten om Air France-KLM - Dagens PS
-- En ny viltförvaltningslagstiftning - Regeringen.se
-- Tobaksjätte förlorar tillstånd – ägs av kinesisk maffiakung - ETC.se
+- Putins spioner testar vapen på serbiska hundar - GP
+- Vad har sagts under kardinalskollegiet? - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- Idag träder nya cybersäkerhetslagen i kraft – detta innebär den - Voister
+- MYH beviljar fyra YH-utbildningar i Piteå – ny utbildning inom cybersäkerhet - Skola - Aktuellt - Piteå kommun
+- Reglerna om lönetransparens missar målet - Svenskt Näringsliv
+- Föreläsning med Carl Heath på tema AI - Försvarshögskolan
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
 - Kontrollera tillgängligheten i Word, spara som PDF och gör en kontroll i Acrobat - Lunds universitet
 
 ## World News
 
 - Trump vs Fed utlöser global marknadsoro - Realtid
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -45,8 +45,8 @@ _Updated: 2026-01-15 16:51_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Saks Global riskerar konkurs efter missad räntebetalning - Market.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -90,53 +90,53 @@ _Updated: 2026-01-15 16:51_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Engineering Health 2024 - Chalmers
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Meet the Oura Medical Advisory Board - Oura Ring
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
@@ -145,9 +145,9 @@ _Updated: 2026-01-15 16:51_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
@@ -155,10 +155,10 @@ _Updated: 2026-01-15 16:51_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
