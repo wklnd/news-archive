@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-16 00:53_
+_Updated: 2026-01-16 01:50_
 
-- US appeals court ruling raises prospect of rearrest of pro-Palestinian activist Mahmoud Khalil - Reuters
-- X to stop Grok AI from undressing images of real people after backlash - BBC
-- Israel and Arab Nations Ask Trump to Refrain From Attacking Iran - The New York Times
-- Colbert Jokes That Trump Has Found ‘a New National Bird’ - The New York Times
+- There's an internet blackout in Iran. How are videos and images getting out? - NPR
+- Grok blocked from undressing images in places where it’s illegal, X says - AP News
+- Majority of Americans say ICE agent’s shooting of Good was unjustified and inappropriate; ICE making cities less safe - ABC News
 - 3 more Democratic lawmakers say they are under federal investigation over illegal orders social media video - ABC News
 - Minnesota and Illinois invoke the 10th Amendment in lawsuits to block federal agents in their cities. Here’s why that matters - CNN
+- Colbert Jokes That Trump Has Found ‘a New National Bird’ - The New York Times
+- Trump threatens to use military over Minnesota anti-ICE protests - Reuters
+- ICE Jails Oglala Sioux Members at Fort Snelling, Site of 19th-Century Concentration Camp - Democracy Now!
 - U.S. Sanctions to Support the Courageous People of Iran - U.S. Department of State (.gov)
-- Anger in Iceland over incoming US ambassador’s ‘52nd state’ joke - The Guardian
-- 1.4 million fewer people enrolled in ACA plans as premiums spike, tax credits expire - ABC News
-- Most Americans oppose Trump’s push on Greenland, poll shows - Politico
 - Netanyahu says the announced start of Gaza ceasefire’s next phase is a ‘declarative move’ - AP News
+- Israel and Arab Nations Ask Trump to Refrain From Attacking Iran - The New York Times
 - Drug ring's "monkey" technique used young swimmers to stash cocaine on ships at sea, Spanish police say - CBS News
-- Canada's Carney hails warmer ties with China and signs energy pact - Reuters
+- Veterans aged 65 told to prepare for war - Yahoo
 - At Detroit auto show, spotlight dims for EVs - AP News
+- Goldman and Morgan Stanley investment bankers ride dealmaking wave - Financial Times
 - College students and teens could be fueling the prediction markets boom - CNBC
-- Empire Wind Project Can Resume Construction, Judge Rules - The New York Times
-- Elon Musk says retirement savings 'won't matter' in 20 years. We asked 7 personal finance and AI gurus what they think. - Business Insider
-- iOS 26.3 release date: Here’s when the next iPhone update will arrive - 9to5Mac
+- Why portfolio managers are whispering about inflation worries in 2026 - MarketWatch
 - iPhone 17e to Gain Dynamic Island But Display Still Stuck at 60Hz - MacRumors
 - How To Add Jalopnik As A Preferred Source On Google - Jalopnik
+- An earthquake on a chip: New tech could make smartphones smaller, faster - Tech Xplore
