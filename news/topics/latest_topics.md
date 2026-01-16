@@ -1,42 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 15:55_
+_Updated: 2026-01-16 16:50_
 
 ## Top Stories
 
+- Man gripen på Arlanda – deporterades från Dubai - SVT Nyheter
+- DN Direkt – Trumps sändebud planerar besök till Grönland - Dagens Nyheter
 - Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
 - Sparkonsulterna gör välfärdens personal sjuk - Arbetet
-- Arfan Bhatti döms till 30 års fängelse för medverkan i Pride-skjutningen i Oslo - GP
 - HR-direktören försvarar kritiserade snöbeslutet - GP
-- Chatta med SVT om protesterna och våldet i Iran - SVT Nyheter
-- Hon gav sitt pris till Trump - 8 Sidor
+- Svantesson skiljer sig efter 38 år - Aftonbladet
 - Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
-- Lastbil i diket blockerar E4 vid Hagsta - SVT Nyheter
-- Fem val du ska ha koll på i år – påverkar både Sverige och världen - HD
+- SL:s reklamkampanj sågas: ”Hånfullt sätt att se på sina resenärer” - Dagens Nyheter
 - SMHI utvidgar varning för plötslig ishalka - SVT Nyheter
-- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
-- Finansministern skiljer sig – efter 38 år - Expressen
-- Zelenskyj utropar nödläge i strömlöst Kiev - Aftonbladet
-- Här skjuts ännu en person av ICE - ny våg av protester i Minnesota - Dagens Nyheter
-- Trött på att skotta? Vi testar sex elektriska snöskyfflar - Expressen
-- Bättre ekonomiskt läge i Sverige: ”Positiv trend” - Omni
+- Mördare hittad död i häktet i Ystad – dagen efter avslutad rättegång - Expressen
+- Han är mannen bakom protestkepsen - Hufvudstadsbladet
+- Protesterna i Iran avtar - GP
+- Machado: Erbjöd Trump min fredsprismedalj - SVT Nyheter
+- Ljungbymamman döms – låste in och misshandlade sina barn - Aftonbladet
+- Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
+- Svantesson om Trump: ”Vet inte vad han kommer att göra i morgon” - Aftonbladet
+- Svaga siffror från Daimler Truck och Porsche pressar fordonsjättar - DI
 - Alfred Wahlforss AI-bolag Listen Labs värt miljarder – sågar branschen: ”full av bedrägerier” - SvD
-- Bankjättens vd varnar: ”En enorm mängd risk” - DI
 - Raspberry Pi:s nya AI-hatt kan köra AI-modeller lokalt - Computer Sweden
-- RTX 5070 Ti påstås gå i graven och drar RTX 5060 Ti 16GB med sig - SweClockers
+- Miljoner hörlurar öppna för spårning och avlyssning - Computer Sweden
 
 ## World News
 
-- Experten: Trumps besatthet kan leda till nytt världskrig - Expressen
+- Expert: Besatthet som kan leda till världskrig - Expressen
 - Sojasåsgigant på global förvärvsjakt - DI
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
@@ -45,14 +46,12 @@ _Updated: 2026-01-16 15:55_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -70,6 +69,7 @@ _Updated: 2026-01-16 15:55_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,24 +101,25 @@ _Updated: 2026-01-16 15:55_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
@@ -129,7 +130,6 @@ _Updated: 2026-01-16 15:55_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -152,13 +152,13 @@ _Updated: 2026-01-16 15:55_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
