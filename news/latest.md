@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-16 11:54_
+_Updated: 2026-01-16 12:54_
 
-- Was Renee Good Obligated to Comply With an ICE Agent’s Orders? - The New York Times
-- Judge blocks Trump administration from getting California’s voter rolls - The Washington Post
-- No. 2 US ICE official Madison Sheahan leaving agency to run for Congress - Reuters
-- How Minneapolis became America's flashpoint for protests - Axios
-- Stand-alone Grok app still undresses women after X curtails access to tool - The Washington Post
 - Majority of Americans say ICE agent’s shooting of Good was unjustified and inappropriate; ICE making cities less safe - ABC News
-- Native Americans are being swept up by ICE in Minneapolis, tribes say - The Washington Post
+- How Minneapolis became America's flashpoint for protests - Axios
+- US military seizes Venezuela oil tanker under Trump sanctions - The Guardian
+- 24 hours of chaos as mental health grants are slashed then restored - NPR
+- Explaining Trump’s Claim That Venezuela ‘Stole’ U.S. Oil - FactCheck.org
+- Was Renee Good Obligated to Comply With an ICE Agent’s Orders? - The New York Times
+- University of Arkansas Withdraws Job Offer for Emily Suski Over Transgender Stance - The New York Times
 - Push for greater ICE training grows on some Republicans - Politico
-- FBI: 1 arrested after protesters smash into unmarked federal vehicles allegedly containing federal documents - CBS News
-- Trump Was Told Attack on Iran Wouldn’t Guarantee Collapse of Regime - The Wall Street Journal
-- Time to dump Trump? Europeans whisper last-resort options to save Greenland - politico.eu
+- Canada, China reach initial trade deal on electric vehicles, canola - Reuters
+- Stand-alone Grok app still undresses women after X curtails access to tool - The Washington Post
+- Major blaze extinguished in deprived area of South Korea's Gangnam district - Reuters
 - ‘Squished Between Chairs’ on a Train: How Some Passengers Survived a Crane Collapse - The New York Times
-- Trump Moves to Make Tech Giants Pay for Surging Power Costs - Bloomberg.com
-- Stock futures are rise after rally in banks and tech lifts major averages: Live updates - CNBC
 - Asia shares rise on AI optimism, receding Fed cut bets lift dollar - Reuters
-- Ford’s New Bronco Promises Real Off-Road Chops Without the Raptor Price Tag - Gear Patrol
+- Trump's Fed fight looks like something from another country - BBC
+- Hottest Credit Markets Since 2007 Spur Warnings on Complacency - Bloomberg
+- Senators vow to revive crypto bill - Politico
+- An earthquake on a chip: New tech could make smartphones smaller, faster - Tech Xplore
 - Google is exploring a much better way to build batteries into phones - Android Authority
 - Elden Ring: Nightreign Patch 1.03.2 Buffs All the Worst Nightfarers - IGN
 - Casting is dead. Long live casting! - The Verge
-- Windows 11 Update KB5074109 Critical Security Fixes and Major Bugs for AVD and Gaming - Technetbook
