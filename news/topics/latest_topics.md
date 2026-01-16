@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 19:48_
+_Updated: 2026-01-16 20:56_
 
 ## Top Stories
 
-- William Suso, 24, gripen på Arlanda - Expressen
-- WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
+- Polisen: Inget farligt ämne i brevet till socialförvaltningen - SVT Nyheter
+- William Suso, 24, greps på Arlanda - Expressen
+- Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
 - Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
+- WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
 - Gul varning för ishalka – skolbussar ställs in - Expressen
-- Ljungbymamman döms – låste in och misshandlade sina barn - Aftonbladet
-- ”Sveriges mest hatade – bryr sig inte alls om det” - Aftonbladet
 - Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
-- Man död efter frontalkrock i Helsingborg - SVT Nyheter
+- Västsvensk gripen på Arlanda – deporterades från Dubai - GP
 - Ambulanser kom inte fram till skadade i snökaoset: ”Noll fäste” - Dagens Nyheter
-- SL:s reklamkampanj sågas: ”Hånfullt sätt att se på sina resenärer” - Dagens Nyheter
+- Man död efter frontalkrock i Helsingborg - SVT Nyheter
 - Kanadas premiärminister Carney: Kina mer pålitlig partner än USA - Yle
-- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
+- Uppgifter: Kadyrovs son i allvarlig olycka - Expressen
+- Skadad man anträffad på Södermalm – stor insats - Expressen
 - Dolda förklaringarna bakom USA:s agerande - EFN
-- Ukraina vinner mark – enorma ryska dödstal - Expressen
-- Anställer ingenjörer – överallt: ”Mer tekniska” - SvD
 - Iphone kan hotas – för första gången - SvD
+- Anställer ingenjörer – överallt: ”Mer tekniska” - SvD
 - Uppgifter: Trump vill att tech-jättarna ska betala elnota - Omni Ekonomi
-- Brittisk charmoffensiv ska säkra Saabs 40-miljardersaffär - DI
+- CES: Lys upp din swimmingpool med en fontän. Arivia är mobila fontändrönare. - feber.se
 - Ignorera inte detta – Android-buggen som kan ge hackare åtkomst - Dagens.se
 - Uppgifter: Apple filar på ny modell av Pro Display XDR - Macworld.se
 
@@ -52,12 +52,11 @@ _Updated: 2026-01-16 19:48_
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -70,6 +69,7 @@ _Updated: 2026-01-16 19:48_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -126,8 +126,8 @@ _Updated: 2026-01-16 19:48_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
