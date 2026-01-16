@@ -1,62 +1,63 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 18:54_
+_Updated: 2026-01-16 19:48_
 
 ## Top Stories
 
-- Trumps hot: Tullar för länder som går emot planen för Grönland - SVT Nyheter
+- William Suso, 24, gripen på Arlanda - Expressen
+- WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
+- Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
+- Gul varning för ishalka – skolbussar ställs in - Expressen
+- Ljungbymamman döms – låste in och misshandlade sina barn - Aftonbladet
+- ”Sveriges mest hatade – bryr sig inte alls om det” - Aftonbladet
 - Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
-- Hennes långfinger till Trump – en svensk påminnelse om världskriget - Sydsvenskan
-- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
-- Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
-- HR-direktören försvarar kritiserade snöbeslutet - GP
 - Man död efter frontalkrock i Helsingborg - SVT Nyheter
-- Blåljuspersonal kom inte fram till skadade: ”Noll fäste” - Dagens Nyheter
+- Ambulanser kom inte fram till skadade i snökaoset: ”Noll fäste” - Dagens Nyheter
 - SL:s reklamkampanj sågas: ”Hånfullt sätt att se på sina resenärer” - Dagens Nyheter
-- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
-- Zelenskyj utropar nödläge i strömlöst Kiev - Aftonbladet
-- Här skjuts ännu en person av ICE - ny våg av protester i Minnesota - Dagens Nyheter
+- Kanadas premiärminister Carney: Kina mer pålitlig partner än USA - Yle
+- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
 - Dolda förklaringarna bakom USA:s agerande - EFN
 - Ukraina vinner mark – enorma ryska dödstal - Expressen
-- Bråse sålde sista Betsson-aktierna på morgonen – sedan kom vinstvarningen - DI
 - Anställer ingenjörer – överallt: ”Mer tekniska” - SvD
+- Iphone kan hotas – för första gången - SvD
 - Uppgifter: Trump vill att tech-jättarna ska betala elnota - Omni Ekonomi
-- Inflationen kom in som väntat - Placera.se
-- Svart hål ströp galax långsamt till döds - Dagens Nyheter
+- Brittisk charmoffensiv ska säkra Saabs 40-miljardersaffär - DI
+- Ignorera inte detta – Android-buggen som kan ge hackare åtkomst - Dagens.se
 - Uppgifter: Apple filar på ny modell av Pro Display XDR - Macworld.se
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
 - Sojasåsgigant på global förvärvsjakt - DI
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -69,7 +70,6 @@ _Updated: 2026-01-16 18:54_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -119,23 +119,23 @@ _Updated: 2026-01-16 18:54_
 
 ## Science
 
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -152,8 +152,8 @@ _Updated: 2026-01-16 18:54_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
