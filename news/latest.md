@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-16 13:50_
+_Updated: 2026-01-16 15:25_
 
+- China and Canada announce tariffs relief after a high-stakes meeting - BBC
+- Why access to Venezuela’s ‘heavy’ oil is ‘tremendous’ news for US refiners - Al Jazeera
 - Majority of Americans say ICE agent’s shooting of Good was unjustified and inappropriate; ICE making cities less safe - ABC News
-- Canada, China set for 'historic' gains from new partnership, Carney says - Reuters
-- How Minneapolis became America's flashpoint for protests - Axios
-- US military seizes Venezuela oil tanker under Trump sanctions - The Guardian
-- You just saved NASA's budget - The Planetary Society
+- U.S. Sanctions to Support the Courageous People of Iran - U.S. Department of State (.gov)
+- Medical examiner believes death of man in ICE custody was homicide, recording says - The Washington Post
+- ‘Dumbest thing I’ve ever heard’: Republicans amp up their resistance to Trump’s Greenland push - Politico
 - University of Arkansas Withdraws Job Offer for Emily Suski Over Transgender Stance - The New York Times
-- Republicans are scrambling to counter Trump on Greenland - Politico
-- Death of man at ICE camp could be investigated as homicide after examiner’s report - The Guardian
+- Alleged Charlie Kirk assassin Tyler Robinson’s defense is set to argue to disqualify prosecutors from the case - CNN
+- Iran protests abate after deadly crackdown, residents and rights group say - Reuters
 - Mummified cheetahs found in Saudi caves shed light on lost populations - AP News
-- Winter Cold and Collapsing Buildings Kill Palestinians in Gaza as Israel Blocks Shelter Supplies - Drop Site News
-- Donald Trump calls for emergency energy auction to make tech giants pay for AI power - Financial Times
-- Trump's Fed fight looks like something from another country - BBC
-- Asia shares rise on AI optimism, receding Fed cut bets lift dollar - Reuters
+- Trump is making the world fall in love with China - Financial Times
+- Israel and Arab Nations Ask Trump to Refrain From Attacking Iran - The New York Times
+- Australia banned social media for under 16s a month ago — here's how it's going - CNBC
+- Trump's proposed ban on buying single-family homes introduces uncertainty for family offices - CNBC
 - Rare earths magnets: How realistic are India's its ambitions? - BBC
-- Smart Glasses for OnlyFans Live Streaming Have Arrived - Gizmodo
+- Cédric Durand, After AI — Sidecar - New Left Review
+- Ford’s New Bronco Promises Real Off-Road Chops Without the Raptor Price Tag - Gear Patrol
+- iOS 26.3 Update Set To Improve Hundreds Of Millions Of iPhones - Forbes
 - An earthquake on a chip: New tech could make smartphones smaller, faster - Tech Xplore
-- Google is exploring a much better way to build batteries into phones - Android Authority
-- Ford Mustang Dark Horse SC Revealed: A Sinister Supercharged Pony Car - Motor1.com
-- Star Wars Shake-Up: Kathleen Kennedy Steps Down as George Lucas Protégé Dave Filoni, Exec Lynwen Brennan Take Over Lucasfilm - The Hollywood Reporter
-- Horoscope for Friday, January 16, 2026 - Chicago Sun-Times
+- Samsung reportedly ‘rushing’ Galaxy S26+ that’s virtually unchanged - 9to5Google
