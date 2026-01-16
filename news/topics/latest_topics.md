@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 20:56_
+_Updated: 2026-01-16 21:39_
 
 ## Top Stories
 
+- Shahens son: Regimen i Iran kommer att falla - Dagens Nyheter
 - Polisen: Inget farligt ämne i brevet till socialförvaltningen - SVT Nyheter
+- Vita huset: Målet är fortsatt att ta över Grönland - Hufvudstadsbladet
 - William Suso, 24, greps på Arlanda - Expressen
 - Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
-- Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
-- WIDAR ANDERSSON: Vanligt folks villkor i fokus: S och SD överens om reformbehov - NT
-- Gul varning för ishalka – skolbussar ställs in - Expressen
+- Mamma döms – låste in barn i hundbur - Expressen
 - Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
-- Västsvensk gripen på Arlanda – deporterades från Dubai - GP
-- Ambulanser kom inte fram till skadade i snökaoset: ”Noll fäste” - Dagens Nyheter
 - Man död efter frontalkrock i Helsingborg - SVT Nyheter
-- Kanadas premiärminister Carney: Kina mer pålitlig partner än USA - Yle
+- Blåljuspersonal kom inte fram till skadade: ”Noll fäste” - Dagens Nyheter
+- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
+- Kanada köper kinesiska elbilar enligt nytt avtal - Omni
+- Så blev ”cigarettflickan” en symbol för Iranprotesterna - Dagens Nyheter
+- Zelenskyj utropar nödläge i strömlöst Kiev - Aftonbladet
 - Uppgifter: Kadyrovs son i allvarlig olycka - Expressen
-- Skadad man anträffad på Södermalm – stor insats - Expressen
-- Dolda förklaringarna bakom USA:s agerande - EFN
 - Iphone kan hotas – för första gången - SvD
-- Anställer ingenjörer – överallt: ”Mer tekniska” - SvD
+- Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
 - Uppgifter: Trump vill att tech-jättarna ska betala elnota - Omni Ekonomi
-- CES: Lys upp din swimmingpool med en fontän. Arivia är mobila fontändrönare. - feber.se
+- Reza, 35, skapade julmust för muslimska högtiden: ”För alla” - Expressen
 - Ignorera inte detta – Android-buggen som kan ge hackare åtkomst - Dagens.se
 - Uppgifter: Apple filar på ny modell av Pro Display XDR - Macworld.se
 
@@ -52,11 +52,12 @@ _Updated: 2026-01-16 20:56_
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -69,7 +70,6 @@ _Updated: 2026-01-16 20:56_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -109,13 +109,13 @@ _Updated: 2026-01-16 20:56_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
