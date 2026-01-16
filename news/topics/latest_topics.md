@@ -1,42 +1,44 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 11:48_
+_Updated: 2026-01-16 12:50_
 
 ## Top Stories
 
+- Här tar Trump emot ”fredspriset” - GP
+- L-kängan mot SD och M: Livsfarligt för Sverige - SvD
 - Thand Ringqvist (C) sågar S viktigaste valfråga: ”Det är att höja skatter”. - GP
 - ”Vi får driva lite med amerikanerna” - Dagens Nyheter
-- Brandbomb i Malmö kopplas till våg av attentat - Omni
-- Trump: ”Fredsstyrelsen” i Gaza är klar - Omni
-- Pojke som skadades allvarligt i snöolycka har avlidit - Sundsvalls Tidning
-- Nödläge utlyst i Kyjiv och energisektorn när -20ºC väntas i en vecka - cornucopia.se
+- Sanktioner mot fler personer från Iran - GP
+- Gul varning för ishalka – skolbussar ställs in - Expressen
+- DN Direkt – Misstänkt i Rönninge sökte hjälp – dröjde ett år - Dagens Nyheter
 - Gränsstadens kamp mot knarket: ”Nyttjar gränsen som skydd” - Dagens Nyheter
 - Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
 - Lastbil i diket blockerar E4 vid Hagsta - SVT Nyheter
-- Många inställda tåg i norr - Järnvägar.nu
 - Man misstänks för våldtäkt i Stockholm - Expressen
-- DN Direkt – Man misstänkt dödad av vakter i ICE-läger - Dagens Nyheter
-- USA-ambassadör skämtade om att ta över Island - Expressen
-- Spänningen mellan Iran och USA avtar – Ambassadör: Trump har meddelat Iran att man inte kommer att attackera - Yle
+- DDR-tiden stryks som obligatoriskt ämne i Berlin - Sydsvenskan
+- Här skjuts ännu en person av ICE - ny våg av protester i Minnesota - Dagens Nyheter
+- Dolda förklaringarna bakom USA:s agerande - EFN
 - Så blir din privatekonomi 2026 - Dagens Nyheter
 - Bankjättens vd varnar: ”En enorm mängd risk” - DI
 - Mysteriet: Därför är norska kronan så svag - SvD
 - Iphone kan hotas – för första gången - SvD
-- Svart hål ströp galax långsamt till döds - Dagens Nyheter
 - Miljoner hörlurar öppna för spårning och avlyssning - Computer Sweden
+- Svart hål ströp galax långsamt till döds - Dagens Nyheter
 
 ## World News
 
 - Sojasåsgigant på global förvärvsjakt - DI
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -44,32 +46,30 @@ _Updated: 2026-01-16 11:48_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -85,14 +85,14 @@ _Updated: 2026-01-16 11:48_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -110,19 +110,18 @@ _Updated: 2026-01-16 11:48_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -133,11 +132,12 @@ _Updated: 2026-01-16 11:48_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
@@ -152,8 +152,8 @@ _Updated: 2026-01-16 11:48_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
