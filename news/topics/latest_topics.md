@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 05:51_
+_Updated: 2026-01-16 06:57_
 
 ## Top Stories
 
+- Trump tackar Machado för Nobelmedalj - Hufvudstadsbladet
+- Uppsalabon Stella kämpar för Iran: "En extrem oro" - UNT
 - DN Direkt – Senatorer från USA träffar Danmarks statsminister - Dagens Nyheter
-- ”Irans många folk kräver frihet” - Västerbottens-Kuriren
-- Pojken som skadades i snöolyckan har dött - Aftonbladet
-- SD begär att Katja Nyberg entledigas från flera uppdrag - TV4 Nyheterna
-- SMHI varnar för blixthalka – 42 mil långt isbälte korsar landet - Expressen
-- Sveriges ÖB: Grönlandskrisen gynnar Ryssland - Dagens Nyheter
+- Trump: ”Fredsstyrelsen” i Gaza är klar - Omni
+- SD begär att Nyberg lämnar flera uppdrag - Altinget.se
+- Lägesuppdatering Grönland 2026015 - cornucopia.se
+- SMHI varnar för ishalka - GP
 - 15 januari 21.03, Trafikolycka, vilt, Västerbottens län - polisen.se
 - Ny lag stärker cybersäkerheten - Regeringen.se
 - Detta borde de flesta se som en bra sak - SvD
-- Efter köldknäppen – 23 Västtrafikbussar har frusit sönder - GP
-- Trump: Gazas ”fredsstyrelse” klar - SvD
-- Finland skickar två officerare till Grönland – operationen signalerar till USA att hålla sig borta, tror USA-kännare - Yle
+- Dolda förklaringarna bakom USA:s agerande - EFN
+- Uppgifter: Netanyahu uppmanade Trump att vänta - Expressen
+- USA: Vi har beslagtagit ny oljetanker - Aftonbladet
 - Kraftig explosion skakade nederländska Utrecht - Aftonbladet
-- Därför bemöter Irans grannländer upproret med tystnad - Dagens Nyheter
+- Så blir din privatekonomi 2026 - Dagens Nyheter
 - Svantesson backar upp Fed-chefen: ”En cocktail som är riktigt dålig” - DI
-- Bunge: Gott utgångsläge i en föränderlig värld - Sveriges Riksbank
 - Paradoxen med iskall bil på vintern: ”Känslig fråga” - Carup.se
 - Bankens svar: ”Gör allt vi kan för att hjälpa” - Aftonbladet
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
@@ -55,8 +55,8 @@ _Updated: 2026-01-16 05:51_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -74,25 +74,25 @@ _Updated: 2026-01-16 05:51_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
