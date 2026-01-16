@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 16:50_
+_Updated: 2026-01-16 17:47_
 
 ## Top Stories
 
 - Man gripen på Arlanda – deporterades från Dubai - SVT Nyheter
-- DN Direkt – Trumps sändebud planerar besök till Grönland - Dagens Nyheter
 - Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
-- Sparkonsulterna gör välfärdens personal sjuk - Arbetet
+- Ljungbymamman döms – låste in och misshandlade sina barn - Aftonbladet
+- Polisen: Inget farligt ämne i brevet till socialförvaltningen - SVT Nyheter
 - HR-direktören försvarar kritiserade snöbeslutet - GP
-- Svantesson skiljer sig efter 38 år - Aftonbladet
+- Protesterna i Iran avtar - Västerbottens-Kuriren
 - Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
 - SL:s reklamkampanj sågas: ”Hånfullt sätt att se på sina resenärer” - Dagens Nyheter
+- Misstänkt i Rönninge sökte hjälp – dröjde ett år - Västerbottens-Kuriren
 - SMHI utvidgar varning för plötslig ishalka - SVT Nyheter
-- Mördare hittad död i häktet i Ystad – dagen efter avslutad rättegång - Expressen
-- Han är mannen bakom protestkepsen - Hufvudstadsbladet
-- Protesterna i Iran avtar - GP
-- Machado: Erbjöd Trump min fredsprismedalj - SVT Nyheter
-- Ljungbymamman döms – låste in och misshandlade sina barn - Aftonbladet
+- Zelenskyj utropar nödläge i strömlöst Kiev - Aftonbladet
+- Skadad man anträffad på Södermalm – stor insats - Expressen
+- Dolda förklaringarna bakom USA:s agerande - EFN
+- Medvedev om Trumps Grönlandsplaner – hånar Europa - TV4 Nyheterna
+- Bråse sålde sista Betsson-aktierna på morgonen – sedan kom vinstvarningen - DI
 - Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
-- Svantesson om Trump: ”Vet inte vad han kommer att göra i morgon” - Aftonbladet
-- Svaga siffror från Daimler Truck och Porsche pressar fordonsjättar - DI
-- Alfred Wahlforss AI-bolag Listen Labs värt miljarder – sågar branschen: ”full av bedrägerier” - SvD
+- Anställer ingenjörer – överallt: ”Mer tekniska” - SvD
+- Loomis fortsatt köpvärd enligt Affärsvärlden - Affärsvärlden
 - Raspberry Pi:s nya AI-hatt kan köra AI-modeller lokalt - Computer Sweden
-- Miljoner hörlurar öppna för spårning och avlyssning - Computer Sweden
+- RTX 5070 Ti påstås gå i graven och drar RTX 5060 Ti 16GB med sig - SweClockers
 
 ## World News
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-16 16:50_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Johan von Schreeb - Karolinska Institutet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
