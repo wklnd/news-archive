@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 21:39_
+_Updated: 2026-01-16 22:44_
 
 ## Top Stories
 
 - Shahens son: Regimen i Iran kommer att falla - Dagens Nyheter
 - Polisen: Inget farligt ämne i brevet till socialförvaltningen - SVT Nyheter
+- Bedragarnas nya metod: Slår till på restaurangen - GP
 - Vita huset: Målet är fortsatt att ta över Grönland - Hufvudstadsbladet
 - William Suso, 24, greps på Arlanda - Expressen
-- Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
-- Mamma döms – låste in barn i hundbur - Expressen
+- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
 - Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
 - Man död efter frontalkrock i Helsingborg - SVT Nyheter
-- Blåljuspersonal kom inte fram till skadade: ”Noll fäste” - Dagens Nyheter
+- Ambulanser kom inte fram till skadade i snökaoset: ”Noll fäste” - Dagens Nyheter
 - Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
-- Kanada köper kinesiska elbilar enligt nytt avtal - Omni
-- Så blev ”cigarettflickan” en symbol för Iranprotesterna - Dagens Nyheter
-- Zelenskyj utropar nödläge i strömlöst Kiev - Aftonbladet
-- Uppgifter: Kadyrovs son i allvarlig olycka - Expressen
-- Iphone kan hotas – för första gången - SvD
+- Analyser: Carneys besök visar kostnaden av Trumps taktik - Omni
+- Uppgifter: Kadyrovs son i svår trafikolycka - Expressen
+- Dolda förklaringarna bakom USA:s agerande - EFN
+- Ung man rånad i stockholmsgalleria - Expressen
+- Många kontaktar oss om sin återbetalning - CSN
+- Svantesson om Trump: ”Vet inte vad han kommer att göra i morgon” - Aftonbladet
 - Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
-- Uppgifter: Trump vill att tech-jättarna ska betala elnota - Omni Ekonomi
-- Reza, 35, skapade julmust för muslimska högtiden: ”För alla” - Expressen
-- Ignorera inte detta – Android-buggen som kan ge hackare åtkomst - Dagens.se
-- Uppgifter: Apple filar på ny modell av Pro Display XDR - Macworld.se
+- Iphone kan hotas – för första gången - SvD
+- Det ska du göra DIREKT om du har trådlösa lurar - Aftonbladet
+- Ska du gå på musikfestival i år? Dagens kulturfråga. - feber.se
 
 ## World News
 
@@ -37,6 +37,7 @@ _Updated: 2026-01-16 21:39_
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -44,7 +45,6 @@ _Updated: 2026-01-16 21:39_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Saks Global riskerar konkurs efter missad räntebetalning - Market.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -53,13 +53,12 @@ _Updated: 2026-01-16 21:39_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-01-16 21:39_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -109,13 +109,13 @@ _Updated: 2026-01-16 21:39_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
