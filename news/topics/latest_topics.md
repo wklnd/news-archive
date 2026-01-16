@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 10:53_
+_Updated: 2026-01-16 11:48_
 
 ## Top Stories
 
 - Thand Ringqvist (C) sågar S viktigaste valfråga: ”Det är att höja skatter”. - GP
-- Brandbomb i Bunkeflostrand knyts till pågående våldsvåg - Sydsvenskan
 - ”Vi får driva lite med amerikanerna” - Dagens Nyheter
-- JUST NU: Ung kvinna till sjukhus – en kvar i bilen efter frontalkrock: ”Lyftas ut på bår” - NWT
-- Uppsalabon Stella kämpar för Iran: "En extrem oro" - UNT
+- Brandbomb i Malmö kopplas till våg av attentat - Omni
+- Trump: ”Fredsstyrelsen” i Gaza är klar - Omni
+- Pojke som skadades allvarligt i snöolycka har avlidit - Sundsvalls Tidning
+- Nödläge utlyst i Kyjiv och energisektorn när -20ºC väntas i en vecka - cornucopia.se
 - Gränsstadens kamp mot knarket: ”Nyttjar gränsen som skydd” - Dagens Nyheter
 - Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
 - Lastbil i diket blockerar E4 vid Hagsta - SVT Nyheter
-- Skärpta krav på verksamhetsutövare när ny cybersäkerhetslag börjar gälla - Länsstyrelsen
-- 16 januari 07.11, Sammanfattning natt, Östergötlands län - polisen.se
-- Här skjuts ännu en person av ICE - ny våg av protester i Minnesota - Dagens Nyheter
-- Dolda förklaringarna bakom USA:s agerande - EFN
+- Många inställda tåg i norr - Järnvägar.nu
+- Man misstänks för våldtäkt i Stockholm - Expressen
+- DN Direkt – Man misstänkt dödad av vakter i ICE-läger - Dagens Nyheter
 - USA-ambassadör skämtade om att ta över Island - Expressen
-- Trump i fokus: Här är fem av presidentens pågående konflikter - Aftonbladet
+- Spänningen mellan Iran och USA avtar – Ambassadör: Trump har meddelat Iran att man inte kommer att attackera - Yle
+- Så blir din privatekonomi 2026 - Dagens Nyheter
 - Bankjättens vd varnar: ”En enorm mängd risk” - DI
-- Iphone kan hotas – för första gången - SvD
 - Mysteriet: Därför är norska kronan så svag - SvD
-- OpenAI satsar miljarder – på Sam Altmans egna startup - Breakit
+- Iphone kan hotas – för första gången - SvD
 - Svart hål ströp galax långsamt till döds - Dagens Nyheter
-- iPhone 17e ryktas komma med Dynamic Island - Teknikveckan
+- Miljoner hörlurar öppna för spårning och avlyssning - Computer Sweden
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sojasåsgigant på global förvärvsjakt - DI
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Annual Report 2024 - Olof Palme International Center
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Saks Global riskerar konkurs efter missad räntebetalning - Market.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -142,13 +142,13 @@ _Updated: 2026-01-16 10:53_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -159,6 +159,6 @@ _Updated: 2026-01-16 10:53_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
