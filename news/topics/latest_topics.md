@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 00:46_
+_Updated: 2026-01-17 01:42_
 
 ## Top Stories
 
-- Kurdiska blir officiellt språk i Syrien – samtidigt retirerar kurdiska styrkor österut - SVT Nyheter
-- Shahens son: Regimen i Iran kommer att falla - Dagens Nyheter
+- Vita huset: Rubio och Blair i Gazas fredsråd - GP
+- Trump tackar Iran för att människor inte hängs - Omni
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Här blir småbarnspappan bortförd – sambon hann filma gärningsmännen - Sydsvenskan
 - Stora vattenkaoset på Gotland: ”Förbannad” - Expressen
-- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
-- Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
+- Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
+- Elisabet Andersson: Nya Nobel Center bättre på flera sätt | Elisabet Andersson - SvD
 - Man död efter frontalkrock i Helsingborg - SVT Nyheter
-- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
+- Polisen: Inget farligt ämne i brevet till socialförvaltningen - SVT Nyheter
 - 27-åring döms för styckmord på kollega i Oskarshamn - SVT Nyheter
-- Uppgifter: Ugandas oppositionsledare bortförd i helikopter - SVT Nyheter
-- DN Direkt – Ida-Lova vann årets låt på P3 Guld - Dagens Nyheter
-- Så blev ”cigarettflickan” en symbol för Iranprotesterna - Dagens Nyheter
-- Dolda förklaringarna bakom USA:s agerande - EFN
-- Många kontaktar oss om sin återbetalning - CSN
+- Kurdiska blir officiellt språk i Syrien - Sydsvenskan
+- Erik Esbjörnsson: Uganda får snart sin första nya president på 40 år - Dagens Nyheter
+- Kurdiska blir officiellt språk i Syrien – samtidigt retirerar kurdiska styrkor österut - SVT Nyheter
+- William Suso, 24, gripen – flytt från polisen i flera år - Aftonbladet
 - Triss i bakslag för Trump – grönt ljus för vindkraftsprojekt - DI
-- Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
-- Svantesson om Trump: ”Vet inte vad han kommer att göra i morgon” - Aftonbladet
+- Många kontaktar oss om sin återbetalning - CSN
+- Novo Nordisk Fonden satsar 5,5 miljarder DKK för att stärka innovation i Europa - Biostock
+- Stark avslutning för matbutikerna – här är heta säljsiffran - Market.se
 - Det ska du göra DIREKT om du har trådlösa lurar - Aftonbladet
 - Ska du gå på musikfestival i år? Dagens kulturfråga. - feber.se
+- Avslöjar super-Mustang: Får V8 på över 700 hk - Carup.se
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2026-01-17 00:46_
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-17 00:46_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
@@ -160,5 +160,5 @@ _Updated: 2026-01-17 00:46_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
