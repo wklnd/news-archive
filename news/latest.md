@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-16 17:53_
+_Updated: 2026-01-16 18:59_
 
-- China and Canada announce tariffs relief after a high-stakes meeting - BBC
+- CNN poll finds majority of Americans say Trump is focused on the wrong priorities - CNN
 - C.I.A. Director Meets With Venezuela’s Interim President in Caracas - The New York Times
-- Why access to Venezuela’s ‘heavy’ oil is ‘tremendous’ news for US refiners - Al Jazeera
+- China and Canada announce tariffs relief after a high-stakes meeting - BBC
+- Trump Cabinet secretaries conspired to violate Constitution, judge says - The Washington Post
 - RFK Jr. Says He’s Ending the War on Protein. It Doesn’t Exist - WIRED
-- Stand-alone Grok app still undresses women after X curtails access to tool - The Washington Post
+- Why access to Venezuela’s ‘heavy’ oil is ‘tremendous’ news for US refiners - Al Jazeera
 - ‘Dumbest thing I’ve ever heard’: Republicans amp up their resistance to Trump’s Greenland push - Politico
 - Machado presents her Nobel award to Trump, prompting incredulity in Norway - CNBC
-- CNN poll finds majority of Americans say Trump is focused on the wrong priorities - CNN
 - University of Arkansas Withdraws Job Offer for Emily Suski Over Transgender Stance - The New York Times
-- Cumberland County DA cancels news conference on ICE activity after state court concern - Portland Press Herald - Maine Sunday Telegram
+- Trump floats new tariffs in push to acquire Greenland - CNBC
 - 'We'd been on high alert' - How Jenrick's dramatic defection unfolded - BBC
-- ‘An attempt to break people’: Bucha holds out amid Russia’s weaponisation of winter - The Guardian
-- Mummified cheetahs found in Saudi caves shed light on lost populations - AP News
+- Ashley St Clair, mother of Elon Musk's child, sues xAI over Grok deepfakes - BBC
+- Ukraine substation fire leaves city without power in freezing temperatures - BBC
 - Trump is making the world fall in love with China - Financial Times
-- Trump to Unveil 401(k) Home Investment Plan at Davos Next Week - Bloomberg.com
-- S&P 500 ticks lower after Trump signals Hassett may not be pick for new Fed chair: Live updates - CNBC
+- S&P 500 seesaws after Trump signals Hassett may not be pick for new Fed chair: Live updates - CNBC
+- Trump's proposed ban on buying single-family homes introduces uncertainty for family offices - CNBC
 - Hottest Credit Markets Since 2007 Spur Warnings on Complacency - Bloomberg.com
-- Trump’s affordability pledge strikes directly at the heart of Wall Street’s profit engine - CNN
+- Inside OpenAI’s Raid on Thinking Machines Lab - WIRED
+- Apple's iPhone 18 Pro & iPhone Fold specs detailed in report - AppleInsider
 - Google is finally copying this Apple Watch feature for its Pixel Watch - Android Authority
-- Google is exploring a much better way to build batteries into phones - Android Authority
