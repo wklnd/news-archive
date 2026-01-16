@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 09:45_
+_Updated: 2026-01-16 10:53_
 
 ## Top Stories
 
-- Expert: Osannolikt att Irans regim faller - Dagens Nyheter
-- Gränsstadens kamp mot knarket: ”Nyttjar gränsen som skydd” - Dagens Nyheter
 - Thand Ringqvist (C) sågar S viktigaste valfråga: ”Det är att höja skatter”. - GP
 - Brandbomb i Bunkeflostrand knyts till pågående våldsvåg - Sydsvenskan
-- Vilma Andersson sökte vård för sexuella impulser - Omni
+- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
+- JUST NU: Ung kvinna till sjukhus – en kvar i bilen efter frontalkrock: ”Lyftas ut på bår” - NWT
+- Uppsalabon Stella kämpar för Iran: "En extrem oro" - UNT
+- Gränsstadens kamp mot knarket: ”Nyttjar gränsen som skydd” - Dagens Nyheter
 - Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
 - Lastbil i diket blockerar E4 vid Hagsta - SVT Nyheter
-- JUST NU: Här ställs all busstrafik in på grund av ishalka: ”Mycket halt väglag” - NWT
-- Väderkaos skapar mardröm för sophämtarna: ”Värsta tänkbara” - NWT
+- Skärpta krav på verksamhetsutövare när ny cybersäkerhetslag börjar gälla - Länsstyrelsen
 - 16 januari 07.11, Sammanfattning natt, Östergötlands län - polisen.se
-- DDR-tiden stryks som obligatoriskt ämne i Berlin - Sydsvenskan
 - Här skjuts ännu en person av ICE - ny våg av protester i Minnesota - Dagens Nyheter
 - Dolda förklaringarna bakom USA:s agerande - EFN
 - USA-ambassadör skämtade om att ta över Island - Expressen
+- Trump i fokus: Här är fem av presidentens pågående konflikter - Aftonbladet
 - Bankjättens vd varnar: ”En enorm mängd risk” - DI
 - Iphone kan hotas – för första gången - SvD
 - Mysteriet: Därför är norska kronan så svag - SvD
-- Så blir din privatekonomi 2026 - Dagens Nyheter
+- OpenAI satsar miljarder – på Sam Altmans egna startup - Breakit
 - Svart hål ströp galax långsamt till döds - Dagens Nyheter
-- Efter mångmiljonsatsningen – ny vd på Umeåföretaget - Folkbladet
+- iPhone 17e ryktas komma med Dynamic Island - Teknikveckan
 
 ## World News
 
@@ -51,13 +51,14 @@ _Updated: 2026-01-16 09:45_
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -69,14 +70,13 @@ _Updated: 2026-01-16 09:45_
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -85,14 +85,14 @@ _Updated: 2026-01-16 09:45_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -135,20 +135,20 @@ _Updated: 2026-01-16 09:45_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -160,5 +160,5 @@ _Updated: 2026-01-16 09:45_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
