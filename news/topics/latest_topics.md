@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 01:42_
+_Updated: 2026-01-16 04:33_
 
 ## Top Stories
 
 - DN Direkt – Senatorer från USA träffar Danmarks statsminister - Dagens Nyheter
 - Expert: Osannolikt att Irans regim faller - Dagens Nyheter
-- Machado: Erbjöd Trump min fredsprismedalj - SVT Nyheter
-- 15 januari 12.56, Kontroll, Växjö - polisen.se
-- Efter 10 000 klagomål – snöröjare riskerar vite - Dagens Nyheter
-- Halt i Västsverige – flera busslinjer indragna - GP
-- Peter Alestig: Så blev värmepumpar ett politiskt slagträ - Dagens Nyheter
-- DN Direkt – Anföll kvinna på vårdboende – ung man åtalas - Dagens Nyheter
-- Ny lag stärker cybersäkerheten - Regeringen.se
+- Pojken som skadades i snöolyckan har dött - Aftonbladet
+- SD begär att Katja Nyberg entledigas från flera uppdrag - TV4 Nyheterna
+- Svenskarnas upptäckt – i magen på grottvarg - Expressen
 - Detta borde de flesta se som en bra sak - SvD
-- Första franska soldaterna har kommit till Grönland - Omni
-- Polisen i Stockholm flaggar på halv stång - Expressen
-- Dolda förklaringarna bakom USA:s agerande - EFN
-- Vad händer med tarmfloran på vägen mot Mars? - Dagens Nyheter
-- Iphone kan hotas – för första gången - SvD
-- Lista: Guld- och silverbolagen som lyser starkast på börsen - Affärsvärlden
+- 15 januari 21.03, Trafikolycka, vilt, Västerbottens län - polisen.se
+- Ny lag stärker cybersäkerheten - Regeringen.se
+- Efter köldknäppen – 23 Västtrafikbussar har frusit sönder - GP
+- Efter olyckan – flera varnar för snöhögar - Expressen
+- Kvinnan blev dragen i håret – högg sambon i huvudet - Expressen
+- Kraftig explosion skakade nederländska Utrecht - Aftonbladet
+- Därför bemöter Irans grannländer upproret med tystnad - Dagens Nyheter
+- Franskt konsulat på Grönland – redan i februari - GP
 - Svantesson backar upp Fed-chefen: ”En cocktail som är riktigt dålig” - DI
+- Paradoxen med iskall bil på vintern: ”Känslig fråga” - Carup.se
 - Bankens svar: ”Gör allt vi kan för att hjälpa” - Aftonbladet
+- Stopp för sexuella bilder - 8 Sidor
 - Ricoh GR IV Monochrome – Specialversion för gatufotograferande purister - Fotosidan
 - Kungen av rock ’n’ roll inom generation W - Notified
 
@@ -32,8 +32,8 @@ _Updated: 2026-01-16 01:42_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -55,10 +55,9 @@ _Updated: 2026-01-16 01:42_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-01-16 01:42_
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
 - Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,19 +80,19 @@ _Updated: 2026-01-16 01:42_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 
 ## Health
 
@@ -119,8 +119,10 @@ _Updated: 2026-01-16 01:42_
 
 ## Science
 
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -128,7 +130,6 @@ _Updated: 2026-01-16 01:42_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -138,7 +139,6 @@ _Updated: 2026-01-16 01:42_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2026-01-16 01:42_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
