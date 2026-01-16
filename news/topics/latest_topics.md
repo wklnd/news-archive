@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-16 17:47_
+_Updated: 2026-01-16 18:54_
 
 ## Top Stories
 
-- Man gripen på Arlanda – deporterades från Dubai - SVT Nyheter
+- Trumps hot: Tullar för länder som går emot planen för Grönland - SVT Nyheter
+- Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
+- Hennes långfinger till Trump – en svensk påminnelse om världskriget - Sydsvenskan
+- ”Vi får driva lite med amerikanerna” - Dagens Nyheter
 - Morteza Mirzayi, 27, döms för styckmord på kollegan - Aftonbladet
-- Ljungbymamman döms – låste in och misshandlade sina barn - Aftonbladet
-- Polisen: Inget farligt ämne i brevet till socialförvaltningen - SVT Nyheter
 - HR-direktören försvarar kritiserade snöbeslutet - GP
-- Protesterna i Iran avtar - Västerbottens-Kuriren
-- Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
+- Man död efter frontalkrock i Helsingborg - SVT Nyheter
+- Blåljuspersonal kom inte fram till skadade: ”Noll fäste” - Dagens Nyheter
 - SL:s reklamkampanj sågas: ”Hånfullt sätt att se på sina resenärer” - Dagens Nyheter
-- Misstänkt i Rönninge sökte hjälp – dröjde ett år - Västerbottens-Kuriren
-- SMHI utvidgar varning för plötslig ishalka - SVT Nyheter
+- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
 - Zelenskyj utropar nödläge i strömlöst Kiev - Aftonbladet
-- Skadad man anträffad på Södermalm – stor insats - Expressen
+- Här skjuts ännu en person av ICE - ny våg av protester i Minnesota - Dagens Nyheter
 - Dolda förklaringarna bakom USA:s agerande - EFN
-- Medvedev om Trumps Grönlandsplaner – hånar Europa - TV4 Nyheterna
+- Ukraina vinner mark – enorma ryska dödstal - Expressen
 - Bråse sålde sista Betsson-aktierna på morgonen – sedan kom vinstvarningen - DI
-- Här är yrkesprogrammen som ger högst lön - Dagens Nyheter
 - Anställer ingenjörer – överallt: ”Mer tekniska” - SvD
-- Loomis fortsatt köpvärd enligt Affärsvärlden - Affärsvärlden
-- Raspberry Pi:s nya AI-hatt kan köra AI-modeller lokalt - Computer Sweden
-- RTX 5070 Ti påstås gå i graven och drar RTX 5060 Ti 16GB med sig - SweClockers
+- Uppgifter: Trump vill att tech-jättarna ska betala elnota - Omni Ekonomi
+- Inflationen kom in som väntat - Placera.se
+- Svart hål ströp galax långsamt till döds - Dagens Nyheter
+- Uppgifter: Apple filar på ny modell av Pro Display XDR - Macworld.se
 
 ## World News
 
@@ -52,12 +52,13 @@ _Updated: 2026-01-16 17:47_
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-01-16 17:47_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 - Milliarden-Markt Industrie-KI: Künstliche Intelligenz als Industriewerkzeug – Wenn Produktionshallen intelligent werden - Xpert.Digital - Konrad Wolfenstein
-- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -102,43 +102,43 @@ _Updated: 2026-01-16 17:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
