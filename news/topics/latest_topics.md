@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 15:45_
+_Updated: 2026-01-17 16:43_
 
 ## Top Stories
 
-- Renee Nicole Good hade minst tre skottskador - Dagens Nyheter
 - Vita huset: Rubio och Blair i Gazas fredsråd - Dagens Nyheter
-- ”Amed” vet inget om familjen i Iran: ”Kan vara var som helst” - Dalslänningen
-- Ekonomen: ”Globalt handelskrig hotar” - SvD
-- Hälften av elen borta – uppmanas lämna Kiev - SvD
-- Regimens hemliga plan: Total digital isolering - Hufvudstadsbladet
-- Efter dödsfall på skola – kommunen förbjuder lek i snögrottor: ”Klart att det lockar” - NWT
-- Bil i vattnet på Rörö - GP
-- Högsäterbon Azita har inte pratat med familjen i Iran – på elva dagar - Dalslänningen
-- 17 januari 07.48, Sammanfattning natt, Jämtlands län - Polisen.se
+- Så agerar Ö-viks kommun efter dödsolyckan - Allehanda.se
+- Danmark bjuder USA till grönländsk övning - Västerbottens-Kuriren
+- Federal domare begränsar ICE – protester fortsätter i Minneapolis - SVT Nyheter
+- Museveni vinner – oppositionsledare har flytt - GP
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
-- Flygplan med europeiska soldater strömmar till Grönland - Dagens Nyheter
+- Bil i vattnet på Rörö - GP
+- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
+- Högsäterbon Azita har inte pratat med familjen i Iran – på elva dagar - Dalslänningen
+- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
+- Renee Nicole Good hade minst tre skottskador - Dagens Nyheter
+- Amanda, 42, attackerades av hund – fick amputera - Expressen
 - Mercosur – avtalet som kan spränga hela EU - Aftonbladet
+- Ryssland och Ukraina överens om vapenvila vid kärnkraftverket - Expressen
 - Stor norsk försvarsorder till svenska bolaget - Dagens PS
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
-- Trump obligationsdrag mitt i Netflix jätteaffär - DI
+- DN Direkt – Senatorerna: Vi söker väg framåt med Danmark och Grönland - Dagens Nyheter
 - Förslag: Lättare få veta kollegornas löner - Skånska Dagbladet
 - Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
 - CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
@@ -36,7 +36,9 @@ _Updated: 2026-01-17 15:45_
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -44,9 +46,7 @@ _Updated: 2026-01-17 15:45_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-17 15:45_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
