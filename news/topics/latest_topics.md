@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 10:49_
+_Updated: 2026-01-17 11:41_
 
 ## Top Stories
 
-- Uppgifter: Ugandas oppositionsledare bortförd i helikopter - SVT Nyheter
-- Storsatsar på Grönland: ”Blir massiv spelare” - SvD
-- ”Amed” vet inget om familjen i Iran: ”Kan vara var som helst” - Dalslänningen
-- Vita huset: Rubio och Blair i Gazas fredsråd - GP
+- Vita huset: Rubio och Blair i Gazas fredsråd - Dagens Nyheter
+- Bil i vattnet på Rörö - GP
+- Danmark bjuder USA till grönländsk övning - Västerbottens-Kuriren
 - Han hjälper Trumpväljare att hoppa av MAGA-rörelsen - Dagens Nyheter
-- Gunnar Strömmer: Sexbrottslingar ska kunna dömas till livstid - Dagens Nyheter
+- Storsatsar på Grönland: ”Blir massiv spelare” - SvD
+- Iran slår ut Starlink med större framgång än vad Ryssland har klarat - NyTeknik
 - 17 januari 07.48, Sammanfattning natt, Jämtlands län - Polisen.se
 - 17 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
+- SKR:s ordförande om minutstyrningen: En modell ingen tycker om - Aftonbladet
 - Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
-- Internationell liga åtalas för stölder av Dodge RAM pickups - Aftonbladet
-- Flygplan med europeiska soldater strömmar till Grönland - Dagens Nyheter
+- Federal domare begränsar ICE – protester fortsätter i Minneapolis - SVT Nyheter
 - Analys: Har Trump blivit galen? Nej, det här borde vi ha sett komma - Yle
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Iran slår ut Starlink med större framgång än vad Ryssland har klarat - NyTeknik
+- Presidentkandidaten Bobi Wine bortförd av militärhelikopter i Uganda - Aftonbladet
 - Jonas Fröberg: Här är biltrenderna och nya modellerna du inte får missa - Dagens Nyheter
+- Biltema i blåsväder: "Sätter munkavle på oss" - Dagens PS
 - Elbilen som ska bli billigast i Europa - Dagens Nyheter
-- Europeiska försvarsaktier stiger på risk för krig – är de fortfarande köpvärda? - Morningstar Canada
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
 - Har du dumpat din Sonos-högtalare? Se till att nästa köp har den här avgörande funktionen - TechRadar
 - Farväl billiga OLED-TV-apparater – nu tar RGB mini-LED och ”tapet-OLED” över - TechRadar
@@ -60,7 +60,6 @@ _Updated: 2026-01-17 10:49_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-01-17 10:49_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,6 +101,8 @@ _Updated: 2026-01-17 10:49_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -108,14 +110,12 @@ _Updated: 2026-01-17 10:49_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-17 10:49_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
