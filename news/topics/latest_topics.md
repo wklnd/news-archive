@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 00:43_
+_Updated: 2026-01-18 01:41_
 
 ## Top Stories
 
-- Nathan Shachar: USA kör över Israel och Hamas om Gazas styre - Dagens Nyheter
-- LEDARE: Låt inte Nobel förfula Sveriges huvudstad - Kristianstadsbladet
+- Omvärldens reaktioner efter Donald Trumps tullbesked i Grönlandsfrågan - SVT Nyheter
 - Rapporten: Bättre i Sollefteå än Östersund - Östersunds-Posten
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Luna tassar förbi Sigge i kattoppen - Aftonbladet
-- Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
+- LEDARE: Låt inte Nobel förfula Sveriges huvudstad - Kristianstadsbladet
+- Lodjursjakten 2026 – tilldelningen hittills - Jakt & Jägare
+- Värnpliktiga förfrös tårna under övning - Aftonbladet
+- Mercosur – avtalet som kan spränga hela EU - Aftonbladet
 - Vattenläcka i Skarphäll påverkar stora delar av Visby - SVT Nyheter
 - Bil i vattnet på Rörö - GP
-- Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
+- Flera viltolyckor i kväll - Västerbottens-Kuriren
 - 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
-- Sågar Trumps besatthet av Grönland: ”Dummaste jag någonsin hört” - Dagens Nyheter
-- Omkörning urartade i slagsmål - Expressen
-- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
-- Plan försvunnet i Indonesien - Expressen
+- Syriens armé i offensiv mot kurdiska fästen - Aftonbladet
+- Machado gav Trump sin fredsprismedalj - SvD
+- Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
+- Iran slår ut Starlink med större framgång än vad Ryssland har klarat - NyTeknik
 - Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
 - Trump obligationsdrag mitt i Netflix jätteaffär - DI
 - Körde med halva vindrutan täckt av snö – nu åtalas bilföraren - Mariestads-Tidningen
 - IVAB gasade i lågkonjunkturen – förändringen har blivit en del av företagets DNA - svenskbyggtidning -
 - Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
-- CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
+- Google Maps gör om en av sina viktigaste funktioner – så märker du förändringen direkt - Dagens.se
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
 - Sojasåsgigant på global förvärvsjakt - DI
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Handelsbanken lanserar ny global indexfond - Cision News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -102,41 +102,41 @@ _Updated: 2026-01-18 00:43_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
@@ -154,11 +154,11 @@ _Updated: 2026-01-18 00:43_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
