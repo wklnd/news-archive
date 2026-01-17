@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 22:43_
+_Updated: 2026-01-17 23:40_
 
 ## Top Stories
 
-- JUST NU: Hårda svaret till Trump efter nya hotet - Expressen
-- DN Direkt – EU-ambassadörer blixtinkallade till möte - Dagens Nyheter
+- Trump: Tullar mot Sverige på grund av Grönland - Dagens Nyheter
+- LEDARE: Låt inte Nobel förfula Sveriges huvudstad - Kristianstadsbladet
 - Rapporten: Bättre i Sollefteå än Östersund - Östersunds-Posten
-- Värnpliktiga förfrös tårna under övning - Aftonbladet
-- Så agerar Ö-viks kommun efter dödsolyckan - Allehanda.se
+- De sitter i Trumps fredsråd för Gaza - Expressen
+- Luna tassar förbi Sigge i kattoppen - Västerbottens-Kuriren
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
+- Vattenläcka i Skarphäll påverkar stora delar av Visby - SVT Nyheter
+- Bil i vattnet på Rörö - GP
 - Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
 - 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
-- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
-- Halkvarningen från akuten: ”Lugnet före stormen” - NWT
-- Vita huset: Rubio och Blair i Gazas fredsråd - Aftonbladet
+- Syriens armé i offensiv mot kurdiska fästen - Aftonbladet
+- DEBATT: Irans skräckvälde måste mötas av handling - Expressen
 - Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
-- Mercosur – avtalet som kan spränga hela EU - Aftonbladet
-- Rivalerna utreds: ”De försöker skrämma mig” - Expressen
+- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
 - Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
 - Trump obligationsdrag mitt i Netflix jätteaffär - DI
 - Körde med halva vindrutan täckt av snö – nu åtalas bilföraren - Mariestads-Tidningen
-- 30 procent dyrare på tre år – inför skälighetsprövning av fjärrvärme - Hallandsposten
+- IVAB gasade i lågkonjunkturen – förändringen har blivit en del av företagets DNA - svenskbyggtidning -
 - Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
-- Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
+- Google Maps gör om en av sina viktigaste funktioner – så märker du förändringen direkt - Dagens.se
 
 ## World News
 
@@ -37,31 +37,31 @@ _Updated: 2026-01-17 22:43_
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -101,20 +101,20 @@ _Updated: 2026-01-17 22:43_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -145,7 +145,7 @@ _Updated: 2026-01-17 22:43_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -153,12 +153,12 @@ _Updated: 2026-01-17 22:43_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
