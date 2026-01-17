@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 19:41_
+_Updated: 2026-01-17 20:50_
 
 ## Top Stories
 
-- DN Direkt – Trump: Tullar mot Sverige på grund av Grönlandsfrågan - Dagens Nyheter
-- Nathan Shachar: USA kör över Israel och Hamas om Gazas styre - Dagens Nyheter
+- Trump: Tullar mot Sverige på grund av Grönland - Dagens Nyheter
+- Fem omkomna i laviner i Österrike - Västerbottens-Kuriren
+- Passagerarflyg försvunnet i Indonesien - SVT Nyheter
 - Värnpliktiga förfrös tårna under övning - Aftonbladet
-- Uppgifter: Kan släcka internet permanent - Expressen
-- Bil i frontalkrock med lastbil – väg avstängd - Mora Tidning
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
-- Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
-- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
 - Brutalt rån mot Ica-butik – körde ifrån polisen: ”Yxa och kniv” - NWT
-- Fem döda i dubbla laviner i österrikiska Salzburg - Omni
-- Ayatollan skyller döda demonstranter på Trump - GP
+- Ugandas oppositionsledare flydde under räd - Västerbottens-Kuriren
+- Förbud för lek i snögrottor på skolor i Sunne kommun - SVT Nyheter
+- Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
+- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
+- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
+- JUST NU: Hårda svaret till Trump efter nya hotet - Expressen
+- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
 - Mercosur – avtalet som kan spränga hela EU - Aftonbladet
-- Omkörning urartade i slagsmål - Expressen
+- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
 - Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
-- Så kan flyget halvera sina utsläpp – redan i dag - Dagens PS
+- Fyndet: 4 886 namn – de har köpt IP-tv - Expressen
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
-- Körde med halva vindrutan täckt av snö – nu åtalas bilföraren - Mariestads-Tidningen
+- Så kan flyget halvera sina utsläpp – redan i dag - Dagens PS
 - Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
 - Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
 
@@ -32,13 +32,12 @@ _Updated: 2026-01-17 19:41_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -47,6 +46,7 @@ _Updated: 2026-01-17 19:41_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -119,35 +119,35 @@ _Updated: 2026-01-17 19:41_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
@@ -155,10 +155,10 @@ _Updated: 2026-01-17 19:41_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
