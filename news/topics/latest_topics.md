@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 11:41_
+_Updated: 2026-01-17 12:44_
 
 ## Top Stories
 
 - Vita huset: Rubio och Blair i Gazas fredsråd - Dagens Nyheter
-- Bil i vattnet på Rörö - GP
-- Danmark bjuder USA till grönländsk övning - Västerbottens-Kuriren
+- Regimens hemliga plan: Total digital isolering - Hufvudstadsbladet
+- INSÄNDARE: Mitt Hjärta sörjer Iran - Blekinge Läns Tidning
+- Lundabor sitter mest i hela Skåne – varför? - Sydsvenskan
+- Ugandas oppositionsledare bortförd - GP
 - Han hjälper Trumpväljare att hoppa av MAGA-rörelsen - Dagens Nyheter
-- Storsatsar på Grönland: ”Blir massiv spelare” - SvD
-- Iran slår ut Starlink med större framgång än vad Ryssland har klarat - NyTeknik
+- Apotek larmar: Patienter mixtrar med viktläkemedel - Sydsvenskan
+- Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
 - 17 januari 07.48, Sammanfattning natt, Jämtlands län - Polisen.se
 - 17 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- SKR:s ordförande om minutstyrningen: En modell ingen tycker om - Aftonbladet
-- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
 - Federal domare begränsar ICE – protester fortsätter i Minneapolis - SVT Nyheter
 - Analys: Har Trump blivit galen? Nej, det här borde vi ha sett komma - Yle
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Presidentkandidaten Bobi Wine bortförd av militärhelikopter i Uganda - Aftonbladet
-- Jonas Fröberg: Här är biltrenderna och nya modellerna du inte får missa - Dagens Nyheter
+- Uppgifter: Kan släcka internet permanent - Expressen
+- Här ligger USA:s hemliga missilbas - Expressen
 - Biltema i blåsväder: "Sätter munkavle på oss" - Dagens PS
-- Elbilen som ska bli billigast i Europa - Dagens Nyheter
+- Jonas Fröberg: Här är biltrenderna och nya modellerna du inte får missa - Dagens Nyheter
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
-- Har du dumpat din Sonos-högtalare? Se till att nästa köp har den här avgörande funktionen - TechRadar
-- Farväl billiga OLED-TV-apparater – nu tar RGB mini-LED och ”tapet-OLED” över - TechRadar
+- Förslag: Lättare få veta kollegornas löner - Skånska Dagbladet
+- CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
+- Spel genre som du inte klarar av att spela - FZ.se
 
 ## World News
 
@@ -43,8 +43,8 @@ _Updated: 2026-01-17 11:41_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
@@ -101,8 +101,6 @@ _Updated: 2026-01-17 11:41_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
@@ -110,12 +108,14 @@ _Updated: 2026-01-17 11:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
