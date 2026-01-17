@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 04:26_
+_Updated: 2026-01-17 05:43_
 
 ## Top Stories
 
-- Enas om vapenvila vid kärnkraftverk i Ukraina - Västerbottens-Kuriren
+- Grönlänningarna välkomnar europeiska soldaterna: ”Känner mig tryggare” - Omni
+- Trump till ny attack mot styret i Minnesota: ”Värdelösa” - TV4 Nyheterna
 - Experten: Pahlavi försöker charma västvärlden - SVT Nyheter
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Kurdiska blir officiellt språk i Syrien – samtidigt retirerar kurdiska styrkor österut - SVT Nyheter
-- Stora vattenkaoset på Gotland: ”Förbannad” - Expressen
-- Elisabet Andersson: Nya Nobel Center bättre på flera sätt | Elisabet Andersson - SvD
-- 27-åring döms för styckmord på kollega i Oskarshamn - SVT Nyheter
-- Färre besök på museerna i fjol - Västerbottens-Kuriren
-- Sparkonsulterna gör välfärdens personal sjuk - Arbetet
-- Så blev ”cigarettflickan” en symbol för Iranprotesterna - Dagens Nyheter
-- DN Direkt – USA:s luftfartsmyndighet varnar för flygningar över Centralamerika - Dagens Nyheter
-- Dolda förklaringarna bakom USA:s agerande - EFN
 - Fick två insikter – sen backade han - Expressen
-- Triss i bakslag för Trump – grönt ljus för vindkraftsprojekt - DI
+- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
+- Vapenvila mellan Ryssland och Ukraina – vid Zaporizjzja - Expressen
+- Ministern arg på snöröjningen – kunde inte gå ut med barnvagnen - Dagens Nyheter
+- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
+- Färre besök på museerna i fjol - Västerbottens-Kuriren
+- Politisk strid om universiteten – nu startar stoppade utredningen - Dagens Nyheter
+- De ingår i Donald Trumps fredspanel för Gaza - SVT Nyheter
+- Dolda förklaringarna bakom USA:s agerande - EFN
+- Ryska män lockas till fronten – med alkohol - Expressen
+- Så blev ”cigarettflickan” en symbol för Iranprotesterna - Dagens Nyheter
 - Stark avslutning för matbutikerna – här är heta säljsiffran - Market.se
+- Triss i bakslag för Trump – grönt ljus för vindkraftsprojekt - DI
 - Novo Nordisk Fonden satsar 5,5 miljarder DKK för att stärka innovation i Europa - Biostock
 - Många kontaktar oss om sin återbetalning - CSN
-- Ignorera inte detta – Android-buggen som kan ge hackare åtkomst - Dagens.se
-- Avslöjar super-Mustang: Får V8 på över 700 hk - Carup.se
-- Drömmen blir verklighet – rekordår banar väg för utbyggnad: ”Fick in två större donationer” - Ölandsbladet
+- Det ska du göra DIREKT om du har trådlösa lurar - Aftonbladet
+- Google börjar äntligen låta användare ändra sin Gmail-adress - PC för Alla
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-01-17 04:26_
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -58,8 +58,9 @@ _Updated: 2026-01-17 04:26_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-01-17 04:26_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -81,12 +81,12 @@ _Updated: 2026-01-17 04:26_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
-- Internationella ekonomprogrammet - Umeå universitet
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -101,9 +101,10 @@ _Updated: 2026-01-17 04:26_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Meet the Oura Medical Advisory Board - Oura Ring
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -112,7 +113,6 @@ _Updated: 2026-01-17 04:26_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
@@ -145,8 +145,8 @@ _Updated: 2026-01-17 04:26_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
