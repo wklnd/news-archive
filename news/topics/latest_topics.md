@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 21:38_
+_Updated: 2026-01-17 22:43_
 
 ## Top Stories
 
-- Omkörning urartade i slagsmål - Expressen
+- JUST NU: Hårda svaret till Trump efter nya hotet - Expressen
+- DN Direkt – EU-ambassadörer blixtinkallade till möte - Dagens Nyheter
+- Rapporten: Bättre i Sollefteå än Östersund - Östersunds-Posten
 - Värnpliktiga förfrös tårna under övning - Aftonbladet
-- Passagerarflyg försvunnet i Indonesien - SVT Nyheter
-- Blair och Kushner tar plats i Gazas fredsråd - Syre
-- Ugandas oppositionsledare flydde under räd - Västerbottens-Kuriren
-- Brutalt rån mot Ica-butik – körde ifrån polisen: ”Yxa och kniv” - NWT
-- Förbud för lek i snögrottor på skolor i Sunne kommun - SVT Nyheter
-- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
+- Så agerar Ö-viks kommun efter dödsolyckan - Allehanda.se
+- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
 - Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
 - 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
-- Fem döda i dubbla laviner i österrikiska Salzburg - Omni
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- E45 avstängd - Expressen
+- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
+- Halkvarningen från akuten: ”Lugnet före stormen” - NWT
+- Vita huset: Rubio och Blair i Gazas fredsråd - Aftonbladet
+- Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
 - Mercosur – avtalet som kan spränga hela EU - Aftonbladet
+- Rivalerna utreds: ”De försöker skrämma mig” - Expressen
 - Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
-- Fyndet: 4 886 namn – de har köpt IP-tv - Expressen
-- Stark avslutning för matbutikerna – här är heta säljsiffran - Market.se
 - Trump obligationsdrag mitt i Netflix jätteaffär - DI
+- Körde med halva vindrutan täckt av snö – nu åtalas bilföraren - Mariestads-Tidningen
+- 30 procent dyrare på tre år – inför skälighetsprövning av fjärrvärme - Hallandsposten
 - Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
 - Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
 
@@ -37,16 +37,16 @@ _Updated: 2026-01-17 21:38_
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -101,64 +101,64 @@ _Updated: 2026-01-17 21:38_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
