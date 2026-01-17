@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 18:46_
+_Updated: 2026-01-17 19:41_
 
 ## Top Stories
 
-- Brutalt rån mot Ica-butik – körde ifrån polisen: ”Yxa och kniv” - NWT
-- De sitter i Trumps fredsråd för Gaza - Expressen
-- Ugandas oppositionsledare flydde under räd - Västerbottens-Kuriren
-- Bil i frontalkrock med lastbil – en till sjukhus - Mora Tidning
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Plan försvunnet i Indonesien - Expressen
-- Efter dödsfall på skola – kommunen förbjuder lek i snögrottor: ”Klart att det lockar” - NWT
-- Länsstyrelsen tillåter licensjakt på lodjur i länet - nt.se
-- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
-- Hannah, 34, har en sällsynt gen – får inte stressa - Aftonbladet
-- E45 avstängd - Expressen
-- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
+- DN Direkt – Trump: Tullar mot Sverige på grund av Grönlandsfrågan - Dagens Nyheter
+- Nathan Shachar: USA kör över Israel och Hamas om Gazas styre - Dagens Nyheter
 - Värnpliktiga förfrös tårna under övning - Aftonbladet
+- Uppgifter: Kan släcka internet permanent - Expressen
+- Bil i frontalkrock med lastbil – väg avstängd - Mora Tidning
+- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
+- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
+- Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
+- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
+- Brutalt rån mot Ica-butik – körde ifrån polisen: ”Yxa och kniv” - NWT
+- Fem döda i dubbla laviner i österrikiska Salzburg - Omni
+- Ayatollan skyller döda demonstranter på Trump - GP
+- Mercosur – avtalet som kan spränga hela EU - Aftonbladet
 - Omkörning urartade i slagsmål - Expressen
 - Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
 - Så kan flyget halvera sina utsläpp – redan i dag - Dagens PS
-- Fyndet: 4 886 namn – de har köpt IP-tv - Expressen
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
+- Körde med halva vindrutan täckt av snö – nu åtalas bilföraren - Mariestads-Tidningen
 - Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
-- CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
+- Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
 
 ## World News
 
@@ -56,8 +56,8 @@ _Updated: 2026-01-17 18:46_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -79,6 +79,7 @@ _Updated: 2026-01-17 18:46_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -86,7 +87,6 @@ _Updated: 2026-01-17 18:46_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -128,26 +128,26 @@ _Updated: 2026-01-17 18:46_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
@@ -155,10 +155,10 @@ _Updated: 2026-01-17 18:46_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
