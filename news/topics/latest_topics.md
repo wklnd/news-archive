@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 15:06_
+_Updated: 2026-01-17 15:45_
 
 ## Top Stories
 
-- Vita huset: Rubio och Blair i Gazas fredsråd - Dagens Nyheter
 - Renee Nicole Good hade minst tre skottskador - Dagens Nyheter
-- Ekonom: Globalt handelskrig hotar efter Trumputspel - SvD
-- Danmark bjuder USA till grönländsk övning - Västerbottens-Kuriren
-- Så agerar Ö-viks kommun efter dödsolyckan - Allehanda.se
-- Federal domare begränsar ICE – protester fortsätter i Minneapolis - SVT Nyheter
+- Vita huset: Rubio och Blair i Gazas fredsråd - Dagens Nyheter
+- ”Amed” vet inget om familjen i Iran: ”Kan vara var som helst” - Dalslänningen
+- Ekonomen: ”Globalt handelskrig hotar” - SvD
+- Hälften av elen borta – uppmanas lämna Kiev - SvD
+- Regimens hemliga plan: Total digital isolering - Hufvudstadsbladet
+- Efter dödsfall på skola – kommunen förbjuder lek i snögrottor: ”Klart att det lockar” - NWT
 - Bil i vattnet på Rörö - GP
 - Högsäterbon Azita har inte pratat med familjen i Iran – på elva dagar - Dalslänningen
 - 17 januari 07.48, Sammanfattning natt, Jämtlands län - Polisen.se
-- 17 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Ryssland och Ukraina överens om vapenvila vid kärnkraftverket - Expressen
-- Flydde till kyrkan efter skräckfyndet i mobilen - Aftonbladet
+- Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
+- Flygplan med europeiska soldater strömmar till Grönland - Dagens Nyheter
+- Mercosur – avtalet som kan spränga hela EU - Aftonbladet
 - Stor norsk försvarsorder till svenska bolaget - Dagens PS
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
+- Trump obligationsdrag mitt i Netflix jätteaffär - DI
 - Förslag: Lättare få veta kollegornas löner - Skånska Dagbladet
-- Läge för rally när pendeln svänger - DI
+- Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
 - CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
-- Fler Apple-prylar ska få oled-skärmar - Macworld.se
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-01-17 15:06_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -45,6 +44,7 @@ _Updated: 2026-01-17 15:06_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
