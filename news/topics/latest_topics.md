@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 07:44_
+_Updated: 2026-01-17 08:52_
 
 ## Top Stories
 
-- Källor: Tim Walz och Jacob Frey utreds av amerikanska justitiedepartementet - Omni
+- Uppgifter: Ugandas oppositionsledare bortförd i helikopter - SVT Nyheter
+- DN Direkt – Källor: Justitiedepartementet utreder Walz och Frey - Dagens Nyheter
+- Vita huset: Rubio och Blair i Gazas fredsråd - GP
 - Storsatsar på Grönland: ”Blir massiv spelare” - SvD
-- Elev hade vapen i sitt skåp i skolan: ”Han ryckte mest på axlarna” - GP
-- Mercosur – avtalet som kan spränga hela EU - SvD
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Rubio, Witkoff och Kushner tar plats i ”fredsrådet” - Omni Ekonomi
+- Stora vattenkaoset på Gotland: ”Förbannad” - Expressen
+- 17 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
+- Flera viltolyckor på fredagen - Västerbottens-Kuriren
+- Högsäterbon Azita har inte pratat med familjen i Iran – på elva dagar - Dalslänningen
 - Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
-- Färre besök på museerna i fjol - Västerbottens-Kuriren
-- Efter halkan – så blir det med busstrafiken i dag - Norra Halland
-- Sparkonsulterna gör välfärdens personal sjuk - Arbetet
-- Flygplan med europeiska soldater strömmar till Grönland - Dagens Nyheter
-- Enas om vapenvila vid kärnkraftverk i Ukraina - Västerbottens-Kuriren
 - Han hjälper Trumpväljare att hoppa av MAGA-rörelsen - Dagens Nyheter
-- Kurdiska blir officiellt språk i Syrien – samtidigt retirerar kurdiska styrkor österut - SVT Nyheter
+- Nödläge utlyst i Kyjiv och energisektorn när -20ºC väntas i en vecka - cornucopia.se
+- Enas om vapenvila vid kärnkraftverk i Ukraina - GP
+- Iran slår ut Starlink med större framgång än vad Ryssland har klarat - NyTeknik
 - Jonas Fröberg: Här är biltrenderna och nya modellerna du inte får missa - Dagens Nyheter
 - Elbilen som ska bli billigast i Europa - Dagens Nyheter
-- Stark avslutning för matbutikerna – här är heta säljsiffran - Market.se
 - Novo Nordisk Fonden satsar 5,5 miljarder DKK för att stärka innovation i Europa - Biostock
-- Visste du att… Christopher Nolans sci-fi ledde till ett vetenskapligt genombrott - MovieZine.se
-- Google börjar äntligen låta användare ändra sin Gmail-adress - PC för Alla
+- Maskininlärning i fokus när Campus Varberg startar ny AI-utbildning - Metal Supply
+- Farväl billiga OLED-TV-apparater – nu tar RGB mini-LED och ”tapet-OLED” över - TechRadar
+- Camera Control-knappen på din iPhone har ett gäng dolda funktioner – så använder du dem - TechRadar
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-01-17 07:44_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Join us for the reveal of the new Volvo EX60 – 21 January - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -56,8 +56,8 @@ _Updated: 2026-01-17 07:44_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -101,6 +101,7 @@ _Updated: 2026-01-17 07:44_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -109,18 +110,16 @@ _Updated: 2026-01-17 07:44_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
@@ -128,17 +127,18 @@ _Updated: 2026-01-17 07:44_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-17 07:44_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
