@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 09:40_
+_Updated: 2026-01-17 10:49_
 
 ## Top Stories
 
-- DN Direkt – Uppgifter: Stor militärinsats på väg till Grönland - Dagens Nyheter
-- Vita huset: Rubio och Blair i Gazas fredsråd - GP
 - Uppgifter: Ugandas oppositionsledare bortförd i helikopter - SVT Nyheter
-- Han hjälper Trumpväljare att hoppa av MAGA-rörelsen - Dagens Nyheter
 - Storsatsar på Grönland: ”Blir massiv spelare” - SvD
-- Domare begränsar ICE i Minnesota - GP
+- ”Amed” vet inget om familjen i Iran: ”Kan vara var som helst” - Dalslänningen
+- Vita huset: Rubio och Blair i Gazas fredsråd - GP
+- Han hjälper Trumpväljare att hoppa av MAGA-rörelsen - Dagens Nyheter
+- Gunnar Strömmer: Sexbrottslingar ska kunna dömas till livstid - Dagens Nyheter
 - 17 januari 07.48, Sammanfattning natt, Jämtlands län - Polisen.se
 - 17 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- 17 januari 07.53, Sammanfattning natt, Norrbottens län - Polisen.se
-- Högsäterbon Azita har inte pratat med familjen i Iran – på elva dagar - Dalslänningen
+- Tomas Lauri: Chipperfields Nobel center liknar en fästning - Dagens Nyheter
+- Internationell liga åtalas för stölder av Dodge RAM pickups - Aftonbladet
+- Flygplan med europeiska soldater strömmar till Grönland - Dagens Nyheter
 - Analys: Har Trump blivit galen? Nej, det här borde vi ha sett komma - Yle
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
-- Vapenvila mellan Ryssland och Ukraina – vid Zaporizjzja - Expressen
-- Nödläge utlyst i Kyjiv och energisektorn när -20ºC väntas i en vecka - cornucopia.se
+- Iran slår ut Starlink med större framgång än vad Ryssland har klarat - NyTeknik
 - Jonas Fröberg: Här är biltrenderna och nya modellerna du inte får missa - Dagens Nyheter
 - Elbilen som ska bli billigast i Europa - Dagens Nyheter
 - Europeiska försvarsaktier stiger på risk för krig – är de fortfarande köpvärda? - Morningstar Canada
-- Stark avslutning för matbutikerna – här är heta säljsiffran - Market.se
+- Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
 - Har du dumpat din Sonos-högtalare? Se till att nästa köp har den här avgörande funktionen - TechRadar
 - Farväl billiga OLED-TV-apparater – nu tar RGB mini-LED och ”tapet-OLED” över - TechRadar
 
@@ -56,10 +56,11 @@ _Updated: 2026-01-17 09:40_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - EU Digital Strategy
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-01-17 09:40_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -102,6 +102,7 @@ _Updated: 2026-01-17 09:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Engineering Health 2024 - Chalmers
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -115,30 +116,29 @@ _Updated: 2026-01-17 09:40_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
