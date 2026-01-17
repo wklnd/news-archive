@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-17 06:57_
+_Updated: 2026-01-17 07:50_
 
-- Justice Dept. launches criminal investigation of Minnesota governor - The Washington Post
 - Judge limits ICE’s crowd control tactics following Minneapolis shooting - Politico
+- Blair and Rubio among names on Gaza 'Board of Peace' - BBC
 - Some policy experts struggle to make sense of new Trump health plan - ABC News
-- Trump Sets Fraudster Free From Prison for a Second Time - The New York Times
-- ICE says Cuban immigrant died while attempting suicide. A witness says guards pinned and choked him - AP News
-- Virginia lawmakers pass redistricting amendment, sending it to voters for approval - NBC News
+- Justice Dept. launches criminal investigation of Minnesota governor - The Washington Post
 - Man Who Attacked ‘Grandpa Vicha’ in San Francisco Is Found Not Guilty of Murder - The New York Times
-- Billionaire developer Rick Caruso won’t run for California governor or LA mayor - Politico
-- Trump says he may punish countries with tariffs if they don’t back the US controlling Greenland - AP News
-- F.A.A. Urges ‘Caution’ Over Oceans in Latin America, Warning of Military Activity - The New York Times
-- Russia Knocks Out the Heat in Ukraine - The New York Times
+- Billionaire developer Rick Caruso will not run for L.A. mayor or California governor - Los Angeles Times
+- 'Russia is preparing new massive attacks,' Zelensky says - The Kyiv Independent
 - WEF: Donald Trump set to dominate Davos 2026 - dw.com
-- Rail Regulator Sends $71.5 Billion Union Pacific-Norfolk Southern Deal Back for Redo - The Wall Street Journal
-- Thinking Machines Cofounder’s Office Relationship Preceded His Termination - WIRED
+- How Venezuela Becomes a Quagmire - Foreign Affairs
+- Iran in limbo: What’s next for country under internet blackout? - Al Jazeera
+- Chinese EVs are making inroads in North America. That worries industry experts - AP News
 - The two things AMD subtly revealed at CES that actually excite me - The Verge
-- Rackspace customers grapple with “devastating” email hosting price hike - Ars Technica
 - Apple Adjusts Trade-In Values for iPhones, Macs, and More - MacRumors
-- Google is finally copying this Apple Watch feature for its Pixel Watch - Android Authority
+- 10 breakthrough technologies to expect in 2026 : Short Wave - NPR
+- Rackspace customers grapple with “devastating” email hosting price hike - Ars Technica
 - ASAP Rocky Grew Up, Settled Down (with Rihanna) and Returned to Rap - The New York Times
 - Timothy Busfield sexual misconduct allegations mount as wife Melissa Gilbert expresses support - The Guardian
+- ‘The Traitors’: Michael Rapaport Claims Controversial Remark to Colton Underwood About Keeping a Secret Had ‘Nothing to Do With His Sexuality’ - Variety
+- 7 New Albums You Should Listen to Now: Julianna Barwick and Mary Lattimore, A$AP Rocky, and More - Pitchfork
+- Ole Miss QB Trinidad Chambliss seeks injunction from Mississippi court against NCAA - On3
