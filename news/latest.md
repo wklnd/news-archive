@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-17 23:48_
+_Updated: 2026-01-18 00:50_
 
-- Blair and Rubio named on senior executive of Gaza 'Board of Peace' - BBC
+- Iran's supreme leader acknowledges thousands killed during recent protests - BBC
+- Conservative Influencer Chased From Minneapolis Streets by Counterprotesters - The New York Times
 - Justice Dept. enters new territory with probe of Minnesota officials - The Washington Post
 - Abigail Spanberger becomes Virginia’s 1st female governor in historic inauguration - Politico
 - European Union and Mercosur bloc of South American nations sign landmark free trade agreement - AP News
 - From ‘A+’ grade to ‘we can’t stand this much longer,’ Georgia voters take stock of Trump’s first year back in office - CNN
-- Justice Department says members of Congress can't intervene in release of Jeffrey Epstein files - ABC7 Los Angeles
 - Trump to POLITICO: ‘It’s time to look for new leadership in Iran’ - Politico
-- Four U-Va. board members resign as Spanberger takes office in Virignia - The Washington Post
-- Uganda election result: Yoweri Museveni beats Bobi Wine to extend 40-year rule - BBC
-- Here’s where Trump’s most jaw-dropping promises stand a year into his second term - AP News
-- EU Set to Halt US Trade Deal Over Trump’s Latest Tariff Threat - Bloomberg
+- U.S. forces kill Al-Qaeda affiliate leader linked to ambush on Americans in Syria, officials say - CBS News
+- In Denmark, U.S. lawmakers contradict Trump on Greenland - The Washington Post
+- EU Set to Halt US Trade Deal Over Trump’s New Tariff Threat - Bloomberg.com
 - How Ukrainians Are Protecting Their Homes Against Russia’s Winter Offensive - Kyiv Post
-- They quit their day jobs to bet on current events. A look inside the prediction market mania - NPR
+- Five graphics that show Greenland’s importance to Trump - dw.com
 - Cases of 'AI Psychosis' Are Being Reported. How Dangerous Is It? - ScienceAlert
-- Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno - Fortune
-- US’s largest offshore wind farm can resume construction, in a third blow to Trump - Electrek
-- This may be the grossest eye pic ever—but the cause is what’s truly horrifying - Ars Technica
+- Musk seeks up to $134 billion from OpenAI and Microsoft - Reuters
+- Poker-Faced Powell May Have Ace Up Sleeve To Stymie Trump's Fed Shakeup - HuffPost
+- 'Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider
 - 10 breakthrough technologies to expect in 2026 : Short Wave - NPR
 - Top 10 Most Wishlisted Strategy Games On Steam In 2026 - Strategy and Wargaming
 - How to Take a Phone-Free Vacation - The New York Times
+- Grookey Community Day: Your Go-To PvE Guide - Pokémon GO Hub
