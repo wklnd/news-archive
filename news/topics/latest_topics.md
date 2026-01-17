@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 16:43_
+_Updated: 2026-01-17 17:41_
 
 ## Top Stories
 
-- Vita huset: Rubio och Blair i Gazas fredsråd - Dagens Nyheter
-- Så agerar Ö-viks kommun efter dödsolyckan - Allehanda.se
-- Danmark bjuder USA till grönländsk övning - Västerbottens-Kuriren
-- Federal domare begränsar ICE – protester fortsätter i Minneapolis - SVT Nyheter
+- Vittnar om död i Iran: ”Hörde ett pop pop” - Västerbottens-Kuriren
+- Passagerarflyg försvunnet i Indonesien - SVT Nyheter
+- Ekonomen: ”Globalt handelskrig hotar” - SvD
+- Hälften av elen borta – uppmanas lämna Kiev - SvD
+- De sitter i Trumps fredsråd för Gaza - Expressen
 - Museveni vinner – oppositionsledare har flytt - GP
-- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
+- Efter dödsfall på skola – kommunen förbjuder lek i snögrottor: ”Klart att det lockar” - NWT
 - Bil i vattnet på Rörö - GP
-- 17 januari 07.48, Sammanfattning natt, Jämtlands län - polisen.se
-- Högsäterbon Azita har inte pratat med familjen i Iran – på elva dagar - Dalslänningen
-- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
-- Renee Nicole Good hade minst tre skottskador - Dagens Nyheter
-- Amanda, 42, attackerades av hund – fick amputera - Expressen
-- Mercosur – avtalet som kan spränga hela EU - Aftonbladet
-- Ryssland och Ukraina överens om vapenvila vid kärnkraftverket - Expressen
-- Stor norsk försvarsorder till svenska bolaget - Dagens PS
+- Misstänkte mördaren i Rönninge sökte hjälp – fick vänta ett år - SVT Nyheter
+- Trafikolycka med lastbil inblandad i Vika - SVT Nyheter
+- Sågar Trumps besatthet av Grönland: ”Dummaste jag någonsin hört” - Dagens Nyheter
+- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
+- Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
+- Plan försvunnet i Indonesien - Expressen
+- Så kan flyget halvera sina utsläpp – redan i dag - Dagens PS
+- Fyndet: 4 886 namn – de har köpt IP-tv - Expressen
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
-- DN Direkt – Senatorerna: Vi söker väg framåt med Danmark och Grönland - Dagens Nyheter
-- Förslag: Lättare få veta kollegornas löner - Skånska Dagbladet
+- Riggat för rally när pendeln svänger - DI
 - Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
 - CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-17 16:43_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-17 16:43_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
