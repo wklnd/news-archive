@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-17 07:50_
+_Updated: 2026-01-17 08:57_
 
-- Judge limits ICE’s crowd control tactics following Minneapolis shooting - Politico
+- Justice Dept. launches criminal investigation of Minnesota governor - The Washington Post
 - Blair and Rubio among names on Gaza 'Board of Peace' - BBC
 - Some policy experts struggle to make sense of new Trump health plan - ABC News
-- Justice Dept. launches criminal investigation of Minnesota governor - The Washington Post
-- Man Who Attacked ‘Grandpa Vicha’ in San Francisco Is Found Not Guilty of Murder - The New York Times
-- Billionaire developer Rick Caruso will not run for L.A. mayor or California governor - Los Angeles Times
-- 'Russia is preparing new massive attacks,' Zelensky says - The Kyiv Independent
-- WEF: Donald Trump set to dominate Davos 2026 - dw.com
-- How Venezuela Becomes a Quagmire - Foreign Affairs
-- Iran in limbo: What’s next for country under internet blackout? - Al Jazeera
+- Trump Backs Down on Insurrection Act as Democrats Take the Offensive - The New York Times
+- ICE agent who killed L.A. man accused of child abuse, racism in court filings - Los Angeles Times
+- Trump Sets Fraudster Free From Prison for a Second Time - The New York Times
+- 'We'd been on high alert' - How Jenrick's dramatic sacking and defection unfolded - BBC
+- After Trump warned about Tylenol and autism, researchers investigated — and found no link - NBC News
+- Greenland crisis: Europe needs the US, but it also needs to stand up to Trump - The Guardian
+- Trump admin gives positive update on visa processing freeze; 15 countries get big relief | Hindustan Times - Hindustan Times
+- Trump bought $1M in Netflix, Warner Bros. bonds after merger announcement - The Washington Post
+- Exclusive: US moving fast to expand Chevron's Venezuela license, Energy Secretary Wright tells Reuters - Reuters
 - Chinese EVs are making inroads in North America. That worries industry experts - AP News
-- The two things AMD subtly revealed at CES that actually excite me - The Verge
+- Thinking Machines Cofounder’s Office Relationship Preceded His Termination - WIRED
 - Apple Adjusts Trade-In Values for iPhones, Macs, and More - MacRumors
+- The two things AMD subtly revealed at CES that actually excite me - The Verge
 - 10 breakthrough technologies to expect in 2026 : Short Wave - NPR
-- Rackspace customers grapple with “devastating” email hosting price hike - Ars Technica
-- ASAP Rocky Grew Up, Settled Down (with Rihanna) and Returned to Rap - The New York Times
-- Timothy Busfield sexual misconduct allegations mount as wife Melissa Gilbert expresses support - The Guardian
-- ‘The Traitors’: Michael Rapaport Claims Controversial Remark to Colton Underwood About Keeping a Secret Had ‘Nothing to Do With His Sexuality’ - Variety
-- 7 New Albums You Should Listen to Now: Julianna Barwick and Mary Lattimore, A$AP Rocky, and More - Pitchfork
-- Ole Miss QB Trinidad Chambliss seeks injunction from Mississippi court against NCAA - On3
+- Clair Obscur Expedition 33 is within striking distance of beating Elden Ring for most Game of the Year wins ever - VideoGamer
+- Jaylon Tyson punctuates career night with game-winning assist in Cavs’ 117-115 comeback over Sixers - Cleveland.com
+- Penn State wrestling wins fifth straight match over Iowa, 79th in a row, with a 32-3 victory: Recap - On3
