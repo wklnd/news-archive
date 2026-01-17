@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-17 19:48_
+_Updated: 2026-01-17 20:54_
 
-- Trump tariffs: US president announces plan to hit UK, Denmark and other European countries with tariffs over Greenland - BBC
-- Judge limits ICE’s crowd control tactics following Minneapolis shooting - Politico
-- From ‘A+’ grade to ‘we can’t stand this much longer,’ Georgia voters take stock of Trump’s first year back in office - CNN
+- Trump Announces 10 Percent Tariff on European Countries in Standoff Over Greenland - The New York Times
+- Justice Dept. enters new territory with probe of Minnesota officials - The Washington Post
 - Iran's supreme leader admits thousands killed during recent protests - BBC
-- Blair and Rubio named on senior executive of Gaza 'Board of Peace' - BBC
+- From ‘A+’ grade to ‘we can’t stand this much longer,’ Georgia voters take stock of Trump’s first year back in office - CNN
 - Uganda election result: Yoweri Museveni beats Bobi Wine to extend 40-year rule - BBC
+- Blair and Rubio named on senior executive of Gaza 'Board of Peace' - BBC
 - Trump to POLITICO: ‘It’s time to look for new leadership in Iran’ - Politico
+- Abigail Spanberger to be sworn in as Virginia’s first female governor - The Washington Post
+- Some U.Va. Board Members Asked to Resign as Gov. Abigail Spanberger Takes Power - The New York Times
 - Minnesota officials ask protesters to stay peaceful ahead of weekend demonstrations in the state - CBS News
-- The People of Minneapolis vs. ICE: A Street-Level View - The New York Times
-- A Trump Veto Leaves Republicans in Colorado Parched and Bewildered - The New York Times
+- European Union and Mercosur bloc of South American nations sign landmark free trade agreement - AP News
 - Here’s where Trump’s most jaw-dropping promises stand a year into his second term - AP News
-- E.U., spurred by Trump, to sign mega free-trade deal with South America - The Washington Post
 - How Ukrainians Are Protecting Their Homes Against Russia’s Winter Offensive - Kyiv Post
-- Five graphics that show Greenland’s importance to Trump - dw.com
-- As Trump's deadline for a cap on credit card rates looms, banks have only questions and no answers - AP News
-- Trump Purchased Netflix, Warner Bonds in Days After Deal Announcement - The Wall Street Journal
+- How Venezuela Becomes a Quagmire - Foreign Affairs
+- Trump announces he will sue JPMorgan ‘over the next two weeks’ for allegedly ‘DEBANKING’ him - Politico
 - They quit their day jobs to bet on current events. A look inside the prediction market mania - NPR
-- Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy. - Barron's
-- 10 breakthrough technologies to expect in 2026 : Short Wave - NPR
-- LeAnn Rimes Throws It Back To 2016 On Instagram & Leaves Gen X Gasping For Air, Chili Bowl Drama & MEAT! - OutKick
+- Trump Purchased Netflix, Warner Bonds in Days After Deal Announcement - The Wall Street Journal
+- Senate Democrats serious about crypto bill reboot, they said in call with industry - CoinDesk
+- This may be the grossest eye pic ever—but the cause is what’s truly horrifying - Ars Technica
+- The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend - The Verge
