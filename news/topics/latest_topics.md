@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-17 17:41_
+_Updated: 2026-01-17 18:46_
 
 ## Top Stories
 
-- Vittnar om död i Iran: ”Hörde ett pop pop” - Västerbottens-Kuriren
-- Passagerarflyg försvunnet i Indonesien - SVT Nyheter
-- Ekonomen: ”Globalt handelskrig hotar” - SvD
-- Hälften av elen borta – uppmanas lämna Kiev - SvD
+- Brutalt rån mot Ica-butik – körde ifrån polisen: ”Yxa och kniv” - NWT
 - De sitter i Trumps fredsråd för Gaza - Expressen
-- Museveni vinner – oppositionsledare har flytt - GP
-- Efter dödsfall på skola – kommunen förbjuder lek i snögrottor: ”Klart att det lockar” - NWT
-- Bil i vattnet på Rörö - GP
-- Misstänkte mördaren i Rönninge sökte hjälp – fick vänta ett år - SVT Nyheter
-- Trafikolycka med lastbil inblandad i Vika - SVT Nyheter
-- Sågar Trumps besatthet av Grönland: ”Dummaste jag någonsin hört” - Dagens Nyheter
-- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
+- Ugandas oppositionsledare flydde under räd - Västerbottens-Kuriren
+- Bil i frontalkrock med lastbil – en till sjukhus - Mora Tidning
 - Björn af Kleen: Hur kan Trump inte själv rodna av skammen? - Dagens Nyheter
 - Plan försvunnet i Indonesien - Expressen
+- Efter dödsfall på skola – kommunen förbjuder lek i snögrottor: ”Klart att det lockar” - NWT
+- Länsstyrelsen tillåter licensjakt på lodjur i länet - nt.se
+- 17 januari 14.35, Trafikkontroll, Norrbottens län - polisen.se
+- Hannah, 34, har en sällsynt gen – får inte stressa - Aftonbladet
+- E45 avstängd - Expressen
+- Draget efter Trumps ilska – ska utredas för konspiration - Aftonbladet
+- Värnpliktiga förfrös tårna under övning - Aftonbladet
+- Omkörning urartade i slagsmål - Expressen
+- Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
 - Så kan flyget halvera sina utsläpp – redan i dag - Dagens PS
 - Fyndet: 4 886 namn – de har köpt IP-tv - Expressen
 - Positiv avslutning på 2025 för dagligvaruhandeln - Örebronyheter
-- Riggat för rally när pendeln svänger - DI
 - Tyrannosaurus rex fullvuxen först vid 40 - Dagens Nyheter
 - CD Projekt visar försäljningssiffrorna för Witcher 1 och 2 - FZ.se
 
@@ -62,14 +62,14 @@ _Updated: 2026-01-17 17:41_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
+- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2026-01-17 17:41_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-17 17:41_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
