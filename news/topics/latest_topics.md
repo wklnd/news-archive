@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 06:57_
+_Updated: 2026-01-18 07:46_
 
 ## Top Stories
 
 - Omvärldens reaktioner efter Donald Trumps tullbesked i Grönlandsfrågan - SVT Nyheter
-- Nathan Shachar: USA kör över Israel och Hamas om Gazas styre - Dagens Nyheter
-- Video visar Machados flykt: "Blöt och kall" - Västerbottens-Kuriren
+- Brand i vagnhallen i Majorna - GP
+- Segal, 29, om bristerna på LSS-boendet: ”Kan i alla fall prata” - Dagens Nyheter
 - En död – flera ryska attacker i Ukraina - GP
-- Här är årets största astronomiska upplevelser - SvD
-- Luna tassar förbi Sigge i kattoppen - Aftonbladet
+- Explosion i bostadsområde i Västerås - SVT Nyheter
+- Sex faktorer som avgör utvecklingen på gymmet - SvD
 - Vattenläcka i Skarphäll påverkar stora delar av Visby - SVT Nyheter
 - Flera viltolyckor i kväll - Västerbottens-Kuriren
-- Halkvarningen från akuten: ”Lugnet före stormen” - NWT
-- Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
-- Machado gav Trump sin fredsprismedalj - SvD
+- DN Direkt – Luna tassar förbi Sigge i kattoppen - Dagens Nyheter
+- Lägenhetsbrand i Ängelholm – en person till sjukhus - SVT Nyheter
+- EU-ambassadörer kallas till krismöte - Expressen
 - Syriens armé i offensiv mot kurdiska fästen - Aftonbladet
+- Timbuktu: Europa har ett självskadebeteende - ETC.se
 - Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
-- Mercosur – avtalet som kan spränga hela EU - Aftonbladet
 - Analog lyx är den nya statussymbolen - Dagens PS
 - Ericsson är för dåligt, för litet och för stort - Affärsvärlden
 - Att prata lön – från tabu till transparens - Bbl/AT
@@ -28,23 +28,23 @@ _Updated: 2026-01-18 06:57_
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Sojasåsgigant på global förvärvsjakt - DI
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sojasåsgigant på global förvärvsjakt - DI
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
@@ -86,13 +86,13 @@ _Updated: 2026-01-18 06:57_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -161,4 +161,4 @@ _Updated: 2026-01-18 06:57_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
