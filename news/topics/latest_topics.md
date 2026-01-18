@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 18:48_
+_Updated: 2026-01-18 19:42_
 
 ## Top Stories
 
 - Sparprofilen: Så kan börsen reagera på tullhotet - GP
-- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
+- DN Direkt – Tyska styrkor lämnar Grönland – svenska styrkor stannar - Dagens Nyheter
+- Syriens armé i offensiv mot kurdiska fästen - SVT Nyheter
 - Råkade filma sin egen toalettvåldtäkt - GP
-- Framgångssagan: ”Här fungerar mångkultur” - SvD
 - Hultqvist om tullhoten: Bortom all rimlighet - SvD
-- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Larm om misstänkt farligt föremål i Uddevalla - SVT Nyheter
-- DN Direkt – Man skjuten i ansiktet vid harjakt - Dagens Nyheter
-- Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
+- Framgångssagan: ”Här fungerar mångkultur” - SvD
 - De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
-- Svensk militär kvar på Grönland - SVT Nyheter
+- Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
+- Man i 35-årsåldern allvarligt stickskadad i Ängelholm - SVT Nyheter
+- Gratis festkläder för Väsbys nior - Mitt i
 - Barnhem stängs när Ukraina närmar sig EU - Dagens Nyheter
-- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
+- Över 160 000 stupade ryssar identifierade - Aftonbladet
 - DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
+- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
 - Så liten är chansen att vinna på Eurojackpot: ”Absurt” - Expressen
-- Markets kartläggning: Tungt år för hemelektronikbolagen - DI
 - Patricias delvinst mot Hugo Boss: ”Kämpar in i det sista” - Aftonbladet
+- Markets kartläggning: Tungt år för hemelektronikbolagen - DI
 - Brist på populära varan i landet – så ser det ut på Gotland - Helagotland
 - Lista: Här är årets största astronomiska upplevelser - Västerbottens-Kuriren
-- Äldrecentral kan komma att inrättas – pilotprojekt på två år - Ystads Allehanda
+- Säljer tidskapel i plysch – otrolig van på auktion - Carup.se
 
 ## World News
 
@@ -56,8 +56,8 @@ _Updated: 2026-01-18 18:48_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
