@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 22:44_
+_Updated: 2026-01-18 23:40_
 
 ## Top Stories
 
-- Sunita bröt flera ben i spårvagnsolycka vid Frölunda torg - GP
+- Minst fem döda efter tågolycka i Spanien - GP
 - Direkt – Krisen i Mellanöstern – Irans president: Anfall mot högste ledaren kommer leda till krig - Dagens Nyheter
+- TIDSLINJE: Beväpnade män rånade butik och kraschade i Norge – allt vi vet - NWT
 - Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
-- Man omkom i tågolycka – blev påkörd på järnvägsövergång - Ljusnan
-- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
-- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
 - Nedlagd militär flygbas kan bli beredskapsflygplats - Dagens Nyheter
+- Man död – påkörd av tåg i Bollnäs - Expressen
 - De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
 - Oron efter morden: Oskyldiga transpersoner pekas ut - GP
-- Gratis festkläder för Väsbys nior - Mitt i
-- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
-- Över 160 000 stupade ryssar identifierade - Västerbottens-Kuriren
-- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
-- Festvåning kollapsade – många skadade i Paris - Skånska Dagbladet
+- Tal av statsminister Ulf Kristersson på Fadimegalan - Regeringen.se
+- Förare fast i nykterhetskontroll – stoppades i Boden - NSD
+- Spänd väntan på Trumps närvaro i Davos - Hufvudstadsbladet
+- Natochefen: Har pratat med Trump om Grönland - GP
+- ”Delcygate”-skandalen: Venezuelas nya ledare anklagad för att smuggla guld i resväskor - Dagens Nyheter
+- Tunnelbanestation utrymdes: ”Pizzeria hade gräddat lite för hårt” - Expressen
 - Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
+- Yrkeshögskolan utökas – hundratals nya utbildningar - Nynäshamns Posten
 - LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
-- Minskad uthyrning i andra hand – utbudet faller - DI
 - Markets kartläggning: Tungt år för hemelektronikbolagen - DI
-- Säljer tidskapel i plysch – otrolig van på auktion - Carup.se
 - No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
+- Google patenterar ny batterikonstruktion - mobil.se
 
 ## World News
 
@@ -38,32 +38,32 @@ _Updated: 2026-01-18 22:44_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -86,9 +86,9 @@ _Updated: 2026-01-18 22:44_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -121,9 +121,9 @@ _Updated: 2026-01-18 22:44_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -132,13 +132,13 @@ _Updated: 2026-01-18 22:44_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
