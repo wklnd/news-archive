@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 21:38_
+_Updated: 2026-01-18 22:44_
 
 ## Top Stories
 
+- Sunita bröt flera ben i spårvagnsolycka vid Frölunda torg - GP
+- Direkt – Krisen i Mellanöstern – Irans president: Anfall mot högste ledaren kommer leda till krig - Dagens Nyheter
 - Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
-- Syrien vill se vapenvila efter offensiv mot kurder - Västerbottens-Kuriren
+- Man omkom i tågolycka – blev påkörd på järnvägsövergång - Ljusnan
+- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
 - Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Uppmaningen: Krävs ryggrad av ledarna - SvD
-- Två snöskotrar i krock – en person till sjukhus - Expressen
-- Stor insamling till pojkens minne: ”Var en glad kille” - Aftonbladet
+- Nedlagd militär flygbas kan bli beredskapsflygplats - Dagens Nyheter
 - De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
+- Oron efter morden: Oskyldiga transpersoner pekas ut - GP
 - Gratis festkläder för Väsbys nior - Mitt i
-- Ung man misstänkt för drograttfylleri - Gefle Dagblad
-- Kvinnans dåd i villakvarteret - Expressen
+- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
 - Över 160 000 stupade ryssar identifierade - Västerbottens-Kuriren
-- Natochefen: Har pratat med Trump om Grönland - GP
-- Milei ansluter till fredsrådet - Expressen
-- DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
+- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
+- Festvåning kollapsade – många skadade i Paris - Skånska Dagbladet
 - Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
 - LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
+- Minskad uthyrning i andra hand – utbudet faller - DI
 - Markets kartläggning: Tungt år för hemelektronikbolagen - DI
-- Patricias delvinst mot Hugo Boss: ”Kämpar in i det sista” - Aftonbladet
 - Säljer tidskapel i plysch – otrolig van på auktion - Carup.se
 - No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
 
@@ -51,18 +51,18 @@ _Updated: 2026-01-18 21:38_
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
@@ -86,9 +86,9 @@ _Updated: 2026-01-18 21:38_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -108,10 +108,10 @@ _Updated: 2026-01-18 21:38_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -121,9 +121,7 @@ _Updated: 2026-01-18 21:38_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -132,13 +130,15 @@ _Updated: 2026-01-18 21:38_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
