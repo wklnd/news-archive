@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 10:49_
+_Updated: 2026-01-18 11:42_
 
 ## Top Stories
 
-- Kraftiga reaktioner efter Trumps tullbesked i Grönlandsfrågan - SVT Nyheter
-- Man i 35-årsåldern allvarligt stickskadad i Ängelholm - SVT Nyheter
-- Brand i vagnhallen i Majorna - GP
 - Segal, 29, om bristerna på LSS-boendet: ”Kan i alla fall prata” - Dagens Nyheter
 - ”Chrippadramat” slog Malmöfamiljens liv i spillror - Sydsvenskan
-- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
+- Brand i vagnhallen i Majorna - GP
+- Expert: Trafikverkets miljardupphandlingar för Västlänken kan vara olagliga - GP
+- Källor: Pentagon rustar 1 500 soldater till Minnesota - SVT Nyheter
+- DN Direkt – Trump: Länder ska betala 1 miljard dollar för fast plats i fredsråd - Dagens Nyheter
 - 18 januari 08.21, Sammanfattning natt, Jämtlands län - polisen.se
 - Vattenläcka i Skarphäll påverkade stora delar av Visby - SVT Nyheter
 - Slagsmål vid krog i Tranås - Skillingaryd
-- Polisinsats i Mora efter misstänkt grovt brott – två gripna - SVT Nyheter
+- Tvingades föra över pengar digitalt under vapenhot - SVT Nyheter
+- DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
 - USA fiskade efter militära hemligheter på Grönland - GP
-- USA: En miljard dollar för fast plats i fredsrådet - Hufvudstadsbladet
 - Bråte hittat från försvunnet plan - Expressen
-- Explosion i bostadsområde i Västerås - SVT Nyheter
+- EU-ambassadörer kallas till krismöte - Expressen
 - Brist på populära varan i landet – så ser det ut på Gotland - Helagotland
-- Usel sopsortering avslöjad – Lundaborna slarvar mer - Sydsvenskan
-- Experternas bästa tips för ett pensionärsliv med guldkant - DI
+- Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
 - Äldre par fick huset äggat - Östersunds-Posten
+- Usel sopsortering avslöjad – Lundaborna slarvar mer - Sydsvenskan
 - Lista: Här är årets största astronomiska upplevelser - Västerbottens-Kuriren
 - Google börjar äntligen låta användare ändra sin Gmail-adress - PC för Alla
 
@@ -32,8 +32,8 @@ _Updated: 2026-01-18 10:49_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -45,23 +45,23 @@ _Updated: 2026-01-18 10:49_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - NTM nominerade i INMA Global Media Awards - ntm.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -142,23 +142,23 @@ _Updated: 2026-01-18 10:49_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
