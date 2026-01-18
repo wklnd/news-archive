@@ -1,67 +1,67 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 04:42_
+_Updated: 2026-01-18 06:28_
 
 ## Top Stories
 
 - Omvärldens reaktioner efter Donald Trumps tullbesked i Grönlandsfrågan - SVT Nyheter
 - En död – flera ryska attacker i Ukraina - Västerbottens-Kuriren
-- Syriens armé i offensiv mot kurdiska fästen - Västerbottens-Kuriren
+- Nathan Shachar: USA kör över Israel och Hamas om Gazas styre - Dagens Nyheter
 - Video visar Machados flykt: "Blöt och kall" - SvD
+- Syriens armé i offensiv mot kurdiska fästen - Västerbottens-Kuriren
 - DN Direkt – USA: Genomfört attack i Syrien - Dagens Nyheter
-- Machado gav Trump sin fredsprismedalj - SvD
 - Vattenläcka i Skarphäll påverkar stora delar av Visby - SVT Nyheter
 - Flera viltolyckor i kväll - Västerbottens-Kuriren
 - Halkvarningen från akuten: ”Lugnet före stormen” - NWT
 - Länsstyrelsen tillåter licensjakt på lodjur i länet - NT
-- Tusentals dödade i Iran: ”Lagerlokaler fyllda med liksäckar” - Expressen
+- Machado gav Trump sin fredsprismedalj - SvD
+- DN Direkt – Fem omkomna i laviner i Österrike - Dagens Nyheter
 - Militär stormade presidentkandidaten Bobi Wines hem - Aftonbladet
-- Flera länder skickar soldater till Grönland - Syre
 - Mercosur – avtalet som kan spränga hela EU - Aftonbladet
 - Ericsson är för dåligt, för litet och för stort - Affärsvärlden
-- Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
+- Att prata lön – från tabu till transparens - Bbl/AT
 - Trump obligationsdrag mitt i Netflix jätteaffär - DI
-- Körde med halva vindrutan täckt av snö – nu åtalas bilföraren - Mariestads-Tidningen
+- Husköpet blev en mardröm – nu står familjen utan bostad och handpenning - Dagens Nyheter
 - Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
-- RAM-ageddon: Minnesbrist kan göra vanliga datorer dyrare - Omni
+- Google Maps gör om en av sina viktigaste funktioner – så märker du förändringen direkt - Dagens.se
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
+- Sojasåsgigant på global förvärvsjakt - DI
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Sojasåsgigant på global förvärvsjakt - DI
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Albanien utser AI-bot till minister - Computer Sweden
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +69,7 @@ _Updated: 2026-01-18 04:42_
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
-- Autonome KI und Unternehmenssysteme als Wettbewerbsvorteil: Warum KI-Assistenten nicht genügen - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 
 ## Business
 
@@ -101,9 +101,10 @@ _Updated: 2026-01-18 04:42_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -114,8 +115,7 @@ _Updated: 2026-01-18 04:42_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -142,13 +142,13 @@ _Updated: 2026-01-18 04:42_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
