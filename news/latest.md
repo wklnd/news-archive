@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-18 17:49_
+_Updated: 2026-01-18 18:54_
 
-- Pentagon readies 1,500 troops for potential Minnesota deployment, US officials say - Reuters
-- Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills - NPR
+- GOP Rep. McCaul says a US invasion of Greenland would mean 'war with NATO itself' - ABC News
+- D.H.S.’s Role Questioned as Immigration Officers Flood U.S. Cities - The New York Times
+- Carney mulling $1B membership to Trump’s ‘Board of Peace’ - Politico
 - CBS News poll finds more Americans say ICE being too tough; Republicans feel protesters have gone too far - CBS News
-- On ‘S.N.L.,’ Trump Recaps his Recent ‘Legal-ish’ Activities - The New York Times
 - Venezuela: Maduro's enforcer Cabello still central to power - NPR
-- Global Leaders Gather in Switzerland to Ponder the Future of a Messy World - The New York Times
+- ‘We’ll Sue’: White House’s Warning to CBS Is Sign of a New Media Status Quo - The New York Times
+- Pentagon readies 1,500 soldiers to possibly deploy to Minnesota, officials say - The Washington Post
+- Peak travel: Viewing the U.S. from each state's highest point - CBS News
 - Trump urges lawmaker to challenge GOP senator who voted to convict him - The Washington Post
-- Somali businesses struggle during the Minneapolis ICE crackdown - Politico
-- Syria Advances on Kurdish-Held Areas as Washington Urges Restraint - The New York Times
-- Pennsylvania woman's final moments captured on home security video. Will it help prove she was murdered? - CBS News
-- What Yoweri Museveni's election victory over Bobi Wine means for Uganda - BBC
-- Iran’s regime may have one chance to save itself - vox.com
-- Five die in Austrian avalanches, rescuers say - BBC
-- Indonesian rescuers find a body and wreckage of plane in mountainous region - AP News
+- ICE jumps to center of midterm campaigns - Politico
+- At least 5,000 dead in Iran unrest, official says, as judiciary hints at executions - Reuters
+- Eight die in Austrian avalanches, rescuers say - BBC
+- Global Leaders Gather in Switzerland to Ponder the Future of a Messy World - The New York Times
+- Trump wants nations to pay $1 billion to stay on his peace board, report says - Reuters
 - Trump suffers major losses in his war on offshore wind - Politico
-- US debt: Deficits inflate profits and stocks, so reducing red ink could trigger a financial crisis - Fortune
+- Elon Musk’s Net Worth Hits Record High After xAI’s Giant Funding Round - Forbes
 - 'Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider
-- Elon Musk Closes In On $800 Billion Net Worth After XAI’s Latest Funding Round - Forbes
-- Wyze Scale Ultra BodyScan Review: Matching The Competition At A Fraction Of The Cost - bgr.com
-- Top 10 Most Wishlisted Strategy Games On Steam In 2026 - Strategy and Wargaming
+- Why Coinbase derailed the crypto industry’s political future - The Verge
+- Google just announced a huge change to Gmail. Here’s what you need to know - PennLive.com
+- Here are the 10 deals worth grabbing from Best Buy’s winter sales event - The Verge
