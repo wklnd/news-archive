@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-18 21:48_
+_Updated: 2026-01-18 22:51_
 
 - Pentagon readies 1,500 soldiers to possibly deploy to Minnesota, officials say - The Washington Post
 - GOP Rep. McCaul says a US invasion of Greenland would mean 'war with NATO itself' - ABC News
-- CBS News poll finds more Americans say ICE being too tough; Republicans feel protesters have gone too far - CBS News
-- At least 5,000 dead in Iran unrest, official says, as judiciary hints at executions - Reuters
-- Venezuela: Maduro's enforcer Cabello still central to power - NPR
+- Melting ice may raise Greenland’s value. Trump’s fight may be just the start. - The Washington Post
+- Louisiana’s Letlow prepares Senate bid after Trump endorsement - Politico
 - Global Leaders Gather in Switzerland to Ponder the Future of a Messy World - The New York Times
-- Transcript: Homeland Security Secretary Kristi Noem on "Face the Nation with Margaret Brennan," Jan. 18, 2026 - CBS News
+- Venezuela: Maduro's enforcer Cabello still central to power - NPR
+- Army reservist says he's spent weeks trying to free his wife from immigration detention - NBC News
 - Pence: ‘Delcy Rodríguez is not the right leader’ for Venezuela - Politico
-- Trump urges lawmaker to challenge Sen. Bill Cassidy in GOP primary - The Washington Post
-- Peak travel: Viewing the U.S. from each state's highest point - CBS News
-- Deadly Chile fires trigger state of catastrophe in Ñuble and Biobío regions - BBC
 - Canada's Carney outlines ‘precondition’ to joining Trump’s ‘Board of Peace’ - Politico
-- Ukrainian drone strikes cut power to hundreds of thousands in Russia-occupied southern Ukraine - AP News
-- European Union and Mercosur bloc sign landmark free trade agreement - PBS
+- Iran warns against any US strike as judiciary hints at unrest-linked executions - Reuters
+- Eight die in Austrian avalanches, rescuers say - BBC
+- What Yoweri Museveni's election victory over Bobi Wine means for Uganda - BBC
 - Trump suffers major losses in his war on offshore wind - Politico
 - Why Coinbase derailed the crypto industry’s political future - The Verge
-- Verizon’s Response to Its Massive Outage Is What No Company Should Ever Do - inc.com
-- Homeowners don’t want to move. It’s a big deal for their shrinking backyards. - The Washington Post
+- IBM report: "AI won't just support businesses, it will define them" - Axios
+- Trump says he will sue JPMorgan ‘over the next two weeks’ for allegedly ‘DEBANKING’ him - Politico
+- Google just announced a huge change to Gmail. Here’s what you need to know - PennLive.com
+- Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down - The Verge
+- Rockstar gives terminally ill fan early access to GTA 6 - Eurogamer
 - Bank of America revamps Alphabet stock after Google enters two key partnerships - thestreet.com
-- Top 10 Most Wishlisted Strategy Games On Steam In 2026 - Strategy and Wargaming
