@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 12:45_
+_Updated: 2026-01-18 13:39_
 
 ## Top Stories
 
 - Segal, 29, om bristerna på LSS-boendet: ”Kan i alla fall prata” - Dagens Nyheter
-- ”Chrippadramat” slog Malmöfamiljens liv i spillror - Sydsvenskan
-- Stor insamling till pojkens minne: ”Var en glad kille” - Aftonbladet
-- Oron efter morden: Oskyldiga transpersoner pekas ut - GP
+- En död – flera ryska attacker i Ukraina - Västerbottens-Kuriren
 - DN Direkt – Trump: Länder ska betala 1 miljard dollar för fast plats i fredsråd - Dagens Nyheter
-- Bråte hittat från försvunnet plan - Expressen
-- 18 januari 08.21, Sammanfattning natt, Jämtlands län - polisen.se
-- Explosion vid bostadshus i Västerås - SVT Nyheter
+- Brutalt rån mot Ica-butik – körde ifrån polisen: ”Yxa och kniv” - NWT
+- Så agerar Ö-viks kommun efter dödsolyckan - Allehanda.se
+- Explosion vid fastighet i Västerås - Västerbottens-Kuriren
+- Man gripen i natt – misstänks ha misshandlat kvinna - Corren
+- 18 januari 08.21, Sammanfattning natt, Jämtlands län - Polisen.se
 - Slagsmål vid krog i Tranås - Skillingaryd
 - Vattenläcka i Skarphäll påverkade stora delar av Visby - SVT Nyheter
+- DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
 - Pekings nya barer finns i vanliga lägenheter - Dagens Nyheter
-- Över 160 000 stupade ryssar identifierade - Aftonbladet
+- USA fiskade efter militära hemligheter på Grönland - GP
 - Väljarnas dom mot Donald Trump – efter ett år - Expressen
-- EU-ambassadörer kallas till krismöte - Expressen
 - Rolls-Royce: ”Stödjer Busch-modellen” - SvD
+- Ericssons nya sparpaket sågas av Bahnhofs vd: ”Känns uppgivet” - Börskollen
 - Brist på populära varan i landet – så ser det ut på Gotland - Helagotland
-- Nasas månraket rullas fram till startplattan - Omni
-- Boliden vill få snabbstart på Nautanen - NSD
+- Tusentals danska jobb i fara – vd:n uppmanar till lugn - DI
 - Lista: Här är årets största astronomiska upplevelser - Västerbottens-Kuriren
 - Google börjar äntligen låta användare ändra sin Gmail-adress - PC för Alla
 
@@ -40,9 +40,9 @@ _Updated: 2026-01-18 12:45_
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -101,21 +101,21 @@ _Updated: 2026-01-18 12:45_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
