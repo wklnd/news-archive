@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 09:40_
+_Updated: 2026-01-18 10:49_
 
 ## Top Stories
 
 - Kraftiga reaktioner efter Trumps tullbesked i Grönlandsfrågan - SVT Nyheter
-- ”Chrippadramat” slog Malmöfamiljens liv i spillror - Sydsvenskan
+- Man i 35-årsåldern allvarligt stickskadad i Ängelholm - SVT Nyheter
+- Brand i vagnhallen i Majorna - GP
 - Segal, 29, om bristerna på LSS-boendet: ”Kan i alla fall prata” - Dagens Nyheter
-- Expert: Trafikverkets miljardupphandlingar för Västlänken kan vara olagliga - GP
-- En död – flera ryska attacker i Ukraina - Västerbottens-Kuriren
-- DN Direkt – Kristersson om tullhotet: Låter oss inte utpressas - Dagens Nyheter
-- Man gripen i natt – misstänks ha misshandlat kvinna - Corren
-- Vattenläcka i Skarphäll påverkade stora delar av Visby - SVT Nyheter
-- 18 januari 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- ”Chrippadramat” slog Malmöfamiljens liv i spillror - Sydsvenskan
+- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
 - 18 januari 08.21, Sammanfattning natt, Jämtlands län - polisen.se
+- Vattenläcka i Skarphäll påverkade stora delar av Visby - SVT Nyheter
+- Slagsmål vid krog i Tranås - Skillingaryd
+- Polisinsats i Mora efter misstänkt grovt brott – två gripna - SVT Nyheter
 - USA fiskade efter militära hemligheter på Grönland - GP
-- EU-ambassadörer kallas till krismöte - Expressen
-- Timbuktu: Europa har ett självskadebeteende - ETC.se
-- Syriens armé i offensiv mot kurdiska fästen - Aftonbladet
-- Analog lyx är den nya statussymbolen - Dagens PS
+- USA: En miljard dollar för fast plats i fredsrådet - Hufvudstadsbladet
+- Bråte hittat från försvunnet plan - Expressen
+- Explosion i bostadsområde i Västerås - SVT Nyheter
 - Brist på populära varan i landet – så ser det ut på Gotland - Helagotland
 - Usel sopsortering avslöjad – Lundaborna slarvar mer - Sydsvenskan
 - Experternas bästa tips för ett pensionärsliv med guldkant - DI
-- Google Maps gör om en av sina viktigaste funktioner – så märker du förändringen direkt - Dagens.se
-- Udda fågeln kniper guldmedaljen när vi jämför flaggskeppsmobiler - Expressen
+- Äldre par fick huset äggat - Östersunds-Posten
+- Lista: Här är årets största astronomiska upplevelser - Västerbottens-Kuriren
+- Google börjar äntligen låta användare ändra sin Gmail-adress - PC för Alla
 
 ## World News
 
@@ -41,27 +41,27 @@ _Updated: 2026-01-18 09:40_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- NTM nominerade i INMA Global Media Awards - ntm.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -85,8 +85,8 @@ _Updated: 2026-01-18 09:40_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -104,7 +104,6 @@ _Updated: 2026-01-18 09:40_
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -113,9 +112,10 @@ _Updated: 2026-01-18 09:40_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 
 ## Science
 
@@ -126,19 +126,19 @@ _Updated: 2026-01-18 09:40_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-01-18 09:40_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
