@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 00:44_
+_Updated: 2026-01-19 01:42_
 
 ## Top Stories
 
-- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
-- Falkenberg: 1 grader och nästan klart under kvällen - Hallands Nyheter
+- Minst fem döda efter tågolycka i Spanien - GP
+- Direkt – Krisen i Mellanöstern – Irans president: Anfall mot högste ledaren kommer leda till krig - Dagens Nyheter
 - Sunita bröt flera ben i spårvagnsolycka vid Frölunda torg - GP
-- ”Det kommer att leda till att Tidö förlorar valet” - SvD
-- Vapenvila när kurdiska styrkor besegrats i Syrien - Västerbottens-Kuriren
-- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
+- Därför behåller jag porträttet av shahen - SvD
+- Misstänkt farligt föremål i centrala Uddevalla – bomskyddet larmat - Bohusläningen
+- Internet tillbaka i Uganda – men inte sociala medier - Omni
 - Nedlagd militär flygbas kan bli beredskapsflygplats - Dagens Nyheter
 - Svensk pizzakedja utses till en av världens bästa - Marcus Oscarsson
 - De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
-- Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
+- Tal av statsminister Ulf Kristersson på Fadimegalan - Regeringen.se
+- Vapenvila när kurdiska styrkor besegrats i Syrien - GP
+- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
 - ”Delcygate”-skandalen: Venezuelas nya ledare anklagad för att smuggla guld i resväskor - Dagens Nyheter
-- Spänd väntan på Trumps intåg i Davos - GP
-- Milei ansluter till fredsrådet - Expressen
-- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
+- Lägesbild Grönland 20260118 - cornucopia.se
 - Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
 - Yrkeshögskolan utökas – hundratals nya utbildningar - Nynäshamns Posten
 - LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
 - Markets kartläggning: Tungt år för hemelektronikbolagen - DI
 - No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
-- Utegym i västerort har varit ur funktion i över ett år - Mitt i
+- Google patenterar ny batterikonstruktion - mobil.se
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- NTM nominerade i INMA Global Media Awards - ntm.se
+- Experter: Smältande isen på Grönland bidrar till geopolitiska spänningarna - Omni
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -60,15 +60,15 @@ _Updated: 2026-01-19 00:44_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -86,9 +86,9 @@ _Updated: 2026-01-19 00:44_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -113,7 +113,7 @@ _Updated: 2026-01-19 00:44_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
