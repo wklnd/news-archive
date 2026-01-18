@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 19:42_
+_Updated: 2026-01-18 20:49_
 
 ## Top Stories
 
-- Sparprofilen: Så kan börsen reagera på tullhotet - GP
-- DN Direkt – Tyska styrkor lämnar Grönland – svenska styrkor stannar - Dagens Nyheter
-- Syriens armé i offensiv mot kurdiska fästen - SVT Nyheter
-- Råkade filma sin egen toalettvåldtäkt - GP
+- Syrien vill se vapenvila efter offensiv mot kurder - Västerbottens-Kuriren
 - Hultqvist om tullhoten: Bortom all rimlighet - SvD
-- Framgångssagan: ”Här fungerar mångkultur” - SvD
+- Två snöskotrar i krock – en person till sjukhus - Expressen
+- Natochefen: Har pratat med Trump om Grönland - GP
+- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
+- Källor: Pentagon rustar 1 500 soldater till Minnesota - SVT Nyheter
 - De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
 - Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
-- Man i 35-årsåldern allvarligt stickskadad i Ängelholm - SVT Nyheter
+- Ung kvinna kastade granater – mot hus - Expressen
 - Gratis festkläder för Väsbys nior - Mitt i
+- Svensk militär kvar på Grönland - SVT Nyheter
+- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
 - Barnhem stängs när Ukraina närmar sig EU - Dagens Nyheter
-- Över 160 000 stupade ryssar identifierade - Aftonbladet
-- DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
-- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
-- Så liten är chansen att vinna på Eurojackpot: ”Absurt” - Expressen
+- ”Delcygate”-skandalen: Venezuelas nya ledare anklagad för att smuggla guld i resväskor - Dagens Nyheter
 - Patricias delvinst mot Hugo Boss: ”Kämpar in i det sista” - Aftonbladet
 - Markets kartläggning: Tungt år för hemelektronikbolagen - DI
-- Brist på populära varan i landet – så ser det ut på Gotland - Helagotland
+- Så liten är chansen att vinna på Eurojackpot: ”Absurt” - Expressen
+- Balder i nytt samriskbolag – planerar jätteprojekt - DI
 - Lista: Här är årets största astronomiska upplevelser - Västerbottens-Kuriren
-- Säljer tidskapel i plysch – otrolig van på auktion - Carup.se
+- No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -101,7 +101,6 @@ _Updated: 2026-01-18 19:42_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
@@ -113,6 +112,7 @@ _Updated: 2026-01-18 19:42_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2026-01-18 19:42_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
