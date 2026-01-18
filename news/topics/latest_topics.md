@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 15:46_
+_Updated: 2026-01-18 16:42_
 
 ## Top Stories
 
-- Stor insamling till pojkens minne: ”Var en glad kille” - Aftonbladet
-- Källor: Pentagon rustar 1 500 soldater till Minnesota - SVT Nyheter
-- Källa inom regimen: Minst 5 000 dödade i Iran - Dagens Nyheter
+- Larm om misstänkt farligt föremål i Uddevalla - SVT Nyheter
 - Framgångssagan: ”Här fungerar mångkultur” - SvD
-- Mordförsök i Ängelholm – man allvarligt skadad - Sydsvenskan
 - En död – flera ryska attacker i Ukraina - GP
+- Stor insamling till pojkens minne: ”Var en glad kille” - Aftonbladet
+- Tyskland drar tillbaka sin styrka från Grönland - Omni
 - Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
+- Man trillade ner från stege i Västra hamnen - Skånska Dagbladet
 - Rånarna kraschade med norsk polis: ”Försökte undkomma” - NWT
-- Man till sjukhus – föll från stege - Expressen
-- 18 januari 08.21, Sammanfattning natt, Jämtlands län - Polisen.se
+- Vattenläcka i Skarphäll påverkade stora delar av Visby - SVT Nyheter
+- Två till sjukhus efter halkolycka på väg 25 - SVT Nyheter
+- Barnhem stängs när Ukraina närmar sig EU - Dagens Nyheter
 - DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
-- USA fiskade efter militära hemligheter på Grönland - GP
-- Över 160 000 stupade ryssar identifierade - Aftonbladet
-- Pekings nya barer finns i vanliga lägenheter - Dagens Nyheter
+- På puben återskapar Azat sin förlorade hembygd - Dagens Nyheter
+- Blair och Kushner tar plats i Gazas fredsråd - Syre
 - Rolls-Royce: ”Stödjer Busch-modellen” - SvD
 - Därför fick Schiphol ställa in 3 000 flygningar - Dagens PS
 - Patricias delvinst mot Hugo Boss: ”Kämpar in i det sista” - Aftonbladet
@@ -28,14 +28,15 @@ _Updated: 2026-01-18 15:46_
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
+- Sojasåsgigant på global förvärvsjakt - DI
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -44,32 +45,31 @@ _Updated: 2026-01-18 15:46_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -86,9 +86,9 @@ _Updated: 2026-01-18 15:46_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -101,54 +101,54 @@ _Updated: 2026-01-18 15:46_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
