@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 20:49_
+_Updated: 2026-01-18 21:38_
 
 ## Top Stories
 
-- Syrien vill se vapenvila efter offensiv mot kurder - Västerbottens-Kuriren
-- Hultqvist om tullhoten: Bortom all rimlighet - SvD
-- Två snöskotrar i krock – en person till sjukhus - Expressen
-- Natochefen: Har pratat med Trump om Grönland - GP
-- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Källor: Pentagon rustar 1 500 soldater till Minnesota - SVT Nyheter
-- De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
 - Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
-- Ung kvinna kastade granater – mot hus - Expressen
+- Syrien vill se vapenvila efter offensiv mot kurder - Västerbottens-Kuriren
+- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
+- Uppmaningen: Krävs ryggrad av ledarna - SvD
+- Två snöskotrar i krock – en person till sjukhus - Expressen
+- Stor insamling till pojkens minne: ”Var en glad kille” - Aftonbladet
+- De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
 - Gratis festkläder för Väsbys nior - Mitt i
-- Svensk militär kvar på Grönland - SVT Nyheter
-- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
-- Barnhem stängs när Ukraina närmar sig EU - Dagens Nyheter
-- ”Delcygate”-skandalen: Venezuelas nya ledare anklagad för att smuggla guld i resväskor - Dagens Nyheter
-- Patricias delvinst mot Hugo Boss: ”Kämpar in i det sista” - Aftonbladet
+- Ung man misstänkt för drograttfylleri - Gefle Dagblad
+- Kvinnans dåd i villakvarteret - Expressen
+- Över 160 000 stupade ryssar identifierade - Västerbottens-Kuriren
+- Natochefen: Har pratat med Trump om Grönland - GP
+- Milei ansluter till fredsrådet - Expressen
+- DN Direkt – Festvåning kollapsade – många skadade i Paris - Dagens Nyheter
+- Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
+- LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
 - Markets kartläggning: Tungt år för hemelektronikbolagen - DI
-- Så liten är chansen att vinna på Eurojackpot: ”Absurt” - Expressen
-- Balder i nytt samriskbolag – planerar jätteprojekt - DI
-- Lista: Här är årets största astronomiska upplevelser - Västerbottens-Kuriren
+- Patricias delvinst mot Hugo Boss: ”Kämpar in i det sista” - Aftonbladet
+- Säljer tidskapel i plysch – otrolig van på auktion - Carup.se
 - No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
 
 ## World News
@@ -101,18 +101,18 @@ _Updated: 2026-01-18 20:49_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
