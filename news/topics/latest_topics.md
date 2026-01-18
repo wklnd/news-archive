@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-18 23:40_
+_Updated: 2026-01-19 00:44_
 
 ## Top Stories
 
-- Minst fem döda efter tågolycka i Spanien - GP
-- Direkt – Krisen i Mellanöstern – Irans president: Anfall mot högste ledaren kommer leda till krig - Dagens Nyheter
-- TIDSLINJE: Beväpnade män rånade butik och kraschade i Norge – allt vi vet - NWT
-- Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
+- Tyska soldater lämnar Grönland – svenska officerare stannar - Dagens Nyheter
+- Falkenberg: 1 grader och nästan klart under kvällen - Hallands Nyheter
+- Sunita bröt flera ben i spårvagnsolycka vid Frölunda torg - GP
+- ”Det kommer att leda till att Tidö förlorar valet” - SvD
+- Vapenvila när kurdiska styrkor besegrats i Syrien - Västerbottens-Kuriren
+- Karin Eriksson: Kanske har ingen enat Norden som Trump – ofrivilligt - Dagens Nyheter
 - Nedlagd militär flygbas kan bli beredskapsflygplats - Dagens Nyheter
-- Man död – påkörd av tåg i Bollnäs - Expressen
+- Svensk pizzakedja utses till en av världens bästa - Marcus Oscarsson
 - De såg drogmiljön förändras: ”Knarkade bort tio år” - Dagens Nyheter
-- Oron efter morden: Oskyldiga transpersoner pekas ut - GP
-- Tal av statsminister Ulf Kristersson på Fadimegalan - Regeringen.se
-- Förare fast i nykterhetskontroll – stoppades i Boden - NSD
-- Spänd väntan på Trumps närvaro i Davos - Hufvudstadsbladet
-- Natochefen: Har pratat med Trump om Grönland - GP
+- Tim var ute med hunden – stötte på en varg: ”Jättehäftigt” - Dagens Nyheter
 - ”Delcygate”-skandalen: Venezuelas nya ledare anklagad för att smuggla guld i resväskor - Dagens Nyheter
-- Tunnelbanestation utrymdes: ”Pizzeria hade gräddat lite för hårt” - Expressen
+- Spänd väntan på Trumps intåg i Davos - GP
+- Milei ansluter till fredsrådet - Expressen
+- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
 - Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
 - Yrkeshögskolan utökas – hundratals nya utbildningar - Nynäshamns Posten
 - LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
 - Markets kartläggning: Tungt år för hemelektronikbolagen - DI
 - No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
-- Google patenterar ny batterikonstruktion - mobil.se
+- Utegym i västerort har varit ur funktion i över ett år - Mitt i
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-01-18 23:40_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -56,11 +56,11 @@ _Updated: 2026-01-18 23:40_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Der Wettlauf im Bereich der Künstlichen Intelligenz (KI): 7 Länder, die Sie im Blick haben sollten – Deutschland mit dabei – Top Ten Tipp - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -87,8 +87,8 @@ _Updated: 2026-01-18 23:40_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
