@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 11:56_
+_Updated: 2026-01-19 12:55_
 
 ## Top Stories
 
-- Detta vet vi om Trumps tullhot om Grönland - GP
-- Chef kände till hemlig övervakning på rättspsyk - Västerbottens-Kuriren
+- Nära 40 döda i tågolycka i södra Spanien - Dagens Nyheter
 - Dumpen krävs på halv miljon av östgöte – nu avgörs fallet - NT
-- Tågstopp genom Hässleholm – tekniker på plats - SVT Nyheter
-- Trots nya larmen från Granliden – inget anmält till Arbetsmiljöverket - GP
-- När äldre varnar – men ingen lyssnar - Kvartal
-- SVT erfar: Offentlighetsprincip införs inom friskolan - SVT Nyheter
-- Landsbygdsminister Peter Kullgren besöker Gotland - Regeringen.se
-- 18 januari 08.22, Sammanfattning natt, Norrbottens län - Polisen.se
-- Kretsloppspark Stenkullen öppnar 28 januari och Hultet stänger den 22 januari - Lerums kommun
-- Svår tågolycka i Spanien – minst 20 döda - GP
-- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
+- Kreml: Putin inbjuden till Trumps fredsråd - SVT Nyheter
 - Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
+- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
+- Misstänkt farligt föremål i centrala Uddevalla – bomskyddet larmat - Bohusläningen
+- Chef kände till hemlig övervakning på rättspsyk - Västerbottens-Kuriren
+- Fortkörning och renpåkörningar under natten som gick - NSD
+- Comprehensive Cancer Center-nätverket välkomnar ny nationell cancerstrategi för framtidens vård - Region Uppsala
+- Landsbygdsminister Peter Kullgren besöker Gotland - Regeringen.se
+- Nu kan vem som helst vara marginaliserad - Kvartal
 - Irans internet-drag: ”Det är så man vill vinna” - SvD
-- Årets islossning på börsen är under hot - EFN
-- Från tolkutbildning till nytt kontaktcenter – här är finalisterna till Årets kompetensutveckling 2025 - Via TT
-- Kina bromsar in – lägsta tillväxten på tre år - Omni Ekonomi
-- Chockdraget: Kinesiskt hjärta i amerikanska bilar - Dagens PS
+- Spänd väntan på Trumps intåg i Davos - Aftonbladet
+- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
+- Över 160 OMXS30-miljarder upp i rök - DI
+- Nordens rikaste satsar svenskt – här är miljardärernas portföljer - Affärsvärlden
+- BofA: Silverpriset kan dubblas – trots övervärderingen - Affärsvärlden
+- Siffrorna visar: Kraftig minskning av vab - Tidningen Ångermanland
 - Claude Code tar över utvecklarnas jobb: ”Ska jag skriva koden själv?” - NyTeknik
-- Threads drar ifrån X i dagliga mobilanvändare - Omni
+- Microsoft rullar ut ny akutfix för Windows 11 - PC för Alla
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
@@ -44,7 +45,6 @@ _Updated: 2026-01-19 11:56_
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Sojasåsgigant på global förvärvsjakt - DI
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
@@ -119,26 +119,26 @@ _Updated: 2026-01-19 11:56_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
