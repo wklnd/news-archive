@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 06:37_
+_Updated: 2026-01-19 07:54_
 
 ## Top Stories
 
+- Trots nya larmen från Granliden – inget anmält till Arbetsmiljöverket - GP
 - LEDARE: Ungdomar måste sluta dissa skolmaten - Smålandsposten
-- Misstänkt farligt föremål i centrala Uddevalla – bomskyddet larmat - Bohusläningen
-- Syriens armé i offensiv mot kurdiska fästen - Dagens Nyheter
-- Lägesbild Grönland 20260118 - cornucopia.se
-- Vinsten väntas skjuta i höjden – nu är det köpläge i aktien - Privata Affärer
+- Oxfam: Nytt rekordår för världens miljardärer - Aftonbladet
+- Larmet: Räknat fel på flera miljarder kronor - SvD
+- När äldre varnar – men ingen lyssnar - Kvartal
+- Guatemala: Undantagstillstånd efter polismord - GP
+- Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
+- DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
 - En jobbgaranti ska stabilisera – inte konkurrera - Dagens Arena
 - Lars vill att hans dotter ska få sova längre – anmäler Ronneby kommun - SVT Nyheter
-- Socialtjänsten tänker om – från krisåtgärder till vardagsstöd - Telgenytt
-- Tal av statsminister Ulf Kristersson på Fadimegalan - Regeringen.se
-- DN Direkt – Rutte: Har talat med Trump om Grönland - Dagens Nyheter
-- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
+- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
 - Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
-- Spänd väntan på Trumps intåg i Davos - Aftonbladet
-- AI-svenskens varning: Kinas 996-kultur utmanar Europa - NyTeknik
+- Israel kritiserar Trumps fredsråd för Gaza - Aftonbladet
+- Lägesbild Grönland 20260118 - cornucopia.se
+- Nya krav – det förväntas av jobbsökande - SvD
+- Chockdraget: Kinesiskt hjärta i amerikanska bilar - Dagens PS
 - Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
-- Ericssons nya sparpaket sågas av Bahnhofs vd: ”Känns uppgivet” - Börskollen
-- Lista: Här är nio nya utbildningar i Blekinge - Sydöstran
-- Google Maps gör om en av sina viktigaste funktioner – så märker du förändringen direkt - Dagens.se
-- Google patenterar ny batterikonstruktion - mobil.se
-- No Rest for the Wicked har sålt 1 miljon exemplar på Steam - FZ.se
+- LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
+- Analytiker: Så blir vikbara ”Iphone Fold” – kan komma redan i höst - NyTeknik
+- Så här kan industrin minska klimatavtrycket – genom hygien och rengöring - Metal Supply
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- NTM nominerade i INMA Global Media Awards - ntm.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Handelsbanken lanserar ny global indexfond - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 
 ## Technology
 
@@ -102,18 +102,18 @@ _Updated: 2026-01-19 06:37_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Engineering Health 2024 - Chalmers
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
@@ -121,7 +121,6 @@ _Updated: 2026-01-19 06:37_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
@@ -132,6 +131,7 @@ _Updated: 2026-01-19 06:37_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -145,20 +145,20 @@ _Updated: 2026-01-19 06:37_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
