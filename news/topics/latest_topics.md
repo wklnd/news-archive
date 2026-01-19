@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 18:56_
+_Updated: 2026-01-19 19:48_
 
 ## Top Stories
 
-- Carl Johan von Seth: I Davos ställs spelet om Grönland på sin spets - Dagens Nyheter
-- Trafikinspektören Ihab dog under uppkörning: ”Borde satt stopp” - Aftonbladet
 - ”Vet många som inte känner sig välkomna” - SvD
-- Kyrkobesökare kidnappade i Nigeria - Västerbottens-Kuriren
-- Kineserna skaffar rekordfå barn – befolkningen minskar - Dagens Nyheter
-- Växjöpolitikern får central roll i Vänsterpartiet inför valet - SVT Nyheter
-- Judisk solidaritetshandling mot Stockholms moské: ”Ingen pratar om hopp längre” - Dagens Nyheter
-- Comprehensive Cancer Center-nätverket välkomnar ny nationell cancerstrategi för framtidens vård - Region Östergötland
-- Insändare. Svar: Skolans driftsform är i högsta grad avgörande - Dagens Nyheter
-- Uppgifter: Ytterligare Foxtrot-allierad gripen i Irak - SVT Nyheter
-- Iran återställer ”gradvis” internet - GP
+- Man fick stålbalk över sig – allvarligt skadad - Aftonbladet
+- Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
+- Spänd väntan på Trumps intåg i Davos - SvD
 - Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
-- Norske ”bonusprinsen” åtalad för nya brott - Hufvudstadsbladet
-- Olle Lönnaeus Sveriges hopp: Donald Trump kan hejdas redan i höst - Sydsvenskan
-- Affärsvärlden ger ett neutralt råd för nykomlingen APR Technologies - Affärsvärlden
+- Kongressen i USA kan stoppa Trump – men gör det inte - GP
+- Judisk solidaritetshandling mot Stockholms moské: ”Ingen pratar om hopp längre” - Dagens Nyheter
+- Stora trafikprojekt sätter press på Göteborgstrafiken - goteborgsbyggnyheter.se
+- Insändare. Svar: Skolans driftsform är i högsta grad avgörande - Dagens Nyheter
+- Nu kan vem som helst vara marginaliserad - Kvartal
+- Kreml: Tar USA Grönland – går Trump ”till historien” - Expressen
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
+- Nya skatteförslag ska öka företagens investeringar i forskning - Life Science Sweden
 - Beläggningsarbetare till NCC Asfalt i södra Skåne - ncc.se
-- Avdrag för sponsring ska bli lättare - Företagarna
+- Investmentjättar faller tungt – dagens vinnare och förlorare - DI
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
+- Regeringen fortsätter att stärka stödet för återgång i arbete - Regeringen.se
+- Ny metod kan förutsäga astmaattacker upp till fem år innan de sker - Karolinska Institutet
+- Så har bolmande stjärnor fått rökningens skamfläck att blekna - Dagens Nyheter
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
@@ -64,35 +64,35 @@ _Updated: 2026-01-19 18:56_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -142,13 +142,12 @@ _Updated: 2026-01-19 18:56_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -156,9 +155,10 @@ _Updated: 2026-01-19 18:56_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
