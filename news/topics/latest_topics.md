@@ -1,42 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 15:59_
+_Updated: 2026-01-19 16:53_
 
 ## Top Stories
 
-- DN Direkt – Ledamot i vanskött förening döms till fängelse - Dagens Nyheter
-- Trafikinspektören Ihab dog under uppkörning: ”Borde satt stopp” - Aftonbladet
+- Så ser Sveriges export ut – allvarligt läge efter USA:s tullhot - Dagens Nyheter
+- Ihab, 43, dog i körskolebilen - Expressen
 - Ex-ministern: ”Nato står inför en kollaps” - SvD
-- Sverige skickar Jas Gripen-plan till Island - SVT Nyheter
 - Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
-- Vänsterpartiet förbereder sig för regerings­förhandlingar - Vänsterpartiet
-- Klinikchefen kände till den hemliga övervakningen på rättspsyk - Dagens Nyheter
+- Gripenplan till Island för Arktisberedskap - Corren
+- Danmark till Nato: Ska göra mer i Arktis - Västerbottens-Kuriren
 - Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
-- Thand Ringqvist: C är garant för att V inte får makt – Senaste nytt om valet 2026 - SVT Nyheter
-- Ivo får i uppdrag att korta handläggningstiderna - Publikt
+- Man i 30-årsåldern död i tågolycka i Bollnäs - SVT Nyheter
+- DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
+- Kulturarrangemang under Förintelsens minnesvecka - Västerås stad
 - Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
+- Nu kan vem som helst vara marginaliserad - Kvartal
 - Spänd väntan på Trumps intåg i Davos - Aftonbladet
 - Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
-- Högsta elpriset på två år - DI
-- Investmentjättar faller tungt – dagens vinnare och förlorare - DI
 - Affärsvärlden ger ett neutralt råd för nykomlingen APR Technologies - Affärsvärlden
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
+- Kraftig minskning av vab 2025 - Örebronyheter
+- Gartner: Globala AI-utgifterna når 2,5 biljoner dollar 2026 - Computer Sweden
 - Microsoft rullar ut akutfix för Windows 11 - Computer Sweden
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -46,7 +45,8 @@ _Updated: 2026-01-19 15:59_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -64,11 +64,11 @@ _Updated: 2026-01-19 15:59_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -109,18 +109,19 @@ _Updated: 2026-01-19 15:59_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
@@ -131,7 +132,6 @@ _Updated: 2026-01-19 15:59_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
