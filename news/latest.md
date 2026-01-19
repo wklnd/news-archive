@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-19 17:56_
+_Updated: 2026-01-19 19:00_
 
 - Trump tariffs live updates: Trump links Greenland threats to Nobel Peace Prize snub; EU discusses $108 billion in retaliatory tariffs - Yahoo Finance
-- Prince Harry vs. the Daily Mail: The British privacy trial starts - CNN
+- What We Know About the Deadly High-Speed Train Crash in Spain - The New York Times
+- Inequality and unease are rising as elite Davos event opens with pro-business Trump set to attend - AP News
 - Prominent Catholic Clerics Denounce U.S. Foreign Policy - The New York Times
-- Blast at a hotel in downtown Kabul leaves multiple casualties, officials say - ABC News
-- In one year, Trump has shaken up everything. With what effect? - The Christian Science Monitor
-- Josh Shapiro Writes That Harris Team Asked if He Had Ever Been an Israeli Agent - The New York Times
+- Prince Harry vs. the Daily Mail: The British privacy trial starts - CNN
+- Chile wildfires leave 19 dead amid extreme heat as scores evacuated - Reuters
+- In historic first for Virginia, Adam Spanberger becomes first gentleman - The Washington Post
 - The current US political climate is spurring a ‘reclaim’ and rallying on the MLK holiday - AP News
-- Here are the 10 executive orders Gov. Abigail Spanberger signed Day 1 - VPM
-- Counterprotesters chase off far-right activists at pro-ICE rally in Minneapolis - The Guardian
-- Column | As Trump goes to Davos, the world faces a ‘new reality’ - The Washington Post
-- China’s Birthrate Plunges to Lowest Level Since 1949 - The New York Times
-- 8 police officers killed in attacks in Guatemala after prison crackdown on gangs - CBS News
-- China hits growth goal after exports defy US tariffs - BBC
-- I.M.F. Raises Forecast for Global Growth as Tariff Drag Fades - The New York Times
+- The dream still matters - Slow Boring
+- Greenland protesters mock Trump with their own red cap slogan - The Independent
+- China hits its GDP target—in a weird way - The Economist
 - Stellantis stock off 43% as Jeep maker turns five, executes turnaround - CNBC
-- Big Business Should End Its Faustian Bargain With Trump - Paul Krugman | Substack
+- Americans Are the Ones Paying for Tariffs, Study Finds - The Wall Street Journal
+- What Trump’s proposed 10 percent cap on card rates could mean for you - The Washington Post
 - YouTube TV price is $59.99/month with 10-day free trial in latest offer - 9to5Google
-- Samsung Galaxy S26 Ultra colors basically confirmed after promising new leak - PhoneArena
-- EXCLUSIVE: Xbox Cloud Gaming is getting ad-supported access VERY soon - Windows Central
-- An Explosion Rocks ‘GTA 6’ Developer Rockstar North, Reportedly An Accident - Forbes
+- We unbox the Xiaomi 17 Ultra by Leica, Galaxy S26 series leaks, Week 3 in review - GSMArena.com news - GSMArena.com
+- High-End Computer Monitors Are Great, But The Smart Money Buys A Cheaper Panel - bgr.com
+- Emergency services called after explosion at Rockstar North offices - BBC
+- ‘A Knight of the Seven Kingdoms’ Creator on George R. R. Martin’s Plans for 15 More Books and That Gross Poop Shot in the Premiere: ‘It’s Not a Fake Up There S—-ing on Screen. That’s His Butt’ - Variety
+- HYBE Boy Group Under Fire For Plagiarizing Fellow HYBE Boy Group - Koreaboo
