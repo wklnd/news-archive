@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 19:48_
+_Updated: 2026-01-19 20:55_
 
 ## Top Stories
 
 - ”Vet många som inte känner sig välkomna” - SvD
-- Man fick stålbalk över sig – allvarligt skadad - Aftonbladet
+- Dränktes – tysk dömd för makabra skärgårdsmordet - GP
+- Tre hajattacker på ett dygn i Sydney - GP
+- DN Direkt – Explosion i Kabul – flera döda - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Erdogan berömmer syriska attacker mot IS-fängelse - Dagens Nyheter
 - Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
-- Spänd väntan på Trumps intåg i Davos - SvD
-- Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
-- Kongressen i USA kan stoppa Trump – men gör det inte - GP
+- Allvarlig arbetsolycka i Kungsbacka - SVT Nyheter
 - Judisk solidaritetshandling mot Stockholms moské: ”Ingen pratar om hopp längre” - Dagens Nyheter
+- Hur går det till att laga en vattenläcka? - Region Gotland
 - Stora trafikprojekt sätter press på Göteborgstrafiken - goteborgsbyggnyheter.se
-- Insändare. Svar: Skolans driftsform är i högsta grad avgörande - Dagens Nyheter
-- Nu kan vem som helst vara marginaliserad - Kvartal
-- Kreml: Tar USA Grönland – går Trump ”till historien” - Expressen
+- Danmark vill ha Nato-insats kring Grönland - Dagens Nyheter
+- Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
+- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
+- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
 - Nya skatteförslag ska öka företagens investeringar i forskning - Life Science Sweden
+- Nästan en miljon färre vab-dagar år 2025 – vobbandet ökar - Omni
 - Beläggningsarbetare till NCC Asfalt i södra Skåne - ncc.se
-- Investmentjättar faller tungt – dagens vinnare och förlorare - DI
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
-- Regeringen fortsätter att stärka stödet för återgång i arbete - Regeringen.se
-- Ny metod kan förutsäga astmaattacker upp till fem år innan de sker - Karolinska Institutet
-- Så har bolmande stjärnor fått rökningens skamfläck att blekna - Dagens Nyheter
 
 ## World News
 
@@ -36,13 +36,13 @@ _Updated: 2026-01-19 19:48_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
