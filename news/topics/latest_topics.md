@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 12:55_
+_Updated: 2026-01-19 13:45_
 
 ## Top Stories
 
-- Nära 40 döda i tågolycka i södra Spanien - Dagens Nyheter
+- DN Direkt – Stort antal danska soldater till Grönland - Dagens Nyheter
 - Dumpen krävs på halv miljon av östgöte – nu avgörs fallet - NT
-- Kreml: Putin inbjuden till Trumps fredsråd - SVT Nyheter
+- DN Direkt – Kreml: Putin inbjuden att delta i Trumps fredsråd - Dagens Nyheter
 - Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
-- Misstänkt farligt föremål i centrala Uddevalla – bomskyddet larmat - Bohusläningen
-- Chef kände till hemlig övervakning på rättspsyk - Västerbottens-Kuriren
+- När äldre varnar – men ingen lyssnar - Kvartal
+- Regeringen föreslår full insyn i friskolor - GP
+- Chef kände till hemlig övervakning på rättspsyk - GP
+- Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
+- Man i 30-årsåldern död i tågolycka i Bollnäs - SVT Nyheter
 - Fortkörning och renpåkörningar under natten som gick - NSD
-- Comprehensive Cancer Center-nätverket välkomnar ny nationell cancerstrategi för framtidens vård - Region Uppsala
-- Landsbygdsminister Peter Kullgren besöker Gotland - Regeringen.se
-- Nu kan vem som helst vara marginaliserad - Kvartal
+- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
 - Irans internet-drag: ”Det är så man vill vinna” - SvD
 - Spänd väntan på Trumps intåg i Davos - Aftonbladet
 - Natochefen: Har pratat med Trump om Grönland - Aftonbladet
 - Över 160 OMXS30-miljarder upp i rök - DI
 - Nordens rikaste satsar svenskt – här är miljardärernas portföljer - Affärsvärlden
-- BofA: Silverpriset kan dubblas – trots övervärderingen - Affärsvärlden
-- Siffrorna visar: Kraftig minskning av vab - Tidningen Ångermanland
+- Tio procent mindre vab förra året - Dagens Medicin
+- Gartner: Globala AI-utgifterna når 2,5 biljoner dollar 2026 - Computer Sweden
+- Microsoft rullar ut akutfix för Windows 11 - Computer Sweden
 - Claude Code tar över utvecklarnas jobb: ”Ska jag skriva koden själv?” - NyTeknik
-- Microsoft rullar ut ny akutfix för Windows 11 - PC för Alla
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- NTM nominerade i INMA Global Media Awards - ntm.se
-- Handelsbanken lanserar ny global indexfond - Cision News
-- Sojasåsgigant på global förvärvsjakt - DI
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -108,37 +108,37 @@ _Updated: 2026-01-19 12:55_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
