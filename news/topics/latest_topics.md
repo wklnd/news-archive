@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 09:03_
+_Updated: 2026-01-19 09:49_
 
 ## Top Stories
 
-- LEDARE: Ungdomar måste sluta dissa skolmaten - Smålandsposten
 - Trots nya larmen från Granliden – inget anmält till Arbetsmiljöverket - GP
-- Skott mot radhus i Upplands Väsby - Aftonbladet
+- DN Direkt – Trump mot Norge: Fick inte fredspriset – behöver inte verka för fred - Dagens Nyheter
 - Oxfam: Nytt rekordår för världens miljardärer - Västerbottens-Kuriren
-- När äldre varnar – men ingen lyssnar - Kvartal
-- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
-- Fortkörning och renpåkörningar under natten som gick - NSD
-- DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
-- En jobbgaranti ska stabilisera – inte konkurrera - Dagens Arena
-- Svår tågolycka i Spanien – minst 20 döda - GP
-- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
 - Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
-- Irans internet-drag: ”Det är så man vill vinna” - SvD
+- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
+- Misstänkt farligt föremål i centrala Uddevalla – bomskyddet larmat - Bohusläningen
+- Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
+- Klinikchefen kände till den hemliga övervakningen på rättspsyk - Dagens Nyheter
+- Man i 30-årsåldern död i tågolycka i Bollnäs - SVT Nyheter
+- Fortkörning och renpåkörningar under natten som gick - NSD
+- Natochefen: Har pratat med Trump om Grönland - GP
+- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
+- Nu kan vem som helst vara marginaliserad - Kvartal
+- Blair och Kushner tar plats i Gazas fredsråd - Syre
 - Nya krav – det förväntas av jobbsökande - SvD
-- Chockdraget: Kinesiskt hjärta i amerikanska bilar - Dagens PS
-- Byggkonkurser minskade svagt under 2025 - Börsvärlden
-- Bättre än snittet – men patienter får vänta för länge - Nordsverige
+- Dollarn sjunker och guld och silver slår nya rekord - Dagens PS
+- Kinas bromsar in – lägsta tillväxten på tre år - Omni
+- Från tolkutbildning till nytt kontaktcenter – här är finalisterna till Årets kompetensutveckling 2025 - Via TT
 - Analytiker: Så blir vikbara ”Iphone Fold” – kan komma redan i höst - NyTeknik
-- Så här kan industrin minska klimatavtrycket – genom hygien och rengöring - Metal Supply
+- Varför bli alla prylar bara sämre? - SvD
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
@@ -46,6 +45,7 @@ _Updated: 2026-01-19 09:03_
 - NTM nominerade i INMA Global Media Awards - ntm.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 
 ## Technology
@@ -102,20 +102,20 @@ _Updated: 2026-01-19 09:03_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Engineering Health 2024 - Chalmers
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
@@ -143,8 +143,8 @@ _Updated: 2026-01-19 09:03_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -161,4 +161,4 @@ _Updated: 2026-01-19 09:03_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
