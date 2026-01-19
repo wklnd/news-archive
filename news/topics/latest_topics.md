@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 07:54_
+_Updated: 2026-01-19 09:03_
 
 ## Top Stories
 
-- Trots nya larmen från Granliden – inget anmält till Arbetsmiljöverket - GP
 - LEDARE: Ungdomar måste sluta dissa skolmaten - Smålandsposten
-- Oxfam: Nytt rekordår för världens miljardärer - Aftonbladet
-- Larmet: Räknat fel på flera miljarder kronor - SvD
+- Trots nya larmen från Granliden – inget anmält till Arbetsmiljöverket - GP
+- Skott mot radhus i Upplands Väsby - Aftonbladet
+- Oxfam: Nytt rekordår för världens miljardärer - Västerbottens-Kuriren
 - När äldre varnar – men ingen lyssnar - Kvartal
-- Guatemala: Undantagstillstånd efter polismord - GP
+- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
 - Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
+- Fortkörning och renpåkörningar under natten som gick - NSD
 - DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
 - En jobbgaranti ska stabilisera – inte konkurrera - Dagens Arena
-- Lars vill att hans dotter ska få sova längre – anmäler Ronneby kommun - SVT Nyheter
-- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
+- Svår tågolycka i Spanien – minst 20 döda - GP
+- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
 - Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
-- Israel kritiserar Trumps fredsråd för Gaza - Aftonbladet
-- Lägesbild Grönland 20260118 - cornucopia.se
+- Irans internet-drag: ”Det är så man vill vinna” - SvD
 - Nya krav – det förväntas av jobbsökande - SvD
 - Chockdraget: Kinesiskt hjärta i amerikanska bilar - Dagens PS
-- Mekaniker varnar för vintermiss: Skadar bilen mest - Carup.se
-- LISTA: Företagen som ger högst lön i Sverige - Aftonbladet
+- Byggkonkurser minskade svagt under 2025 - Börsvärlden
+- Bättre än snittet – men patienter får vänta för länge - Nordsverige
 - Analytiker: Så blir vikbara ”Iphone Fold” – kan komma redan i höst - NyTeknik
 - Så här kan industrin minska klimatavtrycket – genom hygien och rengöring - Metal Supply
 
@@ -145,15 +145,16 @@ _Updated: 2026-01-19 07:54_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-01-19 07:54_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
