@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 00:47_
+_Updated: 2026-01-20 01:43_
 
 ## Top Stories
 
-- Uppgifter: Trump ”felinformerad” om Grönland - GP
-- Erik de la Reguera: Macron har ett särskilt skäl att oroa sig för Trumps hot - Dagens Nyheter
-- Pål Jonson till Bryssel för möte om arktisk säkerhet - Regeringen.se
-- Direkt – Krisen i Mellanöstern – 1 500 IS-fångar uppges ha rymt från syriskt fängelse - Dagens Nyheter
-- Många larm om explosion i Lunden – poliser på plats - GP
-- Kvinna åtalas för barnvåldtäkt – efter lagändring - Dagens Nyheter
-- 19 januari 20.28, Trafikkontroll, Västernorrlands län - polisen.se
-- Flera viltolyckor och renpåkörningar - Västerbottens-Kuriren
 - Det innebär Daniel Bernmars roll – i Nooshi Dadgostars nya lag - GP
-- 19 januari 21.38, Trafikolycka, vilt, Jämtlands län - polisen.se
-- Kyrkobesökare kidnappade i Nigeria - GP
 - Sanna Torén Björling: Ett år med Trump förändrade allt för Ukraina - Dagens Nyheter
-- Stubb: Ukraina har hamnat i skymundan av Grönland - Dagens Nyheter
+- Experten: Europa ser inget utan USA - SvD
+- Uppgifter: Trump ”felinformerad” om Grönland - GP
+- Pål Jonson till Bryssel för möte om arktisk säkerhet - Regeringen.se
 - Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
+- Kvinna åtalas för barnvåldtäkt – efter lagändring - Dagens Nyheter
+- 19 januari 20.28, Trafikkontroll, Västernorrlands län - Polisen.se
+- Flera viltolyckor och renpåkörningar - Västerbottens-Kuriren
+- Allvarlig arbetsolycka i Kungsbacka - SVT Nyheter
+- Erik de la Reguera: Macron har ett särskilt skäl att oroa sig för Trumps hot - Dagens Nyheter
+- Stubb: Ukraina har hamnat i skymundan av Grönland - Dagens Nyheter
+- Michael Winiarski: Utländska högerpopulister hjälper pressad Orbán - Dagens Nyheter
+- Donald Trumps bakslag: Europa utklassar USA - DI
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
-- Antalet transaktioner på Ethereum når rekordnivå - Dagens PS
-- Försvarsaktier mot strömmen på Europabörserna - DI
+- Företag föreslås få dra av mer för forskare - Tidningen Näringslivet
 - Varnar för ”ett andra Tjernobyl” - Expressen
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
+- Därför har Umåker stängt sin stallbacke - Travronden
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
 
 ## World News
@@ -36,8 +36,8 @@ _Updated: 2026-01-20 00:47_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -99,7 +99,6 @@ _Updated: 2026-01-20 00:47_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
@@ -109,46 +108,47 @@ _Updated: 2026-01-20 00:47_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -161,4 +161,4 @@ _Updated: 2026-01-20 00:47_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
