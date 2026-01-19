@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 10:58_
+_Updated: 2026-01-19 11:56_
 
 ## Top Stories
 
 - Detta vet vi om Trumps tullhot om Grönland - GP
-- Trumps brev: Fick inte fredspriset – tänker inte bara verka för fred - SVT Nyheter
+- Chef kände till hemlig övervakning på rättspsyk - Västerbottens-Kuriren
 - Dumpen krävs på halv miljon av östgöte – nu avgörs fallet - NT
-- När äldre varnar – men ingen lyssnar - Kvartal
-- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
-- LEDARE: Ungdomar måste sluta dissa skolmaten - Smålandsposten
-- Klinikchefen kände till den hemliga övervakningen på rättspsyk - Dagens Nyheter
-- Man i 30-årsåldern död i tågolycka i Bollnäs - SVT Nyheter
-- Fortkörning och renpåkörningar under natten som gick - NSD
 - Tågstopp genom Hässleholm – tekniker på plats - SVT Nyheter
+- Trots nya larmen från Granliden – inget anmält till Arbetsmiljöverket - GP
+- När äldre varnar – men ingen lyssnar - Kvartal
+- SVT erfar: Offentlighetsprincip införs inom friskolan - SVT Nyheter
+- Landsbygdsminister Peter Kullgren besöker Gotland - Regeringen.se
+- 18 januari 08.22, Sammanfattning natt, Norrbottens län - Polisen.se
+- Kretsloppspark Stenkullen öppnar 28 januari och Hultet stänger den 22 januari - Lerums kommun
+- Svår tågolycka i Spanien – minst 20 döda - GP
+- Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
 - Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
-- Spänd väntan på Trumps intåg i Davos - Aftonbladet
 - Irans internet-drag: ”Det är så man vill vinna” - SvD
-- Danmark och Norge i krismöte: "Oroande" - Expressen
-- Nya krav – det förväntas av jobbsökande - SvD
-- Dollarn sjunker och guld och silver slår nya rekord - Dagens PS
-- Så kastar bilägare bort 2,8 miljarder kr – varje år - Carup.se
+- Årets islossning på börsen är under hot - EFN
+- Från tolkutbildning till nytt kontaktcenter – här är finalisterna till Årets kompetensutveckling 2025 - Via TT
+- Kina bromsar in – lägsta tillväxten på tre år - Omni Ekonomi
 - Chockdraget: Kinesiskt hjärta i amerikanska bilar - Dagens PS
-- Analytiker: Så blir vikbara ”Iphone Fold” – kan komma redan i höst - NyTeknik
+- Claude Code tar över utvecklarnas jobb: ”Ska jag skriva koden själv?” - NyTeknik
 - Threads drar ifrån X i dagliga mobilanvändare - Omni
 
 ## World News
@@ -31,22 +31,22 @@ _Updated: 2026-01-19 10:58_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- NTM nominerade i INMA Global Media Awards - ntm.se
+- Handelsbanken lanserar ny global indexfond - Cision News
+- Sojasåsgigant på global förvärvsjakt - DI
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -57,15 +57,15 @@ _Updated: 2026-01-19 10:58_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -87,8 +87,8 @@ _Updated: 2026-01-19 10:58_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -108,7 +108,6 @@ _Updated: 2026-01-19 10:58_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2026-01-19 10:58_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
@@ -143,8 +143,8 @@ _Updated: 2026-01-19 10:58_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
