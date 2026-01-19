@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 17:50_
+_Updated: 2026-01-19 18:56_
 
 ## Top Stories
 
-- Så ser Sveriges export ut – allvarligt läge efter USA:s tullhot - Dagens Nyheter
-- Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
-- Vänsterpartiet förbereder sig för regerings­förhandlingar - Vänsterpartiet
+- Carl Johan von Seth: I Davos ställs spelet om Grönland på sin spets - Dagens Nyheter
 - Trafikinspektören Ihab dog under uppkörning: ”Borde satt stopp” - Aftonbladet
-- Ex-ministern: ”Nato står inför en kollaps” - SvD
-- Kongressen i USA kan stoppa Trump – men gör det inte - GP
-- DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
-- Kulturarrangemang under Förintelsens minnesvecka - Västerås stad
-- Sverige skickar Jas Gripen-plan till Island - SVT Nyheter
-- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
+- ”Vet många som inte känner sig välkomna” - SvD
+- Kyrkobesökare kidnappade i Nigeria - Västerbottens-Kuriren
+- Kineserna skaffar rekordfå barn – befolkningen minskar - Dagens Nyheter
+- Växjöpolitikern får central roll i Vänsterpartiet inför valet - SVT Nyheter
+- Judisk solidaritetshandling mot Stockholms moské: ”Ingen pratar om hopp längre” - Dagens Nyheter
+- Comprehensive Cancer Center-nätverket välkomnar ny nationell cancerstrategi för framtidens vård - Region Östergötland
+- Insändare. Svar: Skolans driftsform är i högsta grad avgörande - Dagens Nyheter
+- Uppgifter: Ytterligare Foxtrot-allierad gripen i Irak - SVT Nyheter
+- Iran återställer ”gradvis” internet - GP
+- Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
+- Norske ”bonusprinsen” åtalad för nya brott - Hufvudstadsbladet
+- Olle Lönnaeus Sveriges hopp: Donald Trump kan hejdas redan i höst - Sydsvenskan
 - Affärsvärlden ger ett neutralt råd för nykomlingen APR Technologies - Affärsvärlden
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
-- Gartner: Globala AI-utgifterna når 2,5 biljoner dollar 2026 - Computer Sweden
-- Donald Trumps bakslag: Europa utklassar USA - DI
+- Beläggningsarbetare till NCC Asfalt i södra Skåne - ncc.se
+- Avdrag för sponsring ska bli lättare - Företagarna
+- Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
-- Ny metod kan förutsäga astmaattacker upp till fem år innan de sker - Karolinska Institutet
-- Regeringen fortsätter att stärka stödet för återgång i arbete - Regeringen.se
-- Så flyr Väsbys äldre vintermörkret - SvD
-- Världens mest omtalade serie just nu kommer till Sverige i veckan: ”Ohämmad” - Filmtopp
-- Piers Morgan bröt benet och behöver ny höft – skyller på Donald Trump - Expressen
 
 ## World News
 
@@ -74,25 +74,25 @@ _Updated: 2026-01-19 17:50_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2026-01-19 17:50_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
