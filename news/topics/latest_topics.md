@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 15:27_
+_Updated: 2026-01-19 15:59_
 
 ## Top Stories
 
-- Vänsterpartiet förbereder sig för regerings­förhandlingar - Vänsterpartiet
 - DN Direkt – Ledamot i vanskött förening döms till fängelse - Dagens Nyheter
-- DN Direkt – Partierna kallade till utrikesnämnden - Dagens Nyheter
 - Trafikinspektören Ihab dog under uppkörning: ”Borde satt stopp” - Aftonbladet
-- Norske ”bonusprinsen” åtalad för nya brott - Västerbottens-Kuriren
-- Larmet: Räknat fel på flera miljarder kronor - SvD
+- Ex-ministern: ”Nato står inför en kollaps” - SvD
+- Sverige skickar Jas Gripen-plan till Island - SVT Nyheter
+- Kreml: Putin inbjuden till Trumps fredsråd för Gaza - SVT Nyheter
+- Vänsterpartiet förbereder sig för regerings­förhandlingar - Vänsterpartiet
+- Klinikchefen kände till den hemliga övervakningen på rättspsyk - Dagens Nyheter
 - Åtta av tio vill att partier ger besked i regeringsfrågan - Omni
 - Thand Ringqvist: C är garant för att V inte får makt – Senaste nytt om valet 2026 - SVT Nyheter
-- Comprehensive Cancer Center-nätverket välkomnar ny nationell cancerstrategi för framtidens vård - Region Uppsala
-- Landsbygdsminister Peter Kullgren besöker Gotland - Regeringen.se
-- Karin Eriksson: Norge har gett upp försöken att blidka världens mäktigaste man - Dagens Nyheter
+- Ivo får i uppdrag att korta handläggningstiderna - Publikt
 - Adam Cwejman: Därför demonstrerar inte vänstern mot mullorna i Iran - GP
-- Irans internet-drag: ”Det är så man vill vinna” - SvD
 - Spänd väntan på Trumps intåg i Davos - Aftonbladet
+- Expert: Rysk skadeglädje efter splittringen om Grönland - Dagens Nyheter
+- Natochefen: Har pratat med Trump om Grönland - Aftonbladet
+- Högsta elpriset på två år - DI
 - Investmentjättar faller tungt – dagens vinnare och förlorare - DI
-- Nordens rikaste satsar svenskt – här är miljardärernas portföljer - Affärsvärlden
-- Kraftig minskning av vab 2025 - Örebronyheter
-- Beläggningsarbetare till NCC Asfalt i södra Skåne - ncc.se
+- Affärsvärlden ger ett neutralt råd för nykomlingen APR Technologies - Affärsvärlden
+- Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
 - Microsoft rullar ut akutfix för Windows 11 - Computer Sweden
-- Claude Code tar över utvecklarnas jobb: ”Ska jag skriva koden själv?” - NyTeknik
+- Anmäl dig till Avtalats webbinarier - Elektrikerna
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-01-19 15:27_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- NTM nominerade i INMA Global Media Awards - ntm.se
-- Handelsbanken lanserar ny global indexfond - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2026-01-19 15:27_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -142,13 +142,13 @@ _Updated: 2026-01-19 15:27_
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -161,4 +161,4 @@ _Updated: 2026-01-19 15:27_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
