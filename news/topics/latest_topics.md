@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 22:46_
+_Updated: 2026-01-19 23:43_
 
 ## Top Stories
 
-- Danmark vill ha Nato-insats kring Grönland - Dagens Nyheter
-- Kvinna åtalas för barnvåldtäkt – efter lagändring - Dagens Nyheter
-- ”Vet många som inte känner sig välkomna” - SvD
+- Uppgifter: Trump ”felinformerad” om Grönland - GP
+- Sanna Torén Björling: Ett år med Trump förändrade allt för Ukraina - Dagens Nyheter
+- Tre hajattacker på ett dygn i Sydney - Aftonbladet
+- Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
 - Uppgifter: Ytterligare Foxtrot-allierad gripen i Irak - SVT Nyheter
-- Trump: Europa borde fokusera på Ukraina - Aftonbladet
-- Man fick stålbalk över sig – allvarligt skadad - Aftonbladet
+- Länsstyrelsen backar om löshundsförbud - Svensk Jakt
+- Kvinna åtalas för barnvåldtäkt – efter lagändring - Dagens Nyheter
+- Allvarlig arbetsolycka i Kungsbacka - SVT Nyheter
 - 19 januari 20.28, Trafikkontroll, Västernorrlands län - polisen.se
-- Det innebär Daniel Bernmars roll – i Nooshi Dadgostars nya lag - GP
-- Comprehensive Cancer Center-nätverket välkomnar ny nationell cancerstrategi för framtidens vård - Region Östergötland
+- Flera viltolyckor och renpåkörningar - Västerbottens-Kuriren
 - Kyrkobesökare kidnappade i Nigeria - GP
-- Michael Winiarski: Utländska högerpopulister hjälper pressad Orbán - Dagens Nyheter
+- Tjeckien: Inga stridsplan till Ukraina - Dagens Nyheter
 - Skandalprinsen erkänner nya brott - Expressen
 - Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
 - Antalet transaktioner på Ethereum når rekordnivå - Dagens PS
+- Försvarsaktier mot strömmen på Europabörserna - DI
 - Företag föreslås få dra av mer för forskare - Tidningen Näringslivet
-- Nästan en miljon färre vab-dagar år 2025 – vobbandet ökar - Omni
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
-- Regeringen fortsätter att stärka stödet för återgång i arbete - Regeringen.se
 
 ## World News
 
 - Expert: Besatthet som kan leda till världskrig - Expressen
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
@@ -40,9 +39,10 @@ _Updated: 2026-01-19 22:46_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -146,6 +146,7 @@ _Updated: 2026-01-19 22:46_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -155,10 +156,9 @@ _Updated: 2026-01-19 22:46_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
