@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-19 23:43_
+_Updated: 2026-01-20 00:47_
 
 ## Top Stories
 
 - Uppgifter: Trump ”felinformerad” om Grönland - GP
-- Sanna Torén Björling: Ett år med Trump förändrade allt för Ukraina - Dagens Nyheter
-- Tre hajattacker på ett dygn i Sydney - Aftonbladet
-- Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
-- Uppgifter: Ytterligare Foxtrot-allierad gripen i Irak - SVT Nyheter
-- Länsstyrelsen backar om löshundsförbud - Svensk Jakt
+- Erik de la Reguera: Macron har ett särskilt skäl att oroa sig för Trumps hot - Dagens Nyheter
+- Pål Jonson till Bryssel för möte om arktisk säkerhet - Regeringen.se
+- Direkt – Krisen i Mellanöstern – 1 500 IS-fångar uppges ha rymt från syriskt fängelse - Dagens Nyheter
+- Många larm om explosion i Lunden – poliser på plats - GP
 - Kvinna åtalas för barnvåldtäkt – efter lagändring - Dagens Nyheter
-- Allvarlig arbetsolycka i Kungsbacka - SVT Nyheter
 - 19 januari 20.28, Trafikkontroll, Västernorrlands län - polisen.se
 - Flera viltolyckor och renpåkörningar - Västerbottens-Kuriren
+- Det innebär Daniel Bernmars roll – i Nooshi Dadgostars nya lag - GP
+- 19 januari 21.38, Trafikolycka, vilt, Jämtlands län - polisen.se
 - Kyrkobesökare kidnappade i Nigeria - GP
-- Tjeckien: Inga stridsplan till Ukraina - Dagens Nyheter
-- Skandalprinsen erkänner nya brott - Expressen
-- Ryska taktiken i extrema kylan i Kiev: ”Energiterror” - Expressen
+- Sanna Torén Björling: Ett år med Trump förändrade allt för Ukraina - Dagens Nyheter
+- Stubb: Ukraina har hamnat i skymundan av Grönland - Dagens Nyheter
+- Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
 - Antalet transaktioner på Ethereum når rekordnivå - Dagens PS
 - Försvarsaktier mot strömmen på Europabörserna - DI
-- Företag föreslås få dra av mer för forskare - Tidningen Näringslivet
+- Varnar för ”ett andra Tjernobyl” - Expressen
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Anmäl dig till Avtalats webbinarier - Elektrikerna
 
 ## World News
 
+- Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Expert: Besatthet som kan leda till världskrig - Expressen
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -35,16 +36,15 @@ _Updated: 2026-01-19 23:43_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
