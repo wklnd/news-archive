@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-20 01:51_
+_Updated: 2026-01-20 04:36_
 
-- Trump ties Greenland demands to Nobel Prize in message to Norway leader - BBC
-- Trump is going to Davos — here are the big names who aren't - CNBC
-- Trump's DEI crackdown is changing MLK Day - Axios
-- Man killed, 3 bystanders hurt in shooting at iconic New Orleans restaurant - ABC News
-- Top Catholic cardinals say U.S. foreign policy raises moral questions - The Washington Post
-- U.S. Tells Judge It Will Appeal ICE Restrictions in Minneapolis - The New York Times
+- Trump Links His Push for Greenland to Not Winning Nobel Peace Prize - The New York Times
+- Sun releases the largest solar radiation storm ‘in over 20 years,’ forecasters say - CNN
+- CBS airs '60 Minutes' report on Trump deportations that was suddenly pulled a month ago - PBS
+- Indiana Judge and His Wife Are Shot at Their Suburban Home - The New York Times
+- Back-scratching bovine leads scientists to reassess intelligence of cows - The Guardian
+- Gov. Josh Shapiro alleges in memoir that Kamala Harris' team asked him if he had ever been an Israeli agent - ABC News
+- Protest at Minnesota Church Service Adds to Tensions Over ICE Tactics - The New York Times
+- Noem backtracks on ICE pepper spray denial amid tension in Minneapolis - The Guardian
 - In historic first for Virginia, Adam Spanberger becomes first gentleman - The Washington Post
-- Before Urban Raids, Border Patrol Tested Tactics in California Farm Country - The New York Times
-- Updates: Denmark, Greenland float NATO mission on island - DW.com
-- China's birth rate hits record low as population continues to shrink - BBC
-- Dow set to fall more than 300 points on Trump’s new tariff threat over Greenland: Live updates - CNBC
+- Man killed, 3 bystanders hurt in shooting at iconic New Orleans restaurant - ABC News
+- New surveillance video shows Louvre jewel heist in action - CBS News
+- Bloody Shark Rampage in Australia With 3 Swimmers Attacked Over 24 Hours - TMZ
+- Prince Harry vs. the Daily Mail: The British privacy trial starts - CNN
+- US Catholic cardinals urge Trump administration to embrace a moral compass in foreign policy - AP News
+- AP Source: Fed Chair Powell to attend Supreme Court argument on Cook case - AP News
+- What It’s Like to Get Undressed by Grok - Rolling Stone
 - Stellantis stock off 43% as Jeep maker turns five, executes turnaround - CNBC
 - Americans Are the Ones Paying for Tariffs, Study Finds - The Wall Street Journal
-- What It’s Like to Get Undressed by Grok - Rolling Stone
+- Pixel 10’s Magic Cue feature seems to be preparing Google Tasks & Wallet integration - 9to5Google
 - Honor’s latest phone rips off the iPhone Air, and it’s not even as thin - 9to5Google
-- 12 Essential Tips And Tricks For Ultrawide Monitor Users - bgr.com
-- Signs point to a sooner-rather-than-later M5 MacBook Pro refresh - Ars Technica
-- Google calls Android’s new sideloading flow ‘high friction’ - 9to5Google
-- Dolly Parton turns 80 today and released music to help you celebrate - CNN
-- Karol G and Boyfriend Feid Break Up After 3 Years - TMZ
