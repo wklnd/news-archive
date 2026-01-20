@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-20 18:00_
+_Updated: 2026-01-20 19:03_
 
-- Dow drops 400 points as Trump's Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates - CNBC
-- Trump leaks world leaders' messages. And, Indiana wins its first national title - NPR
+- Dow drops 500 points as Trump's Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates - CNBC
 - Letlow launches Trump-backed Senate bid against Cassidy - Politico
-- Supreme Court tackles Hawaii's 'vampire rule' for gun owners - NBC News
+- For Russia, Greenland offers an ‘ideal solution’ to its Ukraine problem - politico.eu
+- January 20 Wind Chills Today Then A Mild Break And Focus On Weekend Winter Storm Hitting Sunday - Just In Weather
 - Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
-- Economic blackout day planned in Minnesota to protest ICE surge - The Guardian
-- Trump Family’s $6.8 Billion Fortune Is Increasingly Tied to Crypto - Bloomberg.com
-- Trump U-turns on U.K.'s Chagos Islands deal, claims it's another reason "Greenland has to be acquired" by U.S. - CBS News
-- Researchers find Antarctic penguin breeding is heating up sooner - NPR
-- Exclusive | Greenland Rift Makes NATO Vulnerable to Russia, Says Senior German General - The Wall Street Journal
+- DOJ civil rights chief blasts Don Lemon for covering anti-ICE protest inside church, vows charges against protesters - NBC News
+- Aimee Bock, "mastermind" of Minnesota's biggest fraud scheme, says "I wish I could go back and do things differently" - CBS News
+- Congress clinches $1.2T funding deal for DHS, Pentagon, domestic agencies - Politico
+- Trump’s a T-Rex and ‘pathetic’ leaders need to confront him, rages California’s Newsom - politico.eu
+- Despite Greenland, France's Macron and NATO's head make nice with Trump behind the scenes - AP News
+- Gaza’s Board of Peace: What to Know - The New York Times
 - Israeli crews target UN facilities for Palestinian refugees in east Jerusalem - AP News
-- Execs at Davos say AI's biggest problem isn't hype — it's security - Business Insider
+- Russia targets nuclear power plant substations, thousands in Kyiv without power, water - The Kyiv Independent
+- A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle - The New York Times
 - Trump promised to cut energy bills in half. One year later, has he delivered? - NPR
-- Private credit is Wall Street's hottest trade. Now it's coming for your 401(k) - Business Insider
-- What Trump’s proposed 10 percent cap on card rates could mean for you - The Washington Post
+- Trump Family’s $6.8 Billion Fortune Is Increasingly Tied to Crypto - Bloomberg.com
+- U.S. 30-year Treasury yield jumps as trade war fears reignite - CNBC
 - The first commercial space station, Haven-1, is now undergoing assembly for launch - Ars Technica
-- Realme promises days of battery from its 10,001mAh phone - The Verge
 - Adobe unveils new AI-powered video editing tools for Premiere - Engadget
-- Razer CEO Can’t Get Out Of His Own Way In Car Crash Interview On AI - Kotaku
-- I don't want to reconcile with family, says Brooklyn Peltz Beckham - BBC
+- Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director’s Cut, and More - Xbox Wire
