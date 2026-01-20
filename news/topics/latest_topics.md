@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 05:57_
+_Updated: 2026-01-20 07:02_
 
 ## Top Stories
 
-- Erik de la Reguera: Macron har ett särskilt skäl att oroa sig för Trumps hot - Dagens Nyheter
-- Se läsarnas bilder från nattens norrsken - GP
 - 40 års fängelse för hundratal brott - GP
+- Körproffset: Här är trafiken i Göteborg som värst - GP
+- Dödstalet rusar efter tågolycka: ”Förvridet kaos” - GP
+- Se läsarnas bilder från nattens norrsken - GP
 - Pål Jonson till Bryssel för möte om arktisk säkerhet - Regeringen.se
-- Uppgifter: Trump ”felinformerad” om Grönland - GP
-- De flesta Epsteindokument ännu inte släppta – en månad efter deadline - Dagens Nyheter
+- Världsledare bjuds in till Trumps fredsråd: ”Försöker bilda sitt eget FN” - Dagens Nyheter
 - 19 januari 21.38, Trafikolycka, vilt, Jämtlands län - polisen.se
 - 19 januari 20.28, Trafikkontroll, Västernorrlands län - polisen.se
+- Förvaltningsrätten i Jönköping söker sommarnotarier - Sveriges Domstolar
 - DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
-- Det innebär Daniel Bernmars roll – i Nooshi Dadgostars nya lag - GP
-- IS tar på sig bombdåd i Kabul - GP
-- Kyrkobesökare kidnappade i Nigeria - GP
+- Norad skickar flyg till amerikansk bas på Grönland – Senaste nytt om USA och Grönland - SVT Nyheter
+- Demonstranter uppmanas överlämana sig – kan riskera dödsstraff - Omni
+- IS tar på sig bombdåd i Kabul - Aftonbladet
 - Danmark föreslår att Nato får ett övervakningsuppdrag på Grönland - yle.fi
-- Netanyahu och Putin inbjudna till Trumps ”fredsråd” - Dagens Nyheter
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
 - Företag föreslås få dra av mer för forskare - Tidningen Näringslivet
 - Teslastrejken visas upp i kulturens finrum - Dagens Arbete
-- Försvarsaktier mot strömmen på Europabörserna - DI
+- IMF varnar: Grönlandskrisen hotar världsekonomins tillväxt - Börskollen
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Google Pixel 10a presenteras 18 februari enligt rykte - Swedroid
 
@@ -53,7 +53,7 @@ _Updated: 2026-01-20 05:57_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -66,10 +66,10 @@ _Updated: 2026-01-20 05:57_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
-- Vom Experimentieren zur Wirtschaftlichkeit: Deeptech 2026 als entscheidender Umbruch - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2026-01-20 05:57_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -101,42 +101,42 @@ _Updated: 2026-01-20 05:57_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
