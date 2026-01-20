@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 19:00_
+_Updated: 2026-01-20 19:54_
 
 ## Top Stories
 
-- EU-parlamentet överens om frysta USA-förhandlingar - DI
-- Vill se Europa ryta ifrån: ”Trump är en T-rex” - Aftonbladet
-- Experten: ”Trump är en åttaåring som skriver ett argt brev till jultomten” - Dagens Nyheter
+- SVT på plats efter olyckan i Spanien: ”Facket larmade om sträckan” - SVT Nyheter
+- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
 - Här är årets vanligaste bebisnamn i Sverige och Göteborg - GP
 - Tredje man jagas - Jönköpings-Posten
-- Jätteattack i vinterkylan: Halva Kiev strömlöst - Aftonbladet
+- Republikaner om Trumpåret: ”Vill bara ha mer” - SvD
+- S nya förslag: Fördubblad prövotid och områdesarrest - Omni
+- De kastar sig i iskalla sjön för att få tur hela året - Dagens Nyheter
+- Kristersson åker till Davos - Expressen
+- Alla friskolor ska omfattas av offentlighetsprincipen - Dagens Nyheter
 - Mordmisstänkte var bekant med offret - Tidningen Ångermanland
-- Förbudet att jaga klövvilt med lös hund upphävs - Jakt & Jägare
-- Förslaget: Så ska du äta efter 65 - Aftonbladet
-- Statsminister Ulf Kristersson åker till Davos – Senaste nytt om valet 2026 - SVT Nyheter
 - Kritiken: Europas militärinsats på Grönland var misslyckad diplomati - Dagens Nyheter
-- DN Direkt – Macron: Våra styrkor på Grönland hotar ingen - Dagens Nyheter
-- Sverige inbjudet till Trumps ”fredsråd” - GP
-- Danmark föreslår att Nato får ett övervakningsuppdrag på Grönland - Yle
-- Sköterska larmar: AI ett ”slukhål” för patienter - SvD
+- DN Direkt – Sällsynt enighet mot USA i EU-parlamentet - Dagens Nyheter
+- Macron: ”Frankrike föredrar respekt framför mobbare” - Yle
+- IS-läger obevakat och USA backar från kurder - GP
 - Dansk pensionsfond miljarddumpar USA-papper - DI
-- DNB Carnegie höjer riktkursen för A.P. Möller-Maersk till 12 700 danska kronor (11 300), upprepar sälj - Placera.se
-- Inkorgen som spion: Så kartläggs hela ditt liv - Dagens PS
-- Valve: Lättare få spel godkända för Steam Machine än Steam Deck - FZ.se
+- Peges satsar över 70 miljoner – breddar med 3D-printing och försvarsindustri - Metal Supply
+- Sköterska larmar: AI ett ”slukhål” för patienter - SvD
 - I dag: Mot ljusare tider – soluppgång före klockan nio - Norran
+- Valve: Lättare få spel godkända för Steam Machine än Steam Deck - FZ.se
+- Test: Honor Magic 8 Lite – Supertålig och smidig - mobil.se
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-01-20 19:00_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -54,7 +54,7 @@ _Updated: 2026-01-20 19:00_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Människorna i centrum: Varför teknisk innovation med automatisering och AI misslyckas utan mänsklig kompetens - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -101,29 +101,28 @@ _Updated: 2026-01-20 19:00_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -131,24 +130,25 @@ _Updated: 2026-01-20 19:00_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -161,4 +161,4 @@ _Updated: 2026-01-20 19:00_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
