@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-20 04:36_
+_Updated: 2026-01-20 05:59_
 
 - Trump Links His Push for Greenland to Not Winning Nobel Peace Prize - The New York Times
-- Sun releases the largest solar radiation storm ‘in over 20 years,’ forecasters say - CNN
-- CBS airs '60 Minutes' report on Trump deportations that was suddenly pulled a month ago - PBS
+- Even some Trump advisers are wary of a military pursuit of Greenland. Is an off-ramp possible? - CNN
 - Indiana Judge and His Wife Are Shot at Their Suburban Home - The New York Times
-- Back-scratching bovine leads scientists to reassess intelligence of cows - The Guardian
-- Gov. Josh Shapiro alleges in memoir that Kamala Harris' team asked him if he had ever been an Israeli agent - ABC News
-- Protest at Minnesota Church Service Adds to Tensions Over ICE Tactics - The New York Times
-- Noem backtracks on ICE pepper spray denial amid tension in Minneapolis - The Guardian
-- In historic first for Virginia, Adam Spanberger becomes first gentleman - The Washington Post
+- Updates: Denmark, Greenland float NATO mission on island - dw.com
+- CBS airs '60 Minutes' report on Trump deportations that was suddenly pulled a month ago - PBS
 - Man killed, 3 bystanders hurt in shooting at iconic New Orleans restaurant - ABC News
-- New surveillance video shows Louvre jewel heist in action - CBS News
+- Protest at Minnesota Church Service Adds to Tensions Over ICE Tactics - The New York Times
+- RFK Jr. is bringing the GOP and the trial bar together - Politico
+- In historic first for Virginia, Adam Spanberger becomes first gentleman - The Washington Post
+- Several WNY travel advisories in effect - wivb.com
+- ‘Like an Earthquake’: How 40 People Died in a Spanish Train Crash - The New York Times
 - Bloody Shark Rampage in Australia With 3 Swimmers Attacked Over 24 Hours - TMZ
-- Prince Harry vs. the Daily Mail: The British privacy trial starts - CNN
 - US Catholic cardinals urge Trump administration to embrace a moral compass in foreign policy - AP News
+- 'Absolutely Rolled': U.S. Officials Blast Canada's Cheap Chinese EV Deal - InsideEVs
+- Dow set to fall more than 300 points on Trump’s new tariff threat over Greenland: Live updates - CNBC
 - AP Source: Fed Chair Powell to attend Supreme Court argument on Cook case - AP News
-- What It’s Like to Get Undressed by Grok - Rolling Stone
-- Stellantis stock off 43% as Jeep maker turns five, executes turnaround - CNBC
-- Americans Are the Ones Paying for Tariffs, Study Finds - The Wall Street Journal
-- Pixel 10’s Magic Cue feature seems to be preparing Google Tasks & Wallet integration - 9to5Google
-- Honor’s latest phone rips off the iPhone Air, and it’s not even as thin - 9to5Google
+- China hits its GDP target—in a weird way - The Economist
+- Japan 40-Year Bond Yield Hits 4% for First Time Since 2007 Debut - Bloomberg
+- Asus confirms its smartphone business is on indefinite hiatus - Ars Technica
+- Google calls Android’s new sideloading flow ‘high friction’ - 9to5Google
