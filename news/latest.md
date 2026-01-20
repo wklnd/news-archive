@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-20 19:03_
+_Updated: 2026-01-20 19:58_
 
-- Dow drops 500 points as Trump's Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates - CNBC
+- Dow drops 600 points as Trump's Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates - CNBC
+- The Trump Drama Hits Davos - The New York Times
 - Letlow launches Trump-backed Senate bid against Cassidy - Politico
-- For Russia, Greenland offers an ‘ideal solution’ to its Ukraine problem - politico.eu
-- January 20 Wind Chills Today Then A Mild Break And Focus On Weekend Winter Storm Hitting Sunday - Just In Weather
+- US citizen says ICE forced him from his home without clothes in subfreezing weather - The Guardian
+- After Four Shark Attacks in 48 Hours, Australia Shuts Dozens of Beaches - The New York Times
+- Supreme Court tackles Hawaii's 'vampire rule' for gun owners - NBC News
+- Capitol agenda: Movement on a health plan , but not Trump’s - Politico
+- Opinion | Canada will regret cozying up with China to troll Trump - The Washington Post
+- European leaders criticize Trump’s foreign policies as Greenland tensions loom over Davos - CNN
 - Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
-- DOJ civil rights chief blasts Don Lemon for covering anti-ICE protest inside church, vows charges against protesters - NBC News
-- Aimee Bock, "mastermind" of Minnesota's biggest fraud scheme, says "I wish I could go back and do things differently" - CBS News
-- Congress clinches $1.2T funding deal for DHS, Pentagon, domestic agencies - Politico
-- Trump’s a T-Rex and ‘pathetic’ leaders need to confront him, rages California’s Newsom - politico.eu
-- Despite Greenland, France's Macron and NATO's head make nice with Trump behind the scenes - AP News
-- Gaza’s Board of Peace: What to Know - The New York Times
-- Israeli crews target UN facilities for Palestinian refugees in east Jerusalem - AP News
-- Russia targets nuclear power plant substations, thousands in Kyiv without power, water - The Kyiv Independent
-- A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle - The New York Times
+- Israeli crews begin bulldozing headquarters of UN agency for Palestinian refugees in East Jerusalem - AP News
+- Exclusive | Greenland Rift Makes NATO Vulnerable to Russia, Says Senior German General - The Wall Street Journal
+- U.S. Bank Stocks Fall As Investors Weigh Credit Card Rate Cap Deadline - HuffPost
+- Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not to. - The New York Times
 - Trump promised to cut energy bills in half. One year later, has he delivered? - NPR
-- Trump Family’s $6.8 Billion Fortune Is Increasingly Tied to Crypto - Bloomberg.com
-- U.S. 30-year Treasury yield jumps as trade war fears reignite - CNBC
+- IMF drops blunt warning on US economy - thestreet.com
+- Ex- Marathon Art Director Talks About The Game’s Evolution And Leaving Bungie - Kotaku
 - The first commercial space station, Haven-1, is now undergoing assembly for launch - Ars Technica
+- Realme promises days of battery from its 10,001mAh phone - The Verge
 - Adobe unveils new AI-powered video editing tools for Premiere - Engadget
-- Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director’s Cut, and More - Xbox Wire
