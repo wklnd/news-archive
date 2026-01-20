@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 07:53_
+_Updated: 2026-01-20 09:01_
 
 ## Top Stories
 
-- Musks jättedonation till republikansk kandidat - Expressen
-- Lågt stöd för Trump – men kärnväljarna sviker inte - Dagens Nyheter
-- Ex-politiker levde på bidrag – tjänade samtidigt 1,7 miljoner i eget bolag - Sydsvenskan
-- Största solstormen på 20 år – rymdvädertjänst varnar för störningar - Aftonbladet
+- Mest populära bebisnamnen 2025 – hon gör comeback - Dagens Nyheter
+- Trump: Tar upp Grönland i World Economic Forum – Senaste nytt om USA och Grönland - SVT Nyheter
+- Pål Jonson till Bryssel för möte om arktisk säkerhet - Regeringen.se
+- Nytt misstänkt sexövergrepp i Uppsalas hemtjänst utrett - UNT
 - Körproffset: Här är trafiken i Göteborg som värst - GP
-- Ny sexbrottsutredning inom hemtjänsten i Uppsala - GP
-- 19 januari 21.38, Trafikolycka, vilt, Jämtlands län - polisen.se
-- Förvaltningsrätten i Jönköping söker sommarnotarier - Sveriges Domstolar
+- ”Inte ens de största investerar tillräckligt” - SvD
+- 20 januari 07.44, Sammanfattning natt, Jönköpings län - polisen.se
+- Flera viltolyckor och renpåkörningar - Västerbottens-Kuriren
 - DN Direkt – Misstänkt farligt föremål i Uddevalla - Dagens Nyheter
-- 19 januari 20.28, Trafikkontroll, Västernorrlands län - polisen.se
-- Domstolsbeslut kan avgöra Trumps tullhot – Senaste nytt om USA och Grönland - SVT Nyheter
-- Iran är vår tids Berlinmur - SvD
-- IS tar på sig bombdåd i Kabul - GP
+- Förvaltningsrätten i Jönköping söker sommarnotarier - Sveriges Domstolar
+- Svensk skadad i tågolyckan i Spanien - Corren
 - Danmark föreslår att Nato får ett övervakningsuppdrag på Grönland - Yle
+- Mammans nya teori om försvunne sonen - Expressen
+- Musks jättedonation till republikansk kandidat - Expressen
+- Varningen: Därför ska du aldrig ladda mobilen här - Dagens PS
 - Mjölby kommun är finalister till Årets kompetensutveckling 2026 - Mjölby kommun
-- Företag föreslås få dra av mer för forskare - Tidningen Näringslivet
-- Teslastrejken visas upp i kulturens finrum - Dagens Arbete
-- AI-eliten flockas till duons nya satsning: ”Övermänsklig” - DI
+- Fortsatt ökning på hotellmarknaden i december - Notified
+- Axfood och Generation Pep fortsätter gemensam satsning på hälsosamma matvanor för barn och unga - Axfood
 - Framtidens halvledare ”som magi” – om de fungerar - Knut och Alice Wallenbergs Stiftelse
 - Google Pixel 10a presenteras 18 februari enligt rykte - Swedroid
 
 ## World News
 
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -40,12 +41,11 @@ _Updated: 2026-01-20 07:53_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -53,7 +53,7 @@ _Updated: 2026-01-20 07:53_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -127,7 +127,6 @@ _Updated: 2026-01-20 07:53_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -137,6 +136,7 @@ _Updated: 2026-01-20 07:53_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
@@ -161,4 +161,4 @@ _Updated: 2026-01-20 07:53_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
