@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 16:01_
+_Updated: 2026-01-20 16:57_
 
 ## Top Stories
 
+- Lars vill att dottern ska slippa tidiga skoldagar – har anmält kommunen - Aftonbladet
 - Nödrop från Ukrainas utrikesminister: behöver akut hjälp - Dagens Nyheter
-- Person hittad död i Uddevalla – tros vara försvunnen kvinna - SVT Nyheter
-- Trumps hot kan erbjuda en lösning - SvD
+- DN Direkt – Hector tappade ledning – trea i Kronplatz - Dagens Nyheter
+- Tre anhållna efter handgranatfynd – polisen utreder samband - SVT Nyheter
 - Kvinnor fick 85 kilo mjöl istället för hasch – får lägre straff - Sydsvenskan
-- Mest populära bebisnamnen 2025 – hon gör comeback - Dagens Nyheter
-- Lars vill att hans dotter ska få sova längre – anmäler Ronneby kommun - SVT Nyheter
-- Efter Rönningemordet - S vill ha ny lag - GP
-- 20 januari 13.00, Trafikkontroll, Västernorrlands län - polisen.se
-- Färre olyckor med fritidsbåtar i fjol - Västerbottens-Kuriren
+- Trumps hot kan erbjuda en lösning - SvD
+- Förslaget: Så ska du äta efter 65 - GP
 - Nina Larsson håller tal på Fadimedagen - Regeringen.se
-- DN Direkt – Dödstalet tros överstiga 10 000 i nedsläckt Iran - Dagens Nyheter
+- Demokrati- och människovärdedagarna 2026 - Via TT
+- 20 januari 10.35, Försvunnen person, Hammarö - polisen.se
+- Kritiken: Europas militärinsats på Grönland var misslyckad diplomati - Dagens Nyheter
 - Sverige inbjudet till Trumps ”fredsråd” - GP
+- Dödlig tågurspårning i Spanien - SVT Nyheter
 - DN Direkt – Rutte: Har talat med Trump om Grönland - Dagens Nyheter
-- Kyrkobesökare kidnappade i Nigeria - GP
-- Chocken: Smutsiga pengar i Bill Gates ”fina” fond - Dagens PS
 - Sköterska larmar: AI ett ”slukhål” för patienter - SvD
+- Chocken: Smutsiga pengar i Bill Gates ”fina” fond - Dagens PS
+- Inkorgen som spion: Så kartläggs hela ditt liv - Dagens PS
 - SEB: Spricka i Riksbanken öppnar för sänkning i vår - Omni
-- Ny rapport: Så ska detaljhandeln öka vinsten med AI - Dagens PS
+- Spotify testar funktion för att synka pappersböcker med ljudböcker - m3.se
 - Xbox Cloud Gaming kan börja erbjuda speltid mot att du tittar på reklam - Teknikveckan
-- 37-åring startar nytt konsultföretag i Vilhelmina - Folkbladet
 
 ## World News
 
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -75,16 +75,16 @@ _Updated: 2026-01-20 16:01_
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -101,7 +101,7 @@ _Updated: 2026-01-20 16:01_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -126,19 +126,19 @@ _Updated: 2026-01-20 16:01_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -146,6 +146,7 @@ _Updated: 2026-01-20 16:01_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -153,12 +154,11 @@ _Updated: 2026-01-20 16:01_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
