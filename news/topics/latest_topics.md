@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 19:54_
+_Updated: 2026-01-20 21:43_
 
 ## Top Stories
 
-- SVT på plats efter olyckan i Spanien: ”Facket larmade om sträckan” - SVT Nyheter
-- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
 - Här är årets vanligaste bebisnamn i Sverige och Göteborg - GP
+- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
+- Mötena i mötet – händelserna som överskuggar allt i Davos - ETC.se
 - Tredje man jagas - Jönköpings-Posten
-- Republikaner om Trumpåret: ”Vill bara ha mer” - SvD
-- S nya förslag: Fördubblad prövotid och områdesarrest - Omni
-- De kastar sig i iskalla sjön för att få tur hela året - Dagens Nyheter
-- Kristersson åker till Davos - Expressen
+- EU-parlamentet överens: Pausar USA-förhandlingar - Aftonbladet
 - Alla friskolor ska omfattas av offentlighetsprincipen - Dagens Nyheter
+- De kastar sig i iskalla sjön för att få tur hela året - Dagens Nyheter
+- Redan rekordår för tullens beslag: ”Pumpas ut kokain” - Dagens Nyheter
+- Kristersson åker till Davos - Expressen
 - Mordmisstänkte var bekant med offret - Tidningen Ångermanland
-- Kritiken: Europas militärinsats på Grönland var misslyckad diplomati - Dagens Nyheter
-- DN Direkt – Sällsynt enighet mot USA i EU-parlamentet - Dagens Nyheter
-- Macron: ”Frankrike föredrar respekt framför mobbare” - Yle
-- IS-läger obevakat och USA backar från kurder - GP
-- Dansk pensionsfond miljarddumpar USA-papper - DI
-- Peges satsar över 70 miljoner – breddar med 3D-printing och försvarsindustri - Metal Supply
+- Trump lade ut privata sms – ”vårdslöst beteende” - GP
+- Dödlig tågurspårning i Spanien - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – 1 500 IS-fångar uppges ha rymt från syriskt fängelse - Dagens Nyheter
+- Medlemspriset i Trumps fredsråd: En miljard dollar - GP
+- Strunta i testamentet? Ja, i vissa fall kan det faktiskt gå - Amelia
+- Ett av tullkrigets offer: Din pension - SvD
+- Ny riktkurs för Maersk – höjs av storbanken - Dagens PS
 - Sköterska larmar: AI ett ”slukhål” för patienter - SvD
-- I dag: Mot ljusare tider – soluppgång före klockan nio - Norran
-- Valve: Lättare få spel godkända för Steam Machine än Steam Deck - FZ.se
-- Test: Honor Magic 8 Lite – Supertålig och smidig - mobil.se
+- Nintendo har lanserat pastellfärgade Joy-Con 2 - Teknikveckan
+- Trailer: "Life is Strange: Reunion" är den episka avslutningen på serien - MovieZine.se
 
 ## World News
 
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -74,17 +74,17 @@ _Updated: 2026-01-20 19:54_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Connected cars, in-car payments driving the auto economy - mastercard.com
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -101,38 +101,38 @@ _Updated: 2026-01-20 19:54_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Översikt - Public Health - Europeiska kommissionen - European Commission
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -156,9 +156,9 @@ _Updated: 2026-01-20 19:54_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
