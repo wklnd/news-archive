@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-20 16:05_
+_Updated: 2026-01-20 17:01_
 
-- Dow futures tumble nearly 700 points after Trump threatens new tariffs over Greenland: Live updates - CNBC
-- Trump Shares Private Texts Sent By Macron And NATO Secretary General On Greenland - Forbes
-- Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
-- Supreme Court tackles Hawaii's 'vampire rule' for gun owners - NBC News
-- As Trump dismantles the existing world order, his version is still taking shape - NPR
-- Alexander brothers set to face federal sex trafficking charges - ABC News
-- Aimee Bock, "mastermind" of Minnesota's biggest fraud scheme, says "I wish I could go back and do things differently" - CBS News
+- Trump leaks world leaders' messages. And, Indiana wins its first national title - NPR
+- 'Act of great stupidity': Trump launches another tirade against a NATO ally. This time it's the UK - CNBC
+- Congress clinches $1.2T funding deal for DHS, Pentagon, domestic agencies - Politico
 - DOJ civil rights chief blasts Don Lemon for covering anti-ICE protest inside church, vows charges against protesters - NBC News
-- Pardoned Jan. 6 rioter Andrew Johnson to face criminal trial for child molestation - CBS News
 - Economic blackout day planned in Minnesota to protest ICE surge - The Guardian
+- Opinion | Canada will regret cozying up with China to troll Trump - The Washington Post
+- Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan - The New York Times
 - Israeli crews begin bulldozing headquarters of UN agency for Palestinian refugees in East Jerusalem - AP News
-- Fact-Checking Trump’s Misleading Claims After One Year Back in Office - The New York Times
-- For Russia, Greenland offers an ‘ideal solution’ to its Ukraine problem - politico.eu
-- Explosion in a restaurant in Afghan capital kills at least 7 and injures a dozen more - ABC News
-- Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount - The New York Times
+- As Trump dismantles the existing world order, his version is still taking shape - NPR
+- Canadian woman found dead surrounded by dingoes on Australian beach - BBC
+- 7 charts show how the economy looked in Donald Trump's first year of his second presidency - Business Insider
 - Trump promised to cut energy bills in half. One year later, has he delivered? - NPR
 - Private credit is Wall Street's hottest trade. Now it's coming for your 401(k) - Business Insider
-- Citi Downgrades European Stocks on US Friction Over Greenland - Bloomberg.com
+- Zurich Insurance Makes $10 Billion Bid for U.K. Specialist Insurer - The Wall Street Journal
+- Realme promises days of battery from its 10,001mAh phone - The Verge
 - Samsung Raises Panther Lake-Equipped Galaxy Book 6 Pro’s Price By Nearly $477 Over The Previous-Gen Model - Wccftech
-- Google app finally redesigns voice search on Android - 9to5Google
+- Chrome for iOS to get a guided Safari data migration feature - 9to5Mac
+- Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director’s Cut, and More - Xbox Wire
+- Predicting the 2026 Oscar Nominations: Who’s In? Who’s Out? - The New York Times
+- Rewatching ‘Mad Men’ From the Outskirts - The New York Times
