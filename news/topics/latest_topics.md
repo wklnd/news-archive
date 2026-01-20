@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-20 16:57_
+_Updated: 2026-01-20 17:55_
 
 ## Top Stories
 
 - Lars vill att dottern ska slippa tidiga skoldagar – har anmält kommunen - Aftonbladet
-- Nödrop från Ukrainas utrikesminister: behöver akut hjälp - Dagens Nyheter
-- DN Direkt – Hector tappade ledning – trea i Kronplatz - Dagens Nyheter
+- Nya attacker mot Ukraina i natt – 5 000 hus utan värme - Omni
+- DN Direkt – Dödstalet tros överstiga 10 000 i nedsläckt Iran - Dagens Nyheter
+- Tågkraschen i Spanien: Tre dagars landssorg - GP
+- Här är årets vanligaste bebisnamn i Sverige och Göteborg - GP
+- Uppgifter: Trump ”felinformerad” om Grönland - GP
+- Person hittad död i Uddevalla – tros vara försvunnen kvinna - SVT Nyheter
 - Tre anhållna efter handgranatfynd – polisen utreder samband - SVT Nyheter
-- Kvinnor fick 85 kilo mjöl istället för hasch – får lägre straff - Sydsvenskan
-- Trumps hot kan erbjuda en lösning - SvD
-- Förslaget: Så ska du äta efter 65 - GP
-- Nina Larsson håller tal på Fadimedagen - Regeringen.se
-- Demokrati- och människovärdedagarna 2026 - Via TT
-- 20 januari 10.35, Försvunnen person, Hammarö - polisen.se
-- Kritiken: Europas militärinsats på Grönland var misslyckad diplomati - Dagens Nyheter
+- 20 januari 13.00, Trafikkontroll, Västernorrlands län - polisen.se
+- En uppdaterad cancerstrategi som möter framtidens vårdbehov - SKR.se
+- DN Direkt – Macron: Våra styrkor på Grönland hotar ingen - Dagens Nyheter
 - Sverige inbjudet till Trumps ”fredsråd” - GP
-- Dödlig tågurspårning i Spanien - SVT Nyheter
-- DN Direkt – Rutte: Har talat med Trump om Grönland - Dagens Nyheter
-- Sköterska larmar: AI ett ”slukhål” för patienter - SvD
-- Chocken: Smutsiga pengar i Bill Gates ”fina” fond - Dagens PS
+- Danska hemvärnet slår kalla kriget-rekord - SvD
+- Vill se Europa ryta ifrån: ”Trump är en T-rex” - Aftonbladet
 - Inkorgen som spion: Så kartläggs hela ditt liv - Dagens PS
 - SEB: Spricka i Riksbanken öppnar för sänkning i vår - Omni
-- Spotify testar funktion för att synka pappersböcker med ljudböcker - m3.se
-- Xbox Cloud Gaming kan börja erbjuda speltid mot att du tittar på reklam - Teknikveckan
+- Netflix sockrar budet på Warner Bros – betalar kontant - DI
+- DNB Carnegie höjer riktkursen för A.P. Möller-Maersk till 12 700 danska kronor (11 300), upprepar sälj - Placera.se
+- Xiaomis nya glasögon ersätter hörlurar för telefonsamtal - m3.se
+- I dag: Mot ljusare tider – soluppgång före klockan nio - Norran
 
 ## World News
 
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -101,21 +101,21 @@ _Updated: 2026-01-20 16:57_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -126,19 +126,19 @@ _Updated: 2026-01-20 16:57_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
