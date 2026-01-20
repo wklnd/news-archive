@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-20 17:01_
+_Updated: 2026-01-20 18:00_
 
+- Dow drops 400 points as Trump's Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates - CNBC
 - Trump leaks world leaders' messages. And, Indiana wins its first national title - NPR
-- 'Act of great stupidity': Trump launches another tirade against a NATO ally. This time it's the UK - CNBC
-- Congress clinches $1.2T funding deal for DHS, Pentagon, domestic agencies - Politico
-- DOJ civil rights chief blasts Don Lemon for covering anti-ICE protest inside church, vows charges against protesters - NBC News
+- Letlow launches Trump-backed Senate bid against Cassidy - Politico
+- Supreme Court tackles Hawaii's 'vampire rule' for gun owners - NBC News
+- Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
 - Economic blackout day planned in Minnesota to protest ICE surge - The Guardian
-- Opinion | Canada will regret cozying up with China to troll Trump - The Washington Post
-- Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan - The New York Times
-- Israeli crews begin bulldozing headquarters of UN agency for Palestinian refugees in East Jerusalem - AP News
-- As Trump dismantles the existing world order, his version is still taking shape - NPR
-- Canadian woman found dead surrounded by dingoes on Australian beach - BBC
-- 7 charts show how the economy looked in Donald Trump's first year of his second presidency - Business Insider
+- Trump Family’s $6.8 Billion Fortune Is Increasingly Tied to Crypto - Bloomberg.com
+- Trump U-turns on U.K.'s Chagos Islands deal, claims it's another reason "Greenland has to be acquired" by U.S. - CBS News
+- Researchers find Antarctic penguin breeding is heating up sooner - NPR
+- Exclusive | Greenland Rift Makes NATO Vulnerable to Russia, Says Senior German General - The Wall Street Journal
+- Israeli crews target UN facilities for Palestinian refugees in east Jerusalem - AP News
+- Execs at Davos say AI's biggest problem isn't hype — it's security - Business Insider
 - Trump promised to cut energy bills in half. One year later, has he delivered? - NPR
 - Private credit is Wall Street's hottest trade. Now it's coming for your 401(k) - Business Insider
-- Zurich Insurance Makes $10 Billion Bid for U.K. Specialist Insurer - The Wall Street Journal
+- What Trump’s proposed 10 percent cap on card rates could mean for you - The Washington Post
+- The first commercial space station, Haven-1, is now undergoing assembly for launch - Ars Technica
 - Realme promises days of battery from its 10,001mAh phone - The Verge
-- Samsung Raises Panther Lake-Equipped Galaxy Book 6 Pro’s Price By Nearly $477 Over The Previous-Gen Model - Wccftech
-- Chrome for iOS to get a guided Safari data migration feature - 9to5Mac
-- Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director’s Cut, and More - Xbox Wire
-- Predicting the 2026 Oscar Nominations: Who’s In? Who’s Out? - The New York Times
-- Rewatching ‘Mad Men’ From the Outskirts - The New York Times
+- Adobe unveils new AI-powered video editing tools for Premiere - Engadget
+- Razer CEO Can’t Get Out Of His Own Way In Car Crash Interview On AI - Kotaku
+- I don't want to reconcile with family, says Brooklyn Peltz Beckham - BBC
