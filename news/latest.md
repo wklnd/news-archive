@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-21 05:58_
+_Updated: 2026-01-21 07:04_
 
-- Global markets on alert as Europe to suspend approval of US trade deal - BBC
+- Air Force One Turns Back After Electrical Issue - The New York Times
 - Trump Calls Renee Good’s Killing a ‘Tragedy’ and Says ICE Agents Will Make Mistakes - The New York Times
 - Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
-- Second lady Usha Vance announces she is pregnant with fourth child - BBC
-- Los Angeles School Desegregation Policy Hurts White Students, Lawsuit Says - The New York Times
-- Economic blackout day planned in Minnesota to protest ICE surge - The Guardian
-- Driver killed and several injured after train derails near Barcelona, local media report - BBC
-- After 4 shark attacks in Australia in 3 days, beachgoers urged to "just go to a local pool" - CBS News
-- Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
-- For Russia, Greenland offers an ‘ideal solution’ to its Ukraine problem - politico.eu
-- A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle - The New York Times
+- Governor Abbott Activates State Emergency Response Resources Ahead Of Winter Weather Threat - gov.texas.gov
+- Trump tariffs live updates: Trump heads to Davos as Greenland threats roil world, markets - Yahoo Finance
+- ‘God Is Very Proud’: Trump Marks Anniversary With a Victory Lap - The New York Times
+- Spain train crash: Driver killed in derailment near Barcelona - BBC
+- Russia’s top diplomat says NATO faces a deep crisis over Greenland - AP News
 - Amazon gets approval to build massive retail concept in Orland Park - chicago.suntimes.com
-- Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry - CNBC
-- Exclusive | Democratic Senators Demand Records on Powell Probe - The Wall Street Journal
-- Google temporarily disabled YouTube’s advanced captions without warning - Ars Technica
+- A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle - The New York Times
+- Markets Slump as Greenland, Japan Fears Shake Up Torpid Trading - Bloomberg.com
+- Warren Buffett's successor eyes selling off Berkshire Hathaway's 325 million Kraft Heinz shares - AP News
 - Realme teases new phone with 10,001 mAh battery following questionable Oppo merger - 9to5Google
+- Galaxy S26 Ultra color lineup looks pretty boring, and didn’t even copy iPhone orange - 9to5Google
+- Samsung Raises Panther Lake-Equipped Galaxy Book 6 Pro’s Price By Nearly $477 Over The Previous-Gen Model - Wccftech
 - The 10 Best Home Theater Systems For Cinephiles - bgr.com
-- Donkey Kong Country Returns HD Gets A Free Switch 2 Update And Adds Dixie Kong - Nintendo Life
-- Inside Disney’s Push to Turn Its Princess Brand Into a High-Margin Lifestyle Franchise (Exclusive) - hollywoodreporter.com
-- Charlie Puth: ‘I Used to Be Very Cringe’ - Rolling Stone
+- Rob Hirst Dies: Midnight Oil’s Founding Drummer & Songwriter Was 70 - Deadline
+- ‘KPop Demon Hunters’ Is Netflix’s Most Watched Movie (or Show) Ever — and It’s Not Close - hollywoodreporter.com
+- Despite Drastic Financial Steps, Met Opera Turns to Layoffs and Cuts - The New York Times
+- 'It Ends With Us': Blake Lively Cites Complaints About Justin Baldoni - Variety
