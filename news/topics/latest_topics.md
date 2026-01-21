@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 12:55_
+_Updated: 2026-01-21 13:46_
 
 ## Top Stories
 
+- USA:s techmiljardärer vill stöpa om Grönland - vk.se
 - Elfel fick Trumps plan att vända - SVT Nyheter
 - Slog larm om säkerheten – före kidnappningen - Aftonbladet
-- Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
-- Man död i olycka på riksväg 70 - Expressen
-- ”Han har inga vuxna i rummet” - Aftonbladet
-- DN Direkt – Kristersson: Kommer inte ingå i fredsrådet i nuläget - Dagens Nyheter
-- 21 januari 07.17, Sammanfattning natt, Jämtlands län - polisen.se
-- Johannas pappa dog på sjukhusets toalett - Expressen
+- Ung män och unga kvinnor lever i skilda världar – det kan skapa problem. - gp.se
+- Kritiken mot Trump efter sms-läckan: ”Vårdslöst beteende” - Expressen
+- Larm om explosion i centrala Uppsala – polis på plats - SVT Nyheter
+- Transportstyrelsen vill utreda obligatoriskt förarbevis - Skippo
 - 21 januari 07.18, Sammanfattning natt, Norrbottens län - polisen.se
-- Netanyahu tackar ja till plats i fredsråd – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Förintelsens minnesdag - 7an.se
+- DN Direkt – Region Skåne skjuter upp införandet av Millennium - Dagens Nyheter
 - DN Direkt – Europol: Tillslag mot drognätverk i flera länder - Dagens Nyheter
+- Unrwa:s kontor i Jerusalem demolerat - Dagens Nyheter
 - Anna-Lena Laurén: Berlin gjorde mig till vintercyklist - Dagens Nyheter
-- Livstid för mord på Japans premiärminister - SVT Nyheter
+- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
 - Toppekonom: Dollarn är död – varnar för börskrasch - DI
 - FI återkallar tillståndet för Get betal - Cision News
-- EU ser över cybersäkerheten – vill minska risker från högriskleverantörer - Computer Sweden
+- Rapport: Sverige fortsatt sårbart i produktionen av skyddsutrustning - Medtech Magazine
 - Europas sämsta flygbolag 2026 – när lågpris möter låg tolerans - Dagens PS
-- Arlo har lanserat Ultra 3 med 4K HDR och AI - Teknikveckan
+- Populära hörlurar för 2026 – vi guidar - Aftonbladet
 - Här görs läkemedel i minifabriker: Kan spara miljarder och år av utveckling - Life Science Sweden
-- (+) Mobilers livstid, Lyca-kritik, RCS i IOS och framtid – Mobil svarar - mobil.se
 
 ## World News
 
@@ -77,7 +77,6 @@ _Updated: 2026-01-21 12:55_
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -91,8 +90,9 @@ _Updated: 2026-01-21 12:55_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -111,7 +111,7 @@ _Updated: 2026-01-21 12:55_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -152,7 +152,6 @@ _Updated: 2026-01-21 12:55_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2026-01-21 12:55_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
