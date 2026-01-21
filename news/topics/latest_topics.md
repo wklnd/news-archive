@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 16:01_
+_Updated: 2026-01-21 16:57_
 
 ## Top Stories
 
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
+- DN Direkt – Trump i Davos: Kommer inte använda våld - Dagens Nyheter
+- Prinsessan Désirée är död - Expressen
+- EU-Mercosur: Ledamöterna kräver granskning av förenlighet med EU-fördragen | Nyheter - European Parliament
 - DN Direkt – Kristersson: Kommer inte ingå i fredsrådet i nuläget - Dagens Nyheter
 - Syriens armé går in i jättelägret al-Hol - Expressen
-- Larm om explosion i centrala Uppsala – polis på plats - SVT Nyheter
-- Svenskar skyddar Trump från attacker i Davos - Expressen
-- Prinsessan Désirée är död – blev 87 år - Aftonbladet
+- Lokförare död efter ny tågolycka i Spanien - gp.se
 - Bortförda barn och mordbränder – rättegång om ”demokratihotande” brott inledd - Dagens Nyheter
-- Förre VA-chefen om krisen: ”Vi kan inte hålla på så här” - helagotland.se
+- Skolan het fråga för L i höstens val - ljusdalsposten.se
 - Larm om bilstöld på Storheden – man anmäld för flera brott - kuriren.nu
-- 21 januari 07.17, Sammanfattning natt, Jämtlands län - polisen.se
+- Gynekolog våldtog patient – döms till fängelse - SVT Nyheter
+- UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
 - Låst i EU om ersättning vid sena flyg - gp.se
-- DN Direkt – Europol: Tillslag mot drognätverk i flera länder - Dagens Nyheter
-- Fortsatt stort behov av stöd till Ukrainas energiförsörjning - Energiföretagen Sverige
-- Så kan ett tullkrig påverka bostadsmarknaden - Dagens Nyheter
-- Toppekonom: Dollarn är död – varnar för börskrasch - DI
+- Kanadas premiärminister till Europa: Det går inte att leva i en lögn - Dagens Nyheter
+- Unrwa:s kontor i Jerusalem demolerat - Dagens Nyheter
 - FI återkallar tillståndet för betaltjänstbolaget Get betal AB - Sak & Liv
 - Rekorddyra preferensaktier på börsen - Affärsvärlden
-- Region Skåne skjuter upp införandet av Millenium - SVT Nyheter
+- Toppekonom: Dollarn är död – varnar för börskrasch - DI
+- EU ser över cybersäkerheten – vill minska risker från högriskleverantörer - Computer Sweden
 - Region Gävleborg satsar på konstnärligt residens för dans och musik - regiongavleborg.se
 - Populära hörlurar för 2026 – vi guidar - Aftonbladet
 
@@ -33,20 +33,20 @@ _Updated: 2026-01-21 16:01_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -90,9 +90,9 @@ _Updated: 2026-01-21 16:01_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-21 16:01_
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
