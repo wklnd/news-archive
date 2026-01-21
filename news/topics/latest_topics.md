@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 11:54_
+_Updated: 2026-01-21 12:55_
 
 ## Top Stories
 
-- Netanyahu tackar ja till plats i fredsråd – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
+- Elfel fick Trumps plan att vända - SVT Nyheter
 - Slog larm om säkerheten – före kidnappningen - Aftonbladet
-- USA planerar skicka 4 000 soldater till övning i Norge - Dagens Nyheter
-- Ung män och unga kvinnor lever i skilda världar – det kan skapa problem. - gp.se
+- Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
+- Man död i olycka på riksväg 70 - Expressen
+- ”Han har inga vuxna i rummet” - Aftonbladet
+- DN Direkt – Kristersson: Kommer inte ingå i fredsrådet i nuläget - Dagens Nyheter
+- 21 januari 07.17, Sammanfattning natt, Jämtlands län - polisen.se
 - Johannas pappa dog på sjukhusets toalett - Expressen
-- DN Direkt – En död efter trafikolycka i Älvdalen - Dagens Nyheter
-- 21 januari 07.17, Sammanfattning natt, Jämtlands län - Polisen.se
-- Larm om brinnande buss på E16 - falukuriren.se
-- 21 januari 07.18, Sammanfattning natt, Norrbottens län - Polisen.se
-- Anna-Lena Laurén: Berlin gjorde mig till vintercyklist - Dagens Nyheter
+- 21 januari 07.18, Sammanfattning natt, Norrbottens län - polisen.se
+- Netanyahu tackar ja till plats i fredsråd – Senaste nytt om kriget i Gaza - SVT Nyheter
 - DN Direkt – Europol: Tillslag mot drognätverk i flera länder - Dagens Nyheter
+- Anna-Lena Laurén: Berlin gjorde mig till vintercyklist - Dagens Nyheter
 - Livstid för mord på Japans premiärminister - SVT Nyheter
-- Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
-- Toppekonomen: ”Grönlandskrisen en spik i kistan för dollarn” - Dagens Nyheter
+- Toppekonom: Dollarn är död – varnar för börskrasch - DI
+- FI återkallar tillståndet för Get betal - Cision News
+- EU ser över cybersäkerheten – vill minska risker från högriskleverantörer - Computer Sweden
 - Europas sämsta flygbolag 2026 – när lågpris möter låg tolerans - Dagens PS
-- Hembatterier allt vanligare i svenska hushåll: ”En brant utveckling” - SVT Nyheter
-- ”Smitta” var elfel – tävlingarna flyttas tillbaka - Aftonbladet
+- Arlo har lanserat Ultra 3 med 4K HDR och AI - Teknikveckan
+- Här görs läkemedel i minifabriker: Kan spara miljarder och år av utveckling - Life Science Sweden
 - (+) Mobilers livstid, Lyca-kritik, RCS i IOS och framtid – Mobil svarar - mobil.se
-- Skulle tvingas byta batteri – för 130 000 kr - Carup.se
 
 ## World News
 
@@ -82,6 +82,7 @@ _Updated: 2026-01-21 11:54_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -90,9 +91,8 @@ _Updated: 2026-01-21 11:54_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -105,13 +105,13 @@ _Updated: 2026-01-21 11:54_
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -121,6 +121,7 @@ _Updated: 2026-01-21 11:54_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -131,13 +132,12 @@ _Updated: 2026-01-21 11:54_
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
