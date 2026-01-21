@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 09:50_
+_Updated: 2026-01-21 10:56_
 
 ## Top Stories
 
-- LEDARE: Grönlandskravet – USA försvagar sina egna allianser - norran.se
+- Trump förväntas landa tre timmar sent – Senaste nytt om USA och Grönland - SVT Nyheter
 - Man död i olycka på riksväg 70 - Expressen
+- Ung män och unga kvinnor lever i skilda världar – det kan skapa problem. - gp.se
 - USA planerar skicka 4 000 soldater till övning i Norge - Dagens Nyheter
 - Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
-- Livstid för mord på Japans premiärminister - SVT Nyheter
-- Trumps fiasko-år – ”nästan allt” negativt - Expressen
+- Läkaren Marko tog magisk svamp för att bli bättre på jobbet - gp.se
 - C vill slopa anmälningskrav efter stormen - ATL
 - 21 januari 07.17, Sammanfattning natt, Jämtlands län - Polisen.se
 - 21 januari 07.18, Sammanfattning natt, Norrbottens län - Polisen.se
-- Två anhållna för grovt rån och försök till grov våldtäkt i Huskvarna - SVT Nyheter
+- Ljuständning på Förintelsens minnesdag - start.stockholm
 - Michael Winiarski: Vilka vågar tacka nej till Trumps nya ”fredsråd”? - Dagens Nyheter
+- Lokförare död i ny tågolycka - gp.se
 - Anna-Lena Laurén: Berlin gjorde mig till vintercyklist - Dagens Nyheter
-- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
-- Ministerns oro i Grönlandskrisen - Expressen
+- Livstid för mord på Japans premiärminister - SVT Nyheter
+- Toppekonomen: ”Grönlandskrisen en spik i kistan för dollarn” - Dagens Nyheter
+- Europas sämsta flygbolag 2026 – när lågpris möter låg tolerans - Dagens PS
+- Bessent viftar bort dansk statspappersdump - DI
 - Hembatterier allt vanligare i svenska hushåll: ”En brant utveckling” - SVT Nyheter
-- Dacia passerar 10 miljoner sålda bilar - Mynewsdesk
-- Utdelningslyft i Avanza – vinst i linje med förväntningarna - DI
-- Så rik är Trump – tjänar galet på att vara president - Expressen
 - ”Smitta” var elfel – tävlingarna flyttas tillbaka - Aftonbladet
 - Skulle tvingas byta batteri – för 130 000 kr - Carup.se
 
@@ -30,23 +30,23 @@ _Updated: 2026-01-21 09:50_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
@@ -54,11 +54,12 @@ _Updated: 2026-01-21 09:50_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-01-21 09:50_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
-- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -81,6 +81,7 @@ _Updated: 2026-01-21 09:50_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -91,7 +92,6 @@ _Updated: 2026-01-21 09:50_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -121,7 +121,6 @@ _Updated: 2026-01-21 09:50_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -132,6 +131,7 @@ _Updated: 2026-01-21 09:50_
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -142,23 +142,23 @@ _Updated: 2026-01-21 09:50_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
