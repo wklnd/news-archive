@@ -1,71 +1,71 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 01:45_
+_Updated: 2026-01-21 04:35_
 
 ## Top Stories
 
-- Fortsatta ryska attacker mot infrastruktur i Ukraina - Unric
-- Att leva i Trumps ”gyllene tidsålder” - expo.se
-- En anhållen för hot – rör centrala statsledningen - Expressen
-- Här är årets vanligaste bebisnamn i Sverige och Göteborg - gp.se
-- Kommer Trump att begrava världseliten i sitt tal i Davos? - Expressen
+- EU presenterar Arktis-plan efter Trumps nya tullhot - Europaportalen
+- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
+- En person död efter ny tågolycka i Spanien - SVT Nyheter
+- ”Läget illa – men kan snabbt bli sämre” - SvD
+- 30-tal uppges ha dödats i Niger - SVT Nyheter
+- Iranska demonstranter kan dömas till döden - Expressen
+- 20 januari 20.33, Trafikolycka, vilt, Västerbottens län - Polisen.se
 - Lars vill att dottern ska slippa tidiga skoldagar – har anmält kommunen - Aftonbladet
-- Almega sågar förslaget: ”Går ut över eleverna” - Omni
-- Mordmisstänkte var bekant med offret - Tidningen Ångermanland
-- Strömmen bryts för 7 000 hushåll i Eslöv och Höör mitt i natten - skd.se
-- Förbudet att jaga klövvilt med lös hund upphävs - Jakt & Jägare
-- Michael Winiarski: Vilka vågar tacka nej till Trumps nya ”fredsråd”? - Dagens Nyheter
-- SVT på plats efter olyckan i Spanien: ”Facket larmade om sträckan” - SVT Nyheter
-- Peter Alestig: Skenande antal konflikter om vatten en försmak av framtiden - Dagens Nyheter
+- Mordmisstänkte var bekant med offret - tidningenangermanland.se
+- Efter mordet i Rönninge – S vill ha ny lag - Expressen
+- Trump lade ut privata sms - vk.se
+- Danska krigsveteranen om Grönlandshoten: ”Ett slag i ansiktet” - Aftonbladet
 - IS-läger obevakat och USA backar från kurder - gp.se
+- Experten: ”Trump är en åttaåring som skriver ett argt brev till jultomten” - Dagens Nyheter
 - Ett av tullkrigets offer: Din pension - SvD
 - Fler tåg kom fram i tid under 2025 - Tidningen Näringslivet
+- Stall blev strömförande – GS75 flyttas tillbaka - Aftonbladet
 - Japansk Abu Garcia-fantast vill starta museum i Tokyo – stort intresse för unika prylarna - SVT Nyheter
-- Med stor säkerhet ingen smitta på Umåker – söndagens tävlingar (25/1) körs på Umåker - Svensk Travsport
 - Markavvattningsföretag i praktiken – så fungerar förvaltning, underhåll och aktivering - LRF - Lantbrukarnas Riksförbund
-- Nya NAD-förstärkare: Klassisk hi-fi med modern teknik - ljudochbild.se
+- Rapport hävdar att Oneplus är på väg att försvinna - Swedroid
 
 ## World News
 
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Large local effect but small global climate impact of Nord Stream - su.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - fiia.fi
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
@@ -102,43 +102,43 @@ _Updated: 2026-01-21 01:45_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-01-21 01:45_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
