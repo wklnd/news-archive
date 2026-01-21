@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 00:53_
+_Updated: 2026-01-22 01:48_
 
 ## Top Stories
 
-- Trump: Grönlandsavtal ska gälla för evigt - Dagens Nyheter
-- Kristersson kritisk till Trumps retorik: ”Hotfull och hånfull” - SVT Nyheter
+- DN Direkt – Trump om Grönlandsavtal: Detaljer förklaras senare - Dagens Nyheter
+- DN Direkt – Løkke Rasmussen: Dagen slutade bättre än den började - Dagens Nyheter
 - Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
-- DN Direkt – Kristersson: Kommer inte ingå i fredsrådet i nuläget - Dagens Nyheter
-- Syriens armé går in i jättelägret al-Hol - Expressen
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Kompetensbrist på LSS-boenden: ”Ingen kan lära sig allt” - Dagens Nyheter
-- 24 år sedan Fadime mördades: "Jätteviktigt att prata om" - unt.se
-- Olycka med husvagn på E4 norr om Timrå – stopp söderut - SVT Nyheter
-- 21 januari 15.54, Bedrägeri, Jönköping - Polisen.se
 - UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
+- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
 - Lokförare död efter ny tågolycka i Spanien - gp.se
-- Iran är vår tids Berlinmur - SvD
-- Erik Magnusson Så påverkas Sverige om banden med USA bryts - sydsvenskan.se
+- 24 år sedan Fadime mördades: "Jätteviktigt att prata om" - unt.se
+- Kompetensbrist på LSS-boenden: ”Ingen kan lära sig allt” - Dagens Nyheter
+- EXTRA: Två personer anhållna för rånen i Huskvarna - jp.se
+- Jomana, 18, skulle ta studenten i vår – nu utvisas hon - mitti.se
+- Mamma: ”Säkerhetsstyrkorna dödade mitt barn” - Dagens Nyheter
+- Kanadas premiärminister till Europa: Det går inte att leva i en lögn - Dagens Nyheter
+- Syriens armé går in i jättelägret al-Hol - Expressen
+- DN Direkt – Kristersson: Kommer inte ingå i fredsrådet i nuläget - Dagens Nyheter
+- SSAB:s Luleå-satsning pekas ut som nyckelprojekt av EU - Metal Supply
 - Ny rapport: Sveriges tillverkningsberedskap är begränsad - Svensk Farmaci
 - Rapport: Ekonomin vänder 2026 med Sverige i topp - Omni
-- ”Det finns gott om europeiska alternativ” - Aftonbladet
-- Grundaren: ”Jag känner djup sorg” - allehanda.se
+- LARMET: Trump kan släcka Sverige på en timme - Marcus Oscarsson
 - Region Gävleborg satsar på konstnärligt residens för dans och musik - regiongavleborg.se
-- Allt om Valves nya hårdvara – Steam Machine, Frame och Controller - FZ.se
+- Sony lovar en ”ny form av lyssnande” nästa vecka – och vi tror att vi vet vad det är - TechRadar
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-01-22 00:53_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Large local effect but small global climate impact of Nord Stream - su.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2026-01-22 00:53_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
+- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -82,6 +82,7 @@ _Updated: 2026-01-22 00:53_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -91,7 +92,6 @@ _Updated: 2026-01-22 00:53_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -100,10 +100,10 @@ _Updated: 2026-01-22 00:53_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -119,25 +119,25 @@ _Updated: 2026-01-22 00:53_
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
