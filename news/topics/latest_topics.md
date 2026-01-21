@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 09:01_
+_Updated: 2026-01-21 09:50_
 
 ## Top Stories
 
+- LEDARE: Grönlandskravet – USA försvagar sina egna allianser - norran.se
 - Man död i olycka på riksväg 70 - Expressen
-- DN Direkt – Tekniska problem på Air Force One – Trump tvingades vända - Dagens Nyheter
-- Trumps fiasko-år – ”nästan allt” negativt - Expressen
 - USA planerar skicka 4 000 soldater till övning i Norge - Dagens Nyheter
 - Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
-- ”Idag tar Kävlinge första steget mot ny kärnkraft i Barsebäck.” - sydsvenskan.se
+- Livstid för mord på Japans premiärminister - SVT Nyheter
+- Trumps fiasko-år – ”nästan allt” negativt - Expressen
 - C vill slopa anmälningskrav efter stormen - ATL
 - 21 januari 07.17, Sammanfattning natt, Jämtlands län - Polisen.se
 - 21 januari 07.18, Sammanfattning natt, Norrbottens län - Polisen.se
 - Två anhållna för grovt rån och försök till grov våldtäkt i Huskvarna - SVT Nyheter
-- FN-rapport varnar för vattenkollaps – matförsörjningen hotas - Dagens Nyheter
-- Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
-- Trump lade ut privata sms - vk.se
-- Trump hotar Iran: ”Utplånas från jordens yta” - Expressen
+- Michael Winiarski: Vilka vågar tacka nej till Trumps nya ”fredsråd”? - Dagens Nyheter
+- Anna-Lena Laurén: Berlin gjorde mig till vintercyklist - Dagens Nyheter
+- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
+- Ministerns oro i Grönlandskrisen - Expressen
 - Hembatterier allt vanligare i svenska hushåll: ”En brant utveckling” - SVT Nyheter
 - Dacia passerar 10 miljoner sålda bilar - Mynewsdesk
-- Ett av tullkrigets offer: Din pension - SvD
-- Japansk Abu Garcia-fantast vill starta museum i Tokyo – stort intresse för unika prylarna - SVT Nyheter
+- Utdelningslyft i Avanza – vinst i linje med förväntningarna - DI
+- Så rik är Trump – tjänar galet på att vara president - Expressen
 - ”Smitta” var elfel – tävlingarna flyttas tillbaka - Aftonbladet
-- Charles Darwin hade en hemlighet i sina glasbehållare – 200 år senare kan forskare avslöja den - Illustrerad Vetenskap
+- Skulle tvingas byta batteri – för 130 000 kr - Carup.se
 
 ## World News
 
@@ -41,9 +41,9 @@ _Updated: 2026-01-21 09:01_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -54,12 +54,11 @@ _Updated: 2026-01-21 09:01_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-01-21 09:01_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
+- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -105,12 +105,12 @@ _Updated: 2026-01-21 09:01_
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -144,7 +144,7 @@ _Updated: 2026-01-21 09:01_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
