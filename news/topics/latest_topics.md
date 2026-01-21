@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 10:56_
+_Updated: 2026-01-21 11:54_
 
 ## Top Stories
 
-- Trump förväntas landa tre timmar sent – Senaste nytt om USA och Grönland - SVT Nyheter
-- Man död i olycka på riksväg 70 - Expressen
-- Ung män och unga kvinnor lever i skilda världar – det kan skapa problem. - gp.se
-- USA planerar skicka 4 000 soldater till övning i Norge - Dagens Nyheter
+- Netanyahu tackar ja till plats i fredsråd – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
-- Läkaren Marko tog magisk svamp för att bli bättre på jobbet - gp.se
-- C vill slopa anmälningskrav efter stormen - ATL
+- Slog larm om säkerheten – före kidnappningen - Aftonbladet
+- USA planerar skicka 4 000 soldater till övning i Norge - Dagens Nyheter
+- Ung män och unga kvinnor lever i skilda världar – det kan skapa problem. - gp.se
+- Johannas pappa dog på sjukhusets toalett - Expressen
+- DN Direkt – En död efter trafikolycka i Älvdalen - Dagens Nyheter
 - 21 januari 07.17, Sammanfattning natt, Jämtlands län - Polisen.se
+- Larm om brinnande buss på E16 - falukuriren.se
 - 21 januari 07.18, Sammanfattning natt, Norrbottens län - Polisen.se
-- Ljuständning på Förintelsens minnesdag - start.stockholm
-- Michael Winiarski: Vilka vågar tacka nej till Trumps nya ”fredsråd”? - Dagens Nyheter
-- Lokförare död i ny tågolycka - gp.se
 - Anna-Lena Laurén: Berlin gjorde mig till vintercyklist - Dagens Nyheter
+- DN Direkt – Europol: Tillslag mot drognätverk i flera länder - Dagens Nyheter
 - Livstid för mord på Japans premiärminister - SVT Nyheter
+- Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
 - Toppekonomen: ”Grönlandskrisen en spik i kistan för dollarn” - Dagens Nyheter
 - Europas sämsta flygbolag 2026 – när lågpris möter låg tolerans - Dagens PS
-- Bessent viftar bort dansk statspappersdump - DI
 - Hembatterier allt vanligare i svenska hushåll: ”En brant utveckling” - SVT Nyheter
 - ”Smitta” var elfel – tävlingarna flyttas tillbaka - Aftonbladet
+- (+) Mobilers livstid, Lyca-kritik, RCS i IOS och framtid – Mobil svarar - mobil.se
 - Skulle tvingas byta batteri – för 130 000 kr - Carup.se
 
 ## World News
@@ -30,23 +30,23 @@ _Updated: 2026-01-21 10:56_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
@@ -77,11 +77,11 @@ _Updated: 2026-01-21 10:56_
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -105,13 +105,13 @@ _Updated: 2026-01-21 10:56_
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -152,6 +152,7 @@ _Updated: 2026-01-21 10:56_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-01-21 10:56_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
