@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 06:31_
+_Updated: 2026-01-21 07:01_
 
 ## Top Stories
 
-- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
+- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
+- En anhållen för hot – rör centrala statsledningen - Expressen
 - USA minskar Nato-deltagande - Expressen
 - Här är årets vanligaste bebisnamn i Sverige och Göteborg - gp.se
-- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
-- Ministerns oro i Grönlandskrisen - Expressen
+- IS-läger obevakat och USA backar från kurder - gp.se
 - Varnar för fortsatt solstorm - Dagens Nyheter
 - DN Direkt – Två anhållna för våldtäktsförsök och grovt rån mot äldre - Dagens Nyheter
-- Ljuständning på Förintelsens minnesdag - start.stockholm
 - Sexbrott i hemtjänsten - 8 Sidor
+- Timmerbil och personbil i kollision i Älvdalen - SVT Nyheter
 - Lars vill att hans dotter ska få sova längre – anmäler Ronneby kommun - SVT Nyheter
-- IS-läger obevakat och USA backar från kurder - gp.se
+- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
 - Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
-- Danska krigsveteranen om Grönlandshoten: ”Ett slag i ansiktet” - Aftonbladet
-- Trump lade ut privata sms - vk.se
+- Danmark föreslår att Nato får ett övervakningsuppdrag på Grönland - Yle
+- Trump hotar ”utplåna” land - Expressen
 - Ett av tullkrigets offer: Din pension - SvD
-- Stall blev strömförande – GS75 flyttas tillbaka - Aftonbladet
 - Japansk Abu Garcia-fantast vill starta museum i Tokyo – stort intresse för unika prylarna - SVT Nyheter
-- Storfavoriterna plockas bort från GB:s sortiment - Aftonbladet
+- Stall blev strömförande – GS75 flyttas tillbaka - Aftonbladet
+- USA-börserna fortsatt nedåt – teknikjättar sjunker - DI
 - Markavvattningsföretag i praktiken – så fungerar förvaltning, underhåll och aktivering - LRF - Lantbrukarnas Riksförbund
 - Charles Darwin hade en hemlighet i sina glasbehållare – 200 år senare kan forskare avslöja den - Illustrerad Vetenskap
 
 ## World News
 
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
+- Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -97,7 +97,6 @@ _Updated: 2026-01-21 06:31_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
@@ -116,12 +115,12 @@ _Updated: 2026-01-21 06:31_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -132,6 +131,7 @@ _Updated: 2026-01-21 06:31_
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
