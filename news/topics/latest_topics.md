@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 07:01_
+_Updated: 2026-01-21 07:52_
 
 ## Top Stories
 
-- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
-- En anhållen för hot – rör centrala statsledningen - Expressen
-- USA minskar Nato-deltagande - Expressen
+- DN Direkt – Tekniska problem på Air Force One – Trump tvingas vända - Dagens Nyheter
+- Livstid för mord på Japans premiärminister - SVT Nyheter
+- Trumps fiasko-år - Expressen
 - Här är årets vanligaste bebisnamn i Sverige och Göteborg - gp.se
-- IS-läger obevakat och USA backar från kurder - gp.se
-- Varnar för fortsatt solstorm - Dagens Nyheter
-- DN Direkt – Två anhållna för våldtäktsförsök och grovt rån mot äldre - Dagens Nyheter
+- En anhållen för hot – rör centrala statsledningen - Expressen
+- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
 - Sexbrott i hemtjänsten - 8 Sidor
-- Timmerbil och personbil i kollision i Älvdalen - SVT Nyheter
-- Lars vill att hans dotter ska få sova längre – anmäler Ronneby kommun - SVT Nyheter
+- Lars vill att dottern ska slippa tidiga skoldagar – har anmält kommunen - Aftonbladet
+- Mordmisstänkte var bekant med offret - tidningenangermanland.se
+- 20 januari: Nattens nyheter - SVT Nyheter
+- FN-rapport varnar för vattenkollaps – matförsörjningen hotas - Dagens Nyheter
+- IS-läger obevakat och USA backar från kurder - gp.se
 - UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
 - Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
-- Danmark föreslår att Nato får ett övervakningsuppdrag på Grönland - Yle
-- Trump hotar ”utplåna” land - Expressen
 - Ett av tullkrigets offer: Din pension - SvD
-- Japansk Abu Garcia-fantast vill starta museum i Tokyo – stort intresse för unika prylarna - SVT Nyheter
+- Hembatterier allt vanligare i svenska hushåll: ”En brant utveckling” - SVT Nyheter
+- Gymnasieprogrammet i Luleå med högst lön – direkt efter examen - kuriren.nu
 - Stall blev strömförande – GS75 flyttas tillbaka - Aftonbladet
-- USA-börserna fortsatt nedåt – teknikjättar sjunker - DI
 - Markavvattningsföretag i praktiken – så fungerar förvaltning, underhåll och aktivering - LRF - Lantbrukarnas Riksförbund
 - Charles Darwin hade en hemlighet i sina glasbehållare – 200 år senare kan forskare avslöja den - Illustrerad Vetenskap
 
@@ -43,10 +43,10 @@ _Updated: 2026-01-21 07:01_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
@@ -54,11 +54,12 @@ _Updated: 2026-01-21 07:01_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-01-21 07:01_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
-- Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -97,6 +97,7 @@ _Updated: 2026-01-21 07:01_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
@@ -115,12 +116,12 @@ _Updated: 2026-01-21 07:01_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -131,13 +132,12 @@ _Updated: 2026-01-21 07:01_
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -153,6 +153,7 @@ _Updated: 2026-01-21 07:01_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -160,5 +161,4 @@ _Updated: 2026-01-21 07:01_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
