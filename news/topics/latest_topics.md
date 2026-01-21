@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 04:35_
+_Updated: 2026-01-21 06:31_
 
 ## Top Stories
 
-- EU presenterar Arktis-plan efter Trumps nya tullhot - Europaportalen
+- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
+- USA minskar Nato-deltagande - Expressen
+- Här är årets vanligaste bebisnamn i Sverige och Göteborg - gp.se
 - Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
-- En person död efter ny tågolycka i Spanien - SVT Nyheter
-- ”Läget illa – men kan snabbt bli sämre” - SvD
-- 30-tal uppges ha dödats i Niger - SVT Nyheter
-- Iranska demonstranter kan dömas till döden - Expressen
-- 20 januari 20.33, Trafikolycka, vilt, Västerbottens län - Polisen.se
-- Lars vill att dottern ska slippa tidiga skoldagar – har anmält kommunen - Aftonbladet
-- Mordmisstänkte var bekant med offret - tidningenangermanland.se
-- Efter mordet i Rönninge – S vill ha ny lag - Expressen
-- Trump lade ut privata sms - vk.se
-- Danska krigsveteranen om Grönlandshoten: ”Ett slag i ansiktet” - Aftonbladet
+- Ministerns oro i Grönlandskrisen - Expressen
+- Varnar för fortsatt solstorm - Dagens Nyheter
+- DN Direkt – Två anhållna för våldtäktsförsök och grovt rån mot äldre - Dagens Nyheter
+- Ljuständning på Förintelsens minnesdag - start.stockholm
+- Sexbrott i hemtjänsten - 8 Sidor
+- Lars vill att hans dotter ska få sova längre – anmäler Ronneby kommun - SVT Nyheter
 - IS-läger obevakat och USA backar från kurder - gp.se
-- Experten: ”Trump är en åttaåring som skriver ett argt brev till jultomten” - Dagens Nyheter
+- Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
+- Danska krigsveteranen om Grönlandshoten: ”Ett slag i ansiktet” - Aftonbladet
+- Trump lade ut privata sms - vk.se
 - Ett av tullkrigets offer: Din pension - SvD
-- Fler tåg kom fram i tid under 2025 - Tidningen Näringslivet
 - Stall blev strömförande – GS75 flyttas tillbaka - Aftonbladet
 - Japansk Abu Garcia-fantast vill starta museum i Tokyo – stort intresse för unika prylarna - SVT Nyheter
+- Storfavoriterna plockas bort från GB:s sortiment - Aftonbladet
 - Markavvattningsföretag i praktiken – så fungerar förvaltning, underhåll och aktivering - LRF - Lantbrukarnas Riksförbund
-- Rapport hävdar att Oneplus är på väg att försvinna - Swedroid
+- Charles Darwin hade en hemlighet i sina glasbehållare – 200 år senare kan forskare avslöja den - Illustrerad Vetenskap
 
 ## World News
 
@@ -43,9 +43,9 @@ _Updated: 2026-01-21 04:35_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -74,16 +74,16 @@ _Updated: 2026-01-21 04:35_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -105,12 +105,12 @@ _Updated: 2026-01-21 04:35_
 - Engineering Health 2024 - Chalmers
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -121,7 +121,9 @@ _Updated: 2026-01-21 04:35_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -130,14 +132,12 @@ _Updated: 2026-01-21 04:35_
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
