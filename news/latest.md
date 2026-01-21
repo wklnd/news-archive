@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-21 11:01_
+_Updated: 2026-01-21 11:58_
 
 - Air Force One Turns Back With Trump After Electrical Issue - The New York Times
-- The great Davos divorce: America's allies draw red line with Trump - Axios
-- Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
-- Global markets on alert as Europe to suspend approval of US trade deal - BBC
-- Light snow overnight and Wednesday; coldest subzero air of winter Thursday night into Saturday - mprnews.org
+- Life imprisonment for man who killed Japan's ex-PM Shinzo Abe - BBC
+- Trump administration admits DOGE accessed personal Social Security data - The Washington Post
+- Iran warns Trump not to take action against Supreme Leader Khamenei - PBS
 - Forecasters warn of a ‘potentially catastrophic’ storm from Texas to the Carolinas - AP News
-- Winter Storm Warnings issued for 3 counties ahead of heavy incoming snow - mlive.com
 - Spain train crash: Driver killed in derailment near Barcelona - BBC
+- Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
+- Winter Storm Warnings issued for 3 counties ahead of heavy incoming snow - mlive.com
 - Russia Cheers the Growing NATO Rift Over Greenland - WSJ - The Wall Street Journal
-- Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
+- Trump touts first-year accomplishments in lengthy White House briefing before heading to Davos - CBS News
 - After 4 shark attacks in Australia in 3 days, beachgoers urged to "just go to a local pool" - CBS News
+- Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’ - CNBC
 - UK inflation rises to 3.4% in December, above forecasts - CNBC
-- Red Cross announces severe emergency blood shortage, calls on Americans to donate - ABC News
 - Trump's tariff threats spark new fears of 'Sell America' trade - Politico
-- Realme promises days of battery from its 10,001mAh phone - The Verge
-- Donkey Kong Country Returns HD Gets A Free Switch 2 Update And Adds Dixie Kong - Nintendo Life
+- US bank stocks fall as investors await credit card rate cap deadline - Reuters
 - Galaxy S26 Ultra color lineup looks pretty boring, and didn’t even copy iPhone orange - 9to5Google
-- Rockstar North 'Open And Operational' After Fire Crews Respond To Reported Boiler Room Explosion - Game Informer
-- ‘I’d come back to the UK – but I’m not playing a cop’: Oscar-tipped Wunmi Mosaku on sensational vampire smash Sinners - The Guardian
-- Raw’s best moments you probably didn’t notice - Cageside Seats
+- OnePlus phones are reportedly no more as Oppo pulls the plug on the company - XDA
+- Donkey Kong Country Returns HD Gets A Free Switch 2 Update And Adds Dixie Kong - Nintendo Life
+- Samsung reveals Galaxy Book 6 series pricing and availability - SamMobile
+- Netflix Unveils Stacked Korean Content Slate of 33 Series and Films for 2026 (Full List) - hollywoodreporter.com
