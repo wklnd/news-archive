@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-21 21:59_
+_Updated: 2026-01-21 23:01_
 
-- Dow rallies 600 points after Trump calls off Europe tariffs related to Greenland: Live updates - CNBC
-- EU suspends approval of US trade deal - BBC
-- Immigration officer injured during targeted operation in Los Angeles area - NBC News
-- Lawmakers’ Push for Epstein Files Access Is Dealt Legal Setback - The New York Times
 - Scoop: House Democratic Leader Hakeem Jeffries opposes bill funding DHS and ICE - Axios
-- Newsom Says He Is Blocked From Entering U.S. Pavilion at Davos - The New York Times
+- California’s Newsom hopes Trump ‘doesn’t double down on stupid’ in Davos - politico.eu
+- Judge denies lawmaker request for ‘independent monitor’ to oversee Epstein files release - Politico
+- Doge improperly shared sensitive social security data, DoJ court filing reveals - The Guardian
+- Michele Tafoya Announces Senate Run in Minnesota - The New York Times
+- Pentagon orders more active-duty soldiers to ready for possible Minneapolis deployment - MS NOW
+- Federal officials launch ICE operation in Maine and begin arrests - The Washington Post
 - ICE targeted off-duty police officers in Twin Cities, local police say - The Washington Post
 - Capitol agenda: Lawmakers nearly at the funding finish line - Politico
-- What is Trump's 'Board of Peace' and who has joined so far? - Reuters
 - EU lawmakers vote to hold up Mercosur trade agreement over legal concerns - AP News
-- Late Night Cringes Over Trump’s Texting Spree - The New York Times
-- Photographer Discovers Train Part That Could Hold Key to Spain Train Crash - The New York Times
-- Live Updates: Supreme Court Considers Trump's Attempt to Fire Lisa Cook from Fed - The New York Times
-- Jamie Dimon hesitates to criticize Trump… except for one plan he says will create ‘an economic disaster’ - CNN
-- Iconic Coney Island hot dog maker Nathan’s Famous is sold for $450 million - AP News
+- Trump Calls Off Tariffs on Europe Over Greenland - The Wall Street Journal
+- American democracy on the brink a year after Trump’s election, experts say - The Guardian
+- Greenland’s strategic position in seven maps: Why Trump wants the island - Al Jazeera
+- Here’s Volvo’s new EX60 $60,000 electric midsize SUV - Ars Technica
+- UnitedHealth pledges to return Obamacare profits to customers in 2026 - Politico
+- Jamie Dimon tells Davos: 'You didn't do a particularly good job making the world a better place' - Fortune
 - Japan restarts world's largest nuclear plant as Fukushima memories loom large - BBC
 - What to expect at Samsung Galaxy Unpacked 2026 - Engadget
-- Adobe Acrobat now lets you edit files using prompts, generate podcast summaries - TechCrunch
-- Switch 2 Predicted To Follow In PlayStation And Xbox's Footsteps This Year With "Global Price Hike" - Nintendo Life
-- Google has finally killed the Stadia Bluetooth tool — but this person rescued it - The Verge
+- ‘Nightmare’—Microsoft Update Breaks Windows For Millions - Forbes
+- Nvidia Stock (NVDA) Rallies on Reports of Increased GPU Prices - TipRanks
