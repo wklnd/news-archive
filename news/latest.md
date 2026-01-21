@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-21 01:52_
+_Updated: 2026-01-21 04:37_
 
 - Greenland PM Tells People to Prepare for Possible Invasion - Bloomberg
-- Gavin Newsom attacks Europe’s ‘complicity’ over Trump Greenland demands - The Guardian
-- ‘2020 never ended’: how Black Lives Matter organizing taught Minneapolis to handle ICE surge - The Guardian
+- Driver killed and several injured after train derails near Barcelona, local media report - BBC
+- DOGE employees may have improperly accessed social security data, DOJ says - Axios
+- Economic blackout day planned in Minnesota to protest ICE surge - The Guardian
 - More than 10 countries have signed on to Trump's "Board of Peace," sources say - CBS News
-- Letlow launches Trump-backed Senate bid against Cassidy - Politico
-- Judge bans Trump loyalist Lindsey Halligan from 'masquerading' as top federal prosecutor - NBC News
-- ‘Free America Walkout’ brings protesters to downtown Columbus in bitter cold - dispatch.com
-- Trump tariffs live updates: Trump heads to Davos as Greenland threats roil world, markets - Yahoo Finance
-- Four shark attacks in 48 hours leave Australian surfer Matt more afraid of local beaches than world’s biggest waves - The Guardian
-- Trump says U.K. ‘stupidity’ on Chagos Islands justifies Greenland demands - The Washington Post
+- Los Angeles School Desegregation Policy Hurts White Students, Lawsuit Says - The New York Times
+- Federal judge moves to replace Lindsey Halligan as U.S. attorney - The Washington Post
+- Carney says the old world order 'is not coming back' in Davos speech - BBC
 - Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
-- US bank stocks fall as investors await credit card rate cap deadline - Reuters
 - A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle - The New York Times
-- Trump promised to cut energy bills in half. One year later, has he delivered? - NPR
-- Microsoft chief Satya Nadella warns AI boom could falter without wider adoption - Financial Times
-- Google temporarily disabled YouTube's advanced captions without warning - Ars Technica
-- Samsung deleted its Bixby reboot reveal, but confirmed when it will arrive - 9to5Google
-- Spotify is testing a feature that syncs audiobooks with paper editions - The Verge
-- RedMagic relaunches powerful OLED gaming tablet with new version - Notebookcheck
+- Live Q&A: What’s Next for Global Markets After Japan’s Bond Shock and Trump’s Greenland Move - Bloomberg
+- Stock Market Today: Dow Craters On Greenland Tariff News; Nvidia Sees Big Loss (Live Coverage) - Investor's Business Daily
+- Google temporarily disabled YouTube’s advanced captions without warning - Ars Technica
+- Donkey Kong Country Returns HD Gets A Free Switch 2 Update And Adds Dixie Kong - Nintendo Life
+- Adobe unveils new AI-powered video editing tools for Premiere - Engadget
+- David Rosen, 95, Dies; Video Game Visionary and Co-Founder of Sega - The New York Times
 - Despite Drastic Financial Steps, Met Opera Turns to Layoffs and Cuts - The New York Times
+- Inside Disney’s Push to Turn Its Princess Brand Into a High-Margin Lifestyle Franchise (Exclusive) - hollywoodreporter.com
+- Charlie Puth: ‘I Used to Be Very Cringe’ - Rolling Stone
+- Even George R.R. Martin Was Surprised by That Poop Scene in 'A Knight of the Seven Kingdoms' - Gizmodo
