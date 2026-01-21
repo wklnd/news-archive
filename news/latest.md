@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-21 09:55_
+_Updated: 2026-01-21 11:01_
 
-- Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
+- Air Force One Turns Back With Trump After Electrical Issue - The New York Times
 - The great Davos divorce: America's allies draw red line with Trump - Axios
+- Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
+- Global markets on alert as Europe to suspend approval of US trade deal - BBC
 - Light snow overnight and Wednesday; coldest subzero air of winter Thursday night into Saturday - mprnews.org
-- Trump administration admits DOGE accessed personal Social Security data - The Washington Post
-- University of Pennsylvania Rebukes Trump Administration for Demanding Information About Jewish Staff - The New York Times
+- Forecasters warn of a ‘potentially catastrophic’ storm from Texas to the Carolinas - AP News
 - Winter Storm Warnings issued for 3 counties ahead of heavy incoming snow - mlive.com
-- ChongLy Scott Thao, Hmong Immigrant and U.S. Citizen, Arrested by ICE - The New York Times
 - Spain train crash: Driver killed in derailment near Barcelona - BBC
 - Russia Cheers the Growing NATO Rift Over Greenland - WSJ - The Wall Street Journal
-- ‘God Is Very Proud’: Trump Marks Anniversary With a Victory Lap - The New York Times
-- Man who killed Japan's ex-PM Shinzo Abe gets life in prison - BBC
-- Billionaire Dalio sends 2-word warning as stocks sell-off - thestreet.com
-- UAL Earnings: United Airlines Post Mixed Financial Results, Forecasts Record Year Ahead - TipRanks
-- US bank stocks fall as investors await credit card rate cap deadline By Reuters - Investing.com
+- Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
+- After 4 shark attacks in Australia in 3 days, beachgoers urged to "just go to a local pool" - CBS News
+- UK inflation rises to 3.4% in December, above forecasts - CNBC
 - Red Cross announces severe emergency blood shortage, calls on Americans to donate - ABC News
+- Trump's tariff threats spark new fears of 'Sell America' trade - Politico
+- Realme promises days of battery from its 10,001mAh phone - The Verge
 - Donkey Kong Country Returns HD Gets A Free Switch 2 Update And Adds Dixie Kong - Nintendo Life
-- System76 Continues Driving More Improvements Into The COSMIC Desktop - Phoronix
-- Scientists unveil crawling robot hand that can grasp multiple objects - Financial Times
-- ‘Infinite Money Glitch’ Finally Gave People Good Deals On Trade-Ins So GameStop Killed It - Kotaku
-- Rob Hirst Dies: Midnight Oil’s Founding Drummer & Songwriter Was 70 - Deadline
+- Galaxy S26 Ultra color lineup looks pretty boring, and didn’t even copy iPhone orange - 9to5Google
+- Rockstar North 'Open And Operational' After Fire Crews Respond To Reported Boiler Room Explosion - Game Informer
+- ‘I’d come back to the UK – but I’m not playing a cop’: Oscar-tipped Wunmi Mosaku on sensational vampire smash Sinners - The Guardian
+- Raw’s best moments you probably didn’t notice - Cageside Seats
