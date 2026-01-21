@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 07:52_
+_Updated: 2026-01-21 09:01_
 
 ## Top Stories
 
-- DN Direkt – Tekniska problem på Air Force One – Trump tvingas vända - Dagens Nyheter
-- Livstid för mord på Japans premiärminister - SVT Nyheter
-- Trumps fiasko-år - Expressen
-- Här är årets vanligaste bebisnamn i Sverige och Göteborg - gp.se
-- En anhållen för hot – rör centrala statsledningen - Expressen
-- Medlemspriset i Trumps fredsråd: En miljard dollar - gp.se
-- Sexbrott i hemtjänsten - 8 Sidor
-- Lars vill att dottern ska slippa tidiga skoldagar – har anmält kommunen - Aftonbladet
-- Mordmisstänkte var bekant med offret - tidningenangermanland.se
-- 20 januari: Nattens nyheter - SVT Nyheter
+- Man död i olycka på riksväg 70 - Expressen
+- DN Direkt – Tekniska problem på Air Force One – Trump tvingades vända - Dagens Nyheter
+- Trumps fiasko-år – ”nästan allt” negativt - Expressen
+- USA planerar skicka 4 000 soldater till övning i Norge - Dagens Nyheter
+- Kommunanställd accepterade jättegåva – försökte dölja för kollegorna - sydsvenskan.se
+- ”Idag tar Kävlinge första steget mot ny kärnkraft i Barsebäck.” - sydsvenskan.se
+- C vill slopa anmälningskrav efter stormen - ATL
+- 21 januari 07.17, Sammanfattning natt, Jämtlands län - Polisen.se
+- 21 januari 07.18, Sammanfattning natt, Norrbottens län - Polisen.se
+- Två anhållna för grovt rån och försök till grov våldtäkt i Huskvarna - SVT Nyheter
 - FN-rapport varnar för vattenkollaps – matförsörjningen hotas - Dagens Nyheter
-- IS-läger obevakat och USA backar från kurder - gp.se
-- UPPDATERAS: Ny stor terrorbombning mot Ukraina – massiva ryska förluster - cornucopia.se
 - Irans polischef: Överlämna er för mildare straff - Dagens Nyheter
-- Ett av tullkrigets offer: Din pension - SvD
+- Trump lade ut privata sms - vk.se
+- Trump hotar Iran: ”Utplånas från jordens yta” - Expressen
 - Hembatterier allt vanligare i svenska hushåll: ”En brant utveckling” - SVT Nyheter
-- Gymnasieprogrammet i Luleå med högst lön – direkt efter examen - kuriren.nu
-- Stall blev strömförande – GS75 flyttas tillbaka - Aftonbladet
-- Markavvattningsföretag i praktiken – så fungerar förvaltning, underhåll och aktivering - LRF - Lantbrukarnas Riksförbund
+- Dacia passerar 10 miljoner sålda bilar - Mynewsdesk
+- Ett av tullkrigets offer: Din pension - SvD
+- Japansk Abu Garcia-fantast vill starta museum i Tokyo – stort intresse för unika prylarna - SVT Nyheter
+- ”Smitta” var elfel – tävlingarna flyttas tillbaka - Aftonbladet
 - Charles Darwin hade en hemlighet i sina glasbehållare – 200 år senare kan forskare avslöja den - Illustrerad Vetenskap
 
 ## World News
@@ -30,23 +30,23 @@ _Updated: 2026-01-21 07:52_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
@@ -97,8 +97,8 @@ _Updated: 2026-01-21 07:52_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -142,13 +142,13 @@ _Updated: 2026-01-21 07:52_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -160,5 +160,5 @@ _Updated: 2026-01-21 07:52_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Webinar: Ecosystem restoration for a sustainable development - Mynewsdesk
