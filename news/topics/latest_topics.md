@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-21 19:37_
+_Updated: 2026-01-21 21:06_
 
 ## Top Stories
 
-- Trump: Kommer inte ta Grönland med våld - Dagens Nyheter
-- Efter mordet i Rönninge – rätts­psykiatrisk undersökning dröjer - Aftonbladet
+- ”Han berättade att han hade så sjuka tankar” - Aftonbladet
+- Uppgifter: Sverige inbjudet till Trumps fredsråd - gp.se
 - Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
 - UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- DN Direkt – Kristersson: Kommer inte ingå i fredsrådet i nuläget - Dagens Nyheter
-- Man skjuten på biljardhall i Malmö - SVT Nyheter
-- DN Direkt – Finansministern KU-anmäls av S - Dagens Nyheter
-- Så många fick sparken efter brister i natthemtjänsten - Dagens Nyheter
-- På Förintelsens minnesdag hedrar vi offren och berättar för framtiden - Via TT
-- Henrik Brandão Jönsson: Sheinbaum spelar högt mot Trump - Dagens Nyheter
-- Låst i EU om ersättning vid sena flyg - gp.se
 - Lokförare död efter ny tågolycka i Spanien - gp.se
-- Tidigare Arvikaelevens oro för en invasion: ”Militärer på gatorna” - arvikanyheter.se
+- DN Direkt – Stopp för pendeltågstrafiken i Södertälje - Dagens Nyheter
+- Kompetensbrist på LSS-boenden: ”Ingen kan lära sig allt” - Dagens Nyheter
+- Lastbil och personbilar i krock i Trelleborg – tre skadade - SVT Nyheter
+- Olycka med husvagn på E4 norr om Timrå – stopp söderut - SVT Nyheter
+- Hur påverkar Trumps Grönlandshot ekonomin? - Expressen
+- DN Direkt – Rutte: Grönland är inte det viktigaste - Dagens Nyheter
+- Kanadas premiärminister till Europa: Det går inte att leva i en lögn - Dagens Nyheter
+- Henrik Brandão Jönsson: Sheinbaum spelar högt mot Trump - Dagens Nyheter
+- Di avslöjar: Alecta har dumpat amerikanska statspapper - DI
+- SSAB:s Luleå-satsning pekas ut som nyckelprojekt av EU - Metal Supply
 - Lista: Här är Sveriges bästa rapportbolag - Affärsvärlden
-- Toppekonomen: ”Grönlandskrisen en spik i kistan för dollarn” - Dagens Nyheter
-- Kraft Heinz: Berkshires försäljning påverkar inte vår ståndpunkt att aktierna är köpvärda - Morningstar Canada
-- AI-toppar: Framtiden är inom praktiska yrken - Omni
+- Ny rapport: Sveriges tillverkningsberedskap är begränsad - Svensk Farmaci
 - Region Gävleborg satsar på konstnärligt residens för dans och musik - regiongavleborg.se
 - Allt om Valves nya hårdvara – Steam Machine, Frame och Controller - FZ.se
 
 ## World News
 
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Världslarm: Krigets psykiska konsekvenser hotar global folkhälsa - e55.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Andersen Launches Global Consulting Practice on Six Continents, Driving Business Transformation - DI
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -76,12 +76,13 @@ _Updated: 2026-01-21 19:37_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -91,7 +92,6 @@ _Updated: 2026-01-21 19:37_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -145,20 +145,20 @@ _Updated: 2026-01-21 19:37_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
-- Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2024-12-04 Boksläpp: Svensk jordbrukspolitisk omvandling dokumenterad - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
