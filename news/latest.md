@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-21 18:01_
+_Updated: 2026-01-21 19:40_
 
-- Stocks rebound from big sell-off after Trump rules out military action on Greenland: Live updates - CNBC
-- Trump tariffs live updates: Bessent brushes off Danish Treasury sales as ‘irrelevant’; Trump arrives in Davos as Greenland threats roil world, markets - Yahoo Finance
+- EU suspends approval of US trade deal - BBC
+- NATO’s Rutte says Europe should actually ‘be happy’ Trump’s in charge - politico.eu
+- Judge denies lawmaker request for ‘independent monitor’ to oversee Epstein files release - Politico
+- Closing arguments to begin in Uvalde school shooting trial for former officer - ABC News
+- Israeli fire kills 11, including journalists and children, Gaza medics say - Reuters
+- Hand shape in Indonesian cave may be world’s oldest known rock art - The Guardian
 - ChongLy Scott Thao, Hmong Immigrant and U.S. Citizen, Arrested by ICE - The New York Times
-- How North Carolina erased medical debt for 2.5 million people - NPR
-- Will a major snowstorm hit the Philadelphia region the weekend of January 24 and 25? Here's what we know so far - 6abc.com
-- Why Was Macron Wearing Sunglasses at Davos? - The New York Times
-- Halligan Leaves as U.S. Attorney After Mounting Pressure From Judges - The New York Times
-- Minnesota is the eye of the Trump storm - Politico
-- Investigations and a Billion-Dollar ‘Shakedown’: How Trump Targeted Higher Education - The New York Times
-- Majority of Latin Americans Endorsed Trump’s Intervention In Venezuela, Polls Show - The New York Times
-- EU lawmakers vote to hold up Mercosur trade agreement over legal concerns - AP News
-- Russia Cheers the Growing NATO Rift Over Greenland - WSJ - The Wall Street Journal
+- House Democrats come out en masse against DHS funding bill - Politico
+- Prince Harry visibly emotional as he says Mail made wife Meghan’s life a misery - CNN
+- Trump mocks Macron's sunglasses in Davos speech - Reuters
 - Greenland’s strategic position in seven maps: Why Trump wants the island - Al Jazeera
-- Live Updates: Supreme Court Hears Case on Trump's Attempt to Fire Fed Governor Lisa Cook - The New York Times
-- Trump administration claims offshore wind poses a threat. But it won't say how. - NPR
+- Trump, AI at Davos: Living history — and the future - Axios
+- Elon Musk’s latest feud is a mudslinging match with a budget airline - The Washington Post
 - UK inflation rises to 3.4% in December, above forecasts - CNBC
+- Japan restarts world's largest nuclear plant as Fukushima memories loom large - BBC
 - 1 year into Trump's second term, a consumer watchdog agency is 'hanging by a thread' - NPR
-- Galaxy S26 Ultra color lineup looks pretty boring, and didn’t even copy iPhone orange - 9to5Google
+- What to expect at Samsung Galaxy Unpacked 2026 - Engadget
+- Sony Unveils $230 Clip-On Earbuds, Joining a Growing Wave - Bloomberg
 - I used Claude Code to vibe code a Mac app in 8 hours, but it was more work than magic - ZDNET
-- Rebranded Adobe Premiere 26 Arrives With One-Click Object Tracking - PetaPixel
+- iPhone Air to Get Minor Refresh This Year, Claims Leaker - MacRumors
