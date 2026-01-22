@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 09:00_
+_Updated: 2026-01-22 09:48_
 
 ## Top Stories
 
-- Efter dödsolyckan: ”Vad var det som hände?” - SvD
+- Direkt – Krisen i Mellanöstern – Trump: Putin har tackat ja till fredsråd - Dagens Nyheter
 - ”Han berättade att han hade så sjuka tankar” - Aftonbladet
-- Mamma: ”Säkerhetsstyrkorna dödade mitt barn” - Dagens Nyheter
 - Allvarlig olycka på E6 – tre till sjukhus - Expressen
+- Mamma: ”Säkerhetsstyrkorna dödade mitt barn” - Dagens Nyheter
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Ishockey: Oliver Ekman-Larsson skadad i natt - SVT Nyheter
+- UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
+- Nya regler för ID06 – detta gäller - Byggnadsarbetaren
 - Ska fatta beslut – får inte alla handlingar: ”Det är inte rättssäkert” - na.se
-- 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
-- 21 januari 07.17, Sammanfattning natt, Jämtlands län - polisen.se
-- Olycka med husvagn på E4 norr om Timrå – stopp söderut - SVT Nyheter
-- Trumps fredsråd – detta vet vi - Dagens Nyheter
-- Experten: Ryssland gnuggar händerna – ”Nato i djup kris” - DI
-- Lokförare död efter ny tågolycka i Spanien - GP
+- Anmälda brott 2025 - Brå - Brottsförebyggande rådet
+- Ny broschyr ska stärka företagens roll i totalförsvaret - lansstyrelsen.se
+- DN Direkt – Nato: Förhandlingarna om Grönlandsavtalet fortsätter - Dagens Nyheter
 - Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
-- Fuskande handlare portas från matprisgranskning – drabbar Willys och Ica - Sydsvenskan
+- Lokförare död efter ny tågolycka i Spanien - GP
+- Här finns billigaste matkassen - Expressen
+- Investor höjer utdelningen som väntat - DI
 - Börje Ekholms sista show närmar sig - DI
-- Vad hade Axel Oxenstierna sagt om Arbetsförmedlingen? - Företagarna
-- INSÄNDARE: Verkligheten förvrängs när skogsindustrin argumenterar - na.se
-- Har du skaffat en ny robotdammsugare? Här är 7 saker du bör göra först - TechRadar
+- Trump: Powells ”liv blir olyckligt” om han stannar - DI
 - Arc Raiders-spelare som kommer sent in i matcher tjänar mer, hävdar Embark - FZ.se
+- Casio kan vara på gång med den ultimata G-Shock-klockan i metall för träningsentusiaster - TechRadar
+- Har du skaffat en ny robotdammsugare? Här är 7 saker du bör göra först - TechRadar
 
 ## World News
 
@@ -54,8 +54,8 @@ _Updated: 2026-01-22 09:00_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -76,12 +76,12 @@ _Updated: 2026-01-22 09:00_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -100,19 +100,19 @@ _Updated: 2026-01-22 09:00_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -142,13 +142,13 @@ _Updated: 2026-01-22 09:00_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -161,4 +161,4 @@ _Updated: 2026-01-22 09:00_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
