@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 07:03_
+_Updated: 2026-01-22 07:52_
 
 ## Top Stories
 
-- Teorin: Därför håller Putin låg profil i kriserna - Expressen
-- Första officiella siffran: 3 117 döda i Iran - Omni
+- 22 januari: Nattens nyheter - SVT Nyheter
+- Körskolans kritik: Borde inte genomfört provet - SvD
+- Världens äldsta grottkonst upptäckt i Indonesien - SvD
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
 - Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
 - Singelolycka på E4 – stor påverkan på trafiken - tidningenangermanland.se
-- Lokförare död efter ny tågolycka i Spanien - gp.se
+- Ska fatta beslut – får inte alla handlingar: ”Det är inte rättssäkert” - na.se
 - 24 år sedan Fadime mördades: "Jätteviktigt att prata om" - unt.se
-- Slopat mattvång på krogen splittrar Stockholm - mitti.se
-- Nu börjar nya cybersäkerhetslagen att gälla - Energiföretagen Sverige
+- LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
 - 21 januari 16.19, Skottlossning, Malmö - Polisen.se
-- Dödligt anfall mot Zelenskyjs hemstad - gp.se
 - Trumps fredsråd – detta vet vi - Dagens Nyheter
-- Syriens armé går in i jättelägret al-Hol - Expressen
-- Anne, 73: Trump är den bästa president vi haft - Hufvudstadsbladet
-- Volkswagen planerar att minska chefspositioner och spara 1 miljard EUR till 2030 - Investing.com Sverige
+- Dödligt anfall mot Zelenskyjs hemstad - gp.se
+- Lokförare död efter ny tågolycka i Spanien - gp.se
 - Vad hade Axel Oxenstierna sagt om Arbetsförmedlingen? - Företagarna
 - Försiktig öppning på Wall Street - DI
-- TV: Storlyftet: Nya värmeverket tar sin plats – ”Blir mindre sårbara” - blt.se
+- Regionen satsar på AI – vill förenkla journalföringen - ljusnan.se
+- Ny rapport: Sveriges tillverkningsberedskap är begränsad - Svensk Farmaci
 - Sony lanserar nya trådlösa öronsnäckor med 9 timmars batteritid och ovanlig design - notebookcheck.se
 - Uppgifter: Apple utvecklar AI-pin – kan släppas 2027 - Omni
+- Kommande telefon kör Android, Linux och Windows 11 - Swedroid
 
 ## World News
 
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -145,20 +145,20 @@ _Updated: 2026-01-22 07:03_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
