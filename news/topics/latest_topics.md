@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 23:47_
+_Updated: 2026-01-23 00:49_
 
 ## Top Stories
 
-- Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet - Regeringen.se
-- DN Direkt – Ministern om Grönland: Redo att höja tonläget igen - Dagens Nyheter
-- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
-- DN Direkt – Grönlands regeringschef: Vår suveränitet är en röd linje - Dagens Nyheter
-- Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
-- Trumps ”fredsråd” – detta vet vi - vk.se
-- Person hittad död i västra Stockholm – en gripen - SVT Nyheter
-- Så ska nyblivna mammor få bättre vård - Dagens Nyheter
-- Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
-- Färre brott anmäldes förra året - Tidningen Näringslivet
+- DN Direkt – Kristersson: Förtroendet för USA skadat - Dagens Nyheter
 - I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
+- DN Direkt – Ministern om Grönland: Redo att höja tonläget igen - Dagens Nyheter
+- Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet - Regeringen.se
+- Över 200 evakuerade från lift i Trysil - Expressen
+- Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
+- Person hittad död i västra Stockholm – en gripen - SVT Nyheter
+- Kvinna hittad död – polisen utreder mord - vk.se
+- Äldre kvinna död efter villabrand i Karlstad - nwt.se
+- Så ska nyblivna mammor få bättre vård - Dagens Nyheter
+- Flera skadade i knivattack i Belgien - SVT Nyheter
 - Ny tågolycka i Spanien – fjärde på en vecka - gp.se
 - DN Direkt – Venezuela går vidare med planer på oljereformer - Dagens Nyheter
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Här hittar du billigaste maten - Expressen
 - Tyskland: ”Hämta hem vårt guld från USA” - SvD
-- Så ska kommunen få Zepro-personalen att bo kvar - op.se
+- Här hittar du billigaste maten - Expressen
 - Larmet från sjukhuset – AI förstår inte skånska - Expressen
+- Så ska kommunen få Zepro-personalen att bo kvar - op.se
+- Noterius kärlekslycka – med 12 år äldre partnern - Aftonbladet
 - Klart: Isoleringen hävd – provsvar negativa - vk.se
-- AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
 
 ## World News
 
