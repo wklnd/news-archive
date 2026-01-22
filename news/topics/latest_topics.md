@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 09:48_
+_Updated: 2026-01-22 10:58_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Trump: Putin har tackat ja till fredsråd - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Möte väntas mellan Trump och Zelenskyj i dag - Dagens Nyheter
+- Uppgifter: USA vill störta Kubas regering - SVT Nyheter
+- Torbjörn Nilsson: Tvingas Jimmie Åkesson tänka om? | Torbjörn Nilsson - SvD
+- Ali från Rosengård skapar kläderna som gör succé hos världseliten - Sydsvenskan
+- Trumps plan: Här är punkterna i fredsstyrelsen - Expressen
 - ”Han berättade att han hade så sjuka tankar” - Aftonbladet
-- Allvarlig olycka på E6 – tre till sjukhus - Expressen
-- Mamma: ”Säkerhetsstyrkorna dödade mitt barn” - Dagens Nyheter
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
-- Nya regler för ID06 – detta gäller - Byggnadsarbetaren
 - Ska fatta beslut – får inte alla handlingar: ”Det är inte rättssäkert” - na.se
-- Anmälda brott 2025 - Brå - Brottsförebyggande rådet
-- Ny broschyr ska stärka företagens roll i totalförsvaret - lansstyrelsen.se
-- DN Direkt – Nato: Förhandlingarna om Grönlandsavtalet fortsätter - Dagens Nyheter
-- Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
-- Lokförare död efter ny tågolycka i Spanien - GP
-- Här finns billigaste matkassen - Expressen
-- Investor höjer utdelningen som väntat - DI
+- Nya regler för ID06 – detta gäller - Byggnadsarbetaren
+- LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
+- 24 år sedan Fadime mördades: "Jätteviktigt att prata om" - unt.se
+- Källor: Trump kan få delar av Grönland - Dagens Nyheter
+- Världens äldsta grottkonst upptäckt i Indonesien - Sydsvenskan
+- Flera befaras döda i jordskred på Nya Zeeland - vk.se
+- Spanska tågförare kallar till strejk efter olyckan - Aftonbladet
+- Här hittar du billigaste maten - Expressen
 - Börje Ekholms sista show närmar sig - DI
-- Trump: Powells ”liv blir olyckligt” om han stannar - DI
-- Arc Raiders-spelare som kommer sent in i matcher tjänar mer, hävdar Embark - FZ.se
+- Goldman Sachs ser tvåsiffrig uppsida i guldet - DI
+- Höjd riktkurs för verkstadsjätten – här är dagens rekar - DI
 - Casio kan vara på gång med den ultimata G-Shock-klockan i metall för träningsentusiaster - TechRadar
 - Har du skaffat en ny robotdammsugare? Här är 7 saker du bör göra först - TechRadar
 
@@ -29,24 +29,24 @@ _Updated: 2026-01-22 09:48_
 
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 
 ## Technology
 
@@ -62,12 +62,12 @@ _Updated: 2026-01-22 09:48_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
@@ -100,7 +100,6 @@ _Updated: 2026-01-22 09:48_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
@@ -116,29 +115,30 @@ _Updated: 2026-01-22 09:48_
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
