@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-22 21:51_
+_Updated: 2026-01-22 22:56_
 
-- ICE detains four children from Minnesota school district, including 5-year-old - The Washington Post
-- US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia - BBC
-- Cuban Detainee in El Paso ICE Facility Died by Homicide, Autopsy Shows - The New York Times
-- Newsom shows off knee pads for CEOs 'selling out' to the Trump administration - CNBC
-- Chicago weather forecast: Chicago Public Schools cancels classes ahead of Extreme Cold Warning Friday for Cook County, IL - abc7chicago.com
+- Potentially historic winter storm to slam much of the US with destructive ice and heavy snow - CNN
+- Zelensky at Davos: Trump has exposed Europe's weakness - Axios
 - Barron Trump may have saved woman’s life by calling British police during an alleged assault, court hears - CNN
+- Chicago weather forecast: Chicago Public Schools cancels classes ahead of Extreme Cold Warning Friday for Cook County, IL - abc7chicago.com
+- France seizes suspected Russian 'shadow fleet' tanker in the Mediterranean - BBC
+- Gov. Kemp Declares State of Emergency, Activates State Operations Center Ahead of Winter Storm - gov.georgia.gov
+- ICE detains four children from Minnesota school district, including 5-year-old - The Washington Post
+- Democratic U.S. Sen. Amy Klobuchar makes move toward Minnesota governor run after Walz exit - mprnews.org
 - ‘High Alert, All the Time’: Minneapolis Sees ICE Around Every Corner - The New York Times
-- Greenland says red lines must be respected as Trump says US will have ‘total’ access to island - The Guardian
-- Winter storm watch expands with concern for significant freezing rain, ice - wsbtv.com
-- Trump claims Nato troops ‘stayed a little off the frontlines’ in Afghanistan - The Guardian
-- Macron’s sunglasses dazzle Davos and give Europe a meme for the moment - politico.eu
+- Georgia and Other Southern States Prepare for Storm’s Snow and Bitter Cold - The New York Times
 - Mexican authorities arrest alleged crime figure ‘El Botox’ in killing of lime growers’ leader - AP News
-- Trump and ‘Taco!’ Roil Davos - The New York Times
-- World Leader Reveals Bonkers Details of Dealing With Trump After Nobel Tantrum - The Daily Beast
-- Top Banker Snubbed From Donald Trump World Economic Forum WEF Reception in Davos in Widening Rift - The Daily Beast
-- Chinese AI models are popular. But can they make money? - The Economist
-- Here's How Much Traders Expect Intel Stock to Move After Earnings Today - Investopedia
-- 2026 Subaru Outback Wilderness Turns The Subaru-Ness Up To 11 - Jalopnik
-- Forza Horizon 6: More Details on The Country, The Culture and The Cars of Playground Games’ Japan - Xbox Wire
+- Lutnick: Carney’s China deal opens ‘road map’ to change USMCA - Politico
+- EU leaders worry about handling 'bully' Trump despite Greenland U-turn - Reuters
+- 3 journalists killed in Israeli airstrike in Gaza, including cameraman who worked with CBS News - CBS News
+- Dow jumps 250 points, claws back nearly all Greenland turmoil losses in two-day rally: Live updates - CNBC
+- Taco Bell Is Bringing Back One of Its Most Popular Menu Items of All Time - Allrecipes
+- FTX Exec Caroline Ellison Is Now a Free Woman - Business Insider
+- Trump credit card plan would be a 'disaster', JP Morgan boss warns - BBC
+- An AI pin is beneath Apple - Engadget
 - How Playing Pokémon Became the Ultimate Test of AI’s Intelligence - The Wall Street Journal
