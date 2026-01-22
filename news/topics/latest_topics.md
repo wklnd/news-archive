@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 16:01_
+_Updated: 2026-01-22 16:56_
 
 ## Top Stories
 
 - Trumps fredsråd formaliserat – ”Kan göra i princip vad som helst” - SVT Nyheter
-- Ny tågkrock i Spanien – flera skadade - SVT Nyheter
-- Sprayaktion mot finansdepartementet – kritik mot utredning om torv - Syre
-- Larm om okänd försändelse i Lugnvik - SVT Nyheter
+- Polisinsats vid Regeringskansliet – aktivister på tak - Expressen
+- Trump: Vi får ”total tillgång” på Grönland - gp.se
+- 22 januari 07.29, Trafikolycka, Örebro - polisen.se
+- Man från Mönsterås begärs häktad för grova barnvåldtäkter: ”Finns målsäganden utomlands” - SVT Nyheter
 - M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
-- Kammarrätten stoppar licensjakt på varg - Dagens Nyheter
-- Skolvalet till förskoleklass görs om - kommun.varnamo.se
-- 22 januari 07.41, Sammanfattning natt, Jönköpings län - Polisen.se
-- Hunden som bet ihjäl Astrid omhändertagen av länsstyrelsen - SVT Nyheter
-- ”Han berättade att han hade så sjuka tankar” - Aftonbladet
-- USA presenterar ”master plan” för futuristiskt Gaza - Omni
-- Svenskar gripna av spansk polis - Expressen
+- Ny KU-anmälan mot Kristersson i Landerholmaffären - Dagens Nyheter
+- Besök våra dagverksamheter för personer med demenssjukdom - gotland.se
+- Slopat mattvång på krogen splittrar Stockholm - mitti.se
+- 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
+- Trump och Zelenskyj träffas i Davos - Expressen
+- Svensken Calle Andersson om kaoset i Davos efter Trump - Expressen
 - Folkets revolution i Iran tillhör inte en sekt i exil - Aftonbladet
-- Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
-- Tesla storsänker priserna för privatleasing av Tesla Model Y - Allt om Elbil
-- Här hittar du billigaste maten - Expressen
+- DN Direkt – Rutte: Grönland är inte det viktigaste - Dagens Nyheter
 - Joel Eklund om Kjell-emissionen: ”Den behövdes redan då” - Affärsvärlden
-- Så räddar du pensionen, undviker mobilfällan – och maxar både hälsa och Italienresan - e55.se
+- Här hittar du billigaste maten - Expressen
+- Spelutvecklarens vd tankar aktier efter raset - DI
+- Brotten blev färre - 8 Sidor
 - Vad har jag för alternativ när min mobil blockerats av operatören? - mobil.se
-- Navi är en vattenskoter som svävar på vattnet. Med hydrofoilteknik. - feber.se
+- Swann börjar sälja sina övervakningsprodukter i Sverige - Teknikveckan
 
 ## World News
 
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -61,13 +61,13 @@ _Updated: 2026-01-22 16:01_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
@@ -76,15 +76,15 @@ _Updated: 2026-01-22 16:01_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -106,13 +106,13 @@ _Updated: 2026-01-22 16:01_
 - Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -136,9 +136,9 @@ _Updated: 2026-01-22 16:01_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
 
 ## Jordbruk
 
@@ -153,6 +153,7 @@ _Updated: 2026-01-22 16:01_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-01-22 16:01_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
