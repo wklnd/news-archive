@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-22 13:53_
+_Updated: 2026-01-22 15:32_
 
-- What is Trump’s ‘Board of Peace’ and who is joining? Here’s what to know - CNN
-- Gavin Newsom says he was blocked from entering USA House at Davos - The Washington Post
-- Jack Smith is ‘not afraid’ of Donald Trump, his legal team says ahead of Thursday testimony - CNN
-- Exclusive | The U.S. Is Actively Seeking Regime Change in Cuba by the End of the Year - WSJ - The Wall Street Journal
 - China Wins as Trump Cedes Leadership of the Global Economy - The New York Times
-- Trump and Zelenskyy to meet Thursday at Davos - Politico
+- NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos - CNN
+- Gavin Newsom says he was blocked from entering USA House at Davos - The Washington Post
+- Exclusive | The U.S. Is Actively Seeking Regime Change in Cuba by the End of the Year - WSJ - The Wall Street Journal
+- Deportations up, job growth down: Trump’s second term so far – in charts - The Guardian
+- It Will Feel Like 35 Below Zero In Chicago During Weekend Cold Snap - blockclubchicago.org
+- Jack Smith to Testify Before Congress on Trump Investigations - The New York Times
+- ICE detains four children from Minnesota school district, including 5-year-old - The Washington Post
+- Snowstorm set to hit the Philadelphia region this weekend | Live Updates - 6abc.com
 - Austin Thompson Pleads Guilty in North Carolina Shooting That Left 5 Dead - The New York Times
-- US set to quit World Health Organization - Reuters
-- House Democrats come out en masse against DHS funding bill - Politico
-- Former CIA chief: Actions of the Iranian regime not sustainable, Iran in very difficult situatiion - jpost.com
-- The Carney Doctrine - Politico
+- Carney’s global test - Politico
+- World Leader Reveals Bonkers Details of Dealing With Trump After Nobel Tantrum - The Daily Beast
 - For Europe’s far right, Trump has become a liability - politico.eu
-- Elon Musk is a surprise addition to the Davos schedule - Business Insider
-- Gold Falls After Trump Backs Away From Tariffs Over Greenland - Bloomberg.com
-- OpenAI on Track to Unveil First AI Device This Year, Could Rival AirPods - MacRumors
-- Stock futures rise after major averages rebound on easing tariff fears: Live updates - CNBC
+- Trump credit card plan would be a 'disaster', JP Morgan boss warns - BBC
+- Netflix co-CEOs go on defensive over $83 billion Warner Bros deal - Reuters
+- When the ultra rich hire family for their private investment firms, what to pay them can be tricky - CNBC
+- Procter & Gamble earnings top estimates, but shrinking demand weighs on sales - CNBC
+- 12 Samsung Galaxy phones now secure with January 2026 update - Sammy Fans
+- Adobe Acrobat now lets you edit files using prompts, generate podcast summaries - TechCrunch
 - NeurIPS papers contained 100+ AI-hallucinated citations, new report claims - Fortune
-- Clair Obscur: Expedition 33 leads resist calls to "scale up," insist they "love making games more than managing" - GamesIndustry.biz
-- 2XKO Competitive Series Calendar - 2XKO
-- Free update for Mario Kart World lets you race as a team in Knockout Tour - Nintendo
