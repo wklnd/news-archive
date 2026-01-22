@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 19:54_
+_Updated: 2026-01-22 20:59_
 
 ## Top Stories
 
-- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
-- Ny tågkrock i Spanien – flera skadade - SVT Nyheter
-- DN Direkt – Grönlands regeringschef: Vår suveränitet är en röd linje - Dagens Nyheter
+- Ny tågolycka i Spanien – fjärde på en vecka - gp.se
+- Begärs häktad för onlinevåldtäkter – arbetar på en skola - Dagens Nyheter
+- Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
 - Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet - Regeringen.se
+- Trump: Vi får ”total tillgång” på Grönland - gp.se
 - Kammarrätten stoppar licensjakt på varg - Dagens Nyheter
-- M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
 - Person hittad död i västra Stockholm – en gripen - SVT Nyheter
-- Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
-- LEDARE: Fler än Tareq Taylor måste bry sig om bedrägerierna. - sydsvenskan.se
-- Skolval till förskoleklass öppen i Degerfors - orebronyheter.com
-- USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - sydsvenskan.se
-- Kaoset i alpstaden: ”Vi kommer inte in” - Expressen
+- Så ska nyblivna mammor få bättre vård - Dagens Nyheter
+- JUST NU: Villabrand släckt i Karlstad – en person har tagits ut - nwt.se
+- Färre brott anmäldes förra året - vk.se
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Strömmer KU-anmäls för agerande kring Nyberg - Aftonbladet
+- Kaoset i alpstaden: ”Vi kommer inte in” - Expressen
 - Här hittar du billigaste maten - Expressen
-- Investors vd: ”Hatten av för våra portföljbolag” - SvD
+- Lundin Minings produktion under 2025 nådde guidningen, lämnar prognoser för 2026-2028 (uppdatering) - Placera.se
 - Det lilla landet producerar 1 miljon bilar per år - Dagens PS
-- Spelutvecklarens vd tankar aktier efter raset - DI
+- DN Direkt – Alecta har sålt amerikanska statspapper: Oförutsägbar politik - Dagens Nyheter
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
+- Klart: Isoleringen hävd – provsvar negativa - vk.se
 - Vad har jag för alternativ när min mobil blockerats av operatören? - mobil.se
+- Adobe utvecklar privat AI för Hollywood. Som tränas på filmstudions eget material. - feber.se
 
 ## World News
 
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 
 ## Technology
@@ -123,7 +123,6 @@ _Updated: 2026-01-22 19:54_
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -139,6 +138,7 @@ _Updated: 2026-01-22 19:54_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2026-01-22 19:54_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
