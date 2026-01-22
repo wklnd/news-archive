@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 13:45_
+_Updated: 2026-01-22 15:27_
 
 ## Top Stories
 
 - Wallenberg om Trumps vändning: Rätt av Europa att sätta emot USA - Dagens Nyheter
-- Källor: Trump kan få delar av Grönland - Dagens Nyheter
-- Larm om okänd försändelse i Lugnvik - SVT Nyheter
-- Polisinsats vid regeringskansliet – person på taket - SVT Nyheter
-- Trump och Zelenskyj ska träffas i Davos - Omni
-- M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
-- Man anhållen för att ha placerat ut bomb - vk.se
-- LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
-- 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
-- KRÖNIKA: Ystadsgatan har blivit enkelriktad – och jag känner apokalypsen närma sig - sydsvenskan.se
-- UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Spanska tågförare kallar till strejk efter olyckan - Aftonbladet
-- Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
-- Se bilderna på nya Volvo EX60: "Viktigast sedan XC90" - gp.se
-- Här hittar du billigaste maten - Expressen
-- Varning till pensionsspararna: Du kan förlora hundratusentals kronor - e55.se
+- Trumps fredsråd formaliserat – ”Kan göra i princip vad som helst” - SVT Nyheter
 - Polisinsats vid Regeringskansliet – aktivister på tak - Expressen
+- Flera svenska gängmedlemmar gripna i Spanien - vk.se
+- DN Direkt – Källa: Avtal om Grönland från 1951 ska omförhandlas - Dagens Nyheter
+- M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
+- Larm om okänd försändelse i Lugnvik - SVT Nyheter
+- Corren kan bli årets redaktion 2026: "Får större genomslag" - corren.se
+- 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
+- Hunden som bet ihjäl Astrid omhändertagen av länsstyrelsen - SVT Nyheter
+- Spanska tågförare kallar till strejk efter olyckan - Aftonbladet
+- Folkets revolution i Iran tillhör inte en sekt i exil - Aftonbladet
+- Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
+- Ny avgift införs i svenskparadiset - Expressen
+- Tesla storsänker priserna för privatleasing av Tesla Model Y - Allt om Elbil
+- Hedgefonden Alcur indragen i stora insiderhärvan - DI
 - Vad har jag för alternativ när min mobil blockerats av operatören? - mobil.se
-- Apples nya tjänst fick mig att räkna abonnemang – det borde du också göra - Macworld.se
+- Anthem lever vidare på privata servrar. Entusiaster räddar spelet efter EA:s nedstängning. - feber.se
+- Dethleffs har gjort en ihopfällbar husvagn. C.Fold minskar bränsleförbrukningen. - feber.se
+- Jätte i universum har sovit i 100 miljoner år – nu har den plötsligt börjat röra på sig - Illustrerad Vetenskap
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-01-22 13:45_
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
-- Avlyssningsskandalen växer - Journalisten
 
 ## Technology
 
@@ -60,6 +60,7 @@ _Updated: 2026-01-22 13:45_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -67,7 +68,6 @@ _Updated: 2026-01-22 13:45_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
@@ -76,12 +76,12 @@ _Updated: 2026-01-22 13:45_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -120,24 +120,24 @@ _Updated: 2026-01-22 13:45_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
