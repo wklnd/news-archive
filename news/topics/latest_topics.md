@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 06:34_
+_Updated: 2026-01-22 07:03_
 
 ## Top Stories
 
@@ -8,20 +8,20 @@ _Updated: 2026-01-22 06:34_
 - Första officiella siffran: 3 117 döda i Iran - Omni
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
 - Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
-- Försvunnen kvinna i Årjäng hittad avliden - nwt.se
+- Singelolycka på E4 – stor påverkan på trafiken - tidningenangermanland.se
 - Lokförare död efter ny tågolycka i Spanien - gp.se
 - 24 år sedan Fadime mördades: "Jätteviktigt att prata om" - unt.se
 - Slopat mattvång på krogen splittrar Stockholm - mitti.se
-- Olycka med husvagn på E4 norr om Timrå – stopp söderut - SVT Nyheter
-- 21 januari 07.17, Sammanfattning natt, Jämtlands län - Polisen.se
-- Experten: Ryssland gnuggar händerna – ”Nato i djup kris” - DI
+- Nu börjar nya cybersäkerhetslagen att gälla - Energiföretagen Sverige
+- 21 januari 16.19, Skottlossning, Malmö - Polisen.se
+- Dödligt anfall mot Zelenskyjs hemstad - gp.se
 - Trumps fredsråd – detta vet vi - Dagens Nyheter
 - Syriens armé går in i jättelägret al-Hol - Expressen
 - Anne, 73: Trump är den bästa president vi haft - Hufvudstadsbladet
 - Volkswagen planerar att minska chefspositioner och spara 1 miljard EUR till 2030 - Investing.com Sverige
 - Vad hade Axel Oxenstierna sagt om Arbetsförmedlingen? - Företagarna
 - Försiktig öppning på Wall Street - DI
-- Ny rapport: Sveriges tillverkningsberedskap är begränsad - Svensk Farmaci
+- TV: Storlyftet: Nya värmeverket tar sin plats – ”Blir mindre sårbara” - blt.se
 - Sony lanserar nya trådlösa öronsnäckor med 9 timmars batteritid och ovanlig design - notebookcheck.se
 - Uppgifter: Apple utvecklar AI-pin – kan släppas 2027 - Omni
 
@@ -31,22 +31,22 @@ _Updated: 2026-01-22 06:34_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
+- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Large local effect but small global climate impact of Nord Stream - su.se
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- UnionPay International Brings Borderless Payment Experience to Global Cardholders (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -54,8 +54,8 @@ _Updated: 2026-01-22 06:34_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -76,12 +76,12 @@ _Updated: 2026-01-22 06:34_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -122,7 +122,6 @@ _Updated: 2026-01-22 06:34_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -137,6 +136,7 @@ _Updated: 2026-01-22 06:34_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
