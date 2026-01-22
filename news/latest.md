@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-22 15:32_
+_Updated: 2026-01-22 16:05_
 
-- China Wins as Trump Cedes Leadership of the Global Economy - The New York Times
-- NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos - CNN
-- Gavin Newsom says he was blocked from entering USA House at Davos - The Washington Post
-- Exclusive | The U.S. Is Actively Seeking Regime Change in Cuba by the End of the Year - WSJ - The Wall Street Journal
-- Deportations up, job growth down: Trump’s second term so far – in charts - The Guardian
-- It Will Feel Like 35 Below Zero In Chicago During Weekend Cold Snap - blockclubchicago.org
 - Jack Smith to Testify Before Congress on Trump Investigations - The New York Times
-- ICE detains four children from Minnesota school district, including 5-year-old - The Washington Post
-- Snowstorm set to hit the Philadelphia region this weekend | Live Updates - 6abc.com
-- Austin Thompson Pleads Guilty in North Carolina Shooting That Left 5 Dead - The New York Times
+- Trump meets Zelensky as US envoy says ending Russia war down to one issue - BBC
+- NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos - CNN
+- Three Dead After Shooting in Rural Australian Town - The New York Times
+- Deportations up, job growth down: Trump’s second term so far – in charts - The Guardian
+- Severe Winter Storm Watch in the Piedmont Triad this weekend: Here’s what we know - myfox8.com
 - Carney’s global test - Politico
-- World Leader Reveals Bonkers Details of Dealing With Trump After Nobel Tantrum - The Daily Beast
-- For Europe’s far right, Trump has become a liability - politico.eu
-- Trump credit card plan would be a 'disaster', JP Morgan boss warns - BBC
-- Netflix co-CEOs go on defensive over $83 billion Warner Bros deal - Reuters
+- Dow futures rise 200 points as stocks rebound for a second day after Trump calls off Greenland-related tariffs: Live updates - CNBC
 - When the ultra rich hire family for their private investment firms, what to pay them can be tricky - CNBC
+- Paramount Skydance to extend Warner Bros. tender offer - report (WBD:NASDAQ) - Seeking Alpha
 - Procter & Gamble earnings top estimates, but shrinking demand weighs on sales - CNBC
+- Samsung leaks Galaxy S26 Ultra 'Privacy Display' while showing off new Good Lock features - 9to5Google
+- Intel set to launch Arc Pro B70 with BMG-G31 GPU - VideoCardz.com
 - 12 Samsung Galaxy phones now secure with January 2026 update - Sammy Fans
-- Adobe Acrobat now lets you edit files using prompts, generate podcast summaries - TechCrunch
-- NeurIPS papers contained 100+ AI-hallucinated citations, new report claims - Fortune
+- It's 2026, and a new Windows phone is coming soon for $549 - Windows Central
+- Jason Mantzoukas Makes It Weird - The New York Times
+- Sundance prepares for its final Park City festival before moving to Boulder, Colo. - NPR
+- Scarlett Johansson, Cate Blanchett and Joseph Gordon-Levitt Among 700 Industry Backers of New Anti-AI Campaign: ‘Stealing Our Work Is Not Innovation’ - Variety
+- The Beauty Star Reacts To The Premiere's Ugliest Twist — Have We Already Seen The Last Of [Spoiler]? - TVLine
+- Brewers Trade Freddy Peralta To Mets - MLB Trade Rumors
