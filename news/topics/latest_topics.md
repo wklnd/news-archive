@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 07:52_
+_Updated: 2026-01-22 09:00_
 
 ## Top Stories
 
-- 22 januari: Nattens nyheter - SVT Nyheter
-- Körskolans kritik: Borde inte genomfört provet - SvD
-- Världens äldsta grottkonst upptäckt i Indonesien - SvD
+- Efter dödsolyckan: ”Vad var det som hände?” - SvD
+- ”Han berättade att han hade så sjuka tankar” - Aftonbladet
+- Mamma: ”Säkerhetsstyrkorna dödade mitt barn” - Dagens Nyheter
+- Allvarlig olycka på E6 – tre till sjukhus - Expressen
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
-- Singelolycka på E4 – stor påverkan på trafiken - tidningenangermanland.se
+- Ishockey: Oliver Ekman-Larsson skadad i natt - SVT Nyheter
 - Ska fatta beslut – får inte alla handlingar: ”Det är inte rättssäkert” - na.se
-- 24 år sedan Fadime mördades: "Jätteviktigt att prata om" - unt.se
-- LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
-- 21 januari 16.19, Skottlossning, Malmö - Polisen.se
+- 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
+- 21 januari 07.17, Sammanfattning natt, Jämtlands län - polisen.se
+- Olycka med husvagn på E4 norr om Timrå – stopp söderut - SVT Nyheter
 - Trumps fredsråd – detta vet vi - Dagens Nyheter
-- Dödligt anfall mot Zelenskyjs hemstad - gp.se
-- Lokförare död efter ny tågolycka i Spanien - gp.se
+- Experten: Ryssland gnuggar händerna – ”Nato i djup kris” - DI
+- Lokförare död efter ny tågolycka i Spanien - GP
+- Uppdraget avslutat - fortsatt engagemang i Arktis - Försvarsmakten
+- Fuskande handlare portas från matprisgranskning – drabbar Willys och Ica - Sydsvenskan
+- Börje Ekholms sista show närmar sig - DI
 - Vad hade Axel Oxenstierna sagt om Arbetsförmedlingen? - Företagarna
-- Försiktig öppning på Wall Street - DI
-- Regionen satsar på AI – vill förenkla journalföringen - ljusnan.se
-- Ny rapport: Sveriges tillverkningsberedskap är begränsad - Svensk Farmaci
-- Sony lanserar nya trådlösa öronsnäckor med 9 timmars batteritid och ovanlig design - notebookcheck.se
-- Uppgifter: Apple utvecklar AI-pin – kan släppas 2027 - Omni
-- Kommande telefon kör Android, Linux och Windows 11 - Swedroid
+- INSÄNDARE: Verkligheten förvrängs när skogsindustrin argumenterar - na.se
+- Har du skaffat en ny robotdammsugare? Här är 7 saker du bör göra först - TechRadar
+- Arc Raiders-spelare som kommer sent in i matcher tjänar mer, hävdar Embark - FZ.se
 
 ## World News
 
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
@@ -54,8 +54,8 @@ _Updated: 2026-01-22 07:52_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -76,12 +76,12 @@ _Updated: 2026-01-22 07:52_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -122,6 +122,7 @@ _Updated: 2026-01-22 07:52_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -136,19 +137,18 @@ _Updated: 2026-01-22 07:52_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -161,4 +161,4 @@ _Updated: 2026-01-22 07:52_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
