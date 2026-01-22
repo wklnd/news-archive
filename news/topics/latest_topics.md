@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 12:54_
+_Updated: 2026-01-22 13:45_
 
 ## Top Stories
 
-- Det här vet vi och de här frågorna återstår om Grönland - Dagens Nyheter
-- Polisinsats vid regeringskansliet – person på taket - SVT Nyheter
-- Pressbriefing med statsministern, utrikesministern och finansministern om säkerhetsläget - Regeringen.se
+- Wallenberg om Trumps vändning: Rätt av Europa att sätta emot USA - Dagens Nyheter
+- Källor: Trump kan få delar av Grönland - Dagens Nyheter
 - Larm om okänd försändelse i Lugnvik - SVT Nyheter
-- Rådet för unga: Mindre än en halv energidryck om dagen - Omni
+- Polisinsats vid regeringskansliet – person på taket - SVT Nyheter
+- Trump och Zelenskyj ska träffas i Davos - Omni
 - M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
-- Färre brott anmäldes förra året - vk.se
+- Man anhållen för att ha placerat ut bomb - vk.se
 - LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
-- Nya regler för ID06 – detta gäller - Byggnadsarbetaren
 - 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
-- Frederiksen: ”Förhandlar inte om vår suveränitet” - gp.se
-- Världens äldsta grottkonst upptäckt i Indonesien - sydsvenskan.se
+- KRÖNIKA: Ystadsgatan har blivit enkelriktad – och jag känner apokalypsen närma sig - sydsvenskan.se
 - UPPDATERAS: Cholodomor - en miljon elkunder utan ström i Kyjiv - fortsatt massiva ryska förluster - cornucopia.se
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Volvo Cars nya EX60 är större – och kan köra själv på motorväg - gp.se
+- Spanska tågförare kallar till strejk efter olyckan - Aftonbladet
+- Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
+- Se bilderna på nya Volvo EX60: "Viktigast sedan XC90" - gp.se
 - Här hittar du billigaste maten - Expressen
-- Hedgefonden Alcur indragen i stora insiderhärvan - DI
 - Varning till pensionsspararna: Du kan förlora hundratusentals kronor - e55.se
-- Arc Raiders-spelare som kommer sent in i matcher tjänar mer, hävdar Embark - FZ.se
-- Häng med andra Geralts i The Witcher 3. Chilla på värdshus eller slåss mot drakar i grupp. - feber.se
+- Polisinsats vid Regeringskansliet – aktivister på tak - Expressen
+- Vad har jag för alternativ när min mobil blockerats av operatören? - mobil.se
+- Apples nya tjänst fick mig att räkna abonnemang – det borde du också göra - Macworld.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-01-22 12:54_
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
+- Avlyssningsskandalen växer - Journalisten
 
 ## Technology
 
@@ -103,16 +103,16 @@ _Updated: 2026-01-22 12:54_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -131,7 +131,7 @@ _Updated: 2026-01-22 12:54_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - mau.se
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
