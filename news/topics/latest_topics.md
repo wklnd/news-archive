@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 19:00_
+_Updated: 2026-01-22 19:54_
 
 ## Top Stories
 
-- Trumps fredsråd formaliserat – ”Kan göra i princip vad som helst” - SVT Nyheter
-- Chatta med Christoffer Wendick och Fouad Youcefi om Grönlandskrisen - SVT Nyheter
-- Begärs häktad för onlinevåldtäkter – arbetar på en skola - Dagens Nyheter
+- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
+- Ny tågkrock i Spanien – flera skadade - SVT Nyheter
+- DN Direkt – Grönlands regeringschef: Vår suveränitet är en röd linje - Dagens Nyheter
 - Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet - Regeringen.se
 - Kammarrätten stoppar licensjakt på varg - Dagens Nyheter
-- Så mycket energidryck är okej för unga - SvD
-- DN Direkt – Man död i trafikolycka – påkörd av lastbil - Dagens Nyheter
+- M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
+- Person hittad död i västra Stockholm – en gripen - SVT Nyheter
 - Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
-- Färre brott anmäldes förra året - vk.se
-- Besök våra dagverksamheter för personer med demenssjukdom - gotland.se
-- USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - gp.se
+- LEDARE: Fler än Tareq Taylor måste bry sig om bedrägerierna. - sydsvenskan.se
+- Skolval till förskoleklass öppen i Degerfors - orebronyheter.com
+- USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - sydsvenskan.se
 - Kaoset i alpstaden: ”Vi kommer inte in” - Expressen
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Folkets revolution i Iran tillhör inte en sekt i exil - Aftonbladet
+- Strömmer KU-anmäls för agerande kring Nyberg - Aftonbladet
 - Här hittar du billigaste maten - Expressen
-- Joel Eklund om Kjell-emissionen: ”Den behövdes redan då” - Affärsvärlden
-- FI varnar – var mångdubbelt fler falska aktörer under 2025 - Placera.se
-- Plockade Sebastians boss – men är besviken på Klarna - Breakit
+- Investors vd: ”Hatten av för våra portföljbolag” - SvD
+- Det lilla landet producerar 1 miljon bilar per år - Dagens PS
+- Spelutvecklarens vd tankar aktier efter raset - DI
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
 - Vad har jag för alternativ när min mobil blockerats av operatören? - mobil.se
 
@@ -30,22 +30,22 @@ _Updated: 2026-01-22 19:00_
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 
 ## Technology
@@ -60,6 +60,7 @@ _Updated: 2026-01-22 19:00_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -67,7 +68,6 @@ _Updated: 2026-01-22 19:00_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
@@ -99,7 +99,7 @@ _Updated: 2026-01-22 19:00_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -122,7 +122,6 @@ _Updated: 2026-01-22 19:00_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -132,13 +131,14 @@ _Updated: 2026-01-22 19:00_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-01-22 19:00_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
