@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-22 23:54_
+_Updated: 2026-01-23 00:54_
 
-- Detention of 5-Year-Old by Federal Agents Incenses Minneapolis - The New York Times
-- US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia - BBC
-- Gov. Kemp Declares State of Emergency, Activates State Operations Center Ahead of Winter Storm - gov.georgia.gov
-- Newsom shows off knee pads for CEOs 'selling out' to the Trump administration - CNBC
-- Major winter storm eyes up Philadelphia region; first look at snow totals | Live Updates - 6abc.com
-- Trump's rhetoric rallies Canadian support for Prime Minister Mark Carney - Reuters
-- Georgia and Other Southern States Prepare for Storm’s Snow and Bitter Cold - The New York Times
-- Sen. Amy Klobuchar files paperwork to run for Minnesota governor - minnesotareformer.com
-- Live updates: Vance to visit Minneapolis as Trump’s immigration crackdown expands to Maine - CNN
+- Winter storm updates: Heavy snow, crippling ice and frigid temperatures forecast to hit more than 2 dozen states this weekend - Yahoo
+- ICE detains four children from Minnesota school district, including 5-year-old - The Washington Post
+- Vance calls for more local cooperation for ICE surge, defends agents' tactics - mprnews.org
+- A small group of Dems looks to break from their party on ICE funding - Axios
 - After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia - The New York Times
-- After ‘good’ Trump meeting, Zelensky pushes Europe hard to do more - The Washington Post
+- Final spending bills move closer to House passage - Politico
+- Trump administration targets 14 blue states, DC with federal funding review - Politico
+- Georgia and Other Southern States Prepare for Storm’s Snow and Bitter Cold - The New York Times
+- ICE memo allows agents to enter homes without judge’s warrant, legal group says - The Washington Post
+- Trump Live Updates: Davos News, Zelensky Speech and Jack Smith Testimony - The New York Times
 - Mexican authorities arrest alleged crime figure ‘El Botox’ in killing of lime growers’ leader - AP News
-- 3 journalists killed in Israeli airstrike in Gaza, including cameraman who worked with CBS News - CBS News
-- The Davos Crowd Is Wrong About Globalization - The Free Press
-- Stock Market Today: Dow Gains, Global Stocks Rise After Trump Tariff U-Turn — Live Updates - The Wall Street Journal
-- GM to move production of China-built Buick SUV to U.S. plant - CNBC
-- Exclusive | Capital One Strikes $5.15 Billion Deal for Fintech Brex - The Wall Street Journal
+- Lutnick: Carney’s China deal opens ‘road map’ to change USMCA - Politico
+- Liz Hurley accuses Daily Mail publisher of bugging windowsill - The Guardian
 - FTX Exec Caroline Ellison Is Now a Free Woman - Business Insider
-- An AI pin is beneath Apple - Engadget
+- Under Armour says it's 'aware' of data breach claims after 72M customer records were posted online - TechCrunch
+- Taco Bell Is Bringing Back One of Its Most Popular Menu Items of All Time - Allrecipes
+- NC ticket wins $209.3 million Powerball jackpot - WRAL
+- It's 2026, and a new Windows phone is coming soon for $549 - Windows Central
+- Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
 - New Android malware uses AI to click on hidden browser ads - BleepingComputer
