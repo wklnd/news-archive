@@ -1,43 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 22:51_
+_Updated: 2026-01-22 23:47_
 
 ## Top Stories
 
-- DN Direkt – Kristersson: Förtroendet för USA skadat - Dagens Nyheter
-- Trumps fredsråd formaliserat – ”Kan göra i princip vad som helst” - SVT Nyheter
-- Kungen och riksdagen förbereder sig – så fungerar krigsplanen - Expressen
+- Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet - Regeringen.se
+- DN Direkt – Ministern om Grönland: Redo att höja tonläget igen - Dagens Nyheter
+- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
 - DN Direkt – Grönlands regeringschef: Vår suveränitet är en röd linje - Dagens Nyheter
-- Över 200 evakuerade från lift i Trysil - Expressen
 - Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
+- Trumps ”fredsråd” – detta vet vi - vk.se
+- Person hittad död i västra Stockholm – en gripen - SVT Nyheter
 - Så ska nyblivna mammor få bättre vård - Dagens Nyheter
+- Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
+- Färre brott anmäldes förra året - Tidningen Näringslivet
+- I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
 - Ny tågolycka i Spanien – fjärde på en vecka - gp.se
-- Dömda ska låsas in på obestämd tid - Expressen
+- DN Direkt – Venezuela går vidare med planer på oljereformer - Dagens Nyheter
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - Aftonbladet
-- Uppmanar att bryta med USA: ”Inte svårt” - SvD
+- Här hittar du billigaste maten - Expressen
+- Tyskland: ”Hämta hem vårt guld från USA” - SvD
 - Så ska kommunen få Zepro-personalen att bo kvar - op.se
-- Regionen satsar på AI – vill förenkla journalföringen - ljusnan.se
-- Lundin Minings produktion under 2025 nådde guidningen, lämnar prognoser för 2026-2028 - Placera.se
+- Larmet från sjukhuset – AI förstår inte skånska - Expressen
 - Klart: Isoleringen hävd – provsvar negativa - vk.se
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
-- POCO släpper nya M8‑serien - mobil.se
-- Samsung avslöjar ny skärmfunktion av misstag - mobil.se
-- Chunky sneakers? Här är utelistan för 2026 - Dagens Nyheter
 
 ## World News
 
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -47,28 +46,29 @@ _Updated: 2026-01-22 22:51_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -99,7 +99,7 @@ _Updated: 2026-01-22 22:51_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
