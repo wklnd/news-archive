@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-22 15:27_
+_Updated: 2026-01-22 16:01_
 
 ## Top Stories
 
-- Wallenberg om Trumps vändning: Rätt av Europa att sätta emot USA - Dagens Nyheter
 - Trumps fredsråd formaliserat – ”Kan göra i princip vad som helst” - SVT Nyheter
-- Polisinsats vid Regeringskansliet – aktivister på tak - Expressen
-- Flera svenska gängmedlemmar gripna i Spanien - vk.se
-- DN Direkt – Källa: Avtal om Grönland från 1951 ska omförhandlas - Dagens Nyheter
-- M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
+- Ny tågkrock i Spanien – flera skadade - SVT Nyheter
+- Sprayaktion mot finansdepartementet – kritik mot utredning om torv - Syre
 - Larm om okänd försändelse i Lugnvik - SVT Nyheter
-- Corren kan bli årets redaktion 2026: "Får större genomslag" - corren.se
-- 22 januari 07.41, Sammanfattning natt, Jönköpings län - polisen.se
+- M vill stoppa uthyrningen av Västtrafiks biljetter – politiker rasar mot beteendet - gp.se
+- Kammarrätten stoppar licensjakt på varg - Dagens Nyheter
+- Skolvalet till förskoleklass görs om - kommun.varnamo.se
+- 22 januari 07.41, Sammanfattning natt, Jönköpings län - Polisen.se
 - Hunden som bet ihjäl Astrid omhändertagen av länsstyrelsen - SVT Nyheter
-- Spanska tågförare kallar till strejk efter olyckan - Aftonbladet
+- ”Han berättade att han hade så sjuka tankar” - Aftonbladet
+- USA presenterar ”master plan” för futuristiskt Gaza - Omni
+- Svenskar gripna av spansk polis - Expressen
 - Folkets revolution i Iran tillhör inte en sekt i exil - Aftonbladet
 - Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
-- Ny avgift införs i svenskparadiset - Expressen
 - Tesla storsänker priserna för privatleasing av Tesla Model Y - Allt om Elbil
-- Hedgefonden Alcur indragen i stora insiderhärvan - DI
+- Här hittar du billigaste maten - Expressen
+- Joel Eklund om Kjell-emissionen: ”Den behövdes redan då” - Affärsvärlden
+- Så räddar du pensionen, undviker mobilfällan – och maxar både hälsa och Italienresan - e55.se
 - Vad har jag för alternativ när min mobil blockerats av operatören? - mobil.se
-- Anthem lever vidare på privata servrar. Entusiaster räddar spelet efter EA:s nedstängning. - feber.se
-- Dethleffs har gjort en ihopfällbar husvagn. C.Fold minskar bränsleförbrukningen. - feber.se
-- Jätte i universum har sovit i 100 miljoner år – nu har den plötsligt börjat röra på sig - Illustrerad Vetenskap
+- Navi är en vattenskoter som svävar på vattnet. Med hydrofoilteknik. - feber.se
 
 ## World News
 
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - From Ranchi to Davos: Jharkhand Charts Global Investment Path at WEF 2026 - Mint
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Nya planen: Trumps råd ska skapa ”stabil global fred” - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
@@ -61,13 +61,13 @@ _Updated: 2026-01-22 15:27_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
 
@@ -106,39 +106,39 @@ _Updated: 2026-01-22 15:27_
 - Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,7 +153,6 @@ _Updated: 2026-01-22 15:27_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2026-01-22 15:27_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
