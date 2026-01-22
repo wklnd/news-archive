@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-22 21:02_
+_Updated: 2026-01-22 21:51_
 
-- Zelensky at Davos: Trump has exposed Europe's weakness - Axios
-- Barron Trump may have saved woman’s life by calling British police during an alleged assault, court hears - CNN
+- ICE detains four children from Minnesota school district, including 5-year-old - The Washington Post
+- US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia - BBC
+- Cuban Detainee in El Paso ICE Facility Died by Homicide, Autopsy Shows - The New York Times
+- Newsom shows off knee pads for CEOs 'selling out' to the Trump administration - CNBC
 - Chicago weather forecast: Chicago Public Schools cancels classes ahead of Extreme Cold Warning Friday for Cook County, IL - abc7chicago.com
+- Barron Trump may have saved woman’s life by calling British police during an alleged assault, court hears - CNN
 - ‘High Alert, All the Time’: Minneapolis Sees ICE Around Every Corner - The New York Times
 - Greenland says red lines must be respected as Trump says US will have ‘total’ access to island - The Guardian
-- Live updates: Vance to visit Minneapolis as Trump’s immigration crackdown expands to Maine - CNN
-- Newsom shows off knee pads for CEOs 'selling out' to the Trump administration - CNBC
-- Lonely Trump Humiliated as Major Allies Refuse to Be Bullied - The Daily Beast
-- 3 journalists killed in Israeli airstrike in Gaza, including cameraman who worked with CBS News - CBS News
-- Kimmel Says Comedy Is Political Lately Because Politics Are Comedic - The New York Times
-- NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos - CNN
-- Dow jumps 400 points, claws back Greenland turmoil losses in two-day rally: Live updates - CNBC
-- GM to move production of China-built Buick SUV to U.S. plant - CNBC
-- Japan suspends world's largest nuclear plant hours after restart - BBC
-- Procter & Gamble earnings top estimates, but shrinking demand weighs on sales - CNBC
+- Winter storm watch expands with concern for significant freezing rain, ice - wsbtv.com
+- Trump claims Nato troops ‘stayed a little off the frontlines’ in Afghanistan - The Guardian
+- Macron’s sunglasses dazzle Davos and give Europe a meme for the moment - politico.eu
+- Mexican authorities arrest alleged crime figure ‘El Botox’ in killing of lime growers’ leader - AP News
+- Trump and ‘Taco!’ Roil Davos - The New York Times
+- World Leader Reveals Bonkers Details of Dealing With Trump After Nobel Tantrum - The Daily Beast
+- Top Banker Snubbed From Donald Trump World Economic Forum WEF Reception in Davos in Widening Rift - The Daily Beast
+- Chinese AI models are popular. But can they make money? - The Economist
+- Here's How Much Traders Expect Intel Stock to Move After Earnings Today - Investopedia
+- 2026 Subaru Outback Wilderness Turns The Subaru-Ness Up To 11 - Jalopnik
+- Forza Horizon 6: More Details on The Country, The Culture and The Cars of Playground Games’ Japan - Xbox Wire
 - How Playing Pokémon Became the Ultimate Test of AI’s Intelligence - The Wall Street Journal
-- Rare bug with Pixel Phone app ‘Take a Message’ could leak your audio to callers - 9to5Google
-- Live: Watch The Xbox Developer Direct 2026 Showcase Here - Pure Xbox
-- Claude Code is suddenly everywhere inside Microsoft - The Verge
-- Harry Styles Announces 2026 Tour Dates, Including 30 Nights in New York City - Variety
