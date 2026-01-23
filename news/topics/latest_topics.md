@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 17:49_
+_Updated: 2026-01-23 18:57_
 
 ## Top Stories
 
+- Larm om farligt föremål på gym - Aftonbladet
+- Uppgifter: Nära 15 000 dödade i Iran - gp.se
+- Direkt – Kriget i Ukraina – Zelenskyj: Territorium ska diskuteras i trepartssamtal - Dagens Nyheter
 - Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
-- Ödestimma för Ukraina – trepartsmötet i gång - vk.se
-- Utredning: Skador på rälsen vid spansk tågolycka - vk.se
-- LVU-ärende slutade i kidnappning och bilbränder: ”De placerade en tickande bomb hemma hos oss” - ETC.se
-- MP-toppens miss: Sa att han varit ute i snökaoset - SvD
-- Man häktad för grova brott mot äldre i Huskvarna - Åklagarmyndigheten
 - Regeringen: Äldre ska få välja kvinnlig eller manlig personal - unt.se
+- Jag ser Trumps tal – och vill gnugga ögonen i Klorin - gp.se
+- Tomas Ramberg: Så ändrar Trump spelplanen i det svenska valet - Dagens Nyheter
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Begränsning togs bort – men familjen hålls isär - na.se
-- Så uppmärksammas Förintelsens minnesdag - start.stockholm
-- DN Direkt – Danska Säpo: Risk för påverkanskampanj från USA - Dagens Nyheter
-- USA tar sista klivet ur WHO - gp.se
-- Skickar fler aggregat till strömlösa ukrainare - vk.se
-- Minst 5 002 personer döda efter protesterna i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Ny dykolycka i äventyrsgruva - Aftonbladet
+- Skickar fler aggregat till strömlösa ukrainare - gp.se
+- Trump efter Carneys tal: ”Återkallar inbjudan” - Hufvudstadsbladet
+- Larm: Ny dykolycka i äventyrsgruva - Expressen
+- USA tar sista klivet ur WHO - Aftonbladet
 - TF Bank: Tyska tillväxtreceptet levererar - Affärsvärlden
 - Över 149 miljoner lösenord läckta – svenskar drabbade - Aftonbladet
 - Ericsson höjer utdelningen – vinst över förväntan - sydsvenskan.se
-- JUST NU: Nytt besked om kärnkraft – ”finns inte ekonomi” - Marcus Oscarsson
 - Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
-- Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
+- Asus kommenterar döda Ryzen 7 9800X3D på deras moderkort - Nordichardware
+- The Slow Mo Guys filmar Nintendos Virtual Boy. Så fick floppen sin svartröda bild och 3D-effekter. - feber.se
+- Nyxi släpper ergonomisk kontroll till Nintendo Switch 2. Med stora knappar. - feber.se
 
 ## World News
 
@@ -31,13 +31,13 @@ _Updated: 2026-01-23 17:49_
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- WPP samlar produktion i ny global enhet - Dagens Media
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
@@ -45,7 +45,7 @@ _Updated: 2026-01-23 17:49_
 - Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
+- Avlyssningsskandalen växer - Journalisten
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -83,15 +83,15 @@ _Updated: 2026-01-23 17:49_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -120,25 +120,25 @@ _Updated: 2026-01-23 17:49_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
