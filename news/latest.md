@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 21:49_
+_Updated: 2026-01-23 22:54_
 
+- Live updates: Minnesota ‘economic blackout’ planned in protest of ICE as immigration crackdown fuels tensions - CNN
 - Trump covets mineral-rich Greenland, but what natural resources does it actually have? - BBC
-- 5 arrested in connection with shooting of Indiana judge and his wife - NBC News
+- Fighting Trump is a bad idea, Meloni privately told EU leaders - politico.eu
 - ‘Imperial’ agenda: What’s Trump’s Gaza development plan, unveiled in Davos? - Al Jazeera
-- Mamdani Announces Snow Plans, Including No Snow Day for NYC Schools - The New York Times
 - Trump administration weighs naval blockade to halt Cuban oil imports - Politico
-- Trump’s overreaction to charges of fraud is harming thousands — and that’s the goal - The Hill
-- Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign - The New York Times
+- Ukraine, Russia, US to discuss fraught issue of territorial concessions in Abu Dhabi - AP News
 - Inside USA House: The converted church that left a MAGA mark on Davos - The Washington Post
-- On Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson - The Washington Post
-- Iran protests: Eyewitness tells of people getting shot - BBC
-- Peru’s President May Be Ousted Over Secret Meetings With Chinese Businessmen - The New York Times
-- S&P 500 and Nasdaq rise led by tech, Dow struggles as Street wraps up wild week: Live updates - CNBC
+- Vietnam's leader returns to power with bold promises. Can he deliver? - BBC
+- EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay - AP News
+- Seth Meyers Says Trump’s Deals Are as Strong as a Pinkie Swear - The New York Times
+- Target is once again caught in a political firestorm. Here's what HR is telling staff. - Business Insider
+- Silver hits record high above $100/oz as gold closes in on $5,000 milestone - Reuters
 - MrBeast had billion-dollar dreams for his burger venture. Now he's trying to destroy it. - Business Insider
-- In the case of the Federal Reserve, Supreme Court appears to carve out a murky exception - AP News
-- Wall Street buying up houses is good, actually - vox.com
+- The Chevy Bolt EV never got a fighting chance as GM flips back to gas cars - Electrek
 - Google Photos’ latest feature lets you meme yourself - TechCrunch
-- Report: Apple plans to launch AI-powered wearable pin device as soon as 2027 - Ars Technica
-- Telly has only delivered 35,000 of its free televisions with always-on ads - Engadget
+- The Math on AI Agents Doesn’t Add Up - WIRED
 - Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
-- Cameron Diaz Mansion Hunting in Miami Area, Toured NBA Player's House - TMZ
+- Halo x MOPOP Supper Fan Club | Halo - Official Site (en) - Halo Waypoint
+- Indonesian Influencer Lula Lahfah Found Dead at 26 - TMZ
+- Inkle says TR-49's $7 price point was experiment to encourage "an impulse, 'jump in' mindset" - GamesIndustry.biz
