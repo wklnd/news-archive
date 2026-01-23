@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 18:57_
+_Updated: 2026-01-23 19:47_
 
 ## Top Stories
 
-- Larm om farligt föremål på gym - Aftonbladet
-- Uppgifter: Nära 15 000 dödade i Iran - gp.se
-- Direkt – Kriget i Ukraina – Zelenskyj: Territorium ska diskuteras i trepartssamtal - Dagens Nyheter
 - Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
-- Regeringen: Äldre ska få välja kvinnlig eller manlig personal - unt.se
-- Jag ser Trumps tal – och vill gnugga ögonen i Klorin - gp.se
-- Tomas Ramberg: Så ändrar Trump spelplanen i det svenska valet - Dagens Nyheter
+- Kristersson om Buschs regeringsord: ”Jätteroligt” - Omni
+- Avslöjar: Sjukvårdsdirektören kände till att sanningen om spädbarnets död doldes - Sveriges Radio
+- MP-toppens miss: Sa att han varit ute i snökaoset - SvD
+- Jag ser Trumps tal – och vill gnugga ögonen i Klorin - GP
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Ny dykolycka i äventyrsgruva - Aftonbladet
-- Skickar fler aggregat till strömlösa ukrainare - gp.se
+- DN Direkt – 42-årig man häktas – misstänks för hot mot ministrar - Dagens Nyheter
+- 20-årig man häktad för äldrerånen i Huskvarna - SVT Nyheter
+- Efter attacken: Omhändertagen hund ska testas - op.se
+- Tomas Ramberg: Så ändrar Trump spelplanen i det svenska valet - Dagens Nyheter
+- Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
+- Skickar fler aggregat till strömlösa ukrainare - GP
 - Trump efter Carneys tal: ”Återkallar inbjudan” - Hufvudstadsbladet
-- Larm: Ny dykolycka i äventyrsgruva - Expressen
-- USA tar sista klivet ur WHO - Aftonbladet
+- Utredning: Skador på rälsen vid spansk tågolycka - SvD
+- Insiders avvaktar – här är Large Cap-bolagen utan köp - Affärsvärlden
+- Regeringen: Sverige ska inte bygga tio reaktorer - SvD
+- Linc: En hälsosam investering - Affärsvärlden
 - TF Bank: Tyska tillväxtreceptet levererar - Affärsvärlden
-- Över 149 miljoner lösenord läckta – svenskar drabbade - Aftonbladet
-- Ericsson höjer utdelningen – vinst över förväntan - sydsvenskan.se
 - Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
-- Asus kommenterar döda Ryzen 7 9800X3D på deras moderkort - Nordichardware
-- The Slow Mo Guys filmar Nintendos Virtual Boy. Så fick floppen sin svartröda bild och 3D-effekter. - feber.se
-- Nyxi släpper ergonomisk kontroll till Nintendo Switch 2. Med stora knappar. - feber.se
+- Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - WPP samlar produktion i ny global enhet - Dagens Media
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Avlyssningsskandalen växer - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -75,20 +75,20 @@ _Updated: 2026-01-23 18:57_
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -117,29 +117,6 @@ _Updated: 2026-01-23 18:57_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
-## Science
-
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - uu.se
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - mau.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
@@ -148,6 +125,7 @@ _Updated: 2026-01-23 18:57_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -161,4 +139,3 @@ _Updated: 2026-01-23 18:57_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
