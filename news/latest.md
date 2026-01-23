@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 21:02_
+_Updated: 2026-01-23 21:49_
 
-- Live updates: Minnesota ‘economic blackout’ planned in protest of ICE as immigration crackdown fuels tensions - CNN
 - Trump covets mineral-rich Greenland, but what natural resources does it actually have? - BBC
 - 5 arrested in connection with shooting of Indiana judge and his wife - NBC News
-- Chicago weather today: School closings amid frigid wind chill temps, Extreme Cold Warning; winter storm this weekend to bring snow - abc7chicago.com
-- Hoyer endorses former campaign manager in race to succeed him in Congress - The Washington Post
-- U.K.'s Keir Starmer and Prince Harry condemn Trump's NATO front line remarks - NBC News
-- Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
-- Spanish track was fractured before high-speed train disaster, report finds - BBC
-- UN rights body censures Iran's 'brutal repression' of protests - Reuters
-- EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay - AP News
-- How Trump’s relations with America’s biggest banking boss hit rock bottom - The Guardian
-- One in five Americans can’t afford their heating bills this winter as people are blindsided by utility costs - MarketWatch
+- ‘Imperial’ agenda: What’s Trump’s Gaza development plan, unveiled in Davos? - Al Jazeera
+- Mamdani Announces Snow Plans, Including No Snow Day for NYC Schools - The New York Times
+- Trump administration weighs naval blockade to halt Cuban oil imports - Politico
+- Trump’s overreaction to charges of fraud is harming thousands — and that’s the goal - The Hill
+- Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign - The New York Times
+- Inside USA House: The converted church that left a MAGA mark on Davos - The Washington Post
+- On Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson - The Washington Post
+- Iran protests: Eyewitness tells of people getting shot - BBC
+- Peru’s President May Be Ousted Over Secret Meetings With Chinese Businessmen - The New York Times
+- S&P 500 and Nasdaq rise led by tech, Dow struggles as Street wraps up wild week: Live updates - CNBC
+- MrBeast had billion-dollar dreams for his burger venture. Now he's trying to destroy it. - Business Insider
 - In the case of the Federal Reserve, Supreme Court appears to carve out a murky exception - AP News
 - Wall Street buying up houses is good, actually - vox.com
 - Google Photos’ latest feature lets you meme yourself - TechCrunch
-- 149 Million Usernames and Passwords Exposed by Unsecured Database - WIRED
+- Report: Apple plans to launch AI-powered wearable pin device as soon as 2027 - Ars Technica
+- Telly has only delivered 35,000 of its free televisions with always-on ads - Engadget
 - Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
-- Casio previews the SXC1 portable standalone sampler at NAMM 2026: new demo - synth anatomy
-- Luke Thompson Finally Takes the ‘Bridgerton’ Spotlight - The New York Times
-- 5 Takeaways From the HBO Documentary ‘Mel Brooks: The 99 Year Old Man!’ - The New York Times
+- Cameron Diaz Mansion Hunting in Miami Area, Toured NBA Player's House - TMZ
