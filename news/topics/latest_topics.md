@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 16:53_
+_Updated: 2026-01-23 17:49_
 
 ## Top Stories
 
-- Larm om farligt föremål på gym - Aftonbladet
-- Løkke: Nu behövs en ”lugn process” om Grönland - gp.se
-- Direkt – Kriget i Ukraina – Zelenskyj: Territorium ska diskuteras i trepartssamtal - Dagens Nyheter
-- Man häktas för hot mot minister - SVT Nyheter
 - Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
-- MP-toppens besök i snökaoset hände aldrig - SvD
+- Ödestimma för Ukraina – trepartsmötet i gång - vk.se
+- Utredning: Skador på rälsen vid spansk tågolycka - vk.se
+- LVU-ärende slutade i kidnappning och bilbränder: ”De placerade en tickande bomb hemma hos oss” - ETC.se
+- MP-toppens miss: Sa att han varit ute i snökaoset - SvD
+- Man häktad för grova brott mot äldre i Huskvarna - Åklagarmyndigheten
 - Regeringen: Äldre ska få välja kvinnlig eller manlig personal - unt.se
-- 20-årig man häktas för äldrerånen i Huskvarna - SVT Nyheter
-- Begränsning togs bort – men familjen hålls isär - na.se
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Utredning: Skador på rälsen vid spansk tågolycka - gp.se
+- Begränsning togs bort – men familjen hålls isär - na.se
+- Så uppmärksammas Förintelsens minnesdag - start.stockholm
+- DN Direkt – Danska Säpo: Risk för påverkanskampanj från USA - Dagens Nyheter
 - USA tar sista klivet ur WHO - gp.se
-- Trump drar tillbaka rådsinbjudan till Kanada - gp.se
-- Wallenberg om Trumps vändning: Rätt av Europa att sätta emot USA - Dagens Nyheter
+- Skickar fler aggregat till strömlösa ukrainare - vk.se
+- Minst 5 002 personer döda efter protesterna i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - TF Bank: Tyska tillväxtreceptet levererar - Affärsvärlden
-- Regeringen: Sverige ska inte bygga tio reaktorer - SvD
-- Tiktok ”räddades” av Trump – tackar Kinas president Xi Jinping - Aftonbladet
-- Så fattiga är Uppsalaborna – på årets fattigaste dag - unt.se
+- Över 149 miljoner lösenord läckta – svenskar drabbade - Aftonbladet
+- Ericsson höjer utdelningen – vinst över förväntan - sydsvenskan.se
+- JUST NU: Nytt besked om kärnkraft – ”finns inte ekonomi” - Marcus Oscarsson
 - Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
-- Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
+- Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
 
 ## World News
 
@@ -34,18 +34,18 @@ _Updated: 2026-01-23 16:53_
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Umeå children in worldwide school project on AI - umu.se
+- Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -105,13 +105,13 @@ _Updated: 2026-01-23 16:53_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
