@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 15:24_
+_Updated: 2026-01-23 15:57_
 
 ## Top Stories
 
-- Larm om explosionsrisk i Rättvik – föremål hittat vid husrannsakan - SVT Nyheter
 - Uppgifter: Nära 15 000 dödade i Iran - gp.se
-- Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
-- Britt-Marie Mattsson: Ambassadernas nya nervositet i Washington: Trump - gp.se
+- Direkt – Kriget i Ukraina – Zelenskyj: Territorium ska diskuteras i trepartssamtal - Dagens Nyheter
 - LVU-ärende slutade i kidnappning och bilbränder: ”De placerade en tickande bomb hemma hos oss” - ETC.se
-- Jared Kushner visar upp bild av Gaza: Strandliv och skrapor - Aftonbladet
-- Begränsning togs bort – men familjen hålls isär - na.se
-- Bildts underrättelseförslag möter motstånd i riksdagen - Syre
+- Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
+- MP-toppens besök i snökaoset hände aldrig - SvD
+- Man häktas för hot mot minister - SVT Nyheter
+- Regeringen: Äldre ska få välja kvinnlig eller manlig personal - unt.se
+- Så uppmärksammas Förintelsens minnesdag - start.stockholm
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Landshövdingen träffar länets region- och kommunledningar - lansstyrelsen.se
-- USA tar sista klivet ur WHO - gp.se
 - Trump drar tillbaka rådsinbjudan till Kanada - gp.se
+- Ny tågolycka i Spanien – fjärde på en vecka - gp.se
 - Wallenberg om Trumps vändning: Rätt av Europa att sätta emot USA - Dagens Nyheter
 - Kastade ut man från balkong - Expressen
-- Tiktok ”räddades” av Trump – tackar Kinas president Xi Jinping - Aftonbladet
-- Regeringen: Sverige ska inte bygga tio reaktorer - SvD
+- Studielånet försenat – CSN har problem - corren.se
 - Spacex uppges ha valt fyra amerikanska storbanker för IPO - FT - Börsvärlden
+- Elon Musk i Davos: Självkörande bilar i EU om en månad - Dagens Nyheter
+- Göteborgarna om nya Volvon: ”Snygg utsida, lite besviken på insidan” - Dagens Nyheter
 - Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
 - Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
 - Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
@@ -41,8 +41,8 @@ _Updated: 2026-01-23 15:24_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
@@ -99,7 +99,7 @@ _Updated: 2026-01-23 15:24_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2026-01-23 15:24_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
