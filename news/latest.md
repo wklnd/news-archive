@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 15:29_
+_Updated: 2026-01-23 16:01_
 
-- Maps show where winter storm threatens to bring heavy snow, ice, brutal cold this weekend - CBS News
-- ‘Enough Is Enough’: Hundreds of Minnesota Businesses Take Stand Against ICE - The New York Times
 - Weather update: Friday classes canceled - news.wisc.edu
-- Putin meets Trump’s envoys as Kremlin says Ukraine settlement hinges on territory - AP News
-- House passes DHS funding bill despite Democratic opposition over ICE - The Washington Post
+- Immigration Agents Detain 5-Year-Old Boy in Minnesota, Prompting Outrage - The New York Times
 - 5 arrested in connection with shooting of Indiana judge and his wife - NBC News
+- House passes DHS funding bill despite Democratic opposition over ICE - The Washington Post
+- Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign - The New York Times
 - Trump looks left on cost of living concerns - Politico
 - White House posts digitally altered image of woman arrested after ICE protest - The Guardian
-- Contractor indicted over alleged leaks to Washington Post - Politico
-- EU leaders seek to preserve ties with US - dw.com
-- An Infamous Climber Made History With a Death-Defying Ropeless Summit. Now He’s on to Something Far More Perplexing. - Slate
-- Trump and ‘Taco!’ Roil Davos - The New York Times
-- Israel kills 3 journalists in Gaza, including CBS News contributor - The Washington Post
-- How Trump’s relations with America’s biggest banking boss hit rock bottom - The Guardian
-- Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75% - CNBC
-- Winter Storm Fern update: Delta cancels flights in five states, expands waivers for customers to adjust travel - Delta News Hub
-- Trump’s Davos message hints at a costly shift for consumers - thestreet.com
-- 149 Million Usernames and Passwords Exposed by Unsecured Database - WIRED
+- Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
+- Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’ - The New York Times
+- Seth Meyers Says Trump’s Deals Are as Strong as a Pinkie Swear - The New York Times
+- EU leaders seek to preserve ties with US - DW.com
+- High Roller Attendees Unimpressed by ‘Mar-a-Davos’ Vibes - The Daily Beast
+- Advisors to the ultra rich say AI isn't a gamechanger for landing new clients - CNBC
+- Driving in Winter? Follow These Expert Tips to Arrive Safely. - The New York Times
+- Betting on Prediction Markets Is Their Job. They Make Millions. - The New York Times
+- Nuclear reactor owned by Fukushima plant operator TEPCO to shut down again hours after restart - AP News
 - iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors
-- An AI pin is beneath Apple - Engadget
+- 149 Million Usernames and Passwords Exposed by Unsecured Database - WIRED
+- Halo x MOPOP Supper Fan Club | Halo - Official Site (en) - Halo Waypoint
+- Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
