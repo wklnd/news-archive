@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 16:01_
+_Updated: 2026-01-23 16:58_
 
-- Weather update: Friday classes canceled - news.wisc.edu
-- Immigration Agents Detain 5-Year-Old Boy in Minnesota, Prompting Outrage - The New York Times
+- Maps show where winter storm threatens to bring heavy snow, ice, brutal cold this weekend - CBS News
+- Ukraine, Russia, US to discuss fraught issue of territorial concessions in Abu Dhabi - AP News
+- Economic strike in Minnesota to protest against ICE: ‘No work, no school, no shopping’ - The Guardian
+- New ICE policy allows officers to enter homes without a judge’s warrant. Here’s what experts say - CNN
 - 5 arrested in connection with shooting of Indiana judge and his wife - NBC News
-- House passes DHS funding bill despite Democratic opposition over ICE - The Washington Post
-- Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign - The New York Times
+- Trump says Greenland framework includes mineral rights. What minerals does the island have? - BBC
+- Ryan Wedding, ex-Olympic snowboarder accused of being a drug kingpin, is arrested - NBC News
 - Trump looks left on cost of living concerns - Politico
-- White House posts digitally altered image of woman arrested after ICE protest - The Guardian
-- Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
-- Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’ - The New York Times
+- Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign - The New York Times
+- What to know as D.C. area braces for heavy snow, ice and severe cold - The Washington Post
+- Peru’s President May Be Ousted Over Secret Meetings With Chinese Businessmen - The New York Times
+- Davos is back — but the world it once championed is gone - politico.eu
 - Seth Meyers Says Trump’s Deals Are as Strong as a Pinkie Swear - The New York Times
-- EU leaders seek to preserve ties with US - DW.com
-- High Roller Attendees Unimpressed by ‘Mar-a-Davos’ Vibes - The Daily Beast
+- EU leaders seek to preserve ties with US - dw.com
+- Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw - Forbes
 - Advisors to the ultra rich say AI isn't a gamechanger for landing new clients - CNBC
-- Driving in Winter? Follow These Expert Tips to Arrive Safely. - The New York Times
+- Brett Kavanaugh Delivered the Most Chilling Warning About Trump’s Attack on the Fed - Slate
 - Betting on Prediction Markets Is Their Job. They Make Millions. - The New York Times
-- Nuclear reactor owned by Fukushima plant operator TEPCO to shut down again hours after restart - AP News
-- iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors
 - 149 Million Usernames and Passwords Exposed by Unsecured Database - WIRED
-- Halo x MOPOP Supper Fan Club | Halo - Official Site (en) - Halo Waypoint
-- Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
+- iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors
