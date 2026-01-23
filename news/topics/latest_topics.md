@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 07:51_
+_Updated: 2026-01-23 08:59_
 
 ## Top Stories
 
-- Pianolärare får inte längre undervisa elever enskilt - gp.se
-- NILS HARNESK: Trumps krav på Grönland: Ett hot mot Nato och Europa - pt.se
-- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
+- Åkesson toppar förtroendelistan för första gången - Omni
+- Man blev kastat från balkong i Spånga- tre gripna - SVT Nyheter
+- Pianolärare får inte längre undervisa elever enskilt - GP
+- Ingen ”bazooka” från lättade ledare i EU - Dagens Nyheter
 - Sveket rör danskarna på djupet: ”Vi har gett nästan allt vi kan till storebror” - sydsvenskan.se
-- Man utkastad från balkong – tre gripna - vk.se
 - Enorma flyg- och flottstyrkor på väg mot Iran - Dagens Nyheter
-- Får välja kön på personal - Expressen
-- Efter sju månaders brevväxling – Elsa får träffa föräldrarna - Sveriges Radio
 - Friska barn levde med felaktiga besked om hjärtsjukdom i flera år - Dagens Nyheter
+- Efter sju månaders brevväxling – Elsa får träffa föräldrarna - sverigesradio.se
+- Äldre ska få välja kön på personalen - Expressen
 - Bildts underrättelsetjänst tycks sakna stöd i riksdagen - Omni
-- Zelenskyj: Europa måste visa styrka - gp.se
-- DN Direkt – Norsk minister: Trumps fredsråd går emot USA:s grundlag - Dagens Nyheter
 - I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
+- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
+- Över 200 evakuerade från lift i Trysil - Expressen
 - USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - Aftonbladet
 - Tiktoks nya bolag på plats – välkomnas av Trump - SVT Nyheter
+- Fattigmånaden är slut: ”Alla kan bli miljonärer” – tolv aktier att köpa nu - DI
+- ”Hela januari har det varit dåligt med kunder” - SvD
 - Larmet från sjukhuset – AI förstår inte skånska - Expressen
-- Ubisoft storbantar – Stockholmsstudion stängs, Prince of Persia-remaken skrotas - FZ.se
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
 - Klart: Isoleringen hävd – provsvar negativa - vk.se
-- Nu är solen uppe till efter klockan 16 i våra bygder - vastgotabladet.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Audit Office: Sweden's work on UN global goals is being undermined - sverigesradio.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
@@ -42,11 +41,12 @@ _Updated: 2026-01-23 07:51_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Umeå children in worldwide school project on AI - umu.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -74,7 +74,7 @@ _Updated: 2026-01-23 07:51_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
+- Green steel company Stegra reported to meet with creditors Tuesday - sverigesradio.se
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -85,7 +85,7 @@ _Updated: 2026-01-23 07:51_
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - sverigesradio.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -123,7 +123,6 @@ _Updated: 2026-01-23 07:51_
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -139,6 +138,7 @@ _Updated: 2026-01-23 07:51_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
