@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 07:54_
+_Updated: 2026-01-23 09:02_
 
 - Maps show where winter storm threatens to bring heavy snow, ice, brutal cold this weekend - CBS News
+- Vance Says There Is No Need for Troops in Minneapolis ‘Right Now’ - The New York Times
+- Federal officers detain a 5-year-old boy who a school official says was used as ‘bait’ - AP News
 - Weather update: Friday classes canceled - news.wisc.edu
+- The Texas snow and ice forecast is changing. Here’s an update. - expressnews.com
 - US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia - BBC
-- Trump budget office orders review of funds to Democratic-controlled states - The Washington Post
-- House Republicans barely defeat Venezuela war powers resolution to check Trump’s military actions - AP News
-- Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’ - The New York Times
-- Live updates: Vance blames Minnesota officials for ICE presence but concedes misconduct should be investigated - CNN
-- Park Service removes slavery exhibit at Independence Park in Philadelphia - The Washington Post
+- Man Accused in $100 Million Jewel Heist Is Deported, Thwarting Trial - The New York Times
 - New ICE policy allows officers to enter homes without a judge’s warrant. Here’s what experts say - CNN
-- TikTok lands $14B deal to avoid US ban - Politico
 - EU wants U.S. trade deal back on track, but warns it would defend itself if threatened again - Reuters
+- Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’ - The New York Times
 - Death toll in Iran protest crackdown is reportedly at 5,002 as Trump says US 'armada' approaching - AP News
 - Japan suspends world's largest nuclear plant hours after restart - BBC
-- Israel kills 3 journalists in Gaza, including CBS News contributor - The Washington Post
-- Trump sues JPMorgan, Jamie Dimon over cutting off banking access - The Washington Post
-- Stock Market Today: Dow Gains, Global Stocks Rise After Trump Tariff U-Turn — Live Updates - The Wall Street Journal
-- These 20 stocks are strong choices for momentum investors - MarketWatch
-- BitGo Is 2026’s First Big IPO. It May Set the Stage for Anthropic and SpaceX. - Barron's
+- Asian Stocks to Gain After US Data, BOJ in Focus: Markets Wrap - Bloomberg.com
+- Georgia and Other Southern States Prepare for Storm’s Snow and Bitter Cold - The New York Times
+- Elon Musk’s Fortune Hits Record $788 Billion As Tesla Spikes 4% - Forbes
+- Trump Reverses Course on Plan Allowing Homebuyers to Tap 401(k)s - Bloomberg.com
+- An AI pin is beneath Apple - Engadget
 - 1Password is introducing a new phishing prevention feature - The Verge
-- Epic and Google have a secret $800 million Unreal Engine and services deal - The Verge
+- iPhone 18 Rumored to Feature Much Brighter Display - MacRumors
+- Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
