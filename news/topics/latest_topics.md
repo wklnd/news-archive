@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 13:44_
+_Updated: 2026-01-23 15:24_
 
 ## Top Stories
 
-- Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
+- Larm om explosionsrisk i Rättvik – föremål hittat vid husrannsakan - SVT Nyheter
+- Uppgifter: Nära 15 000 dödade i Iran - gp.se
+- Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
 - Britt-Marie Mattsson: Ambassadernas nya nervositet i Washington: Trump - gp.se
-- Provsvar om misstänkt SD-topp klara - gp.se
-- Polskt och tyskt snöoväder på väg in över Skåne - sydsvenskan.se
-- Karl Dalén: 5-åriga Liams öde spär på ICE-motståndet - Dagens Nyheter
-- EU-ledare: Enighet tvingade Trump att backa - Europaportalen
+- LVU-ärende slutade i kidnappning och bilbränder: ”De placerade en tickande bomb hemma hos oss” - ETC.se
+- Jared Kushner visar upp bild av Gaza: Strandliv och skrapor - Aftonbladet
+- Begränsning togs bort – men familjen hålls isär - na.se
+- Bildts underrättelseförslag möter motstånd i riksdagen - Syre
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
 - Landshövdingen träffar länets region- och kommunledningar - lansstyrelsen.se
-- Sex olyckor med vilt eller ren under natten - nsd.se
-- Upphandling för Citylinjen behöver göras om – så påverkas BRT - SVT Nyheter
-- 80-åring hittad i källare i Helsingfors – tre gripna - SVT Nyheter
+- USA tar sista klivet ur WHO - gp.se
 - Trump drar tillbaka rådsinbjudan till Kanada - gp.se
-- Newsom: Häpnadsväckande – men olidligt tråkigt - Omni
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Dramat i rätten: Därför slipper Oscar Engelbert betala 100 miljoner - Expressen
-- Musk ger sig in i politiken igen - DI
+- Wallenberg om Trumps vändning: Rätt av Europa att sätta emot USA - Dagens Nyheter
+- Kastade ut man från balkong - Expressen
+- Tiktok ”räddades” av Trump – tackar Kinas president Xi Jinping - Aftonbladet
 - Regeringen: Sverige ska inte bygga tio reaktorer - SvD
-- Epic Games och Google anklagas för ”kompisavtal” - Omni
+- Spacex uppges ha valt fyra amerikanska storbanker för IPO - FT - Börsvärlden
 - Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
-- Ideella ledare i Skellefteå hedras för sina insatser – får stipendier - megafonen.se
+- Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
+- Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Umeå children in worldwide school project on AI - umu.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -76,23 +76,23 @@ _Updated: 2026-01-23 13:44_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -121,10 +121,11 @@ _Updated: 2026-01-23 13:44_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -132,8 +133,7 @@ _Updated: 2026-01-23 13:44_
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
