@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 04:34_
+_Updated: 2026-01-23 05:54_
 
 ## Top Stories
 
+- DN Direkt – Svalt västligt intresse för Trumps ”fredsråd” - Dagens Nyheter
 - I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
-- Trump drar tillbaka inbjudan till Kanada - vk.se
-- Trump: Vi får ”total tillgång” på Grönland - gp.se
-- Kramkalas och raseri för Zelenskyj - SvD
-- Trump: Krigsfartyg på väg mot Iran - vk.se
 - EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Äldre kvinna död efter villabrand i Karlstad - nwt.se
-- Påkörda renar och rådjur - vk.se
-- Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
-- Allvarlig olycka – E6 avstängd - gp.se
-- Flera skadade i knivattack i Belgien - SVT Nyheter
 - USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - Aftonbladet
 - Ny tågolycka i Spanien – fjärde på en vecka - gp.se
+- Nya straffet säkerhetsförvaring införs i vår - gp.se
+- Påkörda renar och rådjur - vk.se
+- Färre brott anmäldes förra året - Tidningen Näringslivet
+- LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
+- Person hittad död i västra Stockholm – en gripen - SVT Nyheter
+- Sanna Torén Björling: Zelenskyj använde den fräna tonen mot USA till att lyfta Europa ansvar - Dagens Nyheter
+- Løkke: Chans till ordentlig förhandling med USA - vk.se
+- Flera skadade i knivattack i Belgien - SVT Nyheter
 - Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
-- Tyskland: ”Hämta hem vårt guld från USA” - SvD
+- Fabriken som bär bygden – nu kan sagan vara slut - op.se
 - Larmet från sjukhuset – AI förstår inte skånska - Expressen
-- Så ska kommunen få Zepro-personalen att bo kvar - op.se
 - Ubisoft storbantar – Stockholmsstudion stängs, Prince of Persia-remaken skrotas - FZ.se
-- Klart: Isoleringen hävd – provsvar negativa - vk.se
+- Här är gatorna i Göteborg där det fångades flest råttor - gp.se
+- Noterius kärlekslycka – med 12 år äldre partnern - Aftonbladet
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
 
 ## World News
@@ -33,11 +33,8 @@ _Updated: 2026-01-23 04:34_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
@@ -46,27 +43,30 @@ _Updated: 2026-01-23 04:34_
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Transparenz und Beobachtbarkeit von KI-Systemen | AI Observability November 2025: Der erste vollautonome KI-Cyberangriff - Xpert.Digital - Konrad Wolfenstein
@@ -153,6 +153,7 @@ _Updated: 2026-01-23 04:34_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-01-23 04:34_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
