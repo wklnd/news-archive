@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 23:44_
+_Updated: 2026-01-24 00:44_
 
 ## Top Stories
 
-- Starmer: Trumps ord motbjudande - gp.se
-- Svantesson om USA:s regering: ”Just nu litar vi inte på dem” - Dagens Nyheter
-- Minska beroendet av Trump med euron - Liberalerna
-- 23 januari 20.10, Övrigt, Västra Götalands län - Polisen.se
+- Peter Wolodarski: Amerikanerna hånlog i Davos, förstår Europa vad som måste göras? - Dagens Nyheter
+- FN uppmanar Iran att stoppa dödandet – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Starmer och Trump i öppet bråk om Natoinsats i Afghanistan - gp.se
 - Brittisk underrättelsetjänst: Matbrist och kaos väntar när ekosystemen faller - Dagens Nyheter
-- Efter attacken: Omhändertagen hund ska testas - op.se
+- Svantesson om USA:s regering: ”Just nu litar vi inte på dem” - Dagens Nyheter
+- Ett nytt lågvattenmärke - Kvartal
 - DN Direkt – 42-årig man häktas – misstänks för hot mot ministrar - Dagens Nyheter
-- 20-årig man häktad för äldrerånen i Huskvarna - SVT Nyheter
-- Så mycket energidryck är okej för unga - norran.se
+- Man utkastad från balkong – tre gripna - skd.se
+- 23 januari 17.58, Trafikkontroll, Västerbottens län - polisen.se
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Irak uppmanar Europa att ta hem sina IS-fångar - Omni
-- Larm: Ny dykolycka i äventyrsgruva - Expressen
-- Nyberg entledigas från insynsråd före månadens slut - TV4 Nyheterna
+- Irak vill att Europa tar hem IS-fångar - gp.se
 - USA rustar för snöoväder: "Förbered er" - gp.se
+- Svensk saknas efter jordskred i Nya Zeeland - Aftonbladet
 - Avslöjar Tesla-mål för Europa: ”En månad” - SvD
 - Regeringen: Sverige ska inte bygga tio reaktorer - SvD
 - Trump ”räddade” Tiktok – tackar Xi - Aftonbladet
 - Göteborgarna om nya Volvon: ”Snygg utsida, lite besviken på insidan” - Dagens Nyheter
 - Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
+- AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
 - Invincible Säsong 4 har premiär 18 mars. Thragg debuterar och Omni-Man byter sida i nya avsnitten. - feber.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- WPP samlar produktion i ny global enhet - Dagens Media
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -75,23 +75,23 @@ _Updated: 2026-01-23 23:44_
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Connected cars, in-car payments driving the auto economy - mastercard.com
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -104,18 +104,18 @@ _Updated: 2026-01-23 23:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-01-23 23:44_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
