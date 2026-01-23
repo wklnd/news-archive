@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 05:54_
+_Updated: 2026-01-23 07:00_
 
 ## Top Stories
 
-- DN Direkt – Svalt västligt intresse för Trumps ”fredsråd” - Dagens Nyheter
+- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
 - I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
+- Pianolärare får inte längre undervisa elever enskilt - gp.se
+- Lars Løkke Rasmussen: Delar målet – men inte metoden - DI
 - USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - Aftonbladet
-- Ny tågolycka i Spanien – fjärde på en vecka - gp.se
-- Nya straffet säkerhetsförvaring införs i vår - gp.se
+- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
 - Påkörda renar och rådjur - vk.se
-- Färre brott anmäldes förra året - Tidningen Näringslivet
-- LINDA JERNECK: Åh nej, tänk om Sverige blir lite kul - Expressen
-- Person hittad död i västra Stockholm – en gripen - SVT Nyheter
+- LEDARE: Svensk köttbrist hotar inte bara fredagsmyset - ht.se
+- Tusentals demonstrerade i centrala Uppsala - unt.se
+- Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
 - Sanna Torén Björling: Zelenskyj använde den fräna tonen mot USA till att lyfta Europa ansvar - Dagens Nyheter
-- Løkke: Chans till ordentlig förhandling med USA - vk.se
-- Flera skadade i knivattack i Belgien - SVT Nyheter
+- Ny tågolycka i Spanien – fjärde på en vecka - gp.se
+- Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
 - Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
-- Fabriken som bär bygden – nu kan sagan vara slut - op.se
 - Larmet från sjukhuset – AI förstår inte skånska - Expressen
 - Ubisoft storbantar – Stockholmsstudion stängs, Prince of Persia-remaken skrotas - FZ.se
 - Här är gatorna i Göteborg där det fångades flest råttor - gp.se
-- Noterius kärlekslycka – med 12 år äldre partnern - Aftonbladet
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
+- Klart: Isoleringen hävd – provsvar negativa - vk.se
+- POCO släpper nya M8‑serien - mobil.se
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-01-23 05:54_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -84,11 +84,11 @@ _Updated: 2026-01-23 05:54_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
@@ -126,8 +126,8 @@ _Updated: 2026-01-23 05:54_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
