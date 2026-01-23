@@ -1,40 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 21:42_
+_Updated: 2026-01-23 22:48_
 
 ## Top Stories
 
-- Peter Wolodarski: Amerikanerna hånlog i Davos, förstår Europa vad som måste göras? - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Zelenskyj: Territorium ska diskuteras i trepartssamtal - Dagens Nyheter
-- FN uppmanar Iran att stoppa dödandet – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Starmer: Trumps ord motbjudande - gp.se
-- Minska beroendet av Trump med euron - Liberalerna
 - Svantesson om USA:s regering: ”Just nu litar vi inte på dem” - Dagens Nyheter
+- USA-sanktioner mot Irans skuggflotta – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Starmer: Trumps ord motbjudande - gp.se
+- Brittisk underrättelsetjänst: Matbrist och kaos väntar när ekosystemen faller - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ukrainamöte avslutat – fortsätter i morgon - Dagens Nyheter
+- 23 januari 20.10, Övrigt, Västra Götalands län - Polisen.se
 - DN Direkt – 42-årig man häktas – misstänks för hot mot ministrar - Dagens Nyheter
-- 20-årig man häktad för äldrerånen i Huskvarna - SVT Nyheter
 - Tomas Ramberg: Så ändrar Trump spelplanen i det svenska valet - Dagens Nyheter
+- 20-årig man häktad för äldrerånen i Huskvarna - SVT Nyheter
 - Så mycket energidryck är okej för unga - norran.se
+- Skickar fler aggregat till strömlösa ukrainare - gp.se
 - Larm: Ny dykolycka i äventyrsgruva - Expressen
-- Kastade ut man från balkong - Expressen
+- USA rustar för snöoväder: "Förbered er" - gp.se
 - Insiders avvaktar – här är Large Cap-bolagen utan köp - Affärsvärlden
+- Över 149 miljoner lösenord läckta – svenskar drabbade - Aftonbladet
 - Regeringen: Sverige ska inte bygga tio reaktorer - SvD
-- Studielånet försenat – CSN har problem - corren.se
-- Business as usual eller stiltje under årets fattigaste dag - Market.se
+- Ericsson höjer utdelningen – trots storvarsel - bohuslaningen.se
 - Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
-- Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
-- Therese McDonald Jag byter inte fru – jag byter träningsform (och det slutar med gåstavar ...) - ttela.se
-- Dyk ner i spelhelgen nu! - FZ.se
+- Invincible Säsong 4 har premiär 18 mars. Thragg debuterar och Omni-Man byter sida i nya avsnitten. - feber.se
+- The Slow Mo Guys filmar Nintendos Virtual Boy. Så fick floppen sin svartröda bild och 3D-effekter. - feber.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
@@ -43,9 +45,7 @@ _Updated: 2026-01-23 21:42_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Avlyssningsskandalen växer - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - SvD
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -82,7 +82,7 @@ _Updated: 2026-01-23 21:42_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -120,23 +120,23 @@ _Updated: 2026-01-23 21:42_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
@@ -148,11 +148,10 @@ _Updated: 2026-01-23 21:42_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -161,4 +160,5 @@ _Updated: 2026-01-23 21:42_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
