@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 12:52_
+_Updated: 2026-01-23 13:44_
 
 ## Top Stories
 
-- Provsvar om misstänkt SD-topp klara - gp.se
-- DN Direkt – Inget Polarpris i år – vd kliver av - Dagens Nyheter
-- Dött lopp mellan Åkesson och Andersson - vk.se
-- Britt-Marie Mattsson: Ambassadernas nya nervositet i Washington: Trump - gp.se
-- Karl Dalén: 5-åriga Liams öde spär på ICE-motståndet - Dagens Nyheter
-- Griskulting upphängd utanför skola - Aftonbladet
-- Polisen bekräftar: Försvunna kvinnan i Uddevalla hittad död - SVT Nyheter
-- Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Sex olyckor med vilt eller ren under natten - nsd.se
-- Landshövdingen träffar länets region- och kommunledningar - lansstyrelsen.se
 - Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
-- Minnesota stänger i protest mot ICE - Dagens Nyheter
+- Britt-Marie Mattsson: Ambassadernas nya nervositet i Washington: Trump - gp.se
+- Provsvar om misstänkt SD-topp klara - gp.se
+- Polskt och tyskt snöoväder på väg in över Skåne - sydsvenskan.se
+- Karl Dalén: 5-åriga Liams öde spär på ICE-motståndet - Dagens Nyheter
+- EU-ledare: Enighet tvingade Trump att backa - Europaportalen
+- Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
+- Landshövdingen träffar länets region- och kommunledningar - lansstyrelsen.se
+- Sex olyckor med vilt eller ren under natten - nsd.se
+- Upphandling för Citylinjen behöver göras om – så påverkas BRT - SVT Nyheter
+- 80-åring hittad i källare i Helsingfors – tre gripna - SVT Nyheter
 - Trump drar tillbaka rådsinbjudan till Kanada - gp.se
-- Danska utrikesministern: ”Min position är att undgå att skapa rubriker” - Dagens Nyheter
+- Newsom: Häpnadsväckande – men olidligt tråkigt - Omni
+- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
 - Dramat i rätten: Därför slipper Oscar Engelbert betala 100 miljoner - Expressen
 - Musk ger sig in i politiken igen - DI
-- Priset på småhus steg under 2025 - Byggvärlden
-- Fattigmånaden är slut: ”Alla kan bli miljonärer” – tolv aktier att köpa nu - DI
-- Speljätten rasar – stänger i Stockholm - Aftonbladet
-- Fylla och bråk under Student Ski - vk.se
+- Regeringen: Sverige ska inte bygga tio reaktorer - SvD
+- Epic Games och Google anklagas för ”kompisavtal” - Omni
+- Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
+- Ideella ledare i Skellefteå hedras för sina insatser – får stipendier - megafonen.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Umeå children in worldwide school project on AI - umu.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -104,15 +104,15 @@ _Updated: 2026-01-23 12:52_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
