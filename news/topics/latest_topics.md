@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 20:58_
+_Updated: 2026-01-23 21:42_
 
 ## Top Stories
 
-- Larm om farligt föremål på gym – bombskyddet på väg - Aftonbladet
-- Jag ser Trumps tal – och vill gnugga ögonen i Klorin - gp.se
-- Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
-- Marcus Lindqvist USA:s ointresse för Europa hänger inte på Trump - Hufvudstadsbladet
-- Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
+- Peter Wolodarski: Amerikanerna hånlog i Davos, förstår Europa vad som måste göras? - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Territorium ska diskuteras i trepartssamtal - Dagens Nyheter
+- FN uppmanar Iran att stoppa dödandet – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Starmer: Trumps ord motbjudande - gp.se
+- Minska beroendet av Trump med euron - Liberalerna
+- Svantesson om USA:s regering: ”Just nu litar vi inte på dem” - Dagens Nyheter
 - DN Direkt – 42-årig man häktas – misstänks för hot mot ministrar - Dagens Nyheter
 - 20-årig man häktad för äldrerånen i Huskvarna - SVT Nyheter
 - Tomas Ramberg: Så ändrar Trump spelplanen i det svenska valet - Dagens Nyheter
 - Så mycket energidryck är okej för unga - norran.se
-- En till sjukhus efter ny dykolycka i Äventyrsgruvan utanför Borlänge - SVT Nyheter
-- Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
-- DN Direkt – Utredning: Skador på rälsen vid spansk tågolycka - Dagens Nyheter
 - Larm: Ny dykolycka i äventyrsgruva - Expressen
+- Kastade ut man från balkong - Expressen
 - Insiders avvaktar – här är Large Cap-bolagen utan köp - Affärsvärlden
 - Regeringen: Sverige ska inte bygga tio reaktorer - SvD
-- Över 149 miljoner lösenord läckta – svenskar drabbade - Aftonbladet
+- Studielånet försenat – CSN har problem - corren.se
 - Business as usual eller stiltje under årets fattigaste dag - Market.se
 - Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
 - Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
 - Therese McDonald Jag byter inte fru – jag byter träningsform (och det slutar med gåstavar ...) - ttela.se
+- Dyk ner i spelhelgen nu! - FZ.se
 
 ## World News
 
@@ -100,31 +100,33 @@ _Updated: 2026-01-23 20:58_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
@@ -132,13 +134,11 @@ _Updated: 2026-01-23 20:58_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
