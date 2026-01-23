@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 12:57_
+_Updated: 2026-01-23 13:52_
 
-- After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia - The New York Times
+- Europe must 'play the power game' with Trump over Greenland, former Danish FM says - ABC News
 - Weather update: Friday classes canceled - news.wisc.edu
 - Immigration Agents Detain 5-Year-Old Boy in Minnesota, Prompting Outrage - The New York Times
 - ‘We have to stand together’: Minnesota economic blackout organizers push to take demonstrations nationwide - The Guardian
-- 20+ inches of snow could fall in Boston area this weekend. Maps show the latest storm forecast. - CBS News
-- Contractor indicted over alleged leaks to Washington Post - Politico
+- Triggered Trump Melts Down at Newsom in Unhinged Complaint - The Daily Beast
+- Japan’s Takaichi dissolves parliament after only 3 months in office, setting up snap election - AP News
 - Trump looks left on cost of living concerns - Politico
 - Minnesota prisons chief accuses Homeland Security of peddling ‘misinformation’ on ICE surge - Star Tribune
-- ‘Brain the size of a walnut’: Bessent goes off on Newsom - Politico
-- Ukraine is battling to keep the lights on - this nuclear is vital in their fight - BBC
-- EU Plans to Unfreeze Trade Deal With US and Vote on Ratification - bloomberg.com
+- Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
+- Questions for Alex Honnold Before He Tries to Climb a Skyscraper in Taipei - The New York Times
 - Israel kills 3 journalists in Gaza, including CBS News contributor - The Washington Post
-- Trump Calls Off Tariffs on Europe Over Greenland - The Wall Street Journal
-- US, China once had rare-earth aces in the hole but the US folded - Asia Times
+- Trump and ‘Taco!’ Roil Davos - The New York Times
 - Elon Musk’s Fortune Hits Record $788 Billion As Tesla Spikes 4% - Forbes
-- Trump Undercuts Plan to Let Homebuyers Tap Retirement Plans - bloomberg.com
-- OpenAI is making over $1 billion from something that has nothing to do with ChatGPT - Business Insider
+- Trump’s Davos message hints at a costly shift for consumers - thestreet.com
+- BitGo Is 2026’s First Big IPO. It May Set the Stage for Anthropic and SpaceX. - Barron's
+- Betting on Prediction Markets Is Their Job. They Make Millions. - The New York Times
 - 1Password is introducing a new phishing prevention feature - The Verge
+- Microsoft updates Notepad and Paint with more AI features - BleepingComputer
 - Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
-- Prompted Playlists in Beta Coming to Premium Listeners in More Markets - Spotify
+- PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update - Nintendo Life
