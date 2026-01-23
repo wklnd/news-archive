@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 10:55_
+_Updated: 2026-01-23 11:52_
 
 ## Top Stories
 
+- Polarpriset pausas – delas inte ut i år - gp.se
 - Britt-Marie Mattsson: Ambassadernas nya nervositet i Washington: Trump - gp.se
-- Dött lopp mellan Åkesson och Andersson - vk.se
-- Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
-- Inget Polarpris i år – vd kliver av - SVT Nyheter
-- Minst 5 002 personer döda efter protesterna i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Griskulting upphängd utanför skola - Aftonbladet
+- Jared Kushner visar upp bild av Gaza: Strandliv och skrapor - Aftonbladet
+- Man livshotande skadad efter att ha kastats från balkong i Spånga – tre gripna - SVT Nyheter
 - Pianolärare får inte längre undervisa elever enskilt - gp.se
 - Polisen bekräftar: Försvunna kvinnan i Uddevalla hittad död - SVT Nyheter
+- Äldre ska få välja kön på personalen - Expressen
 - Friska barn levde med felaktiga besked om hjärtsjukdom i flera år - Dagens Nyheter
-- Efter sju månaders brevväxling – Elsa får träffa föräldrarna - Sveriges Radio
-- Nya regler för åteljakt – vissa begränsningar införs - Jakt & Jägare
-- I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
+- Efter sju månaders brevväxling – Elsa får träffa föräldrarna - sverigesradio.se
+- Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
+- Karl Dalén: 5-åriga Liams öde spär på ICE-motståndet - Dagens Nyheter
+- Minnesota stänger i protest mot ICE - Dagens Nyheter
 - Enorma flyg- och flottstyrkor på väg mot Iran - Dagens Nyheter
-- Trump drar tillbaka rådsinbjudan till Kanada - gp.se
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
+- Trumps mäktiga vapen kan släcka Europa - DI
+- Musk ger sig in i politiken igen - DI
 - Fattigmånaden är slut: ”Alla kan bli miljonärer” – tolv aktier att köpa nu - DI
-- Priset på småhus steg under 2025 - Byggvärlden
-- Så lever du bra på mindre pengar - Syre
-- Jämtländsk industri stark trots avvaktande omvärldsläge - op.se
-- Klart: Isoleringen hävd – provsvar negativa - vk.se
-- Viktigt för Chrome-användare: Snabb åtgärd krävs nu - e55.se
+- Tiktok ”räddades” av Trump – tackar Kinas president Xi Jinping - Aftonbladet
+- Fylla och bråk under Student Ski - vk.se
+- Netatmo släpper en ny generation termostater. Med stöd för Matter. - feber.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Audit Office: Sweden's work on UN global goals is being undermined - sverigesradio.se
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -74,7 +74,7 @@ _Updated: 2026-01-23 10:55_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
+- Green steel company Stegra reported to meet with creditors Tuesday - sverigesradio.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
@@ -85,7 +85,7 @@ _Updated: 2026-01-23 10:55_
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - sverigesradio.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -110,9 +110,9 @@ _Updated: 2026-01-23 10:55_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -121,10 +121,10 @@ _Updated: 2026-01-23 10:55_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -133,7 +133,7 @@ _Updated: 2026-01-23 10:55_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -142,12 +142,12 @@ _Updated: 2026-01-23 10:55_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
