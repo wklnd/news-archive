@@ -1,6 +1,6 @@
 # Top News Headlines
 
-_Updated: 2026-01-23 09:02_
+_Updated: 2026-01-23 09:52_
 
 - Maps show where winter storm threatens to bring heavy snow, ice, brutal cold this weekend - CBS News
 - Vance Says There Is No Need for Troops in Minneapolis ‘Right Now’ - The New York Times
@@ -10,15 +10,15 @@ _Updated: 2026-01-23 09:02_
 - US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia - BBC
 - Man Accused in $100 Million Jewel Heist Is Deported, Thwarting Trial - The New York Times
 - New ICE policy allows officers to enter homes without a judge’s warrant. Here’s what experts say - CNN
+- Live Updates: Zelensky Criticizes European Allies’ Response to Trump and Russia - The New York Times
 - EU wants U.S. trade deal back on track, but warns it would defend itself if threatened again - Reuters
-- Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’ - The New York Times
+- Japan’s Takaichi dissolves parliament after only 3 months in office, setting up snap election - AP News
 - Death toll in Iran protest crackdown is reportedly at 5,002 as Trump says US 'armada' approaching - AP News
-- Japan suspends world's largest nuclear plant hours after restart - BBC
-- Asian Stocks to Gain After US Data, BOJ in Focus: Markets Wrap - Bloomberg.com
-- Georgia and Other Southern States Prepare for Storm’s Snow and Bitter Cold - The New York Times
+- Here’s Who Just Bought TikTok - The New York Times
 - Elon Musk’s Fortune Hits Record $788 Billion As Tesla Spikes 4% - Forbes
-- Trump Reverses Course on Plan Allowing Homebuyers to Tap 401(k)s - Bloomberg.com
-- An AI pin is beneath Apple - Engadget
+- Trump Undercuts Plan to Let Homebuyers Tap Retirement Plans - Bloomberg
+- Supreme Court doubtful of Trump claim he can fire Fed governors by fiat - NPR
 - 1Password is introducing a new phishing prevention feature - The Verge
+- I'm surprised and confused by Sony's new turntable line-up – here's why - What Hi-Fi?
+- Epic and Google have a secret $800 million Unreal Engine and services deal - The Verge
 - iPhone 18 Rumored to Feature Much Brighter Display - MacRumors
-- Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
