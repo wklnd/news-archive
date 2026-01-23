@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 07:00_
+_Updated: 2026-01-23 07:51_
 
 ## Top Stories
 
-- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
-- I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
 - Pianolärare får inte längre undervisa elever enskilt - gp.se
-- Lars Løkke Rasmussen: Delar målet – men inte metoden - DI
+- NILS HARNESK: Trumps krav på Grönland: Ett hot mot Nato och Europa - pt.se
+- Ukraina, Ryssland och USA ska träffas i Förenade Arabemiraten - gp.se
+- Sveket rör danskarna på djupet: ”Vi har gett nästan allt vi kan till storebror” - sydsvenskan.se
+- Man utkastad från balkong – tre gripna - vk.se
+- Enorma flyg- och flottstyrkor på väg mot Iran - Dagens Nyheter
+- Får välja kön på personal - Expressen
+- Efter sju månaders brevväxling – Elsa får träffa föräldrarna - Sveriges Radio
+- Friska barn levde med felaktiga besked om hjärtsjukdom i flera år - Dagens Nyheter
+- Bildts underrättelsetjänst tycks sakna stöd i riksdagen - Omni
+- Zelenskyj: Europa måste visa styrka - gp.se
+- DN Direkt – Norsk minister: Trumps fredsråd går emot USA:s grundlag - Dagens Nyheter
+- I Kiev följer man storpolitiken på avstånd – och lämnar stan - Dagens Nyheter
 - USA:s ”masterplan” för Gaza: Lyxbyggen vid havet - Aftonbladet
-- EU-parlamentet skickar Mercosuravtal till domstol - SVT Nyheter
-- Påkörda renar och rådjur - vk.se
-- LEDARE: Svensk köttbrist hotar inte bara fredagsmyset - ht.se
-- Tusentals demonstrerade i centrala Uppsala - unt.se
-- Man begärs häktad för hot mot ministrar – ett bedöms som grovt - SVT Nyheter
-- Sanna Torén Björling: Zelenskyj använde den fräna tonen mot USA till att lyfta Europa ansvar - Dagens Nyheter
-- Ny tågolycka i Spanien – fjärde på en vecka - gp.se
-- Uppdraget avslutas - fortsatt engagemang i Arktis - Försvarsmakten
-- Brittiska underrättelsetjänsten: Systemkollaps – inom fem år - Aftonbladet
+- Tiktoks nya bolag på plats – välkomnas av Trump - SVT Nyheter
 - Larmet från sjukhuset – AI förstår inte skånska - Expressen
 - Ubisoft storbantar – Stockholmsstudion stängs, Prince of Persia-remaken skrotas - FZ.se
-- Här är gatorna i Göteborg där det fångades flest råttor - gp.se
 - AMD Ryzen 7 9850X3D får sitt lanseringsdatum listat - Nordichardware
 - Klart: Isoleringen hävd – provsvar negativa - vk.se
-- POCO släpper nya M8‑serien - mobil.se
+- Nu är solen uppe till efter klockan 16 i våra bygder - vastgotabladet.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -99,7 +99,7 @@ _Updated: 2026-01-23 07:00_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -122,7 +122,6 @@ _Updated: 2026-01-23 07:00_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -132,13 +131,14 @@ _Updated: 2026-01-23 07:00_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
