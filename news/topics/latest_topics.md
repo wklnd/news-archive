@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-23 19:47_
+_Updated: 2026-01-23 20:58_
 
 ## Top Stories
 
+- Larm om farligt föremål på gym – bombskyddet på väg - Aftonbladet
+- Jag ser Trumps tal – och vill gnugga ögonen i Klorin - gp.se
 - Säpo såg diplomaten lämna med UD-mappar – då slog de till - Dagens Nyheter
-- Kristersson om Buschs regeringsord: ”Jätteroligt” - Omni
-- Avslöjar: Sjukvårdsdirektören kände till att sanningen om spädbarnets död doldes - Sveriges Radio
-- MP-toppens miss: Sa att han varit ute i snökaoset - SvD
-- Jag ser Trumps tal – och vill gnugga ögonen i Klorin - GP
+- Marcus Lindqvist USA:s ointresse för Europa hänger inte på Trump - Hufvudstadsbladet
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
 - DN Direkt – 42-årig man häktas – misstänks för hot mot ministrar - Dagens Nyheter
 - 20-årig man häktad för äldrerånen i Huskvarna - SVT Nyheter
-- Efter attacken: Omhändertagen hund ska testas - op.se
 - Tomas Ramberg: Så ändrar Trump spelplanen i det svenska valet - Dagens Nyheter
+- Så mycket energidryck är okej för unga - norran.se
+- En till sjukhus efter ny dykolycka i Äventyrsgruvan utanför Borlänge - SVT Nyheter
 - Anna-Lena Laurén: Mötet i Moskva bekräftade för Putin att hans taktik fungerar - Dagens Nyheter
-- Skickar fler aggregat till strömlösa ukrainare - GP
-- Trump efter Carneys tal: ”Återkallar inbjudan” - Hufvudstadsbladet
-- Utredning: Skador på rälsen vid spansk tågolycka - SvD
+- DN Direkt – Utredning: Skador på rälsen vid spansk tågolycka - Dagens Nyheter
+- Larm: Ny dykolycka i äventyrsgruva - Expressen
 - Insiders avvaktar – här är Large Cap-bolagen utan köp - Affärsvärlden
 - Regeringen: Sverige ska inte bygga tio reaktorer - SvD
-- Linc: En hälsosam investering - Affärsvärlden
-- TF Bank: Tyska tillväxtreceptet levererar - Affärsvärlden
-- Nu hårdtestas AI-modeller – med klassiskt Nintendospel - NyTeknik
+- Över 149 miljoner lösenord läckta – svenskar drabbade - Aftonbladet
+- Business as usual eller stiltje under årets fattigaste dag - Market.se
 - Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
+- Googles AI-sök får stöd för ”personlig intelligens” - Computer Sweden
+- Therese McDonald Jag byter inte fru – jag byter träningsform (och det slutar med gåstavar ...) - ttela.se
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-01-23 19:47_
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Avlyssningsskandalen växer - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -103,7 +103,6 @@ _Updated: 2026-01-23 19:47_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Johan von Schreeb - Karolinska Institutet
@@ -113,9 +112,33 @@ _Updated: 2026-01-23 19:47_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+
+## Science
+
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - uu.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - mau.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -125,7 +148,6 @@ _Updated: 2026-01-23 19:47_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -139,3 +161,4 @@ _Updated: 2026-01-23 19:47_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
