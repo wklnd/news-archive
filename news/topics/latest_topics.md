@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 00:44_
+_Updated: 2026-01-25 01:42_
 
 ## Top Stories
 
-- DN Direkt – Solberg tappade tid – ändå kvar i ledning - Dagens Nyheter
+- DN Direkt – Trump hyllar brittiska soldater efter kritikstorm - Dagens Nyheter
+- Ulf Kristersson: ”Företagare är generade” – Senaste nytt om USA och Grönland - SVT Nyheter
 - Frågan om slopat matkrav på krogen börjar behandlas - Omni
-- 18-åring häktas för bomben i Rättvik - Aftonbladet
+- Davos början till slutet för Trump - Kvartal
 - Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Äldre man död i lägenhetsbrand i Växjö - SVT Nyheter
 - Över 100 000 anmälda till högskoleprovet - vk.se
+- Tonåring häktad efter bomblarm i Rättvik - SVT Nyheter
 - 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
 - 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
-- Tre till sjukhus efter flera skoterolyckor i länet – en allvarligt skadad - SVT Nyheter
-- Ulf Kristersson: ”Företagare är generade” – Senaste nytt om USA och Grönland - SVT Nyheter
-- Olycka med snöskoter – en allvarligt skadad - Expressen
-- Ilskan mot hotellet i Bulgarien – efter skylten i lobbyn - Expressen
+- Ungdomar fast i räddningsbåt – drev ut - Expressen
 - USA rustar för snöoväder: "Förbered er" - gp.se
-- Konflikter, oro och hot – varför stiger inte energipriserna mer? - Dagens Nyheter
+- Vita husets pingvinmiss på Grönland hånas - gp.se
+- Italien kallar hem ambassadör i Schweiz - Aftonbladet
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
-- Ericsson höjer utdelning – trots storvarsel - gp.se
+- Revansch för Ericsson – historiskt ras för Apotea - DI
 - Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
+- El- eller bensinbil – så mycket skiljer det i halka - Aftonbladet
 - Kvinna nekas retur av mobiltelefon – butikspersonal bröt förpackningen - borlangetidning.se
-- INSÄNDARE: Alla äldre i Lilla Edet ska känna sig trygga - ttela.se
+- Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
@@ -102,20 +102,20 @@ _Updated: 2026-01-25 00:44_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -123,7 +123,9 @@ _Updated: 2026-01-25 00:44_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -131,14 +133,12 @@ _Updated: 2026-01-25 00:44_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 
 ## Jordbruk
 
