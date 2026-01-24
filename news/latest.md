@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-24 04:31_
+_Updated: 2026-01-24 05:50_
 
-- Monster storm about to hit millions with catastrophic ice and heavy snow - CNN
 - U.K., including Prince Harry, voices outrage at Trump’s Afghanistan remarks - The Washington Post
-- Ukraine war: High stakes but low expectations for Ukraine talks with Russia and US - BBC
 - FBI Agent Resigns After Trying to Investigate ICE Officer in Renee Good Shooting - The New York Times
-- ICE has been entering homes without judicial warrants since last summer, sources say - NBC News
+- Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm - The New York Times
 - Storm timeline shows when snow is forecast to start and end in Massachusetts this weekend - CBS News
-- Hundreds of Minnesota Businesses on Strike in Protest Against ICE - The New York Times
+- Unflappable Jack Smith turns tables on Jim Jordan in hearing, again declaring Trump a criminal - cleveland.com
+- ICE Agent Charged With Misdemeanor Following Scuffle With an Activist - The New York Times
 - DHS pauses cuts to FEMA as massive winter storm barrels in - The Washington Post
-- Metro Atlanta under ice storm warning as region braces for winter weather - wabe.org
-- Vance addresses criticism that Trump admin has not done enough to move anti-abortion rights agenda forward - ABC News
-- Kushner’s vision for rebuilding Gaza faces major obstacles - AP News
-- On Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson - The Washington Post
-- Pentagon no longer views China threat as top priority - Politico
-- Iran protests: Eyewitness tells of people getting shot - BBC
+- Trump administration weighs naval blockade to halt Cuban oil imports - Politico
+- Severe cold and dangerous winter storm bear down on D.C. area - The Washington Post
+- Inside USA House: The converted church that left a MAGA mark on Davos - The Washington Post
+- Team Trump Is Livid After Canada’s Carney Calls Out U.S. Coercion - The Wall Street Journal
+- Ukraine's two largest cities under Russian attack, officials say 13 injured - Reuters
+- Bari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor - Zeteo | Substack
 - Goldman Sachs Boosts CEO Solomon’s Pay 21% to $47 Million - Bloomberg.com
-- Meta pauses teen access to AI characters ahead of new version - TechCrunch
-- Jamie Dimon is learning what happens when a CEO dares to defy Trump - CNN
-- 'Jobs, jobs, jobs' the AI mantra as fears take back seat in Davos - Reuters
-- Google Photos can now turn you into a meme - Engadget
-- GeForce Now adds support for flight controllers - Engadget
+- Is China quietly winning the AI race? - BBC
+- BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve - Financial Times
+- Stock Market News for Jan. 23, 2026: Dow Drops; Intel Stock Slides - The Wall Street Journal
+- CISA confirms active exploitation of four enterprise software bugs - BleepingComputer
+- Metagame Mentor: The Top Standard Decks to Expect at Pro Tour Lorwyn Eclipsed - MAGIC PLAY
+- New study shows just how effective Apple Watch is at detecting AFib - 9to5Mac
