@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 22:43_
+_Updated: 2026-01-24 23:40_
 
 ## Top Stories
 
-- Man skjuten till döds av federala agenter i Minneapolis - Dagens Nyheter
 - ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
-- Krögaren: Det borde ha slopats för fyra år sedan - SvD
-- 18-åring häktas för bomben i Rättvik - Aftonbladet
-- Hundratals demonstrerade i Malmö mot attacker på kurder i Syrien - sydsvenskan.se
-- Trump hotar Kanada med 100-procentiga tullar - gp.se
-- Det får du inte göra när ditt barn är på förskolan - gp.se
+- Protester efter ny dödsskjutning i Minneapolis - vk.se
+- DN Direkt – Ägare till baren i Crans-Montana släppt mot borgen - Dagens Nyheter
+- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
+- Flera demonstrationer i centrala Göteborg på lördagen - gp.se
+- Tonåring häktad efter bomblarm i Rättvik - SVT Nyheter
 - 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
 - Tre till sjukhus efter flera skoterolyckor i länet – en allvarligt skadad - SVT Nyheter
 - 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
-- Direkt – Krisen i Mellanöstern – Källor: USA-sändebud i Israel för Gazasamtal - Dagens Nyheter
-- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- Trump hotar Kanada med 100-procentiga tullar - gp.se
 - Vita husets pingvinmiss på Grönland hånas - gp.se
-- Kvinna gripen med guld på Arlanda - Expressen
+- Avslöjar: Använde topphemligt vapen - Expressen
+- Svensk saknas efter jordskred i Nya Zeeland - Aftonbladet
 - Konflikter, oro och hot – varför stiger inte energipriserna mer? - Dagens Nyheter
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
-- SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
-- Norwegian ställer in flyg till Dubai - Expressen
+- Revansch för Ericsson – historiskt ras för Apotea - DI
+- Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
 - Kvinna nekas retur av mobiltelefon – butikspersonal bröt förpackningen - borlangetidning.se
 - INSÄNDARE: Alla äldre i Lilla Edet ska känna sig trygga - ttela.se
 
@@ -30,29 +30,29 @@ _Updated: 2026-01-24 22:43_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
@@ -76,11 +76,11 @@ _Updated: 2026-01-24 22:43_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -145,7 +145,7 @@ _Updated: 2026-01-24 22:43_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,9 +156,9 @@ _Updated: 2026-01-24 22:43_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
