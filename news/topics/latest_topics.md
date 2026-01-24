@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 18:48_
+_Updated: 2026-01-24 19:42_
 
 ## Top Stories
 
 - Uppgifter: Ny skjutning i Minnesota - SVT Nyheter
-- Äldre man död i lägenhetsbrand i Växjö - SVT Nyheter
 - DN Direkt – Trump hotar Kanada med 100–procentig tull - Dagens Nyheter
 - Alla spårvagnar stoppades – ingen trafik via Stenpiren - gp.se
-- DN Direkt – Vita husets pingvinmiss på Grönland hånas - Dagens Nyheter
-- Här söker hundar efter den försvunna kvinnan på Hammarö: ”Finns inga spår” - nwt.se
+- Hennes dotter smygfilmades – barnskötaren skapade AI-porr - Aftonbladet
+- Ekot sänder direkt – Experterna svarar på lyssnarfrågor om världsläget - Sveriges Radio
+- En person förd till sjukhus efter skoterolycka - op.se
 - Snön gör comeback – större mängder i syd - vk.se
 - 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
-- Tre till sjukhus efter flera skoterolyckor i länet – en allvarligt skadad - SVT Nyheter
 - Flera körde rattfull i Hemavan - vk.se
-- Trump hotar Kanada med 100-procentiga tullar - gp.se
-- Starmer och Trump i öppet bråk om Natoinsats i Afghanistan - gp.se
+- 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
+- Dansk ilska över Trumps uttalande om Afghanistan: ”Oacceptabelt” - Dagens Nyheter
 - Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
-- Källa: Iran kommer hantera minsta attack som ”fullskaligt krig” – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Vita husets pingvinmiss på Grönland hånas - gp.se
 - Mobilt bredband rasar i pris – då ska du byta - sydsvenskan.se
-- Carl Johan von Seth: Världen har fått guldfeber – och det är ett dystert tecken - Dagens Nyheter
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
+- SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
 - Revansch för Ericsson – historiskt ras för Apotea - DI
 - INSÄNDARE: Alla äldre i Lilla Edet ska känna sig trygga - ttela.se
 - Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
+- Microsoft kan hjälpa myndigheter låsa upp krypterade Windows-datorer - Teknikveckan
 
 ## World News
 
@@ -39,37 +39,37 @@ _Updated: 2026-01-24 18:48_
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- UNDP lanserar läromedel om global utveckling - UNDP
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Nackdelar med AI-plattform: ❌ Viktiga nackdelar med Palantir för europeiska företag och institutioner 🏢🇪🇺 - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -104,18 +104,18 @@ _Updated: 2026-01-24 18:48_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -153,12 +153,12 @@ _Updated: 2026-01-24 18:48_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk - European Commission
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
