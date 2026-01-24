@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-24 16:51_
+_Updated: 2026-01-24 17:49_
 
-- Elvis Tipan Echeverria: 2-year-old taken into ICE custody with father in Minnesota and flown to Texas, lawyer says - CNN
-- China’s Highest-Ranking General Removed as Xi’s Military Purge Reaches the Top - The New York Times
+- How Soviet urban planning is helping Russia freeze Ukraine - BBC
+- Trump threatens Canada with 100% tariff over possible deal with China - The Guardian
+- Minnesota toddler taken into ICE custody with father and flown to Texas is returned to mother next day, lawyer says - CNN
+- Xi’s Purge of China’s Military Brings Its Top General Down - The New York Times
+- From Davos to Minneapolis to D.C., Trump is facing sharper pushback - The Washington Post
 - Winter Storm Fern Update: Delta makes schedule adjustments to Atlanta and Northeast regions - deltad8.prod.acquia-sites.com
-- SCHOOL CLOSINGS: These districts canceling, going virtual Monday - wsbtv.com
-- Pepper-Sprayed While Pinned Down: A Searing Scene Provokes Outrage - The New York Times
-- Snow, sleet, ice expected to lay down 'glacier' on Virginia ahead of bitterly cold temperatures - cardinalnews.org
-- Team Trump Is Livid After Canada’s Carney Calls Out U.S. Coercion - The Wall Street Journal
-- An Antarctic Mission to Recover a Robot’s Data - The New York Times
-- New Zealand landslides: Two killed and teens among the missing, police say - BBC
-- EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay - AP News
-- How the TikTok deal could tighten Trump’s cultural grip - Politico
+- Danish troops who fought alongside US forces feel betrayed, as Trump threatens Greenland and denigrates NATO - CNN
+- Shark attacks: How Sydney's beaches became a 'perfect storm' - BBC
+- Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan, authorities say - ABC News
+- Exclusive: US presses Bolivia to expel suspected Iranian spies, harden approach to militant groups, sources say - Reuters
+- Italy protests, recalls ambassador to Switzerland after New Year's bar fire suspect released - Reuters
+- Upstate NY gas station sells $2 million ticket for Friday’s Mega Millions - syracuse.com
+- 'Sell America' has sparked a FOMO-fueled rush to gold and silver among everyday investors - Business Insider
 - Toyota to recall around 162,000 US vehicles over faulty display screen - Reuters
-- Jamie Dimon is learning what happens when a CEO dares to defy Trump - CNN
-- Nestlé faces criminal investigation in Bordeaux after baby death - SWI swissinfo.ch
+- Why long-lasting power outages could be a big problem after the storm - The Washington Post
 - iPhone 17e May Not Suffer The Same Price Hike Fate As Apple’s Competitors As Company Is Rumored To Have Achieved A Supply Chain Efficiency Boost - Wccftech
 - Gemini with Personal Intelligence is awfully familiar - The Verge
-- Galaxy Z TriFold is coming to the US, check it out at these Samsung stores - SamMobile
+- You can try the Galaxy Z TriFold in these US stores starting January 23 - 9to5Google
 - Samsung Galaxy S26: The 7 rumored features that could make me switch - Mashable
-- Robert Redford remembered for his mentorship of new filmmakers at Sundance gala - AP News
-- ‘Mercy’ Eyes $12M+ Opening As Monster Winter Storm Forces 15 States To Declare States Of Emergency – Update - Deadline
+- Martha Stewart, 84, Breaks Her Silence on Plastic Surgery Rumors: "That's the Truth!" - AOL.com
