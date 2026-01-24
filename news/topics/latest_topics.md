@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 21:38_
+_Updated: 2026-01-24 22:43_
 
 ## Top Stories
 
 - Man skjuten till döds av federala agenter i Minneapolis - Dagens Nyheter
-- Alla spårvagnar stoppades – ingen trafik via Stenpiren - gp.se
 - ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
-- Flera demonstrationer i centrala Göteborg på lördagen - gp.se
-- En person förd till sjukhus efter skoterolycka - op.se
-- Ekot sänder direkt – Experterna svarar på lyssnarfrågor om världsläget - Sveriges Radio
-- Snön gör comeback – större mängder i syd - vk.se
+- Krögaren: Det borde ha slopats för fyra år sedan - SvD
+- 18-åring häktas för bomben i Rättvik - Aftonbladet
+- Hundratals demonstrerade i Malmö mot attacker på kurder i Syrien - sydsvenskan.se
+- Trump hotar Kanada med 100-procentiga tullar - gp.se
 - Det får du inte göra när ditt barn är på förskolan - gp.se
 - 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
+- Tre till sjukhus efter flera skoterolyckor i länet – en allvarligt skadad - SVT Nyheter
 - 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
+- Direkt – Krisen i Mellanöstern – Källor: USA-sändebud i Israel för Gazasamtal - Dagens Nyheter
 - Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
-- Västeråsare död i våldsamma protester - vlt.se
 - Vita husets pingvinmiss på Grönland hånas - gp.se
 - Kvinna gripen med guld på Arlanda - Expressen
 - Konflikter, oro och hot – varför stiger inte energipriserna mer? - Dagens Nyheter
-- Trump hotar Kanada med 100-procentiga tullar - Aftonbladet
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
+- SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
 - Norwegian ställer in flyg till Dubai - Expressen
 - Kvinna nekas retur av mobiltelefon – butikspersonal bröt förpackningen - borlangetidning.se
-- Har du använt AI för dejting, relationer eller intimitet? Helgens fråga. - feber.se
+- INSÄNDARE: Alla äldre i Lilla Edet ska känna sig trygga - ttela.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
@@ -52,14 +52,14 @@ _Updated: 2026-01-24 21:38_
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
@@ -123,7 +123,9 @@ _Updated: 2026-01-24 21:38_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -131,14 +133,12 @@ _Updated: 2026-01-24 21:38_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 
 ## Jordbruk
 
