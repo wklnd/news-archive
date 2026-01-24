@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 08:54_
+_Updated: 2026-01-24 09:41_
 
 ## Top Stories
 
 - ”Någon i USA har pratat allvar med Trump” – 30 frågor och svar om Grönlandskrisen - Dagens Nyheter
-- Pojke död i hajattack i Sydney - SVT Nyheter
 - Svenska Lonis, 28, bygger miljardärernas frihetsstad: ”Vi har egna lagar” - Aftonbladet
-- USA rustar för snöoväder: ”Förbered er” - SVT Nyheter
 - Direktören om larmen från äldreboendet: "Skulle ha agerat tidigare" - gp.se
-- Raif, 4 år, från Malmö utvisas ensam till Bosnien - sydsvenskan.se
+- ”Smartaste person jag någonsin har träffat” - SvD
+- En död efter nya attacker i Ukraina - vk.se
+- Lyxvilla vid golfbanan gick för 43 miljoner – dyraste husen på Näset 2025 - sydsvenskan.se
 - 24 januari 07.37, Sammanfattning natt, Östergötlands län - Polisen.se
-- 24 januari 07.37, Sammanfattning natt, Jönköpings län - Polisen.se
-- INSÄNDARE: Den moraliska nollpunkten – helvetets portar öppnades - kristianstadsbladet.se
+- Forskare kartlägger ödehus: "En del av något större" - Syre
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
+- 24 januari 07.37, Sammanfattning natt, Jönköpings län - Polisen.se
+- Pojke död i hajattack i Sydney - SVT Nyheter
 - När guldet är rekorddyrt kan Kenyas gruvarbetare tvingas bort - Dagens Nyheter
-- 100 präster gripna efter ICE-protester på flygplats - Omni
+- Femåring togs av ICE – Minnesota strejkar - gp.se
 - El- eller bensinbil – så mycket skiljer det i halka - Aftonbladet
 - Årets fattigaste månad: ”Vad unnar du dig när det blir lönehelg”? - helagotland.se
 - Sara, 18, drömmer om en egen mjölkgård: ”Väldigt stort ansvar” - op.se
 - Volvo får tillstånd att bygga batterifabrik i Mariestad - Sveriges Domstolar
+- Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
 - Svenske experten: Kör inte på hjulen - Carup.se
 - Forskare hittar 2,6 miljoner år gammalt fynd någon helt annanstans än de hade förväntat sig - Illustrerad Vetenskap
-- 382: SÖMNHYPNOS – för att somna och sova bättre, med Dan Ahtola - 4health.se
-- Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
 
 ## World News
 
@@ -35,13 +35,13 @@ _Updated: 2026-01-24 08:54_
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
+- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - UNDP
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
@@ -73,20 +73,20 @@ _Updated: 2026-01-24 08:54_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -102,7 +102,6 @@ _Updated: 2026-01-24 08:54_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -112,6 +111,7 @@ _Updated: 2026-01-24 08:54_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -153,6 +153,7 @@ _Updated: 2026-01-24 08:54_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-01-24 08:54_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
