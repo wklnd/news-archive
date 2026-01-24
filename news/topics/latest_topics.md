@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 05:47_
+_Updated: 2026-01-24 06:55_
 
 ## Top Stories
 
-- Svantesson om USA:s regering: ”Just nu litar vi inte på dem” - Dagens Nyheter
 - USA rustar för snöoväder: ”Förbered er” - SVT Nyheter
-- Trump skickar ”armada” mot Iran – hånas - Expressen
-- En död efter nya attacker i Ukraina - vk.se
-- Starmer och Trump i öppet bråk om Natoinsats i Afghanistan - gp.se
 - Politikern drogade och våldtog sin fru – tillsammans med andra män - Expressen
+- DN Direkt – Tusentals trotsade kylan i protest mot ICE i Minneapolis - Dagens Nyheter
+- Trump skickar ”armada” mot Iran – hånas - Expressen
+- Starmer och Trump i öppet bråk om Natoinsats i Afghanistan - gp.se
+- Man häktad för grova brott mot äldre i Huskvarna - Åklagarmyndigheten
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Nyheter från dagen: 23 januari - SVT Nyheter
 - Så mycket energidryck är okej för unga - norran.se
-- 23 januari 17.58, Trafikkontroll, Västerbottens län - Polisen.se
-- Kristersson om turbulensen om Grönland: ”Vi muckar inte gräl” - Dagens Nyheter
-- Provsvar om misstänkt SD-topp klara - Aftonbladet
+- Nyheter från dagen: 23 januari - SVT Nyheter
+- Person som hittades död var försvunnen kvinna - gp.se
 - Svensk saknas efter jordskred i Nya Zeeland - Aftonbladet
-- Kortbedrägerier ökar – drivmedelsstölder minskar - landskronadirekt.com
 - Trump ”räddade” Tiktok – tackar Xi - Aftonbladet
-- App för att bojkotta USA etta i Danmark. Rimligt. - feber.se
 - Volvo megauppdaterar miljontals bilar – gratis - Teknikens Värld
+- Dollarn under 9 kronor för första gången sedan 2022 - Omni
+- Trumps mäktiga vapen kan släcka Europa - DI
+- Forskare hittar 2,6 miljoner år gammalt fynd någon helt annanstans än de hade förväntat sig - Illustrerad Vetenskap
 - 382: SÖMNHYPNOS – för att somna och sova bättre, med Dan Ahtola - 4health.se
 - Enormt rymdteleskop gör stor upptäckt – kan utmana vad vi vet om svarta hål - Illustrerad Vetenskap
 - Nu kan du öva med favoritbandet. JBL släpper två små stärkare med vettig AI. - feber.se
+- Ny Mellofavorit veckan före premiär – här är vinnaroddsen - Cision News
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-01-24 05:47_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -73,20 +73,20 @@ _Updated: 2026-01-24 05:47_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
