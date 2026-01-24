@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 15:08_
+_Updated: 2026-01-24 15:48_
 
 ## Top Stories
 
-- Ulf Kristersson: ”Företagare är generade” – Senaste nytt om USA och Grönland - SVT Nyheter
 - Veckan då Europa höll gränsen och hittade självförtroendet - Dagens Nyheter
-- Carolina inreder sin lägenhet med döda katter och fåglar - gp.se
+- Ulf Kristersson: ”Företagare är generade” – Senaste nytt om USA och Grönland - SVT Nyheter
+- Anställd fick inte ta semester – bokade tåg och hotell på kommunens nota - sydsvenskan.se
+- ”Prestigeförlust” för Putin när vännerna vacklar - SvD
+- Svensk man befaras död i Nya Zeeland - SVT Nyheter
 - Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
-- Stopp för flygningar till Dubai - DI
-- ”Någon i USA har pratat allvar med Trump” – 30 frågor och svar om Grönlandskrisen - Dagens Nyheter
-- Mustchefen positiv till nya spionmyndigheten - Dagens Nyheter
+- 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
 - 24 januari 07.37, Sammanfattning natt, Östergötlands län - polisen.se
 - I NATT: Stökig start på helgen i Värmland: ”Bråk, misshandel och folk som inte kan sköta sig” - nwt.se
-- Dags att räkna talgoxar och domherrar i helgen – så enkelt hjälper du till - oskarshamns-nytt.se
+- Forskare kartlägger ödehus: "En del av något större" - Syre
+- Vita husets pingvinmiss på Grönland hånas - gp.se
+- Källor: FBI-agent som utredde Renee Goods död avgår efter påtryckning - Omni
 - Källa: Iran kommer hantera minsta attack som ”fullskaligt krig” – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Kvinna gripen med guld på Arlanda - Expressen
-- Hoppet ute för saknad svensk i Nya Zeeland - gp.se
-- Då är hajarna mest på hugget - gp.se
+- Dollarn under 9 kronor - DI
+- Mobilt bredband rasar i pris – då ska du byta - sydsvenskan.se
 - Carl Johan von Seth: Världen har fått guldfeber – och det är ett dystert tecken - Dagens Nyheter
-- Härmar du Chat GPT? Forskare hävdar att AI förändrar vårt språk - Expressen
-- Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
-- El- eller bensinbil – så mycket skiljer det i halka - Aftonbladet
+- Revansch för Ericsson – historiskt ras för Apotea - DI
+- Microsoft kan hjälpa myndigheter låsa upp krypterade Windows-datorer - Teknikveckan
 - Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
-- R-Type Dimensions III visar upp en ny maffig trailer inför släppet i maj - FZ.se
 
 ## World News
 
@@ -31,41 +31,41 @@ _Updated: 2026-01-24 15:08_
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - UNDP
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
@@ -75,24 +75,24 @@ _Updated: 2026-01-24 15:08_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -148,17 +148,17 @@ _Updated: 2026-01-24 15:08_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Framtidens jordbruk - European Commission
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
