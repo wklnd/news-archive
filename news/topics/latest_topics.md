@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-24 20:52_
+_Updated: 2026-01-24 21:38_
 
 ## Top Stories
 
-- Ulf Kristersson: ”Företagare är generade” – Senaste nytt om USA och Grönland - SVT Nyheter
-- Federala agenter sköt man i Minneapolis - vk.se
-- Person hittad död vid motionsspår - gp.se
+- Man skjuten till döds av federala agenter i Minneapolis - Dagens Nyheter
+- Alla spårvagnar stoppades – ingen trafik via Stenpiren - gp.se
+- ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
 - Flera demonstrationer i centrala Göteborg på lördagen - gp.se
+- En person förd till sjukhus efter skoterolycka - op.se
 - Ekot sänder direkt – Experterna svarar på lyssnarfrågor om världsläget - Sveriges Radio
-- 18-åring häktas för bomben i Rättvik - Aftonbladet
 - Snön gör comeback – större mängder i syd - vk.se
 - Det får du inte göra när ditt barn är på förskolan - gp.se
-- 24 januari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- Tre till sjukhus efter flera skoterolyckor i länet – en allvarligt skadad - SVT Nyheter
-- Dansk ilska över Trumps uttalande om Afghanistan: ”Oacceptabelt” - Dagens Nyheter
-- Trump hotar Kanada med 100-procentiga tullar - gp.se
-- Direkt – Krisen i Mellanöstern – Källor: USA-sändebud i Israel för Gazasamtal - Dagens Nyheter
-- Över en miljon strömlösa efter ryska attacker - SVT Nyheter
+- 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
+- 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
+- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- Västeråsare död i våldsamma protester - vlt.se
+- Vita husets pingvinmiss på Grönland hånas - gp.se
+- Kvinna gripen med guld på Arlanda - Expressen
 - Konflikter, oro och hot – varför stiger inte energipriserna mer? - Dagens Nyheter
+- Trump hotar Kanada med 100-procentiga tullar - Aftonbladet
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
-- SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
-- Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
+- Norwegian ställer in flyg till Dubai - Expressen
 - Kvinna nekas retur av mobiltelefon – butikspersonal bröt förpackningen - borlangetidning.se
 - Har du använt AI för dejting, relationer eller intimitet? Helgens fråga. - feber.se
 
@@ -33,29 +33,29 @@ _Updated: 2026-01-24 20:52_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
@@ -64,11 +64,11 @@ _Updated: 2026-01-24 20:52_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Oron: Då tar datan på internet slut - SvD
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
-- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- From AI to Blockchain to Quantum Computing: Globant Reveals Its 2024 Tech Trends (PR Newswire) - Aktiellt
+- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
@@ -102,16 +102,16 @@ _Updated: 2026-01-24 20:52_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
