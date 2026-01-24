@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-24 01:51_
+_Updated: 2026-01-24 04:31_
 
+- Monster storm about to hit millions with catastrophic ice and heavy snow - CNN
+- U.K., including Prince Harry, voices outrage at Trump’s Afghanistan remarks - The Washington Post
+- Ukraine war: High stakes but low expectations for Ukraine talks with Russia and US - BBC
+- FBI Agent Resigns After Trying to Investigate ICE Officer in Renee Good Shooting - The New York Times
+- ICE has been entering homes without judicial warrants since last summer, sources say - NBC News
+- Storm timeline shows when snow is forecast to start and end in Massachusetts this weekend - CBS News
 - Hundreds of Minnesota Businesses on Strike in Protest Against ICE - The New York Times
-- Live updates: House rejects Democratic-backed Venezuela war powers resolution - AP News
-- Trump’s Investigator Breaks His Silence - The New York Times
-- Trump administration weighs naval blockade to halt Cuban oil imports - Politico
+- DHS pauses cuts to FEMA as massive winter storm barrels in - The Washington Post
 - Metro Atlanta under ice storm warning as region braces for winter weather - wabe.org
-- Philadelphia sues after slavery exhibits were taken down from President's House site - NBC News
+- Vance addresses criticism that Trump admin has not done enough to move anti-abortion rights agenda forward - ABC News
 - Kushner’s vision for rebuilding Gaza faces major obstacles - AP News
-- Inside USA House: The converted church that left a MAGA mark on Davos - The Washington Post
+- On Greenland, Europe stood up, Trump blinked, and the E.U. learned a lesson - The Washington Post
+- Pentagon no longer views China threat as top priority - Politico
 - Iran protests: Eyewitness tells of people getting shot - BBC
-- Bari Weiss’s CBS News Won’t Even Condemn Israel for Killing a CBS Contributor - Zeteo | Substack
+- Goldman Sachs Boosts CEO Solomon’s Pay 21% to $47 Million - Bloomberg.com
+- Meta pauses teen access to AI characters ahead of new version - TechCrunch
 - Jamie Dimon is learning what happens when a CEO dares to defy Trump - CNN
-- Wall Street cheers end of Trump’s Greenland drama; hopes Supreme Court will kill the other tariffs - Fortune
-- The Chevy Bolt EV never got a fighting chance as GM flips back to gas cars - Electrek
-- Young will suffer most when AI ‘tsunami’ hits jobs, says head of IMF - The Guardian
-- Google Photos’ latest feature lets you meme yourself - TechCrunch
+- 'Jobs, jobs, jobs' the AI mantra as fears take back seat in Davos - Reuters
+- Google Photos can now turn you into a meme - Engadget
 - GeForce Now adds support for flight controllers - Engadget
-- Report: Apple plans to launch AI-powered wearable pin device as soon as 2027 - Ars Technica
-- The Math on AI Agents Doesn’t Add Up - WIRED
-- Sundance Film Festival 2026: All Of Deadline’s Movie Reviews - Deadline
-- Delroy Lindo: the Sinners Oscar nominee who could make Spike Lee’s secret British weapon rather less secret - The Guardian
