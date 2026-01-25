@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 08:55_
+_Updated: 2026-01-25 09:42_
 
 ## Top Stories
 
 - DN Direkt – Vill stoppa pengar till ICE: Stridslystna agenter - Dagens Nyheter
-- Skador på fastighet efter explosion i Upplands Väsby - SVT Nyheter
-- Strömmen delvis tillbaka på Grönland - vk.se
+- Larm om explosion i Upplands Väsby – rutor krossade - SVT Nyheter
+- 25 januari 08.10, Sammanfattning natt, Jämtlands län - polisen.se
 - 25 januari 07.15, Sammanfattning natt, Västerbottens län - polisen.se
-- ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
-- Körkort beslagtogs under trafikkontroll - kuriren.nu
 - Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
+- ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
+- 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
 - Räddningsinsats utanför Halmstad – tonåringar drev ut på havet - SVT Nyheter
 - Kyrkan behöver fler präster, inte färre - Kyrkans Tidning
-- VECKANS NATUR: Vinterfåglar inpå knuten - tidningenvastsverige.se
+- 24 januari 07.37, Sammanfattning natt, Södermanlands län - polisen.se
 - Finskt larm: Ryskt hot mot väst efter Ukrainakriget - Dagens Nyheter
 - Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
-- Kristersson: Företagare i USA generade av krisen - gp.se
+- Strömmen delvis tillbaka på Grönland - Aftonbladet
 - Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
 - Karin och Lucas har byggt på huset i 35 år - Dagens Nyheter
 - SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
-- Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
-- Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
+- Krutfabriken kan ge 450 jobb till den östvärmländska orten: ”Bra geografiskt läge” - vf.se
+- Trump hotar Kanada med 100-procentiga tullar - gp.se
 - Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
 - Prince of Persia: The lost Crown - FZ.se
 
 ## World News
 
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -99,23 +99,23 @@ _Updated: 2026-01-25 08:55_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-25 08:55_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
