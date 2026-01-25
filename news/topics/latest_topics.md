@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 15:50_
+_Updated: 2026-01-25 16:44_
 
 ## Top Stories
 
-- SMHI: Orange varning för snö i söder - SVT Nyheter
-- JUST NU: Brand i villa – två personer skadade: ”Rökfyllt i huset” - nwt.se
+- Hur starka är EU:s ekonomiska muskler mot USA? - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Kreml: Kommer aldrig diskutera med Kallas - Dagens Nyheter
+- Dök upp i kaoset – nazianklagelsen - Expressen
 - Jordbruket hotas när gässen väljer Skåne före Spanien - sydsvenskan.se
 - 25 januari 12.30, Trafikkontroll, Västernorrlands län - Polisen.se
-- 25 januari 08.10, Sammanfattning natt, Jämtlands län - Polisen.se
-- INSÄNDARE: ¨Förhindra övergrepp inom hemtjänsten” - helagotland.se
+- Därför är polismakten i USA så splittrad - Dagens Nyheter
+- SMHI: Orange varning för snö i söder - SVT Nyheter
 - Hemvärnet växer - ”försvarsviljan hög” - gp.se
+- 25 januari 08.10, Sammanfattning natt, Jämtlands län - Polisen.se
 - Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
-- Körkort beslagtogs under trafikkontroll - kuriren.nu
-- 25 januari 07.15, Sammanfattning natt, Västerbottens län - Polisen.se
+- EU satsar på ”alla avtals moder” med Indien - vk.se
+- ”Trumps fokus kan lyfta Grönland” - SvD
 - Ambassadör Nina Nordström: Israels armé i full beredskap - Hufvudstadsbladet
 - Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
-- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
-- Vita husets pingvinmiss på Grönland hånas - gp.se
-- Expert: Jättarnas AI-investeringar ett frågetecken - sydsvenskan.se
-- Hotet mot framtidens pension – kan bli svårt att leva på - Dagens PS
 - Drömmen om sommarstugan vaknar till liv – i vissa län slår priserna rekord - Börskollen
 - ”Investeringsnischer som står stabila i tullkaoset” - Omni Ekonomi
-- The Office har nu kommit till Fortnite. Michael och Dwight har landat i spelet med nya skins. - feber.se
+- Sägs vara bakteriehärd − det här visar testerna - SvD
+- Privatleasingklippen som du kan göra just nu - Aftonbladet
+- V64 Tips Romme Måndag 26/1 - Travcash
 - Hur får vi fler att betala för längdspåren i naturen? - borlangetidning.se
 
 ## World News
@@ -31,7 +31,6 @@ _Updated: 2026-01-25 15:50_
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
@@ -42,32 +41,33 @@ _Updated: 2026-01-25 15:50_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 
@@ -102,7 +102,6 @@ _Updated: 2026-01-25 15:50_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -114,8 +113,9 @@ _Updated: 2026-01-25 15:50_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
