@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 07:16_
+_Updated: 2026-01-25 07:55_
 
-- Large protests spread across US after Alex Pretti fatally shot by federal agents - The Guardian
-- Gun Activists Bridle at Suggestion That Pistol Justified Killing - The New York Times
 - How much snow is Boston getting this weekend? Here's a closer look at the Massachusetts forecast. - CBS News
+- Appeals court rejects DOJ’s emergency bid to arrest Don Lemon, church demonstrators - Politico
+- Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues - The New York Times
+- Winter storm timeline for New York, New Jersey shows when heaviest snow will hit this weekend - CBS News
+- Gun Activists Bridle at Suggestion That Pistol Justified Killing - The New York Times
 - StormTracker8: Snow and sleet tonight, freezing rain all day Sunday - wric.com
-- How Soviet urban planning is helping Russia freeze Ukraine - BBC
-- Level 1 Driving Warning Statewide at Midnight - news.delaware.gov
 - Ukrainian officials call talks with U.S. and Russia "positive" and "constructive" - Axios
 - Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times
-- Governor Hochul Updates New Yorkers on State Preparations Ahead of Massive Winter Storm - governor.ny.gov
+- Large protests spread across US after Alex Pretti fatally shot by federal agents - The Guardian
 - Republicans are worried about Trump’s deportation campaign, and our new poll shows why - Politico
-- Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues - The New York Times
+- American rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes - AP News
 - Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan - NPR
-- EU concerned about Trump 'concentration of powers' over 'Board of Peace', document says - Reuters
+- How a fiery Scott Bessent calmed market nerves over Greenland - CNN
 - Vietnam’s Leader Consolidates Power, Pledging ‘New Era of Prosperity’ - The New York Times
+- U.S. to inject $1.6 billion into rare earths miner for 10% stake, FT reports - CNBC
 - Americans are now betting on winter storm totals on Polymarket and Kalshi - Axios
 - Five ways weight-loss jabs are changing spending habits - BBC
-- Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
-- Why long-lasting power outages could be a big problem after the storm - The Washington Post
-- Gmail Glitch Appears to Break Email Filtering, Tabbed Inboxes - PCMag
+- Stock Market News for Jan. 23, 2026: Dow Drops; Intel Stock Slides - The Wall Street Journal
+- Gmail is having issues with spam and misclassification - TechCrunch
 - Alert! Alert! - The New York Times
