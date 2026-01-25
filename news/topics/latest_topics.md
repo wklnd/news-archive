@@ -1,38 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 16:44_
+_Updated: 2026-01-25 17:42_
 
 ## Top Stories
 
+- SMHI: Orange varning för snö i söder - SVT Nyheter
 - Hur starka är EU:s ekonomiska muskler mot USA? - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Kreml: Kommer aldrig diskutera med Kallas - Dagens Nyheter
-- Dök upp i kaoset – nazianklagelsen - Expressen
-- Jordbruket hotas när gässen väljer Skåne före Spanien - sydsvenskan.se
 - 25 januari 12.30, Trafikkontroll, Västernorrlands län - Polisen.se
-- Därför är polismakten i USA så splittrad - Dagens Nyheter
-- SMHI: Orange varning för snö i söder - SVT Nyheter
-- Hemvärnet växer - ”försvarsviljan hög” - gp.se
+- Jordbruket hotas när gässen väljer Skåne före Spanien - sydsvenskan.se
 - 25 januari 08.10, Sammanfattning natt, Jämtlands län - Polisen.se
+- Hemvärnet växer - ”försvarsviljan hög” - gp.se
 - Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
-- EU satsar på ”alla avtals moder” med Indien - vk.se
-- ”Trumps fokus kan lyfta Grönland” - SvD
+- Flera bilar i trafikolycka bredvid sjukhuset i Kalix - nsd.se
+- Personbil fick sladd vid Dvärsätt – blev påkörd av lastbil - SVT Nyheter
+- Upplagt för jätteavtal mellan EU och Indien - DI
 - Ambassadör Nina Nordström: Israels armé i full beredskap - Hufvudstadsbladet
 - Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
+- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- Pensionen bra – men bara i teorin: "Äldre hamnar i fattigdom" - News55
+- DEBATT: Riksbanken behöver mer fakta om hushållens ekonomi - DI
 - Drömmen om sommarstugan vaknar till liv – i vissa län slår priserna rekord - Börskollen
 - ”Investeringsnischer som står stabila i tullkaoset” - Omni Ekonomi
-- Sägs vara bakteriehärd − det här visar testerna - SvD
-- Privatleasingklippen som du kan göra just nu - Aftonbladet
-- V64 Tips Romme Måndag 26/1 - Travcash
-- Hur får vi fler att betala för längdspåren i naturen? - borlangetidning.se
+- Säsongspremiär för forskning i kortformat - folkbladet.nu
+- Honor lanserar Magic V6 tidigare än väntat - mobil.se
 
 ## World News
 
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -40,13 +41,12 @@ _Updated: 2026-01-25 16:44_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -102,6 +102,7 @@ _Updated: 2026-01-25 16:44_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2026-01-25 16:44_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -143,13 +143,12 @@ _Updated: 2026-01-25 16:44_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -162,3 +161,4 @@ _Updated: 2026-01-25 16:44_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
