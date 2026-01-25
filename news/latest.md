@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 13:48_
+_Updated: 2026-01-25 15:20_
 
 - How much snow is Boston getting this weekend? Here's a closer look at the Massachusetts forecast. - CBS News
 - StormTracker8: Snow and sleet tonight, freezing rain all day Sunday - wric.com
 - Stream live on WCNC+ | Ice storm coverage in Charlotte, across Carolinas - wcnc.com
 - New Jersey Transit announces suspension plans for Sunday amid winter storm - abc7ny.com
 - Takeaways from the first Texas Senate Democratic primary debate - CNN
-- Forecast shift: Even more ice is now expected in South Texas - expressnews.com
-- Governor Hochul Updates New Yorkers on State Preparations Ahead of Massive Winter Storm - governor.ny.gov
+- Governor Lamont Declares State of Emergency, Limits Commercial Vehicle Travel Ahead of Approaching Major Winter Storm - portal.ct.gov
+- As sun sets across North Texas, icy roads, dangerous cold, sleet to ramp up - dallasnews.com
 - Immigrant families protest inside Texas facility housing 5-year-old boy, father detained in Minnesota - texastribune.org
 - Ukrainian officials call talks with U.S. and Russia "positive" and "constructive" - Axios
-- Appeals Court Rejects Justice Dept. Push for Arrest Warrant for Don Lemon - The New York Times
+- As we return to a pre-WW2 order, the middle powers face a challenge - BBC
+- Let public buy war bonds to raise £20bn for defence, say Lib Dems - BBC
 - Trump backed down from NATO tariffs over Greenland but may cross a 'red line' on U.S. military bases there - Fortune
+- Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan - NPR
 - How a fiery Scott Bessent calmed market nerves over Greenland - CNN
-- Iran Update, January 24, 2026 - Institute for the Study of War
-- Wife of Uganda’s opposition leader describes moment armed men attacked her at home - AP News
-- Five ways weight-loss jabs are changing spending habits - BBC
+- S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins - The New York Times
 - Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
+- Five ways weight-loss jabs are changing spending habits - BBC
 - TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means - TechCrunch
-- How will the finished 2 Line impact daily commutes across Lake Washington? - komonews.com
 - Alert! Alert! - The New York Times
-- Ranking the Xenoblade Chronicles games, from best to worst - Nintendo Everything
+- ARC Raiders Roadmap: January - April 2026 - ARC Raiders
