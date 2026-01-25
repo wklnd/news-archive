@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 11:44_
+_Updated: 2026-01-25 12:47_
 
 ## Top Stories
 
 - Villaägare i Askim rasar: "Kommer bli som en mur" - gp.se
-- Demokraterna kan stoppa finansieringen av ICE - Omni
+- De reser till USA – när andra bojkottar: "Definitivt en annan typ av klimat” - gp.se
+- DN Direkt – Vill stoppa pengar till ICE: Stridslystna agenter - Dagens Nyheter
+- INSÄNDARE: ¨Förhindra övergrepp inom hemtjänsten” - helagotland.se
 - 25 januari 08.10, Sammanfattning natt, Jämtlands län - polisen.se
-- 25 januari 07.15, Sammanfattning natt, Västerbottens län - polisen.se
 - Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
-- ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
 - Tåg körde över man i Gamla stan – kunde krypa fram oskadd - SVT Nyheter
-- SMHI: Då kommer mer snö i Göteborg - gp.se
+- 25 januari 07.15, Sammanfattning natt, Västerbottens län - polisen.se
 - 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
-- DN Direkt – Larm om explosion i Upplands Väsby - Dagens Nyheter
+- 25 januari 08.11, Sammanfattning natt, Jönköpings län - polisen.se
+- Ledare: Glöm inte Ukraina i vinterkylan - hn.se
+- Upplagt för jätteavtal mellan EU och Indien - DI
+- Beskedet i Nuuk: Mette Frederiksen hoppas på avtal med Trump - Altinget.se
 - Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
-- Davos början till slutet för Trump - Kvartal
-- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
-- Strömmen delvis tillbaka på Grönland - Aftonbladet
-- Han var Teslas största fan – nu satsar han allt på robotar och flygande bilar - Dagens PS
 - Carl Johan von Seth: Världen har fått guldfeber – och det är ett dystert tecken - Dagens Nyheter
-- Karin och Lucas har byggt på huset i 35 år - Dagens Nyheter
+- Han var Teslas största fan – nu satsar han allt på robotar och flygande bilar - Dagens PS
+- SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
 - Hotet mot framtidens pension – kan bli svårt att leva på - Dagens PS
-- Ännu en Nintendo-veteranen Hideki Konno lämnar industrin - FZ.se
-- Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
+- Hur får vi fler att betala för längdspåren i naturen? - borlangetidning.se
+- Digital kapprustning: Här är AI-tjänster från fem länder - PC för Alla
 
 ## World News
 
@@ -41,11 +41,11 @@ _Updated: 2026-01-25 11:44_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Uppgifter: CK Hutchison kan dela upp global hamnaffär - BN - Börsvärlden
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
@@ -76,11 +76,11 @@ _Updated: 2026-01-25 11:44_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -100,6 +100,7 @@ _Updated: 2026-01-25 11:44_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
@@ -113,7 +114,6 @@ _Updated: 2026-01-25 11:44_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
@@ -124,7 +124,6 @@ _Updated: 2026-01-25 11:44_
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -139,16 +138,17 @@ _Updated: 2026-01-25 11:44_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -157,8 +157,8 @@ _Updated: 2026-01-25 11:44_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
