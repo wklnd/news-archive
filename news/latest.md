@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 23:49_
+_Updated: 2026-01-26 00:52_
 
-- Minneapolis live: Protesters gather in Minneapolis as governor calls on Trump to remove agents after shooting - BBC
-- Scenes From the Winter Storm - The New York Times
+- Ice storm knocks out power to over 1 million as snow and sleet pour down in Northeast - CNN
 - Bondi seeks Minnesota voter rolls, welfare data to "help bring back law and order" in wake of shootings - CBS News
-- 'Fundamentally wrong:' Gun groups, Republicans condemn Noem, Patel statements - Axios
-- Exclusive | China’s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal
-- Ice storm arrives in Georgia bringing thousands of power outages in metro Atlanta - wabe.org
+- In Minneapolis, Trump Administration’s ICE Crackdown Shows the U.S. Unraveling - The New York Times
+- Ice storm in Georgia causing tens of thousands of power outages in metro Atlanta - wabe.org
+- China’s military says top general undermined Xi Jinping’s authority - Financial Times
+- Appeals court rejects DOJ’s emergency bid to arrest Don Lemon, church demonstrators - Politico
+- Winter storm live updates for NYC and Tri-State Area as snow, sleet and dangerous cold take over - CBS News
+- UPDATED: Preliminary snow and sleet totals from around Northern Virginia - insidenova.com
 - Eleanor Holmes Norton Files to End Re-election Campaign - The New York Times
 - Philadelphia snow updates: Latest forecast, storm timing, travel impact and more - whyy.org
-- Which places in the DC region got the most snow? - wtop.com
-- Trump, in retreat, praises U.K. troops after royal family expresses hurt - The Washington Post
-- Starmer leadership rival Burnham blocked from seeking return to UK parliament - Reuters
-- News Analysis: A playbook emerges to counter Trump as ‘middle powers’ unite - latimes.com
-- Davey says war bonds would help to speed up UK defence spending - BBC
-- Boys collecting firewood in Gaza killed by Israeli fire - CNN
+- Chris Mason: Burnham saga unlikely to be last act in drama of Starmer's leadership - BBC
+- Trump tariffs live updates: Trump threatens 100% tariffs on Canada over China deal; Carney reiterates Canada commitment to USMCA - Yahoo Finance
+- Bessent: Greenland deal is ‘much more fulsome’ for the US - ABC News
+- Party backed by generals set for landslide in 'sham' Myanmar election - BBC
 - How Americans are using AI at work, according to a new Gallup poll - AP News
-- The CEO of a $2 billion healthcare firm only felt rich after he paid off $100K in student loans—but that joy ‘disappeared’ in less than 3 days - Yahoo Finance
-- Earnings week ahead: TSLA, META, MSFT, AAPL, T, BA, V, MA, GM, CVX, XOM, and more - Seeking Alpha
-- Did everyone forget about DeepSeek? What Wall Street is getting wrong about Chinese AI. - MarketWatch
+- What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings From Microsoft, Meta, Tesla, Apple - Investopedia
+- Trump's JPMorgan lawsuit underscores his growing clash with Wall Street - Reuters
+- Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
 - Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead - CNET
 - Apple will reportedly unveil its Gemini-powered Siri assistant in February - TechCrunch
