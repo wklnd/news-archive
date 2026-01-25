@@ -1,6 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 19:43_
+_Updated: 2026-01-25 20:52_
+
+## Top Stories
+
+- Grannarnas oro för mammutträdet på Fridhem: ”Ont i hjärtat” - sydsvenskan.se
+- Löpte amok på Wandas – och attackerade gäster - gp.se
+- Spelsajten: 28 procent att skytten åtalas - svd.se
+- Stenregnet mot bilarna på turistön - Expressen
+- Vild vecka summeras – bara spillror återstår av det som en gång var vänskap - Omni Ekonomi
+- Drunkningslarm i Sigtuna och Norrtälje - SVT Nyheter
+- Stormarna lämnade dödsfällor – nu sprängs de bort - Dagens Nyheter
+- 25 januari 12.30, Trafikkontroll, Västernorrlands län - polisen.se
+- 25 januari 08.10, Sammanfattning natt, Jämtlands län - polisen.se
+- Brand i villa – äldre kvinna förd till sjukhus med brännskador - nwt.se
+- DN Direkt – Japans sista pandor lämnar för Kina - Dagens Nyheter
+- Ambassadör Nina Nordström: Israels armé i full beredskap - Hufvudstadsbladet
+- Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
+- Vita husets pingvinmiss på Grönland hånas - gp.se
+- Volkswagen rensar ut styrelsen – en tredjedel försvinner - motormagasinet.se
+- Drömmen om sommarstugan vaknar till liv – i vissa län slår priserna rekord - Börskollen
+- Elias, 23, omsätter miljoner: ”Jag ville bli rikaste syskonet” - Aftonbladet
+- Januari pressar ekonomin – många söker hjälp - moratidning.se
+- Företag ska stoppas från att fultippa på Munkegärde - kungalvsposten.se
+- Köpte gummibjörnar på nätet – innehöll narkotika - gd.se
 
 ## World News
 
@@ -18,11 +41,11 @@ _Updated: 2026-01-25 19:43_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -76,22 +99,22 @@ _Updated: 2026-01-25 19:43_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
