@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 23:41_
+_Updated: 2026-01-26 00:45_
 
 ## Top Stories
 
 - Väktarnotan vid äldreboendet i Göteborg – så hög är kostnaden - gp.se
 - Grannarnas oro för mammutträdet på Fridhem: ”Ont i hjärtat” - sydsvenskan.se
-- Xi gör sig av med toppgeneral – efter Trumps besked - Expressen
-- Löpte amok på Wandas – och attackerade gäster - gp.se
-- Var tredje Trumpväljare protesterar – mardröm för Vita huset - Marcus Oscarsson
 - Nya ”gåvan till världen” väcker svåra frågor - SvD
-- Larm om skjutning i Södertälje – inget tyder på skottlossning - SVT Nyheter
+- Löpte amok på Wandas – och attackerade gäster - gp.se
+- DN Direkt – Socialdemokraternas partilokal i Mjölby vandaliserad - Dagens Nyheter
+- Nathan Shachar: Trumps medlare i Israel serverar Netanyahu bittra piller - Dagens Nyheter
 - 25 januari 12.30, Trafikkontroll, Västernorrlands län - Polisen.se
 - 25 januari 08.10, Sammanfattning natt, Jämtlands län - Polisen.se
 - Brand i villa – äldre kvinna förd till sjukhus med brännskador - nwt.se
+- Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
+- Obama om dödsskjutningen: ”Detta måste få ett slut” - SVT Nyheter
 - Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
+- Direkt – Krisen i Mellanöstern – Löften om återställt internet i Iran inom kort - Dagens Nyheter
 - Ambassadör Nina Nordström: Israels armé i full beredskap - Hufvudstadsbladet
-- DN Direkt – Trump hotar Kanada med 100–procentig tull - Dagens Nyheter
-- Vita husets pingvinmiss på Grönland hånas - gp.se
 - Experten: AI-miljarderna sätter techjättar på prov - Omni
-- Kartläggning: Här är skillnaderna mellan EU:s och USA:s ekonomier - Tidningen Näringslivet
+- Hotet mot framtidens pension – kan bli svårt att leva på - Dagens PS
 - Arctic bygger upp svensk aktieverksamhet – rekryterar profiler - DI
-- Elköp per kvart kyler av räkningen: ”Tusenlappar” - DI
+- Experten: Utan AI-kompetens blir det svårare att konkurrera om jobben - Tidningen Näringslivet
 - Yoshi dyker upp i Marios filmvärld - Aftonbladet
 - Företag ska stoppas från att fultippa på Munkegärde - kungalvsposten.se
 
@@ -31,10 +31,10 @@ _Updated: 2026-01-25 23:41_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
@@ -45,7 +45,7 @@ _Updated: 2026-01-25 23:41_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -66,9 +66,9 @@ _Updated: 2026-01-25 23:41_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- From AI to Blockchain to Quantum Computing: Globant Reveals Its 2024 Tech Trends (PR Newswire) - Aktiellt
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -102,10 +102,10 @@ _Updated: 2026-01-25 23:41_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -145,8 +145,8 @@ _Updated: 2026-01-25 23:41_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -157,8 +157,8 @@ _Updated: 2026-01-25 23:41_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
