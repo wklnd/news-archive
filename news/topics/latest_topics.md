@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 06:37_
+_Updated: 2026-01-25 07:50_
 
 ## Top Stories
 
+- Strömmen delvis tillbaka på Grönland - vk.se
 - ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
+- Finskt larm: Ryskt hot mot väst efter Ukrainakriget - SvD
 - Körkort beslagtogs under trafikkontroll - kuriren.nu
-- Kristersson: Företagare i USA generade av krisen - gp.se
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Raymonds succé fortsätter – nya poäng för Detroit - Aftonbladet
-- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- Grönland pekas ut i USA:s nya försvarsstrategi – Senaste nytt om USA och Grönland - SVT Nyheter
 - Över 100 000 anmälda till högskoleprovet - vk.se
+- Universitetet om studentfusket: ”Helt oacceptabelt” - SVT Nyheter
+- Kyrkan behöver fler präster, inte färre - Kyrkans Tidning
 - 24 januari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- Alla spårvagnar stoppades – ingen trafik via Stenpiren - gp.se
-- Tre till sjukhus efter flera skoterolyckor i länet – en allvarligt skadad - SVT Nyheter
-- Vill stoppa pengar till ICE: Stridslystna agenter - gp.se
-- Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
+- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
 - Zelenskyj: Nya samtal kan hållas nästa vecka - Expressen
-- Hotar med tullar på 100 procent - Expressen
-- Mobilt bredband rasar i pris – då ska du byta - sydsvenskan.se
+- USA rustar för snöoväder: "Förbered er" - gp.se
+- Vita husets pingvinmiss på Grönland hånas - gp.se
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
 - Revansch för Ericsson – historiskt ras för Apotea - DI
 - Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
-- Prince of Persia: The lost Crown - FZ.se
+- Ny försvagning av dollarn – under nio kronor - sydsvenskan.se
 - Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
+- Prince of Persia: The lost Crown - FZ.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - UNDP
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
@@ -99,7 +99,7 @@ _Updated: 2026-01-25 06:37_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
@@ -123,7 +123,6 @@ _Updated: 2026-01-25 06:37_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -133,6 +132,7 @@ _Updated: 2026-01-25 06:37_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -148,6 +148,7 @@ _Updated: 2026-01-25 06:37_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -158,7 +159,6 @@ _Updated: 2026-01-25 06:37_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
