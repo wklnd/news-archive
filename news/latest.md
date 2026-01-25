@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 01:49_
+_Updated: 2026-01-25 05:02_
 
-- School closings and delays around Mass. - wcvb.com
+- Democrats threaten government shutdown over ICE funding - Axios
+- Trump threatens Canada with 100% tariffs if it 'makes a deal with China' - BBC
+- Appeals court declines to order lower court to sign arrest warrants against Don Lemon, others in church protest - CBS News
+- How much snow are Boston and Massachusetts getting this weekend? - CBS News
 - How Soviet urban planning is helping Russia freeze Ukraine - BBC
-- ICE surge creates new headache for Maine’s Susan Collins - The Washington Post
-- Thousands rally against immigration enforcement in subzero Minnesota temperatures - Politico
-- Minnesota toddler taken into ICE custody with father and flown to Texas is returned to mother next day, lawyer says - CNN
-- China’s Xi Places His Top General Under Investigation as Military Purges Heat Up - The Wall Street Journal
+- Trump praises British troops after drawing outrage at comments downplaying NATO’s role in Afghanistan - CNN
+- Ukrainian officials call talks with U.S. and Russia "positive" and "constructive" - Axios
+- Forecast shift: Even more ice is now expected in South Texas - expressnews.com
 - Updated hour-by-hour look at winter ice storm in Virginia - wtvr.com
-- N.J. weather: Latest snow totals predicted by 11 forecasters for the looming winter storm - nj.com
-- Weather, Chicago snow forecast: Lake-effect snow expected in area as Winter Storm Warning impacts several states - abc7chicago.com
-- WHO statement on notification of withdrawal of the United States - World Health Organization (WHO)
-- Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
-- UN rights body censures Iran's 'brutal repression' of protests - Reuters
+- What legal rights do you have in encounters with ICE? Legal experts weigh in - PBS
+- Italy protests, recalls ambassador to Switzerland after New Year's bar fire suspect released - Reuters
+- How a fiery Scott Bessent calmed market nerves over Greenland - CNN
+- Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan, authorities say - ABC News
 - Tragic chapter on the trains sends rail superpower Spain into crisis - BBC
-- Pope Leo warns of ‘overly affectionate’ AI chatbots - CNN
-- Sprawling US Winter Storm Strains Power Grids, Snarls Travel - Bloomberg
-- Did everyone forget about DeepSeek? What Wall Street is getting wrong about Chinese AI. - MarketWatch
 - Americans are now betting on winter storm totals on Polymarket and Kalshi - Axios
 - Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
-- Gmail Glitch Appears to Break Email Filtering, Tabbed Inboxes - PCMag
-- Silver Anniversary Content Creator Guide - Halo Waypoint
+- Nvidia CEO Jensen Huang in Shanghai amid China regulatory headwinds - Reuters
+- Why long-lasting power outages could be a big problem after the storm - The Washington Post
+- Alert! Alert! - The New York Times
+- The Many Paths to Pro Tour Lorwyn Eclipsed - MAGIC PLAY
