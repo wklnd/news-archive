@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-26 00:52_
+_Updated: 2026-01-26 01:51_
 
-- Ice storm knocks out power to over 1 million as snow and sleet pour down in Northeast - CNN
-- Bondi seeks Minnesota voter rolls, welfare data to "help bring back law and order" in wake of shootings - CBS News
+- Snow and sleet pour down in Northeast after ice storm knocked out power to more than 1 million - CNN
+- NRA and pro-gun groups call for ‘full investigation’ into killing of Alex Pretti - The Guardian
 - In Minneapolis, Trump Administration’s ICE Crackdown Shows the U.S. Unraveling - The New York Times
+- Exclusive | China’s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal
 - Ice storm in Georgia causing tens of thousands of power outages in metro Atlanta - wabe.org
-- China’s military says top general undermined Xi Jinping’s authority - Financial Times
-- Appeals court rejects DOJ’s emergency bid to arrest Don Lemon, church demonstrators - Politico
-- Winter storm live updates for NYC and Tri-State Area as snow, sleet and dangerous cold take over - CBS News
+- Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs - AP News
+- Columbia Selects University of Wisconsin Chancellor as Its President - The New York Times
+- Widespread heavy snow developing across CNY - cnycentral.com
 - UPDATED: Preliminary snow and sleet totals from around Northern Virginia - insidenova.com
-- Eleanor Holmes Norton Files to End Re-election Campaign - The New York Times
-- Philadelphia snow updates: Latest forecast, storm timing, travel impact and more - whyy.org
+- A man is under arrest for assaulting U.S. Rep. Maxwell Frost at the Sundance Film Festival - AP News
 - Chris Mason: Burnham saga unlikely to be last act in drama of Starmer's leadership - BBC
-- Trump tariffs live updates: Trump threatens 100% tariffs on Canada over China deal; Carney reiterates Canada commitment to USMCA - Yahoo Finance
 - Bessent: Greenland deal is ‘much more fulsome’ for the US - ABC News
 - Party backed by generals set for landslide in 'sham' Myanmar election - BBC
+- Crowds bid farewell to Japan’s last pandas before return to China amid souring ties - CNN
 - How Americans are using AI at work, according to a new Gallup poll - AP News
-- What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings From Microsoft, Meta, Tesla, Apple - Investopedia
-- Trump's JPMorgan lawsuit underscores his growing clash with Wall Street - Reuters
-- Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
-- Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead - CNET
-- Apple will reportedly unveil its Gemini-powered Siri assistant in February - TechCrunch
+- Five ways weight-loss jabs are changing spending habits - BBC
+- Major U.S. Public Transit Systems Suspend Some Services During Storm - The New York Times
+- Alphabet, IBM and 3 other tech stocks could be big winners this earnings season - MarketWatch
+- Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik
+- YouTube Music now syncs your queue across Android, iOS, & web - 9to5Google
