@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 05:02_
+_Updated: 2026-01-25 06:40_
 
-- Democrats threaten government shutdown over ICE funding - Axios
-- Trump threatens Canada with 100% tariffs if it 'makes a deal with China' - BBC
-- Appeals court declines to order lower court to sign arrest warrants against Don Lemon, others in church protest - CBS News
-- How much snow are Boston and Massachusetts getting this weekend? - CBS News
+- Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues - The New York Times
+- How much snow is Boston getting this weekend? Here's a closer look at the Massachusetts forecast. - CBS News
+- Gun Activists Bridle at Suggestion That Pistol Justified Killing - The New York Times
+- DC area braces for winter storm that could blanket the region with 10 inches of snow, plus freezing rain - wtop.com
 - How Soviet urban planning is helping Russia freeze Ukraine - BBC
-- Trump praises British troops after drawing outrage at comments downplaying NATO’s role in Afghanistan - CNN
+- Level 1 Driving Warning Statewide at Midnight - news.delaware.gov
+- Takeaways from the first Texas Senate Democratic primary debate - CNN
 - Ukrainian officials call talks with U.S. and Russia "positive" and "constructive" - Axios
-- Forecast shift: Even more ice is now expected in South Texas - expressnews.com
-- Updated hour-by-hour look at winter ice storm in Virginia - wtvr.com
-- What legal rights do you have in encounters with ICE? Legal experts weigh in - PBS
-- Italy protests, recalls ambassador to Switzerland after New Year's bar fire suspect released - Reuters
+- Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times
+- LIVE: Houston and southeast Texas under ice and winter storm warnings, ABC13 Weather Alert activated - abc13.com
+- Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan - NPR
+- EU concerned about Trump 'concentration of powers' over 'Board of Peace', document says - Reuters
+- Vietnam’s Leader Consolidates Power, Pledging ‘New Era of Prosperity’ - The New York Times
 - How a fiery Scott Bessent calmed market nerves over Greenland - CNN
-- Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan, authorities say - ABC News
-- Tragic chapter on the trains sends rail superpower Spain into crisis - BBC
 - Americans are now betting on winter storm totals on Polymarket and Kalshi - Axios
+- Five ways weight-loss jabs are changing spending habits - BBC
 - Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
-- Nvidia CEO Jensen Huang in Shanghai amid China regulatory headwinds - Reuters
-- Why long-lasting power outages could be a big problem after the storm - The Washington Post
+- How will the finished 2 Line impact daily commutes across Lake Washington? - komonews.com
 - Alert! Alert! - The New York Times
-- The Many Paths to Pro Tour Lorwyn Eclipsed - MAGIC PLAY
+- Google won’t stop replacing our news headlines with terrible AI - The Verge
