@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 22:46_
+_Updated: 2026-01-25 23:41_
 
 ## Top Stories
 
 - Väktarnotan vid äldreboendet i Göteborg – så hög är kostnaden - gp.se
 - Grannarnas oro för mammutträdet på Fridhem: ”Ont i hjärtat” - sydsvenskan.se
+- Xi gör sig av med toppgeneral – efter Trumps besked - Expressen
 - Löpte amok på Wandas – och attackerade gäster - gp.se
-- Spelsajten: 28 procent att skytten åtalas - SvD
+- Var tredje Trumpväljare protesterar – mardröm för Vita huset - Marcus Oscarsson
 - Nya ”gåvan till världen” väcker svåra frågor - SvD
-- Bortförda Alexandra fick äntligen tala i riksdagen: ”Det måste ju börja hända lite grejer” - sydsvenskan.se
 - Larm om skjutning i Södertälje – inget tyder på skottlossning - SVT Nyheter
 - 25 januari 12.30, Trafikkontroll, Västernorrlands län - Polisen.se
 - 25 januari 08.10, Sammanfattning natt, Jämtlands län - Polisen.se
 - Brand i villa – äldre kvinna förd till sjukhus med brännskador - nwt.se
-- Japans sista pandor lämnar för Kina - gp.se
 - Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
-- Direkt – Krisen i Mellanöstern – Löften om återställt internet i Iran inom kort - Dagens Nyheter
-- ”Trumps fokus kan lyfta Grönland” - SvD
-- Prislyft för bostadsrätter i populära skidorter - Dagens Nyheter
+- Ambassadör Nina Nordström: Israels armé i full beredskap - Hufvudstadsbladet
+- DN Direkt – Trump hotar Kanada med 100–procentig tull - Dagens Nyheter
+- Vita husets pingvinmiss på Grönland hånas - gp.se
 - Experten: AI-miljarderna sätter techjättar på prov - Omni
-- Volkswagen rensar ut styrelsen – en tredjedel försvinner - motormagasinet.se
+- Kartläggning: Här är skillnaderna mellan EU:s och USA:s ekonomier - Tidningen Näringslivet
 - Arctic bygger upp svensk aktieverksamhet – rekryterar profiler - DI
+- Elköp per kvart kyler av räkningen: ”Tusenlappar” - DI
 - Yoshi dyker upp i Marios filmvärld - Aftonbladet
 - Företag ska stoppas från att fultippa på Munkegärde - kungalvsposten.se
 
@@ -31,6 +31,7 @@ _Updated: 2026-01-25 22:46_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
@@ -45,7 +46,6 @@ _Updated: 2026-01-25 22:46_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -102,20 +102,20 @@ _Updated: 2026-01-25 22:46_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -143,8 +143,8 @@ _Updated: 2026-01-25 22:46_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
