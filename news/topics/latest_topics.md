@@ -1,52 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 18:49_
-
-## Top Stories
-
-- Hur starka är EU:s ekonomiska muskler mot USA? - Dagens Nyheter
-- Spelsajten: 28 procent att skytten åtalas - SvD
-- Stenregnet mot bilarna på turistön - Expressen
-- Kreml: Vi kommer aldrig tala med EU:s utrikeschef - Omni
-- 25 januari 12.30, Trafikkontroll, Västernorrlands län - Polisen.se
-- Brand i villa – äldre kvinna förd till sjukhus med brännskador - nwt.se
-- Stormarna lämnade dödsfällor – nu sprängs de bort - Dagens Nyheter
-- SMHI: Orange varning för snö i söder - SVT Nyheter
-- Hemvärnet växer - ”försvarsviljan hög” - gp.se
-- 25 januari 08.10, Sammanfattning natt, Jämtlands län - Polisen.se
-- Därför är polismakten i USA så splittrad - Dagens Nyheter
-- ”Trumps fokus kan lyfta Grönland” - SvD
-- Ambassadör Nina Nordström: Israels armé i full beredskap - Hufvudstadsbladet
-- Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
-- Drömmen om sommarstugan vaknar till liv – i vissa län slår priserna rekord - Börskollen
-- ”Investeringsnischer som står stabila i tullkaoset” - Omni Ekonomi
-- Norsk miljardär delar ut 100 miljoner till barnbarnen - DI
-- Plattorna visar: här är bakterierna från torken - SvD
-- Säsongspremiär för forskning i kortformat - folkbladet.nu
-- Honor lanserar Magic V6 tidigare än väntat - mobil.se
+_Updated: 2026-01-25 19:43_
 
 ## World News
 
-- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - New Secretary General appointed - Olof Palme International Center
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -102,19 +79,19 @@ _Updated: 2026-01-25 18:49_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
@@ -146,6 +123,7 @@ _Updated: 2026-01-25 18:49_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -161,4 +139,3 @@ _Updated: 2026-01-25 18:49_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
