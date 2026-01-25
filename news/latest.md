@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 08:59_
+_Updated: 2026-01-25 09:49_
 
-- Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times
 - How much snow is Boston getting this weekend? Here's a closer look at the Massachusetts forecast. - CBS News
 - Winter storm timeline for New York, New Jersey shows when heaviest snow will hit this weekend - CBS News
 - StormTracker8: Snow and sleet tonight, freezing rain all day Sunday - wric.com
-- Large protests spread across US after Alex Pretti fatally shot by federal agents - The Guardian
+- Stream live on WCNC+ | Ice storm coverage in Charlotte, across Carolinas - wcnc.com
 - How Soviet urban planning is helping Russia freeze Ukraine - BBC
+- Takeaways from the first Texas Senate Democratic primary debate - CNN
+- Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times
+- 'It's time to start doing something.' Despite risks of violence, Minnesotans step up to take on ICE - Reuters
 - Heavy snow and ice are coming to Philly, and may stick around for a week, or more - inquirer.com
-- Republicans are worried about Trump’s deportation campaign, and our new poll shows why - Politico
-- Appeals Court Rejects Justice Dept. Push for Arrest Warrant for Don Lemon - The New York Times
 - Trump backed down from NATO tariffs over Greenland but may cross a 'red line' on U.S. military bases there - Fortune
-- Vietnam’s Leader Consolidates Power, Pledging ‘New Era of Prosperity’ - The New York Times
 - How a fiery Scott Bessent calmed market nerves over Greenland - CNN
 - EU concerned about Trump 'concentration of powers' over 'Board of Peace', document says - Reuters
-- U.S. to inject $1.6 billion into rare earths miner for 10% stake, FT reports - CNBC
+- Wife of Uganda’s opposition leader describes moment armed men attacked her at home - AP News
 - Americans are now betting on winter storm totals on Polymarket and Kalshi - Axios
+- US Winter Storm Sets Off Power Grid Emergencies, Travel Chaos - Bloomberg
 - Five ways weight-loss jabs are changing spending habits - BBC
 - TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means - TechCrunch
 - Alert! Alert! - The New York Times
+- The Many Paths to Pro Tour Lorwyn Eclipsed - MAGIC PLAY
 - ARC Raiders Roadmap: January - April 2026 - arcraiders.com
-- Google won’t stop replacing our news headlines with terrible AI - The Verge
