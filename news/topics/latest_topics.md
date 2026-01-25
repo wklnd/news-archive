@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 01:42_
+_Updated: 2026-01-25 04:59_
 
 ## Top Stories
 
-- DN Direkt – Trump hyllar brittiska soldater efter kritikstorm - Dagens Nyheter
-- Ulf Kristersson: ”Företagare är generade” – Senaste nytt om USA och Grönland - SVT Nyheter
-- Frågan om slopat matkrav på krogen börjar behandlas - Omni
-- Davos början till slutet för Trump - Kvartal
-- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
+- Kristersson: Företagare i USA generade av krisen - gp.se
 - Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
+- Senatorer: Inga mer pengar till ICE - Aftonbladet
+- Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
+- Zelenskyj: Nya samtal kan hållas nästa vecka - Expressen
 - Över 100 000 anmälda till högskoleprovet - vk.se
-- Tonåring häktad efter bomblarm i Rättvik - SVT Nyheter
-- 24 januari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
-- 23 januari 12.52, Trafikkontroll, Norrbottens län - polisen.se
-- Ungdomar fast i räddningsbåt – drev ut - Expressen
+- SMHI: Då kommer mer snö i Göteborg - gp.se
+- 23 januari 12.52, Trafikkontroll, Norrbottens län - Polisen.se
+- 24 januari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
+- Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
+- Hotar med tullar på 100 procent - Expressen
 - USA rustar för snöoväder: "Förbered er" - gp.se
 - Vita husets pingvinmiss på Grönland hånas - gp.se
-- Italien kallar hem ambassadör i Schweiz - Aftonbladet
+- Mobilt bredband rasar i pris – då ska du byta - sydsvenskan.se
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
 - Revansch för Ericsson – historiskt ras för Apotea - DI
 - Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
-- El- eller bensinbil – så mycket skiljer det i halka - Aftonbladet
-- Kvinna nekas retur av mobiltelefon – butikspersonal bröt förpackningen - borlangetidning.se
+- Prince of Persia: The lost Crown - FZ.se
 - Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
 
 ## World News
@@ -31,28 +31,27 @@ _Updated: 2026-01-25 01:42_
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bybit Avslöjar 2025 Global Crypto Rankings Rapport - Bitcoin.com News
-- Ny film om 25 års samarbete inom global hälsa i Östafrika - Karolinska Institutet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- UNDP lanserar läromedel om global utveckling - UNDP
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNDP lanserar läromedel om global utveckling - UNDP
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -66,8 +65,9 @@ _Updated: 2026-01-25 01:42_
 - Oron: Då tar datan på internet slut - SvD
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
-- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nackdelar med AI-plattform: ❌ Viktiga nackdelar med Palantir för europeiska företag och institutioner 🏢🇪🇺 - Xpert.Digital - Konrad Wolfenstein
 
@@ -148,7 +148,6 @@ _Updated: 2026-01-25 01:42_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - Syre
 - Här är världens största jordbruk - ATL
@@ -159,6 +158,7 @@ _Updated: 2026-01-25 01:42_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
