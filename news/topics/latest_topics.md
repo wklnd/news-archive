@@ -1,41 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-25 07:50_
+_Updated: 2026-01-25 08:55_
 
 ## Top Stories
 
+- DN Direkt – Vill stoppa pengar till ICE: Stridslystna agenter - Dagens Nyheter
+- Skador på fastighet efter explosion i Upplands Väsby - SVT Nyheter
 - Strömmen delvis tillbaka på Grönland - vk.se
+- 25 januari 07.15, Sammanfattning natt, Västerbottens län - polisen.se
 - ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
-- Finskt larm: Ryskt hot mot väst efter Ukrainakriget - SvD
 - Körkort beslagtogs under trafikkontroll - kuriren.nu
-- Konsekvenserna av stormen Johannes och ovädret Anna - Regeringen.se
-- Grönland pekas ut i USA:s nya försvarsstrategi – Senaste nytt om USA och Grönland - SVT Nyheter
-- Över 100 000 anmälda till högskoleprovet - vk.se
-- Universitetet om studentfusket: ”Helt oacceptabelt” - SVT Nyheter
+- Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
+- Räddningsinsats utanför Halmstad – tonåringar drev ut på havet - SVT Nyheter
 - Kyrkan behöver fler präster, inte färre - Kyrkans Tidning
-- 24 januari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
+- VECKANS NATUR: Vinterfåglar inpå knuten - tidningenvastsverige.se
+- Finskt larm: Ryskt hot mot väst efter Ukrainakriget - Dagens Nyheter
+- Grönland pekas ut i USA:s nya försvarsstrategi - Dagens Nyheter
+- Kristersson: Företagare i USA generade av krisen - gp.se
 - Michael Winiarski: Krigspresidenten Trumps fredsråd är snart bortglömt - Dagens Nyheter
-- Zelenskyj: Nya samtal kan hållas nästa vecka - Expressen
-- USA rustar för snöoväder: "Förbered er" - gp.se
-- Vita husets pingvinmiss på Grönland hånas - gp.se
+- Karin och Lucas har byggt på huset i 35 år - Dagens Nyheter
+- SD sågar Svantessons utspel om matmoms: ”Inte troligt” - Aftonbladet
 - Mariestadsbon bytte bana mitt i livet – kan få utmärkelse - mariestadstidningen.se
-- Revansch för Ericsson – historiskt ras för Apotea - DI
 - Julia Brzezinska: Här är de fem bästa detaljerna på nya Volvo EX60 - gp.se
-- Ny försvagning av dollarn – under nio kronor - sydsvenskan.se
 - Kör du inte IOS 26? Därför bör du genast uppdatera - Macworld.se
 - Prince of Persia: The lost Crown - FZ.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Uttalande från Global Unions råd om rättegången mot Lee Cheuk-yan - UNI Global Union
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -46,6 +44,8 @@ _Updated: 2026-01-25 07:50_
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
@@ -99,7 +99,7 @@ _Updated: 2026-01-25 07:50_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
