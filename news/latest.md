@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-25 17:50_
+_Updated: 2026-01-25 18:55_
 
 - StormTracker8: Snow and sleet tonight, freezing rain all day Sunday - wric.com
-- Governor Lamont Declares State of Emergency, Limits Commercial Vehicle Travel Ahead of Approaching Major Winter Storm - portal.ct.gov
 - New Jersey Transit announces suspension plans for Sunday amid winter storm - abc7ny.com
+- Thousands of new Americans opt for 'ultimate act of inclusion' despite obstacles - NPR
+- Governor Lamont Declares State of Emergency, Limits Commercial Vehicle Travel Ahead of Approaching Major Winter Storm - portal.ct.gov
+- Jack Smith lays it out: Trump has shattered the rule of law - Salon.com
 - Trump, in retreat, praises U.K. troops after royal family expresses hurt - The Washington Post
-- Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times
-- Governor Hochul Updates New Yorkers on State Preparations Ahead of Massive Winter Storm - governor.ny.gov
-- Immigrant families protest inside Texas facility housing 5-year-old boy, father detained in Minnesota - texastribune.org
-- How Iran Crushed a Citizen Uprising With Lethal Force - The New York Times
+- As sun sets across North Texas, icy roads, dangerous cold, sleet to ramp up - dallasnews.com
+- Ukrainian officials call talks with U.S. and Russia "positive" and "constructive" - Axios
+- Scale of Iran's nationwide protests and bloody crackdown come into focus even as internet is out - AP News
 - Davey says war bonds would help to speed up UK defence spending - BBC
+- Italy protests, recalls ambassador to Switzerland after New Year's bar fire suspect released - ksl.com
 - Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan - NPR
-- Trump backed down from NATO tariffs over Greenland but may cross a 'red line' on U.S. military bases there - Fortune
 - How Americans are using AI at work, according to a new Gallup poll - AP News
-- S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins - The New York Times
-- TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means - TechCrunch
+- Auto executives are hoping for the best and planning for the worst in 2026 - CNBC
 - Is the supreme court ready to stand up to Trump over Federal Reserve attack? - The Guardian
-- The 10 Priciest Cards From Magic’s New Lorwyn Eclipsed Set That I'm Already Chasing - IGN
+- Five ways weight-loss jabs are changing spending habits - BBC
+- WhatsApp to let users share recent chat history with new group members - 9to5Mac
+- The Super Mario Galaxy Movie Nintendo Direct: Everything Announced - IGN
 - CISA confirms active exploitation of four enterprise software bugs - BleepingComputer
-- ARC Raiders Roadmap: January - April 2026 - ARC Raiders
-- Alert! Alert! - The New York Times
-- ‘The Traitors’ Urges Viewers Not To ‘Ruin’ The Show With ‘Personal Attacks’: ‘What Happens In The Game Should Never Lead To Cyberbullying Or Harassment’ - Variety
+- 6 Performance Cars You Probably Didn't Know Used Yamaha Engines - Jalopnik
