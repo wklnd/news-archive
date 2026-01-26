@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 13:43_
+_Updated: 2026-01-26 15:26_
 
 ## Top Stories
 
-- Mats från Malmö trodde på kärleken – lurades på 200 000 - Sydsvenskan
-- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
-- 26 januari 12.26, Trafikkontroll, Västerbottens län - Polisen.se
-- Vattenledningar spolas i Visby och Väskinde - horisontmagasin.se
-- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
-- Bedriften: Friklättrade upp för skyskrapa - gp.se
+- DN Direkt – Varg skjuten från helikopter - Dagens Nyheter
 - Försvaret hyrde privatjet till talmannen med familj - Dagens Nyheter
-- Rekordörn från Gryt död – blev 36 år trots skottskada - nt.se
+- TV4-profilens förklaring i rätten - Kvartal
+- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
+- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
+- Miljonviten hotar skolor: ”Behöver vara ekonomiskt kännbart” - Dagens Nyheter
 - Mångmiljonböter för Sportadmin-läcka - gp.se
-- 26 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- DN Direkt – Interimsledaren om USA: Det räcker med order - Dagens Nyheter
-- Många befaras döda i båtolycka - gp.se
-- ”Trumps fokus kan lyfta Grönland” - SvD
+- Rekordörn från Gryt död – blev 36 år trots skottskada - nt.se
+- Försvunnen person i Mjölby – polisen söker med helikopter - SVT Nyheter
+- Elmia efter trafikkaoset – ska analysera vad som gick fel - SVT Nyheter
+- DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
+- Källor: Kremls plan för att hantera Grönlandskrisen - Dagens Nyheter
 - Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
+- Stor demonstration mot Irans mullor i Göteborg - gp.se
+- AI ger svenska anställda sämre självförtroende - Computer Sweden
 - Bygg-vd ser ljuset i tunneln - Dagens Nyheter
-- Studie: AI slår hårdare mot jobben i Storbritannien - Affärsvärlden
-- Ny kryptolag i USA: Viktigt beslut av jordbruksutskottet imorgon - Dagens PS
-- Studie: Varje ny dollar i indexfond kan driva upp börsen med åtta - Omni Ekonomi
+- Wall Street-jätten ratar svenska storbanker - DI
+- Cathie Wood: Bitcoin når 800 000 dollar under 2030 - Dagens PS
+- Ryska hackare beskylls för attack mot elnät i Polen - Computer Sweden
 - 35-åring startar nytt byggföretag i Vilhelmina - folkbladet.nu
-- Windows 7 och Vista gör comeback – här laddar du ner - PC för Alla
 
 ## World News
 
@@ -34,8 +34,8 @@ _Updated: 2026-01-26 13:43_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
@@ -60,7 +60,6 @@ _Updated: 2026-01-26 13:43_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,6 +67,7 @@ _Updated: 2026-01-26 13:43_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 
@@ -80,26 +80,26 @@ _Updated: 2026-01-26 13:43_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
@@ -123,7 +123,6 @@ _Updated: 2026-01-26 13:43_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
@@ -134,6 +133,7 @@ _Updated: 2026-01-26 13:43_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -146,19 +146,19 @@ _Updated: 2026-01-26 13:43_
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
