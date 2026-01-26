@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 07:54_
+_Updated: 2026-01-26 09:01_
 
 ## Top Stories
 
-- Försvaret hyrde privatjet till talmannen med familj - Dagens Nyheter
-- Forskare: Malmö behöver fler enkla jobb - sydsvenskan.se
-- Livräddande insatser efter strypvåld på LSS-boende - SVT Nyheter
-- DN Direkt – Interimsledaren om USA: Det räcker med order - Dagens Nyheter
-- Landet där alla dörrar stängs - SvD
-- ALEX VORONOV: Det är den tuffaste krigsvintern för ukrainarna hittills - unt.se
 - SMHI: Orange varning för snö i söder - SVT Nyheter
-- Ronja från Ljusnarsberg felplacerades i anpassad skola: ”Min skolgång raserades” - SVT Nyheter
-- Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
+- Försvaret hyrde privatjet till talmannen med familj - Dagens Nyheter
+- Skoningslös JO-kritik mot vuxenpsykiatrin på SU - gp.se
+- Forskare: Malmö behöver fler enkla jobb - sydsvenskan.se
+- 26 januari 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Landet där alla dörrar stängs - SvD
 - 25 januari 08.10, Sammanfattning natt, Jämtlands län - polisen.se
-- DN Direkt – Flera döda efter båtolycka i Filippinerna - Dagens Nyheter
-- DN Direkt – Privatplan har kraschat i USA - Dagens Nyheter
-- Stor demonstration mot Irans mullor i Göteborg - GP
-- ”Trumps fokus kan lyfta Grönland” - SvD
+- Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
+- Chalmers­studenter vann utlysning om tomt i Göteborg - Arkitekten.se
+- Ronja från Ljusnarsberg felplacerades i anpassad skola: ”Min skolgång raserades” - SVT Nyheter
+- Flera döda efter båtolycka i Filippinerna - Aftonbladet
+- Zelenskyj: Avtalet om säkerhetsgarantier klart - Expressen
+- Nära 1700 höghus utan ström i Kiev - SVT Nyheter
+- Stor demonstration mot Irans mullor i Göteborg - gp.se
+- Källor: Tio länder bakom vindkraftsprojekt i Nordsjön - Omni
 - Ferrari chockar sina egna fans: ”Vad är det som händer?” - Dagens PS
-- Experten: AI-miljarderna sätter techjättar på prov - Omni
-- Därför saknas svenskt kött: ”En käftsmäll” - sodran.se
-- Kritiken mot EU-kontor bygger på en förenklad bild av politiskt inflytande - Altinget.se
-- Tidigare Netflixchefen: Karriärtipset som jag aldrig skulle lyssna på - GP
+- Så kan pillernotan kapas - Upphandling24
+- Temavecka med fokus på arbetsrätt närmar sig - Företagarna
+- Tidigare Netflixchefen: Karriärtipset som jag aldrig skulle lyssna på - gp.se
 - Yoshi dyker upp i Marios filmvärld - Aftonbladet
 
 ## World News
 
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Japan says in close coordination with US on forex as yen intervention risks mount - Reuters
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
@@ -54,20 +54,20 @@ _Updated: 2026-01-26 07:54_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- From AI to Blockchain to Quantum Computing: Globant Reveals Its 2024 Tech Trends (PR Newswire) - Aktiellt
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 
@@ -80,10 +80,10 @@ _Updated: 2026-01-26 07:54_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -104,18 +104,18 @@ _Updated: 2026-01-26 07:54_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
