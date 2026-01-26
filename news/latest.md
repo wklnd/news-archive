@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-26 23:54_
+_Updated: 2026-01-27 00:54_
 
-- Republican ends bid for Minnesota governor, citing ‘unconstitutional’ ICE surge - The Guardian
-- NYC aims for return to school, roads cleared Tuesday as Mamdani warns of ‘debilitating’ cold - gothamist.com
-- Driving Restrictions for Delaware Downgraded Effective 10am - news.delaware.gov
-- Why Is the Trump Administration Demanding Minnesota’s Voter Rolls? - The New York Times
+- Israel Recovers Body of Ran Gvili From Gaza, Closing a Chapter - The New York Times
+- Judge uses Trump DOJ’s own words to corner federal lawyer over Minnesota 'quid pro quo' - Alternet
+- A Crisis of Confidence for ICE and Border Patrol as Clashes Escalate - The New York Times
+- Carney downplays Trump’s threats while ruling out China trade deal - Politico
 - 31,000 Kaiser Permanente health care workers in California, Hawaii go on strike - abc7.com
-- IRS tax season 2026: What to know about filing taxes, new tax deductions and refunds - Axios
-- Dem support for impeaching Noem surges after Minnesota shooting - Axios
+- Driving Restrictions for Delaware Downgraded Effective 10am - news.delaware.gov
+- Former Blazer Chris Dudley will run for Oregon governor, setting up heated Republican primary - oregonlive.com
 - Federal Aviation Administration says 7 killed, 1 survived jet crash in snow in Bangor, Maine - AP News
-- Judges, inundated with immigration cases, don’t mince words on ICE tactics - Politico
-- N.J. weather: Snowfall totals hit 17 inches. See town-by-town snow reports for weekend storm. - nj.com
+- NYC aims for return to school, roads cleared Tuesday as Mamdani warns of ‘debilitating’ cold - gothamist.com
+- Republican drops bid for governor, citing GOP’s ‘retribution’ on Minnesota - The Washington Post
 - China’s top general under investigation for alleged violations amid corruption crackdown - The Guardian
 - South Sudan army threat to 'spare no-one' condemned - BBC
 - Party backed by generals set for landslide in 'sham' Myanmar election - BBC
-- Shift to Drone Fighting in Ukraine War Means No Winter Lull - The New York Times
-- S&P 500 closes higher as Meta and Apple rise ahead of earnings reports: Live updates - CNBC
+- NATO chief says Europe should ‘keep on dreaming’ if it thinks it can defend itself without the US - CNN
+- Businesses face pressure to respond to immigration enforcement while also becoming a target of it - AP News
+- Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers - NPR
 - What travelers can expect as Southwest Airlines introduces assigned seats - AP News
-- An unusual Fed ‘rate check’ triggered a free fall in the U.S. dollar and investors are fleeing into gold - Fortune
 - TikTok alternative Skylight soars to 380K+ users after TikTok US deal finalized - TechCrunch
 - Anthropic launches interactive Claude apps, including Slack and other workplace tools - TechCrunch
-- Microsoft’s first Windows 11 update of 2026 has been a mess - The Verge
+- AI has arrived in Gmail. Here’s how to make it work for you - The Seattle Times
