@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 21:44_
+_Updated: 2026-01-26 22:50_
 
 ## Top Stories
 
-- DN Direkt – Flera döda i flygkrasch i USA - Dagens Nyheter
 - DN Direkt – C anmäler Ulf Kristersson till KU - Dagens Nyheter
+- SD-toppen har vänt om Trump: ”Blir till skit” - SvD
 - Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
-- Lägenhet avspärrad: ”Ett i allra högsta grad pågående ärende” - borlangetidning.se
-- USA-expert: Största risken för inbördeskrig på 60 år - Omni
-- Statsministern KU-anmäls för Lantmäteriets säkerhetsbrister - Altinget.se
+- Analytiker: Kina rensar ut som under Mao Zedongs tid - Omni
+- Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
+- Risk för inbördeskrig i USA? En simulering säger ja - gp.se
 - Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
 - 26 januari 19.59, Trafikkontroll, Västernorrlands län - Polisen.se
-- Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
-- DN Direkt – M: Inför obligatoriska friluftsdagar i skolan - Dagens Nyheter
-- USA:s armada på plats – kan bli stort anfall mot Iran - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Kvarlevor efter sista gisslan hittade i Gaza - Dagens Nyheter
-- DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
+- Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
+- Två körde för fort utanför Skellefteå – fick böter - norran.se
+- Tyskland: Europa beroende av USA:s kärnvapen - gp.se
 - Skarpa tonen mot Europa: ”Snålskjuts” - Expressen
-- Systemfel lämnar 3000 pensionsmiljarder oskyddade - Affärsvärlden
+- USA:s armada på plats – kan bli stort anfall mot Iran - Dagens Nyheter
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
+- Skogman tror på friluftsbolagen och tar högrisk-bet i SBB D, blankar Saab - Di (R) - Placera.se
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
-- "Stärka patient­säkerheten och underlätta arbetet på apotek" - Svensk Farmaci
-- Oväntade kärleksparet i TV4:s ”Farmen” – berättar nu - Expressen
+- 100 år sedan den första ”tv-sändningen” - SVT Nyheter
 - Apple har släppt Ios 26.2.1 - mobil.se
 
 ## World News
@@ -33,20 +33,20 @@ _Updated: 2026-01-26 21:44_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNI Global står i solidaritet med Indiens bankfackföreningar inför den landsomfattande strejken den 27 januari. - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2026-01-26 21:44_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -106,7 +106,6 @@ _Updated: 2026-01-26 21:44_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -116,6 +115,7 @@ _Updated: 2026-01-26 21:44_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2026-01-26 21:44_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Olika slutsatser från samma data - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
+- Pressinbjudan: Hundar på röda mattan – Göteborg Film Festival och Doggy bjuder in till hundbio - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Framtidens jordbruk - European Commission
+- Jordbrukspolitik - Naturvårdsverket
+- Lediga jobb - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
