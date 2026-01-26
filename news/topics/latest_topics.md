@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 23:47_
+_Updated: 2026-01-27 00:48_
 
 ## Top Stories
 
-- DN Direkt – C anmäler Ulf Kristersson till KU - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- V-politiker hyllar aktionen mot ministerns hem ”till 110 procent” - Aftonbladet
 - SD-ledamoten Katja Nyberg efter brottsmisstankarna: ”Offentligt karaktärsmord” - SVT Nyheter
+- Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
 - Risk för inbördeskrig i USA? En simulering säger ja - gp.se
 - Barnen i Butja lever med minnena av den ryska ockupationen - Dagens Nyheter
-- Domstol sätter stopp för vargjakten - vk.se
-- Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
+- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
 - 26 januari 19.59, Trafikkontroll, Västernorrlands län - Polisen.se
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
 - Två körde för fort utanför Skellefteå – fick böter - norran.se
-- DN Direkt – Vita huset: Trump vill inte se någon dödas på USA:s gator - Dagens Nyheter
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- Tyskland: Europa beroende av USA:s kärnvapen - gp.se
+- Skarpa tonen mot Europa: ”Snålskjuts” - Expressen
 - Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
 - Stor demonstration mot Irans mullor i Göteborg - gp.se
 - Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
-- Skogman tror på friluftsbolagen och tar högrisk-bet i SBB D, blankar Saab - Di (R) - Placera.se
-- Oväntade kärleksparet i TV4:s ”Farmen” – berättar nu - Expressen
+- Transporter med grön vätgas dyrare i Norden - Forskning.se
 - 100 år sedan den första ”tv-sändningen” - SVT Nyheter
+- Apple har släppt Ios 26.2.1 - mobil.se
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-01-26 23:47_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNI Global står i solidaritet med Indiens bankfackföreningar inför den landsomfattande strejken den 27 januari. - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -60,7 +60,7 @@ _Updated: 2026-01-26 23:47_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,18 +68,18 @@ _Updated: 2026-01-26 23:47_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2026-01-26 23:47_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - uu.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
-- Olika slutsatser från samma data - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-26 23:47_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
