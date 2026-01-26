@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 15:26_
+_Updated: 2026-01-26 15:59_
 
 ## Top Stories
 
-- DN Direkt – Varg skjuten från helikopter - Dagens Nyheter
-- Försvaret hyrde privatjet till talmannen med familj - Dagens Nyheter
-- TV4-profilens förklaring i rätten - Kvartal
-- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
+- Så förbereder sig Österlen på snöovädret – alla Ystads bussar ställs in - SVT Nyheter
+- Expert: Trump vill sätta sin bild av verkligheten - Dagens Nyheter
+- Jimmie Åkesson till akuten – halkade och slog i spegel - SVT Nyheter
+- Miljardmarknad på väg mellan Indien och EU - vk.se
+- Varg skjuten från helikopter – tros ha dödat 30 renar - nsd.se
+- DN Direkt – Norrmän åtalas för mutbrott i Kongo - Dagens Nyheter
+- M: Inför obligatoriska friluftsdagar i skolan - vk.se
 - ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
+- Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
 - Miljonviten hotar skolor: ”Behöver vara ekonomiskt kännbart” - Dagens Nyheter
-- Mångmiljonböter för Sportadmin-läcka - gp.se
-- Rekordörn från Gryt död – blev 36 år trots skottskada - nt.se
-- Försvunnen person i Mjölby – polisen söker med helikopter - SVT Nyheter
-- Elmia efter trafikkaoset – ska analysera vad som gick fel - SVT Nyheter
+- DN Direkt – Interimsledaren om USA: Det räcker med order - Dagens Nyheter
 - DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
-- Källor: Kremls plan för att hantera Grönlandskrisen - Dagens Nyheter
-- Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
-- Stor demonstration mot Irans mullor i Göteborg - gp.se
-- AI ger svenska anställda sämre självförtroende - Computer Sweden
+- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
+- Nathan Shachar: Trumps medlare i Israel serverar Netanyahu bittra piller - Dagens Nyheter
 - Bygg-vd ser ljuset i tunneln - Dagens Nyheter
-- Wall Street-jätten ratar svenska storbanker - DI
+- AI ger svenska anställda sämre självförtroende - Computer Sweden
+- Mercedes GLC EQ slår igenom – orderböckerna fyllda till 2026 - Dagens PS
 - Cathie Wood: Bitcoin når 800 000 dollar under 2030 - Dagens PS
 - Ryska hackare beskylls för attack mot elnät i Polen - Computer Sweden
-- 35-åring startar nytt byggföretag i Vilhelmina - folkbladet.nu
+- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
 
 ## World News
 
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Japan says in close coordination with US on forex as yen intervention risks mount - Reuters
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- NTM nominerade i INMA Global Media Awards - ntm.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -60,6 +60,7 @@ _Updated: 2026-01-26 15:26_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,7 +68,6 @@ _Updated: 2026-01-26 15:26_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 
@@ -80,19 +80,19 @@ _Updated: 2026-01-26 15:26_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -142,23 +142,23 @@ _Updated: 2026-01-26 15:26_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
