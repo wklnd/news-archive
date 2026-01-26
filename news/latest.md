@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-26 19:04_
+_Updated: 2026-01-26 19:57_
 
-- Thousands of Flights Canceled Monday After Snowstorm - The New York Times
-- Israel recovers body of last hostage in Gaza - CNN
+- Town-by-town totals: How much snow has fallen in Mass. so far? - boston25news.com
+- Minnesota Republican drops out of governor's race, citing GOP's handling of immigration enforcement - NBC News
+- All eyes are on Rubio as he navigates the world in 2 critical roles - NPR
 - A Crisis of Confidence for ICE and Border Patrol as Clashes Escalate - The New York Times
-- Pro-ICE churches should be shamed - Salon.com
-- Dangerous winter storm arrives in NYC, Tri-State Area with heavy snow, sleet - CBS News
-- Storm dies down in Upstate NY, but how long will bitter cold last? - syracuse.com
+- Driving Restrictions for Delaware Downgraded Effective 10am - news.delaware.gov
+- When will the Dallas roads melt? Everybody wants to know ... Here's what we can tell you, for now - wfaa.com
+- Minneapolis Shooting Live Updates: Trump Sends Border Czar to Lead ICE Operation as Judge Weighs Its Legality - The New York Times
 - How $16B in earmarks evaded conservative ire — and helped clinch a funding deal - Politico
-- CNBC Daily Open: As Trump destabilizes foreign relationships, Europe forges new ties - CNBC
-- Chris Madel ends GOP bid for governor, says he can’t support federal ‘retribution’ against Minnesota - Star Tribune
-- N.J. weather: Snowfall totals hit 17 inches. See town-by-town snow reports for weekend storm. - nj.com
+- Storm dies down in Upstate NY, but how long will bitter cold last? - syracuse.com
+- Judges, inundated with immigration cases, don’t mince words on ICE tactics - Politico
+- China’s top general under investigation for alleged violations amid corruption crackdown - The Guardian
 - Russian strike on Ukraine's Kyiv leaves 1,330 buildings still without heat, mayor says - Reuters
-- Lightning strike at Brasilia rally injures 89 Bolsonaro supporters - Euronews.com
-- At least 18 killed and hundreds rescued in Philippines ferry disaster - CNN
-- Gunmen Kill 11 After Soccer Match in Mexico - The New York Times
-- US stocks rise ahead of big tech results, Fed decision - Reuters
-- The market has cooled on tech. These are the trades to make now, says this strategist. - MarketWatch
+- The European summit that will really wind up Trump - politico.eu
+- South Sudan army threat to 'spare no-one' condemned - BBC
 - An unusual Fed ‘rate check’ triggered a free fall in the U.S. dollar and investors are fleeing into gold - Fortune
 - Natural gas prices hit $6 for first time since 2022 as massive winter storm sweeps U.S. - CNBC
-- Apple introduces new AirTag with expanded range and improved findability - Apple
-- Microsoft’s first Windows 11 update of 2026 has been a mess - The Verge
+- Auto executives are hoping for the best and planning for the worst in 2026 - CNBC
+- Meta, TikTok, YouTube to stand trial on youth addiction claims - Reuters
+- Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful - CNET
+- Former astronaut on lunar spacesuits: “I don’t think they’re great right now” - Ars Technica
