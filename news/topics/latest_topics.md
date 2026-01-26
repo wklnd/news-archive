@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 15:59_
+_Updated: 2026-01-26 16:55_
 
 ## Top Stories
 
-- Så förbereder sig Österlen på snöovädret – alla Ystads bussar ställs in - SVT Nyheter
-- Expert: Trump vill sätta sin bild av verkligheten - Dagens Nyheter
 - Jimmie Åkesson till akuten – halkade och slog i spegel - SVT Nyheter
-- Miljardmarknad på väg mellan Indien och EU - vk.se
-- Varg skjuten från helikopter – tros ha dödat 30 renar - nsd.se
-- DN Direkt – Norrmän åtalas för mutbrott i Kongo - Dagens Nyheter
-- M: Inför obligatoriska friluftsdagar i skolan - vk.se
+- DN Direkt – Trump skickar sin ”gräns-tsar” till Minnesota - Dagens Nyheter
+- Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Kvarlevor efter sista gisslan hittade i Gaza - Dagens Nyheter
+- DN Direkt – Biograf backar om Israelbojkott efter bombhot - Dagens Nyheter
+- Efter olyckan vid vårdcentralen i Linköping – kvinnan har avlidit - corren.se
+- Regeringen: Ungdomsrabatten ska sänkas kraftigt - vk.se
+- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
 - ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
-- Miljonviten hotar skolor: ”Behöver vara ekonomiskt kännbart” - Dagens Nyheter
-- DN Direkt – Interimsledaren om USA: Det räcker med order - Dagens Nyheter
 - DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
-- Nathan Shachar: Trumps medlare i Israel serverar Netanyahu bittra piller - Dagens Nyheter
+- Trumps skarpa ton mot Europa: ”Åka snålskjuts” - Expressen
+- Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
 - Bygg-vd ser ljuset i tunneln - Dagens Nyheter
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
+- Bank of America fortsatt negativ till svenska banker - EFN
 - Mercedes GLC EQ slår igenom – orderböckerna fyllda till 2026 - Dagens PS
-- Cathie Wood: Bitcoin når 800 000 dollar under 2030 - Dagens PS
+- Microsoft har lämnat ut Bitlocker-nycklar till FBI - Computer Sweden
 - Ryska hackare beskylls för attack mot elnät i Polen - Computer Sweden
-- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
 
 ## World News
 
+- Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- NTM nominerade i INMA Global Media Awards - ntm.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -80,19 +80,19 @@ _Updated: 2026-01-26 15:59_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -149,6 +149,7 @@ _Updated: 2026-01-26 15:59_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -160,5 +161,4 @@ _Updated: 2026-01-26 15:59_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
