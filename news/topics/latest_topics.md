@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 19:01_
+_Updated: 2026-01-26 19:53_
 
 ## Top Stories
 
 - Kristersson (M) vill se över preskriptionstiden efter tv-profilens flykt - SVT Nyheter
-- TV4-profilens förklaring i rätten - Kvartal
-- DN Direkt – Jimmie Åkesson skadad – missar möte i Knesset - Dagens Nyheter
+- Peter Alestig: Gates slår tillbaka mot Trump – men upprepar felaktigheter om klimatet - Dagens Nyheter
+- Ambulanstransporten dröjde – patient i Västerbotten avled - SVT Nyheter
 - Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
-- DN Direkt – Rutte: Kan ”fortsätta drömma” om försvar utan USA - Dagens Nyheter
-- Åklagaren dröjer med besked om Katja Nybergs provsvar - Omni
+- 22-årig man dömd på nytt för sexbrott mot barn - sydsvenskan.se
 - Domstol sätter stopp för vargjakten - gp.se
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
-- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
 - Elmia efter trafikkaoset – ska analysera vad som gick fel - SVT Nyheter
+- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
+- Fallolycka på industri – man till sjukhus i Grums - Expressen
 - Iran varnar USA med blodig affisch – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Israel ska öppna Gazagräns – för fotgängare - Dagens Nyheter
+- Utbildningen för ICE-agenter pressas efter Trumps hårda krav - Expressen
 - Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
-- Skarpa tonen mot Europa: ”Snålskjuts” - Expressen
+- USA:s armada på plats – kan bli stort anfall mot Iran - Dagens Nyheter
+- Ellevio: Ett olyckligt undantag – vi kan inget göra - Dagens Nyheter
 - Systemfel lämnar 3000 pensionsmiljarder oskyddade - Affärsvärlden
-- KB Components: Återhämtning i sikte? - Affärsvärlden
-- Bygg-vd ser ljuset i tunneln - Dagens Nyheter
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
-- Apples nya version av AirTags lovar bättre räckvidd och ett starkare ljud - TechRadar
-- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
+- 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
+- Allt vanligare att Microsoft lovar funktioner som aldrig dyker upp - PC för Alla
+- Audeze LCD-5s: Falsk sköldpadda och plattan i mattan - Audeze LCD-5s lovar lite lättare lyxljud - ljudochbild.se
 
 ## World News
 
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNI Global står i solidaritet med Indiens bankfackföreningar inför den landsomfattande strejken den 27 januari. - UNI Global Union
-- New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- NTM nominerade i INMA Global Media Awards - ntm.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2026-01-26 19:01_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
+- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -142,12 +142,12 @@ _Updated: 2026-01-26 19:01_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
