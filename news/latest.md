@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-26 19:57_
+_Updated: 2026-01-26 21:03_
 
-- Town-by-town totals: How much snow has fallen in Mass. so far? - boston25news.com
-- Minnesota Republican drops out of governor's race, citing GOP's handling of immigration enforcement - NBC News
+- Private jet crashes while taking off during storm in Maine - ABC News
+- Israel says it has retrieved remains of final Gaza hostage Ran Gvili - BBC
 - All eyes are on Rubio as he navigates the world in 2 critical roles - NPR
-- A Crisis of Confidence for ICE and Border Patrol as Clashes Escalate - The New York Times
+- Democrats grow louder on calls for Kristi Noem to resign or face impeachment - NBC News
 - Driving Restrictions for Delaware Downgraded Effective 10am - news.delaware.gov
-- When will the Dallas roads melt? Everybody wants to know ... Here's what we can tell you, for now - wfaa.com
-- Minneapolis Shooting Live Updates: Trump Sends Border Czar to Lead ICE Operation as Judge Weighs Its Legality - The New York Times
-- How $16B in earmarks evaded conservative ire — and helped clinch a funding deal - Politico
-- Storm dies down in Upstate NY, but how long will bitter cold last? - syracuse.com
+- A Crisis of Confidence for ICE and Border Patrol as Clashes Escalate - The New York Times
+- Minneapolis Live Updates: Trump Sends Border Czar to Oversee ICE Operations - The New York Times
 - Judges, inundated with immigration cases, don’t mince words on ICE tactics - Politico
+- How $16B in earmarks evaded conservative ire — and helped clinch a funding deal - Politico
+- Chris Madel ends GOP bid for governor, says he can’t support federal ‘retribution’ against Minnesota - Star Tribune
 - China’s top general under investigation for alleged violations amid corruption crackdown - The Guardian
-- Russian strike on Ukraine's Kyiv leaves 1,330 buildings still without heat, mayor says - Reuters
-- The European summit that will really wind up Trump - politico.eu
 - South Sudan army threat to 'spare no-one' condemned - BBC
-- An unusual Fed ‘rate check’ triggered a free fall in the U.S. dollar and investors are fleeing into gold - Fortune
+- France debates under-15s social media ban endorsed by Macron - BBC
+- Bessent: Greenland deal is ‘much more fulsome’ for the US - ABC News
 - Natural gas prices hit $6 for first time since 2022 as massive winter storm sweeps U.S. - CNBC
+- Meta, TikTok and YouTube heading to trial to defend against youth addiction, mental health harm claims - CNN
 - Auto executives are hoping for the best and planning for the worst in 2026 - CNBC
-- Meta, TikTok, YouTube to stand trial on youth addiction claims - Reuters
+- Sarepta Announces Positive Topline Three-Year EMBARK Results Showing ELEVIDYS Significantly Slows Disease Progression on Key Functional Measures in Ambulatory Duchenne Patients - Sarepta Therapeutics
 - Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful - CNET
-- Former astronaut on lunar spacesuits: “I don’t think they’re great right now” - Ars Technica
+- AI has arrived in Gmail. Here’s how to make it work for you - The Seattle Times
