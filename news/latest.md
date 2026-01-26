@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-26 22:56_
+_Updated: 2026-01-26 23:54_
 
-- Suozzi: ‘I failed’ when voting to pass DHS funding bill - Politico
-- All eyes are on Rubio as he navigates the world in 2 critical roles - NPR
-- Why Is the Trump Administration Demanding Minnesota’s Voter Rolls? - The New York Times
+- Republican ends bid for Minnesota governor, citing ‘unconstitutional’ ICE surge - The Guardian
+- NYC aims for return to school, roads cleared Tuesday as Mamdani warns of ‘debilitating’ cold - gothamist.com
 - Driving Restrictions for Delaware Downgraded Effective 10am - news.delaware.gov
-- When will the Dallas roads melt? Everybody wants to know ... Here's what we can tell you, for now - wfaa.com
+- Why Is the Trump Administration Demanding Minnesota’s Voter Rolls? - The New York Times
+- 31,000 Kaiser Permanente health care workers in California, Hawaii go on strike - abc7.com
+- IRS tax season 2026: What to know about filing taxes, new tax deductions and refunds - Axios
+- Dem support for impeaching Noem surges after Minnesota shooting - Axios
+- Federal Aviation Administration says 7 killed, 1 survived jet crash in snow in Bangor, Maine - AP News
 - Judges, inundated with immigration cases, don’t mince words on ICE tactics - Politico
+- N.J. weather: Snowfall totals hit 17 inches. See town-by-town snow reports for weekend storm. - nj.com
+- China’s top general under investigation for alleged violations amid corruption crackdown - The Guardian
 - South Sudan army threat to 'spare no-one' condemned - BBC
-- France debates under-15s social media ban endorsed by Macron - BBC
-- Bessent: Greenland deal is ‘much more fulsome’ for the US - ABC News
 - Party backed by generals set for landslide in 'sham' Myanmar election - BBC
-- TikTokers are heading to UpScrolled following US takeover - The Verge
+- Shift to Drone Fighting in Ukraine War Means No Winter Lull - The New York Times
+- S&P 500 closes higher as Meta and Apple rise ahead of earnings reports: Live updates - CNBC
+- What travelers can expect as Southwest Airlines introduces assigned seats - AP News
 - An unusual Fed ‘rate check’ triggered a free fall in the U.S. dollar and investors are fleeing into gold - Fortune
-- Thousands of Flights Canceled Monday After Snowstorm - The New York Times
-- Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End - The New York Times
+- TikTok alternative Skylight soars to 380K+ users after TikTok US deal finalized - TechCrunch
 - Anthropic launches interactive Claude apps, including Slack and other workplace tools - TechCrunch
-- Samsung, if You Add This to the Galaxy S26 Ultra, I'd Be Eternally Grateful - CNET
-- How to encrypt your PC’s disk without giving the keys to Microsoft - Ars Technica
-- Sony Set to Delay PS6 Release Date, Claims Financial Report - Push Square
-- Margot Robbie & Jacob Elordi Look Great Together in Traffic in New Pics - TMZ
-- Alfred Hitchcock Reframed For Microdrama Generation - Deadline
+- Microsoft’s first Windows 11 update of 2026 has been a mess - The Verge
