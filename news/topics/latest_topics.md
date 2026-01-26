@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 16:55_
+_Updated: 2026-01-26 17:52_
 
 ## Top Stories
 
-- Jimmie Åkesson till akuten – halkade och slog i spegel - SVT Nyheter
-- DN Direkt – Trump skickar sin ”gräns-tsar” till Minnesota - Dagens Nyheter
+- Åkesson halkade – fick akutvård - Aftonbladet
 - Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Kvarlevor efter sista gisslan hittade i Gaza - Dagens Nyheter
-- DN Direkt – Biograf backar om Israelbojkott efter bombhot - Dagens Nyheter
+- Dödligt jordskred i Indonesien – 80 personer saknas - SVT Nyheter
+- DN Direkt – Norrmän åtalas för mutbrott i Kongo - Dagens Nyheter
 - Efter olyckan vid vårdcentralen i Linköping – kvinnan har avlidit - corren.se
-- Regeringen: Ungdomsrabatten ska sänkas kraftigt - vk.se
-- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
-- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
+- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
+- Regeringen: Ungdomsrabatten ska sänkas kraftigt - vk.se
+- Miljonviten hotar skolor: ”Behöver vara ekonomiskt kännbart” - Dagens Nyheter
+- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
 - DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
-- Trumps skarpa ton mot Europa: ”Åka snålskjuts” - Expressen
-- Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
+- Slutligt adjö till rysk gas i EU - gp.se
+- Så närmar sig parterna fred i Ukraina – och där tar det stopp - Omni
+- Iran varnar USA med blodig affisch – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Bygg-vd ser ljuset i tunneln - Dagens Nyheter
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
-- Bank of America fortsatt negativ till svenska banker - EFN
 - Mercedes GLC EQ slår igenom – orderböckerna fyllda till 2026 - Dagens PS
-- Microsoft har lämnat ut Bitlocker-nycklar till FBI - Computer Sweden
+- 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
 - Ryska hackare beskylls för attack mot elnät i Polen - Computer Sweden
+- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-01-26 16:55_
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -60,7 +60,6 @@ _Updated: 2026-01-26 16:55_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,6 +67,7 @@ _Updated: 2026-01-26 16:55_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Industrieller Fokus und Wachstumspotenzial von KI-Startups in Deutschland - Xpert.Digital - Konrad Wolfenstein
 
@@ -96,25 +96,25 @@ _Updated: 2026-01-26 16:55_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
+- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
