@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 00:48_
+_Updated: 2026-01-27 01:46_
 
 ## Top Stories
 
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- Dödligt virus oroar – höjd beredskap i svenskparadiset - Expressen
 - V-politiker hyllar aktionen mot ministerns hem ”till 110 procent” - Aftonbladet
-- SD-ledamoten Katja Nyberg efter brottsmisstankarna: ”Offentligt karaktärsmord” - SVT Nyheter
-- Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
 - Risk för inbördeskrig i USA? En simulering säger ja - gp.se
+- Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
 - Barnen i Butja lever med minnena av den ryska ockupationen - Dagens Nyheter
+- SD-ledamoten Katja Nyberg efter brottsmisstankarna: ”Offentligt karaktärsmord” - SVT Nyheter
 - Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
 - 26 januari 19.59, Trafikkontroll, Västernorrlands län - Polisen.se
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
 - Två körde för fort utanför Skellefteå – fick böter - norran.se
-- Tyskland: Europa beroende av USA:s kärnvapen - gp.se
-- Skarpa tonen mot Europa: ”Snålskjuts” - Expressen
+- Trump hotar att höja tullarna mot Sydkorea till 25 procent - Omni
+- DN Direkt – C anmäler Ulf Kristersson till KU - Dagens Nyheter
+- Kinesisk toppmilitär anklagas för kärnvapenläcka - TV4 Nyheterna
 - Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
-- Stor demonstration mot Irans mullor i Göteborg - gp.se
 - Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
-- AI ger svenska anställda sämre självförtroende - Computer Sweden
-- Transporter med grön vätgas dyrare i Norden - Forskning.se
+- Prognos: Elpriset väntas rusa upp till 312 procent - Omni
+- Ikea börja sälja begagnade möbler – startar ny marknadsplats - gp.se
 - 100 år sedan den första ”tv-sändningen” - SVT Nyheter
 - Apple har släppt Ios 26.2.1 - mobil.se
 
@@ -110,11 +110,11 @@ _Updated: 2026-01-27 00:48_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
