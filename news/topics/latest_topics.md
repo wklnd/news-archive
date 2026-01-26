@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 12:53_
+_Updated: 2026-01-26 13:43_
 
 ## Top Stories
 
-- Försvaret hyrde privatjet till talmannen med familj - Dagens Nyheter
-- DN Direkt – Varg skjuten från helikopter - Dagens Nyheter
 - Mats från Malmö trodde på kärleken – lurades på 200 000 - Sydsvenskan
-- 26 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- ”Även kablar är enkla att hitta” - SvD
-- Här erbjuds studenter i Pakistan falska bankutdrag – för att ta sig till Sverige - SVT Nyheter
-- Rekordörn från Gryt död – blev 36 år trots skottskada - nt.se
-- Larm om skjutning i Södertälje – inget tyder på skottlossning - SVT Nyheter
 - ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
-- Bilar brann på Dammhagsgatan - landskronadirekt.com
+- 26 januari 12.26, Trafikkontroll, Västerbottens län - Polisen.se
+- Vattenledningar spolas i Visby och Väskinde - horisontmagasin.se
+- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
+- Bedriften: Friklättrade upp för skyskrapa - gp.se
+- Försvaret hyrde privatjet till talmannen med familj - Dagens Nyheter
+- Rekordörn från Gryt död – blev 36 år trots skottskada - nt.se
+- Mångmiljonböter för Sportadmin-läcka - gp.se
+- 26 januari 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
 - DN Direkt – Interimsledaren om USA: Det räcker med order - Dagens Nyheter
-- Nathan Shachar: Trumps medlare i Israel serverar Netanyahu bittra piller - Dagens Nyheter
-- Många befaras döda i båtolycka - Aftonbladet
+- Många befaras döda i båtolycka - gp.se
 - ”Trumps fokus kan lyfta Grönland” - SvD
+- Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
+- Bygg-vd ser ljuset i tunneln - Dagens Nyheter
 - Studie: AI slår hårdare mot jobben i Storbritannien - Affärsvärlden
+- Ny kryptolag i USA: Viktigt beslut av jordbruksutskottet imorgon - Dagens PS
 - Studie: Varje ny dollar i indexfond kan driva upp börsen med åtta - Omni Ekonomi
-- 50 000 kronor i månaden – sedan blir du inte lyckligare - Omni
-- "Börja inkludera farmaceuter i vården i ännu högre utsträckning" - Svensk Farmaci
+- 35-åring startar nytt byggföretag i Vilhelmina - folkbladet.nu
 - Windows 7 och Vista gör comeback – här laddar du ner - PC för Alla
-- Tidigare Netflixchefen: Karriärtipset som jag aldrig skulle lyssna på - gp.se
 
 ## World News
 
@@ -34,6 +34,7 @@ _Updated: 2026-01-26 12:53_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -46,7 +47,6 @@ _Updated: 2026-01-26 12:53_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -102,10 +102,10 @@ _Updated: 2026-01-26 12:53_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -113,7 +113,7 @@ _Updated: 2026-01-26 12:53_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
@@ -146,19 +146,19 @@ _Updated: 2026-01-26 12:53_
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
