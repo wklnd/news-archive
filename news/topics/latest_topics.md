@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 22:50_
+_Updated: 2026-01-26 23:47_
 
 ## Top Stories
 
 - DN Direkt – C anmäler Ulf Kristersson till KU - Dagens Nyheter
-- SD-toppen har vänt om Trump: ”Blir till skit” - SvD
 - Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
-- Analytiker: Kina rensar ut som under Mao Zedongs tid - Omni
-- Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
+- SD-ledamoten Katja Nyberg efter brottsmisstankarna: ”Offentligt karaktärsmord” - SVT Nyheter
 - Risk för inbördeskrig i USA? En simulering säger ja - gp.se
-- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
+- Barnen i Butja lever med minnena av den ryska ockupationen - Dagens Nyheter
+- Domstol sätter stopp för vargjakten - vk.se
+- Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
 - 26 januari 19.59, Trafikkontroll, Västernorrlands län - Polisen.se
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
 - Två körde för fort utanför Skellefteå – fick böter - norran.se
-- Tyskland: Europa beroende av USA:s kärnvapen - gp.se
-- Skarpa tonen mot Europa: ”Snålskjuts” - Expressen
-- USA:s armada på plats – kan bli stort anfall mot Iran - Dagens Nyheter
+- DN Direkt – Vita huset: Trump vill inte se någon dödas på USA:s gator - Dagens Nyheter
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- Efterlängtat besked för Ukraina – akut hjälp på väg - Marcus Oscarsson
+- Stor demonstration mot Irans mullor i Göteborg - gp.se
 - Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
-- Skogman tror på friluftsbolagen och tar högrisk-bet i SBB D, blankar Saab - Di (R) - Placera.se
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
+- Skogman tror på friluftsbolagen och tar högrisk-bet i SBB D, blankar Saab - Di (R) - Placera.se
+- Oväntade kärleksparet i TV4:s ”Farmen” – berättar nu - Expressen
 - 100 år sedan den första ”tv-sändningen” - SVT Nyheter
-- Apple har släppt Ios 26.2.1 - mobil.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-01-26 22:50_
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNI Global står i solidaritet med Indiens bankfackföreningar inför den landsomfattande strejken den 27 januari. - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -60,7 +60,7 @@ _Updated: 2026-01-26 22:50_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,7 +68,7 @@ _Updated: 2026-01-26 22:50_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -106,6 +106,7 @@ _Updated: 2026-01-26 22:50_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2026-01-26 22:50_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-01-26 22:50_
 
 ## Jordbruk
 
-- Pressinbjudan: Hundar på röda mattan – Göteborg Film Festival och Doggy bjuder in till hundbio - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Framtidens jordbruk - European Commission
-- Jordbrukspolitik - Naturvårdsverket
-- Lediga jobb - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
