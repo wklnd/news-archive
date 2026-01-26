@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 19:53_
+_Updated: 2026-01-26 21:00_
 
 ## Top Stories
 
-- Kristersson (M) vill se över preskriptionstiden efter tv-profilens flykt - SVT Nyheter
-- Peter Alestig: Gates slår tillbaka mot Trump – men upprepar felaktigheter om klimatet - Dagens Nyheter
-- Ambulanstransporten dröjde – patient i Västerbotten avled - SVT Nyheter
+- DN Direkt – Katja Nyberg (SD) bryter tystnaden om misstankarna: ”Karaktärsmord” - Dagens Nyheter
+- Dödsfall anmäls – fördröjd ambulans vid hjärtinfarkt - norran.se
 - Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
 - 22-årig man dömd på nytt för sexbrott mot barn - sydsvenskan.se
 - Domstol sätter stopp för vargjakten - gp.se
+- Ryssland bombar elnätet – då hjälper oxelösundarna till - sn.se
 - Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
 - Elmia efter trafikkaoset – ska analysera vad som gick fel - SVT Nyheter
+- INSÄNDARE: Rektorn på friskola: "Nej, så funkar inte vårt skolsystem" - corren.se
 - ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
-- Fallolycka på industri – man till sjukhus i Grums - Expressen
-- Iran varnar USA med blodig affisch – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Utbildningen för ICE-agenter pressas efter Trumps hårda krav - Expressen
-- Direkt – Kriget i Ukraina – Slutligt adjö till rysk gas i EU - Dagens Nyheter
 - USA:s armada på plats – kan bli stort anfall mot Iran - Dagens Nyheter
-- Ellevio: Ett olyckligt undantag – vi kan inget göra - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Kvarlevor efter sista gisslan hittade i Gaza - Dagens Nyheter
+- Slutligt adjö till rysk gas i EU - gp.se
+- DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
 - Systemfel lämnar 3000 pensionsmiljarder oskyddade - Affärsvärlden
 - AI ger svenska anställda sämre självförtroende - Computer Sweden
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
-- Allt vanligare att Microsoft lovar funktioner som aldrig dyker upp - PC för Alla
-- Audeze LCD-5s: Falsk sköldpadda och plattan i mattan - Audeze LCD-5s lovar lite lättare lyxljud - ljudochbild.se
+- "Stärka patient­säkerheten och underlätta arbetet på apotek" - Svensk Farmaci
+- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
+- Apple har släppt Ios 26.2.1 - mobil.se
 
 ## World News
 
@@ -33,8 +33,7 @@ _Updated: 2026-01-26 19:53_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNI Global står i solidaritet med Indiens bankfackföreningar inför den landsomfattande strejken den 27 januari. - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -46,7 +45,8 @@ _Updated: 2026-01-26 19:53_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -68,7 +68,7 @@ _Updated: 2026-01-26 19:53_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -106,7 +106,6 @@ _Updated: 2026-01-26 19:53_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -114,8 +113,9 @@ _Updated: 2026-01-26 19:53_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
