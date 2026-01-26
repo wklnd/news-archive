@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-26 21:00_
+_Updated: 2026-01-26 21:44_
 
 ## Top Stories
 
-- DN Direkt – Katja Nyberg (SD) bryter tystnaden om misstankarna: ”Karaktärsmord” - Dagens Nyheter
-- Dödsfall anmäls – fördröjd ambulans vid hjärtinfarkt - norran.se
+- DN Direkt – Flera döda i flygkrasch i USA - Dagens Nyheter
+- DN Direkt – C anmäler Ulf Kristersson till KU - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Tyska utrikesministern: Ryssland för envist för fred - Dagens Nyheter
+- Lägenhet avspärrad: ”Ett i allra högsta grad pågående ärende” - borlangetidning.se
+- USA-expert: Största risken för inbördeskrig på 60 år - Omni
+- Statsministern KU-anmäls för Lantmäteriets säkerhetsbrister - Altinget.se
+- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
+- 26 januari 19.59, Trafikkontroll, Västernorrlands län - Polisen.se
 - Mitt i snösmockan – Stockholm ignorerade 10 000 klagomål - Dagens Nyheter
-- 22-årig man dömd på nytt för sexbrott mot barn - sydsvenskan.se
-- Domstol sätter stopp för vargjakten - gp.se
-- Ryssland bombar elnätet – då hjälper oxelösundarna till - sn.se
-- Parlamentet uppmärksammar Internationella minnesdagen för förintelsens offer - European Parliament
-- Elmia efter trafikkaoset – ska analysera vad som gick fel - SVT Nyheter
-- INSÄNDARE: Rektorn på friskola: "Nej, så funkar inte vårt skolsystem" - corren.se
-- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
+- DN Direkt – M: Inför obligatoriska friluftsdagar i skolan - Dagens Nyheter
 - USA:s armada på plats – kan bli stort anfall mot Iran - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Kvarlevor efter sista gisslan hittade i Gaza - Dagens Nyheter
-- Slutligt adjö till rysk gas i EU - gp.se
 - DN Direkt – Frankrike nära åldersgräns i sociala medier - Dagens Nyheter
+- Skarpa tonen mot Europa: ”Snålskjuts” - Expressen
 - Systemfel lämnar 3000 pensionsmiljarder oskyddade - Affärsvärlden
-- AI ger svenska anställda sämre självförtroende - Computer Sweden
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
+- AI ger svenska anställda sämre självförtroende - Computer Sweden
 - "Stärka patient­säkerheten och underlätta arbetet på apotek" - Svensk Farmaci
-- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
+- Oväntade kärleksparet i TV4:s ”Farmen” – berättar nu - Expressen
 - Apple har släppt Ios 26.2.1 - mobil.se
 
 ## World News
@@ -106,6 +106,7 @@ _Updated: 2026-01-26 21:00_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -113,9 +114,8 @@ _Updated: 2026-01-26 21:00_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
 
@@ -124,6 +124,7 @@ _Updated: 2026-01-26 21:00_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
@@ -133,12 +134,11 @@ _Updated: 2026-01-26 21:00_
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
