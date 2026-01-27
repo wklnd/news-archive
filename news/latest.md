@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 13:54_
+_Updated: 2026-01-27 15:32_
 
+- Minneapolis Live Updates: Trump Pulls Bovino From ICE Operations in Minnesota - The New York Times
+- Trump signals de-escalation of ICE ops in Minneapolis - Axios
+- After Alex Pretti’s Killing, A Divided America Wonders What’s Next - The New York Times
+- The Take: Minnesota, ICE and the makings of a US civil war - Al Jazeera
 - Trump raises US tariffs on South Korea imports to 25% - BBC
-- US carrier strike group is now in the Middle East region, sources say - CNN
-- SCHOOL CLOSINGS: List of Georgia districts canceling or going virtual Tuesday - wsbtv.com
-- Minnesota officials rebuff DOJ's data demands after latest shooting by federal agents - NPR
+- Trump's immigration approval drops to record low, Reuters/Ipsos poll finds - Reuters
+- ICE agents to help with US security operations at Winter Olympics in Italy - France 24
+- White House Distances Trump From Initial Response to Minnesota Killing - The New York Times
+- Exclusive: Trump says Iran wants a deal as U.S. "armada" arrives - Axios
+- Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown - The New York Times
+- How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right - The New York Times
 - Chinese Pandas Leave Japanese Zoo - The New York Times
 - UK's Starmer heads to China to repair ties as he navigates tensions with US - Reuters
-- Ukrainians are sharing hacks online on how to survive winter power cuts - NPR
-- Getting to ‘no': Europe’s leaders find a way to speak with one voice against Trump - AP News
+- Golden Dome is forcing the Pentagon to confront missile defense economics - SpaceNews
+- American Airlines projects revenue growth for 2026, misses earnings estimates for fourth quarter - CNBC
+- Boeing Stock Trades In Buy Zone Ahead Of Earnings Test - Investor's Business Daily
 - UnitedHealth posts modest earnings beat, soft revenue guidance as insurer plots turnaround - CNBC
-- Social Media Giants Face Landmark Legal Tests on Child Safety - The New York Times
-- Gold Prices Top $5,000. These ETFs, Gold Miner Stocks Surge. - Investor's Business Daily
-- Marshall does not plan to offer credit card amendment at crypto markup - Politico
-- The Galaxy S24 Ultra is so sharp it's tearing through people's pants - SamMobile
-- January Update 1.13.0 - ARC Raiders
-- Clawdbot is a viral AI assistant: What it is, how to try it - Mashable
-- Komoot’s Apple Watch App Gets Offline Maps & Routing: Hand-on! - DC Rainmaker
-- Horoscope for Tuesday, 01/27/26 by Christopher Renstrom - SFGATE
-- Mountain lion spotted in new location in S.F.’s Pacific Heights; video shows puma - San Francisco Chronicle
-- WWE Raw preview (Jan. 26, 2026): Bron Breakker’s future on Raw is now in question - Cageside Seats
-- Exclusive: How Jonathan Anderson Is ‘Rebooting’ Couture at Dior - The Business of Fashion
+- With Tesla earnings on deck, investors reveal their most pressing questions for Elon Musk - MarketWatch
+- iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors
+- Samsung Unveils Exclusive Galaxy Z Flip7 Olympic Edition, Supporting Athletes’ Entire Milano Cortina 2026 Journey - samsung.com
