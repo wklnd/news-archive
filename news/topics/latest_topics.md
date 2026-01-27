@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 16:02_
+_Updated: 2026-01-27 16:58_
 
 ## Top Stories
 
-- Kristersson (M): Djupt provocerande - gp.se
-- DN Direkt – Fortsatt flera vädervarningar i södra Sverige - Dagens Nyheter
-- Natalyas hem iskallt: ”Blodet frös till is” - vk.se
+- Kryddfabrik flyttas till Estland – 105 varslas - SVT Nyheter
+- Dödligt drönaranfall mot ukrainska Odessa - gp.se
+- DN Direkt – Spermieskandal går till domstol - Dagens Nyheter
+- Bekräftat mässlingsfall i Göteborg - gp.se
 - Tweeten gjorde honom till regimens fiende - SvD
-- Insändare. Fängslande av 13-åringar ett skamligt försök till genväg - Dagens Nyheter
-- DN Direkt – Elisabeth Svantesson vill utreda euron i Sverige - Dagens Nyheter
+- Här är Stockholms vanligaste vinterfåglar - mitti.se
 - Misstänkte spionens bil dumpad vid kungens slott - Omni
 - Fler lärare åtalas för brott – efter att ha ingripit mot stökiga elever - SVT Nyheter
-- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
+- Polistillslag mot kommunhuset i Sundsvall – sex gripna - SVT Nyheter
+- Fetmaläkemedel slår säljrekord - gd.se
 - Indien och EU överens om frihandelsavtal - SVT Nyheter
-- En halv miljon papperslösa får lov att stanna - vk.se
-- Växande krav på riksrätt mot säkerhetsminister - Aftonbladet
+- DN Direkt – Domare: ICE-chef till domstol på fredag - Dagens Nyheter
+- DN Direkt – En halv miljon papperslösa i Spanien får stanna - Dagens Nyheter
 - Stor demonstration mot Irans mullor i Göteborg - gp.se
 - Meta lanserar nya abonnemang på Facebook och Instagram - Expressen
+- Northvolt-köparens nya satsning: Betong - DI
 - Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
 - Strategen: Pressen på dollarn fortsätter – väljer bort USA-aktier - Börskollen
-- ”Framtidens elnät börjar i kvarteret – nu är det dags för energigemenskaper” - NyTeknik
 - Ny AI-funktion i Google Kalender föreslår lämpliga tider för möten - Computer Sweden
 - Nya versionen av Starship lyfter i mars. SpaceX jätteraket nu ännu kraftfullare. - feber.se
-- Du får nu mer kontroll över foto-till-videofunktionen i Google Foto - m3.se
 
 ## World News
 
@@ -102,20 +102,20 @@ _Updated: 2026-01-27 16:02_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -145,10 +145,10 @@ _Updated: 2026-01-27 16:02_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -157,8 +157,8 @@ _Updated: 2026-01-27 16:02_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
