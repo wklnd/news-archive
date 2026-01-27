@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 23:43_
+_Updated: 2026-01-28 00:47_
 
 ## Top Stories
 
-- Nästan två miljoner sårade och döda i Ukraina - Dagens Nyheter
+- Arbetsplatsolycka i Söderhamn – två män döda - Aftonbladet
+- Björn af Kleen: Nu kallas Trumps administration fascistisk - Dagens Nyheter
 - Demokraterna utreder Kristi Noem – vill ställa ministern inför riksrätt - Dagens Nyheter
-- Tidö missar det andra barnperspektivet - SvD
+- Flicka hanterade mordvapnet – polisen utreder flera unga i mordhärva - sydsvenskan.se
+- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
 - Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
-- KALLE LIND: Är dagens gamla för bortskämda? - Expressen
-- Piotr Jones: ”Tänkte att det skulle vara värre” - helagotland.se
 - DN Direkt – Luftrenare i Sverige avger hälsofarlig gas - Dagens Nyheter
-- Journalisten Sigurd Glans död - vk.se
-- Kammarrätten sätter stopp för årets vargjakt - Jordbruksaktuellt
-- Finansministern vill utreda euron - SVT Nyheter
+- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
+- Socialstyrelsen kartlägger obesitasläkemedel - LäkemedelsVärlden
+- Spaniens drag – för att vinna tävling om krigsfartyg - Dagens Nyheter
+- Nästan två miljoner sårade och döda i Ukraina - Dagens Nyheter
 - Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
-- Trumps ”armada” på plats – Iran gör sig redo - Expressen
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
-- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
+- Trumps ”armada” på plats – Iran gör sig redo - Expressen
 - Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
-- Kepler: Köp ABB – underskattad vinstförmåga - Affärsvärlden
-- Chefer tror på AI-nytta – inte anställda - SvD
 - Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
+- Chefer tror på AI-nytta – inte anställda - SvD
+- Därför är köttfärsen slut: ”Torkan var en käftsmäll” - borlangetidning.se
 - Välkommen till öppet hus på Stenbäcksgården - kalix.se
-- Android får ett förbättrat stöldskydd - Swedroid
+- Face ID ryktas krympa i iPhone Air 2 – goda nyheter för Mac? - Teknikveckan
 
 ## World News
 
@@ -60,7 +60,6 @@ _Updated: 2026-01-27 23:43_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-01-27 23:43_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -143,12 +143,12 @@ _Updated: 2026-01-27 23:43_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -157,8 +157,8 @@ _Updated: 2026-01-27 23:43_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
