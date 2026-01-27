@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 09:03_
+_Updated: 2026-01-27 09:54_
 
-- White House Distances Trump From Initial Response to Minnesota Killing - The New York Times
 - India and European Union have closed a 'landmark' free trade deal, Prime Minister Modi says - CNBC
 - Americans largely at odds with Trump administration on immigration, ICE tactics: Polls - ABC News
 - Trump raises US tariffs on South Korea imports to 25% - BBC
-- Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown - The New York Times
+- White House Distances Trump From Initial Response to Minnesota Killing - The New York Times
+- Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers - NPR
 - Winter Storm Debilitates the South, Encasing Cities in Ice and Snow - The New York Times
 - SCHOOL CLOSINGS: List of Georgia districts canceling or going virtual Tuesday - wsbtv.com
-- Ukrainians are sharing hacks online on how to survive winter power cuts - NPR
-- Japan-US alliance would crumble if Tokyo ignored Taiwan crisis, PM Takaichi says - Reuters
+- UK's Starmer heads to China to repair ties as he navigates tensions with US - Reuters
 - Indonesian marines among 80 missing in deadly West Java landslide - ABC News
 - 'Major step': French MPs vote in favour of bill to ban social media for under-15s - BBC
-- Asia stocks climb on Wall St lead; S.Korea rebounds after tariff jitters - Investing.com
-- Dollar slides to 4-month low on efforts to boost the yen, which could spell trouble for U.S. equities - MarketWatch
-- The Detroit News to be acquired by USA TODAY Co., owner of Detroit Free Press - detroitnews.com
-- Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End - The New York Times
+- Ukrainians are sharing hacks online on how to survive winter power cuts - NPR
+- As Tech Chiefs Woo Trump, Silicon Valley Seethes Over Minneapolis Shootings - The New York Times
+- Stocks up as earnings hopes offset Trump's Korea tariff move, dollar wobbles - Reuters
+- Former Citigroup executive sues bank over handling of sexual harassment claims - Financial Times
+- Dollar under fire again as investors reassess Trump policies, geopolitical risk - Reuters
+- iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors
 - Apple iPhone 18 Pro’s Biggest Visual Redesign In Years Revealed In New Leak - Forbes
-- MTG Arena Announcements – January 26, 2026 - Magic: The Gathering
-- Highguard Already Has Over 7,000 Negative Reviews On Steam - Kotaku
-- Headwinds: Ready to go against the odds? - ARC Raiders
+- This is Android 17’s blur, new screen recorder, & more in leaked screenshots [Gallery] - 9to5Google
+- Code Vein II Review - Bloodsucking The Fun Away - Game Informer
 - Neil Young Trashes Amazon, Gives His Complete Musical Catalog to Greenland for Free - Rolling Stone
