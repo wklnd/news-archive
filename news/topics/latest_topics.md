@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 13:46_
+_Updated: 2026-01-27 15:28_
 
 ## Top Stories
 
 - USA utvisar iranier för första gången sedan protesterna inleddes – Senaste nytt om protesterna i Iran - SVT Nyheter
-- DN Direkt – Kommuner sparar – ingen söndagsstek till äldre - Dagens Nyheter
-- Natalyas hem iskallt: ”Blodet frös till is” - vk.se
-- Talade ut: ”Ali Khamenei är inte min ledare” - SvD
+- Kristersson (M): Djupt provocerande - gp.se
 - DN Direkt – C: Vi säger nej till alla regeringar där SD eller V ingår - Dagens Nyheter
-- Miljonnota för Västtrafik efter snökaoset - GP
-- Misstänkte spionens bil dumpad vid kungens slott - Omni
-- JUST NU: En till sjukhus efter brand i lägenhet – hoppade ut genom fönster - nwt.se
+- DN Direkt – Kommuner sparar – ingen söndagsstek till äldre - Dagens Nyheter
+- Insändare. Fängslande av 13-åringar ett skamligt försök till genväg - Dagens Nyheter
+- Tweeten gjorde honom till regimens fiende - SvD
+- Här hittar DN den misstänkte spionens bil – utanför Drottningholms slott - Dagens Nyheter
 - Förslaget: Äldre ska få välja kön på personalen - Expressen
-- LEDARE: "Det är fritt att ge råd men vattenbesluten fattas här" - helagotland.se
+- Fler lärare åtalas för brott – efter att ha ingripit mot stökiga elever - SVT Nyheter
+- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
 - DN Direkt – En halv miljon papperslösa i Spanien får stanna - Dagens Nyheter
-- Växande krav på riksrätt mot säkerhetsminister - GP
-- Olycka på E6 utanför Trelleborg – SMHI varnar för snö - Expressen
+- Växande krav på riksrätt mot säkerhetsminister - gp.se
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
 - Meta lanserar nya abonnemang på Facebook och Instagram - Expressen
-- Miljardärens förmögenhet rusar – sitter på dold försvarsjuvel - Affärsvärlden
-- Snö nollställde Tiktoks algoritm - SvD
-- Dansk app gör succé – bojkottar varor från USA - sydsvenskan.se
-- INSÄNDARE: Vem ska vi skylla snökaoset på? - unt.se
-- Intels nya Core Ultra-chip slår Apples M5 i flerkärnig prestanda - Teknikveckan
+- Northvolt-köparen satsar på ny marknad - Dagens Nyheter
+- Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
+- Strategen: Pressen på dollarn fortsätter – väljer bort USA-aktier - Börskollen
+- Ny AI-funktion i Google Kalender föreslår lämpliga tider för möten - Computer Sweden
+- Nya versionen av Starship lyfter i mars. SpaceX jätteraket nu ännu kraftfullare. - feber.se
 
 ## World News
 
@@ -60,6 +60,7 @@ _Updated: 2026-01-27 13:46_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,15 +69,14 @@ _Updated: 2026-01-27 13:46_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -86,13 +86,13 @@ _Updated: 2026-01-27 13:46_
 - Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -102,9 +102,7 @@ _Updated: 2026-01-27 13:46_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
-- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -113,31 +111,33 @@ _Updated: 2026-01-27 13:46_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 
 ## Jordbruk
