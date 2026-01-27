@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 22:48_
+_Updated: 2026-01-27 23:43_
 
 ## Top Stories
 
-- Studie: Nära två miljoner offer i Ukrainakriget - vk.se
-- ÖB: Oacceptabelt med brist på trosor i försvaret - Omni
-- Styrande politikerna vill vänta med extern granskning av Granlidens äldreboende - gp.se
-- Björn af Kleen: Nu kallas Trumps administration fascistisk - Dagens Nyheter
-- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
-- HRANA: 6 126 dödade i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Nästan två miljoner sårade och döda i Ukraina - Dagens Nyheter
+- Demokraterna utreder Kristi Noem – vill ställa ministern inför riksrätt - Dagens Nyheter
+- Tidö missar det andra barnperspektivet - SvD
+- Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
+- KALLE LIND: Är dagens gamla för bortskämda? - Expressen
+- Piotr Jones: ”Tänkte att det skulle vara värre” - helagotland.se
+- DN Direkt – Luftrenare i Sverige avger hälsofarlig gas - Dagens Nyheter
 - Journalisten Sigurd Glans död - vk.se
-- Spaniens drag – för att vinna tävling om krigsfartyg - Dagens Nyheter
-- DN Direkt – Domedagsklockan fyra sekunder närmare undergång - Dagens Nyheter
-- Växande krav på riksrätt mot säkerhetsminister - gp.se
-- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
+- Kammarrätten sätter stopp för årets vargjakt - Jordbruksaktuellt
+- Finansministern vill utreda euron - SVT Nyheter
+- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
 - Trumps ”armada” på plats – Iran gör sig redo - Expressen
-- Kepler: Köp ABB – underskattad vinstförmåga - Affärsvärlden
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
 - Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
-- Stor klyfta: Chefer hyllar AI – anställda tvivlar - SvD
+- Kepler: Köp ABB – underskattad vinstförmåga - Affärsvärlden
+- Chefer tror på AI-nytta – inte anställda - SvD
 - Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
 - Välkommen till öppet hus på Stenbäcksgården - kalix.se
-- Face ID ryktas krympa i iPhone Air 2 – goda nyheter för Mac? - Teknikveckan
-- Du får nu mer kontroll över foto-till-videofunktionen i Google Foto - m3.se
-- Pixel-mobiler drabbas av anslutningsproblem efter senaste uppdateringen - m3.se
+- Android får ett förbättrat stöldskydd - Swedroid
 
 ## World News
 
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -60,6 +60,7 @@ _Updated: 2026-01-27 22:48_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-01-27 22:48_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -99,9 +99,13 @@ _Updated: 2026-01-27 22:48_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
+- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -110,12 +114,8 @@ _Updated: 2026-01-27 22:48_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -160,5 +160,5 @@ _Updated: 2026-01-27 22:48_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
