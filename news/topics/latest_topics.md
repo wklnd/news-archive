@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 21:48_
+_Updated: 2026-01-27 22:48_
 
 ## Top Stories
 
-- Arbetsplatsolycka i Söderhamn – två män döda - Aftonbladet
-- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
+- Studie: Nära två miljoner offer i Ukrainakriget - vk.se
 - ÖB: Oacceptabelt med brist på trosor i försvaret - Omni
-- Taliah Pollack: Hur ska jag bäst berätta för min dotter om vad judarna gått igenom? - Dagens Nyheter
-- DN Direkt – Kommuner sparar – ingen söndagsstek till äldre - Dagens Nyheter
-- Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
-- SD-toppen: ”Blankt nej” till euron - Omni
-- V-politiker försvarar hotaktion mot ministrar: ”Demokratikämpar” - Dagens Nyheter
-- Socialstyrelsen kartlägger obesitasläkemedel - LäkemedelsVärlden
-- Åklagare bekräftar – dna-spår ledde till gripande i Rönningefallet - Dagens Nyheter
-- HRANA: 6 126 dödade i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Styrande politikerna vill vänta med extern granskning av Granlidens äldreboende - gp.se
 - Björn af Kleen: Nu kallas Trumps administration fascistisk - Dagens Nyheter
-- Växande krav på riksrätt mot säkerhetsminister - Aftonbladet
-- Kvarlevorna efter sista gisslan funna – det händer nu - Dagens Nyheter
-- Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
+- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
+- HRANA: 6 126 dödade i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Journalisten Sigurd Glans död - vk.se
+- Spaniens drag – för att vinna tävling om krigsfartyg - Dagens Nyheter
+- DN Direkt – Domedagsklockan fyra sekunder närmare undergång - Dagens Nyheter
+- Växande krav på riksrätt mot säkerhetsminister - gp.se
+- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
+- Trumps ”armada” på plats – Iran gör sig redo - Expressen
 - Kepler: Köp ABB – underskattad vinstförmåga - Affärsvärlden
-- Mercedes-AMG:s andra Mythos testas i Norrbotten - auto motor & sport
+- Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
+- Stor klyfta: Chefer hyllar AI – anställda tvivlar - SvD
 - Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
 - Välkommen till öppet hus på Stenbäcksgården - kalix.se
 - Face ID ryktas krympa i iPhone Air 2 – goda nyheter för Mac? - Teknikveckan
+- Du får nu mer kontroll över foto-till-videofunktionen i Google Foto - m3.se
+- Pixel-mobiler drabbas av anslutningsproblem efter senaste uppdateringen - m3.se
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-01-27 21:48_
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -120,24 +120,24 @@ _Updated: 2026-01-27 21:48_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -146,9 +146,9 @@ _Updated: 2026-01-27 21:48_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
