@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 11:02_
+_Updated: 2026-01-27 11:58_
 
-- India and European Union have closed a 'landmark' free trade deal, Prime Minister Modi says - CNBC
 - Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown - The New York Times
 - Winter Storm Debilitates the South, Encasing Cities in Ice and Snow - The New York Times
+- Federal agents use teargas on protesters outside ICE agents’ alleged Minneapolis hotel - The Guardian
 - White House Distances Trump From Initial Response to Minnesota Killing - The New York Times
-- SCHOOL CLOSINGS: List of Georgia districts canceling or going virtual Tuesday - wsbtv.com
+- Newsom to probe claims of Trump-critical censorship at TikTok - Politico
+- Shootings Pose a Hard Question for the Right: Who’s a Conservative, Really? - The New York Times
 - Chris Mason: Both Tories and Labour feel the Reform heebie-jeebies - BBC
-- Japan-US alliance would crumble if Tokyo ignored Taiwan crisis, PM Takaichi says - Reuters
-- Ukrainians are sharing hacks online on how to survive winter power cuts - NPR
+- Indonesian marines among 80 missing in deadly West Java landslide - ABC News
 - 'Major step': French MPs vote in favour of bill to ban social media for under-15s - BBC
-- Asian stocks hit record high as earnings hopes offset Trump's Korea tariff move - Reuters
-- Former Citigroup executive sues bank over handling of sexual harassment claims - Financial Times
-- Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp - TechCrunch
-- Dow Jones Futures: AMD, Astera, Oklo, Rocket Lab, Tesla Sell Off; Fed Meeting Next - Investor's Business Daily
-- Apple iPhone 18 Pro’s Biggest Visual Redesign In Years Revealed In New Leak - Forbes
-- Clawdbot is a viral AI assistant: What it is, how to try it - Mashable
-- Code Vein II Review - Bloodsucking The Fun Away - Game Informer
-- MTG Arena Announcements – January 26, 2026 - Magic: The Gathering
-- North West Calls Mom Kim Kardashian ‘the Goat’ During Livestream: ‘I Hope Someone Recorded That’ - Yahoo
+- Bessent: Greenland deal is ‘much more fulsome’ for the US - ABC News
+- Meta to test premium subscription plans for Instagram, Facebook and WhatsApp - CNBC
+- Dollar under fire again as investors reassess Trump policies, geopolitical risk - Reuters
+- Marshall does not plan to offer credit card amendment at crypto markup - Politico
+- The Detroit News to be acquired by USA TODAY Co., owner of Detroit Free Press - detroitnews.com
+- iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors
+- Samsung just confirmed its upcoming Galaxy Buds 4 and Pro - SamMobile
+- Apple to address the lack of cameras on the iPhone Air with the second model according to leak - PhoneArena
+- iPhone 18 Pro: Six new features are coming later this year - 9to5Mac
+- Horoscope for Tuesday, 01/27/26 by Christopher Renstrom - SFGATE
 - Neil Young Trashes Amazon, Gives His Complete Musical Catalog to Greenland for Free - Rolling Stone
-- What happened with CM Punk and AJ Styles after WWE RAW went off the air in Toronto - NoDQ.com
