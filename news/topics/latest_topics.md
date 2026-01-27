@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 16:58_
+_Updated: 2026-01-27 17:51_
 
 ## Top Stories
 
-- Kryddfabrik flyttas till Estland – 105 varslas - SVT Nyheter
-- Dödligt drönaranfall mot ukrainska Odessa - gp.se
-- DN Direkt – Spermieskandal går till domstol - Dagens Nyheter
-- Bekräftat mässlingsfall i Göteborg - gp.se
-- Tweeten gjorde honom till regimens fiende - SvD
-- Här är Stockholms vanligaste vinterfåglar - mitti.se
-- Misstänkte spionens bil dumpad vid kungens slott - Omni
-- Fler lärare åtalas för brott – efter att ha ingripit mot stökiga elever - SVT Nyheter
-- Polistillslag mot kommunhuset i Sundsvall – sex gripna - SVT Nyheter
-- Fetmaläkemedel slår säljrekord - gd.se
 - Indien och EU överens om frihandelsavtal - SVT Nyheter
-- DN Direkt – Domare: ICE-chef till domstol på fredag - Dagens Nyheter
-- DN Direkt – En halv miljon papperslösa i Spanien får stanna - Dagens Nyheter
+- Dödligt drönaranfall mot ukrainska Odessa - gp.se
+- Insändare. Fängslande av 13-åringar ett skamligt försök till genväg - Dagens Nyheter
+- DN Direkt – Åkesson talade på konferens i Jerusalem - Dagens Nyheter
+- Bekräftat mässlingsfall i Göteborg - gp.se
+- Här är Stockholms vanligaste vinterfåglar - mitti.se
+- Person till sjukhus efter allvarlig arbetsplatsolycka - SVT Nyheter
+- Misstänkte spionens bil dumpad vid kungens slott - Omni
+- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
+- Svantesson öppnar för euron – vill tillsätta utredning - Omni
 - Stor demonstration mot Irans mullor i Göteborg - gp.se
-- Meta lanserar nya abonnemang på Facebook och Instagram - Expressen
+- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
+- Expert om Kina: ”Nu vänder det snabbt” - Hufvudstadsbladet
+- En halv miljon papperslösa får stanna i Spanien - Omni
 - Northvolt-köparens nya satsning: Betong - DI
+- Meta lanserar nya abonnemang på Facebook och Instagram - Expressen
 - Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
-- Strategen: Pressen på dollarn fortsätter – väljer bort USA-aktier - Börskollen
+- Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
 - Ny AI-funktion i Google Kalender föreslår lämpliga tider för möten - Computer Sweden
-- Nya versionen av Starship lyfter i mars. SpaceX jätteraket nu ännu kraftfullare. - feber.se
+- FZ berättar rollspelens historia – från D&D till Clair Obscur - FZ.se
 
 ## World News
 
@@ -35,14 +35,14 @@ _Updated: 2026-01-27 16:58_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- WPP samlar produktion i ny global enhet - Dagens Media
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- WPP samlar produktion i ny global enhet - Dagens Media
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
@@ -100,21 +100,21 @@ _Updated: 2026-01-27 16:58_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
+- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
