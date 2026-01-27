@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 19:57_
+_Updated: 2026-01-27 21:06_
 
-- Live updates: Top Border Patrol official set to leave Minneapolis as Trump sends border czar to state - CNN
+- Minneapolis Live Updates: Walz Meets With Trump’s New Leader of ICE Operations in Minnesota - The New York Times
 - First wrongful death lawsuit filed against Trump administration over drug boat strikes - NBC News
-- After rocky start, Bari Weiss to cut staff, add commentators at CBS News - NPR
+- After rocky start, Bari Weiss plans cuts, adds commentators at CBS News - NPR
+- House Democrats to investigate Kristi Noem with eye on impeachment push - The Washington Post
+- Population Growth Slows Due to Decline in Net International Migration - Census.gov
 - Week of action in honor of Alex Pretti, RN and all others killed by ice - National Nurses United
-- 6 people on private plane tied to Houston law firm presumed dead after crash in Maine, officials say - abc13.com
-- As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain - The New York Times
-- Minnesota killing produces backlash against Trump administration from Second Amendment advocates - AP News
 - Could another storm hit the East Coast soon? Here are the possibilities. - The Washington Post
-- White House backtracks initial claims about Alex Pretti after intense backlash - The Guardian
+- After Alex Pretti’s Killing, A Divided America Wonders What’s Next - The New York Times
 - Brothers Charged With Sex Trafficking Wage Campaign to Shame Accusers - The New York Times
-- How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right - The New York Times
-- In China, AI is no longer optional for some kids. It’s part of the curriculum - NPR
 - World pauses to commemorate International Holocaust Remembrance Day - AP News
+- ‘Situation is dire’ for Sicily town teetering on cliff edge after landslide - The Guardian
+- In China, AI is no longer optional for some kids. It’s part of the curriculum - NPR
 - As Trump shuffles global order, U.K. prime minister heads to Beijing - The Washington Post
-- UPS to slash 30,000 more jobs as Amazon volume cuts deepen - Reuters
-- Stock Market Today: Dow Opens Lower; UnitedHealth Stock Slides After Earnings — Live Updates - The Wall Street Journal
-- Tech giants head to landmark US trial over social media addiction claims - The Guardian
-- Rare Earth Stocks Backslide After Trump Takes Stake In USA Rare Earth - Investor's Business Daily
-- Latest Google Pixel update causing Wi-Fi and Bluetooth issues for some - 9to5Google
+- Amazon to Shut Down All Amazon Go and Amazon Fresh Stores - The Wall Street Journal
+- The Fed has four new voters this year. They may complicate Trump’s push for lower rates - CNN
+- Pinterest cuts up to 15% jobs to prioritize AI push, shares sink - Reuters
+- TikTok Star Khaby Lame Sells His Core Company In Deal Worth $975 Million - Forbes
 - Galaxy Book 6 Pro and Book 6 Ultra have been launched - SamMobile
+- 149M logins exposed in unsecured database, inc 900k Apple accounts - 9to5Mac
+- January Update 1.13.0 - ARC Raiders
