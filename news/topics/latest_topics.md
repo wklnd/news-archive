@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 09:49_
+_Updated: 2026-01-27 10:58_
 
 ## Top Stories
 
 - Notan för talmannens inställda resa: 1,5 miljoner kronor - Dagens Nyheter
 - Miljonnota för Västtrafik efter snökaoset - gp.se
+- Matpriserna slår – äldre förlorar lax och Bregott - Expressen
 - Natalyas hem iskallt: ”Blodet frös till is” - vk.se
-- Höjda priser får kommuner att dra in äldres lax - Omni
-- ”Ångesten kommer tillbaka med kraft” - SvD
-- Bilaktier rasade efter Trumps tullhot - gp.se
-- Skånska hackern om sexchattarnas kvinnor: ”Inte sett en enda som är riktig” - sydsvenskan.se
-- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
-- ”Jag kan inte längre se på när äldre ber om ursäkt för att de finns” - Arbetet
-- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
+- ”Jag glömmer inte – men förlåter inte heller” - SvD
+- Explosion vid byggnad i Västerås - SVT Nyheter
+- Par på Essingen fick besök av Klarna-bedragare - mitti.se
+- Lägenhetsbrand i Åmål – en person till sjukhus - SVT Nyheter
+- Dejtingsajter kritiseras – män får betalt för att sexchatta som kvinnor - SvD
+- INSÄNDARE: Det behövs mer kontroller av personal som vårdar våra äldre - eposten.se
+- Växande krav på riksrätt mot säkerhetsminister - gp.se
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
 - Stor demonstration mot Irans mullor i Göteborg - gp.se
-- DN Direkt – Jimmie Åkesson skadad – missar möte i Knesset - Dagens Nyheter
 - EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
-- Spotify-topparna göder Sverige mest av alla - DI
-- Dansk app populär – bojkottar USA-varor - SvD
+- Miljardärens förmögenhet rusar – sitter på dold försvarsjuvel - Affärsvärlden
 - Ryanair tjänar pengar på att göra flyget tråkigt - Realtid
-- SEB: Mer troligt med sänkt än höjd styrränta i närtid - DI
+- Nya siffror: I de kommunerna bor störst andel skuldsatta i Sverige - gp.se
+- Framtidens elnät börjar i kvarteret – nu är det dags för energigemenskaper - NyTeknik
 - Microsoft har lämnat ut Bitlocker-nycklar till FBI - Computer Sweden
-- 100 år sedan den första ”tv-sändningen” - SVT Nyheter
+- Nu kan du ha Saurons hjälm i bokhyllan. Nytt Sagan om ringen-lego. - feber.se
 
 ## World News
 
@@ -60,14 +60,14 @@ _Updated: 2026-01-27 09:49_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -120,25 +120,25 @@ _Updated: 2026-01-27 09:49_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 
 ## Jordbruk
 
