@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 17:57_
+_Updated: 2026-01-27 19:02_
 
-- Border Patrol Commander Greg Bovino returning to position in El Centro: Sources - ABC News
 - Judge Orders ICE Chief to Appear in Court Over Potential Contempt - The New York Times
-- ‘A militia that kills’: uproar in Italy over ICE security role at Winter Olympics - The Guardian
-- Trump raises US tariffs on South Korea imports to 25% - BBC
-- After rocky start, Bari Weiss to cut staff, add commentators at CBS News - NPR
-- 6 people on private plane tied to Houston law firm presumed dead after crash in Maine, officials say - abc13.com
+- Minneapolis shooting scrambles Second Amendment politics for Trump - AP News
+- First wrongful death lawsuit filed against Trump administration over drug boat strikes - NBC News
+- Trump Holds 2-Hour Meeting With Noem Amid Backlash to Minneapolis Shooting - The New York Times
+- Doomsday Clock 2026: Scientists set new time - CNN
+- After Alex Pretti’s Killing, A Divided America Wonders What’s Next - The New York Times
 - Could another storm hit the East Coast this weekend? See the scenarios. - The Washington Post
-- White House distances Trump from provocative claims by Noem, others on Pretti shooting - ABC News
-- Who is US border chief Gregory Bovino, the ‘little Napoleon’ with a viral coat? - The Times
-- Winter Storm Debilitates the South, Encasing Cities in Ice and Snow - The New York Times
+- White House Distances Trump From Initial Response to Minnesota Killing - The New York Times
+- Brothers Charged With Sex Trafficking Wage Campaign to Shame Accusers - The New York Times
+- Trump raises US tariffs on South Korea imports to 25% - BBC
 - How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right - The New York Times
-- World pauses to commemorate International Holocaust Remembrance Day - AP News
-- UK's Starmer heads to China to repair ties as he navigates tensions with US - Reuters
-- Iranian officials leak kill orders, exposing regime divide - jpost.com
-- Amazon converting Fresh supermarkets, Go stores to Whole Foods locations - CNBC
-- TikTok Star Khaby Lame Signs $975 Million Deal to Monetize Global Fan Base - Bloomberg.com
+- In China, AI is no longer optional for some kids. It’s part of the curriculum - NPR
+- How AI is rewriting the Holocaust Deepfake videos distort our memory - UnHerd
+- As Trump shuffles global order, U.K. prime minister heads to Beijing - The Washington Post
+- Consumer confidence collapses to lowest level since 2014 - CNN
+- TikTok Star Khaby Lame Signs $975 Million Deal to Monetize Global Fan Base - Bloomberg
 - Rare Earth Stocks Backslide After Trump Takes Stake In USA Rare Earth - Investor's Business Daily
-- With Tesla earnings on deck, investors reveal their most pressing questions for Elon Musk - MarketWatch
-- New Galaxy Z TriFold leak suggests cheaper pricing for Samsung's ultra-premium foldable - Notebookcheck
-- iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors
+- Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!' - Business Insider
+- iOS 26.2.1: Apple Suddenly Releases Surprise iPhone Update With Key Features And Fixes - Forbes
+- Google TV update rolling out with homescreen tweak, new settings - 9to5Google
