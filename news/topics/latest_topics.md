@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 10:58_
+_Updated: 2026-01-27 11:55_
 
 ## Top Stories
 
 - Notan för talmannens inställda resa: 1,5 miljoner kronor - Dagens Nyheter
+- Kommuner sparar - ingen söndagsstek till äldre - gp.se
 - Miljonnota för Västtrafik efter snökaoset - gp.se
-- Matpriserna slår – äldre förlorar lax och Bregott - Expressen
 - Natalyas hem iskallt: ”Blodet frös till is” - vk.se
 - ”Jag glömmer inte – men förlåter inte heller” - SvD
-- Explosion vid byggnad i Västerås - SVT Nyheter
-- Par på Essingen fick besök av Klarna-bedragare - mitti.se
-- Lägenhetsbrand i Åmål – en person till sjukhus - SVT Nyheter
-- Dejtingsajter kritiseras – män får betalt för att sexchatta som kvinnor - SvD
-- INSÄNDARE: Det behövs mer kontroller av personal som vårdar våra äldre - eposten.se
+- Ledare: När hatet återvänder bli minnet av Förintelsen ännu viktigare - nwt.se
+- Fler lärare åtalas för brott – efter att ha ingripit mot stökiga elever - SVT Nyheter
+- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
+- Hemtjänsten i Trollhättan tar första steg mot ett mer behovsbaserat arbetssätt - trollhattan.se
 - Växande krav på riksrätt mot säkerhetsminister - gp.se
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- Misstankarna mot Vilma Andersson stärks - Expressen
 - Stor demonstration mot Irans mullor i Göteborg - gp.se
-- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
 - Miljardärens förmögenhet rusar – sitter på dold försvarsjuvel - Affärsvärlden
-- Ryanair tjänar pengar på att göra flyget tråkigt - Realtid
-- Nya siffror: I de kommunerna bor störst andel skuldsatta i Sverige - gp.se
-- Framtidens elnät börjar i kvarteret – nu är det dags för energigemenskaper - NyTeknik
+- Idén som ifrågasätter hela ditt sparande: "Dö inte med pengar kvar" - Dagens PS
+- Fortsatt tufft för lyx – endast en aktie på plus i år - Dagens PS
+- ”Framtidens elnät börjar i kvarteret – nu är det dags för energigemenskaper” - NyTeknik
 - Microsoft har lämnat ut Bitlocker-nycklar till FBI - Computer Sweden
-- Nu kan du ha Saurons hjälm i bokhyllan. Nytt Sagan om ringen-lego. - feber.se
+- Intels nya Core Ultra-chip slår Apples M5 i flerkärnig prestanda - Teknikveckan
+- Claude får inbyggt stöd för Slack och andra appar - Omni
 
 ## World News
 
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - WPP samlar produktion i ny global enhet - Dagens Media
@@ -45,7 +44,8 @@ _Updated: 2026-01-27 10:58_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -75,11 +75,11 @@ _Updated: 2026-01-27 10:58_
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2026-01-27 10:58_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
