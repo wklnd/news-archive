@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 04:39_
+_Updated: 2026-01-27 06:32_
 
 ## Top Stories
 
-- SD-toppen har vänt om Trump: ”Blir till skit” - SvD
 - Risk för inbördeskrig i USA? En simulering säger ja - gp.se
-- Domstol sätter stopp för vargjakten - vk.se
-- 26 januari 19.59, Trafikkontroll, Västernorrlands län - polisen.se
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- SD-toppen har vänt om Trump: ”Blir till skit” - SvD
+- Explosion vid byggnad i Västerås - SVT Nyheter
+- INSÄNDARE: Det behövs mer kontroller av personal som vårdar våra äldre - eposten.se
 - DN Direkt – Jimmie Åkesson skadad – missar möte i Knesset - Dagens Nyheter
-- Två körde för fort utanför Skellefteå – fick böter - norran.se
+- 26 januari 19.59, Trafikkontroll, Västernorrlands län - polisen.se
+- Nej till vargjakt i flera län – stoppas av Kammarrätten - SVT Nyheter
+- Fler militära transporter på vägarna i samband med övning - norran.se
 - Magdalena Andersson försöker komma in i matchen - Aftonbladet
-- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
-- DN Direkt – Terrorgrupp mördar bönder i Kongo-Kinshasa - Dagens Nyheter
-- Stor demonstration mot Irans mullor i Göteborg - gp.se
-- Flera döda i flygkrasch i USA - Expressen
+- Trump hotar att höja tullarna mot Sydkorea till 25 procent - Omni
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
 - Expert om Kina: ”Nu vänder det snabbt” - Hufvudstadsbladet
+- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
-- Sjunker i landet – ökar i Uppsala län - unt.se
+- Miljardbolaget slukar konkurrent – går in i nytt land - DI
 - Prognos: Elpriset väntas rusa upp till 312 procent - Omni
-- Europa satsar 10 biljoner på vindkraft – efter Trumps hån - Expressen
+- Nötköttsbristen driver upp kycklingförsäljningen - Omni
 - 100 år sedan den första ”tv-sändningen” - SVT Nyheter
 - Apple har släppt Ios 26.2.1 - mobil.se
 - Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
@@ -32,21 +32,21 @@ _Updated: 2026-01-27 04:39_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNI Global står i solidaritet med Indiens bankfackföreningar inför den landsomfattande strejken den 27 januari. - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Large local effect but small global climate impact of Nord Stream - su.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
@@ -66,10 +66,10 @@ _Updated: 2026-01-27 04:39_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- From AI to Blockchain to Quantum Computing: Globant Reveals Its 2024 Tech Trends (PR Newswire) - Aktiellt
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,44 +101,44 @@ _Updated: 2026-01-27 04:39_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Vi presenterar HealthBench - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - uu.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
