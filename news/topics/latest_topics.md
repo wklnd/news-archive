@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 00:47_
+_Updated: 2026-01-28 01:45_
 
 ## Top Stories
 
-- Arbetsplatsolycka i Söderhamn – två män döda - Aftonbladet
-- Björn af Kleen: Nu kallas Trumps administration fascistisk - Dagens Nyheter
+- Nästan två miljoner sårade och döda i Ukraina - Dagens Nyheter
 - Demokraterna utreder Kristi Noem – vill ställa ministern inför riksrätt - Dagens Nyheter
+- Björn af Kleen: Nu kallas Trumps administration fascistisk - Dagens Nyheter
+- Julia: ”Viktigare än någonsin att bevara historien” - nt.se
 - Flicka hanterade mordvapnet – polisen utreder flera unga i mordhärva - sydsvenskan.se
 - EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
-- Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
 - DN Direkt – Luftrenare i Sverige avger hälsofarlig gas - Dagens Nyheter
-- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
+- Journalisten Sigurd Glans död - vk.se
 - Socialstyrelsen kartlägger obesitasläkemedel - LäkemedelsVärlden
 - Spaniens drag – för att vinna tävling om krigsfartyg - Dagens Nyheter
-- Nästan två miljoner sårade och döda i Ukraina - Dagens Nyheter
+- DN Direkt – En halv miljon papperslösa i Spanien får stanna - Dagens Nyheter
+- Åkesson i Jerusalem: Lovar införa ”svensk terrorlista” - Dagens Nyheter
 - Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
-- Trumps ”armada” på plats – Iran gör sig redo - Expressen
+- USA stäms för dödlig båtattack - Aftonbladet
+- Chefer tror på AI-nytta – inte anställda - SvD
 - Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
 - Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
-- Chefer tror på AI-nytta – inte anställda - SvD
-- Därför är köttfärsen slut: ”Torkan var en käftsmäll” - borlangetidning.se
+- AI ger svenska anställda sämre självförtroende - Computer Sweden
 - Välkommen till öppet hus på Stenbäcksgården - kalix.se
 - Face ID ryktas krympa i iPhone Air 2 – goda nyheter för Mac? - Teknikveckan
 
@@ -60,6 +60,7 @@ _Updated: 2026-01-28 00:47_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-01-28 00:47_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,8 +101,8 @@ _Updated: 2026-01-28 00:47_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
@@ -110,12 +110,12 @@ _Updated: 2026-01-28 00:47_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,6 @@ _Updated: 2026-01-28 00:47_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -133,6 +132,7 @@ _Updated: 2026-01-28 00:47_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -143,12 +143,12 @@ _Updated: 2026-01-28 00:47_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -157,8 +157,8 @@ _Updated: 2026-01-28 00:47_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
