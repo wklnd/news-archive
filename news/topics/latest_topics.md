@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 15:28_
+_Updated: 2026-01-27 16:02_
 
 ## Top Stories
 
-- USA utvisar iranier för första gången sedan protesterna inleddes – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Kristersson (M): Djupt provocerande - gp.se
-- DN Direkt – C: Vi säger nej till alla regeringar där SD eller V ingår - Dagens Nyheter
-- DN Direkt – Kommuner sparar – ingen söndagsstek till äldre - Dagens Nyheter
-- Insändare. Fängslande av 13-åringar ett skamligt försök till genväg - Dagens Nyheter
+- DN Direkt – Fortsatt flera vädervarningar i södra Sverige - Dagens Nyheter
+- Natalyas hem iskallt: ”Blodet frös till is” - vk.se
 - Tweeten gjorde honom till regimens fiende - SvD
-- Här hittar DN den misstänkte spionens bil – utanför Drottningholms slott - Dagens Nyheter
-- Förslaget: Äldre ska få välja kön på personalen - Expressen
+- Insändare. Fängslande av 13-åringar ett skamligt försök till genväg - Dagens Nyheter
+- DN Direkt – Elisabeth Svantesson vill utreda euron i Sverige - Dagens Nyheter
+- Misstänkte spionens bil dumpad vid kungens slott - Omni
 - Fler lärare åtalas för brott – efter att ha ingripit mot stökiga elever - SVT Nyheter
 - 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
-- DN Direkt – En halv miljon papperslösa i Spanien får stanna - Dagens Nyheter
-- Växande krav på riksrätt mot säkerhetsminister - gp.se
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
-- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
+- Indien och EU överens om frihandelsavtal - SVT Nyheter
+- En halv miljon papperslösa får lov att stanna - vk.se
+- Växande krav på riksrätt mot säkerhetsminister - Aftonbladet
+- Stor demonstration mot Irans mullor i Göteborg - gp.se
 - Meta lanserar nya abonnemang på Facebook och Instagram - Expressen
-- Northvolt-köparen satsar på ny marknad - Dagens Nyheter
 - Ellevios chockavgift slår ut laddstationerna på Orust - Dagens Nyheter
 - Strategen: Pressen på dollarn fortsätter – väljer bort USA-aktier - Börskollen
+- ”Framtidens elnät börjar i kvarteret – nu är det dags för energigemenskaper” - NyTeknik
 - Ny AI-funktion i Google Kalender föreslår lämpliga tider för möten - Computer Sweden
 - Nya versionen av Starship lyfter i mars. SpaceX jätteraket nu ännu kraftfullare. - feber.se
+- Du får nu mer kontroll över foto-till-videofunktionen i Google Foto - m3.se
 
 ## World News
 
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
-- WPP samlar produktion i ny global enhet - Dagens Media
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -38,14 +37,15 @@ _Updated: 2026-01-27 15:28_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- WPP samlar produktion i ny global enhet - Dagens Media
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Large local effect but small global climate impact of Nord Stream - su.se
+- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
@@ -60,7 +60,6 @@ _Updated: 2026-01-27 15:28_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,6 +68,7 @@ _Updated: 2026-01-27 15:28_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -102,20 +102,20 @@ _Updated: 2026-01-27 15:28_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers
+- Vi presenterar HealthBench - OpenAI
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-27 15:28_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
