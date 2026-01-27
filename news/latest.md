@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 01:53_
+_Updated: 2026-01-27 04:55_
 
-- White House Wobbles, Distancing Trump From Initial Response to Minnesota Killing - The New York Times
-- Winter Storm Dumps a Foot of Snow in at Least 19 U.S. States: See the Snow Totals - The New York Times
+- Trump's immigration approval drops to record low, Reuters/Ipsos poll finds - Reuters
+- Could Massachusetts get hit with a blizzard this weekend? Here's what the forecast says. - CBS News
 - 31,000 Kaiser Permanente health care workers in California, Hawaii go on strike - abc7.com
-- Carney downplays Trump’s threats while ruling out China trade deal - Politico
-- Today more Americans support than oppose abolishing ICE - YouGov
-- Trump says tariffs on South Korean autos, pharma, to rise to 25% over trade deal approval delay - CNBC
-- Trump, Bondi statements fuel legal case against Minnesota surge - Politico
+- Winter Storm Dumps a Foot of Snow in at Least 19 U.S. States: See the Snow Totals - The New York Times
 - Republican drops bid for governor, citing GOP’s ‘retribution’ on Minnesota - The Washington Post
+- SCHOOL CLOSINGS: List of Georgia districts canceling or going virtual Tuesday - wsbtv.com
+- Former Trail Blazer Chris Dudley to run again for governor of Oregon - Politico
+- Shootings Pose a Hard Question for the Right: Who’s a Conservative, Really? - The New York Times
 - Israel Recovers Body of Ran Gvili From Gaza, Closing a Chapter - The New York Times
+- Starmer Says UK Won’t Be Forced to Choose Between US, China - Bloomberg.com
 - South Sudan army threat to 'spare no-one' condemned - BBC
-- NATO chief says Europe should ‘keep on dreaming’ if it thinks it can defend itself without the US - CNN
-- Party backed by generals set for landslide in 'sham' Myanmar election - BBC
+- EU agrees on complete ban of Russian gas imports by 2027 - dw.com
 - Dollar slides to 4-month low on efforts to boost the yen, which could spell trouble for U.S. equities - MarketWatch
-- “Legitimate Competition Concerns”: Warner Bros. Discovery Stock (NASDAQ:WBD) Slips, the FCC Weighs In - TipRanks
 - Former Citigroup executive sues bank over handling of sexual harassment claims - Financial Times
-- Investors may be led into a trap as stock market discards new tariff threats, analyst warns - MarketWatch
-- Microsoft's horrendous Patch Tuesday update exposes the weak QA process for Windows - Neowin
-- Sony Set to Delay PS6 Release Date, Claims Financial Report - Push Square
-- AI has arrived in Gmail. Here’s how to make it work for you - The Seattle Times
+- Trump’s own Big Beautiful Bill could add $5.5 trillion to the deficit and help sabotage his plan to ‘grow out’ of the national debt crisis - Yahoo Finance
+- The Detroit News to be acquired by USA TODAY Co., owner of Detroit Free Press - detroitnews.com
+- Anthropic launches interactive Claude apps, including Slack and other workplace tools - TechCrunch
+- Code Vein II Review - Bloodsucking The Fun Away - Game Informer
 - MTG Arena Announcements – January 26, 2026 - Magic: The Gathering
+- Try the New Xbox Cloud Gaming Web Experience — Now in Public Preview - Xbox Wire
