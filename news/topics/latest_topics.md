@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 11:55_
+_Updated: 2026-01-27 12:55_
 
 ## Top Stories
 
+- Polistillslag mot kommunhuset i Sundsvall – fem gripna - SVT Nyheter
 - Notan för talmannens inställda resa: 1,5 miljoner kronor - Dagens Nyheter
-- Kommuner sparar - ingen söndagsstek till äldre - gp.se
-- Miljonnota för Västtrafik efter snökaoset - gp.se
-- Natalyas hem iskallt: ”Blodet frös till is” - vk.se
-- ”Jag glömmer inte – men förlåter inte heller” - SvD
-- Ledare: När hatet återvänder bli minnet av Förintelsen ännu viktigare - nwt.se
+- Indien och EU överens om frihandelsavtal - SVT Nyheter
+- Här hittar DN den misstänkte spionens bil – utanför Drottningholms slott - Dagens Nyheter
+- Talade ut: ”Ali Khamenei är inte min ledare” - SvD
+- Miljonnota för Västtrafik efter snökaoset - GP
+- JUST NU: En till sjukhus efter brand i lägenhet – hoppade ut genom fönster - nwt.se
 - Fler lärare åtalas för brott – efter att ha ingripit mot stökiga elever - SVT Nyheter
-- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
-- Hemtjänsten i Trollhättan tar första steg mot ett mer behovsbaserat arbetssätt - trollhattan.se
-- Växande krav på riksrätt mot säkerhetsminister - gp.se
-- Misstankarna mot Vilma Andersson stärks - Expressen
-- Stor demonstration mot Irans mullor i Göteborg - gp.se
+- LEDARE: "Det är fritt att ge råd men vattenbesluten fattas här" - helagotland.se
+- Skelleftebo anhållen – misstänks för flera brott - norran.se
+- DN Direkt – En halv miljon papperslösa i Spanien får stanna - Dagens Nyheter
+- Växande krav på riksrätt mot säkerhetsminister - GP
+- Stor demonstration mot Irans mullor i Göteborg - GP
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
 - Miljardärens förmögenhet rusar – sitter på dold försvarsjuvel - Affärsvärlden
+- Meta lanserar nya abonnemang på Facebook och Instagram - Expressen
 - Idén som ifrågasätter hela ditt sparande: "Dö inte med pengar kvar" - Dagens PS
 - Fortsatt tufft för lyx – endast en aktie på plus i år - Dagens PS
-- ”Framtidens elnät börjar i kvarteret – nu är det dags för energigemenskaper” - NyTeknik
 - Microsoft har lämnat ut Bitlocker-nycklar till FBI - Computer Sweden
 - Intels nya Core Ultra-chip slår Apples M5 i flerkärnig prestanda - Teknikveckan
-- Claude får inbyggt stöd för Slack och andra appar - Omni
 
 ## World News
 
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - WPP samlar produktion i ny global enhet - Dagens Media
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -109,34 +109,34 @@ _Updated: 2026-01-27 11:55_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 
