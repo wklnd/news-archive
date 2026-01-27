@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-27 15:32_
+_Updated: 2026-01-27 16:05_
 
-- Minneapolis Live Updates: Trump Pulls Bovino From ICE Operations in Minnesota - The New York Times
-- Trump signals de-escalation of ICE ops in Minneapolis - Axios
+- White House distances Trump from provocative claims by Noem, others on Pretti shooting - ABC News
 - After Alex Pretti’s Killing, A Divided America Wonders What’s Next - The New York Times
-- The Take: Minnesota, ICE and the makings of a US civil war - Al Jazeera
+- House Democrats to investigate Kristi Noem with eye on impeachment push - The Washington Post
+- Newsom to probe claims of Trump-critical censorship at TikTok - Politico
 - Trump raises US tariffs on South Korea imports to 25% - BBC
-- Trump's immigration approval drops to record low, Reuters/Ipsos poll finds - Reuters
-- ICE agents to help with US security operations at Winter Olympics in Italy - France 24
-- White House Distances Trump From Initial Response to Minnesota Killing - The New York Times
-- Exclusive: Trump says Iran wants a deal as U.S. "armada" arrives - Axios
-- Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown - The New York Times
-- How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right - The New York Times
-- Chinese Pandas Leave Japanese Zoo - The New York Times
+- Pummeled by over a foot of snow, Mass. residents brace for more - WBUR
+- Live updates: Top Border Patrol official set to leave Minneapolis as Trump sends border czar to state - CNN
+- US to send ICE agents to Winter Olympics, prompting Italian anger - BBC
+- Alex Vindman, key Trump impeachment witness, launches Florida Senate run - NBC News
 - UK's Starmer heads to China to repair ties as he navigates tensions with US - Reuters
-- Golden Dome is forcing the Pentagon to confront missile defense economics - SpaceNews
-- American Airlines projects revenue growth for 2026, misses earnings estimates for fourth quarter - CNBC
-- Boeing Stock Trades In Buy Zone Ahead Of Earnings Test - Investor's Business Daily
+- Chinese Pandas Leave Japanese Zoo - The New York Times
+- South Sudan army threat to 'spare no-one' condemned - BBC
+- 'Major step': French MPs vote in favour of bill to ban social media for under-15s - BBC
+- GM tops earnings expectations, announces dividend increase and stock buyback program - CNBC
+- Boeing's quarterly sales jump 57% as CEO says there's 'a lot to be optimistic about' - CNBC
 - UnitedHealth posts modest earnings beat, soft revenue guidance as insurer plots turnaround - CNBC
-- With Tesla earnings on deck, investors reveal their most pressing questions for Elon Musk - MarketWatch
-- iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors
-- Samsung Unveils Exclusive Galaxy Z Flip7 Olympic Edition, Supporting Athletes’ Entire Milano Cortina 2026 Journey - samsung.com
+- Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!' - Business Insider
+- iOS 26.3 adds new feature to limit location data shared with your carrier - 9to5Mac
+- MediaTek Estimated To Be Hit The Hardest Out Of All Chipset Manufacturers Thanks To The Memory Crisis, As More Than 50% Of Its Revenue Comes From SoC Shipments - Wccftech
+- Google TV update rolling out with homescreen tweak, new settings - 9to5Google
