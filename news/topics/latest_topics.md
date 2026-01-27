@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-27 07:50_
+_Updated: 2026-01-27 09:00_
 
 ## Top Stories
 
 - Notan för talmannens inställda resa: 1,5 miljoner kronor - Dagens Nyheter
-- Tvåbarnsmamman Linda missbrukade sex: "Min hjärna blev helt besatt" - gp.se
 - Natalyas hem iskallt: ”Blodet frös till is” - vk.se
+- ”Ångesten kommer tillbaka med kraft” - SvD
+- Trump hotar att höja tullarna mot Sydkorea till 25 procent - Omni
 - Ledare: När hatet återvänder bli minnet av Förintelsen ännu viktigare - nwt.se
-- Explosion vid byggnad i Västerås - SVT Nyheter
-- Risk för inbördeskrig i USA? En simulering säger ja - gp.se
-- 26 januari 19.59, Trafikkontroll, Västernorrlands län - polisen.se
-- Magdalena Andersson försöker komma in i matchen - Aftonbladet
-- ”Kvinnofälla” – varnar för risker med att kunna välja bort män - Arbetet
-- Elmia efter trafikkaoset – ska analysera vad som gick fel - SVT Nyheter
+- LEDARE: "Det är fritt att ge råd men vattenbesluten fattas här" - helagotland.se
+- Skånska hackern om sexchattarnas kvinnor: ”Inte sett en enda som är riktig” - hd.se
+- 27 januari 07.34, Sammanfattning natt, Västerbottens län - polisen.se
+- 27 januari 07.33, Sammanfattning natt, Jämtlands län - polisen.se
+- Lägenhetsbrand i Åmål – en person till sjukhus - SVT Nyheter
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
-- Dödligt virus oroar – höjd beredskap i svenskparadiset - Expressen
-- Stor demonstration mot Irans mullor i Göteborg - gp.se
+- Stor demonstration mot Irans mullor i Göteborg - GP
 - Flera döda i flygkrasch i USA - Expressen
+- EU går fram med jätteförbud – Orbán kommer koka av ilska - Marcus Oscarsson
+- AI ger svenska anställda sämre självförtroende - Computer Sweden
 - 19 nya projekt ska bana väg för energigemenskaper i Sverige - Aktuell Hållbarhet
-- Europa satsar 10 biljoner på vindkraft – efter Trumps hån - Expressen
+- Nötköttsbristen driver upp kycklingförsäljningen - Omni
 - Transporter med grön vätgas dyrare i Norden - Forskning.se
-- Miljardbolaget slukar konkurrent – går in i nytt land - DI
 - 100 år sedan den första ”tv-sändningen” - SVT Nyheter
-- Microsoft släpper ny akut Windows 11-uppdatering efter Outlook-krascher - PC för Alla
+- Apple släpper ett nytt Black Unity-armband till Apple Watch - Teknikveckan
 
 ## World News
 
@@ -60,7 +60,6 @@ _Updated: 2026-01-27 07:50_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,6 +68,7 @@ _Updated: 2026-01-27 07:50_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -101,44 +101,44 @@ _Updated: 2026-01-27 07:50_
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 
 ## Jordbruk
 
