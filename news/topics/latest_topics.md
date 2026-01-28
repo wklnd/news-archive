@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 06:31_
+_Updated: 2026-01-28 07:01_
 
 ## Top Stories
 
 - Två federala agenter avlossade skott när Alex Pretti sköts till döds - SVT Nyheter
+- Attackeras på ICE-möte - Expressen
+- DANIEL PERSSON: Därför gör regeringen rätt som går vidare med sänkt straffålder - nt.se
+- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
+- HRANA: 6 126 dödade i Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
 - Hoppkräftor hotar turism: ”Do or die-läge” - SvD
 - Fyra älgar påkörda på knappa timmen - op.se
-- Insändare. Fängslande av 13-åringar ett skamligt försök till genväg - Dagens Nyheter
-- Ingen vargjakt 2026 – rätten avslår alla överklaganden - Jakt & Jägare
-- Luftrenare i Sverige avger hälsofarlig gas - corren.se
-- Snövarning i Skåne – upp till 30 centimeter - Dagens Nyheter
+- Socialstyrelsen kartlägger obesitasläkemedel - LäkemedelsVärlden
 - Svantesson öppnar för euron – vill tillsätta utredning - Omni
-- Vittnen: Överfulla bårhus och försvunna kroppar - Aftonbladet
-- EU och Indien sluter jätteavtal - Expressen
-- Forskare varnar för undergången – domedagsklockan ställs om idag - Marcus Oscarsson
+- Satt två timmar med Trump – kan hänga löst - SvD
 - USA stäms för dödlig båtattack - Aftonbladet
-- Chefer tror på AI-nytta – inte anställda - SvD
+- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
 - Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
 - Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
 - Europeiska tech-vd:ar manar till försiktighet med digital suveränitet - Computer Sweden
+- Chefer tror på AI-nytta – inte anställda - SvD
+- Se bilderna: Våldsam kraft på Mars har förändrat planetens landskap totalt - Illustrerad Vetenskap
 - Välkommen till öppet hus på Stenbäcksgården - kalix.se
-- Face ID ryktas krympa i iPhone Air 2 – goda nyheter för Mac? - Teknikveckan
-- Intels nya Core Ultra-chip slår Apples M5 i flerkärnig prestanda - Teknikveckan
 
 ## World News
 
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - WPP samlar produktion i ny global enhet - Dagens Media
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -103,19 +103,19 @@ _Updated: 2026-01-28 06:31_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -146,7 +146,6 @@ _Updated: 2026-01-28 06:31_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -162,3 +161,4 @@ _Updated: 2026-01-28 06:31_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
