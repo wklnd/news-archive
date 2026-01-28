@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 17:58_
+_Updated: 2026-01-28 19:05_
 
 ## Top Stories
 
-- DN Direkt – Trump till Iran: Skriv på avtal eller så anfaller USA - Dagens Nyheter
+- Detta är Tom Homan – Trumps ”gräns-tsar” - gp.se
+- Iran: Redo för dialog – och att försvara oss som aldrig förr – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Brittiska polisens svar om Dermot Clemenger - Expressen
+- Uppdatering i ärende om bl.a. mord i Rönninge, Salems kommun - Åklagarmyndigheten
+- Januari avslöjar vem som är rik på riktigt - SvD
+- SMHI: ”Kan snöa till söndag” - ystadsallehanda.se
+- Regeringen: Mobilförbud i grundskolan i höst - Dagens Nyheter
+- Buss och bil i krock i Västerås - SVT Nyheter
+- Ica återkallar jordgubbar med bekämpningsmedel - nt.se
+- Ny opinionschock för L – ”jätteallvarlig siffra” - gp.se
+- Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
 - De hjälper migranter som inte vågar handla mat - Dagens Nyheter
-- Rapport: Två gränspoliser sköt Alex Pretti - gp.se
-- Vad hände på riktigt i Iran då internet släcktes? - Yle
-- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
-- Trump angriper Minneapolis borgmästare - Aftonbladet
-- Ny opinionschock för L - ”jätteallvarlig siffra” - gp.se
-- Talgoxen etta igen - 8 Sidor
-- Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
-- Efter våldtäkterna: Äldre ska få välja kön på hemtjänsten - gd.se
+- Nytt avtal om handel - 8 Sidor
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
-- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
-- Prinsparets besked – nobbar Marius - Expressen
-- Smällen i Moskva – strömmen slås ut - Expressen
 - Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
-- USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
-- Nya AI-klyftan – chefer tror på effektivisering, anställda är tveksamma - Voister
-- SJ:s biljetter till sommaren släppta - Expressen
+- Expert: Saab har chans på historisk Gripen-affär - Placera.se
+- Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
+- SSAB ökade rörelseresultatet mer än väntat – spår högre leveranser - Placera.se
 - Världens största rymdteleskop ger sällsynt inblick i ett av rymdens mest ikoniska objekt - Illustrerad Vetenskap
 - Motorola lanserar mobilerna Moto G77, Moto G67, Moto G17 och Moto G17 Power - mobil.se
 
@@ -51,14 +51,14 @@ _Updated: 2026-01-28 17:58_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,13 +69,12 @@ _Updated: 2026-01-28 17:58_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -83,16 +82,17 @@ _Updated: 2026-01-28 17:58_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -132,13 +132,13 @@ _Updated: 2026-01-28 17:58_
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - mau.se
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
