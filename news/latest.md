@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-28 23:02_
+_Updated: 2026-01-28 23:57_
 
-- Live: Agents involved in shooting of Minnesota man Alex Pretti put on leave - BBC
-- FBI searches Atlanta election office, chasing Trump 2020 vote fraud claims - Reuters
-- Doomsday Clock Ticks Closer Than Ever to Apocalypse - The New York Times
-- Philadelphia’s ambitious plan to scare off ICE - Salon.com
-- Judge blocks removal of 5-year-old detained by ICE in Minnesota - ABC News
-- Details emerge about victims killed in private jet crash in Maine - CBS News
+- Federal agents involved in fatal shooting of Alex Pretti placed on administrative leave – live - The Guardian
 - Where a nor’easter will bring heavy snow, strong winds and waves this weekend - The Washington Post
-- Democrats Restore Minnesota House to Even Split Amid Immigration Turmoil - The New York Times
+- Trump's National Guard deployments could cost over $1 billion this year, CBO projects - NPR
+- FBI searches Fulton County election hub in connection with Trump's 2020 election loss - NBC News
+- South Africa Cancels Release of ‘Melania’ Documentary - The New York Times
+- To keep AI out of her classroom, this high school English teacher went analog - NPR
+- Rep. Ilhan Omar attacked during town hall meeting in Minneapolis - The Washington Post
+- Bari Weiss to CBS News Staff: Pivot or Become Irrelevant - Newser
 - Greetings from Mumbai, where residents take breathing space where they can find it - NPR
+- US intelligence agencies disagree with Trump’s opposition to Chagos deal, says Starmer - The Guardian
 - Dutch government is ordered to protect residents on Caribbean island of Bonaire from climate change - AP News
-- Middle East worries over possible US strike on Iran one month after protests began - AP News
-- CNBC Daily Open: The EU-India trade deal story is not over yet - CNBC
-- Amazon cuts about 16,000 corporate jobs in the latest round of layoffs - AP News
-- Tesla Earnings Are Due. What To Expect From Elon Musk's Big Call. (Live Coverage) - Investor's Business Daily
-- Fed Meeting Today: Powell Has Some Direct Advice for His Successor - Investopedia
-- Waabi raises $1B and expands into robotaxis with Uber - TechCrunch
-- Windows 11’s ability to resume Android apps on your PC is getting closer - The Verge
+- Presidential Message on International Holocaust Remembrance Day - The White House (.gov)
+- Fed Meeting Today: Market Reacts to Steady Interest Rates; Dollar Rises — Live Updates - The Wall Street Journal
+- Tesla Earnings Fall 17%. Investors Await Elon Musk Big Call. (Live Coverage) - Investor's Business Daily
+- Starbucks scraps $250,000 cap on boss's use of company jet - BBC
+- ASML Plans About 1,700 Job Cuts in Netherlands, US as Sales Boom - Bloomberg.com
 - Galaxy S27 May Not Be An Exynos-Exclusive Launch, As Samsung’s 2nm GAA May Be Used To Develop A ‘Custom Tuned’ Snapdragon 8 Elite Gen 6 Pro - Wccftech
-- ARC Raiders’ New 3-Strike Cheater Permaban Is Annoying Players - Forbes
-- Dispatch is censored on Nintendo Switch 2 and Switch - Nintendo Everything
+- PSA: $2899 Galaxy Z TriFold Includes 45W Charging Brick in Box - Droid Life
+- Google Pixel’s Tensor chip said to help weather a rocky smartphone market in 2026 - 9to5Google
+- Leaker makes unlikely claim about improved iPhone 18 telephoto performance - 9to5Mac
