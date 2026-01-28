@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 07:52_
+_Updated: 2026-01-28 09:00_
 
 ## Top Stories
 
-- DANIEL PERSSON: Därför gör regeringen rätt som går vidare med sänkt straffålder - nt.se
-- Demokraterna utreder Kristi Noem – vill ställa ministern inför riksrätt - Dagens Nyheter
-- USA frigör frysta tillgångar i Venezuela - gp.se
-- Studie av dödligt partnervåld inleds i Kriminalvården - Dagens Juridik
-- Vittnen: Överfulla bårhus och försvunna kroppar - Aftonbladet
-- Attackeras på ICE-möte - Expressen
+- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
+- Dan Browns bok sålde bäst i Sverige 2025 - gp.se
+- Expert: Blir inte förvånad om Kristi Noem byts ut - Omni
+- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
+- Åklagardetaljer om Rönningemord - SVT Nyheter
+- Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
+- Grova brott utreds – personer med koppling till kommunala bolag i Sundsvall anhållna - SVT Nyheter
 - Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
 - Efter räden i Irak: 20-tal gängmän kvar på polisens lista - Dagens Nyheter
-- Fyra älgar påkörda på knappa timmen - op.se
-- Vintervädret lockade fler – många rapporter i årets fågelräkning - hallekis.com
+- Spaniens drag – för att vinna tävling om krigsfartyg - Dagens Nyheter
+- Internet släcktes – sedan inleddes en massaker - Aftonbladet
+- Smällen i Moskva – strömmen slås ut - Expressen
 - En skjuten av gränspolisen i USA - Expressen
-- Forskare varnar för undergången – domedagsklockan ställs om idag - Marcus Oscarsson
-- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
-- USA stäms för dödlig båtattack - Aftonbladet
-- Peter Thiels drönare till Sverige: ”Växer snabbt” - SvD
+- Rutte: Europa hjälplöst utan USA - SVT Nyheter
+- Trump inte orolig över dollarfallet – dollarn faller - DI
 - Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
+- GB glace Gammaldags vanilj utses till Årets matbluff - SVT Nyheter
 - Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
-- Europeiska tech-vd:ar manar till försiktighet med digital suveränitet - Computer Sweden
+- Ulf Danielsson: Barnen fick bevittna sin lärare sprängas i luften - Dagens Nyheter
 - Forskare har skapat virtuella djur med sofistikerad AI-syn - Cision News
-- Se bilderna: Våldsam kraft på Mars har förändrat planetens landskap totalt - Illustrerad Vetenskap
 
 ## World News
 
@@ -54,21 +54,21 @@ _Updated: 2026-01-28 07:52_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- From AI to Blockchain to Quantum Computing: Globant Reveals Its 2024 Tech Trends (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -99,7 +99,7 @@ _Updated: 2026-01-28 07:52_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -123,6 +123,7 @@ _Updated: 2026-01-28 07:52_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -132,7 +133,6 @@ _Updated: 2026-01-28 07:52_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
