@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 22:57_
+_Updated: 2026-01-28 23:53_
 
 ## Top Stories
 
-- DN Direkt – Två gränspoliser tas ur tjänst efter dödsskjutningen - Dagens Nyheter
-- Köldlarmet från Drottning Silvias sjukhus: Vårdar barnen i 16 grader - gp.se
-- De minns Bildts manöver – och tiger - SvD
-- Hamas: Redo överlämna styret i Gaza - vk.se
-- Vad hände på riktigt i Iran då internet släcktes? - Yle
-- Brittiska polisens svar om Dermot Clemenger - Expressen
-- Stor ökning av människor som sökte hjälp hos Stadsmissionen i jul - Dagens Arena
-- Man död i brand i villa i Norrtälje - SVT Nyheter
-- SMHI: ”Kan snöa till söndag” - ystadsallehanda.se
+- Passagerarplan saknas i Colombia - SVT Nyheter
+- Maktstrid mot Starmer inledd: ”Bunkerläge” - SvD
+- DEBATT: Bara genom att erkänna att antisionismen är antisemitisk kan vi bekämpa judehatet - gp.se
+- LEDARE: Massmordet i Iran skulle ju aldrig få hända igen - kristianstadsbladet.se
+- DO stämmer polisen efter mordet på 14-åriga Mohamed - Expressen
 - Hoppkräftor hotar turism: ”Do or die-läge” - SvD
-- DN Direkt – Källor: Förhandlingar om Grönland inledda i Washington - Dagens Nyheter
-- Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
-- Seger för västindisk ö i unikt klimatmål - gp.se
-- De hjälper migranter som inte vågar handla mat - Dagens Nyheter
+- Regeringen presenterar åtgärder om mäns våld mot kvinnor - SVT Nyheter
+- Buss och bil i krock i Västerås - SVT Nyheter
+- Man död i brand i villa i Norrtälje - SVT Nyheter
+- Fattigare jul 2025 – fler än tidigare sökte hjälp - sydsvenskan.se
+- DN Direkt – Seger för ö i historiskt klimatmål - Dagens Nyheter
+- Experter: USA behöver inte äga Grönland för att bygga Trumps ”kupol” - Dagens Nyheter
+- DN Direkt – FBI gör husrannsakan mot valkontor i Georgia - Dagens Nyheter
+- Positiva reaktioner efter frihandelsavtal: ”Stora möjligheter” - Tidningen Näringslivet
 - Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
 - USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
-- Amsterdam stoppar reklam för kött, flyg och fossila bränslen - tidningensyre.se
-- Batteriboom: Är detta genombrottet vi har väntat på? - group.vattenfall.com
+- Rekordstor ökning av batterilager i EU - Tidningen Energi
+- Relativt låga konsumtionsnivåer trots starkare köpkraft - Jordbruksaktuellt
 - Virtuella djur kan ge ny syn på evolutionen - Forskning.se
 - Då är du rik – inte bara högt belånad - SvD
 
 ## World News
 
-- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
+- ‘This shouldn’t happen’: 2 women die during prolonged outages as cold grips Montreal - Global News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -43,10 +43,10 @@ _Updated: 2026-01-28 22:57_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-28 22:57_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
