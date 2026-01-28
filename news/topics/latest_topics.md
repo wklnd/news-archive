@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 21:51_
+_Updated: 2026-01-28 22:57_
 
 ## Top Stories
 
-- Iran svarar på Trumps militära hot mot landet - gp.se
-- Efter domen mot Gröna Lund – drabbade paret: ”Varit påfrestande” - SVT Nyheter
-- Stor ökning av människor som sökte hjälp hos Stadsmissionen i jul - Dagens Arena
-- Experter: USA behöver inte äga Grönland för att bygga Trumps ”kupol” - Dagens Nyheter
-- Iran: Redo för dialog – och att försvara som aldrig förr – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Då är du rik – inte bara högt belånad - SvD
-- Ny opinionschock för L – ”jätteallvarlig siffra” - gp.se
+- DN Direkt – Två gränspoliser tas ur tjänst efter dödsskjutningen - Dagens Nyheter
+- Köldlarmet från Drottning Silvias sjukhus: Vårdar barnen i 16 grader - gp.se
+- De minns Bildts manöver – och tiger - SvD
+- Hamas: Redo överlämna styret i Gaza - vk.se
+- Vad hände på riktigt i Iran då internet släcktes? - Yle
 - Brittiska polisens svar om Dermot Clemenger - Expressen
-- ICA utökar återkallelsen av ICA Basic frysta jordgubbar 1kg - Cision News
+- Stor ökning av människor som sökte hjälp hos Stadsmissionen i jul - Dagens Arena
+- Man död i brand i villa i Norrtälje - SVT Nyheter
+- SMHI: ”Kan snöa till söndag” - ystadsallehanda.se
 - Hoppkräftor hotar turism: ”Do or die-läge” - SvD
-- DN Direkt – Seger för ö i historiskt klimatmål - Dagens Nyheter
-- Trump angriper Minneapolis borgmästare - vk.se
-- Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
 - DN Direkt – Källor: Förhandlingar om Grönland inledda i Washington - Dagens Nyheter
+- Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
+- Seger för västindisk ö i unikt klimatmål - gp.se
+- De hjälper migranter som inte vågar handla mat - Dagens Nyheter
 - Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
 - USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
-- Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
 - Amsterdam stoppar reklam för kött, flyg och fossila bränslen - tidningensyre.se
+- Batteriboom: Är detta genombrottet vi har väntat på? - group.vattenfall.com
 - Virtuella djur kan ge ny syn på evolutionen - Forskning.se
-- Motorola lanserar mobilerna Moto G77, Moto G67, Moto G17 och Moto G17 Power - mobil.se
+- Då är du rik – inte bara högt belånad - SvD
 
 ## World News
 
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
@@ -34,7 +35,7 @@ _Updated: 2026-01-28 21:51_
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -42,23 +43,23 @@ _Updated: 2026-01-28 21:51_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,8 +69,7 @@ _Updated: 2026-01-28 21:51_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Oron: Då tar datan på internet slut - SvD
 
 ## Business
 
@@ -81,9 +81,9 @@ _Updated: 2026-01-28 21:51_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -92,7 +92,7 @@ _Updated: 2026-01-28 21:51_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -132,11 +132,11 @@ _Updated: 2026-01-28 21:51_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - mau.se
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-28 21:51_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
