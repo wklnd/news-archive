@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-28 23:57_
+_Updated: 2026-01-29 00:59_
 
-- Federal agents involved in fatal shooting of Alex Pretti placed on administrative leave – live - The Guardian
 - Where a nor’easter will bring heavy snow, strong winds and waves this weekend - The Washington Post
 - Trump's National Guard deployments could cost over $1 billion this year, CBO projects - NPR
-- FBI searches Fulton County election hub in connection with Trump's 2020 election loss - NBC News
+- Grok is the most antisemitic chatbot according to the ADL - The Verge
+- Backlash from Minnesota immigration actions sets back federal fraud cases - Star Tribune
+- Bystander videos of Minneapolis killings reveal larger trend - NPR
+- FBI leading investigation after man charges Rep. Ilhan Omar during town hall, police say - ABC News
+- What it’s like each day in Minneapolis - CNN
 - South Africa Cancels Release of ‘Melania’ Documentary - The New York Times
-- To keep AI out of her classroom, this high school English teacher went analog - NPR
-- Rep. Ilhan Omar attacked during town hall meeting in Minneapolis - The Washington Post
-- Bari Weiss to CBS News Staff: Pivot or Become Irrelevant - Newser
-- Greetings from Mumbai, where residents take breathing space where they can find it - NPR
 - US intelligence agencies disagree with Trump’s opposition to Chagos deal, says Starmer - The Guardian
+- Greetings from Mumbai, where residents take breathing space where they can find it - NPR
 - Dutch government is ordered to protect residents on Caribbean island of Bonaire from climate change - AP News
-- Presidential Message on International Holocaust Remembrance Day - The White House (.gov)
-- Fed Meeting Today: Market Reacts to Steady Interest Rates; Dollar Rises — Live Updates - The Wall Street Journal
-- Tesla Earnings Fall 17%. Investors Await Elon Musk Big Call. (Live Coverage) - Investor's Business Daily
-- Starbucks scraps $250,000 cap on boss's use of company jet - BBC
-- ASML Plans About 1,700 Job Cuts in Netherlands, US as Sales Boom - Bloomberg.com
-- Galaxy S27 May Not Be An Exynos-Exclusive Launch, As Samsung’s 2nm GAA May Be Used To Develop A ‘Custom Tuned’ Snapdragon 8 Elite Gen 6 Pro - Wccftech
+- CNBC Daily Open: The EU-India trade deal story is not over yet - CNBC
+- Starbucks Reports Q1 Fiscal Year 2026 Results - Starbucks Investor Relations
+- Fed Meeting Today: Powell Has Some Direct Advice for His Successor - Investopedia
+- Home Depot to cut 800 corporate jobs, require workers back to office full time - ajc.com
+- OpenAI Wants To Create Biometric Social Network To Kill X’s Bot Problem - Forbes
+- Google begins rolling out Chrome’s “Auto Browse” AI agent today - Ars Technica
 - PSA: $2899 Galaxy Z TriFold Includes 45W Charging Brick in Box - Droid Life
-- Google Pixel’s Tensor chip said to help weather a rocky smartphone market in 2026 - 9to5Google
-- Leaker makes unlikely claim about improved iPhone 18 telephoto performance - 9to5Mac
+- Google Chrome tests new feature that could slow your Windows 11/10 PC when you turn it on - Neowin
+- Galaxy S27 May Not Be An Exynos-Exclusive Launch, As Samsung’s 2nm GAA May Be Used To Develop A ‘Custom Tuned’ Snapdragon 8 Elite Gen 6 Pro - Wccftech
