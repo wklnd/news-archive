@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 10:59_
+_Updated: 2026-01-28 11:56_
 
 ## Top Stories
 
-- Brittiska polisens svar om Dermot Clemenger - Expressen
-- Flera dödade i ny rysk attack mot Ukraina - gp.se
 - Kina hackade brittiska regeringens mobiler - SvD
-- Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
-- Läget fortsatt spänt – deportering stoppas och demokrat attackeras - SVT Nyheter
-- LEDARE: Barn i fängelse – men sedan då? - sn.se
-- Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
-- Grova brott utreds – personer med koppling till kommunala bolag i Sundsvall anhållna - SVT Nyheter
-- Efter räden i Irak: 20-tal gängmän kvar på polisens lista - Dagens Nyheter
-- Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
+- Barnpornografi och ofredande – här är brotten som ökat - gp.se
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
+- Läget fortsatt spänt – deportering stoppas och demokrat attackeras - SVT Nyheter
+- Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
+- Sofia Mirjamsdotter: Om detta må vi berätta igen och igen - vk.se
+- DN Direkt – Ny bottennotering för L: ”Katastrofsiffror” - Dagens Nyheter
+- Patient avled i rullstol – satt ensam hela natten - Aftonbladet
+- Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
+- Här är länets vanligaste vinterfågel - vk.se
 - Nya porranvändare stoppas i Storbritannien - gp.se
 - Internet släcktes – sedan inleddes en massaker - unt.se
+- EU och Indien i historisk överenskommelse – "alla avtals moder" - Europaportalen
 - Smällen i Moskva – strömmen slås ut - Expressen
-- Techmiljardärens drönare till Stockholm - SvD
 - Smarta klockan för barn kan hackas och manipuleras - Expressen
 - Bankanalytikern inför rapporterna: Swedbank favoriten - Affärsvärlden
-- GB glace Gammaldags vanilj utses till Årets matbluff - SVT Nyheter
+- Tiktok i förlikning inför beroenderättegång - SVT Nyheter
+- Guldregn över Spiltans 21.000 ägare - DI
 - Ulf Danielsson: Barnen fick bevittna sin lärare sprängas i luften - Dagens Nyheter
-- Forskare har skapat virtuella djur med sofistikerad AI-syn - Cision News
+- Tippa betyg i FZ High Score – trippel-deadline i natt! - FZ.se
 
 ## World News
 
@@ -36,10 +36,9 @@ _Updated: 2026-01-28 10:59_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WPP samlar produktion i ny global enhet - Dagens Media
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -47,21 +46,22 @@ _Updated: 2026-01-28 10:59_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
-- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -90,8 +90,8 @@ _Updated: 2026-01-28 10:59_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -99,32 +99,32 @@ _Updated: 2026-01-28 10:59_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -133,12 +133,12 @@ _Updated: 2026-01-28 10:59_
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -149,6 +149,7 @@ _Updated: 2026-01-28 10:59_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -158,7 +159,6 @@ _Updated: 2026-01-28 10:59_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
