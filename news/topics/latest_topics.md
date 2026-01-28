@@ -1,36 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 11:56_
+_Updated: 2026-01-28 12:55_
 
 ## Top Stories
 
-- Kina hackade brittiska regeringens mobiler - SvD
-- Barnpornografi och ofredande – här är brotten som ökat - gp.se
-- Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
-- Läget fortsatt spänt – deportering stoppas och demokrat attackeras - SVT Nyheter
-- Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
-- Sofia Mirjamsdotter: Om detta må vi berätta igen och igen - vk.se
 - DN Direkt – Ny bottennotering för L: ”Katastrofsiffror” - Dagens Nyheter
-- Patient avled i rullstol – satt ensam hela natten - Aftonbladet
+- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
+- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
+- Kallas: Nato måste bli mer europeiskt - gp.se
+- Barnpornografi och ofredande – här är brotten som ökat - gp.se
 - Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
+- Så ser majblomman 2026 ut - gp.se
 - Här är länets vanligaste vinterfågel - vk.se
-- Nya porranvändare stoppas i Storbritannien - gp.se
-- Internet släcktes – sedan inleddes en massaker - unt.se
-- EU och Indien i historisk överenskommelse – "alla avtals moder" - Europaportalen
+- Myndigheterna har en skyldighet att uppfylla regeringens vargpolitik - hallandsposten.se
+- Piotr Jones: ”Tänkte att det skulle vara värre” - helagotland.se
+- Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
+- Indienavtal ska sätta snurr på propellerföretag - SvD
 - Smällen i Moskva – strömmen slås ut - Expressen
+- Man skjuten av federal gränspolis i Arizona - Aftonbladet
 - Smarta klockan för barn kan hackas och manipuleras - Expressen
 - Bankanalytikern inför rapporterna: Swedbank favoriten - Affärsvärlden
-- Tiktok i förlikning inför beroenderättegång - SVT Nyheter
-- Guldregn över Spiltans 21.000 ägare - DI
+- Öresunds substansvärde var 116 kronor per aktie vid årsskiftet, höjer utdelningen - Placera.se
+- Ny rapport: Sverige har Nordens största inkomstgap i AI-användning - dagensinfrastruktur -
 - Ulf Danielsson: Barnen fick bevittna sin lärare sprängas i luften - Dagens Nyheter
-- Tippa betyg i FZ High Score – trippel-deadline i natt! - FZ.se
+- Nästa generation M5-Macar är redo att lanseras - Macworld.se
 
 ## World News
 
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,27 +38,29 @@ _Updated: 2026-01-28 11:56_
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- WPP samlar produktion i ny global enhet - Dagens Media
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- WPP samlar produktion i ny global enhet - Dagens Media
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Cybertech Global TLV 2026: Ett utrymme för att koppla samman det globala cybersäkerhetsekosystemet. - Vietnam.vn
+- World Thrombosis Day raises global awareness of blood clot dangers through actionable initiatives (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -90,8 +90,8 @@ _Updated: 2026-01-28 11:56_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
@@ -121,10 +121,10 @@ _Updated: 2026-01-28 11:56_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
@@ -133,12 +133,12 @@ _Updated: 2026-01-28 11:56_
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -146,7 +146,6 @@ _Updated: 2026-01-28 11:56_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -159,6 +158,7 @@ _Updated: 2026-01-28 11:56_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
