@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 00:54_
+_Updated: 2026-01-29 01:49_
 
 ## Top Stories
 
-- Oro i Baltikum: ”Extraordinär situation” - Hufvudstadsbladet
-- Passagerarplan har störtat i Colombia - SVT Nyheter
 - Maktstrid mot Starmer inledd: ”Bunkerläge” - SvD
-- DN Direkt – Två gränspoliser tas ur tjänst efter dödsskjutningen - Dagens Nyheter
-- Ny opinionschock för L – ”jätteallvarlig siffra” - gp.se
-- Hamas: Redo överlämna styret i Gaza - vk.se
-- Regeringen presenterar åtgärder om mäns våld mot kvinnor - SVT Nyheter
-- Man död i brand i villa i Norrtälje - SVT Nyheter
-- Fattigare jul 2025 – fler än tidigare sökte hjälp - sydsvenskan.se
-- Brittiska polisens svar om Dermot Clemenger - Expressen
-- Korrespondenten: ”De vill se amerikansk hjälp” – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Seger för ö i historiskt klimatmål - folkbladet.nu
-- Trump angriper Minneapolis borgmästare - Aftonbladet
+- Nya attacker mot Ukraina - 8 Sidor
+- De minns Bildts manöver – och tiger - SvD
 - 15 döda i flygkrasch i Colombia - Expressen
-- Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
-- Svårt att spara grönt - Tidningen Extrakt
-- Resultatet för regionen: Nästan 184 miljoner bättre än budget - oskarshamns-nytt.se
-- Relativt låga konsumtionsnivåer trots starkare köpkraft - Jordbruksaktuellt
+- Hamas: Redo överlämna styret i Gaza - vk.se
+- Lyxbil beslagtagen av polis vid Arlanda - Expressen
+- Regeringen presenterar åtgärder om mäns våld mot kvinnor - SVT Nyheter
+- Fattigare jul 2025 – fler än tidigare sökte hjälp - sydsvenskan.se
+- Man död i brand i villa i Norrtälje - SVT Nyheter
+- SMHI: ”Kan snöa till söndag” - ystadsallehanda.se
+- Positiva reaktioner efter frihandelsavtal: ”Stora möjligheter” - Tidningen Näringslivet
+- Prinsparets besked – nobbar Marius - Expressen
+- Buss påkörd på E18 – flera inblandade - Expressen
+- Skolan utrymdes efter brand i klassrum - tidningenangermanland.se
+- Batteriboom: Är detta genombrottet vi har väntat på? - group.vattenfall.com
+- Nya AI-klyftan – chefer tror på effektivisering, anställda är tveksamma - Voister
+- Linus Larsson: Förstörde Tiktok den unga kvinnans liv? - Dagens Nyheter
+- Kryddfabrik flyttas till Estland – 105 varslas - SVT Nyheter
 - Virtuella djur kan ge ny syn på evolutionen - Forskning.se
 - Då är du rik – inte bara högt belånad - SvD
 
@@ -81,17 +81,17 @@ _Updated: 2026-01-29 00:54_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
@@ -105,17 +105,17 @@ _Updated: 2026-01-29 00:54_
 - Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-01-29 00:54_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - mau.se
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
