@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 16:57_
+_Updated: 2026-01-28 17:58_
 
 ## Top Stories
 
-- Regeringen: Mobilförbud i grundskolan i höst - Dagens Nyheter
 - DN Direkt – Trump till Iran: Skriv på avtal eller så anfaller USA - Dagens Nyheter
-- DO stämmer polisen i Region Öst för diskriminering - SVT Nyheter
-- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
 - De hjälper migranter som inte vågar handla mat - Dagens Nyheter
-- Han vill bygga Ikea-varianten av kärnkraft i Barsebäck – snabbt och på budget - Sydsvenskan
-- Stopp på E4 på grund av en olycka - sn.se
+- Rapport: Två gränspoliser sköt Alex Pretti - gp.se
+- Vad hände på riktigt i Iran då internet släcktes? - Yle
+- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
+- Trump angriper Minneapolis borgmästare - Aftonbladet
+- Ny opinionschock för L - ”jätteallvarlig siffra” - gp.se
+- Talgoxen etta igen - 8 Sidor
 - Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
 - Efter våldtäkterna: Äldre ska få välja kön på hemtjänsten - gd.se
-- Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
-- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
+- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
+- Prinsparets besked – nobbar Marius - Expressen
 - Smällen i Moskva – strömmen slås ut - Expressen
-- Man hittad död på isen i Tranemo kommun - Expressen
 - Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
-- Kanadensisk expert: Trump ger Saab chans till rekordaffär - Affärsvärlden
-- SJ:s biljetter till sommaren släppta - Expressen
 - USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
+- Nya AI-klyftan – chefer tror på effektivisering, anställda är tveksamma - Voister
+- SJ:s biljetter till sommaren släppta - Expressen
 - Världens största rymdteleskop ger sällsynt inblick i ett av rymdens mest ikoniska objekt - Illustrerad Vetenskap
 - Motorola lanserar mobilerna Moto G77, Moto G67, Moto G17 och Moto G17 Power - mobil.se
 
@@ -104,18 +104,18 @@ _Updated: 2026-01-28 16:57_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-28 16:57_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
