@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 16:02_
+_Updated: 2026-01-28 16:57_
 
 ## Top Stories
 
-- Trumps Iranhot: Flotta på väg – förhandla nu - gp.se
 - Regeringen: Mobilförbud i grundskolan i höst - Dagens Nyheter
+- DN Direkt – Trump till Iran: Skriv på avtal eller så anfaller USA - Dagens Nyheter
+- DO stämmer polisen i Region Öst för diskriminering - SVT Nyheter
+- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
+- De hjälper migranter som inte vågar handla mat - Dagens Nyheter
 - Han vill bygga Ikea-varianten av kärnkraft i Barsebäck – snabbt och på budget - Sydsvenskan
-- Kamp om miljarder väntar när Sverige rustar upp: ”Väldigt olika åsikter mellan partierna” - Dagens Nyheter
-- Historiskt lågt stöd för L - SVT Nyheter
-- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
-- Singelolycka påverkar trafiken på E4 – stopp i ett körfält - norran.se
+- Stopp på E4 på grund av en olycka - sn.se
 - Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
 - Efter våldtäkterna: Äldre ska få välja kön på hemtjänsten - gd.se
-- Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
+- Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
-- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
+- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
 - Smällen i Moskva – strömmen slås ut - Expressen
 - Man hittad död på isen i Tranemo kommun - Expressen
+- Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
+- Kanadensisk expert: Trump ger Saab chans till rekordaffär - Affärsvärlden
 - SJ:s biljetter till sommaren släppta - Expressen
 - USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
-- Öresund höjer utdelningen - Affärsvärlden
-- Sju av tio småföretagare oroade för 2026 – blir tuffare - Mynewsdesk
-- Ovanlig McLaren F1 GTR och Sennas F1-Lotus på auktion - auto motor & sport
-- Nästa generation M5-Macar är redo att lanseras - Macworld.se
+- Världens största rymdteleskop ger sällsynt inblick i ett av rymdens mest ikoniska objekt - Illustrerad Vetenskap
+- Motorola lanserar mobilerna Moto G77, Moto G67, Moto G17 och Moto G17 Power - mobil.se
 
 ## World News
 
