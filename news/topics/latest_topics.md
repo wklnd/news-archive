@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 21:00_
+_Updated: 2026-01-28 21:51_
 
 ## Top Stories
 
+- Iran svarar på Trumps militära hot mot landet - gp.se
+- Efter domen mot Gröna Lund – drabbade paret: ”Varit påfrestande” - SVT Nyheter
+- Stor ökning av människor som sökte hjälp hos Stadsmissionen i jul - Dagens Arena
 - Experter: USA behöver inte äga Grönland för att bygga Trumps ”kupol” - Dagens Nyheter
-- Brittiska polisens svar om Dermot Clemenger - Expressen
-- Internet släcktes – sedan inleddes en massaker - Aftonbladet
-- Januari avslöjar vem som är rik på riktigt - SvD
-- Uppdatering i ärende om bl.a. mord i Rönninge, Salems kommun - Åklagarmyndigheten
-- SMHI: ”Kan snöa till söndag” - ystadsallehanda.se
+- Iran: Redo för dialog – och att försvara som aldrig förr – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Då är du rik – inte bara högt belånad - SvD
 - Ny opinionschock för L – ”jätteallvarlig siffra” - gp.se
+- Brittiska polisens svar om Dermot Clemenger - Expressen
+- ICA utökar återkallelsen av ICA Basic frysta jordgubbar 1kg - Cision News
 - Hoppkräftor hotar turism: ”Do or die-läge” - SvD
-- Efter våldtäkterna: Äldre ska få välja kön på hemtjänsten - gd.se
-- Kommunalrådets man utförde jobb för miljonbelopp – utan upphandling - Expressen
-- Irans svar till Trump – efter hotet - Expressen
-- De hjälper migranter som inte vågar handla mat - Dagens Nyheter
+- DN Direkt – Seger för ö i historiskt klimatmål - Dagens Nyheter
+- Trump angriper Minneapolis borgmästare - vk.se
 - Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
-- Hedrade stupade soldater – USA plockade bort - Hufvudstadsbladet
-- Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
+- DN Direkt – Källor: Förhandlingar om Grönland inledda i Washington - Dagens Nyheter
 - Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
 - USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
+- Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
 - Amsterdam stoppar reklam för kött, flyg och fossila bränslen - tidningensyre.se
 - Virtuella djur kan ge ny syn på evolutionen - Forskning.se
 - Motorola lanserar mobilerna Moto G77, Moto G67, Moto G17 och Moto G17 Power - mobil.se
 
 ## World News
 
-- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
@@ -35,18 +34,19 @@ _Updated: 2026-01-28 21:00_
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -74,24 +74,24 @@ _Updated: 2026-01-28 21:00_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ally Financial names Michael Rhodes as CEO (PR Newswire) - Aktiellt
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -100,21 +100,21 @@ _Updated: 2026-01-28 21:00_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -123,13 +123,13 @@ _Updated: 2026-01-28 21:00_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -137,8 +137,8 @@ _Updated: 2026-01-28 21:00_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-28 21:00_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
