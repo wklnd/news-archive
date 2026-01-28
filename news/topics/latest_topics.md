@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 15:29_
+_Updated: 2026-01-28 16:02_
 
 ## Top Stories
 
 - Trumps Iranhot: Flotta på väg – förhandla nu - gp.se
-- Klart: Mobilförbud i grundskolan i höst - SvD
-- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
-- Kamp om miljarder väntar när Sverige rustar upp: ”Väldigt olika åsikter mellan partierna” - Dagens Nyheter
+- Regeringen: Mobilförbud i grundskolan i höst - Dagens Nyheter
 - Han vill bygga Ikea-varianten av kärnkraft i Barsebäck – snabbt och på budget - Sydsvenskan
-- L-toppar har hoppet kvar – trots ny chocksiffra - gp.se
+- Kamp om miljarder väntar när Sverige rustar upp: ”Väldigt olika åsikter mellan partierna” - Dagens Nyheter
+- Historiskt lågt stöd för L - SVT Nyheter
+- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
 - Singelolycka påverkar trafiken på E4 – stopp i ett körfält - norran.se
 - Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
-- Här är årets majblomma: "Glada färger" - gp.se
+- Efter våldtäkterna: Äldre ska få välja kön på hemtjänsten - gd.se
 - Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
 - EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
-- Prinsparets besked – nobbar Marius - Expressen
 - Smällen i Moskva – strömmen slås ut - Expressen
+- Man hittad död på isen i Tranemo kommun - Expressen
 - SJ:s biljetter till sommaren släppta - Expressen
 - USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
-- Smarta klockan för barn kan hackas och manipuleras - Expressen
-- Nya AI-klyftan – chefer tror på effektivisering, anställda är tveksamma - Voister
-- Videor visar Android för PC - Swedroid
+- Öresund höjer utdelningen - Affärsvärlden
+- Sju av tio småföretagare oroade för 2026 – blir tuffare - Mynewsdesk
+- Ovanlig McLaren F1 GTR och Sennas F1-Lotus på auktion - auto motor & sport
 - Nästa generation M5-Macar är redo att lanseras - Macworld.se
 
 ## World News
 
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Large local effect but small global climate impact of Nord Stream - su.se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Cybertech Global TLV 2026: Ett utrymme för att koppla samman det globala cybersäkerhetsekosystemet. - Vietnam.vn
-- World Thrombosis Day raises global awareness of blood clot dangers through actionable initiatives (PR Newswire) - Aktiellt
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BGC Group announces agreement to acquire OTC Global Holdings (PR Newswire) - Aktiellt
 
 ## Technology
 
