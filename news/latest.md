@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-29 00:59_
+_Updated: 2026-01-29 01:55_
 
+- Live: Agents involved in shooting of Minnesota man Alex Pretti put on leave - BBC
 - Where a nor’easter will bring heavy snow, strong winds and waves this weekend - The Washington Post
 - Trump's National Guard deployments could cost over $1 billion this year, CBO projects - NPR
-- Grok is the most antisemitic chatbot according to the ADL - The Verge
-- Backlash from Minnesota immigration actions sets back federal fraud cases - Star Tribune
-- Bystander videos of Minneapolis killings reveal larger trend - NPR
-- FBI leading investigation after man charges Rep. Ilhan Omar during town hall, police say - ABC News
+- Melania Trump Documentary Pulled From South African Theaters - The New York Times
+- Philadelphia’s ambitious plan to scare off ICE - Salon.com
+- Doomsday Clock Ticks Closer Than Ever to Apocalypse - The New York Times
 - What it’s like each day in Minneapolis - CNN
-- South Africa Cancels Release of ‘Melania’ Documentary - The New York Times
+- Minnesota prosecutors face uphill battle if they charge feds in fatal shootings - Politico
+- Satena: Colombia launches search for missing plane carrying 15 people - BBC
+- Assisted dying bill 'no hope' of passing unless Lords change approach, warns peer - BBC
 - US intelligence agencies disagree with Trump’s opposition to Chagos deal, says Starmer - The Guardian
 - Greetings from Mumbai, where residents take breathing space where they can find it - NPR
-- Dutch government is ordered to protect residents on Caribbean island of Bonaire from climate change - AP News
-- CNBC Daily Open: The EU-India trade deal story is not over yet - CNBC
-- Starbucks Reports Q1 Fiscal Year 2026 Results - Starbucks Investor Relations
-- Fed Meeting Today: Powell Has Some Direct Advice for His Successor - Investopedia
-- Home Depot to cut 800 corporate jobs, require workers back to office full time - ajc.com
+- Stock Market Today: Federal Reserve Holds Rates Steady; Nasdaq Edges Higher - The Wall Street Journal
+- Elon Musk says Tesla ending Models S and X production, converting Fremont factory lines to make Optimus robots - CNBC
 - OpenAI Wants To Create Biometric Social Network To Kill X’s Bot Problem - Forbes
-- Google begins rolling out Chrome’s “Auto Browse” AI agent today - Ars Technica
-- PSA: $2899 Galaxy Z TriFold Includes 45W Charging Brick in Box - Droid Life
+- Carvana stock drops 9% as Gotham City alleges $1B accounting gap - Investing.com
+- Google confirms ‘Take a Message’ microphone bug, disabling on old Pixel phones - 9to5Google
+- Exclusive: First look at Samsung’s 25W wireless charger, possibly for Galaxy S26 - SamMobile
 - Google Chrome tests new feature that could slow your Windows 11/10 PC when you turn it on - Neowin
-- Galaxy S27 May Not Be An Exynos-Exclusive Launch, As Samsung’s 2nm GAA May Be Used To Develop A ‘Custom Tuned’ Snapdragon 8 Elite Gen 6 Pro - Wccftech
+- Exclusive: Samsung Galaxy A57 Design Shown via Official Renders - Android Headlines
