@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 09:00_
+_Updated: 2026-01-28 09:47_
 
 ## Top Stories
 
-- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
-- Dan Browns bok sålde bäst i Sverige 2025 - gp.se
-- Expert: Blir inte förvånad om Kristi Noem byts ut - Omni
-- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
-- Åklagardetaljer om Rönningemord - SVT Nyheter
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
+- Dan Browns bok sålde bäst i Sverige 2025 - gp.se
+- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
 - Grova brott utreds – personer med koppling till kommunala bolag i Sundsvall anhållna - SVT Nyheter
-- Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
+- Vargskytt åtalas för grovt jaktbrott - Jakt & Jägare
+- Julia: ”Viktigare än någonsin att bevara historien” - nt.se
+- DN Direkt – Patient avled i rullstol – satt ensam hela natten - Dagens Nyheter
 - Efter räden i Irak: 20-tal gängmän kvar på polisens lista - Dagens Nyheter
-- Spaniens drag – för att vinna tävling om krigsfartyg - Dagens Nyheter
-- Internet släcktes – sedan inleddes en massaker - Aftonbladet
+- Vintervädret lockade fler – många rapporter i årets fågelräkning - orebronyheter.com
+- Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
+- EU och Indien i historisk överenskommelse – "alla avtals moder" - Europaportalen
 - Smällen i Moskva – strömmen slås ut - Expressen
-- En skjuten av gränspolisen i USA - Expressen
 - Rutte: Europa hjälplöst utan USA - SVT Nyheter
-- Trump inte orolig över dollarfallet – dollarn faller - DI
+- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
+- Techmiljardärens drönare till Stockholm - SvD
 - Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
 - GB glace Gammaldags vanilj utses till Årets matbluff - SVT Nyheter
-- Fler YH-utbildningar stärker kompetensförsörjningen och näringslivet - norrkoping.se
+- AI-bolaget Anthropic vill ta in 20 miljarder dollar - DI
 - Ulf Danielsson: Barnen fick bevittna sin lärare sprängas i luften - Dagens Nyheter
 - Forskare har skapat virtuella djur med sofistikerad AI-syn - Cision News
 
@@ -103,19 +103,19 @@ _Updated: 2026-01-28 09:00_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
