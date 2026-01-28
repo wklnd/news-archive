@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 19:05_
+_Updated: 2026-01-28 19:56_
 
 ## Top Stories
 
-- Detta är Tom Homan – Trumps ”gräns-tsar” - gp.se
+- Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
+- Iran går till attack mot Sverige: ”Hyckleri” - SvD
+- Nya attacker mot Ukraina - 8 Sidor
+- Buss och bil i krock i Västerås - SVT Nyheter
 - Iran: Redo för dialog – och att försvara oss som aldrig förr – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Brittiska polisens svar om Dermot Clemenger - Expressen
-- Uppdatering i ärende om bl.a. mord i Rönninge, Salems kommun - Åklagarmyndigheten
-- Januari avslöjar vem som är rik på riktigt - SvD
-- SMHI: ”Kan snöa till söndag” - ystadsallehanda.se
-- Regeringen: Mobilförbud i grundskolan i höst - Dagens Nyheter
-- Buss och bil i krock i Västerås - SVT Nyheter
 - Ica återkallar jordgubbar med bekämpningsmedel - nt.se
 - Ny opinionschock för L – ”jätteallvarlig siffra” - gp.se
-- Sanna Torén Björling: Därför var Trumps politik möjlig - Dagens Nyheter
+- Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
+- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
+- DN Direkt – Seger för ö i historiskt klimatmål - Dagens Nyheter
 - De hjälper migranter som inte vågar handla mat - Dagens Nyheter
-- Nytt avtal om handel - 8 Sidor
+- Prinsparets besked – nobbar Marius - Expressen
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
 - Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
-- Expert: Saab har chans på historisk Gripen-affär - Placera.se
+- Januari avslöjar vem som är rik på riktigt - SvD
 - Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
-- SSAB ökade rörelseresultatet mer än väntat – spår högre leveranser - Placera.se
+- Kanadensisk expert: Trump ger Saab chans till rekordaffär - Affärsvärlden
 - Världens största rymdteleskop ger sällsynt inblick i ett av rymdens mest ikoniska objekt - Illustrerad Vetenskap
-- Motorola lanserar mobilerna Moto G77, Moto G67, Moto G17 och Moto G17 Power - mobil.se
+- Virtuella djur kan ge ny syn på evolutionen - Forskning.se
 
 ## World News
 
-- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
@@ -35,18 +34,19 @@ _Updated: 2026-01-28 19:05_
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- WPP samlar produktion i ny global enhet - Dagens Media
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -143,13 +143,12 @@ _Updated: 2026-01-28 19:05_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -161,4 +160,5 @@ _Updated: 2026-01-28 19:05_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
