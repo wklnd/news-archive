@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 23:53_
+_Updated: 2026-01-29 00:54_
 
 ## Top Stories
 
-- Passagerarplan saknas i Colombia - SVT Nyheter
+- Oro i Baltikum: ”Extraordinär situation” - Hufvudstadsbladet
+- Passagerarplan har störtat i Colombia - SVT Nyheter
 - Maktstrid mot Starmer inledd: ”Bunkerläge” - SvD
-- DEBATT: Bara genom att erkänna att antisionismen är antisemitisk kan vi bekämpa judehatet - gp.se
-- LEDARE: Massmordet i Iran skulle ju aldrig få hända igen - kristianstadsbladet.se
-- DO stämmer polisen efter mordet på 14-åriga Mohamed - Expressen
-- Hoppkräftor hotar turism: ”Do or die-läge” - SvD
+- DN Direkt – Två gränspoliser tas ur tjänst efter dödsskjutningen - Dagens Nyheter
+- Ny opinionschock för L – ”jätteallvarlig siffra” - gp.se
+- Hamas: Redo överlämna styret i Gaza - vk.se
 - Regeringen presenterar åtgärder om mäns våld mot kvinnor - SVT Nyheter
-- Buss och bil i krock i Västerås - SVT Nyheter
 - Man död i brand i villa i Norrtälje - SVT Nyheter
 - Fattigare jul 2025 – fler än tidigare sökte hjälp - sydsvenskan.se
-- DN Direkt – Seger för ö i historiskt klimatmål - Dagens Nyheter
-- Experter: USA behöver inte äga Grönland för att bygga Trumps ”kupol” - Dagens Nyheter
-- DN Direkt – FBI gör husrannsakan mot valkontor i Georgia - Dagens Nyheter
-- Positiva reaktioner efter frihandelsavtal: ”Stora möjligheter” - Tidningen Näringslivet
+- Brittiska polisens svar om Dermot Clemenger - Expressen
+- Korrespondenten: ”De vill se amerikansk hjälp” – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Seger för ö i historiskt klimatmål - folkbladet.nu
+- Trump angriper Minneapolis borgmästare - Aftonbladet
+- 15 döda i flygkrasch i Colombia - Expressen
 - Ilija Batljan slår tillbaka: "Dunkla syften" - Affärsvärlden
-- USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
-- Rekordstor ökning av batterilager i EU - Tidningen Energi
+- Svårt att spara grönt - Tidningen Extrakt
+- Resultatet för regionen: Nästan 184 miljoner bättre än budget - oskarshamns-nytt.se
 - Relativt låga konsumtionsnivåer trots starkare köpkraft - Jordbruksaktuellt
 - Virtuella djur kan ge ny syn på evolutionen - Forskning.se
 - Då är du rik – inte bara högt belånad - SvD
@@ -105,17 +105,17 @@ _Updated: 2026-01-28 23:53_
 - Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-01-28 23:53_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - mau.se
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-28 23:53_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
