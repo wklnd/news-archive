@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-28 16:06_
+_Updated: 2026-01-28 17:02_
 
-- Trump says government will 'de-escalate a little bit' in Minnesota after Pretti shooting - BBC
-- CBP has a history of excessive force. Critics say they were unprepared for Minnesota - NPR
-- The Trump administration has secretly rewritten nuclear safety rules - NPR
-- Trump reiterates threat of military action with demand for Iran deal - Al Jazeera
-- NTSB blames 'deep' systemic failures for deadly midair collision near Washington, D.C. - NPR
-- Minnesota’s chief judge, a veteran in conservative legal circles, takes on ICE - Politico
+- Trump warns Iran 'time is running out' as US military builds up in Gulf - BBC
+- Nervous Allies and Fox News: How Trump Realized He Had a Big Problem in Minneapolis - The New York Times
 - As Minneapolis Rages, Legislators Move to Restrict ICE in Their States - The New York Times
-- A Texas man is facing execution for fatally shooting his ex-girlfriend and her new boyfriend - NBC News
-- Third ‘No Kings’ nationwide protest planned for March - Politico
+- Bystander videos of Minneapolis killings reveal larger trend - NPR
+- The Trump administration has secretly rewritten nuclear safety rules - NPR
+- CBP has a history of excessive force. Critics say they were unprepared for Minnesota - NPR
+- Where a nor’easter will bring heavy snow, strong winds and waves this weekend - The Washington Post
+- Rubio to testify about Venezuela at Senate hearing today - CBS News
+- Texas man slated to be first person executed in U.S. this year, for killing his ex-girlfriend and her new boyfriend - CBS News
 - In Kherson, Ukraine, Every Step Outside Risks Death by Drone - The New York Times
 - Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’ - CNN
-- Former French senator found guilty of spiking lawmaker's drink with ecstasy in order to sexually assault her - CBS News
-- Breaking Away From the Pack: The Case for the Acquisition of Greenland - RealClearDefense
-- Deutsche Bank searched by German police in money laundering probe - CNBC
+- India says it has contained Nipah virus outbreak as some Asian countries ramp up health screenings - AP News
+- What to know about South Sudan's major offensive against opposition forces - ABC News
+- UPS to cut 30,000 jobs as it moves away from Amazon - BBC
+- S&P 500 hits 7,000 for the first time as traders await Fed decision, tech earnings: Live updates - CNBC
+- Why this hedge-fund veteran says investors should own both high-flying gold and the sinking U.S. dollar - MarketWatch
 - Fed Meeting Today: S&P 500, Nasdaq Futures Gain Ahead of Interest-Rate Decision — Live Updates - The Wall Street Journal
-- ‘A betrayal’: Southwest’s new plus size policy leaves some passengers unable to fly - oregonlive.com
-- Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google
-- The Samsung Galaxy Z Trifold will cost $2,900 in the US - Engadget
-- Sonos Announces First New Product in Over a Year After App Turnaround - Bloomberg
-- Exynos 2700 Gets Spotted In New Benchmark Listing With A Unique ‘4 + 1 + 4 + 1’ CPU Cluster; Tipster Claims That Cores From Different Generations Are Mixed And Tested - Wccftech
+- Exclusive: First look at Samsung’s 25W wireless charger, possibly for Galaxy S26 - SamMobile
+- Apple's Next Launch is Today - MacRumors
+- MediaTek Estimated To Be Hit The Hardest Out Of All Chipset Manufacturers Thanks To The Memory Crisis, As More Than 50% Of Its Revenue Comes From SoC Shipments - Wccftech
