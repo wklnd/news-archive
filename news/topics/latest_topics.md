@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 09:47_
+_Updated: 2026-01-28 10:59_
 
 ## Top Stories
 
-- Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
-- Dan Browns bok sålde bäst i Sverige 2025 - gp.se
-- TOVE HOVEMYR: Den sänkta straffåldern kommer att straffa Moderaterna - unt.se
-- Grova brott utreds – personer med koppling till kommunala bolag i Sundsvall anhållna - SVT Nyheter
-- Vargskytt åtalas för grovt jaktbrott - Jakt & Jägare
-- Julia: ”Viktigare än någonsin att bevara historien” - nt.se
-- DN Direkt – Patient avled i rullstol – satt ensam hela natten - Dagens Nyheter
-- Efter räden i Irak: 20-tal gängmän kvar på polisens lista - Dagens Nyheter
-- Vintervädret lockade fler – många rapporter i årets fågelräkning - orebronyheter.com
+- Brittiska polisens svar om Dermot Clemenger - Expressen
+- Flera dödade i ny rysk attack mot Ukraina - gp.se
+- Kina hackade brittiska regeringens mobiler - SvD
 - Liberalerna får rekordlågt stöd enligt ny mätning – Senaste nytt om valet 2026 - SVT Nyheter
-- EU och Indien i historisk överenskommelse – "alla avtals moder" - Europaportalen
+- Läget fortsatt spänt – deportering stoppas och demokrat attackeras - SVT Nyheter
+- LEDARE: Barn i fängelse – men sedan då? - sn.se
+- Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
+- Grova brott utreds – personer med koppling till kommunala bolag i Sundsvall anhållna - SVT Nyheter
+- Efter räden i Irak: 20-tal gängmän kvar på polisens lista - Dagens Nyheter
+- Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
+- Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
+- Nya porranvändare stoppas i Storbritannien - gp.se
+- Internet släcktes – sedan inleddes en massaker - unt.se
 - Smällen i Moskva – strömmen slås ut - Expressen
-- Rutte: Europa hjälplöst utan USA - SVT Nyheter
-- Kvar­levor av sista gisslan åter­förda: ”De är hemma” - Världen idag
 - Techmiljardärens drönare till Stockholm - SvD
-- Då kan du få dina skattepengar – här är alla viktiga datum - Expressen
+- Smarta klockan för barn kan hackas och manipuleras - Expressen
+- Bankanalytikern inför rapporterna: Swedbank favoriten - Affärsvärlden
 - GB glace Gammaldags vanilj utses till Årets matbluff - SVT Nyheter
-- AI-bolaget Anthropic vill ta in 20 miljarder dollar - DI
 - Ulf Danielsson: Barnen fick bevittna sin lärare sprängas i luften - Dagens Nyheter
 - Forskare har skapat virtuella djur med sofistikerad AI-syn - Cision News
 
@@ -50,25 +50,25 @@ _Updated: 2026-01-28 09:47_
 
 ## Technology
 
+- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Machine Learning Pioneer Ramin Hasani Joins Info-Tech's "Digital Disruption" Podcast to Explore the Future of AI and Liquid Neural Networks (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- From AI to Blockchain to Quantum Computing: Globant Reveals Its 2024 Tech Trends (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -123,7 +123,6 @@ _Updated: 2026-01-28 09:47_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -133,6 +132,7 @@ _Updated: 2026-01-28 09:47_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
