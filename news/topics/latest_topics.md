@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-28 13:45_
+_Updated: 2026-01-28 15:29_
 
 ## Top Stories
 
-- Trumps utspel efter dödsskjutning väcker ilska - gp.se
-- INSÄNDARE: Trettonåringar bör inte dömas till fängelse - unt.se
+- Trumps Iranhot: Flotta på väg – förhandla nu - gp.se
+- Klart: Mobilförbud i grundskolan i höst - SvD
+- Flera dödade i ny rysk attack mot Ukraina - Dagens Nyheter
 - Kamp om miljarder väntar när Sverige rustar upp: ”Väldigt olika åsikter mellan partierna” - Dagens Nyheter
-- Barnpornografi och ofredande – här är brotten som ökat - gp.se
-- Kina hackade brittiska regeringens mobiler - SvD
-- Han vill bygga Ikea-varianten av kärnkraft i Barsebäck – snabbt och på budget - sydsvenskan.se
+- Han vill bygga Ikea-varianten av kärnkraft i Barsebäck – snabbt och på budget - Sydsvenskan
+- L-toppar har hoppet kvar – trots ny chocksiffra - gp.se
 - Singelolycka påverkar trafiken på E4 – stopp i ett körfält - norran.se
-- Så ser majblomman 2026 ut - gp.se
-- Minus i hela landet – kan bli ett isdygn - Dagens Nyheter
-- Talgoxen etta igen - 8 Sidor
+- Ledare: Ingen vargjakt när staten blandar ihop begreppen - sla.se
+- Här är årets majblomma: "Glada färger" - gp.se
+- Kylan ledde till stora förändringar i vinterfåglar inpå knuten - Natursidan
 - Trumps hårdaste kritiker i kongressen attackerades i Minneapolis - Dagens Nyheter
-- Nya porranvändare stoppas i Storbritannien - gp.se
+- EU undertecknar handelsavtal med Indien: ”Stort ljus i geopolitiskt mörker” - Altinget.se
+- Prinsparets besked – nobbar Marius - Expressen
 - Smällen i Moskva – strömmen slås ut - Expressen
-- Man skjuten av federal gränspolis i Arizona - Aftonbladet
-- Volvo rapporterar högre justerat rörelseresultat än väntat, extrautdelning på 4,50 kronor (uppdatering) - Placera.se
+- SJ:s biljetter till sommaren släppta - Expressen
+- USA:s centralbank splittrad – han pekas ut som Trumps nya favorit till Fed-chef - Dagens Nyheter
 - Smarta klockan för barn kan hackas och manipuleras - Expressen
-- Bankanalytikern inför rapporterna: Swedbank favoriten - Affärsvärlden
-- Morgonkoll: Mest upp i Asien – Softbank lyfter på uppgifter om investering - DI
+- Nya AI-klyftan – chefer tror på effektivisering, anställda är tveksamma - Voister
+- Videor visar Android för PC - Swedroid
 - Nästa generation M5-Macar är redo att lanseras - Macworld.se
-- Sonos lanserar Amp Multi – företagets första produkt på över ett år - m3.se
 
 ## World News
 
@@ -46,19 +46,19 @@ _Updated: 2026-01-28 13:45_
 - World Thrombosis Day raises global awareness of blood clot dangers through actionable initiatives (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- BGC Group announces agreement to acquire OTC Global Holdings (PR Newswire) - Aktiellt
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Avant Technologies' Joint Venture Partner Presents AI Technology at Roche Ophthalmology Conference (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
+- Hong Kong’s 2025-26 Budget Advances Innovation and Technology (EQS Newswire) - Aktiellt
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,18 +69,18 @@ _Updated: 2026-01-28 13:45_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Lafayette Square Announces ING's Expanded Commitment to Revolving Credit Facility (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -100,22 +100,22 @@ _Updated: 2026-01-28 13:45_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 
 ## Science
 
@@ -123,7 +123,9 @@ _Updated: 2026-01-28 13:45_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
@@ -132,13 +134,11 @@ _Updated: 2026-01-28 13:45_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - su.se
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-28 13:45_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
