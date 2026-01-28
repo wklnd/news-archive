@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-28 18:03_
+_Updated: 2026-01-28 19:18_
 
+- Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf - BBC
 - Nervous Allies and Fox News: How Trump Realized He Had a Big Problem in Minneapolis - The New York Times
-- As Minneapolis Rages, Legislators Move to Restrict ICE in Their States - The New York Times
-- Bystander videos of Minneapolis killings reveal larger trend - NPR
-- The Trump administration has secretly rewritten nuclear safety rules - NPR
-- Republicans turn on Noem, demand resignation - Axios
-- Inside the 'ghost student' scam that uses identity theft to steal college loans and financial aid - ABC News
 - Where a nor’easter will bring heavy snow, strong winds and waves this weekend - The Washington Post
-- In Kherson, Ukraine, Every Step Outside Risks Death by Drone - The New York Times
-- Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls ‘terrorism’ - CNN
+- As Minneapolis Rages, Legislators Move to Restrict ICE in Their States - The New York Times
+- Live: Trump warns Minneapolis mayor is 'playing with fire' over immigration - BBC
+- Bystander videos of Minneapolis killings reveal larger trend - NPR
+- Trump Changes Course in Minneapolis - The New York Times
+- Read the Report on Alex Pretti’s Killing — and the Bizarre Q&A CBP Gave Congress First - The Intercept
+- Philadelphia’s ambitious plan to scare off ICE - Salon.com
+- Texas man slated to be first person executed in U.S. this year, for killing his ex-girlfriend and her new boyfriend - CBS News
+- CNBC Daily Open: The EU-India trade deal story is not over yet - CNBC
+- Former French senator found guilty of spiking lawmaker's drink with ecstasy in order to sexually assault her - CBS News
+- Middle East worries over possible US strike on Iran one month after protests began - AP News
 - What to know about South Sudan's major offensive against opposition forces - ABC News
-- Breaking Away From the Pack: The Case for the Acquisition of Greenland - RealClearDefense
+- Layoffs are up, hiring is down as Amazon cuts reverberate through the economy - The Washington Post
 - US dollar sinks to its lowest level in four years - The Guardian
 - Germany cuts growth forecasts amid slow recovery - Financial Times
-- Why this hedge-fund veteran says investors should own both high-flying gold and the sinking U.S. dollar - MarketWatch
-- Deutsche Bank searched by German police in money laundering probe - CNBC
-- Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google
-- Apple Creator Studio launches today, and it’s an incredible value - 9to5Mac
+- Oil Prices Continue to Rise As US Crude Oil Inventories Drop - Crude Oil Prices Today | OilPrice.com
 - Exclusive: First look at Samsung’s 25W wireless charger, possibly for Galaxy S26 - SamMobile
-- Sonos Announces First New Product in Over a Year After App Turnaround - Bloomberg
-- Richard Linklater’s ‘Nouvelle Vague’ Leads Cesar Awards Nominations - hollywoodreporter.com
+- MediaTek Estimated To Be Hit The Hardest Out Of All Chipset Manufacturers Thanks To The Memory Crisis, As More Than 50% Of Its Revenue Comes From SoC Shipments - Wccftech
