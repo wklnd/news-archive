@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-28 04:52_
+_Updated: 2026-01-28 06:33_
 
-- DHS report says 2 agents fired weapons in Alex Pretti shooting - ABC News
-- Bari Weiss to CBS News staff: Without a shift in strategy, “we are toast.” - The Washington Post
+- As Trump Promotes Economy in Iowa, Many Residents Feel Pain - The New York Times
+- I Study Male Caregivers. I Recognized Something in Alex Pretti. - Slate
 - NTSB blames 'deep' systemic failures for deadly midair collision near Washington D.C. - NPR
-- Brothers were predators masquerading as party boys, New York court hears - The Guardian
+- Minnesota’s chief judge, a veteran in conservative legal circles, takes on ICE - Politico
+- See how much snow fell — and where it broke records - The Washington Post
+- Weekend Preview: Rachel McAdams to be First Lady of Box Office Ahead of Melania Trump Doc - hollywoodreporter.com
 - Texas Moves to Curtail H-1B Visas - The New York Times
-- How much snow did Mass. get from Sunday-Monday storm? Updated list reveals highest totals - boston25news.com
+- The DHS crisis is squeezing Susan Collins - Politico
 - Yale Offers Free Tuition to Families With Incomes Under $200,000 - The New York Times
-- Shooting involving Border Patrol leaves 1 in critical condition near US-Mexico border - AP News
-- Carney rolls his eyes at US Treasury secretary, says he told Trump he meant what he said at Davos - AP News
-- Board of Peace Set to Hand Trump Sweeping Powers Over Gaza - The New York Times
-- Diplomats Worry Xi’s Purge Will Curb Critical Contact With China - Bloomberg
-- As world marks International Holocaust Remembrance Day, concern over "AI slop" rewriting history - CBS News
+- Judge rules Virginia Democrats violated law with redistricting amendment - The Washington Post
+- Diplomats Worry Xi’s Purge Will Curb Critical Contact With China - Bloomberg.com
+- Russian drone strike on Ukrainian passenger train kills five - The Guardian
+- Consumer Price Index climbs 3.6% YoY in December, as expected - FXStreet
+- Breaking Away From the Pack: The Case for the Acquisition of Greenland - RealClearDefense
 - Judge Revives Wind Farm That Trump Halted Off Martha’s Vineyard - The New York Times
-- The market thinks BlackRock's Rick Rieder will be the next Fed chair. Here's what's at stake - CNBC
-- Former Citi exec alleges sexual harassment by wealth chief - American Banker
-- Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google
+- When Tesla reports earnings, this could be the biggest highlight - MarketWatch
+- Boeing Earnings Trounce Expectations. The Stock Is All Over the Place. - Barron's
+- Stock Market News for Jan. 27, 2026: UnitedHealth Weighs on Dow as Health-Insurance Stocks Slide - The Wall Street Journal
 - The Samsung Galaxy Z Trifold will cost $2,900 in the US - Engadget
-- Galaxy Book 6 Pro and Book 6 Ultra have been launched - SamMobile
-- Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center - VentureBeat
-- Stephen Colbert announces date of final episode of The Late Show - The Guardian
+- Yahoo Scout looks like a more web-friendly take on AI search - The Verge
