@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 11:06_
+_Updated: 2026-01-29 12:05_
 
 ## Top Stories
 
-- Adnan sköts av mass­mördaren på Risbergska - Arbetet
-- DN Direkt – Varannan handlare utsatt för brott - Dagens Nyheter
+- DN Direkt – Svensk-iranier bland de döda i protesterna - Dagens Nyheter
 - Zaporizjzja attackerat – flera döda - corren.se
-- Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - GP
+- Adnan sköts på Risbergska – har döpt sin dotter till Marwa efter kvinnan som räddade hans liv - Arbetet
 - Positiv trend för KD – högsta nivån sedan valet - SvD
-- Spåren efter fejkdejterna leder till Örkelljunga: ”Jag har bara halkat in på det där” - sydsvenskan.se
+- Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
+- DN Direkt – Saknad svensk i Nya Zeeland funnen död - Dagens Nyheter
 - Kritiken: Nya parkeringsregler kan få barnfamiljer att lämna Stockholm - Dagens Nyheter
-- Emma Bouvin: Äta lunch? Nej, men häng med på powerwalk genom hundbajs och slask - Dagens Nyheter
-- Hot om skolskjutning i Tierp - eposten.se
-- När regeringen stärker arbetet mot mäns våld mot kvinnor – så arbetar Sundbybergs stad lokalt - sundbyberg.se
-- Danska missbrukare får behålla droger - vk.se
-- FBI-tillslag mot valkontor efter Trumps anklagelser - Dagens Nyheter
-- Saknad svensk i Nya Zeeland funnen död - SVT Nyheter
-- Expert: Det blir slutet för Putin - Expressen
-- SEB:s vinst lägre än väntat – föreslår ny extrautdelning - Dagens industri
+- Nej till Turkiets ansökan om förhör med Medin - SVT Nyheter
+- Kommun tvingas stänga skolor – samtidigt som friskola får växa - Dagens Nyheter
+- Spåren efter fejkdejterna leder till Örkelljunga: ”Jag har bara halkat in på det där” - sydsvenskan.se
+- Danska missbrukare får behålla droger - folkbladet.nu
+- EU väntas terrorstämpla Irans revolutionsgarde – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Elva personer avrättade i Kina - vk.se
+- Saknad svensk i Nya Zeeland funnen död - gp.se
+- Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
 - Här är banktopparnas superinkomster: ”Finns inget tak” - Expressen
-- DN Direkt – Elva personer avrättade i Kina - Dagens Nyheter
+- Unikt möte samlade alla stora industrier i Norrbotten för att stärka energiomställning - lansstyrelsen.se
+- Google tar in fler AI-funktioner i Chrome - Omni
 - Listan: Så blir rektorernas arbetsmiljö bättre – enligt forskare - Skolledaren
-- Samsung Galaxy Z Fold 7 mot Honor Magic v5: Vilken har de bästa kamerorna? - mobil.se
-- SOVA och Svenska Friidrottsförbundet i nytt samarbete – lyfter sömnens roll för prestation och hälsa - Cision News
+- Youtube kan ha börjat blockera bakgrundsuppspelning i vissa webbläsare - m3.se
 
 ## World News
 
-- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
@@ -35,8 +34,9 @@ _Updated: 2026-01-29 11:06_
 - ‘This shouldn’t happen’: 2 women die during prolonged outages as cold grips Montreal - Global News
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
@@ -45,8 +45,8 @@ _Updated: 2026-01-29 11:06_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -56,7 +56,9 @@ _Updated: 2026-01-29 11:06_
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -66,33 +68,31 @@ _Updated: 2026-01-29 11:06_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -115,7 +115,7 @@ _Updated: 2026-01-29 11:06_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-01-29 11:06_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - mau.se
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -149,6 +149,7 @@ _Updated: 2026-01-29 11:06_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -161,4 +162,3 @@ _Updated: 2026-01-29 11:06_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
