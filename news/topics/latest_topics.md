@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 20:02_
+_Updated: 2026-01-29 21:09_
 
 ## Top Stories
 
 - Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
-- Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
+- Svensk-iranier bland de döda i protesterna - gp.se
+- Irans revolutionsgarde terrorlistas i EU - gp.se
 - Källor: Trump överväger ny stor attack mot Iran - Omni
-- Direkt – Kriget i Ukraina – Ryssland drar ner på försvarsutgifter - Dagens Nyheter
-- Rysskylan dominerar vädret i Sverige - Aftonbladet
+- Trump: Putin har gått med på veckolång vapenvila - gp.se
+- Ny video: Alex Pretti i bråk med agenter – elva dagar före dödsskotten - Dagens Nyheter
 - Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
 - Köldlarmet från Drottning Silvias sjukhus: Vårdar barnen i 16 grader - gp.se
-- 29 januari 13.50, Trafikkontroll, Västernorrlands län - polisen.se
+- 29 januari 13.50, Trafikkontroll, Västernorrlands län - Polisen.se
 - Fyra anhållna efter stor polisinsats i Jämtland – misstänks stulit pengar - SVT Nyheter
-- Fullt utvecklad lägenhetsbrand i Hudiksvall - SVT Nyheter
 - Ingmar Nevéus: Trumps ICE-fiasko ett gyllene tillfälle för Demokraterna - Dagens Nyheter
-- Svenske Måns, 20, död i vulkanskred - Expressen
 - Tre anhållna efter misstänkt kvinnomord - gp.se
-- Uppgifter: Vapenvila vid energiinfrastruktur - Expressen
-- Analysuppdateringar för Volvo efter rapporten – flera höjda riktkurser - Placera.se
+- Diktatorns dagar är räknade: “Förbered er för Putins död” - Marcus Oscarsson
+- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
+- Finansminister Elisabeth Svantesson: ”Bankerna måste skärpa sig” - Expressen
 - Lyko vinstvarnar – ska spara 100 miljoner och kapar personalstyrkan - Breakit
-- Kina uppges ha godkänt import av Nvidia-chip - Dagens industri
+- Sex av tio mäklare vill förbjuda dolda bud - Omni
+- Tillbehör gör om mobiler till strålningsmätare. Om man vill ha koll på radioaktivitet. - feber.se
+- Ovanliga jättefågeln i centrala Borås - bt.se
 - Intresset för Iphone Air fortsätter att vara svagt - Omni
-- Test: Oppo Find X9 Pro – I toppklass - mobil.se
-- Realme P4 Power har extrem livslängd för det gigantiska batteriet - Swedroid
 
 ## World News
 
@@ -32,19 +32,19 @@ _Updated: 2026-01-29 20:02_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
-- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -100,22 +100,22 @@ _Updated: 2026-01-29 20:02_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Engineering Health 2024 - Chalmers
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
