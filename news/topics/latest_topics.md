@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 17:05_
+_Updated: 2026-01-29 18:02_
 
 ## Top Stories
 
 - Katja Nyberg hade narkotika i blodet - SVT Nyheter
 - Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
-- Ny video: Alex Pretti i bråk med agenter – elva dagar före dödsskotten - Dagens Nyheter
-- Fortsatt allvarliga brister i samhällets skyddsnät för att förhindra våld mot barn - Socialstyrelsen
-- "Norges farligaste man" Stig Millehaugen hittad död - GP
+- Så stor är USA:s militära närvaro i området vid Iran - Dagens Nyheter
+- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
 - Rysskylan dominerar vädret i Sverige - Aftonbladet
-- Kritiken: Nya parkeringsregler kan få barnfamiljer att lämna Stockholm - Dagens Nyheter
-- Svenska gängpengar: ”Jordgubben” skickade 53 miljoner till Turkiet - sydsvenskan.se
+- DEBATT: Sverige kan bryta den iranska digitala järnridån - Dagens industri
 - 29 januari 13.50, Trafikkontroll, Västernorrlands län - polisen.se
-- Nej till Turkiets ansökan om förhör med Medin - SVT Nyheter
-- Direkt – Kriget i Ukraina – Ryssland drar ner på försvarsutgifter - Dagens Nyheter
-- Iran svarar på Trumps militära hot mot landet - Dagens Nyheter
-- Tre anhållna efter misstänkt kvinnomord - GP
+- Fyra anhållna efter stor polisinsats i Jämtland – misstänks stulit pengar - SVT Nyheter
+- Fullt utvecklad lägenhetsbrand i Hudiksvall - SVT Nyheter
+- Extra stora investeringsstöd för att minska utsläppen - lansstyrelsen.se
+- Tre anhållna efter misstänkt kvinnomord - gp.se
 - Uppgifter: Vapenvila vid energiinfrastruktur - Expressen
+- Här slår Ukraina till mot ryska flygen - Expressen
+- Moskva lamslagen i rekordoväder - Expressen
 - Akelius säljer skogen – kritisk till regleringar: "Överförmyndare" - Affärsvärlden
-- Lättare att hyra ut bostadsrätt – regeringen klar med ny lag - Dagens Nyheter
+- Analysuppdateringar för Volvo efter rapporten – flera höjda riktkurser - Placera.se
 - Lyko vinstvarnar – ska spara 100 miljoner och kapar personalstyrkan - Breakit
-- Så mycket sparar andra i din ålder – se hela listan - GP
+- Kina uppges ha godkänt import av Nvidia-chip - Dagens industri
 - Nu har Windows 11 en miljard användare - Computer Sweden
 - Google tar in fler AI-funktioner i Chrome - Omni
 
@@ -39,12 +39,12 @@ _Updated: 2026-01-29 17:05_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
-- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -64,35 +64,35 @@ _Updated: 2026-01-29 17:05_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -112,10 +112,10 @@ _Updated: 2026-01-29 17:05_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-01-29 17:05_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - mau.se
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 
 ## Jordbruk
 
