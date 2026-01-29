@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 09:24_
+_Updated: 2026-01-29 10:00_
 
 ## Top Stories
 
@@ -8,45 +8,45 @@ _Updated: 2026-01-29 09:24_
 - Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
 - Positiv trend för KD – högsta nivån sedan valet - SvD
 - Adnan sköts av mass­mördaren på Risbergska - Arbetet
-- Direkt – Krisen i Mellanöstern – Frankrike stöder terrorstämpel på revolutionsgardet - Dagens Nyheter
 - Spåren efter fejkdejterna leder till Örkelljunga: ”Jag har bara halkat in på det där” - sydsvenskan.se
+- Iran: Släpper namn på dödsoffer – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Emma Bouvin: Äta lunch? Nej, men häng med på powerwalk genom hundbajs och slask - Dagens Nyheter
 - Söndagssteken på äldreboendet gick till din plånbok - Dagens Arena
 - Johanna: "Känns inte som att man har koll på vårt vatten" - helagotland.se
-- Information om kommunens arbete med upphandling - nordmaling.se
-- FBI-tillslag mot valkontor efter Trumps anklagelser - Dagens Nyheter
-- Elva personer avrättade i Kina - SVT Nyheter
-- Saknad svensk i Nya Zeeland funnen död - vk.se
-- ICE i Minnesota uppmanas undvika ”uppviglare” - Aftonbladet
+- Statsministern presenterar Rådet för kvinnofrid - Regeringen.se
+- EU väntas terrorstämpla Irans revolutionsgarde – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Expert: Det blir slutet för Putin - Expressen
+- Hamas: Redo överlämna styret i Gaza - vk.se
+- 15 döda i flygkrasch i Colombia - Expressen
 - SEB:s vinst lägre än väntat – föreslår ny extrautdelning - Dagens industri
 - Här är banktopparnas superinkomster: ”Finns inget tak” - Expressen
-- BMW har sålt slut för hela 2026 - Dagens PS
+- Kostnadsexplosion sänkte Microsoft i efterhandeln - Privata Affärer
 - Unikt möte samlade alla stora industrier i Norrbotten för att stärka energiomställning - lansstyrelsen.se
+- Samsung Galaxy Z Fold 7 mot Honor Magic v5: Vilken har de bästa kamerorna? - mobil.se
 - SOVA och Svenska Friidrottsförbundet i nytt samarbete – lyfter sömnens roll för prestation och hälsa - Cision News
-- Inbjudan till presentation av Bactiguards bokslutskommuniké 2025 - Cision News
 
 ## World News
 
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - ‘This shouldn’t happen’: 2 women die during prolonged outages as cold grips Montreal - Global News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -83,6 +83,7 @@ _Updated: 2026-01-29 09:24_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -92,21 +93,20 @@ _Updated: 2026-01-29 09:24_
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - vietnam.vn
+- Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - vietnam.vn
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -115,50 +115,50 @@ _Updated: 2026-01-29 09:24_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
