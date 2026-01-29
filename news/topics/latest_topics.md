@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 08:05_
+_Updated: 2026-01-29 09:24_
 
 ## Top Stories
 
+- Socialstyrelsen: Barn och kvinnor skyddas inte - Dagens Nyheter
 - Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
 - Positiv trend för KD – högsta nivån sedan valet - SvD
-- Zelenskyj: Ryssland förbereder stor attack - Expressen
-- Söndagssteken på äldreboendet gick till din plånbok - Dagens Arena
-- Så ska parkinson upptäckas tidigt med blodprov - SvD
-- Regeringen vill införa mobilförbud i hela grundskolan - hallekis.com
+- Adnan sköts av mass­mördaren på Risbergska - Arbetet
+- Direkt – Krisen i Mellanöstern – Frankrike stöder terrorstämpel på revolutionsgardet - Dagens Nyheter
+- Spåren efter fejkdejterna leder till Örkelljunga: ”Jag har bara halkat in på det där” - sydsvenskan.se
 - Emma Bouvin: Äta lunch? Nej, men häng med på powerwalk genom hundbajs och slask - Dagens Nyheter
+- Söndagssteken på äldreboendet gick till din plånbok - Dagens Arena
 - Johanna: "Känns inte som att man har koll på vårt vatten" - helagotland.se
-- Statsministerns tal vid ceremoni till minne av Förintelsens offer - Regeringen.se
-- Lucas Karlsson, 43, hjärna bakom grov grupp för pedofiler - Expressen
-- ICE i Minnesota uppmanas undvika ”uppviglare” - folkbladet.nu
-- Passagerarplan har störtat i Colombia – 15 döda - SVT Nyheter
-- Hamas: Redo överlämna styret i Gaza - vk.se
-- Expert: Det blir slutet för Putin - Expressen
+- Information om kommunens arbete med upphandling - nordmaling.se
+- FBI-tillslag mot valkontor efter Trumps anklagelser - Dagens Nyheter
+- Elva personer avrättade i Kina - SVT Nyheter
+- Saknad svensk i Nya Zeeland funnen död - vk.se
+- ICE i Minnesota uppmanas undvika ”uppviglare” - Aftonbladet
 - SEB:s vinst lägre än väntat – föreslår ny extrautdelning - Dagens industri
 - Här är banktopparnas superinkomster: ”Finns inget tak” - Expressen
-- Relativt låga konsumtionsnivåer trots starkare köpkraft - Jordbruksaktuellt
-- Svårt att spara grönt - Tidningen Extrakt
-- Virtuella djur kan ge ny syn på evolutionen - Forskning.se
-- Startup-företagets affärsidé: Skjut upp mormors aska i rymden - gp.se
+- BMW har sålt slut för hela 2026 - Dagens PS
+- Unikt möte samlade alla stora industrier i Norrbotten för att stärka energiomställning - lansstyrelsen.se
+- SOVA och Svenska Friidrottsförbundet i nytt samarbete – lyfter sömnens roll för prestation och hälsa - Cision News
+- Inbjudan till presentation av Bactiguards bokslutskommuniké 2025 - Cision News
 
 ## World News
 
@@ -35,8 +35,8 @@ _Updated: 2026-01-29 08:05_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
@@ -66,10 +66,10 @@ _Updated: 2026-01-29 08:05_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Oron: Då tar datan på internet slut - SvD
 
 ## Business
 
@@ -104,17 +104,17 @@ _Updated: 2026-01-29 08:05_
 - Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -143,22 +143,22 @@ _Updated: 2026-01-29 08:05_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
