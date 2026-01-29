@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 12:05_
+_Updated: 2026-01-29 13:05_
 
 ## Top Stories
 
-- DN Direkt – Svensk-iranier bland de döda i protesterna - Dagens Nyheter
-- Zaporizjzja attackerat – flera döda - corren.se
-- Adnan sköts på Risbergska – har döpt sin dotter till Marwa efter kvinnan som räddade hans liv - Arbetet
-- Positiv trend för KD – högsta nivån sedan valet - SvD
+- DN Direkt – Tre anhållna efter misstänkt mord på kvinna - Dagens Nyheter
+- Regeringen avslår Turkiets begäran i Medin-fallet – ”Kan leda till att jag blir internationellt efterlyst” - ETC.se
+- EU väntas terrorstämpla Irans revolutionsgarde - vk.se
+- DN Direkt – FBI gör husrannsakan mot valkontor i Georgia - Dagens Nyheter
 - Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
-- DN Direkt – Saknad svensk i Nya Zeeland funnen död - Dagens Nyheter
+- Adnan sköts på Risbergska – har döpt sin dotter till Marwa efter kvinnan som räddade hans liv - Arbetet
+- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
 - Kritiken: Nya parkeringsregler kan få barnfamiljer att lämna Stockholm - Dagens Nyheter
-- Nej till Turkiets ansökan om förhör med Medin - SVT Nyheter
 - Kommun tvingas stänga skolor – samtidigt som friskola får växa - Dagens Nyheter
-- Spåren efter fejkdejterna leder till Örkelljunga: ”Jag har bara halkat in på det där” - sydsvenskan.se
-- Danska missbrukare får behålla droger - folkbladet.nu
-- EU väntas terrorstämpla Irans revolutionsgarde – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Elva personer avrättade i Kina - vk.se
-- Saknad svensk i Nya Zeeland funnen död - gp.se
+- Fullt utvecklat lägenhetsbrand i Hudiksvall - SVT Nyheter
+- Trumps utspel efter dödsskjutning väcker ilska - gp.se
+- Danska missbrukare får behålla droger - vk.se
+- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
+- Saknad svensk i Nya Zeeland funnen död - SVT Nyheter
+- Riksbanken bytte guld mot nollränta – gick miste om 83 miljarder - Omni Ekonomi
 - Experten: Så får du ordning på ekonomin med hjälp av AI - Dagens Nyheter
-- Här är banktopparnas superinkomster: ”Finns inget tak” - Expressen
-- Unikt möte samlade alla stora industrier i Norrbotten för att stärka energiomställning - lansstyrelsen.se
+- Resultat fjärde kvartalet 2025 - ABB
 - Google tar in fler AI-funktioner i Chrome - Omni
+- Redaktionens fynd: 65-tummare från Samsung till riktigt bra pris - m3.se
 - Listan: Så blir rektorernas arbetsmiljö bättre – enligt forskare - Skolledaren
-- Youtube kan ha börjat blockera bakgrundsuppspelning i vissa webbläsare - m3.se
 
 ## World News
 
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Valvoline™ Global Operations Confirmed as Official FIFA World Cup 26™ Supporter (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - ‘This shouldn’t happen’: 2 women die during prolonged outages as cold grips Montreal - Global News
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
+- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2026-01-29 12:05_
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -115,30 +115,30 @@ _Updated: 2026-01-29 12:05_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
