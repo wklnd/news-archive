@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 22:53_
+_Updated: 2026-01-29 23:51_
 
 ## Top Stories
 
+- Måns, 20, dog i jordskredet i Nya Zeeland - gp.se
 - Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
-- Dansa, tala språket, använd appar – så lär du känna spanjorerna - sydsvenskan.se
-- Shamima nekas återvända från IS-läger – tar strid i Europadomstolen - gp.se
+- 29 januari 14.11, Bedrägeri, Stockholms län - polisen.se
+- Dramatisk kollaps för det kurdiska självstyret - SvD
+- Ryssarna pekar ut svenskarna – ett fientligt land - Expressen
+- USA:s ambassad tog bort flagghyllning – då gav danska veteraner svar på tal - Dagens Nyheter
 - Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
-- 29 januari 14.11, Bedrägeri, Stockholms län - Polisen.se
-- Så stor är USA:s militära närvaro i området vid Iran - Dagens Nyheter
 - Söndagsstek och lax slopas på flera håll – men här prioriteras äldrematen: ”Ska ha en eloge” - nlt.se
-- 29 januari 13.50, Trafikkontroll, Västernorrlands län - Polisen.se
-- Halv miljon får frågor om mat, stress och sprit - vk.se
-- DEBATT: Barn förtjänar en vuxenvärld som vill se dem lyckas – inte att kastas i fängelse - gp.se
-- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - vk.se
-- Ingmar Nevéus: Trumps ICE-fiasko ett gyllene tillfälle för Demokraterna - Dagens Nyheter
-- Svenske Måns, 20, död i vulkanskred - Expressen
-- Iran varnar: Vi har tusen nya drönare - Aftonbladet
+- 29 januari 13.50, Trafikkontroll, Västernorrlands län - polisen.se
+- Sänkt straffbarhetsålder är fel väg att gå - hallandsposten.se
+- Tre anhållna efter misstänkt kvinnomord - gp.se
+- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
+- 42-åringen skulle sälja en mobil på Marketplace – sköts ihjäl - Expressen
 - Finansminister Elisabeth Svantesson: ”Bankerna måste skärpa sig” - Expressen
 - Extra stora investeringsstöd för att minska utsläppen - lansstyrelsen.se
-- Webbinarium: Med fokus på brottsligheten mot företag - Svenskt Näringsliv
+- Var femte nätverkskriminell driver företag – så kan de stoppas - Tidningen Näringslivet
 - Nu kan du se säsong 1 av ”Fallout” helt gratis – så gör du - MovieZine.se
 - Se unika Volvo 780 Aero – med torpednos - Carup.se
+- Intresset för Iphone Air fortsätter att vara svagt - Omni
 - Tillbehör gör om mobiler till strålningsmätare. Om man vill ha koll på radioaktivitet. - feber.se
 
 ## World News
 
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -56,7 +56,7 @@ _Updated: 2026-01-29 22:53_
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -136,9 +136,9 @@ _Updated: 2026-01-29 22:53_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - mau.se
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-01-29 22:53_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
