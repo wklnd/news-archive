@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-29 06:57_
+_Updated: 2026-01-29 08:26_
 
-- Partial shutdown seems increasingly likely as Democrats demand ICE changes - AP News
 - Judge in Minnesota Says ICE Has Violated Nearly 100 Court Orders - The New York Times
-- Where a nor’easter will bring heavy snow, strong winds and waves this weekend - The Washington Post
-- House Republicans fume at Kristi Noem as impeachment push looms - Axios
+- Live updates: Minneapolis residents challenge local and state leaders at CNN town hall - CNN
 - Car slams into Chabad World Headquarters in Crown Heights, Brooklyn; police investigating - abc7ny.com
-- Amazon’s $35 Million ‘Melania’ Promotion Has Critics Questioning Its Motives - The New York Times
-- Trump administration finds California’s ban on ‘forced outing’ of students violates federal law - Politico
+- House Republicans fume at Kristi Noem as impeachment push looms - Axios
+- South Africa Cancels Release of ‘Melania’ Documentary - The New York Times
+- US life expectancy reached a record high in 2024 as deaths from drug overdose and Covid-19 dropped - CNN
 - In a battle over how to carry out Trump's immigration agenda, one faction has triumphed — for now - NBC News
 - Xi Jinping Is Stripping Down His Military Command and Starting Over - The Wall Street Journal
-- Greetings from Mumbai, where residents take breathing space where they can find it - NPR
-- Doomsday Clock Ticks Closer Than Ever to Apocalypse - The New York Times
 - Carney says almost nothing is normal in the US, trade pact review starting soon - Reuters
-- Tesla profits slumped 46% last year, as it lost its crown as the top EV seller - NPR
-- OpenAI Wants To Use Biometrics To Kill Bots And Create Humans Only Social Network - Forbes
-- IREN, Cipher Mining (CIFR) and Hut 8 (HUT) could be set to add to AI-related gains - CoinDesk
-- Zuckerberg teases agentic commerce tools and major AI rollout in 2026 - TechCrunch
-- Leak shows Google’s new Aluminium OS in action for the first time - PCWorld
+- Horowitz Iran's Defenses Are Broken, Its Retaliatory Power Isn't - Crude Oil Prices Today | OilPrice.com
+- Doomsday Clock Ticks Closer Than Ever to Apocalypse - The New York Times
+- Microsoft’s Earnings Surge Is Overshadowed by Data-Center Spending - WSJ - The Wall Street Journal
+- Indonesian stocks tumble as Goldman warning adds to MSCI concerns - Financial Times
+- Asia tech seeks to extend January surge, gold keeps flying - Reuters
 - Leaker makes unlikely claim about improved iPhone 18 telephoto performance - 9to5Mac
-- Scott Pilgrim EX launches March 3 - Gematsu
-- Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware - The Hacker News
+- Halide co-founder Sebastiaan de With is joining Apple’s design team - The Verge
+- The Samsung Galaxy Z Trifold will cost $2,900 in the US - Engadget
+- Manage a group of ex-supervillains who are given one last shot at redemption in Dispatch, available now - nintendo.com
+- Brandon Sanderson’s Literary Fantasy Universe ‘Cosmere’ Picked Up by Apple TV (Exclusive) - hollywoodreporter.com
+- Kenan Thompson Sued By Landlord Over Breach of Lease - TMZ
