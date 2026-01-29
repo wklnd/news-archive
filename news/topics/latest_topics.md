@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 21:52_
+_Updated: 2026-01-29 22:53_
 
 ## Top Stories
 
 - Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
-- Svensk-iranier bland de döda i protesterna - gp.se
-- Irans revolutionsgarde terrorlistas i EU - gp.se
+- Dansa, tala språket, använd appar – så lär du känna spanjorerna - sydsvenskan.se
+- Shamima nekas återvända från IS-läger – tar strid i Europadomstolen - gp.se
 - Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
-- Danmark och USA har haft möte - Hufvudstadsbladet
-- Polisinsats i Nälden – stoppade tåg - op.se
-- Köldlarmet från Drottning Silvias sjukhus: Vårdar barnen i 16 grader - gp.se
+- 29 januari 14.11, Bedrägeri, Stockholms län - Polisen.se
+- Så stor är USA:s militära närvaro i området vid Iran - Dagens Nyheter
 - Söndagsstek och lax slopas på flera håll – men här prioriteras äldrematen: ”Ska ha en eloge” - nlt.se
-- 29 januari 13.50, Trafikkontroll, Västernorrlands län - polisen.se
-- Fullt utvecklad lägenhetsbrand i Hudiksvall - SVT Nyheter
+- 29 januari 13.50, Trafikkontroll, Västernorrlands län - Polisen.se
+- Halv miljon får frågor om mat, stress och sprit - vk.se
+- DEBATT: Barn förtjänar en vuxenvärld som vill se dem lyckas – inte att kastas i fängelse - gp.se
+- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - vk.se
 - Ingmar Nevéus: Trumps ICE-fiasko ett gyllene tillfälle för Demokraterna - Dagens Nyheter
-- Rapport: Extrema ryska förluster i Ukraina - gp.se
+- Svenske Måns, 20, död i vulkanskred - Expressen
 - Iran varnar: Vi har tusen nya drönare - Aftonbladet
-- Saknade svensken hittad död i raset - Expressen
 - Finansminister Elisabeth Svantesson: ”Bankerna måste skärpa sig” - Expressen
-- Lyko vinstvarnar – ska spara 100 miljoner och kapar personalstyrkan - Breakit
 - Extra stora investeringsstöd för att minska utsläppen - lansstyrelsen.se
+- Webbinarium: Med fokus på brottsligheten mot företag - Svenskt Näringsliv
+- Nu kan du se säsong 1 av ”Fallout” helt gratis – så gör du - MovieZine.se
+- Se unika Volvo 780 Aero – med torpednos - Carup.se
 - Tillbehör gör om mobiler till strålningsmätare. Om man vill ha koll på radioaktivitet. - feber.se
-- Intresset för Iphone Air fortsätter att vara svagt - Omni
-- Test: Oppo Find X9 Pro – I toppklass - mobil.se
 
 ## World News
 
@@ -43,8 +43,8 @@ _Updated: 2026-01-29 21:52_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -56,8 +56,8 @@ _Updated: 2026-01-29 21:52_
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -90,9 +90,9 @@ _Updated: 2026-01-29 21:52_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 
 ## Health
 
@@ -100,7 +100,9 @@ _Updated: 2026-01-29 21:52_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Byggnationen av Que Phong Medical Center – en hörnsten i hälso- och sjukvården i gränsregionen – påbörjas. - Vietnam.vn
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
@@ -110,16 +112,15 @@ _Updated: 2026-01-29 21:52_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -127,18 +128,17 @@ _Updated: 2026-01-29 21:52_
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - mau.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - mau.se
 
 ## Jordbruk
 
