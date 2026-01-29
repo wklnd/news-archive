@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-29 19:06_
+_Updated: 2026-01-29 20:02_
 
 ## Top Stories
 
 - Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
-- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
+- Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
+- Källor: Trump överväger ny stor attack mot Iran - Omni
+- Direkt – Kriget i Ukraina – Ryssland drar ner på försvarsutgifter - Dagens Nyheter
 - Rysskylan dominerar vädret i Sverige - Aftonbladet
-- DN Direkt – Kristersson om våldet: Görs för lite - Dagens Nyheter
-- S lovar räkna upp pengarna till kommunerna - sydsvenskan.se
-- Adnan sköts på Risbergska – har döpt sin dotter till Marwa efter kvinnan som räddade hans liv - Arbetet
+- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
 - Köldlarmet från Drottning Silvias sjukhus: Vårdar barnen i 16 grader - gp.se
 - 29 januari 13.50, Trafikkontroll, Västernorrlands län - polisen.se
 - Fyra anhållna efter stor polisinsats i Jämtland – misstänks stulit pengar - SVT Nyheter
 - Fullt utvecklad lägenhetsbrand i Hudiksvall - SVT Nyheter
 - Ingmar Nevéus: Trumps ICE-fiasko ett gyllene tillfälle för Demokraterna - Dagens Nyheter
-- Saknad svensk i Nya Zeeland funnen död - vk.se
-- Iran svarar på Trumps militära hot mot landet - Dagens Nyheter
+- Svenske Måns, 20, död i vulkanskred - Expressen
 - Tre anhållna efter misstänkt kvinnomord - gp.se
+- Uppgifter: Vapenvila vid energiinfrastruktur - Expressen
 - Analysuppdateringar för Volvo efter rapporten – flera höjda riktkurser - Placera.se
-- Akelius säljer skogen – kritisk till regleringar: "Överförmyndare" - Affärsvärlden
+- Lyko vinstvarnar – ska spara 100 miljoner och kapar personalstyrkan - Breakit
 - Kina uppges ha godkänt import av Nvidia-chip - Dagens industri
 - Intresset för Iphone Air fortsätter att vara svagt - Omni
-- Realme P4 Power har extrem livslängd för det gigantiska batteriet - Swedroid
 - Test: Oppo Find X9 Pro – I toppklass - mobil.se
+- Realme P4 Power har extrem livslängd för det gigantiska batteriet - Swedroid
 
 ## World News
 
@@ -31,36 +31,36 @@ _Updated: 2026-01-29 19:06_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Från Västerås till global modejätte – ny dokumentär skildrar H&M-dynastin - SVT Nyheter
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Albanien utser AI-bot till minister - Computer Sweden
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -69,7 +69,7 @@ _Updated: 2026-01-29 19:06_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 
 ## Business
 
@@ -143,12 +143,13 @@ _Updated: 2026-01-29 19:06_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -156,9 +157,8 @@ _Updated: 2026-01-29 19:06_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
