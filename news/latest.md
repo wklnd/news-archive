@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-30 18:04_
+_Updated: 2026-01-30 19:19_
 
-- Former CNN anchor Don Lemon taken into custody after protest at Minnesota church service - CBS News
-- Luigi Mangione will not face death penalty, judge rules - CNN
-- Tulsi Gabbard’s appearance at Fulton County FBI raid raises questions - The Washington Post
+- Luigi Mangione will not face the death penalty after judge nixes two federal counts - NBC News
 - Ukraine sees quieter night as Trump says Putin will not attack its cities - BBC
-- Anti-ICE protests to be held across US as organizers urge national strike - The Guardian
-- Live updates: Nor'easter 'bomb cyclone' to blast Carolinas with heavy snow and coastal flooding - FOX Weather
-- Minnesota Dems are trying to walk a tightrope with Trump - Politico
-- Inside the premiere of Melania Trump’s not-documentary documentary - CNN
+- In Minnesota, America’s Federal System Is Coming Apart - The New York Times
+- Syrian government reaches deal with Kurdish-led forces - BBC
+- Don Lemon arrested by federal authorities after protest at Minnesota church service - NBC News
+- These 12 cities will be hit hard by a bomb cyclone this weekend - The Washington Post
+- Gov. Tim Walz and Minnesota AG Keith Ellison will testify before Congress - Politico
+- Lawyers want to send Trump a message in New Jersey: Free accused criminals - Politico
 - Israel reopening Gaza’s border crossing with Egypt on Sunday after long closure - AP News
+- Ukraine Can’t Defend the Entire Front. Russia Is Finding the Gaps. - The New York Times
 - Shark kills 13-year-old boy at popular beach in Brazil: "Ate almost his entire leg" - CBS News
-- Russia Is Finding the Gaps in Ukraine’s Front Line - The New York Times
 - Exclusive: European crisis fund worth over $500 billion could be used for defence, says ESM chief - Reuters
-- Ford to record $600 million pretax pension charge in fourth quarter - CNBC
-- Giving to donor-advised funds surges on expiring tax cuts and a hot stock market - CNBC
 - Washington Post Plans Cuts to Reshape Newsroom - The New York Times
+- Giving to donor-advised funds surges on expiring tax cuts and a hot stock market - CNBC
+- I Correctly Called Broadcom's Rise Into the $1 Trillion Club in 2025. Here's What I Predict for 2026. - The Motley Fool
 - Gold faces more headwinds as U.S. inflation threat remains - KITCO
 - People complaining about Windows 11 hasn’t stopped it from hitting 1 billion users - Ars Technica
-- Microsoft is experimenting with a top menu bar for Windows 11 - The Verge
+- This ring watch squeezes in heart rate, sleep, and fitness tracking - The Verge
 - The Nex Playground is everything Xbox Kinect wanted to be - Engadget
-- As quirky Switch 2 life sim Tomodachi Life gets a release date, Nintendo makes good on decade-old same-sex relationship promise - Eurogamer
+- Rise to the Occasion with Mega Evolution—Ascended Heroes in Pokémon TCG Live - Pokemon.com
