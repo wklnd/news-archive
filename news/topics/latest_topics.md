@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 09:23_
+_Updated: 2026-01-30 09:59_
 
 ## Top Stories
 
+- Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
 - Teodorescu Måwe om hatet: ”En helt ny nivå” - gp.se
-- Helomvändning om SD – välkomnas in - Marcus Oscarsson
+- Ingen ström, ingen värme – men Ukrainas kampvilja slocknar inte - Dagens Nyheter
 - Forskare förvånad – det styr hur gamla vi blir - SvD
-- Universitetet efter studenternas sågning: ”Vi tar kritiken på allvar” - gp.se
+- Falsk FBI-agent försökte frita Mangione - gp.se
 - 29 januari 14.11, Bedrägeri, Stockholms län - polisen.se
-- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
-- Diana utmanar sin stamning: ”När jag ser mig själv ser jag ett monster” - Dagens Nyheter
+- C: Vi kräver sänkta skatter för att sitta med i en regering - Dagens Nyheter
 - Bilbrand i Tynnered – vittnen hörde smäll - gp.se
 - Trafikolycka på E22 vid Hammar: ”Stod vid kanten” - kristianstadsbladet.se
-- 30 januari 07.24, Sammanfattning natt, Jämtlands län - polisen.se
-- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - gp.se
-- Trump stämmer finansdepartementet - folkbladet.nu
+- Diana utmanar sin stamning: ”När jag ser mig själv ser jag ett monster” - Dagens Nyheter
+- Uppgörelse kring ny nedstängning i USA - Dagens Nyheter
+- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - TV4 Nyheterna
 - "Norges farligaste man" Stig Millehaugen hittad död - gp.se
 - Ukraina slår ut flyg för miljarder - Expressen
-- Världens lyckligaste folk – Nordens sämsta ekonomi - SvD
-- Källa: Musks Space X och X AI kan slås ihop - Omni
 - Nu kan idrottsföreningar ansöka om drifts- och investeringsstöd - gotland.se
-- Trumps succé: ”Ett mycket hårt slag” mot Putin - Expressen
+- Extra stora investeringsstöd för att minska utsläppen - lansstyrelsen.se
+- Stockholmsbörsen väntas öppna svagt uppåt - DI
 - AI-kodning kräver att utvecklare blir bättre chefer - Computer Sweden
-- Stuga på 44 kvadratmeter från 1977 såld i Tänndalen – priset: 635 000 kronor - op.se
+- Nya S-klass är här – lyxigare än någonsin - m3.se
+- Samsungs nya billiga OLED-TV för 2026 ser ut att få ett rejält lyft i ljusstyrka – men det finns en hake - TechRadar
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2026-01-30 09:23_
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 
 ## Technology
@@ -93,6 +93,29 @@ _Updated: 2026-01-30 09:23_
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
+## Health
+
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Engineering Health 2024 - Chalmers
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
@@ -119,10 +142,9 @@ _Updated: 2026-01-30 09:23_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -132,8 +154,9 @@ _Updated: 2026-01-30 09:23_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
