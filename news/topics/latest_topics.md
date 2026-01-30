@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 21:08_
+_Updated: 2026-01-30 21:53_
 
 ## Top Stories
 
-- Miljonsmäll för SD – efter vildarnas beslut - SVT Nyheter
-- Polisinsats vid Grönsakstorget - GP
-- V i Malmö gör uppror mot partiledningen efter ministeraktioner - Dagens Nyheter
 - Halt på vägarna – E6 stängdes av efter olycka - SVT Nyheter
-- L-toppen: ”För varje mätning sjunker modet” - Dagens Nyheter
+- V i Malmö gör uppror mot partiledningen efter ministeraktioner - Dagens Nyheter
 - ”Jag var så rädd att jag inte kunde röra mig” - Dagens Nyheter
-- Polisen varnar för nygammal bedrägeritrend: "En våg" - NT
-- Kylan håller i sig – varning för ”stark kyleffekt” - SVT Nyheter
+- Oklart vad som gäller om Trumps nya, partiella vapenvila - GP
+- Miljonsmäll för SD – efter vildarnas beslut - SVT Nyheter
+- Varningen: Danska Nato-soldater kan bli krigsfångar i USA - Expressen
+- Så lurar bedragare via sms – polisen skickar ut en varning - SVT Nyheter
 - Larmet inifrån Försvarsmakten: Risk för olämpliga officerare - Dagens Nyheter
-- Ekobrottsmyndigheten om utredningen i Sundsvall: ”Omfattande” - SVT Nyheter
+- C: Vi kräver sänkta skatter för att sitta med i en regering - Dagens Nyheter
 - Nathan Shachar: Israel förbereder sig på att bli attackerat av Iran - Dagens Nyheter
-- Insändare. Vänd inte kurderna ryggen ännu en gång - Dagens Nyheter
-- Varningen: FN riskerar ekonomisk kollaps - Dagens industri
+- Danmark presenterar utvisningslag – kan vara olaglig - Västerbottens-Kuriren
 - Trumps team i möte med separatister - Expressen
+- Kronofogden jagar ryska pengar – svenska vinster försvann utomlands - Expressen
 - Förvaltaren: Fel att dumpa silver och guld inför Trumps besked - Dagens industri
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
 - Microsoft agerar efter klagomål på Windows 11 - Omni
+- Mekatroniker – Sensorer, inbyggda system & realtidsdata på Sigma - Ingenjörsjobb
 - Fredrik Berne stämmer Expressen för förtal - Expressen
-- Roboten Tron 1 tar sig en svängom i skidbacken. Näste Ingemar Stenmark? - feber.se
+- Det ryktas om ett Nintendo Direct nästa vecka - FZ.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Russia’s Grinding War in Ukraine - CSIS | Center for Strategic and International Studies
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
@@ -90,7 +90,6 @@ _Updated: 2026-01-30 21:08_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
@@ -120,23 +119,23 @@ _Updated: 2026-01-30 21:08_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
