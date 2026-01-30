@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-30 16:20_
+_Updated: 2026-01-30 17:06_
 
 - Ukraine sees quieter night as Trump says Putin will not attack its cities - BBC
 - Anti-ICE protests to be held across US as organizers urge national strike - The Guardian
 - US lifts some Venezuela sanctions to ease oil sales - Reuters
-- Hong Kong company’s concession to operate Panama Canal ports is ruled unconstitutional - AP News
-- How ICE Already Knows Who Minneapolis Protesters Are - The New York Times
-- San Jose Mayor Matt Mahan enters crowded race for California governor - Politico
 - Minnesota Dems are trying to walk a tightrope with Trump - Politico
+- 'All Accurate, Except': Stephen Colbert Trolls Melania Trump With 1 Epic Fact-Check - HuffPost
+- F.B.I. Search in Georgia Shows Trump’s Willingness to Pursue 2020 Grievances - The New York Times
 - Israel reopening Gaza’s border crossing with Egypt on Sunday after long closure - AP News
-- Ukraine Can’t Defend the Entire Front. Russia Is Finding the Gaps. - The New York Times
+- Russia Is Finding the Gaps in Ukraine’s Front Line - The New York Times
+- Exclusive: European crisis fund worth over $500 billion could be used for defence, says ESM chief - Reuters
 - Xi’s Military Purge May Set Back His Taiwan Ambitions - The New York Times
-- What the ‘mother of all deals’ between India and the EU means for global trade - The Conversation
 - Ford to record $600 million pretax pension charge in fourth quarter - CNBC
-- Euro zone economy ends 2025 with solid growth despite low exports, US trade strife - Reuters
 - Giving to donor-advised funds surges on expiring tax cuts and a hot stock market - CNBC
-- The decline of the French bistro - BBC
-- Microsoft is experimenting with a top menu bar for Windows 11 - The Verge
+- Washington Post Plans Cuts to Reshape Newsroom - The New York Times
+- Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China - The New York Times
+- Google Extends Pixel Tablet OS Updates for Another 2 Years - Droid Life
 - The Nex Playground is everything Xbox Kinect wanted to be - Engadget
-- This ring watch squeezes in heart rate, sleep, and fitness tracking - The Verge
-- Two New Pixel Buds 2a Colors Reportedly Leak Online - findarticles.com
-- Horoscope for Friday, January 30, 2026 - chicago.suntimes.com
+- Nintendo shares statement on Dispatch censorship debacle...and it doesn't explain much - GoNintendo
+- Rule the Maelstrom with Huron and his crew’s spicy new datasheets - Warhammer Community
+- Kid Rock Slams Ticketing Industry for Unfair Practices in Testimony - Variety
+- Sydney Sweeney addresses Republican rumors, 'MAGA Barbie' label - USA Today
