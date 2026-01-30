@@ -1,36 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 11:05_
+_Updated: 2026-01-30 12:02_
 
 ## Top Stories
 
 - Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
-- Uppgörelse kring ny nedstängning i USA - vk.se
-- ”Sverige och Israel – vi borde vara väldigt goda vänner” - Dagens Nyheter
-- Teodorescu Måwe om hatet: ”En helt ny nivå” - gp.se
-- Äldre man anhållen för mord i Linköping - SVT Nyheter
+- Malmöbaren Julie flyttar ut på landet i sommar – tar över Hörte brygga - sydsvenskan.se
+- Ingen ström, ingen värme – men Ukrainas kampvilja slocknar inte - Dagens Nyheter
+- Bilbrand i Tynnered – vittnen hörde smäll - gp.se
 - Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
-- Kristersson startar podd – svarar på lyssnarfrågor - gp.se
+- Äldre man anhållen för mord i Linköping - SVT Nyheter
 - C: Vi kräver sänkta skatter för att sitta med i en regering - Dagens Nyheter
-- Trafikolycka på E22 vid Hammar: ”Stod vid kanten” - kristianstadsbladet.se
 - Diana utmanar sin stamning: ”När jag ser mig själv ser jag ett monster” - Dagens Nyheter
-- Falsk FBI-agent försökte frita Mangione - gp.se
+- Trafikproblem på E22 – olycka i höjd med Hammar - nsk.se
+- Det styr hur gamla vi blir – förvånande upptäckt - vk.se
+- Uppgörelse kring ny nedstängning i USA - Dagens Nyheter
+- Statens institutionsstyrelse får ny generaldirektör - Regeringen.se
 - WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - vk.se
-- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
-- Ukraina slår ut flyg för miljarder - Expressen
-- Trump varnar: Kraftiga tullar kan slå mot kanadensiska flygplan - Börskollen
+- Varning för stark kyleffekt i fjällen - op.se
+- Bitcoin-raset fortsätter – ned 30 procent sedan oktober - Omni
 - Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
 - Lagstiftningspaket om marknadsintegration och tillsyn - Regeringen.se
-- Stockholmsbörsen i sidled – historiskt rally i Electrolux - DI
 - Oron: Hur kan Volvos helgjutna chassi lagas? - Carup.se
-- (+) Krönika: De här mobiltillverkarna tror jag inte lurar oss - mobil.se
+- Svenska skådespelarens Tesla förstörd i potthål - Carup.se
+- Så används Apple Intelligence enligt Tim Cook - Macworld.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
@@ -41,12 +39,14 @@ _Updated: 2026-01-30 11:05_
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
@@ -102,25 +102,25 @@ _Updated: 2026-01-30 11:05_
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -136,15 +136,15 @@ _Updated: 2026-01-30 11:05_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -156,9 +156,9 @@ _Updated: 2026-01-30 11:05_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
