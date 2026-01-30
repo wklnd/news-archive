@@ -1,32 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 12:02_
+_Updated: 2026-01-30 13:02_
 
 ## Top Stories
 
-- Transportstyrelsen: Katja Nyberg hade narkotika i blodet - SVT Nyheter
-- Malmöbaren Julie flyttar ut på landet i sommar – tar över Hörte brygga - sydsvenskan.se
-- Ingen ström, ingen värme – men Ukrainas kampvilja slocknar inte - Dagens Nyheter
-- Bilbrand i Tynnered – vittnen hörde smäll - gp.se
-- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
-- Äldre man anhållen för mord i Linköping - SVT Nyheter
+- Grannar blev vittnen till polisens insats: ”En armé” - Omni
+- Kokrekommendationen tas bort – dricksvattnet är godkänt att dricka - gotland.se
+- Senatorer åter i klinch om ICE – omröstning skjuts upp - Omni
+- Medlemskap i IS kan vara asylskäl – riktlinjer väcker intern kritik på Migrationsverket - gp.se
+- Fd länspolismästaren ”bestört” över Katja Nyberg - SVT Nyheter
+- Så länge är du programmerad att leva - Dagens Nyheter
+- Pojke hittad död på Johannisbergs Sis-hem - SVT Nyheter
 - C: Vi kräver sänkta skatter för att sitta med i en regering - Dagens Nyheter
-- Diana utmanar sin stamning: ”När jag ser mig själv ser jag ett monster” - Dagens Nyheter
-- Trafikproblem på E22 – olycka i höjd med Hammar - nsk.se
-- Det styr hur gamla vi blir – förvånande upptäckt - vk.se
-- Uppgörelse kring ny nedstängning i USA - Dagens Nyheter
-- Statens institutionsstyrelse får ny generaldirektör - Regeringen.se
-- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - vk.se
-- Varning för stark kyleffekt i fjällen - op.se
+- Misstänkt våldtäkt på sluten avdelning - gp.se
+- Man gripen för misshandel - xn--vrnamo-bua.nu
+- Kinesisk rymdraket faller okontrollerat – kan påverka flygtrafik - SVT Nyheter
+- Martin Valfridsson ny chef för Sis - Aftonbladet
+- Isbjörnarna på Svalbard blir fetare – trots smältande is - Aftonbladet
+- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
+- Effektavgifter sågas av forskare: ”Borde parkeras genast” - Dagens Nyheter
 - Bitcoin-raset fortsätter – ned 30 procent sedan oktober - Omni
-- Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
-- Lagstiftningspaket om marknadsintegration och tillsyn - Regeringen.se
-- Oron: Hur kan Volvos helgjutna chassi lagas? - Carup.se
-- Svenska skådespelarens Tesla förstörd i potthål - Carup.se
-- Så används Apple Intelligence enligt Tim Cook - Macworld.se
+- Världens lyckligaste folk – Nordens sämsta ekonomi - SvD
+- Miljardkoncernens ex-ordförande åtalas för grov ekonomisk brottslighet - DI
+- Microsoft agerar efter klagomål på Windows 11 - Omni
+- Googles Project Genie gör text till interaktiva världar - Omni
 
 ## World News
 
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -39,14 +41,12 @@ _Updated: 2026-01-30 12:02_
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - su.se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2026-01-30 12:02_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
@@ -102,27 +102,28 @@ _Updated: 2026-01-30 12:02_
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
@@ -132,11 +133,10 @@ _Updated: 2026-01-30 12:02_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
@@ -145,20 +145,20 @@ _Updated: 2026-01-30 12:02_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
