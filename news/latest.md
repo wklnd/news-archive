@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-30 23:00_
+_Updated: 2026-01-30 23:53_
 
-- Feds arrest Don Lemon, Minnesota journalist and two others over church protest - NPR
-- Lindsey Graham signals path to defuse funding threat - Politico
+- Jeffrey Epstein sent thousands of pounds to Peter Mandelson’s husband, emails show - Financial Times
+- Federal Judge Drops Death Penalty Charge Against Luigi Mangione - The New York Times
+- Why Iran's response to a US attack could be different this time - BBC
+- DOJ files federal charges against man accused of attacking Rep. Ilhan Omar - NBC News
 - Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’ - The New York Times
 - In Minnesota, America’s Federal System Is Coming Apart - The New York Times
-- Car Hits High School Student in Nebraska During an Anti-ICE Protest - The New York Times
-- Syrian government reaches deal with Kurdish forces - BBC
-- These 12 cities will be hit hard by a bomb cyclone this weekend - The Washington Post
+- Nationwide protests begin over ICE in Minneapolis amid mixed messages from Trump - Reuters
+- Texas A&M Ends Women’s Studies and Overhauls Classes Over Race and Gender - The New York Times
 - Tulsi Gabbard’s appearance at Fulton County FBI raid raises questions - The Washington Post
-- Israel reopening Gaza’s border crossing with Egypt on Sunday after long closure - AP News
-- Jeffrey Epstein sent thousands of pounds to Peter Mandelson’s husband, emails show - Financial Times
+- Updated snow forecast for southeastern Virginia: Winter storm warning issued, whiteout conditions expected - The Virginian-Pilot
 - Son of Norway crown princess to stand trial for allegedly raping 4 women - CBS News
 - Israel accepts health authorities’ Gaza death toll is broadly accurate, saying 70,000 have died - The Guardian
-- US Fed live: US stocks slip and dollar strengthens after Trump picks Warsh - Financial Times
-- Three reasons for the record rise in gold prices, and one why they are falling - BBC
-- Tesla throws in the towel on car sales - The Verge
-- New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports - Kotaku
+- MSF statement on sharing staff information and humanitarian operations in Palestine - MSF - Médecins Sans Frontières
+- Suspected jihadists attack airport near Niger's capital - BBC
+- Eli Lilly plans $3.5 billion manufacturing plant in Pennsylvania to make next-generation obesity injections - CNBC
+- 'Washington Post' journalists plea to Bezos: Don't gut our newsroom - NPR
+- GameStop's Ryan Cohen eyes 'very big' consumer megadeal that could increase company's value tenfold - CNBC
+- American Express, credit card provider to the wealthy, wants even more high spenders - CNBC
 - Google adds Video Overviews to NotebookLM app on Android, iOS - 9to5Google
-- We finally heard from Trump Mobile… and they immediately ghosted us - The Verge
-- YouTube may be blocking background play on third-party browsers (Update: Google confirms) - Android Authority
-- See Paul Mescal, Barry Keoghan, and More in First Look at Sam Mendes’ Beatles Biopics - Pitchfork
+- New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports - Kotaku
