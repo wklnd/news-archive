@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 22:55_
+_Updated: 2026-01-30 23:49_
 
 ## Top Stories
 
-- Halt på vägarna – E6 stängdes av efter olycka - SVT Nyheter
 - Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
 - En mardrömsvecka för Tidögänget - SvD
-- SMHI varnar för rejäl kyla – stor risk för förfrysning - Norran
-- DN Direkt – Nybergs advokat bekräftar kokainutslag i snabbtest - Dagens Nyheter
-- Efter Liberalernas skräcksiffror – Martin Melin lämnar polisen - Aftonbladet
-- Så lurar bedragare via sms – polisen skickar ut en varning - SVT Nyheter
-- Elva års fängelse för sexbrott mot 21 unga - GP
+- Oklart vad som gäller om Trumps nya, partiella vapenvila - GP
+- Trump: Iran vill ha ett avtal - Aftonbladet
+- Iran: Terrorklassning kommer att stå Europa dyrt - GP
+- Varningen: Danska Nato-soldater kan bli krigsfångar i USA - Expressen
+- Kylan håller i sig – varning för ”stark kyleffekt” - SVT Nyheter
 - Larmet inifrån Försvarsmakten: Risk för olämpliga officerare - Dagens Nyheter
-- Stödde aktioner hos ministrar – vägrar lämna - GP
-- Direkt – Krisen i Mellanöstern – Organisation: Delar inte personalinformation till Israel - Dagens Nyheter
-- Nathan Shachar: Israel förbereder sig på att bli attackerat av Iran - Dagens Nyheter
-- ”Jag var så rädd att jag inte kunde röra mig” - Dagens Nyheter
-- Guterres: FN riskerar ekonomisk kollaps - GP
-- Ministern rasar efter larm från Bröd & Salt - Expressen
+- Statsministern startar podd: ”Första gången” – Senaste nytt om valet 2026 - SVT Nyheter
+- Hölls fången av Josef Fritzl i 24 år – dotterns hemliga liv i dag - Expressen
+- Trumps team i möte med separatisterna - Expressen
+- Silverpriset rasar över 30 procent - Dagens industri
+- Mätning: Låg tillit i Sverige till att USA försvarar Nato-allierade - SVT - Börsvärlden
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
-- Microsoft agerar efter klagomål på Windows 11 - Omni
 - Mekatroniker – Sensorer, inbyggda system & realtidsdata på Sigma - Ingenjörsjobb
+- Det ryktas om ett Nintendo Direct nästa vecka - FZ.se
 - En av världens största piratsajter för manga stängs. Bato.to fick inte vara kvar. - feber.se
+- Fredrik Berne stämmer Expressen för förtal - Expressen
+- Recension: Hjärtligt klyschig rockumentär om The Ark - GP
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Alfred Berg kammar hem fondpris - Finanswatch.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
@@ -120,9 +120,10 @@ _Updated: 2026-01-30 22:55_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -130,11 +131,10 @@ _Updated: 2026-01-30 22:55_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -148,6 +148,7 @@ _Updated: 2026-01-30 22:55_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
@@ -159,5 +160,4 @@ _Updated: 2026-01-30 22:55_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
