@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 23:49_
+_Updated: 2026-01-31 00:54_
 
 ## Top Stories
 
-- Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
+- Halt på vägarna – E6 stängdes av efter olycka - SVT Nyheter
 - En mardrömsvecka för Tidögänget - SvD
-- Oklart vad som gäller om Trumps nya, partiella vapenvila - GP
+- FBI tar över utredningen av Pretti-skjutningen - GP
+- Nya robotanfall mot Ukraina – trots löften från Donald Trump - Aftonbladet
+- 30 januari 18.38, Explosion, Västerås - polisen.se
 - Trump: Iran vill ha ett avtal - Aftonbladet
-- Iran: Terrorklassning kommer att stå Europa dyrt - GP
-- Varningen: Danska Nato-soldater kan bli krigsfångar i USA - Expressen
-- Kylan håller i sig – varning för ”stark kyleffekt” - SVT Nyheter
+- Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
 - Larmet inifrån Försvarsmakten: Risk för olämpliga officerare - Dagens Nyheter
-- Statsministern startar podd: ”Första gången” – Senaste nytt om valet 2026 - SVT Nyheter
-- Hölls fången av Josef Fritzl i 24 år – dotterns hemliga liv i dag - Expressen
+- Bedragare stal 300 000 från 90-årings konto - Mitt i
+- Polisen varnar för nygammal bedrägeritrend: "En våg" - NT
+- Nytt avtal med kurder ska "ena Syrien" - Aftonbladet
 - Trumps team i möte med separatisterna - Expressen
+- Hölls fången av Josef Fritzl i 24 år – dotterns hemliga liv i dag - Expressen
 - Silverpriset rasar över 30 procent - Dagens industri
-- Mätning: Låg tillit i Sverige till att USA försvarar Nato-allierade - SVT - Börsvärlden
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
+- En av 2020-talets största succéer gör comeback – över 60 Emmynomineringar - Filmtopp.se
 - Mekatroniker – Sensorer, inbyggda system & realtidsdata på Sigma - Ingenjörsjobb
 - Det ryktas om ett Nintendo Direct nästa vecka - FZ.se
 - En av världens största piratsajter för manga stängs. Bato.to fick inte vara kvar. - feber.se
-- Fredrik Berne stämmer Expressen för förtal - Expressen
-- Recension: Hjärtligt klyschig rockumentär om The Ark - GP
 
 ## World News
 
+- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
-- Alfred Berg kammar hem fondpris - Finanswatch.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
@@ -64,9 +64,9 @@ _Updated: 2026-01-30 23:49_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
@@ -122,20 +122,20 @@ _Updated: 2026-01-30 23:49_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
