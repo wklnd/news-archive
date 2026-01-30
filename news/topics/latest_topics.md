@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 05:12_
+_Updated: 2026-01-30 06:54_
 
 ## Top Stories
 
 - Trump stämmer finansdepartementet - SvD
 - Falsk FBI-agent försökte frita Mangione - gp.se
+- Universitetet efter studenternas sågning: ”Vi tar kritiken på allvar” - gp.se
 - USA:s ambassad tog bort flagghyllning – då gav danska veteraner svar på tal - Dagens Nyheter
 - Tusentals grips under razzior i Iran: ”Ingen vet vart de förs” - Dagens Nyheter
+- Larm om explosion – bil i brand - gp.se
 - 29 januari 14.11, Bedrägeri, Stockholms län - polisen.se
-- Dansa, tala språket, använd appar – så lär du känna spanjorerna - Sydsvenskan
-- Andersson: Tilliten till USA har förändrats under överskådlig tid - Dagens Nyheter
-- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
 - Söndagsstek och lax slopas på flera håll – men här prioriteras äldrematen: ”Ska ha en eloge” - nlt.se
-- Tvång mot barn på Sis måste minska – och forskningen visar vägen - Altinget.se
+- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
+- Socialtjänstministern om våldet på Sis-hem: ”Djupt oroande” - Sveriges Radio
 - WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - vk.se
-- Uppgifter: Ett till amerikanskt krigsfartyg i Mellanöstern - Dagens Nyheter
 - "Norges farligaste man" Stig Millehaugen hittad död - gp.se
-- Diktatorns dagar är räknade: “Förbered er för Putins död” - Marcus Oscarsson
+- Jacob, 19, försvann – vändningen efter tio år - Expressen
+- Återhämtning på Wall Street – historiskt ras för Microsoft - Dagens industri
 - Extra stora investeringsstöd för att minska utsläppen - lansstyrelsen.se
-- Finansminister Elisabeth Svantesson: ”Bankerna måste skärpa sig” - Expressen
 - Var femte nätverkskriminell driver företag – så kan de stoppas - Tidningen Näringslivet
-- Nothing Phone 4 hoppar över 2026 - m3.se
-- Rykte – Uppdaterat Kingdom Come: Deliverance syntes i PS-butiken - FZ.se
-- Intresset för Iphone Air fortsätter att vara svagt - Omni
+- AI-kodning kräver att utvecklare blir bättre chefer - Computer Sweden
+- Dysons löjligt kompakta nya dammsugare kommer att förändra marknaden för alltid – här är varför - TechRadar
+- Samsungs nya billiga OLED-TV för 2026 ser ut att få ett rejält lyft i ljusstyrka – men det finns en hake - TechRadar
+- Grill och stjärna tillbaka på nya Mercedes S-klass - Carup.se
 
 ## World News
 
@@ -45,7 +45,7 @@ _Updated: 2026-01-30 05:12_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
@@ -67,9 +67,9 @@ _Updated: 2026-01-30 05:12_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2026-01-30 05:12_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
