@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-30 21:19_
+_Updated: 2026-01-30 21:57_
 
-- Catherine O’Hara, actor known for Home Alone and Schitt’s Creek, dies aged 71 - The Guardian
-- Senate leaders scramble to save bipartisan deal and avoid a partial shutdown - AP News
+- These 12 cities will be hit hard by a bomb cyclone this weekend - The Washington Post
+- Senate expected to repeal law allowing lawmakers to sue over data seizures - Politico
+- Treasury Sanctions Iranian Regime Officials for Violent Repression and Corruption - U.S. Department of the Treasury (.gov)
+- Syrian government reaches deal with Kurdish forces - BBC
+- Anti-ICE protests being held across US as organizers urge national strike - The Guardian
 - Tulsi Gabbard’s appearance at Fulton County FBI raid raises questions - The Washington Post
-- Can you save a public parking spot after a snowstorm? The debate rages on - NPR
-- CELEBRATING AMERICAN GREATNESS WITH AMERICAN MOTOR RACING - The White House (.gov)
-- Panamanian Court Strikes Down Hong Kong Firm’s Canal Contract - The New York Times
-- TSA's new Real ID alternative may not get you through security - SFGATE
-- Anti-ICE protests to be held across US as organizers urge national strike - The Guardian
-- Trump Immediately Blows Up His Border Czar’s Bid to Calm ICE Backlash - The Daily Beast
-- FBI now leading investigation into fatal shooting of Alex Pretti - CBS News
-- Israel reopening Gaza’s border crossing with Egypt on Sunday after long closure - AP News
-- MSF statement on sharing staff information and humanitarian operations in Palestine - MSF - Médecins Sans Frontières
+- Why Iran's response to a US attack could be different this time - BBC
+- Trump says U.S. will decertify Canadian-made planes, threatens 50% tariff - The Washington Post
 - Shark kills 13-year-old boy at popular beach in Brazil: "Ate almost his entire leg" - CBS News
+- MSF statement on sharing staff information and humanitarian operations in Palestine - MSF - Médecins Sans Frontières
+- Ukraine Can’t Defend the Entire Front. Russia Is Finding the Gaps. - The New York Times
 - Suspected jihadists attack airport near Niger's capital - BBC
-- Gold tumbles as Trump's Fed Chair pick eases Fed independence fear - CNBC
-- Eli Lilly plans $3.5 billion manufacturing plant in Pennsylvania to make next-generation obesity injections - CNBC
-- Tesla throws in the towel on car sales - The Verge
-- Key promise of Trump's tariffs goes up in smoke - Daily Kos
-- Samsung’s confusing Galaxy S26 pricing raises base model cost, but makes Ultra cheaper - 9to5Google
+- Dow tumbles 200 points as Apple shares decline, speculative silver trade unwinds: Live updates - CNBC
+- Three reasons for the record rise in gold prices, and one why they are falling - BBC
+- Exxon, Chevron Post Slimmest Annual Profits Since 2021 - The Wall Street Journal
+- Washington Post Plans Cuts to Reshape Newsroom - The New York Times
 - Google adds Video Overviews to NotebookLM app on Android, iOS - 9to5Google
+- Galaxy Z TriFold seemingly won’t allow trade-ins, as it briefly went up for sale early - 9to5Google
+- Your Halo Story | Halo - Official Site (en) - Halo Waypoint
+- The Nex Playground is everything Xbox Kinect wanted to be - Engadget
