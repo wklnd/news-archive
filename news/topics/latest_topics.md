@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 08:06_
+_Updated: 2026-01-30 09:23_
 
 ## Top Stories
 
-- Trump stämmer finansdepartementet - SvD
 - Teodorescu Måwe om hatet: ”En helt ny nivå” - gp.se
+- Helomvändning om SD – välkomnas in - Marcus Oscarsson
+- Forskare förvånad – det styr hur gamla vi blir - SvD
 - Universitetet efter studenternas sågning: ”Vi tar kritiken på allvar” - gp.se
-- Fria ord: Bryr sig inte Palestinaaktivisterna om blodbadet i Iran? - gp.se
-- Junta upplöser politiska partier i Burkina Faso - Aftonbladet
-- USA-sändebud: Total tillgång till Grönland ett måste - vk.se
-- Misstänkt våldtäkt på Sundsvalls sjukhus – patient häktad - SVT Nyheter
+- 29 januari 14.11, Bedrägeri, Stockholms län - polisen.se
+- Politiker från Staffanstorp frikänns efter att ha nekat kvotflyktingar - SVT Nyheter
 - Diana utmanar sin stamning: ”När jag ser mig själv ser jag ett monster” - Dagens Nyheter
 - Bilbrand i Tynnered – vittnen hörde smäll - gp.se
-- 29 januari 14.11, Bedrägeri, Stockholms län - polisen.se
-- Falsk FBI-agent försökte frita Mangione - gp.se
-- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - vk.se
-- USA:s ambassad tog bort flagghyllning – då gav danska veteraner svar på tal - Dagens Nyheter
-- Uppgifter: Vapenvila vid energiinfrastruktur - Expressen
+- Trafikolycka på E22 vid Hammar: ”Stod vid kanten” - kristianstadsbladet.se
+- 30 januari 07.24, Sammanfattning natt, Jämtlands län - polisen.se
+- WHO: Sjukhus angreps av säkerhetsstyrkor i Iran - gp.se
+- Trump stämmer finansdepartementet - folkbladet.nu
+- "Norges farligaste man" Stig Millehaugen hittad död - gp.se
+- Ukraina slår ut flyg för miljarder - Expressen
 - Världens lyckligaste folk – Nordens sämsta ekonomi - SvD
+- Källa: Musks Space X och X AI kan slås ihop - Omni
+- Nu kan idrottsföreningar ansöka om drifts- och investeringsstöd - gotland.se
 - Trumps succé: ”Ett mycket hårt slag” mot Putin - Expressen
-- Sandra Stiskalo: Vad mer än Burberryväskor kan Storbritannien erbjuda Kina? - Dagens Nyheter
-- Extra stora investeringsstöd för att minska utsläppen - lansstyrelsen.se
 - AI-kodning kräver att utvecklare blir bättre chefer - Computer Sweden
-- Dysons löjligt kompakta nya dammsugare kommer att förändra marknaden för alltid – här är varför - TechRadar
+- Stuga på 44 kvadratmeter från 1977 såld i Tänndalen – priset: 635 000 kronor - op.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - su.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global insats mot människohandel – flera gripna i Sverige - Dagens Nyheter
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2026-01-30 08:06_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Industrial Internet of Things (IIOT) Innovationer som du behöver veta: Trender och teknik för 2025 - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -92,29 +92,6 @@ _Updated: 2026-01-30 08:06_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
-
-## Health
-
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Engineering Health 2024 - Chalmers
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -142,9 +119,10 @@ _Updated: 2026-01-30 08:06_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - lansstyrelsen.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -154,9 +132,8 @@ _Updated: 2026-01-30 08:06_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
