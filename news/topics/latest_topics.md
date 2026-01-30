@@ -1,40 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-30 17:58_
+_Updated: 2026-01-30 19:06_
 
 ## Top Stories
 
-- Toppnamn i Liberalerna hoppar av - gp.se
-- Larmet inifrån Försvarsmakten: Risk för olämpliga officerare - Dagens Nyheter
-- IDF bekräftar: 70 000 döda i kriget i Gaza - gp.se
-- Okej att dricka vatten igen i Visby - SVT Nyheter
-- Iran hotar EU efter terrorstämpling - Dagens industri
-- Direkt – Krisen i Mellanöstern – Irans försvarsminister till Ankara – nya försök till medling - Dagens Nyheter
+- Guterres: FN riskerar ekonomisk kollaps - SVT Nyheter
+- Flera ton rymdraket faller mot jorden - vk.se
 - C: Vi kräver sänkta skatter för att sitta med i en regering - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Irans försvarsminister till Ankara – nya försök till medling - Dagens Nyheter
+- Zelenskyj: Ryssland har gått med på pausade luftattacker - Placera.se
+- Svensk-iranier i fordonsindustrin kräver åtgärder mot Iran - Dagens industri
+- Pojke hittad död på Sis-hem – misstänkt brott - vk.se
+- Kylan håller i sig – varning för ”stark kyleffekt” - SVT Nyheter
 - Nya uppdrag stärker arbetet med klimatanpassning - Regeringen.se
-- Malmöbo häktas misstänkt för terrorbrott - SVT Nyheter
 - Ekobrottsmyndigheten om utredningen i Sundsvall: ”Omfattande” - SVT Nyheter
 - ”Jag var så rädd att jag inte kunde röra mig” - Dagens Nyheter
-- Flera ton av rymdraket faller mot jorden - sydsvenskan.se
-- Uppgifter: Vapenvila vid energiinfrastruktur - Expressen
-- Trumps team i möte med separatister - Expressen
+- Henrik Brandão Jönsson: Kan Kina få Kubakrisen att återuppstå? - Dagens Nyheter
+- Affärsvärlden ger ett spekulativt köpråd för Albert - Börsvärlden
+- Ministern rasar efter larm från Bröd & Salt - Expressen
+- Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
 - Rekordutbyggnad av batterilager pressar europeiska elmarknaden - Solenerginyheter
 - Microsoft agerar efter klagomål på Windows 11 - Omni
-- Copilot blir smartare – Microsoft släpper flera nya funktioner - Teknikveckan
-- Anker Prime Series lanseras i Norden - den kompletta laddningslösningen - dopest.se
-- Kravet: Förbud mot knapplösa bilar - Carup.se
-- Björn Wiman har det lite hett om öronen - SvD
+- Fredrik Berne stämmer Expressen för förtal - Expressen
+- Lenovo öppnar upp Magic Bay på sina laptops. Hoppas att andra tillverkare vill göra tillbehör till datorerna. - feber.se
+- Microsoft testar ny toppmeny i Windows 11 - PC för Alla
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Russia’s Grinding War in Ukraine - CSIS | Center for Strategic and International Studies
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
@@ -45,8 +46,7 @@ _Updated: 2026-01-30 17:58_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- WPP samlar produktion i ny global enhet - Dagens Media
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -58,8 +58,8 @@ _Updated: 2026-01-30 17:58_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -69,7 +69,7 @@ _Updated: 2026-01-30 17:58_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -107,8 +107,8 @@ _Updated: 2026-01-30 17:58_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -119,26 +119,26 @@ _Updated: 2026-01-30 17:58_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - mau.se
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - su.se
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
