@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 07:59_
+_Updated: 2026-01-31 09:04_
 
 ## Top Stories
 
-- Rodríguez föreslår amnestilag i Venezuela - SvD
-- Tusentals demonstrerar i Minneapolis - SVT Nyheter
+- Skottlossning i Västerås - SVT Nyheter
 - ”Någon måste offra sig – i Sverige är det inte så” - SvD
-- ”Detta är ett av Trumps stora genidrag” - SvD
-- Polisen kan få ökad befogenhet vid demonstrationer - SvD
-- Oklart vad som gäller om Trumps nya, partiella vapenvila - GP
+- Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
+- Henrik Vinge (SD): ”Jag tycker inte att den amerikanska administrationen ska lägga sig i det svenska valet” - Sveriges Radio
+- Malmös kaxigaste politiker: En ”fucking hjälte” eller en grinig gubbe? - Sydsvenskan
+- Tusentals demonstrerar i Minneapolis - SVT Nyheter
 - Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
-- Leo Vene: Seg, livlös och svår att svälja - ETC.se
+- 31 januari 07.44, Sammanfattning natt, Jämtlands län - polisen.se
 - Trafikvarningen: ”Rena ishalkan” - Sydsvenskan
-- DN Direkt – Okej att dricka vatten igen i Visby - Dagens Nyheter
-- M23 tros plundra gruvstaden på sina rikedomar - Omni
+- Larmet: Brister i privat neuropsykologisk vård av barn - SVT Nyheter
+- USA stänger ned igen – trots överenskommelse - GP
 - Det här är USA:s migrationspolis ICE - Dagens Nyheter
 - ”Putin desperat – nära vägs ände” - Expressen
 - Svaret: Därför dog paret inom dagar på paradisön - Expressen
+- USA: Jätteaffärer i Mellanöstern - Dagens industri
 - Youtube och Meta i unik rättegång – bär de ansvar för ungas ohälsa? | Björn Jeffery - SvD
-- Silverpriset rasar över 30 procent - Dagens industri
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
-- Mångmiljonvilla i Stockholm har tagits i förvar av polisen - SVT Nyheter
+- DN Direkt – Polispådrag i centrala Göteborg – inga personskador - Dagens Nyheter
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
-- En av 2020-talets största succéer gör comeback – över 60 Emmynomineringar - Filmtopp.se
+- Backbristen, backjakten – och den där farliga ”pluslunchen” … - rakapuckar.com
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Alfred Berg kammar hem fondpris - Finanswatch.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-01-31 07:59_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 
 ## Business
 
@@ -122,15 +122,15 @@ _Updated: 2026-01-31 07:59_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
