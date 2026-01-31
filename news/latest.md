@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-31 16:00_
+_Updated: 2026-01-31 16:56_
 
-- DHS keeps making false claims about people. It's part of a broader pattern - NPR
-- 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
-- Most snow in years, blizzard conditions possible in parts of Southeast from powerful bomb cyclone - CNN
-- More than 300 anti-ICE protests planned across US this weekend - The Guardian
+- Live updates: Arrests made as protesters clash with officers in DTLA after 'ICE Out' protest - ABC7 Los Angeles
 - New SNAP work requirements set to go into effect on Feb. 1 with millions at risk of losing benefits - ABC News
+- Coast Guard conducts search following EPIRB activation from fishing vessel off New England coast - United States Coast Guard News (.mil)
 - After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown - The New York Times
+- A Minnesota School District Guards Against ICE, From Dawn to Dusk - The New York Times
+- More than 300 anti-ICE protests planned across US this weekend - The Guardian
 - Partial government shutdown begins as funding lapses despite Senate deal - CBS News
 - What to know about widespread snowfall in north Georgia - WSB-TV
 - A US House special election in Texas is set to narrow the GOP majority even further - CNN
 - Brace for brutal cold as bomb cyclone drives bitter winds into D.C. - The Washington Post
+- U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms - The New York Times
+- With decades-long restrictions lifted, a Pakistani brewery has started exporting beer - NPR
 - Over Creamy Chicken, Europe’s Leaders Try to Reduce Dependence on Trump - The New York Times
 - ‘We did not assess all would return’: IDF shutters its Hostages HQ 846 days after Oct. 7 - The Times of Israel
-- Aryna Sabalenka appears to tell Ukrainian rival to ‘f–k off’ in Australian Open controversy - New York Post
-- Lib Dems name Gorton and Denton by-election choice - BBC
-- SpaceX’s IPO could open the floodgates — and secondaries are booming in the meantime - TechCrunch
-- Software Stocks Are Getting Socked. Is It a Red Flag Or a Buying Opportunity? - The Motley Fool
-- Waymo Robotaxi Strikes Child - Newser
-- Grids Are Surviving the Storm. But the Next 5 Years Could Be Rough. - The New York Times
+- Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks - CNBC
+- Sell America Is the New Trade on Wall Street - The New York Times
+- TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
+- Silver Is Paying for Its Excesses. Silver Miner Stocks May Be a Buy. - Barron's
 - Tired of scam calls? The Galaxy S26 might finally have an answer - Android Authority
-- Google disrupts IPIDEA residential proxy networks fueled by malware - BleepingComputer
+- I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click - WIRED
