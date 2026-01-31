@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 10:55_
+_Updated: 2026-01-31 11:51_
 
 ## Top Stories
 
-- SMHI: Nationellt isdygn väntas - Aftonbladet
 - ”Jag har svårt att se mig själv ha en annan typ av jobb” - Aftonbladet
 - Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
 - ”Någon måste offra sig – i Sverige är det inte så” - SvD
 - Malmös kaxigaste politiker: En ”fucking hjälte” eller en grinig gubbe? - Sydsvenskan
-- Experter: Vapenvilan är bara Putin som flörtar med Trump - Omni
-- Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
+- Jagade kasino-vinnare – kidnappade lillebror - GP
+- ”Föraktet mot Trump är nedslående” - SvD
+- DN Direkt – Gruvkollaps i Kongo-Kinshasa: Över 200 döda - Dagens Nyheter
+- Fick 140 slag offentligt för att ha haft sex - Expressen
+- 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
 - SD ändrar inställning till Trump – Senaste nytt om valet 2026 - SVT Nyheter
-- 31 januari 07.44, Sammanfattning natt, Jämtlands län - polisen.se
-- Elva skoterförare körde vilse på fjället - Expressen
-- Gruvkollaps i Kongo-Kinshasa: Över 200 döda - GP
+- Rodríguez föreslår amnestilag i Venezuela - GP
 - ICE vill köpa lagerbyggnader för migrantförvar - Västerbottens-Kuriren
-- Uppgörelse kring ny nedstängning i USA - Dagens Nyheter
-- DN Direkt – SD:s vice partiledare besviken på Trump - Dagens Nyheter
-- USA: Jätteaffärer i Mellanöstern - Dagens industri
+- DN Direkt – Tidigare CNN-ankare gripen efter ICE-protest - Dagens Nyheter
+- Minister i blåsväder efter tågkraschen - SvD
 - Audis designchef: Concept C visar fronten hos kommande modeller - Elbilen
-- Youtube och Meta i unik rättegång – bär de ansvar för ungas ohälsa? | Björn Jeffery - SvD
 - Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
+- Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
+- Fyrhjulsdrift vanligare i Danderyd än i Norrland - Teknikens Värld
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
 - Microsoft agerar efter klagomål på Windows 11 - Omni
 
@@ -122,42 +122,42 @@ _Updated: 2026-01-31 10:55_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
