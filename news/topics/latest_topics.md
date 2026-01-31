@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 09:04_
+_Updated: 2026-01-31 09:48_
 
 ## Top Stories
 
-- Skottlossning i Västerås - SVT Nyheter
+- ”Jag har svårt att se mig själv ha en annan typ av jobb” - Aftonbladet
+- Tusentals demonstrerar i Minneapolis - SVT Nyheter
 - ”Någon måste offra sig – i Sverige är det inte så” - SvD
 - Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
-- Henrik Vinge (SD): ”Jag tycker inte att den amerikanska administrationen ska lägga sig i det svenska valet” - Sveriges Radio
 - Malmös kaxigaste politiker: En ”fucking hjälte” eller en grinig gubbe? - Sydsvenskan
-- Tusentals demonstrerar i Minneapolis - SVT Nyheter
 - Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - polisen.se
+- Skottlossning i Västerås - SVT Nyheter
 - Trafikvarningen: ”Rena ishalkan” - Sydsvenskan
 - Larmet: Brister i privat neuropsykologisk vård av barn - SVT Nyheter
-- USA stänger ned igen – trots överenskommelse - GP
+- Rodríguez föreslår amnestilag i Venezuela - GP
 - Det här är USA:s migrationspolis ICE - Dagens Nyheter
-- ”Putin desperat – nära vägs ände” - Expressen
-- Svaret: Därför dog paret inom dagar på paradisön - Expressen
+- SD:s vice partiledare besviken på Trump - Aftonbladet
+- M23 tros plundra gruvstaden på sina rikedomar - Omni
 - USA: Jätteaffärer i Mellanöstern - Dagens industri
+- Trots billigare dollar – svenskarna nobbar USA - Hallandsposten
 - Youtube och Meta i unik rättegång – bär de ansvar för ungas ohälsa? | Björn Jeffery - SvD
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
-- DN Direkt – Polispådrag i centrala Göteborg – inga personskador - Dagens Nyheter
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
-- Backbristen, backjakten – och den där farliga ”pluslunchen” … - rakapuckar.com
+- Microsoft agerar efter klagomål på Windows 11 - Omni
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Alfred Berg kammar hem fondpris - Finanswatch.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
@@ -142,22 +142,22 @@ _Updated: 2026-01-31 09:04_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
