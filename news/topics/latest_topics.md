@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 21:42_
+_Updated: 2026-01-31 22:49_
 
 ## Top Stories
 
+- Jagades av ICE – såg Pretti skjutas - Västerbottens-Kuriren
 - Liberalerna fortsatt långt under riksdagsspärren - Dagens Nyheter
-- Domare: ICE får fortsätta arbeta i Minnesota - SVT Nyheter
+- MKB vill vräka Maria – eftersom hon sålt sex i sin bostad - Sydsvenskan
 - Äldre kan flyttas – till andra sidan Göteborg - GP
-- Nathan Shachar: Slitstark relation mellan regimerna spolierad av USA - Dagens Nyheter
-- Ett tjugotal döda i anfall mot Gaza - GP
-- Polisen: Gängen reducerade efter gripanden - SVT Nyheter
-- Jaktstopp ändrar inget: ”Vi vill ha färre vargar” - Dagens Nyheter
+- Domare: ICE får fortsätta arbeta i Minnesota - SVT Nyheter
+- Många döda i israeliskt anfall mot Gaza - Dagens Nyheter
 - Explosion vid vindkraftverk utanför Skara - SVT Nyheter
 - Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
 - Skridskoentusiaster jublar när isarna lägger sig - Dagens Nyheter
+- Misstänkt farligt föremål i Malmö – bombskyddet kallades in - SVT Nyheter
+- Polis: Svensk har omkommit i lavinolycka i Schweiz - SVT Nyheter
 - Meloni dök upp som ängel på kyrkvägg - Dagens Nyheter
-- Iran varnar USA och Israel: Attackera inte - SVT Nyheter
-- DN Direkt – Misstänkt farligt föremål i Malmö - Dagens Nyheter
+- DN Direkt – Ko och bil i olycka efter brand i stall - Dagens Nyheter
+- USA: Jätteaffärer i Mellanöstern - GP
 - Risk för kaos med sophämtningen – viktiga uppmaningen - Helagotland
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Ica i priskonflikt med Red Bull – butiker minskar sortimentet - Dagligvarunytt
-- Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
 - Puh! Beyond Good & Evil 2 är inte ett av Ubisofts nedlagda spelen. - FZ.se
-- Forza Horizon 6 har världens största virtuella bilvärld - auto motor & sport
-- Rollspelen vi längtar efter – Witcher 4, Fable och Clair Obscur 2 - FZ.se
+- Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
+- Alla årets bilar i ett klipp. Vilken är din favorit? - feber.se
 
 ## World News
 
@@ -78,21 +78,21 @@ _Updated: 2026-01-31 21:42_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Swindled millions found 15 years later - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -100,13 +100,10 @@ _Updated: 2026-01-31 21:42_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Engineering Health 2024 - Chalmers
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -115,7 +112,10 @@ _Updated: 2026-01-31 21:42_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2026-01-31 21:42_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
