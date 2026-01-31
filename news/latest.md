@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-01 00:56_
+_Updated: 2026-02-01 01:53_
 
-- Federal Judge Denies Request to Temporarily Block ICE Surge in Minnesota - The New York Times
-- Live updates: Nor’easter slams Carolinas with snow, vicious winds as storm intensifies to ‘bomb’ out - FOX Weather
-- Agents were pursuing an immigrant when they killed Alex Pretti. Now, he shares his story. - CBS News
-- More than 300 anti-ICE protests planned across US this weekend - The Guardian
-- Milan protesters call for U.S. ICE agents to leave Italy as Winter Games approach - NPR
+- Minnesota ICE surge upheld as judge finds 'balance of harms' lacking - Axios
+- What have we learned from the newly released Epstein files? - The Guardian
+- Partial government shutdown begins as funding lapses despite Senate deal - CBS News
+- Winter Storm Hits the Carolinas, Bringing Dangerous Ice and Snow - The New York Times
+- Chicago mayor signs executive order calling on police to investigate federal immigration agents accused of misconduct - CNN
 - ‘What the hell do we do with this issue’: Mexico confronts Trump’s Cuba pressure - Politico
 - Bovino Is Said to Have Mocked Prosecutor’s Jewish Faith on Call With Lawyers - The New York Times
-- Partial government shutdown begins as funding lapses despite Senate deal - CBS News
-- Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward - AP News
-- With decades-long restrictions lifted, a Pakistani brewery has started exporting beer - NPR
-- Thousands flee northwest Pakistan after mosques warn of possible military action - Reuters
-- Canada's Poilievre sweeps Conservative party leadership test with 87.4% - BBC
-- Why Wall Street is unhappy with Trump's pick for Fed chair - Axios
-- Trump’s Plan to Make Housing Affordable Is Faltering - Bloomberg
+- Agents were pursuing an immigrant when they killed Alex Pretti. Now, he shares his story. - CBS News
+- Lennox Head and surrounding beaches closed after surfer attacked by shark - BeachGrit.com
+- These Gazans May Finally Get a Lifeline to the World - The New York Times
+- Iran: Explosion hits Bandar Abbas Port — reports - dw.com
+- Labour peer who had sanctions lifted by China says it's 'meagre return' for UK - BBC
+- Costco Nike SB Causes Chaos At Costco's After Shock Release - HotNewHipHop
 - Silicon Valley legend Kleiner Perkins was written off. Then an unlikely VC showed up - Fortune
 - The ‘January barometer’ for stocks comes with a big asterisk this year - MarketWatch
+- TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
 - Samsung Galaxy Z TriFold Phone quickly sells out online despite near $3,000 pricetag - Mashable
-- A nice upgrade for Apple’s simplest gadget - The Verge
 - "Built On Theft And Plagiarism" - A Growing Number Of Game Developers Are Sick To Death Of Generative AI - Time Extension
-- I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click - WIRED
+- This Wild Encounter Between A Boomer And A Millennial Has Gone Viral, And People Have LOTS To Say - BuzzFeed
+- NASA Selects Axiom Space for Fifth Private Mission to Space Station - NASA (.gov)
