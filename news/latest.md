@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-31 19:55_
+_Updated: 2026-01-31 21:00_
 
-- Partial government shutdown begins as funding lapses despite Senate deal - CBS News
+- Live updates: Nor’easter slams Carolinas with snow, vicious winds as storm intensifies to ‘bomb’ out - FOX Weather
+- Bovino Is Said to Have Mocked Prosecutor’s Jewish Faith on Call With Lawyers - The New York Times
 - More than 300 anti-ICE protests planned across US this weekend - The Guardian
-- Search Suspended for 6 Missing in Boat Off the Coast of Massachusetts - The New York Times
-- Chicago snow today: Chicago weather forecast includes Winter Weather Advisory | LIVE RADAR - ABC7 Chicago
-- The West’s water war arrives in Washington - Politico
-- Gas leak caused blast in Iran's Bandar Abbas, Iranian media say - Reuters
-- This Minneapolis family has been in hiding for weeks, fearful of being deported - NBC News
-- A US House special election in Texas is set to narrow the GOP majority even further - CNN
-- Pho, handwarmers, grief and loss: a week on the block where Alex Pretti was killed - The Guardian
-- Elena Rybakina wins Australian Open for 2nd Grand Slam title - ESPN
+- Marjorie Taylor Greene defends arrest of Don Lemon on civil rights charges: 'That's activism' - Fox News
+- DR Congo: More than 200 killed in mine collapse - BBC
+- Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward - AP News
+- Agents were pursuing an immigrant when they killed Alex Pretti. Now, he shares his story. - CBS News
+- A Minnesota School District Guards Against ICE, From Dawn to Dusk - The New York Times
+- ‘Worst-case scenarios’: How Democratic election officials are preparing for potential Trump intrusion in the midterms - CNN
 - How Europe Is Moving to Reduce Dependence on Trump - The New York Times
+- China's corruption watchdog probing emergency management minister - NBC News
 - With decades-long restrictions lifted, a Pakistani brewery has started exporting beer - NPR
-- Power outages hit Ukraine and Moldova as Kyiv struggles against the winter cold - AP News
+- Canada's Poilievre sweeps Conservative party leadership test with 87.4% - BBC
+- Why Wall Street is unhappy with Trump's pick for Fed chair - Axios
 - Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks - CNBC
 - 3 warning signs silver could be headed for a deeper plunge, according to a top commodities expert - Business Insider
-- These overlooked stocks are a backdoor way to play the AI chip boom - MarketWatch
-- Buy Microsoft’s stock while it’s down? First ask yourself this question. - MarketWatch
-- Tired of scam calls? The Galaxy S26 might finally have an answer - Android Authority
+- TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
+- A nice upgrade for Apple’s simplest gadget - The Verge
+- The $2,900 Samsung Galaxy Z TriFold Phone Sells Out Online in Minutes - CNET
 - I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click - WIRED
-- I'm a Pro Photographer and Xiaomi's 17 Ultra Leica Phone Looks Amazing - CNET
