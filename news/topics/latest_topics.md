@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 09:48_
+_Updated: 2026-01-31 10:55_
 
 ## Top Stories
 
+- SMHI: Nationellt isdygn väntas - Aftonbladet
 - ”Jag har svårt att se mig själv ha en annan typ av jobb” - Aftonbladet
-- Tusentals demonstrerar i Minneapolis - SVT Nyheter
-- ”Någon måste offra sig – i Sverige är det inte så” - SvD
 - Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
+- ”Någon måste offra sig – i Sverige är det inte så” - SvD
 - Malmös kaxigaste politiker: En ”fucking hjälte” eller en grinig gubbe? - Sydsvenskan
+- Experter: Vapenvilan är bara Putin som flörtar med Trump - Omni
 - Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
+- SD ändrar inställning till Trump – Senaste nytt om valet 2026 - SVT Nyheter
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - polisen.se
-- Skottlossning i Västerås - SVT Nyheter
-- Trafikvarningen: ”Rena ishalkan” - Sydsvenskan
-- Larmet: Brister i privat neuropsykologisk vård av barn - SVT Nyheter
-- Rodríguez föreslår amnestilag i Venezuela - GP
-- Det här är USA:s migrationspolis ICE - Dagens Nyheter
-- SD:s vice partiledare besviken på Trump - Aftonbladet
-- M23 tros plundra gruvstaden på sina rikedomar - Omni
+- Elva skoterförare körde vilse på fjället - Expressen
+- Gruvkollaps i Kongo-Kinshasa: Över 200 döda - GP
+- ICE vill köpa lagerbyggnader för migrantförvar - Västerbottens-Kuriren
+- Uppgörelse kring ny nedstängning i USA - Dagens Nyheter
+- DN Direkt – SD:s vice partiledare besviken på Trump - Dagens Nyheter
 - USA: Jätteaffärer i Mellanöstern - Dagens industri
-- Trots billigare dollar – svenskarna nobbar USA - Hallandsposten
+- Audis designchef: Concept C visar fronten hos kommande modeller - Elbilen
 - Youtube och Meta i unik rättegång – bär de ansvar för ungas ohälsa? | Björn Jeffery - SvD
-- Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
+- Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
 - Microsoft agerar efter klagomål på Windows 11 - Omni
 
@@ -99,21 +99,21 @@ _Updated: 2026-01-31 09:48_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Engineering Health 2024 - Chalmers
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -122,15 +122,15 @@ _Updated: 2026-01-31 09:48_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
