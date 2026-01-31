@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 20:56_
+_Updated: 2026-01-31 21:42_
 
 ## Top Stories
 
 - Liberalerna fortsatt långt under riksdagsspärren - Dagens Nyheter
+- Domare: ICE får fortsätta arbeta i Minnesota - SVT Nyheter
 - Äldre kan flyttas – till andra sidan Göteborg - GP
-- MKB vill vräka Maria – eftersom hon sålt sex i sin bostad - Sydsvenskan
-- Meloni dök upp som ängel på kyrkvägg - Dagens Nyheter
-- Varnar för gräsbränder – mitt i isdygnet - Expressen
-- DN Direkt – Näslunds miss i sista tävlingen inför OS - Dagens Nyheter
+- Nathan Shachar: Slitstark relation mellan regimerna spolierad av USA - Dagens Nyheter
+- Ett tjugotal döda i anfall mot Gaza - GP
+- Polisen: Gängen reducerade efter gripanden - SVT Nyheter
 - Jaktstopp ändrar inget: ”Vi vill ha färre vargar” - Dagens Nyheter
 - Explosion vid vindkraftverk utanför Skara - SVT Nyheter
-- Skridskoentusiaster jublar när isarna lägger sig - Dagens Nyheter
 - Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
-- Domare: ICE får fortsätta arbeta i Minnesota - Västerbottens-Kuriren
-- Europas pulsåder en flytande soptipp: ”Groteskt” - GP
-- Polis: Svensk har omkommit i lavinolycka i Schweiz - SVT Nyheter
-- Rodríguez föreslår amnestilag i Venezuela - Västerbottens-Kuriren
+- Skridskoentusiaster jublar när isarna lägger sig - Dagens Nyheter
+- Meloni dök upp som ängel på kyrkvägg - Dagens Nyheter
+- Iran varnar USA och Israel: Attackera inte - SVT Nyheter
+- DN Direkt – Misstänkt farligt föremål i Malmö - Dagens Nyheter
 - Risk för kaos med sophämtningen – viktiga uppmaningen - Helagotland
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Ica i priskonflikt med Red Bull – butiker minskar sortimentet - Dagligvarunytt
 - Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
 - Puh! Beyond Good & Evil 2 är inte ett av Ubisofts nedlagda spelen. - FZ.se
 - Forza Horizon 6 har världens största virtuella bilvärld - auto motor & sport
+- Rollspelen vi längtar efter – Witcher 4, Fable och Clair Obscur 2 - FZ.se
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
@@ -39,37 +40,36 @@ _Updated: 2026-01-31 20:56_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Alfred Berg kammar hem fondpris - Finanswatch.se
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -81,9 +81,9 @@ _Updated: 2026-01-31 20:56_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
@@ -145,20 +145,20 @@ _Updated: 2026-01-31 20:56_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
