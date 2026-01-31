@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 13:44_
+_Updated: 2026-01-31 15:23_
 
 ## Top Stories
 
-- DN Direkt – Prinsessan Sofia i Epsteindokument - Dagens Nyheter
 - Liberalerna fortsatt långt under riksdagsspärren - Dagens Nyheter
+- ”Melania”-filmen floppar totalt i New York - Dagens Nyheter
 - Nathan Shachar: Syriens kurder mister både självstyre och USA:s stöd - Dagens Nyheter
-- Näringslivstopp: Tullar kan kyla investeringssuget i USA - Omni Ekonomi
-- ”Putin desperat – nära vägs ände” - Expressen
-- ”Jag har svårt att se mig själv ha en annan typ av jobb” - Aftonbladet
+- Jaktstopp ändrar inget: ”Vi vill ha färre vargar” - SvD
+- Iran varnar USA och Israel: Attackera inte - SVT Nyheter
+- Varför ringde inga varningsklockor, Åkesson? - Dagens Arena
+- Polisen: Gängen reducerade efter gripanden - SVT Nyheter
+- Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
+- En skadad i bussbrand i Trelleborg - Expressen
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
-- Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
-- SD ändrar inställning till Trump – Senaste nytt om valet 2026 - SVT Nyheter
-- Så slår gripandena mot de kriminella gängen - Aftonbladet
-- Gruvkollaps i Kongo-Kinshasa: Över 200 döda - SVT Nyheter
-- DN Direkt – Tidigare CNN-ankare gripen efter ICE-protest - Dagens Nyheter
-- Tusentals vid minnesstund för tågolyckans offer – "endast sanningen kan läka såren" - Svenska Magasinet
-- Hemlighetsmakeri kring Vita husets bunkerbygge - gp.se
-- USA: Jätteaffärer i Mellanöstern - Dagens industri
-- Audis designchef: Concept C visar fronten hos kommande modeller - Elbilen
-- Elskatten: en tidslinje - Företagarna
+- Ett tjugotal döda i anfall mot Gaza - gp.se
+- SD:s vice partiledare besviken på Trump - gp.se
+- USA: Jätteaffärer i Mellanöstern - Aftonbladet
+- Sverige är beroende av USA:s tech – kan vi vänja av oss? - Dagens PS
+- Efter eljättarnas höjningar: Regeringen utreder avgifter - Dagens industri
 - Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
 - Sålde film för 41 500 kronor: ”Extremt ovanligt” - Östersunds-Posten
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
+- Microsoft agerar efter klagomål på Windows 11 - Omni
+- Aronofsky gör AI-serie om USA:s födelse. Redan totalsågad. - feber.se
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
-- Alfred Berg kammar hem fondpris - Finanswatch.se
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Umeå children in worldwide school project on AI - Umeå universitet
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -99,22 +99,22 @@ _Updated: 2026-01-31 13:44_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Engineering Health 2024 - Chalmers
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 
 ## Science
 
@@ -122,7 +122,9 @@ _Updated: 2026-01-31 13:44_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
@@ -130,12 +132,10 @@ _Updated: 2026-01-31 13:44_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
