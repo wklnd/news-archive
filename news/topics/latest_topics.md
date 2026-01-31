@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 16:50_
+_Updated: 2026-01-31 17:47_
 
 ## Top Stories
 
-- Ett tjugotal döda i anfall mot Gaza - gp.se
+- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
+- Trafikverket varnar hela Sverige - Enköpingsposten
 - Iran varnar USA och Israel: Attackera inte - SVT Nyheter
+- Polishuset i Malmö avspärrat – kontrollerar misstänkt farligt föremål - Sydsvenskan
 - KD och teolog i öppet bråk: ”Plikt säga ifrån” - SvD
 - Vände på E4 – efter olyckan - UNT
-- ”Melania”-filmen floppar totalt i New York - Dagens Nyheter
-- ”Ett chicken race mellan oss och Staffanstorp” - Dagens Nyheter
+- Jaktstopp ändrar inget: ”Vi vill ha färre vargar” - Dagens Nyheter
 - Polisen: Gängen reducerade efter gripanden - SVT Nyheter
+- Skridskoentusiaster jublar när isarna lägger sig - Dagens Nyheter
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
-- E22 stängd norr om Hörby efter olycka med minst fyra fordon - Skånska Dagbladet
-- Larm om explosion vid vindkraftverk - SVT Nyheter
+- Ett tjugotal döda i anfall mot Gaza - gp.se
+- DN Direkt – Rodríguez föreslår amnestilag - Dagens Nyheter
 - Facit för 2025: Minst 1 800 attacker från bosättare - Dagens Nyheter
-- DN Direkt – SD: Utesluter inte att tvingas hjälpa L - Dagens Nyheter
-- SD:s vice partiledare besviken på Trump - gp.se
-- USA: Jätteaffärer i Mellanöstern - DI
-- Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
+- FBI tar över utredningen av Pretti-skjutningen - gp.se
+- Ökade möjligheter till hemmaladdning av elfordon - Regeringen.se
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
+- Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
 - DEBATT: Fyra hinder stoppar Uppsala län från att leda Sveriges tillväxt - UNT
+- Forza Horizon 6 har världens största virtuella bilvärld - auto motor & sport
 - Dina chefer kan snart se vilka Edge-tillägg du använder på jobbdatorn - PC för Alla
-- Flera hjul, köper jag rätt? - Happyride
-- Sålde film för 41 500 kronor: ”Extremt ovanligt” - Östersunds-Posten
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - DI
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Alfred Berg kammar hem fondpris - Finanswatch.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
