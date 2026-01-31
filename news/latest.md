@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-31 17:54_
+_Updated: 2026-01-31 18:59_
 
-- Live updates: Arrests made as protesters clash with officers in DTLA after 'ICE Out' protest - ABC7 Los Angeles
-- 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
-- 2nd Amendment advocates issue dire warning over Trump’s Pretti gun remarks - Politico
-- Houston runoff sets up next Democratic generational fight - Politico
-- A Minnesota School District Guards Against ICE, From Dawn to Dusk - The New York Times
-- After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown - The New York Times
-- DOJ concludes Epstein files review with release of 3.5 million records - Axios
 - Partial government shutdown begins as funding lapses despite Senate deal - CBS News
+- DOJ concludes Epstein files review with release of 3.5 million records - Axios
 - More than 300 anti-ICE protests planned across US this weekend - The Guardian
+- 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
+- Judges across the country rebuke ICE for defying court orders - Politico
+- A US House special election in Texas is set to narrow the GOP majority even further - CNN
+- ‘WTF’: Pro-gun groups warn vulnerable GOP seats on the line after Pretti response - Politico
 - This Minneapolis family has been in hiding for weeks, fearful of being deported - NBC News
+- Texas A&M Ends Women’s Studies and Overhauls Hundreds of Classes on Race and Gender - The New York Times
+- A Minnesota School District Guards Against ICE, From Dawn to Dusk - The New York Times
 - With decades-long restrictions lifted, a Pakistani brewery has started exporting beer - NPR
-- Over Creamy Chicken, Europe’s Leaders Try to Reduce Dependence on Trump - The New York Times
-- 'Everyone in shock' – Kyiv residents left without power, heating, and water as grid disruption causes mass blackout across Ukraine - The Kyiv Independent
-- Gaza’s Rafah crossing with Egypt to reopen on Sunday, Israel says - Reuters
+- Mass blackout and water shortages hit Ukraine - Euronews.com
+- Canada's Poilievre sweeps Conservative party leadership test with 87.4% - BBC
+- Separatists kill 21 including civilians in multiple attacks in Pakistan - AP News
+- Why Wall Street is unhappy with Trump's pick for Fed chair - Axios
 - Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks - CNBC
 - Sell America Is the New Trade on Wall Street - The New York Times
-- 3 warning signs silver could be headed for a deeper plunge, according to a top commodities expert - Business Insider
-- ‘I just don’t have a good feeling about this’: Top economist Claudia Sahm says the economy quietly shifted and everyone’s now looking at the wrong alarm - Fortune
+- These overlooked stocks are a backdoor way to play the AI chip boom - MarketWatch
+- The $2,900 Samsung Galaxy Z TriFold Phone Sells Out Online in Minutes - CNET
 - Tired of scam calls? The Galaxy S26 might finally have an answer - Android Authority
-- Google takes down an invisible network that was secretly using your phone's internet - Android Central
