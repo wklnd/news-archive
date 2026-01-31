@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-31 16:56_
+_Updated: 2026-01-31 17:54_
 
 - Live updates: Arrests made as protesters clash with officers in DTLA after 'ICE Out' protest - ABC7 Los Angeles
-- New SNAP work requirements set to go into effect on Feb. 1 with millions at risk of losing benefits - ABC News
-- Coast Guard conducts search following EPIRB activation from fishing vessel off New England coast - United States Coast Guard News (.mil)
-- After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown - The New York Times
+- 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
+- 2nd Amendment advocates issue dire warning over Trump’s Pretti gun remarks - Politico
+- Houston runoff sets up next Democratic generational fight - Politico
 - A Minnesota School District Guards Against ICE, From Dawn to Dusk - The New York Times
-- More than 300 anti-ICE protests planned across US this weekend - The Guardian
+- After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown - The New York Times
+- DOJ concludes Epstein files review with release of 3.5 million records - Axios
 - Partial government shutdown begins as funding lapses despite Senate deal - CBS News
-- What to know about widespread snowfall in north Georgia - WSB-TV
-- A US House special election in Texas is set to narrow the GOP majority even further - CNN
-- Brace for brutal cold as bomb cyclone drives bitter winds into D.C. - The Washington Post
-- U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms - The New York Times
+- More than 300 anti-ICE protests planned across US this weekend - The Guardian
+- This Minneapolis family has been in hiding for weeks, fearful of being deported - NBC News
 - With decades-long restrictions lifted, a Pakistani brewery has started exporting beer - NPR
 - Over Creamy Chicken, Europe’s Leaders Try to Reduce Dependence on Trump - The New York Times
-- ‘We did not assess all would return’: IDF shutters its Hostages HQ 846 days after Oct. 7 - The Times of Israel
+- 'Everyone in shock' – Kyiv residents left without power, heating, and water as grid disruption causes mass blackout across Ukraine - The Kyiv Independent
+- Gaza’s Rafah crossing with Egypt to reopen on Sunday, Israel says - Reuters
 - Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks - CNBC
 - Sell America Is the New Trade on Wall Street - The New York Times
-- TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
-- Silver Is Paying for Its Excesses. Silver Miner Stocks May Be a Buy. - Barron's
+- 3 warning signs silver could be headed for a deeper plunge, according to a top commodities expert - Business Insider
+- ‘I just don’t have a good feeling about this’: Top economist Claudia Sahm says the economy quietly shifted and everyone’s now looking at the wrong alarm - Fortune
 - Tired of scam calls? The Galaxy S26 might finally have an answer - Android Authority
-- I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click - WIRED
+- Google takes down an invisible network that was secretly using your phone's internet - Android Central
