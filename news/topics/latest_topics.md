@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 11:51_
+_Updated: 2026-01-31 12:51_
 
 ## Top Stories
 
+- Dödliga attacker mot Gaza - Västerbottens-Kuriren
 - ”Jag har svårt att se mig själv ha en annan typ av jobb” - Aftonbladet
+- SD:s vice partiledare besviken på Trump - GP
 - Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
-- ”Någon måste offra sig – i Sverige är det inte så” - SvD
+- Varför ringde inga varningsklockor, Åkesson? - Dagens Arena
 - Malmös kaxigaste politiker: En ”fucking hjälte” eller en grinig gubbe? - Sydsvenskan
-- Jagade kasino-vinnare – kidnappade lillebror - GP
-- ”Föraktet mot Trump är nedslående” - SvD
-- DN Direkt – Gruvkollaps i Kongo-Kinshasa: Över 200 döda - Dagens Nyheter
-- Fick 140 slag offentligt för att ha haft sex - Expressen
+- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
 - SD ändrar inställning till Trump – Senaste nytt om valet 2026 - SVT Nyheter
-- Rodríguez föreslår amnestilag i Venezuela - GP
-- ICE vill köpa lagerbyggnader för migrantförvar - Västerbottens-Kuriren
+- Stor ökning av självskador bland unga flickor - Västerbottens-Kuriren
+- DN Direkt – Tiotusentals demonstrerar i Minneapolis - Dagens Nyheter
 - DN Direkt – Tidigare CNN-ankare gripen efter ICE-protest - Dagens Nyheter
-- Minister i blåsväder efter tågkraschen - SvD
+- Gruvkollaps i Kongo-Kinshasa: Över 200 döda - SVT Nyheter
+- Tusentals vid minnesstund för tågolyckans offer – "endast sanningen kan läka såren" - Svenska Magasinet
+- USA: Jätteaffärer i Mellanöstern - Dagens industri
 - Audis designchef: Concept C visar fronten hos kommande modeller - Elbilen
+- Trots billigare dollar – svenskarna nobbar USA - Aftonbladet
 - Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
-- Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
-- Fyrhjulsdrift vanligare i Danderyd än i Norrland - Teknikens Värld
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
 - Microsoft agerar efter klagomål på Windows 11 - Omni
 
@@ -46,7 +46,7 @@ _Updated: 2026-01-31 11:51_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -57,6 +57,7 @@ _Updated: 2026-01-31 11:51_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -64,12 +65,11 @@ _Updated: 2026-01-31 11:51_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
 
@@ -125,28 +125,27 @@ _Updated: 2026-01-31 11:51_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,9 +154,10 @@ _Updated: 2026-01-31 11:51_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
