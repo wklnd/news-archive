@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-01-31 18:59_
+_Updated: 2026-01-31 19:55_
 
 - Partial government shutdown begins as funding lapses despite Senate deal - CBS News
-- DOJ concludes Epstein files review with release of 3.5 million records - Axios
 - More than 300 anti-ICE protests planned across US this weekend - The Guardian
-- 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
-- Judges across the country rebuke ICE for defying court orders - Politico
-- A US House special election in Texas is set to narrow the GOP majority even further - CNN
-- ‘WTF’: Pro-gun groups warn vulnerable GOP seats on the line after Pretti response - Politico
+- Search Suspended for 6 Missing in Boat Off the Coast of Massachusetts - The New York Times
+- Chicago snow today: Chicago weather forecast includes Winter Weather Advisory | LIVE RADAR - ABC7 Chicago
+- The West’s water war arrives in Washington - Politico
+- Gas leak caused blast in Iran's Bandar Abbas, Iranian media say - Reuters
 - This Minneapolis family has been in hiding for weeks, fearful of being deported - NBC News
-- Texas A&M Ends Women’s Studies and Overhauls Hundreds of Classes on Race and Gender - The New York Times
-- A Minnesota School District Guards Against ICE, From Dawn to Dusk - The New York Times
+- A US House special election in Texas is set to narrow the GOP majority even further - CNN
+- Pho, handwarmers, grief and loss: a week on the block where Alex Pretti was killed - The Guardian
+- Elena Rybakina wins Australian Open for 2nd Grand Slam title - ESPN
+- How Europe Is Moving to Reduce Dependence on Trump - The New York Times
 - With decades-long restrictions lifted, a Pakistani brewery has started exporting beer - NPR
-- Mass blackout and water shortages hit Ukraine - Euronews.com
-- Canada's Poilievre sweeps Conservative party leadership test with 87.4% - BBC
-- Separatists kill 21 including civilians in multiple attacks in Pakistan - AP News
-- Why Wall Street is unhappy with Trump's pick for Fed chair - Axios
+- Power outages hit Ukraine and Moldova as Kyiv struggles against the winter cold - AP News
 - Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks - CNBC
-- Sell America Is the New Trade on Wall Street - The New York Times
+- 3 warning signs silver could be headed for a deeper plunge, according to a top commodities expert - Business Insider
 - These overlooked stocks are a backdoor way to play the AI chip boom - MarketWatch
-- The $2,900 Samsung Galaxy Z TriFold Phone Sells Out Online in Minutes - CNET
+- Buy Microsoft’s stock while it’s down? First ask yourself this question. - MarketWatch
 - Tired of scam calls? The Galaxy S26 might finally have an answer - Android Authority
+- I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click - WIRED
+- I'm a Pro Photographer and Xiaomi's 17 Ultra Leica Phone Looks Amazing - CNET
