@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 05:06_
+_Updated: 2026-01-31 06:48_
 
 ## Top Stories
 
+- Skottlossning i Västerås - SVT Nyheter
 - FBI tar över utredningen av Pretti-skjutningen - GP
 - 30 januari 18.38, Explosion, Västerås - polisen.se
+- Trafikvarningen: ”Rena ishalkan” - Sydsvenskan
 - Ex-toppen träder fram: ”Jag har inget att skämmas för” - Sundsvalls Tidning
-- Trump: Iran vill ha ett avtal - Aftonbladet
 - Varningen: Danska Nato-soldater kan bli krigsfångar i USA - Expressen
-- V i Malmö gör uppror mot partiledningen efter ministeraktioner - Dagens Nyheter
 - Ballonglek orsakade massiv polisinsats: ”Man skulle smälla ballonger” - GP
-- Gulan Avci (L) ställer inte upp i riksdagsvalet – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Faran över – rymdskrot passerade södra Sverige - Dagens Nyheter
-- Svaret: Därför dog paret inom dagar på paradisön - Expressen
-- Guterres: FN riskerar ekonomisk kollaps - Aftonbladet
-- Trumps team i möte med separatisterna - Expressen
-- Hölls fånge av Josef Fritzl i 24 år – så lever dottern Elisabeth Fritzl i dag - Expressen
+- V i Malmö gör uppror mot partiledningen efter ministeraktioner - Dagens Nyheter
+- Larmet: Brister i privat neuropsykologisk vård av barn - SVT Nyheter
+- M23 tros plundra gruvstaden på sina rikedomar - Omni
+- Nathan Shachar: Israel förbereder sig på att bli attackerat av Iran - Dagens Nyheter
+- USA mot ny nedstängning – politiker har helgledigt - Corren
+- ”Putin desperat – nära vägs ände” - Expressen
 - Silverpriset rasar över 30 procent - Dagens industri
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
-- Northvolts konkursbo kräver tillbaka pengar från leverantörer - Norran
 - Var femte nätverkskriminell driver företag – så kan de stoppas - Tidningen Näringslivet
+- Hundratals nya miljoner till svensk koldioxidinfångning: "Finns tydligt behov" - Impact Loop
+- Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
 - En av 2020-talets största succéer gör comeback – över 60 Emmynomineringar - Filmtopp.se
-- Mekatroniker – Sensorer, inbyggda system & realtidsdata på Sigma - Ingenjörsjobb
-- Det ryktas om ett Nintendo Direct nästa vecka - FZ.se
+- Snubbe testar IKEA:s nya smarta-hem-prylar. Stabil hårdvara men begränsad app. - feber.se
 
 ## World News
 
@@ -100,21 +100,21 @@ _Updated: 2026-01-31 05:06_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
@@ -141,23 +141,23 @@ _Updated: 2026-01-31 05:06_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
