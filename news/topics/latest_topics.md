@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 17:47_
+_Updated: 2026-01-31 18:54_
 
 ## Top Stories
 
 - Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
-- Trafikverket varnar hela Sverige - Enköpingsposten
+- Misstänkt farligt föremål i Malmö – polishuset avspärrat - Omni
+- Ett tjugotal döda i anfall mot Gaza - gp.se
 - Iran varnar USA och Israel: Attackera inte - SVT Nyheter
-- Polishuset i Malmö avspärrat – kontrollerar misstänkt farligt föremål - Sydsvenskan
 - KD och teolog i öppet bråk: ”Plikt säga ifrån” - SvD
-- Vände på E4 – efter olyckan - UNT
+- MKB vill vräka Maria – eftersom hon sålt sex i sin bostad - Sydsvenskan
 - Jaktstopp ändrar inget: ”Vi vill ha färre vargar” - Dagens Nyheter
 - Polisen: Gängen reducerade efter gripanden - SVT Nyheter
 - Skridskoentusiaster jublar när isarna lägger sig - Dagens Nyheter
-- 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
-- Ett tjugotal döda i anfall mot Gaza - gp.se
-- DN Direkt – Rodríguez föreslår amnestilag - Dagens Nyheter
+- Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
+- Europas pulsåder en flytande soptipp: ”Groteskt” - gp.se
 - Facit för 2025: Minst 1 800 attacker från bosättare - Dagens Nyheter
-- FBI tar över utredningen av Pretti-skjutningen - gp.se
-- Ökade möjligheter till hemmaladdning av elfordon - Regeringen.se
+- Gruvkollaps i Kongo-Kinshasa: Över 200 döda - SVT Nyheter
+- Risk för kaos med sophämtningen – viktiga uppmaningen - Helagotland
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
 - DEBATT: Fyra hinder stoppar Uppsala län från att leda Sveriges tillväxt - UNT
 - Forza Horizon 6 har världens största virtuella bilvärld - auto motor & sport
+- Puh! Beyond Good & Evil 2 är inte ett av Ubisofts nedlagda spelen. - FZ.se
 - Dina chefer kan snart se vilka Edge-tillägg du använder på jobbdatorn - PC för Alla
 
 ## World News
@@ -81,9 +81,9 @@ _Updated: 2026-01-31 17:47_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
@@ -100,45 +100,45 @@ _Updated: 2026-01-31 17:47_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Engineering Health 2024 - Chalmers
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-01-31 17:47_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
