@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 22:49_
+_Updated: 2026-01-31 23:45_
 
 ## Top Stories
 
+- DN Direkt – Domare: ICE får fortsätta arbeta i Minnesota - Dagens Nyheter
+- Misstänkt farligt föremål i Malmö – boende inryms - SVT Nyheter
+- Kungafamiljens kris: ”Kan ha en styvson i fängelse” - Dagens Nyheter
 - Jagades av ICE – såg Pretti skjutas - Västerbottens-Kuriren
-- Liberalerna fortsatt långt under riksdagsspärren - Dagens Nyheter
-- MKB vill vräka Maria – eftersom hon sålt sex i sin bostad - Sydsvenskan
-- Äldre kan flyttas – till andra sidan Göteborg - GP
-- Domare: ICE får fortsätta arbeta i Minnesota - SVT Nyheter
-- Många döda i israeliskt anfall mot Gaza - Dagens Nyheter
+- Omfattande kontakt mellan Epstein och Mette-Marit i nya släppet - SVT Nyheter
+- Över 100 döda i attacker i oroligt Pakistan - GP
 - Explosion vid vindkraftverk utanför Skara - SVT Nyheter
 - Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
-- Skridskoentusiaster jublar när isarna lägger sig - Dagens Nyheter
-- Misstänkt farligt föremål i Malmö – bombskyddet kallades in - SVT Nyheter
-- Polis: Svensk har omkommit i lavinolycka i Schweiz - SVT Nyheter
+- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
+- Man i 80-årsåldern släppt – inte längre mordmisstänkt - SVT Nyheter
+- Runt 30 döda i anfall mot Gaza - GP
+- Europas pulsåder en flytande soptipp: ”Groteskt” - GP
 - Meloni dök upp som ängel på kyrkvägg - Dagens Nyheter
-- DN Direkt – Ko och bil i olycka efter brand i stall - Dagens Nyheter
+- Dödliga attacker mot Gaza - GP
 - USA: Jätteaffärer i Mellanöstern - GP
 - Risk för kaos med sophämtningen – viktiga uppmaningen - Helagotland
 - Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
 - Ica i priskonflikt med Red Bull – butiker minskar sortimentet - Dagligvarunytt
 - Puh! Beyond Good & Evil 2 är inte ett av Ubisofts nedlagda spelen. - FZ.se
 - Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
-- Alla årets bilar i ett klipp. Vilken är din favorit? - feber.se
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
-- Alfred Berg kammar hem fondpris - Finanswatch.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Handelsbanken lanserar ny global indexfond - Cision News
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
+- Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -89,8 +89,8 @@ _Updated: 2026-01-31 22:49_
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
@@ -100,22 +100,22 @@ _Updated: 2026-01-31 22:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -132,12 +132,12 @@ _Updated: 2026-01-31 22:49_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
