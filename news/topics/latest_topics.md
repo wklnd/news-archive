@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-01-31 12:51_
+_Updated: 2026-01-31 13:44_
 
 ## Top Stories
 
-- Dödliga attacker mot Gaza - Västerbottens-Kuriren
+- DN Direkt – Prinsessan Sofia i Epsteindokument - Dagens Nyheter
+- Liberalerna fortsatt långt under riksdagsspärren - Dagens Nyheter
+- Nathan Shachar: Syriens kurder mister både självstyre och USA:s stöd - Dagens Nyheter
+- Näringslivstopp: Tullar kan kyla investeringssuget i USA - Omni Ekonomi
+- ”Putin desperat – nära vägs ände” - Expressen
 - ”Jag har svårt att se mig själv ha en annan typ av jobb” - Aftonbladet
-- SD:s vice partiledare besviken på Trump - GP
-- Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
-- Varför ringde inga varningsklockor, Åkesson? - Dagens Arena
-- Malmös kaxigaste politiker: En ”fucking hjälte” eller en grinig gubbe? - Sydsvenskan
-- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
+- Deras barn rekryterades till danskt gängkrig: ”Han fick en pistol i handen” - Dagens Nyheter
 - SD ändrar inställning till Trump – Senaste nytt om valet 2026 - SVT Nyheter
-- Stor ökning av självskador bland unga flickor - Västerbottens-Kuriren
-- DN Direkt – Tiotusentals demonstrerar i Minneapolis - Dagens Nyheter
-- DN Direkt – Tidigare CNN-ankare gripen efter ICE-protest - Dagens Nyheter
+- Så slår gripandena mot de kriminella gängen - Aftonbladet
 - Gruvkollaps i Kongo-Kinshasa: Över 200 döda - SVT Nyheter
+- DN Direkt – Tidigare CNN-ankare gripen efter ICE-protest - Dagens Nyheter
 - Tusentals vid minnesstund för tågolyckans offer – "endast sanningen kan läka såren" - Svenska Magasinet
+- Hemlighetsmakeri kring Vita husets bunkerbygge - gp.se
 - USA: Jätteaffärer i Mellanöstern - Dagens industri
 - Audis designchef: Concept C visar fronten hos kommande modeller - Elbilen
-- Trots billigare dollar – svenskarna nobbar USA - Aftonbladet
+- Elskatten: en tidslinje - Företagarna
 - Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
+- Sålde film för 41 500 kronor: ”Extremt ovanligt” - Östersunds-Posten
 - Astronomer rustar sig för en av de största kollisionerna i sitt slag i mänsklighetens historia - Illustrerad Vetenskap
-- Microsoft agerar efter klagomål på Windows 11 - Omni
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
@@ -41,12 +40,13 @@ _Updated: 2026-01-31 12:51_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Alfred Berg kammar hem fondpris - Finanswatch.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Umeå children in worldwide school project on AI - Umeå universitet
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
