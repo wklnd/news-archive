@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-01 15:29_
+_Updated: 2026-02-01 16:02_
 
-- A ‘bizarro world’: How Trump’s words have scrambled America’s gun politics - CNN
-- Winter Storm Hits the Carolinas, Bringing Dangerous Ice and Snow - The New York Times
+- Mike Johnson warned by Jeffries not to count on Democrats' votes to end shutdown - Axios
 - Minnesota citizens detained by ICE are left rattled, even weeks later - NPR
 - Federal officers use crowd control munitions as demonstrators protest outside Portland ICE building - Oregon Public Broadcasting - OPB
 - Live updates: Arrests made hours after hundreds gathered for another anti-ICE protest in DTLA - ABC7 Los Angeles
-- Highway 99 in Tulare County reopens after 59-vehicle pileup, CHP says - ABC30 Fresno
+- Updated snow totals for southeastern Virginia: Forecast down - The Virginian-Pilot
+- RFK Jr. is now a wellness guru for Republicans in Washington - Politico
 - In Minneapolis, all-encompassing immigration story tests a newsroom in midst of digital transition - AP News
-- Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance - The New York Times
+- Winter Storm Hits the Carolinas, Bringing Dangerous Ice and Snow - The New York Times
 - Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast - The Wall Street Journal
-- Israel says Doctors Without Borders employs terror affiliates, orders exit from Gaza - Ynetnews
+- Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance - The New York Times
 - 'Normal life has disappeared': Russia's energy offensive plunges Ukraine into dark and bitter cold - ABC News
+- What Starmer can learn from Japan about dealing with China - The Telegraph
+- French tech company Capgemini to sell US unit linked to ICE - Reuters
 - TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
-- 'Washington Post' journalists plea to Bezos: Don't gut our newsroom - NPR
-- Don’t fear the AI ‘jobpocalypse’ - Financial Times
-- The Week That Was, The Week Ahead: Macro and Markets, Feb. 1 - TipRanks
+- Musk and Epstein Exchanged Emails About Visiting One Another, Documents Show - The New York Times
+- Nvidia Investment in OpenAI Round ‘Nothing Like’ $100 Billion - Bloomberg.com
 - How Chinese short-video streaming firms are reshaping Latin America's media landscape - CNBC
+- The video games industry is killing itself and no one seems to care - Reader's Feature - Metro.co.uk
 - New Samsung Galaxy S26 Ultra Leak Confirms Disappointing News - Forbes
 - Apple revamps how you buy a Mac online, removes preconfigured options - 9to5Mac
-- Video game company stock prices dip after Google introduces an AI world-generation tool - The Verge
-- SNL mocks Trump’s border czar and Minneapolis ICE operations - The Washington Post
