@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 21:00_
+_Updated: 2026-02-01 21:45_
 
 ## Top Stories
 
-- Polischefen: ”Ingen vettig människa vill se 13-åringar i fängelse” - Dagens Nyheter
+- DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
+- DN Direkt – Misstänkt mordförsök i Växjö – en gripen - Dagens Nyheter
 - Alice, 7, flyter bland isflak – reste 1 300 mil - Dagens Nyheter
-- Anna-Lena Laurén: Berlin bromsar ukrainskt EU-medlemskap – upplagt för besvikelse - Dagens Nyheter
-- Iran varnar för regionalt krig om USA anfaller – Senaste nytt om protesterna i Iran - SVT Nyheter
-- En död efter arbetsplatsolycka i Landskrona hamn - SVT Nyheter
-- Ryska attacker trots löfte om paus: ”Segern är nära” - Dagens Nyheter
+- Polischefen: ”Ingen vettig människa vill se 13-åringar i fängelse” - Dagens Nyheter
+- Putins doldis Jurij Usjakov styr i tysthet: ”Mäktigaste” - Expressen
+- Allvarlig arbetsplatsolycka i Landskrona hamn - Sydsvenskan
 - Person död i sexbutik – polisen utreder mord - Expressen
+- Tonåring död på sjukhus efter Crans-Montana-brand - Västerbottens-Kuriren
+- Regionen börjar med AI-journaler – trots avrådan - Dagens Nyheter
 - Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
-- Uppgifter: KD utesluter inte att vara del av S-ledd regering – Senaste nytt om valet 2026 - SVT Nyheter
-- 01 februari 07.48, Sammanfattning natt, Norrbottens län - Polisen.se
-- Direkt – Kriget i Ukraina – Zelenskyj: Trepartsmöte i Abu Dhabi på onsdag - Dagens Nyheter
+- Erik Esbjörnsson: Stor risk för utdragen konflikt i världens yngsta land Sydsudan - Dagens Nyheter
 - 7 000 IS-fångar flyttas från Syrien till Irak: ”Ta dem till Europa” - Dagens Nyheter
-- DN Direkt – 120 000 frivilliga ska bemanna skyddsrum - Dagens Nyheter
-- SMHI: Risk för gräsbrand - Aftonbladet
+- SMHI varnar: Risk för gräsbränder i västra Halland - SVT Nyheter
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
-- Prognosen: Ett nytt inflationslandskap - SvD
+- Sågades av ministern: ”Bad om ursäkt” - SvD
 - It-bolag kräver kraftsamling mot USA-dominans: ”Gyllene läge” - Dagens industri
-- Clara, 24, lever med ovanlig ätstörning – har fobi för mat - Expressen
+- Prognosen: Ett nytt inflationslandskap - SvD
 - Spelaktier rasar efter Googles nya AI-besked - GP
+- Ny “Iphone Flip” kan vara på väg - mobil.se
 - Fitbit-användare får mer tid på sig att flytta sina konton - Teknikveckan
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
 
@@ -122,14 +122,13 @@ _Updated: 2026-02-01 21:00_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -137,8 +136,9 @@ _Updated: 2026-02-01 21:00_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
