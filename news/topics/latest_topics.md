@@ -1,37 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 19:50_
+_Updated: 2026-02-01 21:00_
 
 ## Top Stories
 
-- Flera gruvarbetare dödade i rysk drönarattack - GP
 - Polischefen: ”Ingen vettig människa vill se 13-åringar i fängelse” - Dagens Nyheter
-- Isvindar tar grepp om Skåne i veckan – stora snöchanser - Sydsvenskan
-- Putins doldis Jurij Usjakov styr i tysthet: ”Mäktigaste” - Expressen
-- Polisens varning: Gå inte ut på isarna - SvD
+- Alice, 7, flyter bland isflak – reste 1 300 mil - Dagens Nyheter
 - Anna-Lena Laurén: Berlin bromsar ukrainskt EU-medlemskap – upplagt för besvikelse - Dagens Nyheter
+- Iran varnar för regionalt krig om USA anfaller – Senaste nytt om protesterna i Iran - SVT Nyheter
+- En död efter arbetsplatsolycka i Landskrona hamn - SVT Nyheter
+- Ryska attacker trots löfte om paus: ”Segern är nära” - Dagens Nyheter
 - Person död i sexbutik – polisen utreder mord - Expressen
-- Regionen börjar med AI-journaler – trots avrådan - Dagens Nyheter
-- DN Direkt – Risk för gräsbrand i söder - Dagens Nyheter
 - Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
-- Tonåring död på sjukhus efter Crans-Montana-brand - SVT Nyheter
+- Uppgifter: KD utesluter inte att vara del av S-ledd regering – Senaste nytt om valet 2026 - SVT Nyheter
+- 01 februari 07.48, Sammanfattning natt, Norrbottens län - Polisen.se
+- Direkt – Kriget i Ukraina – Zelenskyj: Trepartsmöte i Abu Dhabi på onsdag - Dagens Nyheter
 - 7 000 IS-fångar flyttas från Syrien till Irak: ”Ta dem till Europa” - Dagens Nyheter
-- DN Direkt – Allvarlig arbetsplatsolycka i Landskrona – fått föremål på sig - Dagens Nyheter
+- DN Direkt – 120 000 frivilliga ska bemanna skyddsrum - Dagens Nyheter
+- SMHI: Risk för gräsbrand - Aftonbladet
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
 - Prognosen: Ett nytt inflationslandskap - SvD
-- Prischock på mobiler och surfplattor väntar – på grund av AI - TV4 Nyheterna
 - It-bolag kräver kraftsamling mot USA-dominans: ”Gyllene läge” - Dagens industri
+- Clara, 24, lever med ovanlig ätstörning – har fobi för mat - Expressen
+- Spelaktier rasar efter Googles nya AI-besked - GP
 - Fitbit-användare får mer tid på sig att flytta sina konton - Teknikveckan
-- Vilket ankliv! – Arc Raiders invaderas av ankor. - fz.se
-- Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,13 +41,12 @@ _Updated: 2026-02-01 19:50_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Handelsbanken lanserar ny global indexfond - Cision News
+- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2026-02-01 19:50_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -122,13 +122,14 @@ _Updated: 2026-02-01 19:50_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -136,9 +137,8 @@ _Updated: 2026-02-01 19:50_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
