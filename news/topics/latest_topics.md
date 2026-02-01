@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 15:58_
+_Updated: 2026-02-01 16:52_
 
 ## Top Stories
 
 - Tonåring död på sjukhus efter Crans-Montana-brand - SVT Nyheter
-- Många döda i israeliskt anfall mot Gaza - Dagens Nyheter
-- Här är allt som gjorde millennials så… Millennial - Sydsvenskan
-- Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
-- Iran terrorstämplar europeiska arméer - Aftonbladet
-- Jagades av ICE – såg Pretti skjutas - Västerbottens-Kuriren
-- Lagrådet: Platsbrist inte skäl för straff utomlands - Aftonbladet
-- Uppgifter: KD utesluter inte att vara del av S-ledd regering – Senaste nytt om valet 2026 - SVT Nyheter
-- Två personer genom isen – Polisen varnar: ”Väldigt oberäknelig” - SVT Nyheter
 - DN Direkt – Malmö FF säljer målvakten – för rekordsumma - Dagens Nyheter
+- 16 döda i trafikolyckor nära turistort i Turkiet - Västerbottens-Kuriren
+- Ryska attacker trots löfte om paus: ”Segern är nära” - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Trepartsmöte i Abu Dhabi på onsdag - Dagens Nyheter
+- Två personer genom isen – Polisen varnar: ”Väldigt oberäknelig” - SVT Nyheter
+- Man död efter trafikolycka på E20 utanför Mariestad - GP
+- Uppgifter: KD utesluter inte att vara del av S-ledd regering – Senaste nytt om valet 2026 - SVT Nyheter
+- Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
+- 01 februari 07.48, Sammanfattning natt, Norrbottens län - polisen.se
 - Gratis potatis i Tyskland väcker kritik - Dagens Nyheter
-- Kvinna rånad av knivmän – skuren i handen - TV4 Nyheterna
-- Minst 16 döda i bussolyckor nära turistort i Turkiet - SVT Nyheter
+- 7 000 IS-fångar flyttas från Syrien till Irak: ”Ta dem till Europa” - Dagens Nyheter
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
 - Prischock på mobiler och surfplattor väntar – på grund av AI - TV4 Nyheterna
 - Familjebankens skifte blir historiskt - SvD
-- It-bolag kräver kraftsamling mot USA-dominans: ”Gyllene läge” - Dagens industri
-- Google Project Genie genererar interaktiva världar som kan utforskas - Swedroid
+- Prognosen: Ett nytt inflationslandskap - SvD
+- Fitbit-användare får mer tid på sig att flytta sina konton - Teknikveckan
 - Vilket ankliv! – Arc Raiders invaderas av ankor. - FZ.se
 - Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
+- Apple har gjort om hur man klickar hem en Mac på deras hemsida - Teknikveckan
 
 ## World News
 
@@ -35,6 +35,7 @@ _Updated: 2026-02-01 15:58_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -44,7 +45,6 @@ _Updated: 2026-02-01 15:58_
 - Alfred Berg kammar hem fondpris - Finanswatch.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
@@ -62,24 +62,25 @@ _Updated: 2026-02-01 15:58_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-02-01 15:58_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
 ## Health
 
@@ -149,7 +149,6 @@ _Updated: 2026-02-01 15:58_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
@@ -160,5 +159,6 @@ _Updated: 2026-02-01 15:58_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Allt fler brittiska jättefarmer - Land Lantbruk
