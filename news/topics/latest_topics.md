@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 05:37_
+_Updated: 2026-02-01 07:43_
 
 ## Top Stories
 
 - Skyddsrum ska bemannas av 120 000 frivilliga - GP
+- Planerna för Skanstorget överges – parkering blir kvar - GP
 - Kungafamiljens kris: ”Kan ha en styvson i fängelse” - Dagens Nyheter
-- DN Direkt – Domare beslutar att släppa femåriga Liam och hans pappa - Dagens Nyheter
-- Explosion vid flerfamiljshus i Haninge kommun - GP
-- USA placerar toppdiplomat i Venezuela - Aftonbladet
-- Jagades av ICE – såg Pretti skjutas - Västerbottens-Kuriren
+- Patrik fick våningen på 178 kvadrat – som 22-åring - GP
+- Trump: Inleder samtal med Kuba - GP
+- KD-källor: Vara del av S-ledd regering inte längre uteslutet - Dagens Nyheter
 - Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
-- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
+- Halt på vägarna – E6 stängdes av efter olycka - SVT Nyheter
 - Larmet: Brister i privat neuropsykologisk vård av barn - SVT Nyheter
-- Nationellt stöd till utveckling av regionala resurscentrum mot hedersrelaterat våld och förtryck - Länsstyrelsen
+- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
+- Hånat av Trump – här är Grönlands elithundspann - Västerbottens-Kuriren
+- Han jagades av ICE – såg Pretti skjutas - Dagens Nyheter
 - Domare: ICE får fortsätta arbeta i Minnesota - SVT Nyheter
-- Trump: Ingen federal polishjälp i demokratstäder - Folkbladet
-- Iran varnar USA och Israel: Attackera inte - SVT Nyheter
-- Massgrav i Jordanien ger ny bild av antik pandemi - Dagens Nyheter
 - Risk för kaos med sophämtningen – viktiga uppmaningen - Helagotland
-- Stöd till rekordmånga laddstolpar 2025 - Aktuell Hållbarhet
-- Ica i priskonflikt med Red Bull – butiker minskar sortimentet - Dagligvarunytt
-- Årets bil i Europa 2026 – så bra är ”billiga” Mercan - Aftonbladet
+- Ingen ljusning för elpriser: ”Sent att binda” - Omni Ekonomi
+- Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
 - Remember Me (2013) - FZ.se
+- Samsungs nya e-pappersskärm är tillverkad med plankton. Drar noll watt i standby. - feber.se
 - Assassin's Creed: Revelations (PlayStation 3) - FZ.se
+- Adam Lundgren utsedd till bästa skådespelare på Göteborgs filmfestival - Dagens Nyheter
 
 ## World News
 
@@ -69,7 +69,7 @@ _Updated: 2026-02-01 05:37_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,13 +77,13 @@ _Updated: 2026-02-01 05:37_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Swindled millions found 15 years later - Sveriges Radio
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
@@ -92,7 +92,7 @@ _Updated: 2026-02-01 05:37_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
 ## Health
 
@@ -101,19 +101,19 @@ _Updated: 2026-02-01 05:37_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Engineering Health 2024 - Chalmers
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
@@ -126,13 +126,13 @@ _Updated: 2026-02-01 05:37_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
