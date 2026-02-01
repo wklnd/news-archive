@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-01 13:52_
+_Updated: 2026-02-01 15:29_
 
-- They Said They Weren’t Close to Epstein. New Documents Show Otherwise. - The New York Times
+- A ‘bizarro world’: How Trump’s words have scrambled America’s gun politics - CNN
+- Winter Storm Hits the Carolinas, Bringing Dangerous Ice and Snow - The New York Times
 - Minnesota citizens detained by ICE are left rattled, even weeks later - NPR
 - Federal officers use crowd control munitions as demonstrators protest outside Portland ICE building - Oregon Public Broadcasting - OPB
-- Updated snow totals for southeastern Virginia: Forecast down - The Virginian-Pilot
+- Live updates: Arrests made hours after hundreds gathered for another anti-ICE protest in DTLA - ABC7 Los Angeles
 - Highway 99 in Tulare County reopens after 59-vehicle pileup, CHP says - ABC30 Fresno
-- Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say - BBC
-- Donald Trump’s unprecedented political war chest got even bigger in 2025 - Politico
-- Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast - The Wall Street Journal
+- In Minneapolis, all-encompassing immigration story tests a newsroom in midst of digital transition - AP News
 - Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance - The New York Times
-- Iran’s Gen Z Helped Propel the Protests. They Paid With Their Lives. - The Wall Street Journal
-- What Starmer can learn from Japan about dealing with China - The Telegraph
+- Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast - The Wall Street Journal
+- Israel says Doctors Without Borders employs terror affiliates, orders exit from Gaza - Ynetnews
+- 'Normal life has disappeared': Russia's energy offensive plunges Ukraine into dark and bitter cold - ABC News
 - TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
-- Nvidia Investment in OpenAI Round ‘Nothing Like’ $100 Billion - Bloomberg.com
 - 'Washington Post' journalists plea to Bezos: Don't gut our newsroom - NPR
-- Here's My Top Dividend Stock for 2026 - The Motley Fool
+- Don’t fear the AI ‘jobpocalypse’ - Financial Times
+- The Week That Was, The Week Ahead: Macro and Markets, Feb. 1 - TipRanks
+- How Chinese short-video streaming firms are reshaping Latin America's media landscape - CNBC
 - New Samsung Galaxy S26 Ultra Leak Confirms Disappointing News - Forbes
-- 4 Devices Compatible With Your Car's USB Port That You Need To Know About - bgr.com
-- Saturday Pre-orders – Chaos Space Marines and Marauders running wild - Warhammer Community
-- 30% More Efficient? The Math Behind Aero vs. Steel - Outside Magazine
-- Pete Davidson Joins ‘Saturday Night Live’ Cold Open to “Tighten Up” ICE Agents in Minneapolis - The Hollywood Reporter
+- Apple revamps how you buy a Mac online, removes preconfigured options - 9to5Mac
+- Video game company stock prices dip after Google introduces an AI world-generation tool - The Verge
+- SNL mocks Trump’s border czar and Minneapolis ICE operations - The Washington Post
