@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 23:47_
+_Updated: 2026-02-02 00:52_
 
 ## Top Stories
 
 - DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
 - DN Direkt – Misstänkt mordförsök i Växjö – en gripen - Dagens Nyheter
-- Valdes bland 300 sökande: ”Jag blev väldigt förvånad” - Omni
-- Manusförfattare bakom Oscarsfilm gripen i Iran - Aftonbladet
-- Varnar för fallande leguaner: ”Ta inte in” - SvD
+- Tog över centralbank efter kaos: ”Tomt blad” - SvD
+- Alice, 7, flyter bland isflak – reste 1 300 mil - Dagens Nyheter
 - Danska uppmaningen: Gör er av med allt amerikanskt - Aftonbladet
-- Man död efter arbetsplatsolycka i Landskrona hamn - SVT Nyheter
-- Uppgifter: KD utesluter inte att vara del av S-ledd regering – Senaste nytt om valet 2026 - SVT Nyheter
-- Person död i sexbutik – polisen utreder mord - Expressen
-- Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
-- Kaskelot strandade - Folkbladet
+- Varnar för fallande leguaner: ”Ta inte in” - SvD
+- Första månaden på åtta år utan dödsskjutning - SVT Nyheter
+- Åkesson (SD): ”Beredd att axla rollen som statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
+- Lagrådet: Platsbrist inte skäl för straff utomlands - Folkbladet
+- DN Direkt – Risk för gräsbrand i söder - Dagens Nyheter
 - Grönlandskrisen skakar om relationen mellan Trump och Europas ytterhöger - Dagens Nyheter
-- DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
 - Erik Esbjörnsson: Stor risk för utdragen konflikt i världens yngsta land Sydsudan - Dagens Nyheter
+- DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
+- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
 - It-bolag kräver kraftsamling mot USA-dominans: ”Gyllene läge” - Dagens industri
-- Misstänkt tand i fryspizzan chockade Tony - TV4 Nyheterna
 - Clara, 24, lever med ovanlig ätstörning – har fobi för mat - Expressen
-- Spelaktier rasar efter Googles nya AI-besked - Sydsvenskan
+- Anthropic: Kodare presterar sämre när de använt AI - Realtid
+- Spelaktier rasar efter Googles nya AI-besked - Folkbladet
 - Ny “Iphone Flip” kan vara på väg - mobil.se
 
 ## World News
@@ -30,9 +30,11 @@ _Updated: 2026-02-01 23:47_
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
@@ -42,11 +44,9 @@ _Updated: 2026-02-01 23:47_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2026-02-01 23:47_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
@@ -76,22 +76,23 @@ _Updated: 2026-02-01 23:47_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -141,12 +142,11 @@ _Updated: 2026-02-01 23:47_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
@@ -155,9 +155,10 @@ _Updated: 2026-02-01 23:47_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
