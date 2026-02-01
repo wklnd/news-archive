@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 12:53_
+_Updated: 2026-02-01 13:45_
 
 ## Top Stories
 
-- DN Direkt – Hanna Lodin på pallen i långloppscuppen - Dagens Nyheter
 - Familjens ilska mot polisen – ett år efter masskjutningen i Örebro - SVT Nyheter
+- Lydia blev mamma efter flera misslyckade IVF-försök - Smålandsposten
 - KD-källor: Vara del av S-ledd regering inte längre uteslutet - Dagens Nyheter
+- Åtta döda i bussolycka nära turistort i Turkiet - SVT Nyheter
+- Glasstjuvar tagna på bar gärning - UNT
 - Här är allt som gjorde millennials så… Millennial - Sydsvenskan
-- Skyddsrum ska bemannas av 120 000 frivilliga - Västerbottens-Kuriren
-- DN Direkt – Kvinna skadad i samband med knivrån - Dagens Nyheter
 - 01 februari 08.05, Sammanfattning natt, Östergötlands län - polisen.se
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - polisen.se
+- Allvarlig olycka i Mariestad - SVT Nyheter
 - Olycka begränsar trafiken på E4:an - SVT Nyheter
-- SMHI varnar: Risk för gräsbränder i västra Halland - SVT Nyheter
-- Hånat av Trump – här är Grönlands elithundspann - Dagens Nyheter
-- Man fotade hamn – misstänkt för brott i Göteborg - Expressen
+- Prinsessan Sofia i Epsteindokument - Västerbottens-Kuriren
+- DN Direkt – Domare beslutar att släppa femåriga Liam och hans pappa - Dagens Nyheter
+- Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
 - Så beroende är svensk försvarsindustri av USA - SvD
+- Ras för kontantuttag – de tar ut minst - Dagens industri
 - BAE storsatsar - bygger ut - Allehanda.se
-- Jonas Fröberg: Tesla på väg att överge bilarna - Dagens Nyheter
-- Prognosen: Ett nytt inflationslandskap - SvD
 - Pro-Ject Pre Box S3 samlar sladdarna i anläggningen - Mini-förförstärkare från Pro-Ject - Ljud & Bild
 - De spelar Odin och Thor i "God of War" - MovieZine.se
 - Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
@@ -32,7 +32,6 @@ _Updated: 2026-02-01 12:53_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -45,8 +44,9 @@ _Updated: 2026-02-01 12:53_
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Alfred Berg kammar hem fondpris - Finanswatch.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -97,25 +97,25 @@ _Updated: 2026-02-01 12:53_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Engineering Health 2024 - Chalmers
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -124,17 +124,17 @@ _Updated: 2026-02-01 12:53_
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
