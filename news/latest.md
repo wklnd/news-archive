@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-01 21:03_
+_Updated: 2026-02-01 21:53_
 
 - Iran's supreme leader warns of regional war if US attacks - BBC
 - Federal Courts Undercut Trump’s Mass Deportation Campaign - The New York Times
-- Bomb cyclone brings historic snow to North Carolina, flurries to Florida - The Washington Post
+- How much snow fell in the Charlotte area on Saturday? - WCNC
 - Rising crime, inequality and disenchantment: What’s at stake in Costa Rica’s elections - CNN
 - Leftist and liberal gun groups are seeing a rush of new members - CNN
-- Minnesota citizens detained by ICE are left rattled, even weeks later - NPR
-- 5-year-old Liam Conejo Ramos and father return to Minnesota from ICE facility in Texas - AP News
-- Michigan’s 3-car pileup of a primary has Senate Democrats worried - Politico
-- RFK Jr. is now a wellness guru for Republicans in Washington - Politico
-- On the ground with thousands of anti-ICE protestors - The Verge
-- Death toll from Crans-Montana bar fire rises to 41 - The Guardian
-- Australian Open final: Carlos Alcaraz beats Novak Djokovic for career Grand Slam - The New York Times
+- Twelve miners killed by Russian strike in Ukraine, energy company says - BBC
+- Central Florida Freeze Warning continues as extreme cold carries into Monday - WFTV
+- Carlos Alcaraz beats Novak Djokovic to become the youngest man to complete a career Grand Slam - AP News
 - Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC
-- 'Normal life has disappeared': Russia's energy offensive plunges Ukraine into dark and bitter cold - ABC News
+- Iran updates: Iran classes EU armies as terrorist groups - DW.com
+- What Elena Rybakina can do to Aryna Sabalenka which makes her panic according to CoCo Vandeweghe - Tennishead
+- French tech giant Capgemini to sell US subsidiary working for ICE - BBC
 - Chan Zuckerberg Initiative cut 70 jobs to go all in on mission to 'cure or prevent all disease' - Fortune
+- ‘We’re not in a bubble yet’ because only 3 out of 4 conditions are met, top economist says. Cue the OpenAI IPO - Fortune
 - Trump tries humor, gets some silence, at black-tie dinner with ‘people I hate’ - The Washington Post
-- Powerball jackpot winning numbers for Saturday, Jan. 31, 2026 - USA Today
-- Don’t fear the AI ‘jobpocalypse’ - Financial Times
 - The foldable iPhone will make sure future Galaxy phones have massive batteries - PhoneArena
 - The Reason Why OLED TVs Are So Expensive - bgr.com
+- Top 8 Players and Decks of Pro Tour Lorwyn Eclipsed - MAGIC PLAY
+- Is it really possible to 'bank' sleep for later? - BBC
+- ‘Melania’ Arrives With Strong Box Office Showing for a Documentary - The New York Times
