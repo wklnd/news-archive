@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 21:45_
+_Updated: 2026-02-01 22:51_
 
 ## Top Stories
 
 - DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
 - DN Direkt – Misstänkt mordförsök i Växjö – en gripen - Dagens Nyheter
+- Manusförfattare bakom Oscarsfilm gripen i Iran - Aftonbladet
 - Alice, 7, flyter bland isflak – reste 1 300 mil - Dagens Nyheter
-- Polischefen: ”Ingen vettig människa vill se 13-åringar i fängelse” - Dagens Nyheter
-- Putins doldis Jurij Usjakov styr i tysthet: ”Mäktigaste” - Expressen
-- Allvarlig arbetsplatsolycka i Landskrona hamn - Sydsvenskan
+- Ryska attacker trots löfte om paus: ”Segern är nära” - Dagens Nyheter
+- Trump: Samtal med Iran i det tysta - SVT Nyheter
+- Man död efter arbetsplatsolycka i Landskrona hamn - SVT Nyheter
 - Person död i sexbutik – polisen utreder mord - Expressen
-- Tonåring död på sjukhus efter Crans-Montana-brand - Västerbottens-Kuriren
-- Regionen börjar med AI-journaler – trots avrådan - Dagens Nyheter
 - Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
+- Turister flög drönare – över riksdagen - Strengnäs Tidning
 - Erik Esbjörnsson: Stor risk för utdragen konflikt i världens yngsta land Sydsudan - Dagens Nyheter
-- 7 000 IS-fångar flyttas från Syrien till Irak: ”Ta dem till Europa” - Dagens Nyheter
-- SMHI varnar: Risk för gräsbränder i västra Halland - SVT Nyheter
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
-- Sågades av ministern: ”Bad om ursäkt” - SvD
+- Tog över centralbank efter kaos: ”Tomt blad” - SvD
 - It-bolag kräver kraftsamling mot USA-dominans: ”Gyllene läge” - Dagens industri
-- Prognosen: Ett nytt inflationslandskap - SvD
-- Spelaktier rasar efter Googles nya AI-besked - GP
+- Clara, 24, lever med ovanlig ätstörning – har fobi för mat - Expressen
 - Ny “Iphone Flip” kan vara på väg - mobil.se
 - Fitbit-användare får mer tid på sig att flytta sina konton - Teknikveckan
+- Mer om Galaxy S26-serien: bilder och specifikationer - Swedroid
+- Vilket ankliv! – Arc Raiders invaderas av ankor. - fz.se
+- Därför får Cecilia Düringer Lagercrantzen 2026 - Dagens Nyheter
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
@@ -73,26 +73,25 @@ _Updated: 2026-02-01 21:45_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -111,24 +110,25 @@ _Updated: 2026-02-01 21:45_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -136,9 +136,8 @@ _Updated: 2026-02-01 21:45_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
