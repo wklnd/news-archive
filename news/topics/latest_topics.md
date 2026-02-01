@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 00:52_
+_Updated: 2026-02-02 01:49_
 
 ## Top Stories
 
 - DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
+- Liam, 5, fick återvända hem – men allt fler barn i förvar - Dagens Nyheter
+- Valdes bland 300 sökande: ”Jag blev väldigt förvånad” - Omni
 - DN Direkt – Misstänkt mordförsök i Växjö – en gripen - Dagens Nyheter
-- Tog över centralbank efter kaos: ”Tomt blad” - SvD
-- Alice, 7, flyter bland isflak – reste 1 300 mil - Dagens Nyheter
-- Danska uppmaningen: Gör er av med allt amerikanskt - Aftonbladet
 - Varnar för fallande leguaner: ”Ta inte in” - SvD
+- Danska uppmaningen: Gör er av med allt amerikanskt - Aftonbladet
 - Första månaden på åtta år utan dödsskjutning - SVT Nyheter
 - Åkesson (SD): ”Beredd att axla rollen som statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
-- Lagrådet: Platsbrist inte skäl för straff utomlands - Folkbladet
-- DN Direkt – Risk för gräsbrand i söder - Dagens Nyheter
+- Tobiaz, 33, har köpt nässpray – för nästan 100 000 kronor - Expressen
+- 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
 - Grönlandskrisen skakar om relationen mellan Trump och Europas ytterhöger - Dagens Nyheter
-- Erik Esbjörnsson: Stor risk för utdragen konflikt i världens yngsta land Sydsudan - Dagens Nyheter
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
 - Minst 15 döda efter rysk attack mot buss - SVT Nyheter
+- Erik Esbjörnsson: Stor risk för utdragen konflikt i världens yngsta land Sydsudan - Dagens Nyheter
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
+- Nya rekommendationer för pneumokockvaccination - Vårdgivarguiden
 - It-bolag kräver kraftsamling mot USA-dominans: ”Gyllene läge” - Dagens industri
 - Clara, 24, lever med ovanlig ätstörning – har fobi för mat - Expressen
-- Anthropic: Kodare presterar sämre när de använt AI - Realtid
 - Spelaktier rasar efter Googles nya AI-besked - Folkbladet
 - Ny “Iphone Flip” kan vara på väg - mobil.se
 
@@ -32,7 +32,7 @@ _Updated: 2026-02-02 00:52_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -43,10 +43,10 @@ _Updated: 2026-02-02 00:52_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Handelsbanken lanserar ny global indexfond - Cision News
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -76,23 +76,22 @@ _Updated: 2026-02-02 00:52_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -122,23 +121,23 @@ _Updated: 2026-02-02 00:52_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
