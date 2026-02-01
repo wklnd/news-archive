@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 11:53_
+_Updated: 2026-02-01 12:53_
 
 ## Top Stories
 
+- DN Direkt – Hanna Lodin på pallen i långloppscuppen - Dagens Nyheter
 - Familjens ilska mot polisen – ett år efter masskjutningen i Örebro - SVT Nyheter
 - KD-källor: Vara del av S-ledd regering inte längre uteslutet - Dagens Nyheter
-- Masoome: ”Spelar ingen roll vad polisen säger” - SvD
 - Här är allt som gjorde millennials så… Millennial - Sydsvenskan
-- Planerna för Skanstorget överges – parkering blir kvar - GP
 - Skyddsrum ska bemannas av 120 000 frivilliga - Västerbottens-Kuriren
-- 01 februari 08.05, Sammanfattning natt, Östergötlands län - Polisen.se
 - DN Direkt – Kvinna skadad i samband med knivrån - Dagens Nyheter
-- Kollision med en älg på E22 – två personer förda till sjukhus - SVT Nyheter
-- 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
-- Iran terrorstämplar europeiska arméer - GP
-- Han jagades av ICE – såg Pretti skjutas - Dagens Nyheter
-- SMHI: Risk för gräsbrand - Aftonbladet
-- Parets chock – födde fel barn - Expressen
-- Här är vinnarna på bostadsmarknaden senaste tio åren - Dagens Nyheter
+- 01 februari 08.05, Sammanfattning natt, Östergötlands län - polisen.se
+- 31 januari 07.44, Sammanfattning natt, Jämtlands län - polisen.se
+- Olycka begränsar trafiken på E4:an - SVT Nyheter
+- SMHI varnar: Risk för gräsbränder i västra Halland - SVT Nyheter
+- Hånat av Trump – här är Grönlands elithundspann - Dagens Nyheter
+- Man fotade hamn – misstänkt för brott i Göteborg - Expressen
 - Så beroende är svensk försvarsindustri av USA - SvD
-- Ras för kontantuttag – de tar ut minst - Dagens industri
+- BAE storsatsar - bygger ut - Allehanda.se
+- Jonas Fröberg: Tesla på väg att överge bilarna - Dagens Nyheter
 - Prognosen: Ett nytt inflationslandskap - SvD
+- Pro-Ject Pre Box S3 samlar sladdarna i anläggningen - Mini-förförstärkare från Pro-Ject - Ljud & Bild
 - De spelar Odin och Thor i "God of War" - MovieZine.se
 - Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
+- Remember Me (2013) - FZ.se
 
 ## World News
 
@@ -32,6 +32,7 @@ _Updated: 2026-02-01 11:53_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -44,9 +45,8 @@ _Updated: 2026-02-01 11:53_
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
 - Alfred Berg kammar hem fondpris - Finanswatch.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -67,31 +67,32 @@ _Updated: 2026-02-01 11:53_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -123,17 +124,17 @@ _Updated: 2026-02-01 11:53_
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
