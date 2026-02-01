@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-01 12:58_
+_Updated: 2026-02-01 13:52_
 
-- Another winter storm dumps more snow as dangerous cold lingers - ABC News
-- Live updates: Arrests made hours after hundreds gathered for another anti-ICE protest in DTLA - ABC7 Los Angeles
-- Winter Storm Hits the Carolinas, Bringing Dangerous Ice and Snow - The New York Times
+- They Said They Weren’t Close to Epstein. New Documents Show Otherwise. - The New York Times
+- Minnesota citizens detained by ICE are left rattled, even weeks later - NPR
+- Federal officers use crowd control munitions as demonstrators protest outside Portland ICE building - Oregon Public Broadcasting - OPB
+- Updated snow totals for southeastern Virginia: Forecast down - The Virginian-Pilot
 - Highway 99 in Tulare County reopens after 59-vehicle pileup, CHP says - ABC30 Fresno
+- Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say - BBC
 - Donald Trump’s unprecedented political war chest got even bigger in 2025 - Politico
-- Virginia woman was strangled with her child sleeping nearby, authorities say. Who was behind the deadly attack? - CBS News
-- These Gazans May Finally Get a Lifeline to the World - The New York Times
+- Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast - The Wall Street Journal
+- Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance - The New York Times
 - Iran’s Gen Z Helped Propel the Protests. They Paid With Their Lives. - The Wall Street Journal
 - What Starmer can learn from Japan about dealing with China - The Telegraph
-- MSF statement on sharing staff information and humanitarian operations in Palestine - MSF - Médecins Sans Frontières
 - TikTok Superstar Khaby Lame’s Big Deal—Which Saw Him Valued At $6.6 Billion—Raises Red Flags, Experts Say - Forbes
-- Nvidia Investment in OpenAI Round ‘Nothing Like’ $100 Billion - Bloomberg
+- Nvidia Investment in OpenAI Round ‘Nothing Like’ $100 Billion - Bloomberg.com
 - 'Washington Post' journalists plea to Bezos: Don't gut our newsroom - NPR
-- As national debt heads toward $40 trillion, U.S. needs a stable dollar, former Fed president says - Fortune
+- Here's My Top Dividend Stock for 2026 - The Motley Fool
 - New Samsung Galaxy S26 Ultra Leak Confirms Disappointing News - Forbes
-- Nintendo has cut the price of some upcoming amiibo - Nintendo Everything
 - 4 Devices Compatible With Your Car's USB Port That You Need To Know About - bgr.com
 - Saturday Pre-orders – Chaos Space Marines and Marauders running wild - Warhammer Community
-- Latest Epstein file photos appear to show former Prince Andrew on floor with female - CNN
-- These films took home top awards at Sundance — plus seven our critic loved - NPR
+- 30% More Efficient? The Math Behind Aero vs. Steel - Outside Magazine
+- Pete Davidson Joins ‘Saturday Night Live’ Cold Open to “Tighten Up” ICE Agents in Minneapolis - The Hollywood Reporter
