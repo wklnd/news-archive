@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 09:11_
+_Updated: 2026-02-01 09:55_
 
 ## Top Stories
 
 - Ryska kritiken efter Trumps Kuba-hot: Oacceptabelt - SVT Nyheter
-- Skyddsrum ska bemannas av 120 000 frivilliga - GP
-- Masoome: ”Spelar ingen roll vad polisen säger” - SvD
 - Planerna för Skanstorget överges – parkering blir kvar - GP
 - Här är allt som gjorde millennials så… Millennial - Sydsvenskan
-- Dödlig attack mot Dnipro - Västerbottens-Kuriren
+- Masoome: ”Spelar ingen roll vad polisen säger” - SvD
+- DN Direkt – Kvinna skadad i samband med knivrån - Dagens Nyheter
+- Skyddsrum ska bemannas av 120 000 frivilliga - GP
+- 01 februari 08.05, Sammanfattning natt, Östergötlands län - Polisen.se
 - 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
 - Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
-- Indragen söndagsstek på äldreboenden upprör kristet pensionärsförbund: ”Bedrövligt” - Dagen
-- Brand i flerbostadshus i Skäggetorp i Linköping - SVT Nyheter
-- Han jagades av ICE – såg Pretti skjutas - Dagens Nyheter
-- Iran varnar USA och Israel: Attackera inte - SVT Nyheter
-- Ledare: Det våras för det nordiska - NWT
+- DN Direkt – Ko påkörd av bil efter brand - Dagens Nyheter
+- DN Direkt – Domare beslutar att släppa femåriga Liam och hans pappa - Dagens Nyheter
+- Dödliga attacker mot Gaza - GP
+- KD-källor: Vara del av S-ledd regering inte längre uteslutet - Dagens Nyheter
+- Ser inte snöleoparden innan det är för sent - Expressen
 - Här är vinnarna på bostadsmarknaden senaste tio åren - Dagens Nyheter
+- Så beroende är svensk försvarsindustri av USA - SvD
 - Kristofer Ahlström: Hur dålig kan kundtjänst bli innan den blir direkt olaglig? - Dagens Nyheter
-- Bitcoin fortsätter dala - Aftonbladet
 - Struntar i att ha bil – så mycket pengar sparar de - Aftonbladet
 - De spelar Odin och Thor i "God of War" - MovieZine.se
 - Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
-- Samsungs nya e-pappersskärm är tillverkad med plankton. Drar noll watt i standby. - feber.se
 
 ## World News
 
@@ -67,9 +67,9 @@ _Updated: 2026-02-01 09:11_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -142,12 +142,12 @@ _Updated: 2026-02-01 09:11_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
