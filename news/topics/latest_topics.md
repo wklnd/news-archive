@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-01 07:43_
+_Updated: 2026-02-01 09:11_
 
 ## Top Stories
 
+- Ryska kritiken efter Trumps Kuba-hot: Oacceptabelt - SVT Nyheter
 - Skyddsrum ska bemannas av 120 000 frivilliga - GP
+- Masoome: ”Spelar ingen roll vad polisen säger” - SvD
 - Planerna för Skanstorget överges – parkering blir kvar - GP
-- Kungafamiljens kris: ”Kan ha en styvson i fängelse” - Dagens Nyheter
-- Patrik fick våningen på 178 kvadrat – som 22-åring - GP
-- Trump: Inleder samtal med Kuba - GP
-- KD-källor: Vara del av S-ledd regering inte längre uteslutet - Dagens Nyheter
+- Här är allt som gjorde millennials så… Millennial - Sydsvenskan
+- Dödlig attack mot Dnipro - Västerbottens-Kuriren
+- 31 januari 07.44, Sammanfattning natt, Jämtlands län - Polisen.se
 - Just nu: Större trafikolycka på E4 – stopp i ett körfält - UNT
-- Halt på vägarna – E6 stängdes av efter olycka - SVT Nyheter
-- Larmet: Brister i privat neuropsykologisk vård av barn - SVT Nyheter
-- Tomas Ramberg: Så kan Moderaterna dumpa Liberalerna - Dagens Nyheter
-- Hånat av Trump – här är Grönlands elithundspann - Västerbottens-Kuriren
+- Indragen söndagsstek på äldreboenden upprör kristet pensionärsförbund: ”Bedrövligt” - Dagen
+- Brand i flerbostadshus i Skäggetorp i Linköping - SVT Nyheter
 - Han jagades av ICE – såg Pretti skjutas - Dagens Nyheter
-- Domare: ICE får fortsätta arbeta i Minnesota - SVT Nyheter
-- Risk för kaos med sophämtningen – viktiga uppmaningen - Helagotland
-- Ingen ljusning för elpriser: ”Sent att binda” - Omni Ekonomi
+- Iran varnar USA och Israel: Attackera inte - SVT Nyheter
+- Ledare: Det våras för det nordiska - NWT
+- Här är vinnarna på bostadsmarknaden senaste tio åren - Dagens Nyheter
+- Kristofer Ahlström: Hur dålig kan kundtjänst bli innan den blir direkt olaglig? - Dagens Nyheter
+- Bitcoin fortsätter dala - Aftonbladet
+- Struntar i att ha bil – så mycket pengar sparar de - Aftonbladet
+- De spelar Odin och Thor i "God of War" - MovieZine.se
 - Häng med under ett år med MKBHD. Långfilmslång sammanfattning! - feber.se
-- Remember Me (2013) - FZ.se
 - Samsungs nya e-pappersskärm är tillverkad med plankton. Drar noll watt i standby. - feber.se
-- Assassin's Creed: Revelations (PlayStation 3) - FZ.se
-- Adam Lundgren utsedd till bästa skådespelare på Göteborgs filmfestival - Dagens Nyheter
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Minskat substansvärde för VNV Global: "Portföljen och bolagen går bra" - Dagens industri
+- Alfred Berg kammar hem fondpris - Finanswatch.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -92,7 +92,7 @@ _Updated: 2026-02-01 07:43_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -142,12 +142,12 @@ _Updated: 2026-02-01 07:43_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -160,5 +160,5 @@ _Updated: 2026-02-01 07:43_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
