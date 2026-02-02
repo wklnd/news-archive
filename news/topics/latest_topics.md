@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 07:12_
+_Updated: 2026-02-02 08:38_
 
 ## Top Stories
 
-- DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
-- Liam, 5, fick återvända hem – men allt fler barn i förvar - Dagens Nyheter
 - Elias är en av de svenska barnsoldaterna: ”Jag vill bara hem till mamma” - Dagens Nyheter
 - Stor trängsel på tåget mellan Älvängen och Göteborg – trots extrabussar - GP
-- Trumps bakslag – inte hänt på 34 år - Expressen
-- Åkesson (SD): ”Beredd att axla rollen som statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
+- Svaret om sonens vandel: ”Vill åt mig” - SvD
+- New York huttrar i värsta kylan på decennier - Dagens Nyheter
+- Fler avrättade för stor svindelhärva - GP
+- Liam, 5, fick återvända hem – men allt fler barn i förvar - Dagens Nyheter
 - Första månaden på åtta år utan dödsskjutning - SVT Nyheter
-- DN Direkt – Risk för gräsbrand i söder - Dagens Nyheter
-- Så var januari – extrem kyla och nederbörd - GP
-- Fylleri och larm om soteld – detta hände i natt - Östersunds-Posten
+- Åkesson (SD): ”Beredd att axla rollen som statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
+- Psykiatriker i Luleå larmar om fler våldsdåd kopplat till patienter - SVT Nyheter
+- 01 februari 08.05, Sammanfattning natt, Östergötlands län - polisen.se
 - Inflytandet flyttar österut – Kina har allt inom räckhåll - Dagens industri
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
-- Zelenskyj: Trepartsmöte i Abu Dhabi på onsdag - GP
+- Stopp efter lastbilsolycka på E18 utanför Örebro - SVT Nyheter
+- Svenska arbetsplatser testade kortare arbetsvecka: ”Gladare och bättre på jobbet” - SVT Nyheter
 - Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
-- Arbeta som Strategisk inköpare på Inköpssektionen - Upphandling24
-- Marie Nilsson lämnar X: ”Har ingenting med Tesla att göra” - Dagens Arbete
-- Nya rekommendationer för pneumokockvaccination - Vårdgivarguiden
+- Nya siffror: Bopriserna stiger – men ”ingen raketfart” - Dagens industri
+- Göteborgspolitiker får mothugg - Upphandling24
 - Ny “Iphone Flip” kan vara på väg - mobil.se
 - Intel-grafikkort får ett monsterlyft i Linux. Upp till 260 procent snabbare. - feber.se
+- Fitbit-användare får mer tid på sig att flytta sina konton - Teknikveckan
 
 ## World News
 
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Trump latest: Trump hails 'incredible' Davos trip - and promises Greenland 'deal' will be 'amazing' for US - Sky News
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
@@ -67,31 +67,32 @@ _Updated: 2026-02-02 07:12_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -149,15 +150,15 @@ _Updated: 2026-02-02 07:12_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
