@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-02 01:56_
+_Updated: 2026-02-02 05:31_
 
-- Can Tom Homan De-escalate ICE Tensions in Minnesota? - The New York Times
-- Bomb cyclone brings bitter cold and snow to the Southeast - NPR
-- Federal Courts Undercut Trump’s Mass Deportation Campaign - The New York Times
-- Rising crime, inequality and disenchantment: What’s at stake in Costa Rica’s elections - CNN
+- Starmer Urges Former Prince Andrew to Testify to Congress Over Epstein Ties - The New York Times
 - Two CBP Agents Identified in Alex Pretti Shooting - ProPublica
-- Opinion | Liam Ramos Was Just One of Hundreds of Children at This Detention Center. Release Them All. - The New York Times
-- 5-year-old Liam Conejo Ramos and father return to Minnesota from ICE facility in Texas - AP News
-- Democrats post early fundraising edge in marquee 2026 Senate races - Politico
+- Don Lemon’s arrest balances freedom of religion vs. freedom of the press, Todd Blanche says - Politico
+- Rising crime, inequality and disenchantment: What’s at stake in Costa Rica’s elections - CNN
+- US is in talks with Cuban leadership, says Trump, after blockade threats - The Guardian
+- Can Tom Homan De-escalate ICE Tensions in Minnesota? - The New York Times
 - ‘Historic storm’ delivers biggest snowfall in decades for North Carolina - The Washington Post
-- Czechs rally to support president in his growing rift with government - Reuters
+- Federal Courts Undercut Trump’s Mass Deportation Campaign - The New York Times
+- Democrats post early fundraising edge in marquee 2026 Senate races - Politico
 - Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC
+- Starmer hopes his China trip will begin the thaw after recent ice age - The Guardian
+- The violence in Iran could lead to civil war - The Economist
 - Iran updates: Iran classes EU armies as terrorist groups - DW.com
-- What Elena Rybakina can do to Aryna Sabalenka which makes her panic according to CoCo Vandeweghe - Tennishead
-- 3 Vanguard ETFs to Buy to Protect Your Portfolio from a Potential Stock Market Crash - The Motley Fool
-- This 'Outdated' IBM Technology Just Did Something It Hasn't Done in 20 Years - The Motley Fool
+- Top energy expert puts odds of U.S. attack on Iran at 75% — 'this one is real' - Fortune
+- Target’s New C.E.O. Faces Hometown Crisis as He Begins Turnaround Effort - The New York Times
+- Japan markets on edge over looser fiscal policy, ex-currency diplomat Watanabe says - Reuters
 - Week ahead: AMZN, GOOG, PLTR, AMD, PFE, DIS, PYPL, ABBV, QCOM, SMCI, MRK, PEP, UBER, PM - Seeking Alpha
-- Skipped high school, now signs off on 16,000 layoffs at Amazon - Ynetnews
-- The Reason Why OLED TVs Are So Expensive - bgr.com
-- The video games industry is killing itself and no one seems to care - Reader's Feature - Metro.co.uk
+- The Science of the Modern Base Season: Why Zone 2 Isn’t Enough Anymore - Outside Magazine
 - Top 8 Players and Decks of Pro Tour Lorwyn Eclipsed - MAGIC PLAY
+- Cloud storage payment scam floods inboxes with fake renewals - BleepingComputer
