@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 01:09_
+_Updated: 2026-02-03 01:53_
 
 ## Top Stories
 
-- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
 - Chefläkarnas larm stoppade nya journalsystemet: ”Finns brister” - Sydsvenskan
+- Unicef: 4 000 barn behöver vård utanför Gaza - Dagens Nyheter
 - Två män häktade för dubbla inbrott - Östersunds-Posten
-- LEDARE: Socialtjänstens prestige förstör människors liv - Ekuriren
-- Förundersökning nedlagd om misstänkt mordförsök i Växjö - SVT Nyheter
+- (+) Så splittrad är kyrkan i ett spänt USA - Kyrkans Tidning
 - Strömmer håller nollan mot gängen - SvD
+- Hoppet är det sista som överger en moderat - Aftonbladet
 - Varför pratar KD-ledaren så lite om Gud? - Sydsvenskan
-- Kvinna död efter arbetsplatsolycka i Staffanstorp - SVT Nyheter
 - Efter misshandeln – Skolinspektionen avslutar ärendet på Lundsberg - NWT
 - Flera böter för Vilhelminaförare - Västerbottens-Kuriren
-- Grodkostymer och general­strejk vapen mot Trump och ICE - Arbetaren
-- Bonusprinsen Marius häktas misstänkt för nya brott - SVT Nyheter
+- MISSA INTE: Här kan du få feriejobb… - Oskarshamns-Nytt
 - Kievbor flyr sina hem i jakt på värme - Corren
 - Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
+- Uppgift i Iran: Ska inleda kärnsamtal med USA - Västerbottens-Kuriren
+- Trump stänger Kennedy Center i två år – ska renoveras - Dagens Nyheter
 - Guldpriset sjunker – SVT:s Alexander Norén svarade på frågor - SVT Nyheter
 - Nya larmet – antalet vräkningar rekordökar - Aftonbladet
 - 2025 blev rekordår för turismen i Värmland: ”Oerhört glädjande” - NWT
@@ -67,9 +67,9 @@ _Updated: 2026-02-03 01:09_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -89,9 +89,9 @@ _Updated: 2026-02-03 01:09_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -102,6 +102,7 @@ _Updated: 2026-02-03 01:09_
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -111,11 +112,10 @@ _Updated: 2026-02-03 01:09_
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
