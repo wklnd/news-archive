@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 13:11_
+_Updated: 2026-02-02 13:56_
 
 ## Top Stories
 
-- Elias är en av de svenska barnsoldaterna: ”Jag vill bara hem till mamma” - Dagens Nyheter
-- Varningen: använda militären vid val - SvD
+- Första månaden på åtta år utan dödsskjutning - SVT Nyheter
 - Då måste Läkare utan gränser lämna Gaza - Västerbottens-Kuriren
-- Rån mot guldaffär i Varberg – privatperson grep maskerad kvinna - SVT Nyheter
+- Forssell vill se retroaktivt vandelskrav - GP
 - Forssell vill se retroaktivt vandelskrav – Senaste nytt om valet 2026 - SVT Nyheter
-- Iran kallar upp EU:s ambassadörer - GP
+- Ny ansökningsomgång inom Klimatklivet - Länsstyrelsen
+- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
 - Två personer hittade döda i Falköpings kommun – polisen utreder mord - SVT Nyheter
 - Kvinna misstänks ha förberett mord - Västerbottens-Kuriren
-- Fler kan inte betala hyran – vräkningarna ökar - Västerbottens-Kuriren
 - Sommarnotarie till Umeå tingsrätt - Sveriges Domstolar
+- Svenska arbetsplatser testade kortare arbetsvecka: ”Gladare och bättre på jobbet” - SVT Nyheter
 - Mexiko skickar nödhjälp till Kuba - SVT Nyheter
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
 - Besökte Epstein – lämnar svenska UNHCR - Altinget.se
-- DN Direkt – Läkare straffades för fackligt uppdrag – ersätts av regionen - Dagens Nyheter
-- Röster från Sverige om EU-rätten - Upphandling24
+- Liam, 5, fick återvända hem – men allt fler barn i förvar - Dagens Nyheter
+- Nya larmet – antalet vräkningar rekordökar - Aftonbladet
 - Styrelseavhopp skakar Sensodetect – aktien störtdök - Medtech Magazine
+- Röster från Sverige om EU-rätten - Upphandling24
+- Nya AI-fenomenet golvar experten: ”Vansinnigt” - Aftonbladet
 - Nomineringar till förtroendeuppdrag i Elektrikerna inför kongressen 2026 - Elektrikerna
 - LG slutar också tillverka 8K-tv-apparater - m3.se
-- Hyundai och Kia kan få CarPlay Ultra senare i år. Finns bara i en Aston Martin just nu. - feber.se
-- LEGO släpper supersöt byggbar Nalle Puh - Teknikveckan
 
 ## World News
 
