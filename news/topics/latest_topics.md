@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 08:38_
+_Updated: 2026-02-02 10:01_
 
 ## Top Stories
 
-- Elias är en av de svenska barnsoldaterna: ”Jag vill bara hem till mamma” - Dagens Nyheter
+- Klockan 12.33, 4 februari, 2025: Ord från två poliser först på plats - polisen.se
+- DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
 - Stor trängsel på tåget mellan Älvängen och Göteborg – trots extrabussar - GP
-- Svaret om sonens vandel: ”Vill åt mig” - SvD
-- New York huttrar i värsta kylan på decennier - Dagens Nyheter
-- Fler avrättade för stor svindelhärva - GP
-- Liam, 5, fick återvända hem – men allt fler barn i förvar - Dagens Nyheter
+- Restaurangbåten Feskar Brittas Kro har sjunkit - GP
+- Forssell vill att förslaget om bristande vandel ska gälla retroaktivt - Omni
+- Grammystjärnornas protester mot ICE - GP
+- Elias är en av de svenska barnsoldaterna: ”Jag vill bara hem till mamma” - Dagens Nyheter
 - Första månaden på åtta år utan dödsskjutning - SVT Nyheter
-- Åkesson (SD): ”Beredd att axla rollen som statsminister” – Senaste nytt om valet 2026 - SVT Nyheter
 - Psykiatriker i Luleå larmar om fler våldsdåd kopplat till patienter - SVT Nyheter
-- 01 februari 08.05, Sammanfattning natt, Östergötlands län - polisen.se
+- Stopp efter lastbilsolycka på E18 utanför Örebro - SVT Nyheter
+- New York huttrar i värsta kylan på decennier - Dagens Nyheter
 - Inflytandet flyttar österut – Kina har allt inom räckhåll - Dagens industri
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Stopp efter lastbilsolycka på E18 utanför Örebro - SVT Nyheter
-- Svenska arbetsplatser testade kortare arbetsvecka: ”Gladare och bättre på jobbet” - SVT Nyheter
-- Otestade kinesiska maskiner bidrog till Northvolts konkurs - Dagens Nyheter
-- Nya siffror: Bopriserna stiger – men ”ingen raketfart” - Dagens industri
-- Göteborgspolitiker får mothugg - Upphandling24
-- Ny “Iphone Flip” kan vara på väg - mobil.se
-- Intel-grafikkort får ett monsterlyft i Linux. Upp till 260 procent snabbare. - feber.se
-- Fitbit-användare får mer tid på sig att flytta sina konton - Teknikveckan
+- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
+- Färre konkurser i januari - Folkbladet
+- Nya AI-fenomenet golvar experten: ”Vansinnigt” - Aftonbladet
+- Därför kan USA inte använda F-35-planen som utpressning mot Finland - Yle
+- Fler kan inte betala hyran – vräkningarna ökar - SvD
+- 8K-upplösning på tv-apparater på väg att dö ut. För dyra och det finns inget att titta på. - feber.se
+- Så får du din ssd att hålla längre – 6 enkla tips - PC för Alla
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-02-02 08:38_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -44,9 +43,10 @@ _Updated: 2026-02-02 08:38_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
 
@@ -73,26 +73,25 @@ _Updated: 2026-02-02 08:38_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
