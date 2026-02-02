@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 10:01_
+_Updated: 2026-02-02 11:09_
 
 ## Top Stories
 
 - Klockan 12.33, 4 februari, 2025: Ord från två poliser först på plats - polisen.se
 - DN Direkt – Støre: Dåligt omdöme av kronprinsessan - Dagens Nyheter
-- Stor trängsel på tåget mellan Älvängen och Göteborg – trots extrabussar - GP
-- Restaurangbåten Feskar Brittas Kro har sjunkit - GP
-- Forssell vill att förslaget om bristande vandel ska gälla retroaktivt - Omni
-- Grammystjärnornas protester mot ICE - GP
 - Elias är en av de svenska barnsoldaterna: ”Jag vill bara hem till mamma” - Dagens Nyheter
-- Första månaden på åtta år utan dödsskjutning - SVT Nyheter
+- ”Minnesota är en generalrepetition” - SvD
+- Stor trängsel på tåget mellan Älvängen och Göteborg – trots extrabussar - GP
+- Forssell vill se retroaktivt vandelskrav - GP
+- 02 februari 07.36, Sammanfattning natt, Jämtlands län - polisen.se
 - Psykiatriker i Luleå larmar om fler våldsdåd kopplat till patienter - SVT Nyheter
 - Stopp efter lastbilsolycka på E18 utanför Örebro - SVT Nyheter
+- Sköt med hagelgevär – åtalas för försök till grov misshandel - SVT Nyheter
 - New York huttrar i värsta kylan på decennier - Dagens Nyheter
-- Inflytandet flyttar österut – Kina har allt inom räckhåll - Dagens industri
+- Grammystjärnornas protester mot ICE - SVT Nyheter
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
+- Liam, 5, fick återvända hem – men allt fler barn i förvar - Dagens Nyheter
 - Färre konkurser i januari - Folkbladet
 - Nya AI-fenomenet golvar experten: ”Vansinnigt” - Aftonbladet
 - Därför kan USA inte använda F-35-planen som utpressning mot Finland - Yle
-- Fler kan inte betala hyran – vräkningarna ökar - SvD
+- Fyra dagars vecka gav färre sjukskrivningar – och samma produktivitet - tidningensyre.se
+- 43-åring startar nytt konsultföretag i Umeå - Folkbladet
 - 8K-upplösning på tv-apparater på väg att dö ut. För dyra och det finns inget att titta på. - feber.se
-- Så får du din ssd att hålla längre – 6 enkla tips - PC för Alla
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-02-02 10:01_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Handelsbanken lanserar ny global indexfond - Cision News
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -76,6 +76,7 @@ _Updated: 2026-02-02 10:01_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -98,23 +99,23 @@ _Updated: 2026-02-02 10:01_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Engineering Health 2024 - Chalmers
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Diamyd Medical går vidare med ett accelererat godkännandeförfarande för precisionsmedicin för typ 1-diabetes - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,21 +124,21 @@ _Updated: 2026-02-02 10:01_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -149,8 +150,8 @@ _Updated: 2026-02-02 10:01_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Här är världens största jordbruk - ATL
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
@@ -158,6 +159,6 @@ _Updated: 2026-02-02 10:01_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
