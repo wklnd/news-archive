@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 17:59_
+_Updated: 2026-02-02 19:10_
 
 ## Top Stories
 
 - Bonusprinsen Marius häktas misstänkt för nya brott - SVT Nyheter
-- Vårdcentral stoppas – 3 800 patienter drabbas - GP
-- Tonåringar på väg till brandattentat i Malmö greps - Sydsvenskan
-- Därför ligger ett franskt krigsfartyg i Göteborgs hamn - GP
-- Första månaden på åtta år utan dödsskjutning - SVT Nyheter
-- Två häktade misstänkta för inbrott i Nälden och Hallviken - SVT Nyheter
-- Två personer hittade döda i Falköpings kommun – polisen utreder mord - SVT Nyheter
+- Förundersökning nedlagd om misstänkt mordförsök i Växjö - SVT Nyheter
+- Chefläkarnas larm stoppade nya journalsystemet: ”Finns brister” - Sydsvenskan
+- Regeringen slopar betyget F – Senaste nytt om valet 2026 - SVT Nyheter
 - Sats tar bort maskin – efter allvarlig olycka - Expressen
-- Barn misstänks för misshandel och sexövergrepp – efter Tiktok-lek - Dagens Nyheter
-- LEDARE: Räkna inte ut Simona Mohamsson (L) - Norran
-- Ung kenyan hittad död i Donetsk – familjen trodde att han gästarbetade i Qatar - Dagens Nyheter
+- Strid om hur mycket lärare ska arbeta - Dagens Nyheter
+- Kvinna död efter arbetsplatsolycka i Staffanstorp - SVT Nyheter
+- Två personer hittade döda i Falköpings kommun – polisen utreder mord - SVT Nyheter
+- Man försökte locka in barn i bil i Täby - Omni
+- För kallt på Campus Manilla – högstadieelever hemskickade - SVT Nyheter
 - Grönlands ledare: Vi lever i ständig osäkerhet - Västerbottens-Kuriren
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Allvarlig arbetsplatsolycka i Staffanstorp - Expressen
+- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
+- Ung kenyan hittad död i Donetsk – familjen trodde att han gästarbetade i Qatar - Dagens Nyheter
 - ”Alltså, vem köper en väska för 50 000?” - SvD
 - Bank of America: 37 procents uppsida i Wallenbergs jätte - Dagens industri
-- Studie: Bra att korta arbetsveckan - SVT Nyheter
+- Europeiska gaspriser faller när mildare väder minskar försörjningsoro av Investing.com - Investing.com Sverige
 - Nya larmet – antalet vräkningar rekordökar - Aftonbladet
+- Super Mario Galaxy Filmen – Bio i Lund - Kino.nu
 - Nomineringar till förtroendeuppdrag i Elektrikerna inför kongressen 2026 - Elektrikerna
-- Nya MacBook Pros kan vara nära. Kan lanseras i samband med macOS 26.3. - feber.se
 
 ## World News
 
@@ -34,6 +34,7 @@ _Updated: 2026-02-02 17:59_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -45,7 +46,6 @@ _Updated: 2026-02-02 17:59_
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
@@ -73,17 +73,16 @@ _Updated: 2026-02-02 17:59_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-02-02 17:59_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -102,11 +102,11 @@ _Updated: 2026-02-02 17:59_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
@@ -123,7 +123,9 @@ _Updated: 2026-02-02 17:59_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
@@ -131,8 +133,6 @@ _Updated: 2026-02-02 17:59_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
