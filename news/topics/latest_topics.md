@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 19:10_
+_Updated: 2026-02-02 20:04_
 
 ## Top Stories
 
 - Bonusprinsen Marius häktas misstänkt för nya brott - SVT Nyheter
-- Förundersökning nedlagd om misstänkt mordförsök i Växjö - SVT Nyheter
+- Trump: Handelsavtal med Indien klart - GP
+- Mohamsson efter avhoppen: ”Inte konstigt” - Omni
+- JUST NU: Man livshotande skadad efter olyckan - NT
 - Chefläkarnas larm stoppade nya journalsystemet: ”Finns brister” - Sydsvenskan
-- Regeringen slopar betyget F – Senaste nytt om valet 2026 - SVT Nyheter
-- Sats tar bort maskin – efter allvarlig olycka - Expressen
-- Strid om hur mycket lärare ska arbeta - Dagens Nyheter
+- Förundersökning nedlagd om misstänkt mordförsök i Växjö - SVT Nyheter
 - Kvinna död efter arbetsplatsolycka i Staffanstorp - SVT Nyheter
 - Två personer hittade döda i Falköpings kommun – polisen utreder mord - SVT Nyheter
-- Man försökte locka in barn i bil i Täby - Omni
-- För kallt på Campus Manilla – högstadieelever hemskickade - SVT Nyheter
-- Grönlands ledare: Vi lever i ständig osäkerhet - Västerbottens-Kuriren
+- Två häktade misstänkta för inbrott i Nälden och Hallviken - SVT Nyheter
+- Regeringen slopar betyget F – Senaste nytt om valet 2026 - SVT Nyheter
+- Första Gazaborna har kommit till Egypten - GP
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
-- Ung kenyan hittad död i Donetsk – familjen trodde att han gästarbetade i Qatar - Dagens Nyheter
-- ”Alltså, vem köper en väska för 50 000?” - SvD
-- Bank of America: 37 procents uppsida i Wallenbergs jätte - Dagens industri
+- Han jagades av ICE – såg Pretti skjutas - Dagens Nyheter
+- Israel stoppar Läkare utan gränser i Gaza - Läkartidningen
+- Uppgifter: Trump vill satsa över 100 miljarder på strategisk metalldepå - Dagens industri
 - Europeiska gaspriser faller när mildare väder minskar försörjningsoro av Investing.com - Investing.com Sverige
+- ”Alltså, vem köper en väska för 50 000?” - SvD
 - Nya larmet – antalet vräkningar rekordökar - Aftonbladet
 - Super Mario Galaxy Filmen – Bio i Lund - Kino.nu
 - Nomineringar till förtroendeuppdrag i Elektrikerna inför kongressen 2026 - Elektrikerna
@@ -143,22 +143,22 @@ _Updated: 2026-02-02 19:10_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - lrf.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
