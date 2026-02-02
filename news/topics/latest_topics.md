@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 17:08_
+_Updated: 2026-02-02 17:59_
 
 ## Top Stories
 
-- Förundersökning nedlagd om misstänkt mordförsök i Växjö - SVT Nyheter
-- Därför var det avspärrat runt polishuset i Malmö i lördags - Sydsvenskan
+- Bonusprinsen Marius häktas misstänkt för nya brott - SVT Nyheter
+- Vårdcentral stoppas – 3 800 patienter drabbas - GP
+- Tonåringar på väg till brandattentat i Malmö greps - Sydsvenskan
 - Därför ligger ett franskt krigsfartyg i Göteborgs hamn - GP
-- Regeringen slopar betyget F – Senaste nytt om valet 2026 - SVT Nyheter
-- Iran hotar med ”regionalt krig” om USA attackerar - Dagens Nyheter
-- Två genom isen i Hässelby – förda till sjukhus - Expressen
+- Första månaden på åtta år utan dödsskjutning - SVT Nyheter
+- Två häktade misstänkta för inbrott i Nälden och Hallviken - SVT Nyheter
 - Två personer hittade döda i Falköpings kommun – polisen utreder mord - SVT Nyheter
+- Sats tar bort maskin – efter allvarlig olycka - Expressen
 - Barn misstänks för misshandel och sexövergrepp – efter Tiktok-lek - Dagens Nyheter
-- Kvinna misstänks ha förberett mord - Västerbottens-Kuriren
 - LEDARE: Räkna inte ut Simona Mohamsson (L) - Norran
 - Ung kenyan hittad död i Donetsk – familjen trodde att han gästarbetade i Qatar - Dagens Nyheter
-- Gränsövergången vid Rafah öppnad - SVT Nyheter
+- Grönlands ledare: Vi lever i ständig osäkerhet - Västerbottens-Kuriren
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Då måste Läkare utan gränser lämna Gaza - Västerbottens-Kuriren
+- Allvarlig arbetsplatsolycka i Staffanstorp - Expressen
 - ”Alltså, vem köper en väska för 50 000?” - SvD
 - Bank of America: 37 procents uppsida i Wallenbergs jätte - Dagens industri
-- Forskare: Så hårt slår kortad arbetstid – ”Motsvarar tre riktigt rejäla lågkonjunkturer” - Tidningen Näringslivet
+- Studie: Bra att korta arbetsveckan - SVT Nyheter
 - Nya larmet – antalet vräkningar rekordökar - Aftonbladet
 - Nomineringar till förtroendeuppdrag i Elektrikerna inför kongressen 2026 - Elektrikerna
 - Nya MacBook Pros kan vara nära. Kan lanseras i samband med macOS 26.3. - feber.se
@@ -32,21 +32,21 @@ _Updated: 2026-02-02 17:08_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -99,22 +99,22 @@ _Updated: 2026-02-02 17:08_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Engineering Health 2024 - Chalmers
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -156,9 +156,9 @@ _Updated: 2026-02-02 17:08_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
