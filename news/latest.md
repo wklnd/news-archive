@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-03 01:06_
+_Updated: 2026-02-03 01:58_
 
-- Trump Had Unusual Call With F.B.I. Agents After Election Center Search - The New York Times
-- Trump: ‘We should take over the voting’ - Democracy Docket
-- U.S.-Iran nuclear talks planned for Friday amid military buildup - Axios
-- The Trump Administration exempts new nuclear reactors from environmental review - NPR
-- Refugees relive the trauma they fled as ICE targets them in Minnesota - NPR
+- Tulsi Gabbard accused of trying to 'bury' whistleblower complaint - NBC News
+- Ed Martin: Trump’s one-time weaponization chief is expected to depart Justice Department in coming weeks - CNN
+- Trump Drops Demand for Cash From Harvard After Stiff Resistance - The New York Times
 - N.Y. Republican met with jeers over ICE tactics during town hall in swing district - NPR
-- New Epstein files reveal he may have trafficked girls to others despite official denials - The Guardian
-- Justice Dept. demotes Ed Martin, stripping Trump ally of most authority - The Washington Post
-- Father of 5-year-old detained in Minnesota disputes government assertion he abandoned the boy - AP News
-- ‘It’s Been Brutal’: Twin Cities Economy Suffers Under ICE Crackdown - The New York Times
+- The Trump Administration exempts new nuclear reactors from environmental review - NPR
+- Epstein survivors seek proper redactions in released files; Trump again denies visiting private island – US politics live - The Guardian
+- Ohio Church Swells With Support for Haitians as Deportation Threat Looms - The New York Times
+- U.S. and Iranian Officials to Meet as Trump’s Threats Loom - The New York Times
 - What Jared Kushner's 'New Gaza' plan includes, and what it leaves out - NPR
 - Trump Administration Sued Over Ban on Immigration From 75 Countries - The New York Times
-- Tens of thousands back Czech president amid cabinet dispute - DW.com
+- Swiss Alpine bar fire claims 41st victim, an 18-year-old Swiss national - NPR
 - Paying For A Selfie: Rome Starts Charging For Trevi Fountain - Barron's
-- Elon Musk's SpaceX reportedly combining with xAI ahead of potential IPO - CNBC
+- Friday's jobs report will be delayed because of the partial government shutdown - CNBC
+- In 2026, many employers are ditching merit-based pay bumps in favor of ‘peanut butter raises’ - Fortune
+- Gold and silver prices fall but FTSE 100 hits record high - BBC
 - SoFi Stock Slides after Earnings, but Mizuho Says ‘Buy on Weakness’ - TipRanks
-- Here are the retailers with the most store openings and closures planned for 2026 - CNBC
-- AI layoffs or ‘AI-washing’? - TechCrunch
-- I tried a Claude Code alternative that's local, open source, and completely free - how it works - ZDNET
-- Android Auto 16.1 Now Available for Download With an Unannounced Change - autoevolution
+- Firefox is adding a switch to turn AI features off - The Verge
+- Microsoft Stock (NASDAQ:MSFT) Falters on Hibernation Fix Flop, Unexpected Xbox Permaban - TipRanks
+- Google releases ‘Desktop Camera’ app that’s seemingly for Android PCs - 9to5Google
+- New iPhone Fold specs revealed, including design, cameras, more - 9to5Mac
