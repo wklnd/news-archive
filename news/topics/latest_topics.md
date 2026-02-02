@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-02 12:12_
+_Updated: 2026-02-02 13:11_
 
 ## Top Stories
 
 - Elias är en av de svenska barnsoldaterna: ”Jag vill bara hem till mamma” - Dagens Nyheter
 - Varningen: använda militären vid val - SvD
-- Forssell vill se retroaktivt vandelskrav - GP
-- Stor trängsel på tåget mellan Älvängen och Göteborg – trots extrabussar - GP
-- Minst 15 döda efter rysk attack mot buss - SVT Nyheter
-- Kvinna misstänks för förberedelse till mord - Omni
-- 02 februari 07.36, Sammanfattning natt, Jämtlands län - polisen.se
-- Psykiatriker i Luleå larmar om fler våldsdåd kopplat till patienter - SVT Nyheter
-- Stopp efter lastbilsolycka på E18 utanför Örebro - SVT Nyheter
-- Svartsjuka är inte romantiskt - polisen.se
-- New York huttrar i värsta kylan på decennier - Dagens Nyheter
-- Besökte Epstein – lämnar svenska UNHCR - Altinget.se
+- Då måste Läkare utan gränser lämna Gaza - Västerbottens-Kuriren
+- Rån mot guldaffär i Varberg – privatperson grep maskerad kvinna - SVT Nyheter
+- Forssell vill se retroaktivt vandelskrav – Senaste nytt om valet 2026 - SVT Nyheter
+- Iran kallar upp EU:s ambassadörer - GP
+- Två personer hittade döda i Falköpings kommun – polisen utreder mord - SVT Nyheter
+- Kvinna misstänks ha förberett mord - Västerbottens-Kuriren
+- Fler kan inte betala hyran – vräkningarna ökar - Västerbottens-Kuriren
+- Sommarnotarie till Umeå tingsrätt - Sveriges Domstolar
+- Mexiko skickar nödhjälp till Kuba - SVT Nyheter
 - DN Direkt – Man död i trafikolycka i på E20 - Dagens Nyheter
-- Högerkandidat valsegrare i Costa Rica - SVT Nyheter
-- Nya AI-fenomenet golvar experten: ”Vansinnigt” - Aftonbladet
-- Färre konkurser – men oförändrad nivå i handeln - Market.se
-- Därför kan USA inte använda F-35-planen som utpressning mot Finland - Yle
+- Besökte Epstein – lämnar svenska UNHCR - Altinget.se
+- DN Direkt – Läkare straffades för fackligt uppdrag – ersätts av regionen - Dagens Nyheter
+- Röster från Sverige om EU-rätten - Upphandling24
 - Styrelseavhopp skakar Sensodetect – aktien störtdök - Medtech Magazine
 - Nomineringar till förtroendeuppdrag i Elektrikerna inför kongressen 2026 - Elektrikerna
+- LG slutar också tillverka 8K-tv-apparater - m3.se
 - Hyundai och Kia kan få CarPlay Ultra senare i år. Finns bara i en Aston Martin just nu. - feber.se
+- LEGO släpper supersöt byggbar Nalle Puh - Teknikveckan
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2026-02-02 12:12_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Umeå children in worldwide school project on AI - Umeå universitet
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -122,7 +122,6 @@ _Updated: 2026-02-02 12:12_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
@@ -133,12 +132,13 @@ _Updated: 2026-02-02 12:12_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
