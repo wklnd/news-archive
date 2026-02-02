@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-02 20:21_
+_Updated: 2026-02-03 01:06_
 
 - Trump Had Unusual Call With F.B.I. Agents After Election Center Search - The New York Times
-- The Education Department's efforts to fire staff cost over $28 million, watchdog says - NPR
-- Hemp and marijuana are the same species. So why all the different laws? - NPR
-- Columbia Heights Public Schools closed Monday due to bomb threat - CBS News
-- Scoop: U.S.-Iran nuclear talks expected Friday amid military buildup - Axios
-- How Balochistan attacks threaten Pakistan’s promises to China, Trump - Al Jazeera
-- How the politics of age are playing out in Houston - The Texas Tribune
-- Can Trump Force Blue Cities to Cooperate With ICE? - The New York Times
-- Elephant kills tourist at national park in Thailand, third fatality linked to the same animal - CBS News
-- Ukraine updates: Russia steps up attacks on transport routes - dw.com
+- Trump: ‘We should take over the voting’ - Democracy Docket
+- U.S.-Iran nuclear talks planned for Friday amid military buildup - Axios
+- The Trump Administration exempts new nuclear reactors from environmental review - NPR
+- Refugees relive the trauma they fled as ICE targets them in Minnesota - NPR
+- N.Y. Republican met with jeers over ICE tactics during town hall in swing district - NPR
+- New Epstein files reveal he may have trafficked girls to others despite official denials - The Guardian
+- Justice Dept. demotes Ed Martin, stripping Trump ally of most authority - The Washington Post
+- Father of 5-year-old detained in Minnesota disputes government assertion he abandoned the boy - AP News
+- ‘It’s Been Brutal’: Twin Cities Economy Suffers Under ICE Crackdown - The New York Times
+- What Jared Kushner's 'New Gaza' plan includes, and what it leaves out - NPR
+- Trump Administration Sued Over Ban on Immigration From 75 Countries - The New York Times
+- Tens of thousands back Czech president amid cabinet dispute - DW.com
 - Paying For A Selfie: Rome Starts Charging For Trevi Fountain - Barron's
-- EU must become a 'genuine federation' to avoid deindustrialisation and decline, Draghi says - Euronews.com
-- Target’s brand new CEO faces a sales slump and turmoil in Minneapolis - CNN
-- Tesla (TSLA) can’t find the bottom in Europe as 2026 starts with another brutal decline - Electrek
-- Hedge funds trim North America exposure amid trade tensions, dollar pain and megacap weakness - Reuters
-- Gold and silver prices seesaw as FTSE 100 hits record high - The Guardian
-- New iPhone Fold specs revealed, including design, cameras, more - 9to5Mac
-- Google releases ‘Desktop Camera’ app that’s seemingly for Android PCs - 9to5Google
-- Sony patent describes a touchscreen PlayStation controller with movable buttons - VideoCardz.com
-- ICYMI: Paper Mario-Styled RPG 'Escape From Ever After' Has Launched On Switch - Nintendo Life
+- Elon Musk's SpaceX reportedly combining with xAI ahead of potential IPO - CNBC
+- SoFi Stock Slides after Earnings, but Mizuho Says ‘Buy on Weakness’ - TipRanks
+- Here are the retailers with the most store openings and closures planned for 2026 - CNBC
+- AI layoffs or ‘AI-washing’? - TechCrunch
+- I tried a Claude Code alternative that's local, open source, and completely free - how it works - ZDNET
+- Android Auto 16.1 Now Available for Download With an Unannounced Change - autoevolution
