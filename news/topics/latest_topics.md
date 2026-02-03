@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 21:59_
+_Updated: 2026-02-03 23:02_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Minst två dödade i rysk attack mot Zaporizjzja - Dagens Nyheter
-- KRÖNIKA: Skojar du, mannen? SVT:s fulklippning av Showan är ett lågvattenmärke - Sydsvenskan
+- Direkt – Kriget i Ukraina – Rutte i Kiev: Ryssland menar inte allvar om fred - Dagens Nyheter
+- Larm om explosion i Malmö - SVT Nyheter
+- Två lastbilar i krock – förarna till sjukhus - Expressen
+- Minst åtta dödade i drönarattack i Sudan - GP
+- Vårdcentral stoppas – 3 800 patienter drabbas - GP
+- Kulturbudgeten krymper – igen - tidningensyre.se
 - Ny studie: Kortare arbetstid ledde till bättre hälsa och arbetsförmåga - Dagens Arena
-- Sverige och Danmark beställer luftvärn åt Ukraina - SVT Nyheter
-- Michael Winiarski: Det talar för och emot att USA anfaller Iran - Dagens Nyheter
-- Trumps miljardkrav efter nyhetsartikeln - Expressen
-- Busch raderade bild med Bill Gates - Västerbottens-Kuriren
-- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
 - Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
-- 03 februari 07.12, Sammanfattning natt, Norrbottens län - Polisen.se
-- USA: Har skjutit ner iransk drönare - SVT Nyheter
+- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
+- Skellefteå tingsrätt söker sommarnotarie - Sveriges Domstolar
+- Michael Winiarski: Det talar för och emot att USA anfaller Iran - Dagens Nyheter
+- Bara 12 personer fick lämna Gaza första dagen - Hufvudstadsbladet
+- Trump: Vi kräver en miljard dollar - Expressen
 - HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
-- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
-- Grammystjärnornas protester mot ICE - GP
 - Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
 - Skatteverket lanserar ny tjänst för att deklarera - SVT Nyheter
-- Legendarens varning: ”Vi är på randen till ett kapitalkrig” - EFN
-- X-razzia – fransk åklagare vill fråga ut Musk - Sydsvenskan
+- Paypal missar målet – vd sparkas och aktien rasar - GP
+- En miljon råttor fångades – så slipper du dem - Aftonbladet
 - Cookie Policy (EU) - Vänsterpartiet
-- "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
+- IKEA släpper en riktigt grisig högtalare - Teknikveckan
 
 ## World News
 
@@ -62,29 +62,29 @@ _Updated: 2026-02-03 21:59_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -101,20 +101,20 @@ _Updated: 2026-02-03 21:59_
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- E-hälsa inom EU - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -153,12 +153,12 @@ _Updated: 2026-02-03 21:59_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
