@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 23:02_
+_Updated: 2026-02-03 23:58_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Rutte i Kiev: Ryssland menar inte allvar om fred - Dagens Nyheter
 - Larm om explosion i Malmö - SVT Nyheter
-- Två lastbilar i krock – förarna till sjukhus - Expressen
-- Minst åtta dödade i drönarattack i Sudan - GP
+- Direkt – Kriget i Ukraina – Rutte i Kiev: Ryssland menar inte allvar om fred - Dagens Nyheter
+- Kallas ”tyrann” efter migrationsbeskedet - SvD
+- Gaddafis son dödad av kommandostyrka - GP
+- Klart för återöppning i USA - Aftonbladet
 - Vårdcentral stoppas – 3 800 patienter drabbas - GP
-- Kulturbudgeten krymper – igen - tidningensyre.se
 - Ny studie: Kortare arbetstid ledde till bättre hälsa och arbetsförmåga - Dagens Arena
 - Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
-- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
+- Umeå kommun bestrider uppsagt avtal om visselblåsning - Folkbladet
 - Skellefteå tingsrätt söker sommarnotarie - Sveriges Domstolar
-- Michael Winiarski: Det talar för och emot att USA anfaller Iran - Dagens Nyheter
-- Bara 12 personer fick lämna Gaza första dagen - Hufvudstadsbladet
-- Trump: Vi kräver en miljard dollar - Expressen
-- HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
+- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
+- ”Acceptera Mette-Marit som drottning eller avstå från monarkin” - Yle
+- USA: Har skjutit ner iransk drönare - SVT Nyheter
+- Femåring utsatt – åtal i fransk våldtäktsskandal - GP
 - Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
 - Skatteverket lanserar ny tjänst för att deklarera - SVT Nyheter
-- Paypal missar målet – vd sparkas och aktien rasar - GP
-- En miljon råttor fångades – så slipper du dem - Aftonbladet
+- Jalal vann mot Nordea − nej till ersättning blev ja - SvD
+- Pappa berättade inte om skatteskulden – måste jag betala den nu när han avlidit? - Expressen
 - Cookie Policy (EU) - Vänsterpartiet
-- IKEA släpper en riktigt grisig högtalare - Teknikveckan
+- "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
 
 ## World News
 
@@ -67,9 +67,9 @@ _Updated: 2026-02-03 23:02_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -145,20 +145,20 @@ _Updated: 2026-02-03 23:02_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Allt fler brittiska jättefarmer - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
