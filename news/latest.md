@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-03 23:07_
+_Updated: 2026-02-04 00:02_
 
 - New Epstein files fail to quell outrage as advocates claim documents are being withheld - The Guardian
-- Marimar Martinez, shot by Border Patrol in Chicago, speaks out after Good, Pretti deaths: 'I am their voice' - Chicago Sun-Times
-- ‘They Couldn’t Break Me’: A Protester, the White House and a Doctored Photo - The New York Times
-- Don Lemon says a dozen agents came to arrest him even though he offered to turn himself in - AP News
-- DHS Goons Use Sinister Secret Weapon on 67-Year-Old U.S. Citizen - The Daily Beast
-- Hundreds of Nazi-linked accounts discovered at Credit Suisse, US lawmaker says - Reuters
-- Annotating the Judge’s Decision in the Case of Liam Conejo Ramos, a 5-Year-Old Detained by ICE - The New York Times
 - Russian hits Ukraine energy sites in 'most powerful blow" so far this year - BBC
-- U.S. tanker approached by Iranian gunboats in Strait of Hormuz, security firm says - CBS News
-- A Hamas Hostage’s Secret Ordeal - The New York Times
+- Josh Shapiro to unveil plan for managing the data center boom in Pennsylvania - NBC News
+- Trump prepares to let go of arms control with Russia - Politico
+- War Department Announces Vendors Invited to Compete in Phase I of the Drone Dominance Program - U.S. Department of War (.gov)
+- Don Lemon says a dozen agents came to arrest him even though he offered to turn himself in - AP News
+- Minneapolis Live Updates: Relatives of Renee Good Speak at Public Forum in Washington - The New York Times
+- Annotating the Judge’s Decision in the Case of Liam Conejo Ramos, a 5-Year-Old Detained by ICE - The New York Times
+- Trump's $45 billion expansion of immigrant detention sites faces pushback from communities - AP News
+- EU and UK to ramp up talks on closer ties 10 years after Brexit vote - Euronews.com
 - Record-breaking snow blankets Japan, killing at least 30 people - Al Jazeera
-- Tens of thousands back Czech president amid cabinet dispute - dw.com
-- Anthropic’s Move Into Legal Is Sinking Data Services Stocks - Bloomberg.com
-- Bitcoin breaks below $73,000 to lowest since November 2024 as heavy selling resumes - CNBC
-- The unexpected winners of the AI slop boom: Word nerds - Business Insider
-- The Global Economy’s Warning Signals Are Broken - The New York Times
+- Grieving Iranians cowed into silence beside the graves of protesters - CNN
+- French prosecutors request 5-year ban on Marine Le Pen from holding office - AP News
+- Exclusive | Nelson Peltz Takes a Shot at Bob Iger Over Disney’s CEO Transition - The Wall Street Journal
+- AMD Reports Fourth Quarter and Full Year 2025 Financial Results - AMD
+- The wealthy ramp up spending while other Americans tread water, new study finds - AP News
+- Sam Altman On OpenAI's Game-Changing New Device And His Longtime Feud With Elon Musk - Forbes
 - Fitbit founders launch AI platform to help families monitor their health - TechCrunch
-- Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes
-- Google Home finally adds support for buttons - The Verge
-- Samsung updates One UI software rollout roadmap – February 2026 - Sammy Fans
+- Gemini app Tools menu adds ‘Labs’ section, Personal Intelligence toggle - 9to5Google
+- What’s new in Android’s February 2026 Google System Updates - 9to5Google
