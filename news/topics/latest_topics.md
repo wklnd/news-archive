@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 18:12_
+_Updated: 2026-02-03 19:28_
 
 ## Top Stories
 
-- Utpekade mördaren greps – när han återvände till brottsplatsen i Majorna - GP
+- Busch raderade bild med Bill Gates - GP
+- Ryssland nattbombade iskallt Ukraina - Västerbottens-Kuriren
+- Dubbelmordet i Klippan: 58-åringen ska genomgå rättspsykiatrisk undersökning - SVT Nyheter
 - Insändare. Magdalena Andersson – en vindflöjel utan ideologi - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Endast fem Gazabor kom över gränsen - Dagens Nyheter
-- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
-- Tomma hyllor för svenskt nötkött: ”Krävs beslut nu” - Fri Köpenskap
-- Rapport: 122 sajter säljer läkemedel olagligt - GP
-- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
+- Liljestrands svar på kritiken – lyfter satsningar - GP
+- Sverige och Danmark beställer luftvärn åt Ukraina - SVT Nyheter
 - Rektorer varnar för högerextrema aktivklubbar: ”Inga klassiska red flags” - Dagens Nyheter
-- Man skyldig till dubbelmordet i Klippan - GP
-- Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
-- Grönlands utrikesminister optimistisk om att hitta gemensam grund med USA av Investing.com - Investing.com Sverige
-- Erik de la Reguera: Macron nöjd ”for sure” - Dagens Nyheter
-- Trump stänger Kennedy Center i två år – ska renoveras - Dagens Nyheter
+- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
+- Tomma hyllor för svenskt nötkött: ”Krävs beslut nu” - Fri Köpenskap
+- Prognoser för insjuknande och dödlighet i analysverktyget Cancer i Sverige - Socialstyrelsen
+- Grönlands ledare: Vi lever i ständig osäkerhet - Dagens industri
 - Stänger ner helt – i protest mot Musk - Expressen
-- Elpriser i norra Sverige ökade med 400 procent - Dagens industri
+- Trumps plötsliga vändning om FN: ”Enorm potential” - Expressen
+- Seriemördaren erkänner mord på tonårsflicka – efter 27 år - Expressen
+- Legendarens varning: ”Vi är på randen till ett kapitalkrig” - EFN
+- Jalal vann mot Nordea – nej till ersättning blev ja - SvD
 - Väst hånade Kina – då ökade de takten - SvD
 - Cookie Policy (EU) - Vänsterpartiet
-- Nvidia Shield lever vidare. Ny modell kan släppas så småningom. - feber.se
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
-- Går om som mest sålda Nintendo-konsolen någonsin - Dagens industri
+- Adobe lägger ned animeringsverktyget Animate - PC för Alla
 
 ## World News
 
@@ -57,6 +57,7 @@ _Updated: 2026-02-03 18:12_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,9 +68,8 @@ _Updated: 2026-02-03 18:12_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2026-02-03 18:12_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -124,7 +124,6 @@ _Updated: 2026-02-03 18:12_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -139,6 +138,7 @@ _Updated: 2026-02-03 18:12_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2026-02-03 18:12_
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
