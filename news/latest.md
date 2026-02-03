@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-03 17:32_
+_Updated: 2026-02-03 18:32_
 
-- Russian hits Ukraine energy sites in 'most powerful blow" so far this year - BBC
-- Mayor of Portland, Oregon, Calls for ICE to Leave After Protesters Are Tear-Gassed - The New York Times
-- Son of Norway’s Crown Princess Goes on Trial, Charged With Rape - The New York Times
+- Investigation Finds Credit Suisse Had Wider Nazi Ties Than Previously Known - The New York Times
+- ‘They Couldn’t Break Me’: A Protester, the White House and a Doctored Photo - The New York Times
+- X offices raided in France as UK opens fresh investigation into Grok - BBC
+- As some states try to show ICE the door, others put out the welcome mat - NPR
 - Peter Mandelson lobbied against US bank reforms on behalf of Jeffrey Epstein and Jes Staley - Financial Times
-- Trump slashes tariffs on India after Modi agrees to stop buying Russian oil - CNN
-- U.S. Military Tells Alaska and N.C. Troops to Stand Down on Possible Minnesota Deployment - The New York Times
-- Trump, in an Escalation, Calls for Republicans to ‘Nationalize’ Elections - The New York Times
+- Trump prepares to let go of arms control with Russia - Politico
+- Trump says Republicans should 'nationalize' elections, take control from states - USA Today
+- North Carolina teen who killed brother and 4 neighbors in 2022 attack to be sentenced - NBC News
+- Russian hits Ukraine energy sites in 'most powerful blow" so far this year - BBC
 - Satellite imagery shows where the U.S. military is positioned near Iran - The Washington Post
-- Don Lemon says a dozen agents were sent to arrest him even though he offered to turn himself in - AP News
-- Cold snap leaves Florida streets littered with frozen iguanas - The Telegraph
-- Paris prosecutors raid France offices of Elon Musk's X - BBC
 - Record-breaking snow blankets Japan, killing at least 30 people - Al Jazeera
 - Macron enters his lame duck era - politico.eu
-- Swiss Alpine bar fire claims 41st victim, an 18-year-old Swiss national - NPR
+- An internal document shows the Vietnamese military preparing for a possible American war - AP News
+- Muslim countries condemn Israel’s Gaza strikes, allege ‘repeated violations’ of ceasefire - The Times of Israel
 - PepsiCo's drink sales are improving, and it's planning to cut snack prices - CNBC
-- PayPal Replaces CEO Chriss After Profit Falls Short of Estimates - Bloomberg
+- Builders Push ‘Trump Homes’ to Win Backing for a Million Houses - Bloomberg
 - Pfizer beats quarterly estimates despite Covid product decline, reaffirms modest outlook - CNBC
 - China to ban hidden car door handles made popular by Tesla in world first - CNN
-- Android 16 QPR3: Pixel adds Adaptive Connectivity auto-switch, battery settings - 9to5Google
+- Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes
 - Legion Y700: Lenovo officially confirms next-gen compact Android gaming tablet - Notebookcheck
