@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-03 01:58_
+_Updated: 2026-02-03 05:21_
 
-- Tulsi Gabbard accused of trying to 'bury' whistleblower complaint - NBC News
-- Ed Martin: Trump’s one-time weaponization chief is expected to depart Justice Department in coming weeks - CNN
+- Bill and Hillary Clinton now agree to testify before Congress - Politico
+- Trump, in an Escalation, Calls for Republicans to ‘Nationalize’ Elections - The New York Times
 - Trump Drops Demand for Cash From Harvard After Stiff Resistance - The New York Times
-- N.Y. Republican met with jeers over ICE tactics during town hall in swing district - NPR
 - The Trump Administration exempts new nuclear reactors from environmental review - NPR
-- Epstein survivors seek proper redactions in released files; Trump again denies visiting private island – US politics live - The Guardian
-- Ohio Church Swells With Support for Haitians as Deportation Threat Looms - The New York Times
-- U.S. and Iranian Officials to Meet as Trump’s Threats Loom - The New York Times
+- Police assess reports of alleged misconduct after Mandelson emails published - BBC
+- Father of 5-year-old detained in Minnesota disputes government assertion he abandoned the boy - AP News
+- U.S. and India seal trade deal after months of diplomatic tensions - The Washington Post
 - What Jared Kushner's 'New Gaza' plan includes, and what it leaves out - NPR
-- Trump Administration Sued Over Ban on Immigration From 75 Countries - The New York Times
-- Swiss Alpine bar fire claims 41st victim, an 18-year-old Swiss national - NPR
-- Paying For A Selfie: Rome Starts Charging For Trevi Fountain - Barron's
-- Friday's jobs report will be delayed because of the partial government shutdown - CNBC
-- In 2026, many employers are ditching merit-based pay bumps in favor of ‘peanut butter raises’ - Fortune
-- Gold and silver prices fall but FTSE 100 hits record high - BBC
-- SoFi Stock Slides after Earnings, but Mizuho Says ‘Buy on Weakness’ - TipRanks
+- Japan retrieves rare earth-rich mud from seabed to lower reliance on China - ABC News
+- Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC
+- Iran updates: Iran classes EU armies as terrorist groups - DW.com
+- China bans hidden car door handles over safety concerns - BBC
+- Asian Stocks Set to Climb After US Data Lifts Mood: Markets Wrap - Bloomberg.com
+- Court orders restart of all US offshore wind construction - Ars Technica
+- Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say - Reuters
 - Firefox is adding a switch to turn AI features off - The Verge
-- Microsoft Stock (NASDAQ:MSFT) Falters on Hibernation Fix Flop, Unexpected Xbox Permaban - TipRanks
+- Looking back at Catacomb 3D , the game that led to Wolfenstein 3D - Ars Technica
 - Google releases ‘Desktop Camera’ app that’s seemingly for Android PCs - 9to5Google
-- New iPhone Fold specs revealed, including design, cameras, more - 9to5Mac
+- Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners - TechCrunch
+- ‘The Kelly Clarkson Show’ To End After 7 Seasons - Deadline
