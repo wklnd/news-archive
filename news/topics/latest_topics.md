@@ -1,45 +1,45 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 17:10_
+_Updated: 2026-02-03 18:12_
 
 ## Top Stories
 
-- Nu inleds rättegången mot norske ”bonusprinsen” Marius Borg Høiby - GP
-- Dubbelmordet i Klippan: 58-åringen ska genomgå rättspsykiatrisk undersökning - SVT Nyheter
-- Pratade med Busch om S: ”Hon dementerar allt” - SvD
-- Ryssland nattbombade iskallt Ukraina - Västerbottens-Kuriren
+- Utpekade mördaren greps – när han återvände till brottsplatsen i Majorna - GP
 - Insändare. Magdalena Andersson – en vindflöjel utan ideologi - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Endast fem Gazabor kom över gränsen - Dagens Nyheter
+- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
 - Tomma hyllor för svenskt nötkött: ”Krävs beslut nu” - Fri Köpenskap
+- Rapport: 122 sajter säljer läkemedel olagligt - GP
+- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
 - Rektorer varnar för högerextrema aktivklubbar: ”Inga klassiska red flags” - Dagens Nyheter
-- Ny rapport: Statliga kulturanslag minskar - Västerbottens-Kuriren
-- Två häktade misstänkta för inbrott i Nälden och Hallviken - SVT Nyheter
-- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
-- Uppgift i Iran: Ska inleda kärnsamtal med USA – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Man skyldig till dubbelmordet i Klippan - GP
+- Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
+- Grönlands utrikesminister optimistisk om att hitta gemensam grund med USA av Investing.com - Investing.com Sverige
+- Erik de la Reguera: Macron nöjd ”for sure” - Dagens Nyheter
+- Trump stänger Kennedy Center i två år – ska renoveras - Dagens Nyheter
 - Stänger ner helt – i protest mot Musk - Expressen
-- ”Det kommer hjälpa till att stoppa kriget” - Expressen
+- Elpriser i norra Sverige ökade med 400 procent - Dagens industri
 - Väst hånade Kina – då ökade de takten - SvD
-- Notan för socialförsäkringen väntas stiga - Västerbottens-Kuriren
-- (+) Kontantuttagen minskar i länet - Jamtlands Tidning
-- Ferraribedragarens liv lyx med märkeskläder och dyra bilar - för offrens pengar - Expressen
-- Häng med barnbarn gynnar hjärnan - SvD
 - Cookie Policy (EU) - Vänsterpartiet
+- Nvidia Shield lever vidare. Ny modell kan släppas så småningom. - feber.se
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
+- Går om som mest sålda Nintendo-konsolen någonsin - Dagens industri
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
@@ -97,7 +97,6 @@ _Updated: 2026-02-03 17:10_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
@@ -107,11 +106,12 @@ _Updated: 2026-02-03 17:10_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -151,8 +151,8 @@ _Updated: 2026-02-03 17:10_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
@@ -161,4 +161,4 @@ _Updated: 2026-02-03 17:10_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
