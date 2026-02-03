@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 21:26_
+_Updated: 2026-02-03 21:59_
 
 ## Top Stories
 
-- Franska åklagare vill låsa in Le Pen - Aftonbladet
+- Direkt – Kriget i Ukraina – Minst två dödade i rysk attack mot Zaporizjzja - Dagens Nyheter
 - KRÖNIKA: Skojar du, mannen? SVT:s fulklippning av Showan är ett lågvattenmärke - Sydsvenskan
-- Svårare isläge väntar - 7an
+- Ny studie: Kortare arbetstid ledde till bättre hälsa och arbetsförmåga - Dagens Arena
 - Sverige och Danmark beställer luftvärn åt Ukraina - SVT Nyheter
-- Två lastbilar i krock – förarna till sjukhus - Expressen
-- Forskare: Så hårt slår kortad arbetstid – ”Motsvarar tre riktigt rejäla lågkonjunkturer” - Tidningen Näringslivet
-- Sverige redo för Natoinsats på Grönland - Västerbottens-Kuriren
-- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
-- Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
-- Nationella isdygn två dagar i rad - Corren
 - Michael Winiarski: Det talar för och emot att USA anfaller Iran - Dagens Nyheter
 - Trumps miljardkrav efter nyhetsartikeln - Expressen
+- Busch raderade bild med Bill Gates - Västerbottens-Kuriren
+- Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
+- Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
+- 03 februari 07.12, Sammanfattning natt, Norrbottens län - Polisen.se
+- USA: Har skjutit ner iransk drönare - SVT Nyheter
 - HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
 - Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
+- Grammystjärnornas protester mot ICE - GP
+- Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
+- Skatteverket lanserar ny tjänst för att deklarera - SVT Nyheter
+- Legendarens varning: ”Vi är på randen till ett kapitalkrig” - EFN
 - X-razzia – fransk åklagare vill fråga ut Musk - Sydsvenskan
-- Jalal vann mot Nordea − nej till ersättning blev ja - SvD
-- Väst hånade Kina – då ökade de takten - SvD
-- Ferraribedragarens liv lyx med märkeskläder och dyra bilar - för offrens pengar - Expressen
 - Cookie Policy (EU) - Vänsterpartiet
 - "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
 
@@ -123,15 +123,15 @@ _Updated: 2026-02-03 21:26_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
@@ -142,23 +142,23 @@ _Updated: 2026-02-03 21:26_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
