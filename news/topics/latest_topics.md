@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 19:28_
+_Updated: 2026-02-03 20:12_
 
 ## Top Stories
 
 - Busch raderade bild med Bill Gates - GP
 - Ryssland nattbombade iskallt Ukraina - Västerbottens-Kuriren
-- Dubbelmordet i Klippan: 58-åringen ska genomgå rättspsykiatrisk undersökning - SVT Nyheter
-- Insändare. Magdalena Andersson – en vindflöjel utan ideologi - Dagens Nyheter
-- Liljestrands svar på kritiken – lyfter satsningar - GP
 - Sverige och Danmark beställer luftvärn åt Ukraina - SVT Nyheter
-- Rektorer varnar för högerextrema aktivklubbar: ”Inga klassiska red flags” - Dagens Nyheter
+- Två lastbilar i krock – förarna till sjukhus - Expressen
+- Strömmer håller nollan mot gängen - SvD
 - Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
-- Tomma hyllor för svenskt nötkött: ”Krävs beslut nu” - Fri Köpenskap
-- Prognoser för insjuknande och dödlighet i analysverktyget Cancer i Sverige - Socialstyrelsen
+- 20 procent fler cancerfall i ny prognos - Läkartidningen
+- 58-åring bedöms skyldig – nu väntar rättspsyk-undersökning - P4 Kristianstad - Sveriges Radio
+- USA: Har skjutit ner iransk drönare - SVT Nyheter
+- Femåring utsatt – åtal i fransk våldtäktsskandal - GP
 - Grönlands ledare: Vi lever i ständig osäkerhet - Dagens industri
-- Stänger ner helt – i protest mot Musk - Expressen
-- Trumps plötsliga vändning om FN: ”Enorm potential” - Expressen
-- Seriemördaren erkänner mord på tonårsflicka – efter 27 år - Expressen
+- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
 - Legendarens varning: ”Vi är på randen till ett kapitalkrig” - EFN
-- Jalal vann mot Nordea – nej till ersättning blev ja - SvD
 - Väst hånade Kina – då ökade de takten - SvD
 - Cookie Policy (EU) - Vänsterpartiet
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
 - Adobe lägger ned animeringsverktyget Animate - PC för Alla
+- Nvidia Shield lever vidare. Ny modell kan släppas så småningom. - feber.se
+- Kleber Mendonça Filho: ”Minnet är ett särskilt viktigt tema i dessa tider” - Dagens Nyheter
+- Noomi Rapace bröt näsan under filminspelning – tvingades operera - Expressen
 
 ## World News
 
@@ -57,7 +57,6 @@ _Updated: 2026-02-03 19:28_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,8 +67,9 @@ _Updated: 2026-02-03 19:28_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -122,20 +122,20 @@ _Updated: 2026-02-03 19:28_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -143,8 +143,8 @@ _Updated: 2026-02-03 19:28_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -158,7 +158,7 @@ _Updated: 2026-02-03 19:28_
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
