@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 10:00_
+_Updated: 2026-02-03 11:05_
 
 ## Top Stories
 
-- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
+- Terror eller inte – nu faller dansk dom efter granater vid ambassad - SVT Nyheter
 - 10-åriga Murad har bott på återvändandecentret i två år - Dagens Nyheter
 - Friskolorna sämst i klassen – fuskar med biblioteken - Sydsvenskan
-- Polska stridsflyg i luften efter ryska attacker - GP
+- DN Direkt – Trump: Stämmer Harvard på en miljard dollar - Dagens Nyheter
 - 03 februari 07.58, Sammanfattning natt, Östergötlands län - polisen.se
-- Första Gazaborna har kommit till Egypten - Dagens Nyheter
-- Hellen överlevde skyttens kulor: ”Det kommer i vågor, jag vet det nu” - Dagens Nyheter
+- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
 - Lastbilar i krock – två personer till sjukhus - SVT Nyheter
-- Ingen plogning på isen på Mälaren - Mitt i
-- 03 februari 07.07, Sammanfattning natt, Jämtlands län - polisen.se
+- Hellen överlevde skyttens kulor: ”Det kommer i vågor, jag vet det nu” - Dagens Nyheter
+- LRF efterlyser politiska beslut om nötköttsbristen - omni.se
+- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
+- Första Gazaborna har kommit till Egypten - Dagens Nyheter
+- DN Direkt – Paret Clinton går med på att vittna i Epsteinutredning - Dagens Nyheter
 - Unicef: 4 000 barn behöver vård utanför Gaza - Dagens Nyheter
-- Gränspolis i Minneapolis utrustas med kroppskameror - Expressen
-- Trump: Stämmer Harvard på en miljard dollar - SVT Nyheter
-- Nu kostar det att komma nära Fontana di Trevi - GP
-- Alfa Lavals intäkter växer – marginalen missar förväntningar - Dagens industri
+- Hotet från Iran som Trump tar på allvar - Expressen
+- Miljoner till misslyckade jobbmatchare – nu väntar ny utrensning - Dagens Nyheter
+- Tunga ägarnas oro: Nordea kan bryta långa traditionen - EFN
 - "Januari blev en käftsmäll" – Bråse har ett nytt största innehav - Dagens PS
-- EU:s nya tullfälla som en av fem berörda bolag missat - Dagens industri
 - Häng med barnbarn gynnar hjärnan - SvD
 - 37-åring startar nytt konsultföretag i Karlstad - NWT
-- Alone in the Dark-trilogin just nu gratis på GOG - FZ.se
+- Ikea släpper högtalare som ser ut som en mus. Nytt i Grejsimojs-serien. - feber.se
 
 ## World News
 
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - omni.se
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -84,9 +84,9 @@ _Updated: 2026-02-03 10:00_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -112,20 +112,18 @@ _Updated: 2026-02-03 10:00_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -133,32 +131,34 @@ _Updated: 2026-02-03 10:00_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- Allt fler brittiska jättefarmer - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
