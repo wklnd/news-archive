@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 00:57_
+_Updated: 2026-02-04 01:52_
 
 ## Top Stories
 
-- Norrmännen om ”bonusprinsen” i rätten: ”Darrar på händerna” - GP
-- Explosion i trapphus i Malmö - SVT Nyheter
+- Flera döda när migrantbåt kolliderade - SVT Nyheter
 - Kallas ”tyrann” efter migrationsbeskedet - SvD
-- Fyra personer till sjukhus efter räddningsinsats i Jotunheimen - SVT Nyheter
 - Vårdcentral stoppas – 3 800 patienter drabbas - GP
-- Kulturbudgeten krymper – igen - tidningensyre.se
+- Liljestrands svar på kritiken – lyfter satsningar - GP
+- Ryssland nattbombade iskallt Ukraina – slår ut värmen - Hufvudstadsbladet
 - Ny studie: Kortare arbetstid ledde till bättre hälsa och arbetsförmåga - Dagens Arena
+- Explosion i trapphus i Malmö - SVT Nyheter
 - Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
+- Flera böter för Vilhelminaförare - Västerbottens-Kuriren
 - Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
 - USA: Har skjutit ner iransk drönare - SVT Nyheter
 - Sverige redo för Grönlandsinsats - SVT Nyheter
-- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
+- Trump: Vi kräver en miljard dollar - Expressen
 - Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
-- Skatteverket lanserar ny tjänst för att deklarera - SVT Nyheter
 - Jalal vann mot Nordea − nej till ersättning blev ja - SvD
 - Kalmar slår rekord i gästnätter – återhämtning sedan pandemin - SVT Nyheter
-- Cookie Policy (EU) - Vänsterpartiet
+- En miljon råttor fångades – så slipper du dem - Aftonbladet
+- Läcka i Nasas rymdraket – månuppdraget senareläggs - Omni
 - "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
-- Apples Xcode 26.3 integrerar Claude Agent SDK av Investing.com - Investing.com Sverige
-- Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
+- Cookie Policy (EU) - Vänsterpartiet
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -87,8 +87,8 @@ _Updated: 2026-02-04 00:57_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -99,23 +99,23 @@ _Updated: 2026-02-04 00:57_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -123,15 +123,15 @@ _Updated: 2026-02-04 00:57_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
