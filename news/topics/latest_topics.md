@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 13:07_
+_Updated: 2026-02-03 13:57_
 
 ## Top Stories
 
-- Köper luftvärn till Ukraina för 2,6 miljarder - GP
+- ”Bonusprinsen” nekar till alla våldtäkter - Dagens Nyheter
+- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
 - Kristersson: Jag tänker inte vara konsult åt L - SvD
-- Friskolorna sämst i klassen – fuskar med biblioteken - Sydsvenskan
-- Hellen överlevde skyttens kulor: ”Det kommer i vågor, jag vet det nu” - Dagens Nyheter
-- DEBATT: Låt inte Sverige bli en fristad för ekonomisk brottslighet - Östersunds-Posten
+- Sverige köper lastbilskanon mot drönare till Ukraina för två miljarder - Dagens Nyheter
 - Nya satsningen – seniorer ska stötta skolelever: ”Nu testar vi” - NLT
-- Den osynliga hemlösheten: ”Tappade min identitet” - GP
-- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
-- LO begär förhandling om kortare arbetstid – Senaste nytt om valet 2026 - SVT Nyheter
-- 03 februari 07.12, Sammanfattning natt, Norrbottens län - polisen.se
-- Första Gazaborna har kommit till Egypten - Dagens Nyheter
-- Trump: Stämmer Harvard på en miljard dollar - SVT Nyheter
+- Musk: SpaceX har stoppat rysk användning av stulna Starlink-enheter - Bulletin
+- Äldre man i Kristianstad anmäld försvunnen - Norra Skåne
+- LRF efterlyser politiska beslut om nötköttsbristen - Omni
+- 03 februari 07.12, Sammanfattning natt, Norrbottens län - Polisen.se
+- Nu kan stadens unga söka lovjobb i Göteborg - Lokalpressen
+- Direkt – Krisen i Mellanöstern – Källor: USA och Iran möts i Istanbul på fredag - Dagens Nyheter
+- Så få släpptes ut ur Gaza första dagen - Västerbottens-Kuriren
 - Trump stänger Kennedy Center i två år – ska renoveras - Dagens Nyheter
-- Stänger ner helt – i protest mot Musk - Expressen
-- Miljoner till misslyckade jobbmatchare – nu väntar ny utrensning - Dagens Nyheter
+- Trumps utspel skapar oro hos ytterhögern i EU - Aftonbladet
+- Stena Line lägger ned färjelinje – stora utmaningar med lönsamheten - Dagens industri
 - Här är superavdraget som ger 6 600 kronor mer i månaden i pension - Expressen
+- Miljoner till misslyckade jobbmatchare – nu väntar ny utrensning - Dagens Nyheter
 - Familjen Persson köper H&M-aktier för 700 miljoner - Dagens industri
-- Analytiker efter åkturen: Silver är alltid en dödsfälla - Omni Ekonomi
+- Switch går om DS som Nintendos mest sålda konsol - Omni
 - Asus släpper hörlurar för gamers. ROG Kithara är för spelare med höga krav på ljudet. - feber.se
-- Firefox får reglage för att stänga av AI-funktioner - PC för Alla
 
 ## World News
 
@@ -51,15 +51,15 @@ _Updated: 2026-02-03 13:07_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -101,7 +101,7 @@ _Updated: 2026-02-03 13:07_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Engineering Health 2024 - Chalmers
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
