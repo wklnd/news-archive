@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 11:05_
+_Updated: 2026-02-03 12:06_
 
 ## Top Stories
 
-- Terror eller inte – nu faller dansk dom efter granater vid ambassad - SVT Nyheter
-- 10-åriga Murad har bott på återvändandecentret i två år - Dagens Nyheter
+- Tidöpartierna vill tvinga in riksdagen i sommar - SvD
 - Friskolorna sämst i klassen – fuskar med biblioteken - Sydsvenskan
-- DN Direkt – Trump: Stämmer Harvard på en miljard dollar - Dagens Nyheter
+- 10-åriga Murad har bott på återvändandecentret i två år - Dagens Nyheter
+- Musk: SpaceX har stoppat rysk användning av stulna Starlink-enheter - Bulletin
 - 03 februari 07.58, Sammanfattning natt, Östergötlands län - polisen.se
-- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
-- Lastbilar i krock – två personer till sjukhus - SVT Nyheter
+- DN Direkt – Trump: Stämmer Harvard på en miljard dollar - Dagens Nyheter
 - Hellen överlevde skyttens kulor: ”Det kommer i vågor, jag vet det nu” - Dagens Nyheter
-- LRF efterlyser politiska beslut om nötköttsbristen - omni.se
-- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
+- Terroråtalade svenskar får sin dom - Västerbottens-Kuriren
+- Äldre man i Kristianstad anmäld försvunnen - Kristianstadsbladet
+- Den osynliga hemlösheten: ”Tappade min identitet” - GP
 - Första Gazaborna har kommit till Egypten - Dagens Nyheter
-- DN Direkt – Paret Clinton går med på att vittna i Epsteinutredning - Dagens Nyheter
-- Unicef: 4 000 barn behöver vård utanför Gaza - Dagens Nyheter
 - Hotet från Iran som Trump tar på allvar - Expressen
+- Trump: Stämmer Harvard på en miljard dollar - SVT Nyheter
+- Trump stänger Kennedy Center i två år – ska renoveras - Dagens Nyheter
 - Miljoner till misslyckade jobbmatchare – nu väntar ny utrensning - Dagens Nyheter
 - Tunga ägarnas oro: Nordea kan bryta långa traditionen - EFN
-- "Januari blev en käftsmäll" – Bråse har ett nytt största innehav - Dagens PS
 - Häng med barnbarn gynnar hjärnan - SvD
-- 37-åring startar nytt konsultföretag i Karlstad - NWT
-- Ikea släpper högtalare som ser ut som en mus. Nytt i Grejsimojs-serien. - feber.se
+- Alla AI-funktioner i Firefox kommer gå att stänga av - Swedroid
+- Notepad++ kapat av hackare i ett halvår - Computer Sweden
+- Core Ultra 9 290K 10% snabbare än 285K i nytt testresultat - SweClockers
 
 ## World News
 
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -36,7 +36,7 @@ _Updated: 2026-02-03 11:05_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -145,20 +145,20 @@ _Updated: 2026-02-03 11:05_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - lrf.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
