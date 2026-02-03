@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 20:12_
+_Updated: 2026-02-03 21:26_
 
 ## Top Stories
 
-- Busch raderade bild med Bill Gates - GP
-- Ryssland nattbombade iskallt Ukraina - Västerbottens-Kuriren
+- Franska åklagare vill låsa in Le Pen - Aftonbladet
+- KRÖNIKA: Skojar du, mannen? SVT:s fulklippning av Showan är ett lågvattenmärke - Sydsvenskan
+- Svårare isläge väntar - 7an
 - Sverige och Danmark beställer luftvärn åt Ukraina - SVT Nyheter
 - Två lastbilar i krock – förarna till sjukhus - Expressen
-- Strömmer håller nollan mot gängen - SvD
+- Forskare: Så hårt slår kortad arbetstid – ”Motsvarar tre riktigt rejäla lågkonjunkturer” - Tidningen Näringslivet
+- Sverige redo för Natoinsats på Grönland - Västerbottens-Kuriren
 - Svensk styrde pedofilmöten från sin lägenhet - Dagens Nyheter
-- 20 procent fler cancerfall i ny prognos - Läkartidningen
-- 58-åring bedöms skyldig – nu väntar rättspsyk-undersökning - P4 Kristianstad - Sveriges Radio
-- USA: Har skjutit ner iransk drönare - SVT Nyheter
-- Femåring utsatt – åtal i fransk våldtäktsskandal - GP
-- Grönlands ledare: Vi lever i ständig osäkerhet - Dagens industri
+- Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
+- Nationella isdygn två dagar i rad - Corren
+- Michael Winiarski: Det talar för och emot att USA anfaller Iran - Dagens Nyheter
+- Trumps miljardkrav efter nyhetsartikeln - Expressen
+- HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
 - Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
-- Legendarens varning: ”Vi är på randen till ett kapitalkrig” - EFN
+- X-razzia – fransk åklagare vill fråga ut Musk - Sydsvenskan
+- Jalal vann mot Nordea − nej till ersättning blev ja - SvD
 - Väst hånade Kina – då ökade de takten - SvD
+- Ferraribedragarens liv lyx med märkeskläder och dyra bilar - för offrens pengar - Expressen
 - Cookie Policy (EU) - Vänsterpartiet
-- Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
-- Adobe lägger ned animeringsverktyget Animate - PC för Alla
-- Nvidia Shield lever vidare. Ny modell kan släppas så småningom. - feber.se
-- Kleber Mendonça Filho: ”Minnet är ett särskilt viktigt tema i dessa tider” - Dagens Nyheter
-- Noomi Rapace bröt näsan under filminspelning – tvingades operera - Expressen
+- "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -62,14 +62,14 @@ _Updated: 2026-02-03 20:12_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -142,17 +142,17 @@ _Updated: 2026-02-03 20:12_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
