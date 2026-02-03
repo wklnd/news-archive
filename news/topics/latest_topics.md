@@ -1,43 +1,44 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 08:10_
+_Updated: 2026-02-03 09:26_
 
 ## Top Stories
 
-- Trump stämmer Harvard på en miljard dollar - Hufvudstadsbladet
+- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
 - 10-åriga Murad har bott på återvändandecentret i två år - Dagens Nyheter
 - Friskolorna sämst i klassen – fuskar med biblioteken - Sydsvenskan
-- Polska stridsflyg i luften efter ryska attacker - Västerbottens-Kuriren
-- Trumps plötsliga vändning om FN: ”Enorm potential” - Expressen
-- Förtegna liberaler efter helgens möte - Dagens Nyheter
+- DN Direkt – Trump: Stämmer Harvard på en miljard dollar - Dagens Nyheter
+- 03 februari 07.58, Sammanfattning natt, Östergötlands län - polisen.se
+- Betyget F slopas – men det dröjer - SVT Nyheter
 - LRF efterlyser politiska beslut om nötköttsbristen - omni.se
 - Ingen plogning på isen på Mälaren - Mitt i
-- Könsval i äldrevården – Karin vill bli duschad av en kvinna - SVT Nyheter
-- Flera böter för Vilhelminaförare - Västerbottens-Kuriren
+- Lastbil har kört av vägen vid Åstorp - SVT Nyheter
+- 03 februari 07.07, Sammanfattning natt, Jämtlands län - polisen.se
 - Första Gazaborna har kommit till Egypten - Dagens Nyheter
+- Gränspolis i Minneapolis utrustas med kroppskameror - GP
 - Unicef: 4 000 barn behöver vård utanför Gaza - Dagens Nyheter
 - DN Direkt – Nu kostar det att komma nära Fontana di Trevi - Dagens Nyheter
-- Grodkostymer och general­strejk vapen mot Trump och ICE - Arbetaren
+- Alfa Lavals intäkter växer – marginalen missar förväntningar - Dagens industri
+- "Januari blev en käftsmäll" – Bråse har ett nytt största innehav - Dagens PS
 - Plötsligt oklart med ny kärnkraft: ”Inte säkert” - SvD
-- Ny ledamot till Alecta Fastigheters styrelse - Fastighetsvärlden
-- Årets Bygge 2026: Finalisterna inom hotell och kontor - Fastighetsnytt
+- USA sänker tullarna mot Indien efter svaret om Ryssland - EFN
 - Häng med barnbarn gynnar hjärnan - SvD
-- Hollow Knight: Silksong – ett efterlängtat mästerverk - TechRadar
-- Krockar och knogmackor – svenska Samson uppvisat i gameplay-debut - FZ.se
+- Alone in the Dark-trilogin just nu gratis på GOG - FZ.se
 
 ## World News
 
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - omni.se
-- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
@@ -46,7 +47,6 @@ _Updated: 2026-02-03 08:10_
 - Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2026-02-03 08:10_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
