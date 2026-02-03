@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-03 23:58_
+_Updated: 2026-02-04 00:57_
 
 ## Top Stories
 
-- Larm om explosion i Malmö - SVT Nyheter
-- Direkt – Kriget i Ukraina – Rutte i Kiev: Ryssland menar inte allvar om fred - Dagens Nyheter
+- Norrmännen om ”bonusprinsen” i rätten: ”Darrar på händerna” - GP
+- Explosion i trapphus i Malmö - SVT Nyheter
 - Kallas ”tyrann” efter migrationsbeskedet - SvD
-- Gaddafis son dödad av kommandostyrka - GP
-- Klart för återöppning i USA - Aftonbladet
+- Fyra personer till sjukhus efter räddningsinsats i Jotunheimen - SVT Nyheter
 - Vårdcentral stoppas – 3 800 patienter drabbas - GP
+- Kulturbudgeten krymper – igen - tidningensyre.se
 - Ny studie: Kortare arbetstid ledde till bättre hälsa och arbetsförmåga - Dagens Arena
 - Linda Frohm (M) sågar Region Norrbottens tystnad om psykiatrin - SVT Nyheter
-- Umeå kommun bestrider uppsagt avtal om visselblåsning - Folkbladet
-- Skellefteå tingsrätt söker sommarnotarie - Sveriges Domstolar
-- Hovexperten: Bara en sak kan rädda Mette-Marit - Dagens Nyheter
-- ”Acceptera Mette-Marit som drottning eller avstå från monarkin” - Yle
+- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
 - USA: Har skjutit ner iransk drönare - SVT Nyheter
-- Femåring utsatt – åtal i fransk våldtäktsskandal - GP
+- Sverige redo för Grönlandsinsats - SVT Nyheter
+- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
 - Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
 - Skatteverket lanserar ny tjänst för att deklarera - SVT Nyheter
 - Jalal vann mot Nordea − nej till ersättning blev ja - SvD
-- Pappa berättade inte om skatteskulden – måste jag betala den nu när han avlidit? - Expressen
+- Kalmar slår rekord i gästnätter – återhämtning sedan pandemin - SVT Nyheter
 - Cookie Policy (EU) - Vänsterpartiet
 - "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
+- Apples Xcode 26.3 integrerar Claude Agent SDK av Investing.com - Investing.com Sverige
+- Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- PwC:s kartläggning av den europeiska fastighetsmarknaden: Global instabilitet kastar sin skugga över fastighetsbranschen - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Modi: "Trump avgörande för global fred" - Dagens PS
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -57,6 +57,7 @@ _Updated: 2026-02-03 23:58_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -66,10 +67,9 @@ _Updated: 2026-02-03 23:58_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2026-02-03 23:58_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- E-hälsa inom EU - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
