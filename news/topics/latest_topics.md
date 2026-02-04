@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 18:08_
+_Updated: 2026-02-04 19:25_
 
 ## Top Stories
 
-- DN Direkt – Mette-Marit ställer in utlandsresa - Dagens Nyheter
-- Misstänkt kidnappningsförsök – främling försökte locka in barn i bil - Aftonbladet
-- Regeringens svar i uranstriden – föreslår nytt veto - SvD
-- 700 federala poliser lämnar Minnesota - Västerbottens-Kuriren
-- Stor polisinsats i Kramfors – flera gripna - TV4 Nyheterna
-- Allvarlig incident på universitet i Leicester - Expressen
-- Fågelinfluensa på skola – ankor avlivas - Expressen
-- Snö på väg in över Göteborg – risk för trafikproblem - GP
+- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
+- Trump nöjd efter Putins attack: Han höll sitt ord - Expressen
+- EU återupptar arbete med USA-handel - SvD
+- DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
+- Container föll fritt – krossade en bil - Expressen
+- Friades – får nu åtta år för barnvåldtäkter - Aftonbladet
+- DN Direkt – Regeringens svar i uranstriden – föreslår nytt veto - Dagens Nyheter
+- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
+- Sju personer greps i polisinsats i Kramfors - SVT Nyheter
 - Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Man döms till fängelse och utvisning för grov våldtäkt mot barn - polisen.se
-- Guvernör: Minst sju döda vid marknad - Västerbottens-Kuriren
-- Flera barn dödade i israeliska attacker i Gaza - GP
+- Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Efter ”planeringsproblem” – fredssamtalen är igång - Expressen
+- Svenskarna sticker ut i EU – miljön viktigast - Västerbottens-Kuriren
+- På torsdag går startskottet för en ny kärnvapenupprustning - Expressen
 - Dags att binda räntan? Så ska du tänka kring världsläget och inflationen - Sydsvenskan
 - Andelen kvinnor i styrelser på rekordnivå - SvD
-- Coffee Stains resultat klart högre än väntat - Affärsvärlden
 - "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
+- Elle Fanning är gravid och skaffar OnlyFans i lovande serie på Apple TV+ - MovieZine.se
 - AMD:s partners sägs öka priserna på grafikkort ytterligare - Nordichardware
 - 25 år senare: Minns ni hur Phantasy Star Online förändrade allt? - FZ.se
 
@@ -29,7 +29,6 @@ _Updated: 2026-02-04 18:08_
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Millennials are worried about retirement. Is it too late to start saving? - National - Global News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -47,6 +46,7 @@ _Updated: 2026-02-04 18:08_
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Avlyssningsskandalen växer - Journalisten
+- Breakingviews - Donald Trump’s boomerang will hit the US hard - Reuters
 
 ## Technology
 
@@ -89,8 +89,8 @@ _Updated: 2026-02-04 18:08_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
@@ -124,16 +124,16 @@ _Updated: 2026-02-04 18:08_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
