@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-04 23:57_
+_Updated: 2026-02-05 00:58_
 
-- Supreme Court Clears Way for California Voting Map - The New York Times
-- Democrats say ‘dramatic changes’ needed for immigration enforcement as DHS funding negotiations continue – live - The Guardian
-- What the Crackdown Has Done to Minneapolis Children - The New York Times
-- Fulton county leader says he was warned he faced arrest before FBI raid - The Guardian
+- Trump’s Call to ‘Nationalize’ Elections Adds to State Officials’ Alarm - The New York Times
+- A Trump ‘Blockade’ Is Stalling Hundreds of Wind and Solar Projects Nationwide - The New York Times
+- U.S.-Iran nuclear talks back on after Arab leaders lobby White House - Axios
 - Fears of new arms race as US-Russia nuclear weapons treaty due to expire - BBC
-- Son of Norway's crown princess holds back tears giving evidence at rape trial - BBC
-- Trump’s border czar pulling 700 immigration officers out of Minnesota immediately - AP News
-- New York City Mayor Zohran Mamdani to endorse Gov. Kathy Hochul - Politico
-- Nike facing federal probe of alleged discrimination against white employees - Axios
-- Photos: Scenes from the 150th Westminster Dog Show : The Picture Show - NPR
-- Israel strikes across Gaza, killing 24, and says militants attacked its soldiers - AP News
-- Greetings from Kyiv, where candles are the last option during wartime blackouts - NPR
-- Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says - The Guardian
-- In South Korea, Questions About Cram Schools, Success and Happiness - The New York Times
-- Elon Musk’s bold new plan to put AI in orbit isn’t as crazy as it sounds - CNN
+- Fulton county leader says he was warned he faced arrest before FBI raid - The Guardian
+- What to know about the disappearance of Nancy Guthrie, mother of 'Today' show's Savannah Guthrie - AP News
+- Federal agency probes Nike over alleged discrimination against White employees - CNN
+- Steve Bannon calls for immigration agents at polling sites during midterms - The Guardian
 - US wants to create a critical minerals trading bloc with its allies to counter China - AP News
-- Tim Scott on DOJ probe into Powell: ‘I do not believe that he committed a crime’ in Fed HQ testimony - Politico
-- FTC Secures Landmark Settlement with Express Scripts to Lower Drug Costs for American Patients - Federal Trade Commission (.gov)
-- Google announces Pixel 10a with completely flat camera, pre-order Feb 18 - 9to5Google
+- Israel strikes across Gaza, killing 24, and says militants attacked its soldiers - AP News
+- Russia jails stand-up comic Artemy Ostani over war joke - Al Jazeera
+- Trump, Xi Discuss Taiwan and Trade Ahead of Planned Summit - Bloomberg.com
+- At Least 15 Die in Rare Collision Between Migrant Boat and Greek Patrol Vessel - The New York Times
+- Pizza Hut is closing hundreds of locations - CNN
+- Corporate DEI index sees 65% drop in participation from Fortune 500 companies - CNBC
+- Elon Musk’s bold new plan to put AI in orbit isn’t as crazy as it sounds - CNN
+- Tesla falls after senators voice skepticism about FSD and lack of lidar - Sherwood News
 - Spotify launches offline lyrics, translations, and lyric previews - The Verge
+- January 2026 Google Play system update just turned into November 2025? You're not alone - Android Authority
+- FBI Couldn’t Get into WaPo Reporter’s iPhone Because It Had Lockdown Mode Enabled - 404 Media
