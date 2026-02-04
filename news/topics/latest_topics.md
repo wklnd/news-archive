@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 23:53_
+_Updated: 2026-02-05 00:53_
 
 ## Top Stories
 
-- Rubio: USA är redo träffa Iran - Västerbottens-Kuriren
-- Meteorolog: Utesluter inte fler isdygn - SvD
-- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
-- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
-- Deras son mördades – nu väcks hoppet om upprättelse - UNT
-- Zelenskyj: 55 000 ukrainska soldater har stupat - Aftonbladet
-- DN Direkt – Polisstudent döms till sex års fängelse - Dagens Nyheter
-- Snö på väg in över Göteborg – risk för trafikproblem - GP
-- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
-- Könsval i äldrevården – Karin vill bli duschad av en kvinna - SVT Nyheter
 - Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
+- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
+- Trumps plan efter balsalen: Världens största triumfbåge - Dagens Nyheter
+- DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
+- Meteorolog: Utesluter inte fler isdygn - SvD
+- Analyser: Kreml var aldrig seriöst med vapenvilan - Omni
+- Regeringens svar i uranstriden – föreslår nytt veto - SVT Nyheter
+- Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
+- Polisen: Trend just nu att hota med skolskjutning - Expressen
+- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
 - Stormaktskampen når Antarktis – USA oroas av Kinas planer - Dagens Nyheter
-- Trump: Mjukare handlag efter dödsskjutningarna - GP
-- Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
+- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
 - Högre försäljning än väntat från Coffee Stain i premiärrapporten - Dagens industri
-- Andelen kvinnor i styrelser på rekordnivå - SvD
-- "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
 - En miljon råttor fångades – så slipper du dem - Aftonbladet
+- Tusentals vräkta: ”Något är djupt fel” - Aftonbladet
+- Andelen kvinnor i styrelser på rekordnivå - SvD
 - Varför kan jag inte spela upp OS-sändningar? - SVT Nyheter
+- Kattriket - Zita Folkets Bio
+- Konkurs för konsultföretag i Sjöbo - Ystads Allehanda
 - ”Fallout”-finalen lämnar många frågor – här är 4 som behöver få svar i nästa säsong - MovieZine.se
 
 ## World News
@@ -63,13 +63,13 @@ _Updated: 2026-02-04 23:53_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -81,18 +81,18 @@ _Updated: 2026-02-04 23:53_
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -105,9 +105,8 @@ _Updated: 2026-02-04 23:53_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -116,6 +115,7 @@ _Updated: 2026-02-04 23:53_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-02-04 23:53_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
