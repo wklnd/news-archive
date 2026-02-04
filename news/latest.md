@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-04 11:26_
+_Updated: 2026-02-04 12:23_
 
-- Trump Repeats Call to ‘Nationalize’ Elections, as White House Walks It Back - The New York Times
-- Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly shot dead - BBC
+- 'Painful times in my marriage' - Melinda French Gates reacts to ex-husband in Epstein files - BBC
+- Trump, Changing Course, Throws Harvard Deal Talks Into Chaos - The New York Times
+- Trump, 79, Lets Cankles Slip in Photo With World Leader - The Daily Beast
 - Mother says asking 13-year-old son to swim four hours to save family ‘one of the hardest decisions’ - The Guardian
-- House Ethics eyes "extremely rare" televised trial for Cherfilus-McCormick - Axios
+- Gabbard says Trump asked her to attend FBI raid at Georgia elections hub - Axios
 - 2 Teens Arrested in Fatal Triple Shooting Near San Francisco Playground - KQED
-- Backed by Mamdani, D.S.A. Candidate Wins Election for Mayor’s Old Seat - The New York Times
 - Judge restricts federal use of tear gas, munitions at Portland ICE protests - OregonLive.com
-- Nick Shirley sets his sights on California - The Verge
-- Republicans are freaking out about Hispanic voters after a Texas upset - Politico
+- Columbia Heights fourth-grader released after a month in ICE detention - Sahan Journal
 - U.S.-Iranian Talks Are Still Expected After Gulf Flare-Ups - The Wall Street Journal
-- Fifteen migrants dead after collision with Greek Coast Guard boat - BBC
-- Trump administration sued over visa freeze on immigrants from 75 countries - NPR
+- Walz demands DHS stop detaining Minnesota children - Star Tribune
 - China's Xi calls for 'equal, multipolar world' as he meets Uruguay leader - Reuters
 - SSPDF claims capture of Motot after clashes with SPLA-IO - Sudans Post
+- Fourteen migrants dead after collision with Greek coastguard boat - BBC
+- ‘Humiliated’ Andrew moves out of Royal Lodge - The Times
+- UBS beats expectations with $1.2 billion fourth-quarter profit, plans $3 billion buyback - CNBC
 - Walmart Joins Tech Giants With $1 Trillion Market Valuation - The New York Times
-- Netflix says users can cancel service if HBO Max merger makes it too expensive - Ars Technica
-- Investors Dumping American Stocks as the Country Bets Everything on AI - Futurism
-- Chipotle stock sinks as restaurant chain reports falling traffic, weak guidance - CNBC
+- China bans hidden car door handles, which can trap people after crashes - NPR
+- Senate Banking Democrats demand delay on Warsh nomination until Powell and Cook investigations end - CNBC
 - Nintendo Expands Switch Online's Game Boy Library With Two More Titles - Nintendo Life
-- Windows 11 builds 26300.7733 (Dev) and 26220.7752 (Beta) arrive with built-in Sysmon - Neowin
+- The four best Super Bowl TV deals we found - The Verge
