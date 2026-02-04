@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 06:55_
+_Updated: 2026-02-04 08:08_
 
 ## Top Stories
 
+- Explosion i trapphus i Malmö – en person gripen - SVT Nyheter
+- Trump och Petro i ”positivt” möte - Västerbottens-Kuriren
 - Villa brann ner till grunden utanför Svedala - SVT Nyheter
-- Mathias Bred: Inte en dag försent att byta betygssystem - GP
-- Trumps ex-rådgivare om Grönlandskrisen: ”Uppskjuten” - Aftonbladet
-- Åldras du väl? Här är fyra enkla tester för att kolla din fysik - Dagens Nyheter
-- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Inför ett helt nytt brott – ska även gälla folkvalda - Regeringen.se
-- Mamman våldtogs på äldreboendet – larmet gick till förövaren - Dagens Nyheter
-- Explosion i trapphus i Malmö - SVT Nyheter
-- Busch raderade bild med Bill Gates - Västerbottens-Kuriren
-- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
-- Tusentals kräver att Maduro friges - Västerbottens-Kuriren
-- Flera döda när migrantbåt kolliderade - SVT Nyheter
+- Gävle tingsrätt söker en sommarnotarie - Sveriges Domstolar
+- Felicity och Ellie fick oväntat besök av statsministern: ”Pirrig i benen” - NWT
+- Direkt – Kriget i Ukraina – Trump: Putin höll sitt ord om uppehåll - Dagens Nyheter
+- Saftiga notan för fyllestöket: ”Man forcerar betongsuggor” - Jönköpings-Posten
+- Två lastbilar i krock – förarna till sjukhus - Expressen
+- Flera viltolyckor på kort tid - Östersunds-Posten
+- Forskare: Så hårt slår kortad arbetstid – ”Motsvarar tre riktigt rejäla lågkonjunkturer” - Tidningen Näringslivet
+- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
 - Sverige redo för Grönlandsinsats - SVT Nyheter
-- Olycka i nationalpark – fyra till sjukhus - Expressen
+- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
+- Trump: Vi kräver en miljard dollar - Expressen
+- Andelen kvinnor i styrelser på rekordnivå - SvD
+- Svajigt i Asien – Nintendo rasar - Dagens industri
 - Bygg Skagerrakbanan och bryt järnvägens mångåriga förfall - Bohusläningen
-- Ryssland pressas av Trumps Indienavtal - Dagens industri
-- USA öppnar efter korta nedstängningen - SVT Nyheter
-- Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
+- Stor ändring i deklarationen – 5,5 miljoner påverkas direkt - Aftonbladet
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
-- Läcka i Nasas rymdraket – månuppdraget senareläggs - Omni
+- Samsung Galaxy S26 Ultra-läcka avslöjar stora ändringar för kameran – här är 5 förändringar att vänta - TechRadar
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-02-04 06:55_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -43,6 +42,7 @@ _Updated: 2026-02-04 06:55_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Modi: "Trump avgörande för global fred" - Dagens PS
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
@@ -67,9 +67,9 @@ _Updated: 2026-02-04 06:55_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -77,21 +77,21 @@ _Updated: 2026-02-04 06:55_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - ey.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -121,10 +121,9 @@ _Updated: 2026-02-04 06:55_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -133,12 +132,13 @@ _Updated: 2026-02-04 06:55_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-02-04 06:55_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
