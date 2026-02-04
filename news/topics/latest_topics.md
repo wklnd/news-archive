@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 10:02_
+_Updated: 2026-02-04 11:07_
 
 ## Top Stories
 
-- Hur minns du masskjutningen på Risbergska i Örebro? - SVT Nyheter
-- Mamman våldtogs på äldreboendet – larmet gick till förövaren - Dagens Nyheter
-- Experter: Så påverkar strikta skolmodellen barn - GP
+- DN Direkt – Trump mötte Colombias president i Vita huset - Dagens Nyheter
+- Elev på kontroversiella skolan: Jag fick sitta i isolering i en vecka - GP
+- Direkt – Kriget i Ukraina – Trump: Putin höll sitt ord om uppehåll - Dagens Nyheter
+- Väljarna: S bäst på de viktigaste sakfrågorna - GP
 - Villa nedbrunnen – misstänkt mordbrand - Aftonbladet
-- Misstänkt trippelmördare kopplas till Eslövsdåd - Aftonbladet
-- Mathias Bred: Inte en dag försent att byta betygssystem - GP
-- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Polisen har fått in nya tips om Rickard Andersson - Aftonbladet
+- DN Direkt – Rymningarna från Sis minskar - Dagens Nyheter
+- Ledare: Köttbristen är inte en slump – den är ett politiskt val - NWT
 - Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
-- INSÄNDARE: Lägg inte pengarna på folkomröstningen! - Blekinge Läns Tidning
-- Efter glåporden: Trump och Petro i ”positivt” möte - Aftonbladet
-- Jill Bidens exman åtalas för hustrumord - Västerbottens-Kuriren
+- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Två lastbilar i krock – förarna till sjukhus - Expressen
+- Jill Bidens exman åtalas för hustrumord - GP
+- Liberalerna vill Trumpsäkra handelsavtalet med USA - Omni
+- Anna-Lena Laurén: Vi talar fortfarande om USA som om det var ett land som följer reglerna - Dagens Nyheter
 - Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
-- Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
 - Andelen kvinnor i styrelser på rekordnivå - SvD
+- Riksarkitektens varning: Kan tvingas till reträtt vid kusterna - Affärsvärlden
 - Matpriserna står stilla – men färsen dyrare - SVT Nyheter
-- SEB: Egenföretagarnas optimism tar fart (Cision) - Aktiellt
 - Citadels Griffin efterlyser finanspolitisk disciplin och berömmer Trumps Fed-val - Investing.com Sverige
 - Han gick i gymnasiet när han först såg ett mystiskt fenomen på himlen – nu har han upptäckt något de flesta astronomer bara drömmer om - Illustrerad Vetenskap
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
@@ -28,21 +28,21 @@ _Updated: 2026-02-04 10:02_
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
@@ -57,6 +57,7 @@ _Updated: 2026-02-04 10:02_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -66,10 +67,9 @@ _Updated: 2026-02-04 10:02_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2026-02-04 10:02_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
