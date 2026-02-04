@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 13:55_
+_Updated: 2026-02-04 15:42_
 
 ## Top Stories
 
-- SVT ska spara 355 miljoner kronor - SVT Nyheter
-- Andra rättegångsdagen – ”bonusprinsen” ska tala - Dagens Nyheter
-- Misstänkt guldtjuv på Danderyds sjukhus lider av spelberoende - Mitt i
-- Nya uppgifter om ”nära band” – MP backar om utredning om S-korruption - Sydsvenskan
-- Kristerssons vänner kan reta Åkesson - SvD
-- DN Direkt – En person gripen efter explosion i Malmö - Dagens Nyheter
-- Gävle tingsrätt söker en sommarnotarie - Sveriges Domstolar
-- Skärpt straff för medlemmarna i Aktivklubb - Expressen
-- Liljestrands svar på kritiken – lyfter satsningar - GP
-- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Marius Borg Høiby: ”Vansinnigt svårt” - Dagens Nyheter
+- Misstänkt kidnappningsförsök av barn i Vallentuna - SVT Nyheter
 - DN Direkt – Mette-Marit ställer in utlandsresa - Dagens Nyheter
-- Jill Bidens exman åtalas för hustrumord - Västerbottens-Kuriren
+- Snö på väg in över Göteborg – risk för trafikproblem - GP
+- Nya spanska skyfall – tusentals evakueras • Flera röda varningar i södra Spanien - Aftonbladet
+- Hårda S-kritiken om ”sommarlovet”: Oförskämt - Expressen
+- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Ebba Busch om att vara i förklimakteriet: Jag strålar ju - Aftonbladet
+- Sverige och Danmark skänker luftvärn till Ukraina - Expressen
+- Salims mamma ville rädda honom på Risbergska – löftet från polisen - Expressen
+- Anna-Lena Laurén: Vi talar fortfarande om USA som om det var ett land som följer reglerna - Dagens Nyheter
 - Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
-- Liberalerna vill Trumpsäkra handelsavtalet med USA - Omni
-- Apotea i linje med preliminära beskeden – höjer utdelningen - Dagens industri
-- Aktiekungen Robin en av Sveriges mäktigaste - VLT
-- Riksarkitektens varning: Kan tvingas till reträtt vid kusterna - Affärsvärlden
+- På torsdag går startskottet för en ny kärnvapenupprustning - Expressen
+- UPPDATERAS: Kupijansk rensat på ryssar - Vita Huset försvarar Kremls massiva terrorbombning - cornucopia.se
+- Andelen kvinnor i styrelser på rekordnivå - SvD
+- Högre försäljning än väntat från Coffee Stain i premiärrapporten - Dagens industri
 - "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
+- EQL Pharma: Hack i tillväxtkurvan - Affärsvärlden
 - Han gick i gymnasiet när han först såg ett mystiskt fenomen på himlen – nu har han upptäckt något de flesta astronomer bara drömmer om - Illustrerad Vetenskap
-- Uppgifter om att nästa Xbox kan släppas 2027 - Omni
+- AMD:s partners sägs öka priserna på grafikkort ytterligare - Nordichardware
 
 ## World News
 
@@ -57,7 +57,6 @@ _Updated: 2026-02-04 13:55_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,9 +66,10 @@ _Updated: 2026-02-04 13:55_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -81,50 +81,50 @@ _Updated: 2026-02-04 13:55_
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -132,22 +132,22 @@ _Updated: 2026-02-04 13:55_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
