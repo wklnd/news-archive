@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 12:08_
+_Updated: 2026-02-04 13:07_
 
 ## Top Stories
 
-- En person gripen efter explosion i Malmö - Aftonbladet
-- Efter glåporden: Trump och Petro i ”positivt” möte - Västerbottens-Kuriren
-- ”Syftet är att göra livet så outhärdligt att palestinier självmant väljer att lämna landet” - Dagens Nyheter
-- Snö på väg in över Göteborg – risk för trafikproblem - GP
-- Villa nedbrunnen – misstänkt mordbrand - Aftonbladet
-- Elev på kontroversiella skolan: Jag fick sitta i isolering i en vecka - GP
-- Matpriserna står stilla – men färsen dyrare - SVT Nyheter
-- Statsministern börjar sin valturné med stopp i Kristinehamn - nkp.se
-- Polisen har fått in nya tips om Rickard Andersson - Aftonbladet
-- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
+- Andra rättegångsdagen – ”bonusprinsen” ska tala - Dagens Nyheter
+- Amanda såg containern krossa bilen: ”Panikkänslor” - Aftonbladet
+- DN Direkt – En person gripen efter explosion i Malmö - Dagens Nyheter
+- Vilda vänner kan ge kris för Kristersson - SvD
+- Nya uppgifter om ”nära band” – MP backar om utredning om S-korruption - Sydsvenskan
+- Trump och Petro i ”positivt” möte - Västerbottens-Kuriren
+- DN Direkt – Svea hovrätt skärper straffen för nazister för våldsamma överfall - Dagens Nyheter
+- Våra filmer avslöjade kycklingindustrin – nu följer Uppdrag granskning upp vad som hänt - Djurrättsalliansen
+- 4 februari, 2026 - HBwebben
+- Gävle tingsrätt söker en sommarnotarie - Sveriges Domstolar
 - Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
-- LÄSARTEXT: Manifestation för de liv som släckts i Iran - Allehanda.se
+- Jill Bidens exmake gripen för mord på sin hustru - Expressen
 - Väljarna: S bäst på de viktigaste sakfrågorna - GP
-- Från politiker till ”finfluencers” – de är mäktigast på sociala medier - Dagens Nyheter
+- Uppgift i Iran: Ska inleda kärnsamtal med USA – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Aktiekungen Robin en av Sveriges mäktigaste - VLT
 - Riksarkitektens varning: Kan tvingas till reträtt vid kusterna - Affärsvärlden
+- "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
 - Citadels Griffin efterlyser finanspolitisk disciplin och berömmer Trumps Fed-val - Investing.com Sverige
-- Burry varnar för dödsspiral i krypto: ”Motbjudande” - Omni Ekonomi
 - Han gick i gymnasiet när han först såg ett mystiskt fenomen på himlen – nu har han upptäckt något de flesta astronomer bara drömmer om - Illustrerad Vetenskap
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
-- Google Home får stöd för smarta knappar. Äntligen! - feber.se
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -97,54 +97,54 @@ _Updated: 2026-02-04 12:08_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -161,4 +161,4 @@ _Updated: 2026-02-04 12:08_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
