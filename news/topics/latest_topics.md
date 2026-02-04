@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 05:15_
+_Updated: 2026-02-04 06:55_
 
 ## Top Stories
 
+- Villa brann ner till grunden utanför Svedala - SVT Nyheter
+- Mathias Bred: Inte en dag försent att byta betygssystem - GP
+- Trumps ex-rådgivare om Grönlandskrisen: ”Uppskjuten” - Aftonbladet
+- Åldras du väl? Här är fyra enkla tester för att kolla din fysik - Dagens Nyheter
+- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Inför ett helt nytt brott – ska även gälla folkvalda - Regeringen.se
+- Mamman våldtogs på äldreboendet – larmet gick till förövaren - Dagens Nyheter
 - Explosion i trapphus i Malmö - SVT Nyheter
-- Tusentals kräver att Maduro friges - Aftonbladet
-- Bara 12 personer fick lämna Gaza första dagen - Hufvudstadsbladet
-- På en månad vändes livet upp och ned – Folke, 7, kämpar mot cancer - Smålandsposten
-- Flera viltolyckor på kort tid - Östersunds-Posten
-- Forskare: Så hårt slår kortad arbetstid – ”Motsvarar tre riktigt rejäla lågkonjunkturer” - Tidningen Näringslivet
-- Marwa räddade Adnans liv på Risbergska – nu har han döpt sin dotter efter henne - SVT Nyheter
 - Busch raderade bild med Bill Gates - Västerbottens-Kuriren
 - Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
-- Umeå kommun bestrider uppsagt avtal om visselblåsning - Folkbladet
+- Tusentals kräver att Maduro friges - Västerbottens-Kuriren
+- Flera döda när migrantbåt kolliderade - SVT Nyheter
 - Sverige redo för Grönlandsinsats - SVT Nyheter
-- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
-- Trump: Vi kräver en miljard dollar - Expressen
-- Uppgift i Iran: Ska inleda kärnsamtal med USA - GP
-- Trafikverkets utmanare får godkänt – men också medskick - Altinget.se
+- Olycka i nationalpark – fyra till sjukhus - Expressen
+- Bygg Skagerrakbanan och bryt järnvägens mångåriga förfall - Bohusläningen
 - Ryssland pressas av Trumps Indienavtal - Dagens industri
-- Kalmar slår rekord i gästnätter – återhämtning sedan pandemin - SVT Nyheter
+- USA öppnar efter korta nedstängningen - SVT Nyheter
 - Han utmanade Ebba Busch - nu har Esbjörn Bolin gått bort - Expressen
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
-- "Resident Evil"-kortfilm kan vara den bästa filmatiseringen av skräckspelen vi sett - MovieZine.se
+- Läcka i Nasas rymdraket – månuppdraget senareläggs - Omni
 
 ## World News
 
@@ -67,9 +67,9 @@ _Updated: 2026-02-04 05:15_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,11 +77,11 @@ _Updated: 2026-02-04 05:15_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
+- EY i Almedalen 2025 | EY - Sverige - ey.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -97,25 +97,25 @@ _Updated: 2026-02-04 05:15_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,9 +123,10 @@ _Updated: 2026-02-04 05:15_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -138,15 +139,15 @@ _Updated: 2026-02-04 05:15_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -155,10 +156,9 @@ _Updated: 2026-02-04 05:15_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
