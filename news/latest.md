@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-05 00:58_
+_Updated: 2026-02-05 01:57_
 
+- Supreme Court Clears Way for California Voting Map - The New York Times
+- Melinda French Gates Addresses New References to Bill Gates in Epstein Files - The New York Times
 - Trump’s Call to ‘Nationalize’ Elections Adds to State Officials’ Alarm - The New York Times
 - A Trump ‘Blockade’ Is Stalling Hundreds of Wind and Solar Projects Nationwide - The New York Times
+- 61% Of Voters Think The Trump Administration Has Not Given An Honest Account Of The Fatal Shooting Of Alex Pretti, Quinnipiac University National Poll Finds; 58% Of Voters Think DHS Secretary Kristi Noem Should Be Removed - Quinnipiac University Poll
+- Maxine Waters’ ‘Can you shut him up’ moment with Scott Bessent, explained - cnn.com
+- With latest Minnesota fraud case looming, the lead prosecutors have quit - CBS News
+- Democrats say ‘dramatic changes’ needed for immigration enforcement as DHS funding negotiations continue – live - The Guardian
+- What the Crackdown Has Done to Minneapolis Children - The New York Times
 - U.S.-Iran nuclear talks back on after Arab leaders lobby White House - Axios
-- Fears of new arms race as US-Russia nuclear weapons treaty due to expire - BBC
-- Fulton county leader says he was warned he faced arrest before FBI raid - The Guardian
-- What to know about the disappearance of Nancy Guthrie, mother of 'Today' show's Savannah Guthrie - AP News
-- Federal agency probes Nike over alleged discrimination against White employees - CNN
-- Steve Bannon calls for immigration agents at polling sites during midterms - The Guardian
-- US wants to create a critical minerals trading bloc with its allies to counter China - AP News
 - Israel strikes across Gaza, killing 24, and says militants attacked its soldiers - AP News
-- Russia jails stand-up comic Artemy Ostani over war joke - Al Jazeera
-- Trump, Xi Discuss Taiwan and Trade Ahead of Planned Summit - Bloomberg.com
-- At Least 15 Die in Rare Collision Between Migrant Boat and Greek Patrol Vessel - The New York Times
-- Pizza Hut is closing hundreds of locations - CNN
+- Mother says asking 13-year-old son to swim four hours to save family ‘one of the hardest decisions’ - The Guardian
+- EU countries seal deal on €90bn loan for Ukraine funded by joint debt - Euronews.com
+- Gazans returning through Rafah crossing describe checks by Palestinian militia - BBC
+- Moltbook is the newest social media platform — but it’s just for AI bots - NPR
 - Corporate DEI index sees 65% drop in participation from Fortune 500 companies - CNBC
-- Elon Musk’s bold new plan to put AI in orbit isn’t as crazy as it sounds - CNN
+- Elon Musk’s bold new plan to put AI in orbit isn’t as crazy as it sounds - cnn.com
 - Tesla falls after senators voice skepticism about FSD and lack of lidar - Sherwood News
+- Google announces Pixel 10a with completely flat camera, pre-order Feb 18 - 9to5Google
 - Spotify launches offline lyrics, translations, and lyric previews - The Verge
-- January 2026 Google Play system update just turned into November 2025? You're not alone - Android Authority
-- FBI Couldn’t Get into WaPo Reporter’s iPhone Because It Had Lockdown Mode Enabled - 404 Media
