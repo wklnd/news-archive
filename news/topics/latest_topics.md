@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 15:42_
+_Updated: 2026-02-04 17:09_
 
 ## Top Stories
 
-- Marius Borg Høiby: ”Vansinnigt svårt” - Dagens Nyheter
-- Misstänkt kidnappningsförsök av barn i Vallentuna - SVT Nyheter
-- DN Direkt – Mette-Marit ställer in utlandsresa - Dagens Nyheter
-- Snö på väg in över Göteborg – risk för trafikproblem - GP
-- Nya spanska skyfall – tusentals evakueras • Flera röda varningar i södra Spanien - Aftonbladet
-- Hårda S-kritiken om ”sommarlovet”: Oförskämt - Expressen
-- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Ebba Busch om att vara i förklimakteriet: Jag strålar ju - Aftonbladet
-- Sverige och Danmark skänker luftvärn till Ukraina - Expressen
-- Salims mamma ville rädda honom på Risbergska – löftet från polisen - Expressen
-- Anna-Lena Laurén: Vi talar fortfarande om USA som om det var ett land som följer reglerna - Dagens Nyheter
+- EU återupptar arbetet med att genomföra handelsavtalet med USA - SVT Nyheter
+- Direkt – Kriget i Ukraina – EU-länder överens om miljardstöd till Kiev - Dagens Nyheter
+- Därför kraschade stridsbåten i skärgården - GP
 - Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
+- Alpint: Läkaren om Lindsey Vonns beslut att tävla utan korsband: ”Inte jättesmart” - SVT Nyheter
 - På torsdag går startskottet för en ny kärnvapenupprustning - Expressen
+- Misstänkt kidnappningsförsök av barn i Vallentuna - SVT Nyheter
+- Snö på väg in över Göteborg – risk för trafikproblem - GP
+- Polisen har fått in nya tips om Rickard Andersson - Aftonbladet
+- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Anna-Lena Laurén: Vi talar fortfarande om USA som om det var ett land som följer reglerna - Dagens Nyheter
+- Man döms till fängelse – våldtog 13-årig flicka - Mitt i
 - UPPDATERAS: Kupijansk rensat på ryssar - Vita Huset försvarar Kremls massiva terrorbombning - cornucopia.se
+- Sverige redo för Grönlandsinsats - SVT Nyheter
+- Dags att binda räntan? Så ska du tänka kring världsläget och inflationen - Sydsvenskan
 - Andelen kvinnor i styrelser på rekordnivå - SvD
-- Högre försäljning än väntat från Coffee Stain i premiärrapporten - Dagens industri
 - "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
-- EQL Pharma: Hack i tillväxtkurvan - Affärsvärlden
-- Han gick i gymnasiet när han först såg ett mystiskt fenomen på himlen – nu har han upptäckt något de flesta astronomer bara drömmer om - Illustrerad Vetenskap
-- AMD:s partners sägs öka priserna på grafikkort ytterligare - Nordichardware
+- Coffee Stain: Uppgraderar rådet - Affärsvärlden
+- 25 år senare: Minns ni hur Phantasy Star Online förändrade allt? - FZ.se
+- Har ansökt om bygglov för datacenter - Avesta Tidning
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -39,11 +39,11 @@ _Updated: 2026-02-04 15:42_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Modi: "Trump avgörande för global fred" - Dagens PS
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -57,6 +57,7 @@ _Updated: 2026-02-04 15:42_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,9 +68,8 @@ _Updated: 2026-02-04 15:42_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -97,13 +97,12 @@ _Updated: 2026-02-04 15:42_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -116,6 +115,7 @@ _Updated: 2026-02-04 15:42_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -142,12 +142,12 @@ _Updated: 2026-02-04 15:42_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -159,6 +159,6 @@ _Updated: 2026-02-04 15:42_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
