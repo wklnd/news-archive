@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 13:07_
+_Updated: 2026-02-04 13:55_
 
 ## Top Stories
 
+- SVT ska spara 355 miljoner kronor - SVT Nyheter
 - Andra rättegångsdagen – ”bonusprinsen” ska tala - Dagens Nyheter
-- Amanda såg containern krossa bilen: ”Panikkänslor” - Aftonbladet
-- DN Direkt – En person gripen efter explosion i Malmö - Dagens Nyheter
-- Vilda vänner kan ge kris för Kristersson - SvD
+- Misstänkt guldtjuv på Danderyds sjukhus lider av spelberoende - Mitt i
 - Nya uppgifter om ”nära band” – MP backar om utredning om S-korruption - Sydsvenskan
-- Trump och Petro i ”positivt” möte - Västerbottens-Kuriren
-- DN Direkt – Svea hovrätt skärper straffen för nazister för våldsamma överfall - Dagens Nyheter
-- Våra filmer avslöjade kycklingindustrin – nu följer Uppdrag granskning upp vad som hänt - Djurrättsalliansen
-- 4 februari, 2026 - HBwebben
+- Kristerssons vänner kan reta Åkesson - SvD
+- DN Direkt – En person gripen efter explosion i Malmö - Dagens Nyheter
 - Gävle tingsrätt söker en sommarnotarie - Sveriges Domstolar
+- Skärpt straff för medlemmarna i Aktivklubb - Expressen
+- Liljestrands svar på kritiken – lyfter satsningar - GP
+- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Mette-Marit ställer in utlandsresa - Dagens Nyheter
+- Jill Bidens exman åtalas för hustrumord - Västerbottens-Kuriren
 - Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
-- Jill Bidens exmake gripen för mord på sin hustru - Expressen
-- Väljarna: S bäst på de viktigaste sakfrågorna - GP
-- Uppgift i Iran: Ska inleda kärnsamtal med USA – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Liberalerna vill Trumpsäkra handelsavtalet med USA - Omni
+- Apotea i linje med preliminära beskeden – höjer utdelningen - Dagens industri
 - Aktiekungen Robin en av Sveriges mäktigaste - VLT
 - Riksarkitektens varning: Kan tvingas till reträtt vid kusterna - Affärsvärlden
 - "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
-- Citadels Griffin efterlyser finanspolitisk disciplin och berömmer Trumps Fed-val - Investing.com Sverige
 - Han gick i gymnasiet när han först såg ett mystiskt fenomen på himlen – nu har han upptäckt något de flesta astronomer bara drömmer om - Illustrerad Vetenskap
-- Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
+- Uppgifter om att nästa Xbox kan släppas 2027 - Omni
 
 ## World News
 
@@ -97,25 +97,25 @@ _Updated: 2026-02-04 13:07_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
