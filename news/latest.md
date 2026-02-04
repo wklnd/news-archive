@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-04 07:00_
+_Updated: 2026-02-04 08:30_
 
 - Clintons to sit for depositions in House panel's Epstein inquiry later this month, Comer says - ABC News
-- Trump says states are agents of federal government in elections - CNN
+- Renée Good’s brothers, others describe assaults, shootings at hearing - The Washington Post
 - Mother says asking 13-year-old son to swim four hours to save family ‘one of the hardest decisions’ ever made - The Guardian
 - House Ethics eyes "extremely rare" televised trial for Cherfilus-McCormick - Axios
-- Sen. Warner calls Gabbard to testify after Georgia election office raid, Trump FBI call - CNBC
-- William Stevenson, Jill Biden’s Ex-Husband, Is Accused of Killing His Current Wife - The New York Times
-- Democrats just handed RFK Jr. billions more than he asked for. It was a big risk. - Politico
-- U.S.-Iranian Talks Are Still Expected After Gulf Flare-Ups - The Wall Street Journal
-- Putin 'kept his word' — Trump reacts to latest Russian strike on Ukraine - The Kyiv Independent
 - X offices raided in France as UK opens fresh investigation into Grok - BBC
-- EU and UK to ramp up talks on closer ties 10 years after Brexit vote - Euronews.com
-- Spain becomes first country in Europe to ban social media for under-16s - CNBC
+- Trump, Changing Course, Throws Harvard Deal Talks Into Chaos - The New York Times
+- William Stevenson: Jill Biden’s ex-husband charged with murder in death of his current wife - CNN
+- Democrats just handed RFK Jr. billions more than he asked for. It was a big risk. - Politico
+- Gabbard says Trump asked her to attend FBI raid at Georgia elections hub - Axios
+- Walz demands DHS stop detaining Minnesota children - Star Tribune
+- China's Xi calls for 'equal, multipolar world' as he meets Uruguay leader - Reuters
+- Populist conservative Laura Fernández wins Costa Rica's presidential election - NPR
 - SSPDF claims capture of Motot after clashes with SPLA-IO - Sudans Post
-- Anthropic’s Move Into Legal Is Sinking Data Services Stocks - Bloomberg.com
-- Gold extends gains, breaking past $5,000; Asia stocks mostly track Wall Street losses on tech pullback - CNBC
-- Signs Point To Continuity On Disney Movie Studio Side As Josh D’Amaro Moves Into CEO Role - Deadline
+- Fourteen migrants dead after collision with Greek coastguard boat - BBC
+- Anthropic AI Tool Sparks Selloff From Software to Broader Market - Bloomberg.com
+- China bans hidden car door handles, which can trap people after crashes - NPR
+- Walmart hits $1 trillion market value, joins club dominated by Big Tech giants - Reuters
 - Senate Banking Democrats demand delay on Warsh nomination until Powell and Cook investigations end - CNBC
-- Nintendo shares sink 10% as gaming giant faces memory shortage concerns - CNBC
 - I Bought the Galaxy Z TriFold for Over $3,000. Follow Along as I Test It (Live Updates) - CNET
-- Sony is working on its next Xperia phones, and they’re all but confirmed to go almost global - PhoneArena
+- The four best Super Bowl TV deals we found - The Verge
