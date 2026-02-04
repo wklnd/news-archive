@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 08:08_
+_Updated: 2026-02-04 09:27_
 
 ## Top Stories
 
-- Explosion i trapphus i Malmö – en person gripen - SVT Nyheter
-- Trump och Petro i ”positivt” möte - Västerbottens-Kuriren
-- Villa brann ner till grunden utanför Svedala - SVT Nyheter
+- Hur minns du masskjutingen på Risbergska i Örebro? - SVT Nyheter
+- En person gripen efter explosion i Malmö - GP
+- Svedala: Villa nedbrunnen – utreds som misstänkt mordbrand - Aftonbladet
+- Mamman våldtogs på äldreboendet – larmet gick till förövaren - Dagens Nyheter
+- Elev på kontroversiella skolan: Jag fick sitta i isolering i en vecka - GP
+- Direkt – Kriget i Ukraina – Trump: Putin höll sitt ord om uppehåll - Dagens Nyheter
+- DN Direkt – Misstänkt trippelmördare kopplas till Eslövsdåd - Dagens Nyheter
 - Gävle tingsrätt söker en sommarnotarie - Sveriges Domstolar
 - Felicity och Ellie fick oväntat besök av statsministern: ”Pirrig i benen” - NWT
-- Direkt – Kriget i Ukraina – Trump: Putin höll sitt ord om uppehåll - Dagens Nyheter
-- Saftiga notan för fyllestöket: ”Man forcerar betongsuggor” - Jönköpings-Posten
-- Två lastbilar i krock – förarna till sjukhus - Expressen
-- Flera viltolyckor på kort tid - Östersunds-Posten
-- Forskare: Så hårt slår kortad arbetstid – ”Motsvarar tre riktigt rejäla lågkonjunkturer” - Tidningen Näringslivet
+- Liljestrands svar på kritiken – lyfter satsningar - Västerbottens-Kuriren
+- Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
 - Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
+- Fem palestinier fick lämna Gaza första dagen som gränsen öppnats - ETC.se
 - Sverige redo för Grönlandsinsats - SVT Nyheter
-- Lista: Jodå, Biden – USA ÄR en nation som skjuter ner sina medborgare på gatan - Proletären
-- Trump: Vi kräver en miljard dollar - Expressen
 - Andelen kvinnor i styrelser på rekordnivå - SvD
-- Svajigt i Asien – Nintendo rasar - Dagens industri
-- Bygg Skagerrakbanan och bryt järnvägens mångåriga förfall - Bohusläningen
-- Stor ändring i deklarationen – 5,5 miljoner påverkas direkt - Aftonbladet
-- Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
-- Samsung Galaxy S26 Ultra-läcka avslöjar stora ändringar för kameran – här är 5 förändringar att vänta - TechRadar
+- SEB: Egenföretagarnas optimism tar fart (Cision) - Aktiellt
+- Citadels Griffin efterlyser finanspolitisk disciplin och berömmer Trumps Fed-val - Investing.com Sverige
+- EQT AB: Vinstregn väntar - Affärsvärlden
+- Test: Maxat tangentbord för kräsna gamers - PC för Alla
+- Android 16 QPR3 ger Google Pixel bättre koll på nätet och batteriet - Teknikveckan
 
 ## World News
 
@@ -32,17 +32,17 @@ _Updated: 2026-02-04 08:08_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
@@ -57,6 +57,7 @@ _Updated: 2026-02-04 08:08_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -66,10 +67,9 @@ _Updated: 2026-02-04 08:08_
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
