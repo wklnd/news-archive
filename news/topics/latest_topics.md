@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 00:53_
+_Updated: 2026-02-05 01:52_
 
 ## Top Stories
 
+- Diplomat bodde i Epsteins lägenhet - SVT Nyheter
 - Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
-- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
+- Ryssland och USA utan kärnvapenavtal för första gången på över 50 år - Omni
+- Starmer: Ångrar Mandelson som USA-ambassadör - Aftonbladet
 - Trumps plan efter balsalen: Världens största triumfbåge - Dagens Nyheter
-- DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
-- Meteorolog: Utesluter inte fler isdygn - SvD
-- Analyser: Kreml var aldrig seriöst med vapenvilan - Omni
-- Regeringens svar i uranstriden – föreslår nytt veto - SVT Nyheter
-- Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
-- Polisen: Trend just nu att hota med skolskjutning - Expressen
-- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
+- Marius Borg Høiby om videobeviset: Minns inte att jag filmat - SVT Nyheter
+- DN Direkt – Cancerdiagnos dröjde ett år – patienten avled - Dagens Nyheter
+- Snö på väg in över Göteborg – risk för trafikproblem - GP
+- Regeringens svar i uranstriden – föreslår nytt veto - Aftonbladet
+- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
 - Stormaktskampen når Antarktis – USA oroas av Kinas planer - Dagens Nyheter
+- Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
+- Paret Valentina och Valerii dog i varandras armar - jagade av ryska drönare - Expressen
+- Från sopbil i Majorna till smakmakten i snus-Sverige - Dagens PS
 - Högre försäljning än väntat från Coffee Stain i premiärrapporten - Dagens industri
+- Toppcheferna lämnar Husqvarna – vd:n: ”Mycket nöjd med beslutet” - EFN
 - En miljon råttor fångades – så slipper du dem - Aftonbladet
-- Tusentals vräkta: ”Något är djupt fel” - Aftonbladet
-- Andelen kvinnor i styrelser på rekordnivå - SvD
 - Varför kan jag inte spela upp OS-sändningar? - SVT Nyheter
 - Kattriket - Zita Folkets Bio
-- Konkurs för konsultföretag i Sjöbo - Ystads Allehanda
-- ”Fallout”-finalen lämnar många frågor – här är 4 som behöver få svar i nästa säsong - MovieZine.se
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-02-05 00:53_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Avlyssningsskandalen växer - Journalisten
 
 ## Technology
 
@@ -63,9 +63,9 @@ _Updated: 2026-02-05 00:53_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -81,18 +81,18 @@ _Updated: 2026-02-05 00:53_
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -159,6 +159,6 @@ _Updated: 2026-02-05 00:53_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
