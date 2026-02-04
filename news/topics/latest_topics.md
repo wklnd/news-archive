@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 11:07_
+_Updated: 2026-02-04 12:08_
 
 ## Top Stories
 
-- DN Direkt – Trump mötte Colombias president i Vita huset - Dagens Nyheter
-- Elev på kontroversiella skolan: Jag fick sitta i isolering i en vecka - GP
-- Direkt – Kriget i Ukraina – Trump: Putin höll sitt ord om uppehåll - Dagens Nyheter
-- Väljarna: S bäst på de viktigaste sakfrågorna - GP
+- En person gripen efter explosion i Malmö - Aftonbladet
+- Efter glåporden: Trump och Petro i ”positivt” möte - Västerbottens-Kuriren
+- ”Syftet är att göra livet så outhärdligt att palestinier självmant väljer att lämna landet” - Dagens Nyheter
+- Snö på väg in över Göteborg – risk för trafikproblem - GP
 - Villa nedbrunnen – misstänkt mordbrand - Aftonbladet
-- DN Direkt – Rymningarna från Sis minskar - Dagens Nyheter
-- Ledare: Köttbristen är inte en slump – den är ett politiskt val - NWT
-- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
-- Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Två lastbilar i krock – förarna till sjukhus - Expressen
-- Jill Bidens exman åtalas för hustrumord - GP
-- Liberalerna vill Trumpsäkra handelsavtalet med USA - Omni
-- Anna-Lena Laurén: Vi talar fortfarande om USA som om det var ett land som följer reglerna - Dagens Nyheter
-- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
-- Andelen kvinnor i styrelser på rekordnivå - SvD
-- Riksarkitektens varning: Kan tvingas till reträtt vid kusterna - Affärsvärlden
+- Elev på kontroversiella skolan: Jag fick sitta i isolering i en vecka - GP
 - Matpriserna står stilla – men färsen dyrare - SVT Nyheter
+- Statsministern börjar sin valturné med stopp i Kristinehamn - nkp.se
+- Polisen har fått in nya tips om Rickard Andersson - Aftonbladet
+- Stora skillnader i kulturbudget mellan kommunerna - Dagens Nyheter
+- Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
+- LÄSARTEXT: Manifestation för de liv som släckts i Iran - Allehanda.se
+- Väljarna: S bäst på de viktigaste sakfrågorna - GP
+- Från politiker till ”finfluencers” – de är mäktigast på sociala medier - Dagens Nyheter
+- Riksarkitektens varning: Kan tvingas till reträtt vid kusterna - Affärsvärlden
 - Citadels Griffin efterlyser finanspolitisk disciplin och berömmer Trumps Fed-val - Investing.com Sverige
+- Burry varnar för dödsspiral i krypto: ”Motbjudande” - Omni Ekonomi
 - Han gick i gymnasiet när han först såg ett mystiskt fenomen på himlen – nu har han upptäckt något de flesta astronomer bara drömmer om - Illustrerad Vetenskap
 - Snart kan du blockera alla AI-funktioner i Firefox - Computer Sweden
+- Google Home får stöd för smarta knappar. Äntligen! - feber.se
 
 ## World News
 
@@ -143,8 +143,8 @@ _Updated: 2026-02-04 11:07_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -153,12 +153,12 @@ _Updated: 2026-02-04 11:07_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
