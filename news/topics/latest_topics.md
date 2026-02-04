@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 21:57_
+_Updated: 2026-02-04 23:00_
 
 ## Top Stories
 
-- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
-- Misstänkt kidnappningsförsök – främling försökte locka in barn i bil - Aftonbladet
-- Nytt betygssystem 1-10: begåvade barn får inte högsta betyg på glädjebetygsskolor - cornucopia.se
-- 700 federala poliser lämnar Minnesota - Hufvudstadsbladet
-- Polisen: Trend just nu att hota med skolskjutning - Expressen
+- Tredagarskaos i Götaland i helgen - Aftonbladet
 - Starmer: Ångrar Mandelson som USA-ambassadör - Aftonbladet
-- Fem personer åtalas för trippelmordet i Uppsala - SVT Nyheter
-- DN Direkt – Uppgifter om stor polisinsats i Kramfors - Dagens Nyheter
+- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
+- Brottsmisstankarna mot riksdagsledamoten Katja Nyberg – detta har hänt - Dagens Nyheter
+- USA bekräftar möte med Iran i Oman - Aftonbladet
+- Analyser: Kreml var aldrig seriöst med vapenvilan - Omni
 - Könsval i äldrevården – Karin vill bli duschad av en kvinna - SVT Nyheter
-- Man döms till fängelse och utvisning för grov våldtäkt mot barn - polisen.se
+- Polisen: Trend just nu att hota med skolskjutning - Expressen
+- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
+- Sju personer greps i polisinsats i Kramfors - SVT Nyheter
 - Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
 - Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
 - Påven uppmanar länderna att förlänga kärnavtalet - Omni
-- Dags att binda räntan? Så ska du tänka kring världsläget och inflationen - Sydsvenskan
-- Nya rekord på Stockholmsbörsen – Husqvarna rasar - Dagens industri
-- Andelen kvinnor i styrelser på rekordnivå - SvD
+- "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
 - En miljon råttor fångades – så slipper du dem - Aftonbladet
-- Kattriket - Zita Folkets Bio
+- Tusentals vräkta: ”Något är djupt fel” - Aftonbladet
+- LEDARE: Känns det bra i magen att sparka henne? - Tidningen Ångermanland
 - En omtyckt kollega har lämnat oss - Sundsvalls Tidning
+- ”Fallout”-finalen lämnar många frågor – här är 4 som behöver få svar i nästa säsong - MovieZine.se
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Millennials are worried about retirement. Is it too late to start saving? - National - Global News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -47,6 +46,7 @@ _Updated: 2026-02-04 21:57_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 
 ## Technology
 
@@ -121,44 +121,44 @@ _Updated: 2026-02-04 21:57_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
