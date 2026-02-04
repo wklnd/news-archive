@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 19:25_
+_Updated: 2026-02-04 20:08_
 
 ## Top Stories
 
 - Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
-- Trump nöjd efter Putins attack: Han höll sitt ord - Expressen
-- EU återupptar arbete med USA-handel - SvD
+- Främmande man försökte locka in barn i bil - Aftonbladet
+- Direkt – Kriget i Ukraina – EU-länder överens om miljardstöd till Kiev - Dagens Nyheter
+- Regeringen inför nytt betygssystem – F slopas - Aftonbladet
 - DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
-- Container föll fritt – krossade en bil - Expressen
-- Friades – får nu åtta år för barnvåldtäkter - Aftonbladet
-- DN Direkt – Regeringens svar i uranstriden – föreslår nytt veto - Dagens Nyheter
-- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
+- Strandhäll: ”Ett självmål av Svenskt Näringsliv” - SvD
+- Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
 - Sju personer greps i polisinsats i Kramfors - SVT Nyheter
 - Biskopens KD-kritik: Inhuman migrationspolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
+- Polisen har fått in nya tips om Rickard Andersson - Aftonbladet
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Svenskarna sticker ut i EU – miljön viktigast - Västerbottens-Kuriren
+- EU-undersökning: höjda röster för mer handling på europeisk nivå - European Parliament
+- Uppmaningen: Gå samman mot Trump, Ryssland och Kina - Dagens Nyheter
 - På torsdag går startskottet för en ny kärnvapenupprustning - Expressen
 - Dags att binda räntan? Så ska du tänka kring världsläget och inflationen - Sydsvenskan
 - Andelen kvinnor i styrelser på rekordnivå - SvD
-- "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
+- Nytt fall på Nasdaq – chipbolag rasar på rapport - Dagens industri
+- KAN INTE VARA NÖJD MED EN FÖRLUST SOM DENNA - VD - Placera.se
 - Elle Fanning är gravid och skaffar OnlyFans i lovande serie på Apple TV+ - MovieZine.se
-- AMD:s partners sägs öka priserna på grafikkort ytterligare - Nordichardware
 - 25 år senare: Minns ni hur Phantasy Star Online förändrade allt? - FZ.se
 
 ## World News
@@ -34,8 +34,8 @@ _Updated: 2026-02-04 19:25_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Sky News | Kanalinfo | Kanalpaket - Bredbandsval.se
@@ -97,16 +97,15 @@ _Updated: 2026-02-04 19:25_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -116,38 +115,39 @@ _Updated: 2026-02-04 19:25_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
