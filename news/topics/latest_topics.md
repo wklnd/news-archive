@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-04 21:23_
+_Updated: 2026-02-04 21:57_
 
 ## Top Stories
 
 - Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
-- Starkare sanktioner krävs mot Iran - SvD
-- Polisen vill sparka Katja Nyberg efter brottsmisstankarna - Dagens Nyheter
-- Direkt – Kriget i Ukraina – EU-länder överens om miljardstöd till Kiev - Dagens Nyheter
+- Misstänkt kidnappningsförsök – främling försökte locka in barn i bil - Aftonbladet
 - Nytt betygssystem 1-10: begåvade barn får inte högsta betyg på glädjebetygsskolor - cornucopia.se
 - 700 federala poliser lämnar Minnesota - Hufvudstadsbladet
-- Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
-- Regeringens svar i uranstriden – föreslår nytt veto - SVT Nyheter
-- Könsval i äldrevården – Karin vill bli duschad av en kvinna - SVT Nyheter
 - Polisen: Trend just nu att hota med skolskjutning - Expressen
+- Starmer: Ångrar Mandelson som USA-ambassadör - Aftonbladet
+- Fem personer åtalas för trippelmordet i Uppsala - SVT Nyheter
+- DN Direkt – Uppgifter om stor polisinsats i Kramfors - Dagens Nyheter
+- Könsval i äldrevården – Karin vill bli duschad av en kvinna - SVT Nyheter
+- Man döms till fängelse och utvisning för grov våldtäkt mot barn - polisen.se
 - Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
-- Starmer: Ångrar Mandelson som USA-ambassadör - GP
+- Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Guvernör: Minst sju döda vid marknad - Folkbladet
+- Påven uppmanar länderna att förlänga kärnavtalet - Omni
 - Dags att binda räntan? Så ska du tänka kring världsläget och inflationen - Sydsvenskan
+- Nya rekord på Stockholmsbörsen – Husqvarna rasar - Dagens industri
 - Andelen kvinnor i styrelser på rekordnivå - SvD
-- Börsuppgången tar fart – storbank draglok - Folkbladet
-- "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
+- En miljon råttor fångades – så slipper du dem - Aftonbladet
+- Kattriket - Zita Folkets Bio
 - En omtyckt kollega har lämnat oss - Sundsvalls Tidning
-- Trailerpremiär: Blir "War Machine" den häftigaste filmen någonsin på Netflix? - MovieZine.se
 
 ## World News
 
@@ -81,41 +81,41 @@ _Updated: 2026-02-04 21:23_
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -142,12 +142,12 @@ _Updated: 2026-02-04 21:23_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -159,6 +159,6 @@ _Updated: 2026-02-04 21:23_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
