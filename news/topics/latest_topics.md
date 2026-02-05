@@ -1,36 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 13:08_
+_Updated: 2026-02-05 13:56_
 
 ## Top Stories
 
 - DN Direkt – Høiby googlade sitt namn – och ordet ”våldtäkt” - Dagens Nyheter
 - Vance: Danmark ljuger om Grönlandsavtal - SvD
-- Socialdemokraternas valprogram: Var är de nya politiska förslagen? - Altinget.se
 - ”Enormt lyft”: Marinen ska köpa fyra fregatter - SvD
 - Tyskarna uppmanas att ”spotta i nävarna” - SvD
-- Skridskoåkare gick genom isen – polisen varnar - Aftonbladet
-- LEDARE: Vad f-n får vi för pengarna? - Östersunds-Posten
-- Misstänkte mördarens brev till sig själv: "Ska köra över alla" - UNT
+- Statsminister Ulf Kristerssons tal vid årsdagen av masskjutningen på Campus Risbergska - Regeringen.se
+- S säger nej till förslag om tonårsutvisningar - SVT Nyheter
+- Maktutredning larmar: ”Skogsindustriellt komplex” styr Sverige - Dagens Nyheter
 - Ministern välkomnar SVT:s granskning av psykiatrin i Norrbotten - SVT Nyheter
-- Man död i trafikolycka i Lerum - SVT Nyheter
+- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
+- Misstänkte mördarens brev till sig själv: "Ska köra över alla" - UNT
 - Ingmar Nevéus: Omritade kartor är inte största hotet mot valen i USA - Dagens Nyheter
-- Finland varnar USA: Undvik att tala om artikel fem - Omni
 - Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Alla säljer samma sak – men ingen berättar vad det egentligen är - Dagens Nyheter
+- UPPDATERAS: Starlinkblockeringen har stoppat ryska markoffensiver - cornucopia.se
+- Två cancerbesked – nu berättar Svanberg om sin tuffaste match - Dagens PS
 - Top 10 biggest drug launches 2026 - Life Science Sweden
 - Forskare: ”Finns risk att en del väljer bort sex” - SvD
+- Bang & Olufsen gör hörlurar med koreansk rappare. Beoplay H100 G-DRAGON Edition. - feber.se
 - Så kan oljejätte få Toyota att lyckas med solid state-batteri - Elbilen
 - Epic Games Stores launcher ska förbättras p.g.a. "den suger" - FZ.se
-- Nu kan du spela Civilization 7 på Apple Arcade - Macworld.se
 
 ## World News
 
-- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -47,6 +45,8 @@ _Updated: 2026-02-05 13:08_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 
 ## Technology
 
@@ -98,6 +98,8 @@ _Updated: 2026-02-05 13:08_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
@@ -106,16 +108,14 @@ _Updated: 2026-02-05 13:08_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-02-05 13:08_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
