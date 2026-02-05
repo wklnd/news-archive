@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-05 14:01_
+_Updated: 2026-02-05 15:51_
 
-- Poll: Two-thirds of Americans say ICE has 'gone too far' in immigration enforcement - NPR
-- China’s Xi Presses Trump on Taiwan in Phone Call - The New York Times
-- Democrats plan DHS funding offer as Thune floats long-term punt - Politico
-- 'I never left your side': Emails reveal more about Mandelson's Epstein friendship - BBC
 - New Start: US-Russia nuclear weapons treaty due to expire raising fears of arms race - BBC
+- China’s Xi Presses Trump on Taiwan in Phone Call - The New York Times
 - Housecleaner said multiple illnesses tied to Las Vegas house with possible bio lab: Police report - ABC News
-- Texas A&M professor files suit after firing over gender identity lesson - Politico
-- Study ties particle pollution from wildfire smoke to 24,100 US deaths per year - AP News
+- Condescending Vance Tells Kaitlan Collins to ‘Have Some Fun’ After Trump Meltdown - The Daily Beast
+- 'I never left your side': Emails reveal more about Mandelson's Epstein friendship - BBC
 - Dems embrace "law and order" in ICE shutdown fight - Axios
-- Maxine Waters’ ‘Can you shut him up’ moment with Scott Bessent, explained - CNN
-- Russian Comedian Accused of Making a Joke About Veterans Gets Prison Time - The New York Times
-- Australia says attempted bombing of national day protest was act of terror - Reuters
+- Steve Bannon calls for Trump to deploy ICE and military troops to polling sites - Politico
+- Trump Administration Live Updates: Democrats to Lay Out Demands For Restrictions on Immigration Agents - The New York Times
+- Spanberger takes further steps to remove Virginia from ICE operations - The Washington Post
+- House passes measure to force DC’s hand on tax cuts - Politico
+- Dutch Queen Joins the Military - The New York Times
 - Gazans returning through Rafah crossing describe checks by Palestinian militia - BBC
 - Ukrainians Defy Russia’s Attempts to Freeze Them Into Submission - Bloomberg
 - Bitcoin plunges up to 8% and South Korea's Kospi sinks nearly 4% in the latest tech-led sell-off - AP News
-- Silver resumes its slide, plunging 11%, after short-lived rebound - CNBC
-- Brad Karp Resigns as Paul Weiss Chairman Amid Epstein Fallout - The New York Times
-- ‘He’ll need to get the votes’: Why Warsh may struggle to get his way at the Fed - Politico
-- Microsoft releases urgent Office patch. Russian-state hackers pounce. - Ars Technica
-- System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience - Phoronix
+- Layoffs in January were the highest to start a year since 2009, Challenger says - CNBC
+- TSMC Plans Major Upgrade of Japan Chip Plant in Win for Takaichi - Bloomberg
+- Peloton posts weak holiday quarter after splashy product overhaul fails to land - CNBC
+- Samsung ends software support for Galaxy S21 series - 9to5Google
+- iPhone Fold rumors: Everything we know so far, including the leaked foldable design - Engadget
+- Resident Evil Requiem on Switch 2 Is Horrifyingly Great - IGN
