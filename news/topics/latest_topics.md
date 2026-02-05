@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 07:05_
+_Updated: 2026-02-05 08:32_
 
 ## Top Stories
 
-- Homan: 700 ICE-poliser ska lämna Minnesota - SVT Nyheter
-- ”Mörkrets prins” delade statshemligheter - SvD
+- Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
+- Man död i trafikolycka - Västerbottens-Kuriren
+- Täta USA-kontakter – innan EU:s klimatregler försvagades - Aftonbladet
 - Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
-- Man död i trafikolycka i Lerum - SVT Nyheter
-- Brottsmisstankarna mot riksdagsledamoten Katja Nyberg – detta har hänt - Dagens Nyheter
-- Lyxhotellet blev dödsfälla – tre dog efter stranddagen - Aftonbladet
-- DN Direkt – Cancerdiagnos dröjde ett år – patienten avled - Dagens Nyheter
+- DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
+- Så ska nya Backaplan se ut – här är bilderna - GP
 - Snö på väg in över Göteborg – risk för trafikproblem - GP
-- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
 - Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
+- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
+- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
+- HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
 - USA bekräftar möte med Iran i Oman - SVT Nyheter
-- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Paret Valentina och Valerii dog i varandras armar - jagade av ryska drönare - Expressen
-- Argentina vill ha Maduro utlämnad från USA - Aftonbladet
-- Fler med i facket – störst ökning hos polisen - Aftonbladet
-- Toppcheferna lämnar Husqvarna – vd:n: ”Mycket nöjd med beslutet” - EFN
-- Tusentals vräkta: ”Något är djupt fel” - Aftonbladet
-- Nytt AI-verktyg får aktier att rasa - SvD
+- Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
+- Slagsmål mellan kund och personal i Malmö - Expressen
+- Silverpriset rasar – igen - Dagens industri
+- Ny utrensning väntar på Arbetsförmedlingen – 118 avtal hotas - News55
+- De testade att kapa arbetstiden i offentlig sektor – så gick det - Dagens Medicin
 - Ny studie: Sömn-appar kan försämra sömnen - Dagens Nyheter
+- Gammal soptipp ska bli nytt friluftsområde - SkLT
 - Kattriket - Zita Folkets Bio
 
 ## World News
@@ -51,15 +51,15 @@ _Updated: 2026-02-05 07:05_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -142,12 +142,12 @@ _Updated: 2026-02-05 07:05_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-02-05 07:05_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
