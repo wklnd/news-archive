@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 05:16_
+_Updated: 2026-02-05 07:05_
 
 ## Top Stories
 
-- Trump: Mjukare handlag efter dödsskjutningarna - GP
-- Hovexperten om Mette-Marits skandal: Kung Harald måste uttala sig - Dagens Nyheter
-- DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
-- Lyxhotellet blev dödsfälla – tre dog efter stranddagen - Aftonbladet
+- Homan: 700 ICE-poliser ska lämna Minnesota - SVT Nyheter
+- ”Mörkrets prins” delade statshemligheter - SvD
 - Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
-- Rubio: USA är redo träffa Iran - Hufvudstadsbladet
-- Snö på väg in över Göteborg – risk för trafikproblem - GP
+- Man död i trafikolycka i Lerum - SVT Nyheter
+- Brottsmisstankarna mot riksdagsledamoten Katja Nyberg – detta har hänt - Dagens Nyheter
+- Lyxhotellet blev dödsfälla – tre dog efter stranddagen - Aftonbladet
 - DN Direkt – Cancerdiagnos dröjde ett år – patienten avled - Dagens Nyheter
+- Snö på väg in över Göteborg – risk för trafikproblem - GP
 - Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
 - Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
-- Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
+- USA bekräftar möte med Iran i Oman - SVT Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Avtal om kärnvapen löper ut: Kan bli kapprustning - Dagens Nyheter
-- EU-undersökning: höjda röster för mer handling på europeisk nivå - European Parliament
-- Avvaktande på börsen – Handelsbanken lyfter - Dagens industri
-- "Skulle kunna utökas med patient- och apoteksperspek­tiv" - Svensk Farmaci
+- Paret Valentina och Valerii dog i varandras armar - jagade av ryska drönare - Expressen
+- Argentina vill ha Maduro utlämnad från USA - Aftonbladet
+- Fler med i facket – störst ökning hos polisen - Aftonbladet
 - Toppcheferna lämnar Husqvarna – vd:n: ”Mycket nöjd med beslutet” - EFN
-- En miljon råttor fångades – så slipper du dem - Aftonbladet
+- Tusentals vräkta: ”Något är djupt fel” - Aftonbladet
+- Nytt AI-verktyg får aktier att rasa - SvD
+- Ny studie: Sömn-appar kan försämra sömnen - Dagens Nyheter
 - Kattriket - Zita Folkets Bio
-- Varför kan jag inte spela upp OS-sändningar? - SVT Nyheter
 
 ## World News
 
-- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - omni.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Modi: "Trump avgörande för global fred" - Dagens PS
+- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
+- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
+- Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -76,54 +76,55 @@ _Updated: 2026-02-05 05:16_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
@@ -134,11 +135,10 @@ _Updated: 2026-02-05 05:16_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-02-05 05:16_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
