@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 10:04_
+_Updated: 2026-02-05 11:10_
 
 ## Top Stories
 
 - Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
-- Vance: Får mycket mer med nytt Grönlandsavtal - Aftonbladet
-- Man död i trafikolycka i Lerum - SVT Nyheter
+- Tyskarna uppmanas att ”spotta i nävarna” - SvD
+- Tusentals hedrade offren – Hanan Eskef om sorgen: ”Livet smakar ingenting” - GP
+- DN Direkt – Regeringen till FN: Ändra flyktingkonventionen - Dagens Nyheter
 - Så ska nya Backaplan se ut – här är bilderna - GP
-- Iran-samtalen räddade – oljepriset faller tillbaka - Dagens industri
-- Misstänkte mördarens brev: "Ska köra över allt i min väg" - UNT
-- Snö på väg in över Göteborg – risk för trafikproblem - GP
-- Livstid för mordförsök på Trump - Expressen
+- Vita huset bekräftar samtal med Iran på fredag - Omni
 - Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
 - Köttbristen fortsätter – pekar på regelkaos - Expressen
+- Regeringens svar i uranstriden – föreslår nytt veto - SVT Nyheter
+- Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
 - HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
-- Finland varnar USA: Undvik att tala om artikel fem - Omni
 - Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
+- Finland varnar USA: Inget artikel 5-liknande skydd - Expressen
 - Alla säljer samma sak – men ingen berättar vad det egentligen är - Dagens Nyheter
-- Villa övertänd – spred sig från bil - Expressen
-- Silverpriset rasar – igen - Dagens industri
-- Ny utrensning väntar på Arbetsförmedlingen – 118 avtal hotas - News55
-- Ny studie: Sömn-appar kan försämra sömnen - Dagens Nyheter
+- Största risken finns inte på marknaden - SvD
 - Forskare: ”Finns risk att en del väljer bort sex” - SvD
+- Smartmi Air Purifier 3 – en stilren luftrenare till ett bra pris - Teknikveckan
+- Overwatch 2 slopar tvåan – nystart med årslång story-kampanj - FZ.se
+- Gammal soptipp ska bli nytt friluftsområde - SkLT
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2026-02-05 10:04_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
 - Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
+- Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -58,18 +58,18 @@ _Updated: 2026-02-05 10:04_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -105,26 +105,25 @@ _Updated: 2026-02-05 10:04_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
@@ -135,10 +134,11 @@ _Updated: 2026-02-05 10:04_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2026-02-05 10:04_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
