@@ -1,35 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 17:10_
+_Updated: 2026-02-05 18:07_
 
 ## Top Stories
 
+- Kvinna som sålde sex i sin lägenhet i Malmö vräks - Omni
 - Statsminister Ulf Kristerssons tal vid årsdagen av masskjutningen på Campus Risbergska - Regeringen.se
-- Domstol ger MKB rätt att vräka Maria som sålt sex i sin bostad - Sydsvenskan
-- Regeringen: Energimiljard till iskallt Ukraina - GP
-- S till val på välfärdssatsningar – med öppen dörr till M - ETC.se
+- Asbest upptäckt i Skavstas flygtorn – flyg leds om - SVT Nyheter
+- Regeringen presenterar nytt energipaket till Ukraina - Regeringen.se
+- LEDARE: Man skymtar trots allt spiken i (s)oppan. Men s-ledningen lyckas inte mobilisera. - Dala-Demokraten
 - Marknad i minus 25: ”Lagom kallt” - Dagens Nyheter
-- Rysk-ukrainska fredssamtal över – fångar utväxlas - Hufvudstadsbladet
 - Maktutredning larmar: ”Skogsindustriellt komplex” styr Sverige - Dagens Nyheter
+- Region Stockholms oväntade miljardvinst: ”Starkaste finanserna någonsin” - Dagens Nyheter
+- Regeringen vill öppna kusterna för ny kärnkraft - SVT Nyheter
 - Så placerar sig Uppsala på kulturlistan - UNT
-- Mordmisstänktes mål: Tjäna en miljon på morduppdrag - Omni
-- Ministern välkomnar SVT:s granskning av psykiatrin i Norrbotten - SVT Nyheter
 - Ingmar Nevéus: Omritade kartor är inte största hotet mot valen i USA - Dagens Nyheter
-- Vance: Får mycket mer med nytt Grönlandsavtal - Aftonbladet
-- Starkare sanktioner krävs mot Iran - SvD
-- Kinas Xi varnar USA för vapenstöd till Taiwan - Expressen
-- Northvolts jätteskuld till Kina – halv miljard uteblev - Affärsvärlden
+- Uppgift: Ryssland kräver att Donbas erkänns som ryskt - Omni
+- Vance: Får mycket mer med nytt Grönlandsavtal - GP
+- Reaktionen på det som händer i Iran är dubbelmoral i sin renaste form - Dagen
 - Straffavgiften för att ladda elbilen i fjällstugan: 2 200 kronor - Dagens Nyheter
-- Fraktjätten faller – vd:n ser ett ”utmanade år” - Dagens industri
-- Forskare: ”Finns risk att en del väljer bort sex” - SvD
+- Northvolts jätteskuld till Kina – halv miljard uteblev - Affärsvärlden
+- Erik Magnusson Europeiska appar vapen i EU:s frihetskamp mot USA - Sydsvenskan
+- Mardrömsdag för Svolder – tre rapportras - Dagens industri
+- Clarkson avslöjar – ny trio tar över Grand Tour - Carup.se
 - Inga inbyggda Qi2-magneter i Galaxy S26-serien? - Swedroid
-- Internet Archive lanserar tillägg som ska motverka brutna länkar - PC för Alla
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -38,14 +40,12 @@ _Updated: 2026-02-05 17:10_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -76,45 +76,45 @@ _Updated: 2026-02-05 17:10_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - EY i Almedalen 2025 | EY - Sverige - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
