@@ -1,34 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 23:53_
+_Updated: 2026-02-06 00:56_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Ryska styrkor tappar åtkomst till Starlink - Dagens Nyheter
-- Generaldirektörens ilska i mejl: ”Förödande detaljstyrning” - Dagens Nyheter
+- Kvinnliga reportrar i skottlinjen efter Trumps motgångar - Aftonbladet
 - Pressad Starmer ber om ursäkt - SVT Nyheter
-- Statsminister Ulf Kristerssons tal vid årsdagen av masskjutningen på Campus Risbergska - Regeringen.se
-- KOMMER MÖTA IRAN FÖR FÖRHANDLINGAR PÅ FREDAGEN - Placera.se
-- Därför dröjer beskedet i Katja Nyberg-utredningen - Aftonbladet
-- Moderaterna vill se livstid för gängtoppar - Västerbottens-Kuriren
+- Snöröjningen i Göteborg kan få nya prioriteringar - GP
+- Generaldirektörens ilska i mejl: ”Förödande detaljstyrning” - Dagens Nyheter
+- Regeringen presenterar nytt energipaket till Ukraina - regeringen.se
 - S-beskedet: Matmomsen ska höjas igen - GP
-- Värdet skrivs ned – med 400 miljoner - Sundsvalls Tidning
+- Moderaterna vill se livstid för gängtoppar - Västerbottens-Kuriren
+- LEDARE: Vad f-n får vi för pengarna? - Östersunds-Posten
 - Rekordbeslag av narkotika: ”Ny platå” - Dagens Nyheter
-- DN Direkt – Trump stöder Orbán för omval - Dagens Nyheter
-- Høiby: ”Ligger inte med kvinnor som inte är vakna” - Corren
-- Iranska regimen ber folket om hjälp med lista över döda - ETC.se
-- Vances attack mot Europa: ”Allt är lögn” - Expressen
+- Skridskoåkare gick genom isen – polisen varnar - Västerbottens-Kuriren
+- 13-åring simmade i fyra timmar – räddade familjen - Dagens Nyheter
+- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
+- Vance: Får mycket mer med nytt Grönlandsavtal - Västerbottens-Kuriren
+- Novo Nordisk om planer på kopia: ”Olaglig” - Sydsvenskan
 - Tusentals Ellevio-kunder får kompensation - Ljusdals-Posten
-- Varför planeras det inte för havsbaserad vindkraft i Halmstad? - Hallandsposten
-- Charterbolaget ger den övergivna flygplatsen en andra chans - Realtid
-- Nya byggregler i fokus på informationsmöte - Mitt i
+- Vattenfall delar ut miljarder – och chockhöjer elnätsavgiften - GP
+- Björn af Kleen: Det sker ett tidningsmord runt hörnet från Vita huset - Dagens Nyheter
 - Rymdforskningens svenska fixstjärna - Dagens industri
 - När får det räcka? Dagens fråga. - feber.se
+- Clarkson avslöjar – ny trio tar över Grand Tour - Carup.se
 
 ## World News
 
+- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -45,21 +47,19 @@ _Updated: 2026-02-05 23:53_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -96,25 +96,25 @@ _Updated: 2026-02-05 23:53_
 
 ## Health
 
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Översikt - Public Health - Europeiska kommissionen - health.ec.europa.eu
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2026-02-05 23:53_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- Allt fler brittiska jättefarmer - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
