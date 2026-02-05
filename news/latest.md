@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-05 09:37_
+_Updated: 2026-02-05 10:23_
 
-- Read: Dems outline 10 demands to GOP in ICE funding fight - Axios
-- Melinda French Gates Addresses New References to Bill Gates in Epstein Files - The New York Times
+- Dems outline 10 demands in letter to GOP leaders in ICE funding fight - Axios
 - Intelligence director Tulsi Gabbard’s office obtained and tested voting machines in Puerto Rico - CNN
 - After crushing protests, Iran's supreme leader now tries to avert a U.S. attack - PBS
-- U.S.-Iran nuclear talks back on after Arab leaders lobby White House - Axios
+- 'I never left your side': Emails reveal more about Mandelson's Epstein friendship - BBC
 - Trump’s Call to ‘Nationalize’ Elections Adds to State Officials’ Alarm - The New York Times
-- Ryan Routh, Man Convicted of Trying to Assassinate Trump, Gets Life Sentence - The New York Times
+- Housecleaner said multiple illnesses tied to Las Vegas house with possible bio lab: Police report - ABC News
+- USC names Beong-Soo Kim as its ‘next generation’ president - latimes.com
+- Don’t mention ‘Article 5,’ Finland warns US on Ukraine - Politico
 - Texas A&M professor files suit after firing over gender identity lesson - Politico
-- Sherrill spoke with Trump before joining N.Y. in a lawsuit over the freezing of funds for critical tunnel pro - NJ.com
-- S.F. teachers on brink of a strike even as fact-finding report favors district - San Francisco Chronicle
-- Israel strikes across Gaza, killing 24, and says militants attacked its soldiers - AP News
 - Russian Comedian Accused of Making a Joke About Veterans Gets Prison Time - The New York Times
-- SPLM/A-IO confirms ‘tactical’ withdrawal as SSPDF claims victory in Jonglei - Sudans Post
+- Australia says attempted bombing of national day protest was act of terror - Reuters
+- Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says - The Guardian
 - Gazans returning through Rafah crossing describe checks by Palestinian militia - BBC
-- Asian Stocks to Fall as Tech-Led Drop Gains Pace: Markets Wrap - Bloomberg.com
+- South Korea's Kospi leads declines in Asia, tracking Wall Street tech sell-off; Topix retreats from record - CNBC
 - E.l.f. Beauty posts earnings beat, raises full-year guidance - CNBC
-- Bank of England expected to hold interest rates - BBC
-- Stock Market Today: Nasdaq Declines; AMD Sinks After Earnings - The Wall Street Journal
-- iPhone 17 Pro Max has the best battery life of 35 smartphones tested - 9to5Mac
+- Target's new CEO says retailer lost trust with shoppers and staff, Bloomberg News reports - Reuters
+- Silver’s Sudden 17% Plunge Wipes Out Two-Day Recovery From Rout - Bloomberg.com
 - Microsoft releases urgent Office patch. Russian-state hackers pounce. - Ars Technica
+- System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience - Phoronix
+- Alphabet won’t talk about the Google-Apple AI deal, even to investors - TechCrunch
