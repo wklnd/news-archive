@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 01:00_
+_Updated: 2026-02-06 01:56_
 
-- Keir Starmer apologises to Epstein victims for believing Mandelson's 'lies' - BBC
-- Trump Strips Job Protections From Thousands of Federal Workers - The New York Times
-- Scoop: U.S. and Russia agree to observe New START nuclear pact after expiration - Axios
 - At least 3 dead, 6 injured after car crashes into 99 Ranch Market in Westwood - ABC7 Los Angeles
-- White House Offers Shifting Story on Gabbard’s Presence at Georgia Raid - The New York Times
 - What a crowded congressional primary in N.J. says about the state of Democrats - NPR
-- Austin Beutner drops out of L.A. mayor’s race, citing daughter’s death - latimes.com
-- Majority of Voters Support Impeaching Kristi Noem, Polling Finds - Truthout
-- Trump rows back his criticism of UK’s Chagos Islands deal - Financial Times
-- Gaza flotilla to return with 100 ships, Mandela’s grandson says: 'We will bring Israel to its knees' - Ynetnews
+- Some Public Health Service officers deployed in detention centers suffer 'moral distress' - NPR
+- Top Oversight Republican mulls Bill Gates subpoena in Epstein probe - Politico
+- The White House is launching direct-to-consumer drug site Trump Rx. Here's what to know - CNBC
+- DHS’ problems go farther than Minneapolis. Republicans are noticing. - Politico
+- Los Angeles Civic Leader Austin Beutner Drops Out of Mayor’s Race - The New York Times
+- Donald Trump signals US support for Chagos handover deal - BBC
+- France 36-14 Ireland: Les Bleus open Six Nations defence with thumping win in Paris - BBC
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- Ukrainians Defy Russia’s Attempts to Freeze Them Into Submission - Bloomberg
-- What Eikon’s modest IPO says about the future of big-money, big-name biotech - Endpoints News
-- Carney Stakes Canada’s Auto Future on E.V.s as It Pulls Away From the U.S. - The New York Times
-- Giant pizza restaurant chain closing 250 restaurants nationwide - thestreet.com
-- Theater Owners Call Pending Netflix-Warner Bros Merger “Catastrophic” In Statement To Senate Lawmakers - Deadline
+- ‘It’s Collective Punishment’: Iran Exacts Heavy Price on Protest Supporters - The New York Times
+- Stock Market Today: Nasdaq Slumps Again as Jobs Data Collides With Tech Selloff — Live Updates - The Wall Street Journal
+- Bezos Guts The Washington Post - The New York Times
+- Here's what smart people are saying about recent fears of a software apocalypse - Business Insider
+- OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads - Ars Technica
+- Everything we know about Valve's new Steam Machine - Engadget
 - Google hints at big AirDrop expansion for Android "very soon" - Ars Technica
-- Snag the budget-friendly Nothing Ear (a) wireless earbuds for their lowest price yet - Mashable
-- Ikea’s cheap new smart home gear is struggling to get connected - theverge.com
-- NASA will finally allow astronauts to bring their iPhones to space - Ars Technica
+- Google Home struggles with buttons as IKEA confirms Matter connectivity issues - 9to5Google
+- Google Shows Off Pixel 10a With No Camera Bump - Gizmodo
+- 2026 Super Bowl Ad: Star Talent Fees Down As AI Surges - The Hollywood Reporter
