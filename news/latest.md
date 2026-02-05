@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-05 21:25_
+_Updated: 2026-02-05 22:02_
 
+- Exclusive | Trump Administration to Make It Easier to Fire 50,000 Federal Workers - The Wall Street Journal
 - Scoop: U.S. and Russia agree to observe New START nuclear pact after expiration - Axios
-- Some Public Health Service officers quit rather than serve in ICE detention centers - NPR
+- Some Public Health Service officers deployed in detention centers suffer 'moral distress' - NPR
 - "Needs to get the hell out": House Dems fume at Schumer - Axios
 - Trump to launch TrumpRx drug discount site. Here's when - Axios
-- Top Oversight Republican mulls Bill Gates subpoena in Epstein probe - Politico
 - Bodycam shows NYPD officer shooting man with knife as Mamdani calls for no criminal charges - Fox News
-- Lindsey Graham is bringing main character energy to the DHS debate - Politico
 - Iran, US to negotiate over proxy terror, ballistic missiles - The Jerusalem Post
+- Lindsey Graham is bringing main character energy to the DHS debate - Politico
 - Spanberger takes further steps to remove Virginia from ICE operations - The Washington Post
 - ‘It’s Collective Punishment’: Iran Exacts Heavy Price on Protest Supporters - The New York Times
-- Thousands Displaced for a Military Push Pakistan Said It Didn’t Order - The New York Times
 - Company that ‘resurrected’ dire wolf announces frozen biovault for endangered species - CNN
-- Ukrainians Defy Russia’s Attempts to Freeze Them Into Submission - Bloomberg
-- Mass layoffs fuel fears of ‘death spiral’ at Washington Post - The Guardian
-- Dow drops 500 points, Nasdaq craters for a third day as stock sell-off gains steam: Live updates - CNBC
-- ECB's President Lagarde: Growth is mainly driven by services, notably IT and comms - Forex Factory
+- As Trump reshapes foreign policy, China moves to limit risks, reap gains - NPR
+- Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
+- Peloton shares plunge more than 20% on weak holiday quarter, sluggish demand for splashy new products - CNBC
 - US Job Openings and Labor Turnover – December 2025 - Forex Factory
-- Steam Machine and Steam Frame delays are the latest product of the RAM crisis - Ars Technica
-- Ikea’s cheap new smart home gear is struggling to get connected - The Verge
+- Researchers say no evidence of TikTok censorship, but they remain wary - NPR
+- OpenAI wants Frontier to manage all your AI agents - The Verge
 - Google teases AirDrop support for more Android phones, 'exciting' announcements 'very soon' - 9to5Google
+- Galaxy S26 Ultra pretty much confirmed to lag behind Pixel 10 and iPhone 17 in key area - PhoneArena
+- Ikea’s cheap new smart home gear is struggling to get connected - The Verge
