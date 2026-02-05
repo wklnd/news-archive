@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 09:32_
+_Updated: 2026-02-05 10:04_
 
 ## Top Stories
 
 - Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
-- Täta USA-kontakter – innan EU:s klimatregler försvagades - Aftonbladet
-- Vill göra det enklare att utvisa våldtäktsmän - Västerbottens-Kuriren
+- Vance: Får mycket mer med nytt Grönlandsavtal - Aftonbladet
+- Man död i trafikolycka i Lerum - SVT Nyheter
 - Så ska nya Backaplan se ut – här är bilderna - GP
-- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
-- 05 februari 07.19, Sammanfattning natt, Jämtlands län - polisen.se
-- Man död efter trafikolycka i Gråbo - GP
+- Iran-samtalen räddade – oljepriset faller tillbaka - Dagens industri
+- Misstänkte mördarens brev: "Ska köra över allt i min väg" - UNT
 - Snö på väg in över Göteborg – risk för trafikproblem - GP
 - Livstid för mordförsök på Trump - Expressen
+- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
 - Köttbristen fortsätter – pekar på regelkaos - Expressen
-- Vance: Får mycket mer med nytt Grönlandsavtal - GP
 - HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
-- USA bekräftar möte med Iran i Oman - SVT Nyheter
+- Finland varnar USA: Undvik att tala om artikel fem - Omni
 - Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
+- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
+- Alla säljer samma sak – men ingen berättar vad det egentligen är - Dagens Nyheter
+- Villa övertänd – spred sig från bil - Expressen
 - Silverpriset rasar – igen - Dagens industri
-- Alphabet bättre än väntat: "Fantastiskt kvartal" - Affärsvärlden
+- Ny utrensning väntar på Arbetsförmedlingen – 118 avtal hotas - News55
 - Ny studie: Sömn-appar kan försämra sömnen - Dagens Nyheter
-- Gammal soptipp ska bli nytt friluftsområde - SkLT
-- Vänskap och mord i Imperfect Women. Med Elisabeth Moss, Kate Mara och Joel Kinnaman. - feber.se
-- Overwatch 2 slopar tvåan – nystart med årslång story-kampanj - FZ.se
+- Forskare: ”Finns risk att en del väljer bort sex” - SvD
 
 ## World News
 
@@ -39,11 +39,11 @@ _Updated: 2026-02-05 09:32_
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
 - Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
+- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
 - NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
+- Hydrologist Günter Blöschl receives Stockholm Water Prize 2025 - SWF - Stockholm Water Foundation - Stockholm International Water Institute | SIWI
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -51,25 +51,25 @@ _Updated: 2026-02-05 09:32_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
