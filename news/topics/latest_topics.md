@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 00:56_
+_Updated: 2026-02-06 01:48_
 
 ## Top Stories
 
-- Kvinnliga reportrar i skottlinjen efter Trumps motgångar - Aftonbladet
+- DN Direkt – Norges tidigare statsminister utreds efter Epsteinfilerna - Dagens Nyheter
 - Pressad Starmer ber om ursäkt - SVT Nyheter
-- Snöröjningen i Göteborg kan få nya prioriteringar - GP
-- Generaldirektörens ilska i mejl: ”Förödande detaljstyrning” - Dagens Nyheter
+- Statsminister Ulf Kristerssons tal vid årsdagen av masskjutningen på Campus Risbergska - regeringen.se
+- Insändare. Det finns ingen anledning att lita på uranminister Busch - Dagens Nyheter
 - Regeringen presenterar nytt energipaket till Ukraina - regeringen.se
-- S-beskedet: Matmomsen ska höjas igen - GP
+- HANS STIGSSON: Mycket värre än bara en prinsessa på vift - NT
 - Moderaterna vill se livstid för gängtoppar - Västerbottens-Kuriren
-- LEDARE: Vad f-n får vi för pengarna? - Östersunds-Posten
+- S-beskedet: Matmomsen ska höjas igen - GP
+- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
 - Rekordbeslag av narkotika: ”Ny platå” - Dagens Nyheter
-- Skridskoåkare gick genom isen – polisen varnar - Västerbottens-Kuriren
 - 13-åring simmade i fyra timmar – räddade familjen - Dagens Nyheter
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Vance: Får mycket mer med nytt Grönlandsavtal - Västerbottens-Kuriren
-- Novo Nordisk om planer på kopia: ”Olaglig” - Sydsvenskan
-- Tusentals Ellevio-kunder får kompensation - Ljusdals-Posten
+- Tre vanliga fel när medierna rapporterar om Rafah-övergången - Med Israel för fred (MIFF)
+- Vances attack mot Europa: ”Allt är lögn” - Expressen
 - Vattenfall delar ut miljarder – och chockhöjer elnätsavgiften - GP
-- Björn af Kleen: Det sker ett tidningsmord runt hörnet från Vita huset - Dagens Nyheter
+- Nya byggregler i fokus på informationsmöte - Mitt i
+- Leverantör stänger av värmen för Stegra: ”Har inte betalat” - Omni
+- Toppcheferna lämnar Husqvarna – vd:n: ”Mycket nöjd med beslutet” - EFN.se
 - Rymdforskningens svenska fixstjärna - Dagens industri
 - När får det räcka? Dagens fråga. - feber.se
-- Clarkson avslöjar – ny trio tar över Grand Tour - Carup.se
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Modi: "Trump avgörande för global fred" - Dagens PS
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -77,11 +77,11 @@ _Updated: 2026-02-06 00:56_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- EY i Almedalen 2025 | EY - Sverige - EY
+- EY i Almedalen 2025 | EY - Sverige - ey.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2026-02-06 00:56_
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
