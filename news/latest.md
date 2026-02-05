@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-05 23:03_
+_Updated: 2026-02-05 23:58_
 
 - Exclusive | Trump Administration to Make It Easier to Fire 50,000 Federal Workers - The Wall Street Journal
-- Scoop: U.S. and Russia agree to observe New START nuclear pact after expiration - Axios
 - Some Public Health Service officers deployed in detention centers suffer 'moral distress' - NPR
 - Trump to launch TrumpRx drug discount site. Here's when - Axios
-- U.S. and Iran to Hold Talks in Oman on Friday - The New York Times
-- Trilateral US-Ukraine-Russia peace talks resume in UAE after major energy attack - ABC News
-- Spanberger takes further steps to remove Virginia from ICE operations - The Washington Post
-- Bio lab found in Las Vegas is similar to scene discovered in California, raising questions from officials - cbsnews.com
+- Cuba open to talks with US ‘without pressure’ after months of Trump threats - The Guardian
+- Top Oversight Republican mulls Bill Gates subpoena in Epstein probe - Politico
+- 'Can you shut him up?' House Democrats clash with Bessent in fiery hearing - ABC News
+- Clintons keep pushing for public hearings as Comer digs in his heels - Politico
+- Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons - The New York Times - The New York Times
+- Iran, US to negotiate over proxy terror, ballistic missiles - The Jerusalem Post
+- Trump rows back his criticism of UK’s Chagos Islands deal - Financial Times
 - ‘It’s Collective Punishment’: Iran Exacts Heavy Price on Protest Supporters - The New York Times
-- As Trump reshapes foreign policy, China moves to limit risks, reap gains - NPR
+- Company that ‘resurrected’ dire wolf announces frozen biovault for endangered species - CNN
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- Ukrainians Defy Russia’s Attempts to Freeze Them Into Submission - Bloomberg.com
-- Asian Stocks to Fall as Tech-Led Drop Gains Pace: Markets Wrap - Bloomberg.com
-- Coca-Cola discontinues Minute Maid’s frozen canned juices after 80 years - Yahoo Finance
+- Bezos Guts The Washington Post - The New York Times
+- Lawhive, which started out selling tech to law firms but then became one, raises $60 million in new funding - Fortune
+- Theater Owners Call Pending Netflix-Warner Bros Merger “Catastrophic” In Statement To Senate Lawmakers - Deadline
 - Researchers say no evidence of TikTok censorship, but they remain wary - NPR
-- California job losses slow in January as cuts surge nationwide - Yahoo Finance
-- Google teases AirDrop support for more Android phones ‘very soon’ - 9to5Google
+- Snag the budget-friendly Nothing Ear (a) wireless earbuds for their lowest price yet - Mashable
+- Google Shows Off Pixel 10a With No Camera Bump - Gizmodo
 - Ikea’s cheap new smart home gear is struggling to get connected - The Verge
-- NASA will finally allow astronauts to bring their iPhones to space - Ars Technica
-- Sony Says Ghost of Yotei 'Exceeded' the Sales of Ghost of Tsushima in the Same Period of Time and 'Significantly' Contributed to Its Financial Results - IGN
