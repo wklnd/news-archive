@@ -1,39 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 08:32_
+_Updated: 2026-02-05 09:32_
 
 ## Top Stories
 
 - Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
-- Man död i trafikolycka - Västerbottens-Kuriren
 - Täta USA-kontakter – innan EU:s klimatregler försvagades - Aftonbladet
-- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
-- DN Direkt – Starmer: Ångrar Mandelson som USA-ambassadör - Dagens Nyheter
+- Vill göra det enklare att utvisa våldtäktsmän - Västerbottens-Kuriren
 - Så ska nya Backaplan se ut – här är bilderna - GP
+- Skolan håller stängt resten av veckan efter hot om skolskjutning - NT
+- 05 februari 07.19, Sammanfattning natt, Jämtlands län - polisen.se
+- Man död efter trafikolycka i Gråbo - GP
 - Snö på väg in över Göteborg – risk för trafikproblem - GP
-- Man döms för våldtäkter på flicka – ska betala en miljon i skadestånd - Dagens Nyheter
-- Ny framtidsprognos: Vanligare med cancer i Göteborg än i Stockholm - GP
-- Man försökte locka in barn i bil – flera fall norr om Stockholm - Dagens Nyheter
+- Livstid för mordförsök på Trump - Expressen
+- Köttbristen fortsätter – pekar på regelkaos - Expressen
+- Vance: Får mycket mer med nytt Grönlandsavtal - GP
 - HBL i Tromsö: Nu handlar Arktis om säkerhet och försvar - Hufvudstadsbladet
 - USA bekräftar möte med Iran i Oman - SVT Nyheter
 - Familjen betalade 700 000 kronor för att lämna Gaza – nu vill 23-åringen tillbaka - Dagens Nyheter
-- Slagsmål mellan kund och personal i Malmö - Expressen
 - Silverpriset rasar – igen - Dagens industri
-- Ny utrensning väntar på Arbetsförmedlingen – 118 avtal hotas - News55
-- De testade att kapa arbetstiden i offentlig sektor – så gick det - Dagens Medicin
+- Alphabet bättre än väntat: "Fantastiskt kvartal" - Affärsvärlden
 - Ny studie: Sömn-appar kan försämra sömnen - Dagens Nyheter
 - Gammal soptipp ska bli nytt friluftsområde - SkLT
-- Kattriket - Zita Folkets Bio
+- Vänskap och mord i Imperfect Women. Med Elisabeth Moss, Kate Mara och Joel Kinnaman. - feber.se
+- Overwatch 2 slopar tvåan – nystart med årslång story-kampanj - FZ.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -45,7 +43,9 @@ _Updated: 2026-02-05 08:32_
 - Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -62,9 +62,9 @@ _Updated: 2026-02-05 08:32_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
@@ -142,12 +142,12 @@ _Updated: 2026-02-05 08:32_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -156,9 +156,9 @@ _Updated: 2026-02-05 08:32_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
