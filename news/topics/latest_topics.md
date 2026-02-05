@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-05 21:21_
+_Updated: 2026-02-05 21:57_
 
 ## Top Stories
 
 - Europas äldste monark kan stoppa Mette-Marit - SvD
-- Moderaterna vill ta kontroversiella skolmodellen till Göteborg - GP
-- Prinsessan försvarar sin mamma Mette-Marit - GP
-- Översten som tar täten i danska veteraners protester mot Trump: ”Det är förräderi” - Dagens Nyheter
-- Regeringen presenterar nytt energipaket till Ukraina - Regeringen.se
-- Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
+- KOMMER MÖTA IRAN FÖR FÖRHANDLINGAR PÅ FREDAGEN - Placera.se
 - Generaldirektörens ilska i mejl: ”Förödande detaljstyrning” - Dagens Nyheter
+- Prinsessan försvarar sin mamma Mette-Marit - GP
+- Regeringen presenterar nytt energipaket till Ukraina - Regeringen.se
+- Översten som tar täten i danska veteraners protester mot Trump: ”Det är förräderi” - Dagens Nyheter
+- VIKTOR BARTH-KRON: Ny rikting – med Ulf och Ebba? - Expressen
 - LEDARE: Vad f-n får vi för pengarna? - Östersunds-Posten
+- Värdet skrivs ned – med 400 miljoner - Sundsvalls Tidning
 - Skridskoåkare gick genom isen – polisen varnar - Västerbottens-Kuriren
-- Rekordbeslag av narkotika: ”Ny platå” - Dagens Nyheter
 - Vance: Får mycket mer med nytt Grönlandsavtal - Västerbottens-Kuriren
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
 - Konflikter väcker störst oro i EU – svenskar bland de minst oroliga - Europaportalen
+- Ryska styrkor tappar åtkomst till Starlink - Aftonbladet
 - Felicia Åkerman: Har AI-apokalypsen kommit till börsen? - Dagens Nyheter
-- Värdet skrivs ned – med 400 miljoner - Sundsvalls Tidning
+- Novo Nordisk slår tillbaka mot kopian: ”Olagligt” - Dagens industri
 - Bättre än väntat från Hexatronic (uppdatering) - Placera.se
 - Björn af Kleen: Det sker ett tidningsmord runt hörnet från Vita huset - Dagens Nyheter
-- ”Vissa klasser där halva klassen varit borta” - Sundsvalls Tidning
-- Artisten Ken Peplowski hittad död i hytt - Expressen
-- Ikea erkänner trubbel för nya Matter-enheter - m3.se
+- När får det räcka? Dagens fråga. - feber.se
+- Tracy Morgan räddas av Harry Potter. Daniel Radcliffe hjälper till att tvätta bort skandalrykte. - feber.se
 
 ## World News
 
@@ -145,20 +145,20 @@ _Updated: 2026-02-05 21:21_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
