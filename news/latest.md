@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-05 22:02_
+_Updated: 2026-02-05 23:03_
 
 - Exclusive | Trump Administration to Make It Easier to Fire 50,000 Federal Workers - The Wall Street Journal
 - Scoop: U.S. and Russia agree to observe New START nuclear pact after expiration - Axios
 - Some Public Health Service officers deployed in detention centers suffer 'moral distress' - NPR
-- "Needs to get the hell out": House Dems fume at Schumer - Axios
 - Trump to launch TrumpRx drug discount site. Here's when - Axios
-- Bodycam shows NYPD officer shooting man with knife as Mamdani calls for no criminal charges - Fox News
-- Iran, US to negotiate over proxy terror, ballistic missiles - The Jerusalem Post
-- Lindsey Graham is bringing main character energy to the DHS debate - Politico
+- U.S. and Iran to Hold Talks in Oman on Friday - The New York Times
+- Trilateral US-Ukraine-Russia peace talks resume in UAE after major energy attack - ABC News
 - Spanberger takes further steps to remove Virginia from ICE operations - The Washington Post
+- Bio lab found in Las Vegas is similar to scene discovered in California, raising questions from officials - cbsnews.com
 - ‘It’s Collective Punishment’: Iran Exacts Heavy Price on Protest Supporters - The New York Times
-- Company that ‘resurrected’ dire wolf announces frozen biovault for endangered species - CNN
 - As Trump reshapes foreign policy, China moves to limit risks, reap gains - NPR
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- Peloton shares plunge more than 20% on weak holiday quarter, sluggish demand for splashy new products - CNBC
-- US Job Openings and Labor Turnover – December 2025 - Forex Factory
+- Ukrainians Defy Russia’s Attempts to Freeze Them Into Submission - Bloomberg.com
+- Asian Stocks to Fall as Tech-Led Drop Gains Pace: Markets Wrap - Bloomberg.com
+- Coca-Cola discontinues Minute Maid’s frozen canned juices after 80 years - Yahoo Finance
 - Researchers say no evidence of TikTok censorship, but they remain wary - NPR
-- OpenAI wants Frontier to manage all your AI agents - The Verge
-- Google teases AirDrop support for more Android phones, 'exciting' announcements 'very soon' - 9to5Google
-- Galaxy S26 Ultra pretty much confirmed to lag behind Pixel 10 and iPhone 17 in key area - PhoneArena
+- California job losses slow in January as cuts surge nationwide - Yahoo Finance
+- Google teases AirDrop support for more Android phones ‘very soon’ - 9to5Google
 - Ikea’s cheap new smart home gear is struggling to get connected - The Verge
+- NASA will finally allow astronauts to bring their iPhones to space - Ars Technica
+- Sony Says Ghost of Yotei 'Exceeded' the Sales of Ghost of Tsushima in the Same Period of Time and 'Significantly' Contributed to Its Financial Results - IGN
