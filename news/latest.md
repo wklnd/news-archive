@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 08:32_
+_Updated: 2026-02-06 09:34_
 
 - New Jersey House Primary Special Election 2026 Live Results - NBC News
-- US military kills two people in latest attack on vessel in the Pacific - Al Jazeera
-- Democrats erupt in fury over Trump demanding Schumer help rename Dulles, Penn Station - Axios
+- Trump says he won’t extend nuclear arms treaty with Russia - Politico
+- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
 - Trump officials propose testing a citizenship question amid a push to alter the census - NPR
-- At least 3 dead, 6 injured after car crashes into 99 Ranch Market in Westwood - ABC7 Los Angeles
 - Trump shifts explanation of why DNI Gabbard was at FBI Georgia election office raid - ABC News
-- Donors give over $3 million to boost tech-friendly California governor candidate - Politico
-- Virginia Democrats Propose New Congressional Maps Ahead of Midterms - The New York Times
 - Trump endorses Japan's Takaichi ahead of snap election - BBC
+- Hundreds of Immigration Agents Left Minnesota, but Residents Report Little Change - The New York Times
+- Virginia Democrats Propose New Congressional Maps Ahead of Midterms - The New York Times
+- US strikes another boat in the eastern Pacific, killing 2 - cnn.com
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
 - Kyiv’s great freeze - Financial Times
-- Bezalel Zini, brother of Israel’s security chief, arrested in bust of alleged Gaza smuggling ring - cnn.com
+- SPLM/A-IO confirms ‘tactical’ withdrawal as SSPDF claims victory in Jonglei - Sudans Post
+- The Chinese Yoke: Russia’s Return to Vassalship - War on the Rocks
 - Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
-- Asia stocks fall; Japan steadies before elections, Australia slides on hawkish RBA - Investing.com
-- Hims Launches Oral Wegovy Knockoff, But The FDA Could Prove To Be A Problem - Investor's Business Daily
-- Federal Judge Blocks Texas Law Targeting Critics of Fossil Fuels - The New York Times
+- Exclusive: The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors - Reuters
+- Stock futures drop as Amazon slide adds to Wall Street's tech woes: Live updates - CNBC
+- Analyst predicts Disney will spin off ESPN after CEO change - Awful Announcing
 - Tim Cook Teases Plans for Apple's Upcoming 50th Anniversary - MacRumors
+- Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google
 - The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica
-- Qualcomm Rumored To Address Any Overheating Problems With Its Snapdragon 8 Elite Gen 6 This Year, And It Won’t Be Because Of TSMC’s Advanced 2nm Process - Wccftech
-- US man shares clever AirTag trick that Apple never explains when you buy it - supercarblondie.com
