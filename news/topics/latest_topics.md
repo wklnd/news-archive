@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-07 00:50_
+_Updated: 2026-02-07 01:50_
 
 ## Top Stories
 
-- Insändare i korthet: om utvisningar och second hand - NWT
-- Generation Z uppgiven inför val i Thailand: ”Räknas ens våra röster”? - Dagens Nyheter
 - Mette-Marit ber om ursäkt efter Epstein-mejlen - SVT Nyheter
-- Efter tvisten om paradisön – svenska staten stäms - GP
 - Efter fredssamtalen – nya ryska attacker - Västerbottens-Kuriren
-- Vinter-OS 2026: Viktiga klockslagen i OS – då tävlar svenskarna - SvD
-- Raif, 4, skulle utvisas ensam – nu får han stanna - Dagens Nyheter
+- Dumpens Sara Nilsson döms för grovt förtal: ”Vi fortsätter” - SVT Nyheter
+- Stämmer staten för klimatpolitiken: ”Då blir man dragen inför domstol” - SVT Nyheter
 - 06 februari 19.31, Trafikolycka, vilt, Jämtlands län - polisen.se
-- Misstänkte torpedens shoppingrunda efter trippelmordet - Dagens Nyheter
+- Förslag: Asylsökande ska hålla sig inom sitt län - GP
 - Man åtalas efter hot mot ministrar - Dagens Nyheter
-- ”Vi dör”: Gazas cancerpatienter vädjar om en utväg - Unric
-- Reaktionen på det som händer i Iran är dubbelmoral i sin renaste form - Dagen
-- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
+- Generation Z uppgiven inför val i Thailand: ”Räknas ens våra röster”? - Dagens Nyheter
+- Tittade på porr – såg plötsligt sig själv i filmen - GP
+- EU föreslår det 20:e ryska sanktionspaketet - Västerbottens-Kuriren
+- ”Vi dör”: Gazas cancerpatienter vädjar om en utväg - unric
 - Chattdebatt om förkortad arbetsvecka mellan Dadgostar (V) och Britz (L) - Aftonbladet
 - Statens bidrag till regionerna för kostnader för läkemedelsförmånerna m.m. 2026 - Regeringen.se
+- Teslas nya ”Sälenladdare” drivs med biobränsle - DI
 - Vattenfall försvarar jättehöjning av elnätsavgifterna - DI
-- Fortsatt satsning på barn och unga med psykisk ohälsa - SKR
 - Maxad spelhelg med Payne! - FZ.se
-- GeForce NOW släpps som beta för Linux. Med stöd för 5K och 360 fps. - feber.se
 - Det eviga låtsaskrigets lockelse - SvD
+- Telepromptern Moody låter dig hålla ögonkontakten. Manus i flärpen. - feber.se
+- Philip, 28, kämpar sig tillbaka efter stroken – nu samlar familjen in pengar - KT-Kuriren
+- Så kommer du in på hemliga klubben vid Avenyn – ”klart vi gör undantag” - GP
 
 ## World News
 
-- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - International Judo Federation
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 
 ## Technology
 
