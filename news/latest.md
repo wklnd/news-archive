@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 17:24_
+_Updated: 2026-02-06 18:24_
 
-- Democrats’ 10 demands to ‘rein in’ ICE – the full list of proposed reforms - The Guardian
-- Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show - The New York Times
-- Minneapolis now has daily deportation flights. One man has been documenting them - NPR
-- Even More Higher Ed Names in the Epstein Files - Inside Higher Ed
-- Suicide bomber kills at least 31 in Islamabad mosque attack - cnn.com
+- Trump posts racist image of Obamas, White House defends it and slams 'fake outrage' - CNBC
+- Court records: Chicago immigration raid was about squatters, not Venezuelan gangs - NPR
+- Steve Kornacki: Democratic primary season kicks off with an anti-establishment earthquake - NBC News
+- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
+- Ronald Hicks to be installed as 11th archbishop of New York - NPR
 - Accumulating snow, possibly record-breaking cold in the Boston weather forecast this weekend - cbsnews.com
-- Trump Posts Video Portraying the Obamas as Apes - The New York Times
-- In rare move, this northern Minnesota county is working with the feds to make arrests amid ICE surge - Star Tribune
 - As Minnesota Reels Amid Immigration Crackdown, a Sheriff Agonizes Over Her Role - The New York Times
 - Elections overhaul takes center stage in House as hard-right pressure mounts - Politico
+- In rare move, this northern Minnesota county is working with the feds to make arrests amid ICE surge - Star Tribune
+- Opinion | A federal judge schools chaotic Kristi Noem - The Washington Post
 - In Greenland’s anxious capital, a show of solidarity from Canada and other allies - Politico
 - She’s Upending Japanese Politics With Two Words: ‘I’m Pregnant’ - The New York Times
+- How to topple the British prime minister in 5 easy steps - politico.eu
 - Donald Trump endorses Japan’s Sanae Takaichi ahead of general election - Financial Times
-- Women, Children, and Medical Workers Among Over 20 Palestinians Killed in Surge of Israeli Attacks Across Gaza - Drop Site News
 - Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change - The New York Times
-- Stock futures rebound Friday after three-day slide as tech shares pop, bitcoin stabilizes: Live updates - CNBC
-- Bitcoin falls to lowest level since Trump took office - BBC
+- Dow surges 800 points as markets try to recover from week's tech rout: Live updates - CNBC
 - Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
-- iPhone 17e and iPad 12 Features and Release Date Rumors Surface in Two New Reports - MacRumors
-- Honor, Nothing, and Google Pixel were some of 2025’s fastest-growing phone brands - 9to5Google
+- Facing Threats From Both America and China, Toyota Changes C.E.O.s - The New York Times
+- Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck
+- iPhone 17 Pro Max vs. Android Battery Life: New Test Reveals Winner - MacRumors
