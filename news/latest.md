@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 23:03_
+_Updated: 2026-02-06 23:56_
 
-- Racist video of Obamas removed from Trump's social account - Axios
+- Trump removes video with racist clip depicting Obamas as apes - BBC
 - Missing records from Bondi and Patel draw scrutiny in Epstein release - Axios
 - Maps show accumulating snow, possibly record-breaking cold in the Boston weather forecast this weekend - cbsnews.com
-- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
-- Key participant in 2012 Benghazi attack has been brought to U.S. to face charges, DOJ says - NBC News
-- Judge allows release of body camera footage in case of Chicago woman shot by CBP - ABC News
+- Luigi Mangione speaks out in court as his state trial is tentatively set for June - ABC News
+- Poll: Two-thirds of Americans say ICE has 'gone too far' in immigration enforcement - NPR
+- N.Y.P.D. Sergeant Found Guilty in Death of Bronx Man He Threw Cooler At - The New York Times
+- A Top Lawyer’s Fall Shows Growing Fallout From Epstein Files - The New York Times
 - Sanctions to Combat Illicit Traders of Iranian Oil and the Shadow Fleet - U.S. Department of State (.gov)
 - ‘Grind the country to a halt’: Democrat urges national strike if Trump meddles in midterms - The Guardian
+- US appeals court rejects challenge to Trump's efforts to ban DEI - Yahoo
 - In Greenland’s anxious capital, a show of solidarity from Canada and other allies - Politico
+- Thai PM Anutin's gamble on nationalism to be tested in close election - Reuters
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - apnews.com
 - Next In Putin's Sights? Estonia Town Stuck Between Two Worlds - Barron's
-- Berlin airport halts takeoffs, landings for second day - DW.com
-- Dow surges more than 1,000 points to hit 50,000 for the first time in massive snapback from tech rout: Live updates - CNBC
-- Uber ordered to pay $8.5 million in trial over driver sex assault claims - Reuters
-- Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know. - The New York Times
-- Toyota Names Kenta Kon C.E.O. as Automaker Faces Tariffs and Increasing Competition - The New York Times
+- Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change - The New York Times
+- Exclusive | Justice Department Casts Wide Net on Netflix’s Business Practices in Merger Probe - The Wall Street Journal
+- It Turns Out That When Waymos Are Stumped, They Get Intervention From Workers in the Philippines - Futurism
+- Japan's Kirin to sell Four Roses bourbon brand to Gallo for $775 million - Reuters
 - Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck
-- iPhone 17 Pro Max vs. Android Battery Life: New Test Reveals Winner - MacRumors
-- Driven: The 2026 Lamborghini Temerario raises the bar for supercars - Ars Technica
-- NVIDIA game streaming platform GeForce NOW marks six years - VideoCardz.com
+- Steam Machine and Steam Frame delays are the latest product of the RAM crisis - Ars Technica
