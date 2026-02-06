@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 10:02_
+_Updated: 2026-02-06 11:09_
 
 ## Top Stories
 
-- Flera snövarningar utfärdade i södra Sverige - Dagens Nyheter
-- Epsteinhärvan: Jagland utreds för grov korruption - Västerbottens-Kuriren
-- Efter fredssamtalen – nya ryska attacker - GP
+- Svensk officer från K4 i Arvidsjaur död i olycka - SVT Nyheter
+- En majoritet av befolkningen ofta glada - Statistikmyndigheten SCB
 - Familjen tvingades köpa bil efter förskolebeskedet: ”Får ont i magen” - GP
-- Misstänkt liga ringde äldre – häktas för grova bedrägerier - SVT Nyheter
-- Nu öppnas två nya konsulat på Grönland: ”Seger” - GP
-- DEBATT: Psykiatrin är i fritt fall – minskade resurser och ökade krav - NSD
+- Grönt ljus för amnestilag i Venezuela - SvD
+- Åkessons renrace stoppades – uppgifter om vapenliknande föremål - Dagens Nyheter
+- Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
+- Person åtalas för hot mot statsråd - SVT Nyheter
+- S-beskedet: Matmomsen ska höjas igen - GP
+- Regeringen föreslår förenklad jaktlag – stärkt skydd för jägare - Jakt & Jägare
 - Lastbil av vägen i snökaoset - Expressen
-- Klart: S tvärvänder i hallfrågan - Ljusdals-Posten
-- LEDARE: Vad f-n får vi för pengarna? - Östersunds-Posten
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
-- Bisarra orden efter Donald Trumps hot - Expressen
 - Konflikter väcker störst oro i EU – svenskar bland de minst oroliga - Europaportalen
 - Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
+- Två personer slogs med taxichaufför - Expressen
+- Kursförsäljarens löften till DN:s reporter: 100 000 i månaden - Dagens Nyheter
+- Svenskarnas bojkott växer – viner från USA ratas - SvD
 - VR Snabbtåg prisade på Grand Travel Award 2026 - Järnvägar.nu
-- FDA-toppens löfte efter draget som sänkte Novo Nordisk - Dagens industri
-- MORGONENS NYHETER Så övervakar banken dig • Kommunernas affärer med rysk oligark • FBK-förlust efter straffar - NWT
 - Skanska ökar rörelseresultatet som väntat – slår till med extrautdelning - Placera.se
+- Därför är det bra för hjärnan att ta hand om barnbarnen - Metro Mode
 - Velispec Design AB – nytt företag startar i Avesta - Avesta Tidning
-- Nvidia ser ut att inte släppa några nya konsument-grafikkort under 2026 - PC för Alla
 
 ## World News
 
@@ -40,12 +40,12 @@ _Updated: 2026-02-06 10:02_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
 - Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
+- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -87,56 +87,56 @@ _Updated: 2026-02-06 10:02_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
