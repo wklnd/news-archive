@@ -1,69 +1,69 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 12:07_
+_Updated: 2026-02-06 13:07_
 
 ## Top Stories
 
-- Svensk officer från K4 i Arvidsjaur död i olycka - SVT Nyheter
-- Epsteinhärvan: Jagland utreds för grov korruption - Västerbottens-Kuriren
-- Klart: 57 spårvagnar ska döpas – här är alla namnen - GP
-- Åkesson ställer in renrace – efter hot - Aftonbladet
-- Regeringens svar i uranstriden – föreslår nytt veto - SVT Nyheter
-- DN Direkt – Forssell: Regeringen skrotar EBO-lagen - Dagens Nyheter
+- Karin Eriksson: Trump kan vältra sig i skadeglädje över Norges skam - Dagens Nyheter
+- ”Vill Mette ha barn med dig?” – så diskuteras den norska kronprinsessan i Epsteins mejl - yle.fi
+- Efter fredssamtalen – nya ryska attacker - Västerbottens-Kuriren
+- Grönt ljus för amnestilag i Venezuela - SvD
+- Misstänkt liga ringde äldre – häktas för grova bedrägerier - SVT Nyheter
+- En ny mottagandelag - Regeringen.se
+- Samernas nationaldag 6 februari - Länsstyrelsen
+- Nytt hot upptäckt i Finspång: "Det är klotter på en skola" - NT
 - Klimatgruppen Aurora stämmer svenska staten på nytt: ”Kränker våra mänskliga rättigheter” - Dagens Nyheter
-- Bedragarnas knep: låtsades vara poliser - Aftonbladet
-- S-beskedet: Matmomsen ska höjas igen - GP
-- Försökte smuggla 4,5 miljarder år gammal meteorit - Västerbottens-Kuriren
-- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
-- Rysk general skjuten – kopplas till giftattack - Västerbottens-Kuriren
+- Insändare. Det finns ingen anledning att lita på uranminister Busch - Dagens Nyheter
+- Rysk general skjuten i Moskva - Expressen
+- Pressad Starmer ber om ursäkt - SVT Nyheter
+- Sara Nilsson döms för grovt förtal - Expressen
 - Kängar mot Trump – om och om igen - Expressen
-- Svenskarnas bojkott växer – viner från USA ratas - SvD
 - Kursförsäljarens löften till DN:s reporter: 100 000 i månaden - Dagens Nyheter
-- Storbanken ser köpläge efter kollapsen: ”Attraktivt” - Dagens industri
-- Bitcoin rasar – nästan halva värdet borta - Västerbottens-Kuriren
+- Chattdebatt om förkortad arbetsvecka mellan Dadgostar (V) och Britz (L) - Aftonbladet
+- Uppdrag till Arbetsmiljöverket om förbättring av utstationeringsregistrets kvalitet och tillgänglighet - Regeringen.se
+- VR Snabbtåg prisade på Grand Travel Award 2026 - Järnvägar.nu
 - Nasas astronauter får ta med mobilen till rymden - Omni
 - Därför är det bra för hjärnan att ta hand om barnbarnen - Metro Mode
-- ”Baldur’s Gate” blir tv-serie på HBO Max – av hyllad serieskapare - MovieZine.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
-- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
