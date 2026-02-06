@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 05:16_
+_Updated: 2026-02-06 07:03_
 
 ## Top Stories
 
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
-- Regeringen presenterar nytt energipaket till Ukraina - regeringen.se
+- Två dödade i amerikansk båtattack - SVT Nyheter
+- Thorbjørn Jagland utreds efter avslöjanden i Epsteinfilerna - TV4 Nyheterna
 - Pressad Starmer ber om ursäkt - SVT Nyheter
-- Kända programledarens vädjan – efter mammans försvinnande - GP
-- LEDARE: Vad f-n får vi för pengarna? - Helagotland
-- Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
+- DN Direkt – Pentagon: Militära samtal återupptas med Ryssland - Dagens Nyheter
+- Statsminister Ulf Kristerssons tal vid årsdagen av masskjutningen på Campus Risbergska - regeringen.se
 - DEBATT: Psykiatrin är i fritt fall – minskade resurser och ökade krav - NSD
-- Ny kärnkraft i Sverige – fler möjliga platser vid kusten - regeringen.se
+- Skolan håller stängt efter hotet om skolskjutning - nt.se
 - S-beskedet: Matmomsen ska höjas igen - GP
 - Köptes ut för miljonbelopp – får nytt uppdrag i Åre - Östersunds-Posten
 - Trump backar Orbán inför valet: ”En sann vän” - GP
-- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Konflikter väcker störst oro i EU – svenskar bland de minst oroliga - Europaportalen
-- Breda fall på Wall Street – finansbolag ned på AI-skräck - Dagens industri
+- Direkt – Krisen i Mellanöstern – Irans utrikesminister har åkt till Oman för samtal med USA - Dagens Nyheter
+- Trump tar bort poliser - 8 Sidor
+- 13-åring simmade i fyra timmar – räddade familjen - Dagens Nyheter
 - Vattenfall delar ut miljarder – och chockhöjer elnätsavgiften - GP
 - Sjuksköterska kirurgi - Region Kalmar Län
 - Värmländska kommuner gör affärer med rysk oligark - NWT
+- Remiss: Förslag till nya föreskrifter om vilka samhällsviktiga verksamheter som omfattas av lagen om granskning av utländska direktinvesteringar - svensktnaringsliv.se
 - 108 kvadratmeter stort hus i Robertsfors sålt - Västerbottens-Kuriren
 - Rymdforskningens svenska fixstjärna - Dagens industri
-- Studio Display 2 ryktas få 90 Hz uppdateringsfrekvens - teknikveckan.se
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Modi: "Trump avgörande för global fred" - Dagens PS
-- Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
-- Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -54,89 +54,89 @@ _Updated: 2026-02-06 05:16_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - EY i Almedalen 2025 | EY - Sverige - ey.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
