@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 21:21_
+_Updated: 2026-02-06 21:56_
 
 ## Top Stories
 
 - Mette-Marit ber om ursäkt efter Epstein-mejlen - SVT Nyheter
-- Mohammad Heidarzadeh slog brutalt ihjäl kvinna - GP
+- Stämmer staten för klimatpolitiken: ”Då blir man dragen inför domstol” - SVT Nyheter
+- Explosion under fredagsbön: ”Låg kroppar överallt” - GP
+- EU slår till mot kryphålen i sanktionerna mot Ryssland - Omni
 - Insändare i korthet: om utvisningar och second hand - NWT
+- Kan 92-åringen dömas för mordet han inte minns? - Sydsvenskan
 - Raif, 4, skulle utvisas ensam – nu får han stanna - Dagens Nyheter
-- Vita huset plockar ner video på paret Obama - GP
-- Ryska larmet: ”Vi är bara skinn och ben” - SvD
 - Misstänkte torpedens shoppingrunda efter trippelmordet - Dagens Nyheter
 - Gul varning för snö i Göteborg – Trafikverket om situationen - GP
-- Stämmer staten för klimatpolitiken: ”Då blir man dragen inför domstol” - SVT Nyheter
 - 06 februari 19.31, Trafikolycka, vilt, Jämtlands län - polisen.se
 - Pressad Starmer ber om ursäkt - SVT Nyheter
-- EU slår till mot kryphålen i sanktionerna mot Ryssland - Omni
+- Känd rysk general skjuten – Kreml anklagar Ukraina - SVT Nyheter
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
 - Hittade vapen i tonåringens säng – sonen åtalas - Expressen
 - Solenergi går om kolkraft i Kina i år - Aftonbladet
 - Kända investerare går ihop för att rädda Stegra - SvD
-- Letar du studentbostad? Här är bästa knepen - Expressen
-- AI-verktyget knäcker kodare: ”Ont i magen” - SvD
+- Statens bidrag till regionerna för kostnader för läkemedelsförmånerna m.m. 2026 - Regeringen.se
+- Teslas nya ”Sälenladdare” drivs med biobränsle - Dagens industri
 - Warhammer 40 000 – lockelsen med det eviga låtsaskriget | Björn Barr - SvD
 - Philip, 28, kämpar sig tillbaka efter stroken – nu samlar familjen in pengar - KT-Kuriren
 
@@ -56,8 +56,8 @@ _Updated: 2026-02-06 21:21_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Albanien utser AI-bot till minister - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +69,7 @@ _Updated: 2026-02-06 21:21_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -97,48 +97,48 @@ _Updated: 2026-02-06 21:21_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälsa och teknik - Chalmers tekniska högskola
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
