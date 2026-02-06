@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 20:26_
+_Updated: 2026-02-06 21:26_
 
-- Court records: Chicago immigration raid was about squatters, not Venezuelan gangs - NPR
-- Democrats’ 10 demands to ‘rein in’ ICE – the full list of proposed reforms - The Guardian
-- Jeffrey Epstein’s ghost is haunting the grand old men of capitalism - The Economist
+- Racist video of Obamas removed from Trump's social account - Axios
+- Trump says he’ll free infrastructure funds for New York if Penn Station is renamed after him - The Guardian
+- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
+- Brad Karp steps down as chairman of major law firm Paul Weiss after Epstein files release - BBC
 - Ronald Hicks to be installed as 11th archbishop of New York - NPR
 - Maps show accumulating snow, possibly record-breaking cold in the Boston weather forecast this weekend - cbsnews.com
-- Trump shifts explanation of why DNI Gabbard was at FBI Georgia election office raid - ABC News
-- Trump Deletes Racist Video of Obamas After Outcry - The New York Times
+- In rare move, this northern Minnesota county is working with the feds to make arrests amid ICE surge - Star Tribune
 - ‘Grind the country to a halt’: Democrat urges national strike if Trump meddles in midterms - The Guardian
-- As Minnesota Reels Amid Immigration Crackdown, a Sheriff Agonizes Over Her Role - The New York Times
-- Opinion | A federal judge schools chaotic Kristi Noem - The Washington Post
-- How to topple the British prime minister in 5 easy steps - politico.eu
-- Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- Women, Children, and Medical Workers Among Over 20 Palestinians Killed in Surge of Israeli Attacks Across Gaza - Drop Site News
+- What is the SAVE America Act? Here's what to know about the GOP elections bill - cbsnews.com
+- The Difference That ICE Watchers Are Making in Minnesota - The New York Times
+- Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - apnews.com
 - Next In Putin's Sights? Estonia Town Stuck Between Two Worlds - Barron's
+- Berlin airport halts takeoffs, landings for second day - DW.com
+- Kyiv’s great freeze - Financial Times
+- Jennifer Garner's Once Upon a Farm raises nearly $198 million in US IPO - Reuters
+- Big Tech to Spend $650 Billion This Year as AI Race Intensifies - Bloomberg.com
 - Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know. - The New York Times
-- It Turns Out Waymos Are Being Controlled by Workers in the Philippines - Futurism
-- Facing Threats From Both America and China, Toyota Changes C.E.O.s - The New York Times
 - Untangling the ideas of Donald Trump’s Fed nominee - The Economist
 - Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes
-- Google's At a Glance widget is finally getting the change we've been waiting for - Android Police
+- Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck
