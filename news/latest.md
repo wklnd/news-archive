@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 12:23_
+_Updated: 2026-02-06 13:20_
 
-- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
-- Trump shifts explanation of why DNI Gabbard was at FBI Georgia election office raid - ABC News
-- Virginia Democrats Propose New Congressional Maps Ahead of Midterms - The New York Times
-- Brad Karp steps down as chairman of major law firm Paul Weiss after Epstein files release - BBC
-- At least 3 dead, 6 injured after car crashes into 99 Ranch Market in Westwood - ABC7 Los Angeles
-- Hundreds of Agents Left Minnesota, but Residents Are Seeing Little Change - The New York Times
+- Democrats involved in 'illegal orders' video say they won't cooperate with DOJ probe - NBC News
+- US strikes another boat in the eastern Pacific, killing 2 - cnn.com
 - DHS has requested expedited deportation proceedings against family of Liam Conejo Ramos - MPR News
-- Justice Department released 3 million pages of Epstein files. What did we learn? - NPR
 - N.Y. House Democrats Unite to Endorse Hochul on Eve of Convention - The New York Times
-- Women, Children, and Medical Workers Among Over 20 Palestinians Killed in Surge of Israeli Attacks Across Gaza - Drop Site News
+- Late Night Finds Trump Out of Place at Prayer Breakfast - The New York Times
+- Japan’s Takaichi eyes decisive mandate as polls point to snap election landslide - CNBC
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- WA work safety watchdog makes ‘initial enquiries’ after family who hired kayak and paddleboards washed out to sea - The Guardian
-- Kyiv’s great freeze - Financial Times
-- Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
-- Big Tech to Spend $650 Billion This Year as AI Race Intensifies - bloomberg.com
+- Trump signals willingness to defend Diego Garcia military base if future deal threatens US access - foxnews.com
+- SPLM/A-IO confirms ‘tactical’ withdrawal as SSPDF claims victory in Jonglei - Sudans Post
+- Amazon shares fall as it joins Big Tech AI spending spree - BBC
 - Stock futures rise after Amazon slide adds to Wall Street's tech woes: Live updates - CNBC
-- Exclusive: The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors - Reuters
-- New iPhone launching this month with four key changes: report - 9to5Mac
-- Tim Cook Teases Plans for Apple's Upcoming 50th Anniversary - MacRumors
+- Carney Increases E.V. Investments as Trump’s Trade Policy Disrupts Canada’s Auto Industry - The New York Times
+- Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
+- The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica
 - US man shares clever AirTag trick that Apple never explains when you buy it - supercarblondie.com
+- Failure to Alert Judge to Press Law for Reporter Search Draws Ethical Scrutiny - The New York Times
+- Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google
+- Lisa Kudrow Urges New Warner Bros. Owners Not To "Change A Thing" - Deadline
+- ‘Moulin Rouge! The Musical’ to Close on Broadway After Seven Years - Variety
+- The Louvre Thieves Dropped This Priceless Crown. Now It Looks Like This. - The New York Times
