@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 19:26_
+_Updated: 2026-02-06 20:26_
 
-- Donald Trump prompts fury after posting racist video about Barack and Michelle Obama – US politics live - The Guardian
 - Court records: Chicago immigration raid was about squatters, not Venezuelan gangs - NPR
-- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
-- Minneapolis now has daily deportation flights. One man has been documenting them - NPR
-- Steve Kornacki: Democratic primary season kicks off with an anti-establishment earthquake - NBC News
+- Democrats’ 10 demands to ‘rein in’ ICE – the full list of proposed reforms - The Guardian
+- Jeffrey Epstein’s ghost is haunting the grand old men of capitalism - The Economist
 - Ronald Hicks to be installed as 11th archbishop of New York - NPR
+- Maps show accumulating snow, possibly record-breaking cold in the Boston weather forecast this weekend - cbsnews.com
+- Trump shifts explanation of why DNI Gabbard was at FBI Georgia election office raid - ABC News
+- Trump Deletes Racist Video of Obamas After Outcry - The New York Times
+- ‘Grind the country to a halt’: Democrat urges national strike if Trump meddles in midterms - The Guardian
 - As Minnesota Reels Amid Immigration Crackdown, a Sheriff Agonizes Over Her Role - The New York Times
-- Elections overhaul takes center stage in House as hard-right pressure mounts - Politico
 - Opinion | A federal judge schools chaotic Kristi Noem - The Washington Post
-- Suspect in 2012 Benghazi attack arrested and brought to the U.S. - cbsnews.com
-- She’s Upending Japanese Politics With Two Words: ‘I’m Pregnant’ - The New York Times
 - How to topple the British prime minister in 5 easy steps - politico.eu
-- Canada and France open Greenland consulates in show of Denmark support - The Guardian
-- Donald Trump endorses Japan’s Sanae Takaichi ahead of general election - Financial Times
-- Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change - The New York Times
-- Big Tech to Spend $650 Billion This Year as AI Race Intensifies - bloomberg.com
-- Can China’s No. 2 automaker make it in America? - theverge.com
+- Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
+- Women, Children, and Medical Workers Among Over 20 Palestinians Killed in Surge of Israeli Attacks Across Gaza - Drop Site News
+- Next In Putin's Sights? Estonia Town Stuck Between Two Worlds - Barron's
+- Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know. - The New York Times
 - It Turns Out Waymos Are Being Controlled by Workers in the Philippines - Futurism
-- iPhone 17 Pro Max vs. Android Battery Life: New Test Reveals Winner - MacRumors
-- Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck
+- Facing Threats From Both America and China, Toyota Changes C.E.O.s - The New York Times
+- Untangling the ideas of Donald Trump’s Fed nominee - The Economist
+- Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes
+- Google's At a Glance widget is finally getting the change we've been waiting for - Android Police
