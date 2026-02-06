@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 10:06_
+_Updated: 2026-02-06 11:26_
 
-- Democrats erupt in fury over Trump demanding Schumer help rename Dulles, Penn Station - Axios
-- 'I was foolish': Bill Gates denies wrongdoing after latest release of Epstein files - ABC News
-- Hundreds of Immigration Agents Left Minnesota, but Residents Report Little Change - The New York Times
-- Trump officials propose testing a citizenship question amid a push to alter the census - NPR
-- Brad Karp steps down as chairman of major law firm Paul Weiss after Epstein files release - BBC
-- Trump endorses Japan's Takaichi ahead of snap election - BBC
+- Trump shifts explanation of why DNI Gabbard was at FBI Georgia election office raid - ABC News
 - Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
+- Brad Karp steps down as chairman of major law firm Paul Weiss after Epstein files release - BBC
+- At least 3 dead, 6 injured after car crashes into 99 Ranch Market in Westwood - ABC7 Los Angeles
+- Hundreds of Agents Left Minnesota, but Residents Are Seeing Little Change - The New York Times
+- Democrats involved in 'illegal orders' video say they won't cooperate with DOJ probe - NBC News
+- US and Russia agree to reestablish military dialogue after Ukraine talks - AP News
 - Virginia Democrats Propose New Congressional Maps Ahead of Midterms - The New York Times
-- US strikes another boat in the eastern Pacific, killing 2 - cnn.com
-- Trump says he won’t extend nuclear arms treaty with Russia - Politico
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- Israel strikes across Gaza, killing 24, and says militants attacked its soldiers - AP News
-- WA work safety watchdog makes ‘initial enquiries’ after family who hired kayak and paddleboards washed out to sea - The Guardian
-- Trump Softens Criticism of U.K. Deal Ceding Control of Indian Ocean Island - The Wall Street Journal
+- Kyiv’s great freeze - Financial Times
+- SPLM/A-IO confirms ‘tactical’ withdrawal as SSPDF claims victory in Jonglei - Sudans Post
+- Bezalel Zini, brother of Israel’s security chief, arrested in bust of alleged Gaza smuggling ring - cnn.com
 - Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
+- Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears - Financial Times
 - Stock futures drop as Amazon slide adds to Wall Street's tech woes: Live updates - CNBC
-- Hims Launches Oral Wegovy Knockoff, But The FDA Could Prove To Be A Problem - Investor's Business Daily
-- Asian Stocks to Fall as US Tech, Crypto Extend Dip: Markets Wrap - bloomberg.com
+- Exclusive: The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors - Reuters
+- New iPhone launching this month with four key changes: report - 9to5Mac
+- Tim Cook Teases Plans for Apple's Upcoming 50th Anniversary - MacRumors
+- The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica
 - Failure to Alert Judge to Press Law for Reporter Search Draws Ethical Scrutiny - The New York Times
-- Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google
