@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 08:12_
+_Updated: 2026-02-06 09:28_
 
 ## Top Stories
 
-- Gul varning för snö i Göteborg: ”Väntas bli kraftigt” - GP
-- Epsteinhärvan: Jagland utreds för grov korruption - Västerbottens-Kuriren
+- DN Direkt – Norges tidigare statsminister utreds efter Epsteinfilerna - Dagens Nyheter
 - Familjen tvingades köpa bil efter förskolebeskedet: ”Får ont i magen” - GP
-- DN Direkt – Fredspristagare får kandidera med ny amnestilag - Dagens Nyheter
-- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Irans utrikesminister har åkt till Oman för samtal med USA - Dagens Nyheter
+- Två dödade i amerikansk båtattack - SVT Nyheter
 - Joanna Górecka Allt Mette-Marit ville var att bli en cool girl - GP
-- DEBATT: Psykiatrin är i fritt fall – minskade resurser och ökade krav - NSD
+- I praktiken stoppar Busch svenskt uran - SvD
+- Polissatsningen mot våldsvågen får intern kritik - Omni
 - Samerna har lämnat spår på många platser i länet - Nerikes Allehanda
-- Statsminister Ulf Kristerssons tal vid årsdagen av masskjutningen på Campus Risbergska - regeringen.se
-- Ny kärnkraft i Sverige – fler möjliga platser vid kusten - regeringen.se
-- SAS-flyg lyfte från taxibana – hamnade i gräset - Expressen
-- Pressad Starmer ber om ursäkt - SVT Nyheter
-- Lastbil av vägen i snökaoset - Expressen
-- Reaktionen på det som händer i Iran är dubbelmoral i sin renaste form - Dagen
+- DEBATT: Psykiatrin är i fritt fall – minskade resurser och ökade krav - NSD
+- DN Direkt – Åkesson ställer in renrace efter avrådan av Säpo - Dagens Nyheter
+- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
+- Bisarra orden efter Donald Trumps hot - Expressen
+- Karl Dalén: Situationen påminner om när Trump backade om Grönland - Dagens Nyheter
 - Vattenfall delar ut miljarder – och chockhöjer elnätsavgiften - GP
-- Sjuksköterska kirurgi - Region Kalmar Län
-- Värmländska kommuner gör affärer med rysk oligark - NWT
-- Remiss: Förslag till nya föreskrifter om vilka samhällsviktiga verksamheter som omfattas av lagen om granskning av utländska direktinvesteringar - svensktnaringsliv.se
+- FDA-toppens löfte efter draget som sänkte Novo Nordisk - Dagens industri
+- MORGONENS NYHETER Så övervakar banken dig • Kommunernas affärer med rysk oligark • FBK-förlust efter straffar - NWT
+- Velispec Design AB – nytt företag startar i Avesta - Avesta Tidning
+- Nvidia ser ut att inte släppa några nya konsument-grafikkort under 2026 - PC för Alla
 - 108 kvadratmeter stort hus i Robertsfors sålt - Västerbottens-Kuriren
 - Rymdforskningens svenska fixstjärna - Dagens industri
 
 ## World News
 
-- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
+- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
+- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
+- Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Albanien utser AI-bot till minister - Computer Sweden
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Forskargrupp funktion och teknologi - Karolinska Institutet
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -96,49 +96,49 @@ _Updated: 2026-02-06 08:12_
 
 ## Health
 
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Health-ISAC Hacking Healthcare 10-6-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-02-06 08:12_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
