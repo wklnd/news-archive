@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 13:07_
+_Updated: 2026-02-06 13:55_
 
 ## Top Stories
 
-- Karin Eriksson: Trump kan vältra sig i skadeglädje över Norges skam - Dagens Nyheter
-- ”Vill Mette ha barn med dig?” – så diskuteras den norska kronprinsessan i Epsteins mejl - yle.fi
-- Efter fredssamtalen – nya ryska attacker - Västerbottens-Kuriren
-- Grönt ljus för amnestilag i Venezuela - SvD
-- Misstänkt liga ringde äldre – häktas för grova bedrägerier - SVT Nyheter
-- En ny mottagandelag - Regeringen.se
+- Dumpens Sara Nilsson döms för grovt förtal - SVT Nyheter
+- Man åtalas efter hot mot ministrar - Dagens Nyheter
+- “Vad i helvete?” – stor förvirring efter Trumps besked om Putin - Marcus Oscarsson
+- Svensk officer från K4 i Arvidsjaur död i olycka - SVT Nyheter
+- Høiby: ”Ligger inte med kvinnor som inte är vakna” - Västerbottens-Kuriren
+- Förslag: Asylsökande ska inte få välja boende - SvD
+- Gul varning för snö i Göteborg – Trafikverket om situationen - GP
+- Kvinna döms för våldtäkt mot barn - Polisen.se
 - Samernas nationaldag 6 februari - Länsstyrelsen
-- Nytt hot upptäckt i Finspång: "Det är klotter på en skola" - NT
 - Klimatgruppen Aurora stämmer svenska staten på nytt: ”Kränker våra mänskliga rättigheter” - Dagens Nyheter
-- Insändare. Det finns ingen anledning att lita på uranminister Busch - Dagens Nyheter
-- Rysk general skjuten i Moskva - Expressen
-- Pressad Starmer ber om ursäkt - SVT Nyheter
-- Sara Nilsson döms för grovt förtal - Expressen
+- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
+- Nu öppnas två nya konsulat på Grönland: ”Seger” - GP
+- Norges tidigare statsminister utreds efter Epsteinfilerna - Dagens Nyheter
 - Kängar mot Trump – om och om igen - Expressen
-- Kursförsäljarens löften till DN:s reporter: 100 000 i månaden - Dagens Nyheter
+- Inflationen sjunker – experter öppnar för räntesänkning - Aftonbladet
+- Svenskarnas bojkott växer – viner från USA ratas - SvD
 - Chattdebatt om förkortad arbetsvecka mellan Dadgostar (V) och Britz (L) - Aftonbladet
-- Uppdrag till Arbetsmiljöverket om förbättring av utstationeringsregistrets kvalitet och tillgänglighet - Regeringen.se
-- VR Snabbtåg prisade på Grand Travel Award 2026 - Järnvägar.nu
+- Kursförsäljarens löften till DN:s reporter: 100 000 i månaden - Dagens Nyheter
+- Rykte hävdar att Nvidia inte släpper några nya gaming-GPU:er under 2026 - TechRadar
 - Nasas astronauter får ta med mobilen till rymden - Omni
-- Därför är det bra för hjärnan att ta hand om barnbarnen - Metro Mode
 
 ## World News
 
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -56,20 +56,20 @@ _Updated: 2026-02-06 13:07_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
