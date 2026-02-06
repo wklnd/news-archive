@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 09:28_
+_Updated: 2026-02-06 10:02_
 
 ## Top Stories
 
-- DN Direkt – Norges tidigare statsminister utreds efter Epsteinfilerna - Dagens Nyheter
+- Flera snövarningar utfärdade i södra Sverige - Dagens Nyheter
+- Epsteinhärvan: Jagland utreds för grov korruption - Västerbottens-Kuriren
+- Efter fredssamtalen – nya ryska attacker - GP
 - Familjen tvingades köpa bil efter förskolebeskedet: ”Får ont i magen” - GP
-- Direkt – Krisen i Mellanöstern – Irans utrikesminister har åkt till Oman för samtal med USA - Dagens Nyheter
-- Två dödade i amerikansk båtattack - SVT Nyheter
-- Joanna Górecka Allt Mette-Marit ville var att bli en cool girl - GP
-- I praktiken stoppar Busch svenskt uran - SvD
-- Polissatsningen mot våldsvågen får intern kritik - Omni
-- Samerna har lämnat spår på många platser i länet - Nerikes Allehanda
+- Misstänkt liga ringde äldre – häktas för grova bedrägerier - SVT Nyheter
+- Nu öppnas två nya konsulat på Grönland: ”Seger” - GP
 - DEBATT: Psykiatrin är i fritt fall – minskade resurser och ökade krav - NSD
-- DN Direkt – Åkesson ställer in renrace efter avrådan av Säpo - Dagens Nyheter
+- Lastbil av vägen i snökaoset - Expressen
+- Klart: S tvärvänder i hallfrågan - Ljusdals-Posten
+- LEDARE: Vad f-n får vi för pengarna? - Östersunds-Posten
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
 - Bisarra orden efter Donald Trumps hot - Expressen
-- Karl Dalén: Situationen påminner om när Trump backade om Grönland - Dagens Nyheter
-- Vattenfall delar ut miljarder – och chockhöjer elnätsavgiften - GP
+- Konflikter väcker störst oro i EU – svenskar bland de minst oroliga - Europaportalen
+- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
+- VR Snabbtåg prisade på Grand Travel Award 2026 - Järnvägar.nu
 - FDA-toppens löfte efter draget som sänkte Novo Nordisk - Dagens industri
 - MORGONENS NYHETER Så övervakar banken dig • Kommunernas affärer med rysk oligark • FBK-förlust efter straffar - NWT
+- Skanska ökar rörelseresultatet som väntat – slår till med extrautdelning - Placera.se
 - Velispec Design AB – nytt företag startar i Avesta - Avesta Tidning
 - Nvidia ser ut att inte släppa några nya konsument-grafikkort under 2026 - PC för Alla
-- 108 kvadratmeter stort hus i Robertsfors sålt - Västerbottens-Kuriren
-- Rymdforskningens svenska fixstjärna - Dagens industri
 
 ## World News
 
@@ -43,9 +43,9 @@ _Updated: 2026-02-06 09:28_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
-- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
-- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
+- Svensk pekas ut som centralgestalt i global pedofilhärva - News55
+- Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -57,9 +57,9 @@ _Updated: 2026-02-06 09:28_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -149,16 +149,16 @@ _Updated: 2026-02-06 09:28_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
