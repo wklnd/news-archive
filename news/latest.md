@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 18:24_
+_Updated: 2026-02-06 19:26_
 
-- Trump posts racist image of Obamas, White House defends it and slams 'fake outrage' - CNBC
+- Donald Trump prompts fury after posting racist video about Barack and Michelle Obama – US politics live - The Guardian
 - Court records: Chicago immigration raid was about squatters, not Venezuelan gangs - NPR
-- Steve Kornacki: Democratic primary season kicks off with an anti-establishment earthquake - NBC News
 - Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
+- Minneapolis now has daily deportation flights. One man has been documenting them - NPR
+- Steve Kornacki: Democratic primary season kicks off with an anti-establishment earthquake - NBC News
 - Ronald Hicks to be installed as 11th archbishop of New York - NPR
-- Accumulating snow, possibly record-breaking cold in the Boston weather forecast this weekend - cbsnews.com
 - As Minnesota Reels Amid Immigration Crackdown, a Sheriff Agonizes Over Her Role - The New York Times
 - Elections overhaul takes center stage in House as hard-right pressure mounts - Politico
-- In rare move, this northern Minnesota county is working with the feds to make arrests amid ICE surge - Star Tribune
 - Opinion | A federal judge schools chaotic Kristi Noem - The Washington Post
-- In Greenland’s anxious capital, a show of solidarity from Canada and other allies - Politico
+- Suspect in 2012 Benghazi attack arrested and brought to the U.S. - cbsnews.com
 - She’s Upending Japanese Politics With Two Words: ‘I’m Pregnant’ - The New York Times
 - How to topple the British prime minister in 5 easy steps - politico.eu
+- Canada and France open Greenland consulates in show of Denmark support - The Guardian
 - Donald Trump endorses Japan’s Sanae Takaichi ahead of general election - Financial Times
 - Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change - The New York Times
-- Dow surges 800 points as markets try to recover from week's tech rout: Live updates - CNBC
-- Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
-- Facing Threats From Both America and China, Toyota Changes C.E.O.s - The New York Times
-- Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck
+- Big Tech to Spend $650 Billion This Year as AI Race Intensifies - bloomberg.com
+- Can China’s No. 2 automaker make it in America? - theverge.com
+- It Turns Out Waymos Are Being Controlled by Workers in the Philippines - Futurism
 - iPhone 17 Pro Max vs. Android Battery Life: New Test Reveals Winner - MacRumors
+- Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck
