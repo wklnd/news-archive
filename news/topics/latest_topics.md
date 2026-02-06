@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 11:09_
+_Updated: 2026-02-06 12:07_
 
 ## Top Stories
 
 - Svensk officer från K4 i Arvidsjaur död i olycka - SVT Nyheter
-- En majoritet av befolkningen ofta glada - Statistikmyndigheten SCB
-- Familjen tvingades köpa bil efter förskolebeskedet: ”Får ont i magen” - GP
-- Grönt ljus för amnestilag i Venezuela - SvD
-- Åkessons renrace stoppades – uppgifter om vapenliknande föremål - Dagens Nyheter
-- Larm om kapprustning när kärnvapenavtal löper ut - SVT Nyheter
-- Person åtalas för hot mot statsråd - SVT Nyheter
+- Epsteinhärvan: Jagland utreds för grov korruption - Västerbottens-Kuriren
+- Klart: 57 spårvagnar ska döpas – här är alla namnen - GP
+- Åkesson ställer in renrace – efter hot - Aftonbladet
+- Regeringens svar i uranstriden – föreslår nytt veto - SVT Nyheter
+- DN Direkt – Forssell: Regeringen skrotar EBO-lagen - Dagens Nyheter
+- Klimatgruppen Aurora stämmer svenska staten på nytt: ”Kränker våra mänskliga rättigheter” - Dagens Nyheter
+- Bedragarnas knep: låtsades vara poliser - Aftonbladet
 - S-beskedet: Matmomsen ska höjas igen - GP
-- Regeringen föreslår förenklad jaktlag – stärkt skydd för jägare - Jakt & Jägare
-- Lastbil av vägen i snökaoset - Expressen
+- Försökte smuggla 4,5 miljarder år gammal meteorit - Västerbottens-Kuriren
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
-- Konflikter väcker störst oro i EU – svenskar bland de minst oroliga - Europaportalen
-- Jila Mossaed: Jag ropar i vrede mot dem som hjälpte mördarna i Iran - Dagens Nyheter
-- Två personer slogs med taxichaufför - Expressen
-- Kursförsäljarens löften till DN:s reporter: 100 000 i månaden - Dagens Nyheter
+- Rysk general skjuten – kopplas till giftattack - Västerbottens-Kuriren
+- Kängar mot Trump – om och om igen - Expressen
 - Svenskarnas bojkott växer – viner från USA ratas - SvD
-- VR Snabbtåg prisade på Grand Travel Award 2026 - Järnvägar.nu
-- Skanska ökar rörelseresultatet som väntat – slår till med extrautdelning - Placera.se
+- Kursförsäljarens löften till DN:s reporter: 100 000 i månaden - Dagens Nyheter
+- Storbanken ser köpläge efter kollapsen: ”Attraktivt” - Dagens industri
+- Bitcoin rasar – nästan halva värdet borta - Västerbottens-Kuriren
+- Nasas astronauter får ta med mobilen till rymden - Omni
 - Därför är det bra för hjärnan att ta hand om barnbarnen - Metro Mode
-- Velispec Design AB – nytt företag startar i Avesta - Avesta Tidning
+- ”Baldur’s Gate” blir tv-serie på HBO Max – av hyllad serieskapare - MovieZine.se
 
 ## World News
 
@@ -40,12 +40,12 @@ _Updated: 2026-02-06 11:09_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Hobbyprojekt blev en extremt lönsam global dataplattform - Realtid
 - Svensk pekas ut som centralgestalt i global pedofilhärva - News55
 - Swedish giant Northvolt sets sights on global battery market dominance - Techarenan News
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -160,5 +160,5 @@ _Updated: 2026-02-06 11:09_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
+- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
