@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 15:47_
+_Updated: 2026-02-06 17:24_
 
-- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
+- Democrats’ 10 demands to ‘rein in’ ICE – the full list of proposed reforms - The Guardian
 - Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show - The New York Times
 - Minneapolis now has daily deportation flights. One man has been documenting them - NPR
-- New York City Forecast to See More Snow and then Bitter Cold - The New York Times
+- Even More Higher Ed Names in the Epstein Files - Inside Higher Ed
+- Suicide bomber kills at least 31 in Islamabad mosque attack - cnn.com
+- Accumulating snow, possibly record-breaking cold in the Boston weather forecast this weekend - cbsnews.com
+- Trump Posts Video Portraying the Obamas as Apes - The New York Times
 - In rare move, this northern Minnesota county is working with the feds to make arrests amid ICE surge - Star Tribune
-- Democrats involved in 'illegal orders' video say they won't cooperate with DOJ probe - NBC News
-- What is the SAVE America Act? Here's what to know about the GOP elections bill - cbsnews.com
 - As Minnesota Reels Amid Immigration Crackdown, a Sheriff Agonizes Over Her Role - The New York Times
-- House Republicans prepare full-court press for voting restrictions - Politico
-- Texas Surgeon Faces Federal Charges That He Falsified Patient Records - The New York Times
-- Japan’s Takaichi eyes decisive mandate as polls point to snap election landslide - CNBC
+- Elections overhaul takes center stage in House as hard-right pressure mounts - Politico
+- In Greenland’s anxious capital, a show of solidarity from Canada and other allies - Politico
+- She’s Upending Japanese Politics With Two Words: ‘I’m Pregnant’ - The New York Times
+- Donald Trump endorses Japan’s Sanae Takaichi ahead of general election - Financial Times
 - Women, Children, and Medical Workers Among Over 20 Palestinians Killed in Surge of Israeli Attacks Across Gaza - Drop Site News
-- Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
-- Trump signals willingness to defend Diego Garcia military base if future deal threatens US access - foxnews.com
-- Big Tech to Spend $650 Billion This Year as AI Race Intensifies - Bloomberg
-- Toyota Names Kenta Kon C.E.O. as Automaker Faces Tariffs and Increasing Competition - The New York Times
+- Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change - The New York Times
+- Stock futures rebound Friday after three-day slide as tech shares pop, bitcoin stabilizes: Live updates - CNBC
+- Bitcoin falls to lowest level since Trump took office - BBC
 - Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
-- Why a new AI tool hammered some software stocks this week - ABC News
-- Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google
-- New iPhone launching this month with four key changes: report - 9to5Mac
+- iPhone 17e and iPad 12 Features and Release Date Rumors Surface in Two New Reports - MacRumors
+- Honor, Nothing, and Google Pixel were some of 2025’s fastest-growing phone brands - 9to5Google
