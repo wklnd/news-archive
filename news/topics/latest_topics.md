@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 22:59_
+_Updated: 2026-02-06 23:52_
 
 ## Top Stories
 
 - Mette-Marit ber om ursäkt efter Epstein-mejlen - SVT Nyheter
-- Stämmer staten för klimatpolitiken: ”Då blir man dragen inför domstol” - SVT Nyheter
-- EU slår till mot kryphålen i sanktionerna mot Ryssland - Omni Ekonomi
 - Insändare i korthet: om utvisningar och second hand - NWT
-- DN Direkt – USA har gripit en misstänkt för Benghaziattacken - Dagens Nyheter
+- EU slår till mot kryphålen i sanktionerna mot Ryssland - Omni Ekonomi
+- Efter tvisten om paradisön – svenska staten stäms - GP
+- Känd rysk general skjuten – Kreml anklagar Ukraina - SVT Nyheter
+- Ukraina: Fyra år av krig - vad händer nu? - Folk och Försvar
+- Gömde cannabis i solceller – åtalas - GP
 - Raif, 4, skulle utvisas ensam – nu får han stanna - Dagens Nyheter
 - Misstänkte torpedens shoppingrunda efter trippelmordet - Dagens Nyheter
-- Svemin om nya vetot mot alunskifferutvinning: Ett hot mot gruvbrytningen i Sverige - SVT Nyheter
-- 06 februari 19.31, Trafikolycka, vilt, Jämtlands län - polisen.se
-- Ny nationell plan kan göra vardagen tryggare för dig med allergi - Astma- och Allergiförbundet
-- Sanna Torén Björling: Ryssland räknar med att få Ukraina på knä - Dagens Nyheter
-- Pressad Starmer ber om ursäkt - SVT Nyheter
+- Explosion vid port i Malmö – 15-åring gripen - GP
 - Tittade på porr – såg plötsligt sig själv i filmen - GP
-- Israels regering pressar på för att lägga ned populär radiokanal - Dagens Nyheter
+- Sanna Torén Björling: Ryssland räknar med att få Ukraina på knä - Dagens Nyheter
+- Pentagon: Militära samtal återupptas med Ryssland - Västerbottens-Kuriren
+- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
 - Solenergi går om kolkraft i Kina i år - Aftonbladet
-- Kända investerare går ihop för att rädda Stegra - SvD
 - Statens bidrag till regionerna för kostnader för läkemedelsförmånerna m.m. 2026 - regeringen.se
-- Teslas nya ”Sälenladdare” drivs med biobränsle - Dagens industri
-- Warhammer 40 000 – lockelsen med det eviga låtsaskriget | Björn Barr - SvD
-- Audi förbättrar A6 och Q6 e-tron med rattknappar och nya gränssnitt - Allt om Elbil
+- Teslas nya ”Sälenladdare” drivs med biobränsle - DI
+- Vattenfall försvarar jättehöjning av elnätsavgifterna - DI
+- GeForce NOW släpps som beta för Linux. Med stöd för 5K och 360 fps. - feber.se
+- Telepromptern Moody låter dig hålla ögonkontakten. Manus i flärpen. - feber.se
 
 ## World News
 
@@ -40,7 +40,7 @@ _Updated: 2026-02-06 22:59_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - ebp Global acquires Sustaina Company - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -97,68 +97,68 @@ _Updated: 2026-02-06 22:59_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- De gick från reko till eko - ST-tidningen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
