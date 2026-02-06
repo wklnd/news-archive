@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-06 19:12_
+_Updated: 2026-02-06 20:06_
 
 ## Top Stories
 
-- Jenny Andersson: Bryr sig inte socialdemokratin om Sveriges 18-åriga styvbarn? - Dagens Nyheter
-- Elva bilar i krock i snövädret: "Svårt att ta sig till Göteborg" - GP
-- Ukraina: Fyra år av krig - vad händer nu? - Folk och Försvar
-- Pressad Starmer ber om ursäkt - SVT Nyheter
-- Epsteinhärvan: Jagland utreds för grov korruption - TV4 Nyheterna
-- Aktivisten Andreas Klominek åtalas för hot mot två ministrar - Expressen
-- Ny nationell plan kan göra vardagen tryggare för dig med allergi - Astma- och Allergiförbundet
-- DN Direkt – Asylsökande får bara vistas i län de bor i - Dagens Nyheter
-- Bedragare skrämde äldre genom att utge sig för att vara polis - GP
-- Ulf Blomqvist smygfilmade skolflickor – inget nytt åtal - Expressen
-- EU föreslår det 20:e ryska sanktionspaketet - GP
 - Explosion under fredagsbön: ”Låg kroppar överallt” - GP
+- Kan 92-åringen dömas för mordet han inte minns? - Sydsvenskan
+- EU slår till mot kryphålen i sanktionerna mot Ryssland - Omni
+- Ryska larmet: ”Vi är bara skinn och ben” - SvD
+- Dumpens Sara Nilsson döms för grovt förtal: ”Vi fortsätter” - SVT Nyheter
+- Aktivisten Andreas Klominek åtalas för hot mot två ministrar - Expressen
+- Raif, 4, skulle utvisas ensam – nu får han stanna - Dagens Nyheter
+- Gul varning för snö i Göteborg – Trafikverket om situationen - GP
+- Elva bilar i krock i snövädret: "Svårt att ta sig till Göteborg" - GP
+- Ny nationell plan kan göra vardagen tryggare för dig med allergi - Astma- och Allergiförbundet
+- Israels regering pressar på för att lägga ned populär radiokanal - Dagens Nyheter
+- LEDARE: Mette-Marit borde inte bli drottning - Norra Skåne
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
 - Känd rysk general skjuten – Kreml anklagar Ukraina - SVT Nyheter
-- AI-verktyget knäcker kodare: ”Ont i magen” - SvD
-- Chattdebatt om förkortad arbetsvecka mellan Dadgostar (V) och Britz (L) - Aftonbladet
+- Letar du studentbostad? Här är bästa knepen - Expressen
 - Solenergi går om kolkraft i Kina i år - Aftonbladet
-- Statens bidrag till regionerna för kostnader för läkemedelsförmånerna m.m. 2026 - Regeringen.se
+- AI-verktyget knäcker kodare: ”Ont i magen” - SvD
+- Kända investerare går ihop för att rädda Stegra - SvD
 - Audi förbättrar A6 och Q6 e-tron med rattknappar och nya gränssnitt - Allt om Elbil
 - Philip, 28, kämpar sig tillbaka efter stroken – nu samlar familjen in pengar - KT-Kuriren
 
 ## World News
 
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Liberty International i Stockholm växer - travelnews.se
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Annual Report 2024 - Olof Palme International Center
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2026-02-06 19:12_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -125,7 +125,7 @@ _Updated: 2026-02-06 19:12_
 - Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -149,16 +149,16 @@ _Updated: 2026-02-06 19:12_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
