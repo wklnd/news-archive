@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-06 13:20_
+_Updated: 2026-02-06 13:59_
 
-- Democrats involved in 'illegal orders' video say they won't cooperate with DOJ probe - NBC News
+- Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times
+- Justice Department released 3 million pages of Epstein files. What did we learn? - NPR
+- Minneapolis now has daily deportation flights. One man has been documenting them - NPR
+- Russian general Alexeyev shot several times in Moscow attack - BBC
 - US strikes another boat in the eastern Pacific, killing 2 - cnn.com
+- 3 Killed as Vehicle Crashes Into Grocery Store in Los Angeles - The New York Times
+- Hundreds of Agents Left Minnesota, but Residents Are Seeing Little Change - The New York Times
 - DHS has requested expedited deportation proceedings against family of Liam Conejo Ramos - MPR News
-- N.Y. House Democrats Unite to Endorse Hochul on Eve of Convention - The New York Times
-- Late Night Finds Trump Out of Place at Prayer Breakfast - The New York Times
-- Japan’s Takaichi eyes decisive mandate as polls point to snap election landslide - CNBC
+- Donald Trump endorses Japan’s Sanae Takaichi ahead of general election - Financial Times
+- Women, Children, and Medical Workers Among Over 20 Palestinians Killed in Surge of Israeli Attacks Across Gaza - Drop Site News
 - Famine is threatening more of war-torn Sudan’s Darfur region as an attack in the south kills 22 - AP News
 - Trump signals willingness to defend Diego Garcia military base if future deal threatens US access - foxnews.com
-- SPLM/A-IO confirms ‘tactical’ withdrawal as SSPDF claims victory in Jonglei - Sudans Post
-- Amazon shares fall as it joins Big Tech AI spending spree - BBC
-- Stock futures rise after Amazon slide adds to Wall Street's tech woes: Live updates - CNBC
 - Carney Increases E.V. Investments as Trump’s Trade Policy Disrupts Canada’s Auto Industry - The New York Times
 - Uber Found Liable in Rape by Driver, Setting Stage for Thousands of Cases - The New York Times
-- The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica
-- US man shares clever AirTag trick that Apple never explains when you buy it - supercarblondie.com
-- Failure to Alert Judge to Press Law for Reporter Search Draws Ethical Scrutiny - The New York Times
+- Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears - Financial Times
+- Toyota Names Kenta Kon C.E.O. as Automaker Faces Tariffs and Increasing Competition - The New York Times
 - Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google
-- Lisa Kudrow Urges New Warner Bros. Owners Not To "Change A Thing" - Deadline
-- ‘Moulin Rouge! The Musical’ to Close on Broadway After Seven Years - Variety
-- The Louvre Thieves Dropped This Priceless Crown. Now It Looks Like This. - The New York Times
+- The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica
+- Failure to Alert Judge to Press Law for Reporter Search Draws Ethical Scrutiny - The New York Times
+- What to Expect From the iPhone 18 Pro After the Latest Rumor Reversal - MacRumors
