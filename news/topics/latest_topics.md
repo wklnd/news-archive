@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-07 09:52_
+_Updated: 2026-02-07 10:56_
 
 ## Top Stories
 
+- DN Direkt – Neil Young ställer in Europaturné - Dagens Nyheter
 - Trump raderar AI-video efter anklagelser om rasism - SVT Nyheter
-- Mette-Marit ber om ursäkt efter Epstein-mejlen - SVT Nyheter
-- Kongressen ska få se omaskade Epsteindokument - Aftonbladet
-- IS tar på sig terrordåd i Pakistan - SVT Nyheter
-- FBI kopplas in om försvunna tv-profilens mamma - Expressen
-- Kvinna fastbunden och misshandlad Malmö - Sydsvenskan
-- Aiham, 15, mördades hos frisören: ”Var bara ett barn” - Dagens Nyheter
+- Föräldrar häktade för grov misshandel av bebis - Expressen
+- Trumps råd ska mötas om Gazas framtid - Västerbottens-Kuriren
+- Kan vi leva för evigt? Nja, säger forskarna - Sydsvenskan
+- Glashalt på Västkusten – räddningsbil körde av väg - Aftonbladet
+- Gömde cannabis i solceller – åtalas - Folkbladet
+- DN Direkt – Kvinna rånad i sitt hem i Malmö - Dagens Nyheter
+- Varning för bedragare som utger sig att vara från polisen - polisen.se
 - Fullt utvecklad villabrand i Hallstahammar - SVT Nyheter
-- INSÄNDARE: Är Arboga redo när det otänkbara händer? - Bbl/AT
-- ”Hot mot politiker hör inte hemma i demokratin” - Västerbottens-Kuriren
-- Körsbärsfest slopas – efter bajsande turister - GP
-- ÖB: Europa behöver kärnvapenavskräckning - SVT Nyheter
+- IS tar på sig terrordåd i Pakistan - SVT Nyheter
+- EU föreslår det 20:e ryska sanktionspaketet - Västerbottens-Kuriren
 - Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
-- Natolandets svar – på ryska beteendet - Expressen
+- Känd rysk general skjuten – Kreml anklagar Ukraina - SVT Nyheter
+- Affärskultur-experten: "Svenskar överskattar sin förmåga" - Affärsvärlden
 - Elon-topp granskas efter köpen i ”Grand designs” - SvD
-- INSÄNDARE: Var är regeringens plan för jobben? - Kristianstadsbladet
-- TV: Titta in i SJ:s nyrenoverade liggvagnar - Östersunds-Posten
 - Bilbjässen gör jättenedskrivning – ny strategi - Dagens industri
+- TV: Titta in i SJ:s nyrenoverade liggvagnar - Östersunds-Posten
+- Läroböckerna behöver uppdateras: Vi kan ha misstagit oss om planet i solsystemet i 50 år - Illustrerad Vetenskap
 - Busschaufför hotad med misstänkt vapen - Partille Tidning
-- För tre år sedan träffade något extremt gåtfullt jorden – nu kan forskare ha löst mysteriet - Illustrerad Vetenskap
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-02-07 09:52_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Avlyssningsskandalen växer - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
 
 ## Technology
 
@@ -91,31 +91,31 @@ _Updated: 2026-02-07 09:52_
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Hälsa och teknik - Chalmers tekniska högskola
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
