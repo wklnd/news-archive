@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-07 05:09_
+_Updated: 2026-02-07 06:52_
 
 ## Top Stories
 
+- Körsbärsfest slopas – efter bajsande turister - GP
 - Glashalt på Västkusten – räddningsbil körde av väg - Aftonbladet
+- Direkt – Kriget i Ukraina – Soldat dödad i bilbomb i Odessa - Dagens Nyheter
+- Bannon sökte Epstein-pengar för att stärka europeisk extremhöger - tidningensyre.se
+- Finland sänder nytt stödpaket till Ukraina - Nordic Defence Sector
 - Mette-Marit ber om ursäkt efter Epstein-mejlen - SVT Nyheter
-- Klara höll sitt barn hemma efter hotet – och kritiserar kommunen - NT
-- Uppgifter: USA och Ukraina vill nå fredsavtal i mars - Omni
-- Åkesson hoppar av renrace efter vapenlarm i Jokkmokk - Omni
-- Zlatan: Jag skulle vinna super-G – om du ger mig tid - Omni
 - Stämmer staten för klimatpolitiken: ”Då blir man dragen inför domstol” - SVT Nyheter
 - 06 februari 19.31, Trafikolycka, vilt, Jämtlands län - polisen.se
 - Svemin om nya vetot mot alunskifferutvinning: Ett hot mot gruvbrytningen i Sverige - SVT Nyheter
-- Rekordintresse för enkät om klimakteriet – forskaren: ”Uppdämt behov” - Borlänge Tidning
+- Johanna Trapp: Skogen behöver mer äganderätt - Fokus - Sveriges nyhetsmagasin
+- Storbråk i Davos efter chefens kontakter med Epstein - Kvartal
 - EU föreslår det 20:e ryska sanktionspaketet - Västerbottens-Kuriren
-- Initialt godkännande för amnestilag - GP
+- Trump om kärnvapenavtalet: Dåligt förhandlat - GP
 - Natolandets svar – på ryska beteendet - Expressen
-- Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner - Dagens Nyheter
+- TV: Titta in i SJ:s nyrenoverade liggvagnar - Östersunds-Posten
 - Vräkningarna ökar – ett samhälleligt bottennapp - Dagens Arena
-- Vattenfall försvarar jättehöjning av elnätsavgifterna - DI
-- Statens bidrag till regionerna för kostnader för läkemedelsförmånerna m.m. 2026 - Regeringen.se
-- Efter stormarna: ”Vi har kunder som fortfarande är utan ström” - ETC.se
+- Vattenfall försvarar jättehöjning av elnätsavgifterna - Dagens industri
+- TLV: För många mål riskerar att sänka vårdens produktivitet - Dagens Medicin
+- Meta testar fristående Vibes-app för AI-genererad video - PC för Alla
 - Poco M8 Pro är Xiaomis mest träffsäkra lur (under 5000 kr) - m3.se
-- Maxad spelhelg med Payne! - FZ.se
 
 ## World News
 
@@ -40,10 +40,10 @@ _Updated: 2026-02-07 05:09_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Muhammad Ali's Legacy Enters a New Chapter as Compassion Goes Global (PR Newswire) - Aktiellt
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return - Sky News
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Finalists and Semifinalists for $1 Million Seeding The Future Global Food System Challenge announced - Via TT
@@ -99,15 +99,15 @@ _Updated: 2026-02-07 05:09_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elfcare växlar upp – ingår samarbete med Amra Medical - Medtech Magazine
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -160,5 +160,5 @@ _Updated: 2026-02-07 05:09_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
