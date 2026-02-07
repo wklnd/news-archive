@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-07 13:53_
+_Updated: 2026-02-07 15:30_
 
-- Prosecutors Began Investigating Renee Good’s Killing. Washington Told Them to Stop. - The New York Times
 - State Department will delete X posts from before Trump returned to office - NPR
-- How TrumpRx drug prices compare to generic alternatives - Axios
-- DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News
-- Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction - Axios
+- Prosecutors Began Investigating Renee Good’s Killing. Washington Told Them to Stop. - The New York Times
+- Hegseth Says Defense Department Will Cut Ties With Harvard - The New York Times
+- TrumpRx: See the 43 drugs available on the Trump administration's new discounted drug site - cbsnews.com
+- US-Iran nuclear talks conclude in Oman, with another round said planned for coming days - The Times of Israel
 - Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda - The New York Times
+- US wants Russia and Ukraine to end war by June, says Zelensky - BBC
+- 4 people have died from eating death cap mushrooms as they spread in California after rains - AP News
+- California Sues a Children’s Hospital to Maintain Transgender Health Care - The New York Times
 - Oregon family released, on their way home from Texas detention center - OregonLive.com
-- Virginia Democrats unveil a redistricting map that would aim to give them 4 more US House seats - cnn.com
-- The Real Reason Trump Wants to Let Our Nuclear Weapons Treaty With Russia Die - Slate
-- Former President Bill Clinton makes case for public hearing in House Epstein probe - ABC News
-- Will Sunday's snap election gamble pay off for Japan's first female premier? - BBC
-- Kyiv’s great freeze - Financial Times
-- Canada plants a flag in Greenland - Politico
-- EU proposes 'powerful' 20th Russia sanctions package with full ban on oil maritime services - The Kyiv Independent
+- Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction - Axios
+- EU Escalates Oil Sanctions With Broad Ban on Shipping Services - Crude Oil Prices Today | OilPrice.com
+- No front line: Russia's hybrid pressure on German army in Lithuania - Euronews.com
+- Portugal extends state of emergency amid destruction brought by Storm Leonardo - Euronews.com
+- DVDs and public transit: Boycott drives people to ditch Big Tech to protest ICE - NPR
 - Can Disney’s Josh and Dana Honeymoon Last? - Puck
-- Companies can now claim ‘no artificial colors’ if they add plant-based color to food - AP News
+- This QLED TV Was Already Affordable, and Now It's an Extra $450 Off - Lifehacker
 - I built an iOS app in just two days thanks to AI - and it was exhilarating - ZDNET
+- iPhone 18 Pro Max Rumored to Deliver Next-Level Battery Life - MacRumors
 - Saying Goodbye to the Mass Market Paperback - The New York Times
-- iFixIt tears down new AirTag, finds 50% louder speaker still 100% easy to disable - 9to5mac.com
-- DOJ Over-Seized Hannah Natanson’s Garmin Device and Other Reporting Materials - emptywheel
