@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-07 11:57_
+_Updated: 2026-02-07 12:58_
 
-- Appeals court endorses Trump policy of holding many ICE detainees without bond hearings - cbsnews.com
-- DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News
-- The left smells blood after shocking Democratic primary result - Axios
-- UNITED STATES-INDIA JOINT STATEMENT - The White House (.gov)
-- Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda - The New York Times
-- Canada plants a flag in Greenland - Politico
 - Members of Congress will have access to unredacted Epstein files - Axios
-- Cardinal Dolan reveals what's next for him in retirement as NY Archdiocese welcomes new bishop - New York Post
+- DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News
+- Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda - The New York Times
+- New York officer who hit suspect with cooler found guilty of manslaughter - The Guardian
+- Canada plants a flag in Greenland - Politico
+- 100 million on alert for dangerous cold, as some see coldest winds of season - ABC News
+- ‘It’s pissing people off’: Centrist Democrats are livid with AIPAC after primary fiasco - Politico
+- Bard College President Leon Botstein Was Close With Jeffrey Epstein - The New York Times
+- ‘Millionaires tax’ hearing, hastily called, brings big crowd to Olympia - The Seattle Times
 - The Real Reason Trump Wants to Let Our Nuclear Weapons Treaty With Russia Die - Slate
-- Young Voters Can’t Get Enough of Japan’s Conservative Prime Minister - The Wall Street Journal
-- In Talks, Trump Won’t Allow Iran to Have Any Enriched Uranium - The New York Times
+- As West goes after Russia’s oil fleet, Moscow fears for its war funding - The Washington Post
 - Portugal extends state of emergency amid destruction by Storm Leonardo - Euronews.com
 - Kyiv’s great freeze - Financial Times
+- In Talks, Trump Won’t Allow Iran to Have Any Enriched Uranium - The New York Times
 - Can Disney’s Josh and Dana Honeymoon Last? - Puck
-- There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post - theverge.com
-- Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change - The New York Times
+- A New Gilded Age: Big Tech goes on a $600 billion AI spending splurge - Business Insider
 - Companies can now claim ‘no artificial colors’ if they add plant-based color to food - AP News
-- iPhone 18 Pro Max’s new battery gains revealed by leaker - 9to5mac.com
-- iOS 26’s new Phone app has a feature I don’t ever want to go without - 9to5mac.com
-- Miss Manners: Loud restaurant music has ruined my ability to dine out - AL.com
+- Apple might let you use ChatGPT from CarPlay - theverge.com
+- I built an iOS app in just two days thanks to AI - and it was exhilarating - ZDNET
+- Saying Goodbye to the Mass Market Paperback - The New York Times
