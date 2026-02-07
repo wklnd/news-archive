@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-07 15:25_
+_Updated: 2026-02-07 15:59_
 
 ## Top Stories
 
-- Efter vädervarningen – kan komma mer snö över Göteborg - GP
-- Nytt svenskt stöd till aktörer som verkar för ökad yttrandefrihet i Iran - Regeringen.se
 - Rivalen slår Trump i alla grenar: ”Gör walk over” - SvD
+- Nytt svenskt stöd till aktörer som verkar för ökad yttrandefrihet i Iran - Regeringen.se
 - London-svensken Sten Lagerman: ”Jag går mellan soppköken” - Dagens Nyheter
+- Efter vädervarningen – kan komma mer snö över Göteborg - GP
 - S svänger om tonårsutvisningar – Senaste nytt om valet 2026 - SVT Nyheter
 - Åkesson har swishat Dumpens ansvariga efter domen - SVT Nyheter
 - Varning för bedragare som utger sig att vara från polisen - polisen.se
-- Fem personer i trafikolycka utanför Malung - SVT Nyheter
 - INSÄNDARE: Är Arboga redo när det otänkbara händer? - Bbl/AT
 - Fullt utvecklad villabrand i Hallstahammar - SVT Nyheter
+- Stämmer staten för klimatpolitiken: ”Då blir man dragen inför domstol” - SVT Nyheter
 - ÖB: Europa behöver kärnvapenavskräckning - SVT Nyheter
-- IS tar på sig explosion under fredagsbön - Aftonbladet
 - Karin Eriksson: Trump kan vältra sig i skadeglädje över Norges skam - Dagens Nyheter
+- Explosion under bönen: ”Låg kroppar överallt” - SvD
 - EU föreslår det 20:e ryska sanktionspaketet - Västerbottens-Kuriren
 - Toyota Aygo X blir snålare – och snabbare - Dagens Nyheter
-- Se upp för AI-fällan – så slipper du bli lurad - SvD
 - Bästa och sämsta fonderna i januari – nya hedgefonden rasade 14% - Placera.se
 - Vräkningarna ökar – ett samhälleligt bottennapp - Dagens Arena
+- Teslas fint under sportlovsveckorna: Diesel - Aftonbladet
 - Greps vid vänthallen vid Allum – med pistolliknande föremål i byxlinningen. - Partille Tidning
 - Uppgifter: Höstens modeller av Iphone får rejäla batterier - Macworld.se
 
@@ -41,12 +41,12 @@ _Updated: 2026-02-07 15:25_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 
 ## Technology
 
@@ -149,16 +149,16 @@ _Updated: 2026-02-07 15:25_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
