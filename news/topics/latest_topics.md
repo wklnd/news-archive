@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-08 19:53_
+_Updated: 2026-02-08 21:02_
 
 ## Top Stories
 
 - Ingång till bajstunnel kan byggas mitt på Värnhemstorget - Sydsvenskan
-- Timbro och forskarna ense: Göteborgs bilister subventioneras. - GP
+- DN Direkt – Noam Chomskys fru: Ber om ursäkt efter Epsteinkontakt - Dagens Nyheter
+- Går det att frossa avokadotoast med rent samvete? - Sydsvenskan
+- Fredspristagare döms till fängelse – och exil - Omni
+- Kvinna död i A-traktorolycka på Gotland - SVT Nyheter
+- Marius Borg Høiby misstänks för våldtäkt på resa med kronprins Haakon - Expressen
 - Uppgifter: Polisinsats hos rikspolischefen Petra Lundh - SVT Nyheter
-- Så löstes mysteriet med kobenta dalmatiner - SvD
-- Fredspristagaren Mohammadi döms i Iran - Aftonbladet
-- Takaichi segrar i Japans nyval - SVT Nyheter
-- Veckans blåljus: Karlskogapolisen om skolskjutningen på Risbergska - KT-Kuriren
+- Så blir vädret under sportlovsveckan - GP
 - 08 februari 08.06, Sammanfattning natt, Norrbottens län - Polisen.se
 - Brand i industrilokal söder om Vimmerby – 50-tal brandmän på plats - SVT Nyheter
-- Bilderna inifrån Europas största vindkraftspark - Aftonbladet
+- Epsteinfilerna: Starmers stabschef avgår - SVT Nyheter
+- Höghuslänga träffad i anfall mot Ukraina - Dagens Nyheter
 - ÖB Michael Claesson utesluter inte europeiska kärnvapen - SVT Nyheter
-- Rapporter om ryskt kaos: ”Som blinda kattungar” - Dagens Nyheter
 - Trumps brorsdotter varnar Sverige och Europa: ”Det kan alltid bli värre” - Expressen
-- UPPDATERAS: Skador på robotbasen Kapustin Jar bekräftade - kända rysslandsfientliga bör undvika Dubai, lämnar ut personer till Ryssland - cornucopia.se
 - Ökar ”explosionsartat” – gör elnätet robustare - SvD
 - Så kan ”dumma pengar” skaka börsen – techjättarnas kurser dyker - GP
-- Jättens nya satsning: Björkbark i däcken - Dagens Nyheter
 - Dubbelt så många barn vräks i Göteborg – flest i Sverige - GP
+- Se upp för AI-fällan – så slipper du bli lurad - NWT
 - Uppgifter: Höstens modeller av Iphone får rejäla batterier - Macworld.se
 - Studie: Häng med barnbarn gynnar hjärnan - Världen idag
 
@@ -40,13 +40,13 @@ _Updated: 2026-02-08 19:53_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -60,14 +60,14 @@ _Updated: 2026-02-08 19:53_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -104,14 +104,14 @@ _Updated: 2026-02-08 19:53_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2026-02-08 19:53_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
