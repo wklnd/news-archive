@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-08 18:57_
+_Updated: 2026-02-08 19:53_
 
 ## Top Stories
 
-- Starmers stabschef avgår i Epsteinskandal - GP
 - Ingång till bajstunnel kan byggas mitt på Värnhemstorget - Sydsvenskan
-- Polis avlossade sitt vapen – en till sjukhus - VLT
-- Vintersport: Landslagschefen om sprintuttagningen: ”Jättejobbigt och svårt” – OS i Milano och Cortina 2026 - SVT Nyheter
-- Expert: Oväntat stort stöd för svenska kärnvapen - Omni
-- Bilderna inifrån Europas största vindkraftspark - Aftonbladet
+- Timbro och forskarna ense: Göteborgs bilister subventioneras. - GP
 - Uppgifter: Polisinsats hos rikspolischefen Petra Lundh - SVT Nyheter
-- 08 februari 08.06, Sammanfattning natt, Norrbottens län - polisen.se
-- Brand i industrilokal söder om Vimmerby – 50-tal brandmän på plats - SVT Nyheter
-- Man har fallit från balkong i Eskilstuna - SVT Nyheter
+- Så löstes mysteriet med kobenta dalmatiner - SvD
+- Fredspristagaren Mohammadi döms i Iran - Aftonbladet
 - Takaichi segrar i Japans nyval - SVT Nyheter
+- Veckans blåljus: Karlskogapolisen om skolskjutningen på Risbergska - KT-Kuriren
+- 08 februari 08.06, Sammanfattning natt, Norrbottens län - Polisen.se
+- Brand i industrilokal söder om Vimmerby – 50-tal brandmän på plats - SVT Nyheter
+- Bilderna inifrån Europas största vindkraftspark - Aftonbladet
+- ÖB Michael Claesson utesluter inte europeiska kärnvapen - SVT Nyheter
 - Rapporter om ryskt kaos: ”Som blinda kattungar” - Dagens Nyheter
 - Trumps brorsdotter varnar Sverige och Europa: ”Det kan alltid bli värre” - Expressen
-- Iran efter samtal med USA: Skakade hand - Dagens Nyheter
+- UPPDATERAS: Skador på robotbasen Kapustin Jar bekräftade - kända rysslandsfientliga bör undvika Dubai, lämnar ut personer till Ryssland - cornucopia.se
 - Ökar ”explosionsartat” – gör elnätet robustare - SvD
+- Så kan ”dumma pengar” skaka börsen – techjättarnas kurser dyker - GP
 - Jättens nya satsning: Björkbark i däcken - Dagens Nyheter
-- Bostadspriserna faller i landet enligt Svensk mäklarstatistik – Men Stockholm sticker ut - SvD
 - Dubbelt så många barn vräks i Göteborg – flest i Sverige - GP
 - Uppgifter: Höstens modeller av Iphone får rejäla batterier - Macworld.se
 - Studie: Häng med barnbarn gynnar hjärnan - Världen idag
@@ -29,7 +29,6 @@ _Updated: 2026-02-08 18:57_
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global lansering av Xiaomi 17 Ultra bekräftas med Leica-kamera och marknadsanpassat batteri - Mix Vale
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Annual Report 2024 - Olof Palme International Center
@@ -39,14 +38,15 @@ _Updated: 2026-02-08 18:57_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ebp Global acquires Sustaina Company - Via TT
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
 
@@ -60,13 +60,13 @@ _Updated: 2026-02-08 18:57_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
@@ -86,11 +86,11 @@ _Updated: 2026-02-08 18:57_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
@@ -104,14 +104,14 @@ _Updated: 2026-02-08 18:57_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -160,5 +160,5 @@ _Updated: 2026-02-08 18:57_
 - Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2023-09-14 Överläggning på KSLA: Anpassning av jordbruket och livsmedelssektorn till ett klimat i förändring - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
