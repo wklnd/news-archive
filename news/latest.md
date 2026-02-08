@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-08 02:00_
+_Updated: 2026-02-08 05:45_
 
-- France investigates ex-minister Jack Lang over Epstein links - BBC
-- Ohio Man Is Charged With Threatening to Kill JD Vance - The New York Times
-- Netanyahu to hold urgent meeting with Trump Wednesday amid Iran negotiations - Axios
-- Prosecutors Began Investigating Renee Good’s Killing. Washington Told Them to Stop. - The New York Times
+- Japan votes in snap election as PM Takaichi takes a gamble - BBC
+- Snow totals in Massachusetts for February 7, 2026 - cbsnews.com
 - What to Know About the Cold Snap in NYC This Weekend - The New York Times
-- Zelensky says U.S. is readying huge economic deals with Russia - The Washington Post
-- Judge grants continuance in the asylum case of Liam Conejo Ramos and his family - cnn.com
-- Top ICE Lawyer in Minnesota Departs as Immigration Lawsuits Overwhelm Courts - The New York Times
-- Toddler hospitalized with respiratory failure was returned to ICE detention and denied prescribed medication, lawsuit says - NBC News
 - US gave Ukraine and Russia a June deadline to reach agreement to end war, Zelenskyy says - AP News
-- Japan's ultraconservative PM Sanae Takaichi set for a big election victory - NBC News
+- Teachers, others shocked to get SFUSD ‘assignments’ for strike day - Mission Local
+- Indigenous-led demonstration serves ICE symbolic 'eviction notice' - MPR News
+- Pelosi to Endorse Jack Schlossberg, Again Backing a Kennedy for Congress - The New York Times
+- Renee Good's partner addresses Minneapolis immigration crackdown one month after killing - NBC News
+- Toddler hospitalized with respiratory failure was returned to ICE detention and denied prescribed medication, lawsuit says - NBC News
+- ICE surveillance concerns shift Democrats’ demands for body cameras - Politico
 - RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group - The Guardian
 - Who might succeed Sir Keir Starmer as Britain’s prime minister? - The Economist
-- For Palestinians returning to Gaza, a bittersweet reunion - Reuters
-- Washington Post C.E.O. Will Lewis Steps Down After Stormy Tenure - The New York Times
-- A viral outbreak at the Winter Olympics, and Disney names Bob Iger's successor (again): The news quiz - NBC News
+- Confusion at reopening of Rafah crossing leaves Palestinians stranded - cnn.com
+- Statement by President von der Leyen on the 20th package of sanctions against Russia - European Commission
+- Nuclear sees tipping point as Meta makes deals with Bill Gates’ TerraPower, Sam Altman-backed Oklo - Fortune
 - Pressure mounts on American Airlines CEO as carrier lags rivals - CNBC
-- S Korean crypto firm accidentally pays out $40bn in bitcoin - BBC
-- Engadget review recap: Shokz OpenFit Pro, Nex Playground, Sony A7 V and more - Engadget
-- Google is expanding AirDrop support to more Android devices ‘very soon’ - theverge.com
+- Binance Gives Trump Family’s Crypto Firm a Leg Up - The New York Times
+- A viral outbreak at the Winter Olympics, and Disney names Bob Iger's successor (again): The news quiz - NBC News
+- LG’s C5 TV and Anker’s powerful power bank are this week’s best deals - theverge.com
+- Amazon has a 4-pack of Apple AirTags on sale for 35% off this weekend - Mashable
