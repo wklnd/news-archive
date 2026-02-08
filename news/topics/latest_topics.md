@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-08 11:53_
+_Updated: 2026-02-08 12:55_
 
 ## Top Stories
 
 - Bilderna inifrån Europas största vindkraftspark - Aftonbladet
 - Ellinors hus brann ner – kunde inte ringa 112 - Expressen
 - Hur robust är den europeiska fronten? - SvD
-- Direkt – Krisen i Mellanöstern – Hamasledare säger nej till avväpning - Dagens Nyheter
 - De vill lämna Kanada – och starta eget land - GP
-- Måtte världen lyssna på dessa förstörare - SvD
-- Uppgifter: Svensk skjuten i Thailand – en gripen - Västerbottens-Kuriren
+- JUST NU: Man föll från balkong – allvarligt skadad - Ekuriren
+- Generationskrig? Inte i det här kollektivhuset i Lund - Sydsvenskan
 - Djupa klyftan inom oppositionen – strid om priset vid pump om de rödgröna vinner valet - Dagens Nyheter
 - Liberalerna segrade ihjäl sig - SvD
 - 08 februari 08.06, Sammanfattning natt, Norrbottens län - polisen.se
-- DN Direkt – Solberg ilsken på partivän för Epsteinvänskap - Dagens Nyheter
-- DN Direkt – Flera döda i laviner i italienska Alperna - Dagens Nyheter
+- Landshövdingens tal från minnesstunden ett år efter våldsdådet på Campus Risbergska - Örebronyheter
+- Rysk general sköts i Moskva – man gripen i Dubai - SVT Nyheter
+- Rapporter om ryskt kaos: ”Som blinda kattungar” - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: USA planerar enormt ekonomiskt samarbete med Ryssland - Dagens Nyheter
 - Vill ta bort anmälningskrav för föräldrapenning - Västerbottens-Kuriren
-- Zelenskyj: Ryssland och USA förhandlar om enormt ekonomiskt samarbete - Omni
 - Jättens nya satsning: Björkbark i däcken - Dagens Nyheter
 - Se upp för AI-fällan – så slipper du bli lurad - NWT
-- Kryptoexperterna efter raset – ”äntligen köpläge” - Dagens industri
 - Dubbelt så många barn vräks i Göteborg – flest i Sverige - GP
+- Domstol ger Skistar grönt ljus för ny expresslift i Åre - Dagens industri
+- Nasa låter astronauter ta med smartphones till månen - Computer Sweden
 - Studie: Häng med barnbarn gynnar hjärnan - Världen idag
-- Uppgifter: Höstens modeller av Iphone får rejäla batterier - Macworld.se
 
 ## World News
 
@@ -61,15 +61,15 @@ _Updated: 2026-02-08 11:53_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Forskargrupp funktion och teknologi - Karolinska Institutet
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
