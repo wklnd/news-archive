@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-08 09:21_
+_Updated: 2026-02-08 09:56_
 
 ## Top Stories
 
-- Stor markbrand i Norge – 40 personer evakuerade - SVT Nyheter
-- Bilderna inifrån Markbygden i Piteå – Europas största vindkraftspark - Aftonbladet
+- Ellinors hus brann ner – kunde inte ringa 112 - Expressen
+- Bilderna inifrån Europas största vindkraftspark - Aftonbladet
 - Generationskrig? Inte i det här kollektivhuset i Lund - Sydsvenskan
 - Lyxfällan-experten: Detta skulle jag aldrig göra med mina pengar - GP
-- Körde i fel riktning på E4 – stoppades utanför Linköping - Corren
-- Tv-profilens nya vädjan: Vi ska betala - Dagens Nyheter
-- Djupa klyftan inom oppositionen – strid om priset vid pump om de rödgröna vinner valet - Dagens Nyheter
+- Snöoväder i Trollhättan och Vänersborg: Följ direktrapporteringen här - TTELA
+- KRÖNIKA: Ingen flicka kommer att drömma prinsessdrömmar efter Mette-Marits haveri - Sydsvenskan
 - Liberalerna segrade ihjäl sig - SvD
+- Man död efter krock med mur i Kalmar - SVT Nyheter
 - Försvunnet flygplan i Kiruna hittat – passagerarna välbehållna - SVT Nyheter
-- Regeringen vill göra det enklare för föräldralediga - Omni
-- Marockos ledare kliver av efter protesterna - GP
-- Utrikesministeriet bekräftar: Två finländare döda i snöskred i Italien - Yle
-- DN Direkt – Dousa: 10 miljoner för demokratiarbete i Iran - Dagens Nyheter
+- Parasiter i vattnet – varning om framtidens problem - GP
+- Tre skidåkare döda i laviner i norra Italien - Expressen
+- Iskyla i Kiev: Äldre värmer sig med vattenflaskor - Dagens Nyheter
+- Tv-stjärnan vill betala sin mammas kidnappare - Västerbottens-Kuriren
 - Ledande aktivist i Iran gripen - SVT Nyheter
 - Frågan alla ställer sig – efter enorma summan - EFN
 - Se upp för AI-fällan – så slipper du bli lurad - NWT
 - Domstol ger Skistar grönt ljus för ny expresslift i Åre - Dagens industri
-- Hemvården i Karlskoga kommun blir mer digital - KT-Kuriren
+- Vräkningarna ökar – ett samhälleligt bottennapp - Dagens Arena
 - Uppgifter: Höstens modeller av Iphone får rejäla batterier - Macworld.se
 - Svenskarna är inte färdiga med "Wolfenstein"-serien: "Vi vill avsluta trilogin" - MovieZine.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Annual Report 2024 - Olof Palme International Center
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- ebp Global acquires Sustaina Company - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-02-08 09:21_
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Implementering av litotripsi av ureterstenar med laserteknik vid Loc Binh Regional Medical Center. - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
