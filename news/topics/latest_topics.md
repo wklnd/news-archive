@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-08 10:58_
+_Updated: 2026-02-08 11:53_
 
 ## Top Stories
 
-- Rysk general sköts i Moskva – man gripen i Dubai - SVT Nyheter
-- DN Direkt – Vill ta bort anmälningskrav för föräldrapenning - Dagens Nyheter
-- Ellinors hus brann ner – kunde inte ringa 112 - Expressen
 - Bilderna inifrån Europas största vindkraftspark - Aftonbladet
-- Generationskrig? Inte i det här kollektivhuset i Lund - Sydsvenskan
-- Överste gripen – tros ha spionerat åt Kina - GP
+- Ellinors hus brann ner – kunde inte ringa 112 - Expressen
+- Hur robust är den europeiska fronten? - SvD
+- Direkt – Krisen i Mellanöstern – Hamasledare säger nej till avväpning - Dagens Nyheter
+- De vill lämna Kanada – och starta eget land - GP
+- Måtte världen lyssna på dessa förstörare - SvD
+- Uppgifter: Svensk skjuten i Thailand – en gripen - Västerbottens-Kuriren
 - Djupa klyftan inom oppositionen – strid om priset vid pump om de rödgröna vinner valet - Dagens Nyheter
 - Liberalerna segrade ihjäl sig - SvD
-- Försvunnet flygplan i Kiruna hittat – passagerarna välbehållna - SVT Nyheter
-- Man död efter krock med mur i Kalmar - SVT Nyheter
+- 08 februari 08.06, Sammanfattning natt, Norrbottens län - polisen.se
+- DN Direkt – Solberg ilsken på partivän för Epsteinvänskap - Dagens Nyheter
 - DN Direkt – Flera döda i laviner i italienska Alperna - Dagens Nyheter
-- DN Direkt – Dousa: 10 miljoner för demokratiarbete i Iran - Dagens Nyheter
+- Vill ta bort anmälningskrav för föräldrapenning - Västerbottens-Kuriren
 - Zelenskyj: Ryssland och USA förhandlar om enormt ekonomiskt samarbete - Omni
-- Dubblat pris på matsilver efter kraftiga rallyt - Dagens industri
-- Frågan alla ställer sig – efter enorma summan - EFN
-- Kryptoexperterna efter raset – ”äntligen köpläge” - Dagens industri
+- Jättens nya satsning: Björkbark i däcken - Dagens Nyheter
 - Se upp för AI-fällan – så slipper du bli lurad - NWT
+- Kryptoexperterna efter raset – ”äntligen köpläge” - Dagens industri
+- Dubbelt så många barn vräks i Göteborg – flest i Sverige - GP
+- Studie: Häng med barnbarn gynnar hjärnan - Världen idag
 - Uppgifter: Höstens modeller av Iphone får rejäla batterier - Macworld.se
-- Svenskarna är inte färdiga med "Wolfenstein"-serien: "Vi vill avsluta trilogin" - MovieZine.se
-- Busschaufför hotad med misstänkt vapen - Partille Tidning
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Annual Report 2024 - Olof Palme International Center
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- ebp Global acquires Sustaina Company - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Albanien utser AI-bot till minister - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Forskargrupp funktion och teknologi - Karolinska Institutet
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2026-02-08 10:58_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - EY i Almedalen 2025 | EY - Sverige - ey.com
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ​ Viktoria Skantz är ny CFO på Easyfairs Nordic - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -119,46 +119,46 @@ _Updated: 2026-02-08 10:58_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
