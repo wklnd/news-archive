@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-08 12:59_
+_Updated: 2026-02-08 13:53_
 
-- Reaction to Trump’s Racist Post Shows He Is Not Always Immune to Politics - The New York Times
+- Nithya Raman Announces She Will Run for Los Angeles Mayor - The New York Times
+- Zelensky says Trump wants Russia-Ukraine peace deal by June, before midterms focus - Axios
+- Appeals court affirms Trump policy of jailing immigrants without bond - AP News
 - Immigrant whose skull was broken in 8 places during ICE arrest says beating was unprovoked - NPR
-- Files Detail Epstein’s Dealings With Commerce Secretary Howard Lutnick - The New York Times
 - Trump aims to hold the first meeting of his new Board of Peace in Washington this month - Politico
+- Lindsey Vonn's ACL is '100% gone.' But not her chance of winning Olympic gold Sunday. - NBC News
 - Teachers, others shocked to get SFUSD ‘assignments’ for strike day - Mission Local
-- What to Know About the Cold Snap in NYC This Weekend - The New York Times
-- Did a popular acne medication drive a Texas teen to shoot his friends? - cbsnews.com
 - Democrat Chasity Verret Martinez wins District 60 seat, replacing Chad Brown - The Advocate
 - Thailand national election 2026: Voters head to the polls in high-stakes election - BBC
-- Former French minister Lang resigns from Arab World Institute after Epstein correspondence revealed - cnn.com
-- RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group - The Guardian
-- A Mosque Bombing Undercuts Pakistan’s Bid for Security - The New York Times
+- N. Korea to hold party congress in February, first since 2021 - Yahoo
+- No front line: Russia's hybrid pressure on German army in Lithuania - Euronews.com
+- It feels like humanity has died in Sudan - The Times
 - How prediction market traders reinvented the bond - Financial Times
+- Housing affordability crisis: Higher earners drive home prices, not lack of supply, researchers say - Fortune
 - Get Ready for Double Whammy of US Jobs and Inflation - Bloomberg.com
-- A viral outbreak at the Winter Olympics, and Disney names Bob Iger's successor (again): The news quiz - NBC News
-- DVDs and public transit: Boycott drives people to ditch Big Tech to protest ICE - NPR
+- S Korean crypto firm accidentally pays out $40bn in bitcoin - BBC
 - These Game Boy, DS, 3DS, GameCube, Wii, and Wii U games sold exactly 1 copy each in the U.S. in 2025 - Nintendo Everything
-- M5 MacBook Air will just be a spec bump, but there’s one upgrade I really want to see - 9to5Mac
 - Honkai: Star Rail version 4.0 update ‘No Aha At Full Moon’ launches February 13 - Gematsu
+- M5 MacBook Air will just be a spec bump, but there’s one upgrade I really want to see - 9to5Mac
 - Pokemon Presents predictions for Pokemon Day 2026 - Nintendo Everything
