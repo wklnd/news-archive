@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-09 23:06_
+_Updated: 2026-02-10 00:04_
 
 ## Top Stories
 
+- Høiby förhörd om knivhot – nekar till brott - GP
 - Ledaren för skotska Labourpartiet begär Starmers avgång - SVT Nyheter
-- Han rekryterade unga kvinnor åt Jeffrey Epstein: ”Jag har ingenting att dölja” - SVT Nyheter
-- LEDARE: Lärarnas larm: Svenska tonåringar kan inte skriva - Expressen
 - Efter ekobrottshärvan – Logistikparkens styrelse rensas ut - SVT Nyheter
-- L: Behövs en ventil för tonårsutvisningar snabbt – Senaste nytt om valet 2026 - SVT Nyheter
-- Ytterligare organisation bryter med Mette-Marit - Aftonbladet
+- DN Direkt – L: Behövs snabbt en ventil för tonårsutvisningar - dn.se
+- Upprivna rankor ska rädda fransk vinindustri - Västerbottens-Kuriren
+- Sveriges handlingsplan för biologisk mångfald - Regeringen.se
 - Operation Tvättstuga stoppade lånebluffar för 670 miljoner - dn.se
-- DN Direkt – Ukraina får miljonstöd till vård och omsorg - dn.se
+- L: Behövs en ventil för tonårsutvisningar snabbt – Senaste nytt om valet 2026 - SVT Nyheter
 - Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
-- Direkt – Krisen i Mellanöstern – Pepparsprej mot propalestinska protester i Sydney - dn.se
-- Översvämningar i flyktingläger väcker kritik mot Syriens nya styre - dn.se
-- Analytikernas dom: Saab är övervärderat – sälj - Affärsvärlden
+- Rekordkarneval igen: ”Det är vansinnigt” - Sydsvenskan
+- Ryssland: Ukraina bakom dåd mot toppgeneral - Hufvudstadsbladet
+- Fyra dödade i israeliska attacker i Libanon - Västerbottens-Kuriren
+- Uppgifter: Svensk man ihjälskjuten i Thailand - GP
+- Iran: Vi kommer aldrig att ge upp anrikning - Aftonbladet
 - ”Facken accepterar uppsägningar för lätt” - SvD
-- Norrlandsströmming får EU-skydd - GP
-- BioStock Investor Pitch: Alzinova - Biostock
+- Elbilar får samma märkning som tvättmaskiner - Carup.se
+- Analytikernas dom: Saab är övervärderat – sälj - Affärsvärlden
+- Uppgifter: Diamantjätte på väg att säljas - Dagens industri
 - Apple ryktas släppa beta av iOS 26.4 i februari. Nya Siri på ingång. - feber.se
-- Nu släpps Mario Tennis Fever. Nytt tennisspel till Nintendo Switch 2 kommer på torsdag. - feber.se
-- Stoppa utvisningen av Saveena och hennes familj - MittSkifte
-- Boring ska bygga tunnlar i Dubai. Ska transportera 30.000 passagerare om dagen. - feber.se
-- Omtalade pojkvännen: ”Då blev jag svartsjuk” - SvD
+- Noble Audio släpper dongel för audiofiler. Om man är ute efter det perfekta ljudet. - feber.se
 
 ## World News
 
@@ -98,19 +98,19 @@ _Updated: 2026-02-09 23:06_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - openai.com
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
