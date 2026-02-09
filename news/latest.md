@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-09 23:22_
+_Updated: 2026-02-10 00:06_
 
-- Justice Department moves to dismiss Steve Bannon's criminal case - NBC News
-- Starmer’s UK Premiership Teeters on Brink as Key Aides Quit - Yahoo Finance
+- Israel Gives Itself More Control Over Occupied West Bank - The New York Times
+- Gateway Funding Doesn’t Have to Be Immediately Restored, Judge Says - The New York Times
+- This whistle fights fascists - theverge.com
 - Japan’s Takaichi to pursue conservative agenda after election landslide - NPR
 - N.Y.C. Nurses Reach Deal to End Strike at Two Hospital Systems - The New York Times
-- Fauquier Co. backed Trump, again: How do voters feel the president is doing? - WTOP
-- This whistle fights fascists - theverge.com
-- Capitol agenda: Republicans prepare DHS punt - Politico
-- Howard Lutnick faces bipartisan calls to resign over latest Epstein revelations - Politico
+- Lawmakers rally in support of British PM Starmer as calls to resign ease - AP News
+- City officials say there is ‘no credible threat’ after ‘safety concerns’ shut down public buildings - WHIO TV
 - New video footage released from day of the fatal Brown University shooting - AP News
-- New York GOP’s midterm problem: No money, no bench — and Trump - Politico
+- Wright to brief senators on Venezuela energy issues - Politico
+- Justice Department moves to dismiss Steve Bannon's criminal case - NBC News
+- Starmer’s UK Premiership Teeters on Brink as Key Aides Quit - Yahoo Finance
+- Thailand’s Conservative Party Claims Surprise Election Victory - The New York Times
 - Israel’s president mourns antisemitic massacre in Australia, where fury over Gaza still divides - Yahoo
-- After M23 Takeover, Goma Carries Violent Memories and Signs of Hope - The New York Times
-- Ukraine Smashes Russian Breakthrough Near Pokrovsk, Reclaims Ground in 2 Regions - Kyiv Post
-- Migrant boat capsizes off Libya leaving 53 dead, including two babies - BBC
-- Kroger Names Ex-Walmart Executive as Its Next CEO - The Wall Street Journal
+- Russian forces pressuring Pokrovsk as 'last battles' rage - Reuters
+- Pilots and Flight Attendants Criticize American Airlines’ Performance - The New York Times
+- Trump administration’s changes to the CFPB cost Americans $19B, a new report says - AP News
 - S&P 500 rises, led by tech; Dow climbs to fresh record: Live updates - CNBC
 - Michael Grimes returns to Morgan Stanley after Trump administration stint - Financial Times
-- French central bank governor to step down early - Financial Times
-- Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e - Ars Technica
-- One UI 8.5 rollout turning into a delayed wagon - Sammy Fans
+- Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades - theverge.com
+- Xbox Next Gen Might Launch in 2027, But It’s a “Best Case Scenario”; Console Will Run Full Windows 11, OEM Can Make Their Own Hardware - Wccftech
