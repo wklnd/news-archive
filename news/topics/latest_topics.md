@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 00:04_
+_Updated: 2026-02-10 01:06_
 
 ## Top Stories
 
-- Høiby förhörd om knivhot – nekar till brott - GP
-- Ledaren för skotska Labourpartiet begär Starmers avgång - SVT Nyheter
+- ”Bonusprinsen” förhörd om knivhot – nekar till brott - dn.se
 - Efter ekobrottshärvan – Logistikparkens styrelse rensas ut - SVT Nyheter
-- DN Direkt – L: Behövs snabbt en ventil för tonårsutvisningar - dn.se
-- Upprivna rankor ska rädda fransk vinindustri - Västerbottens-Kuriren
-- Sveriges handlingsplan för biologisk mångfald - Regeringen.se
+- Ytterligare organisation bryter med Mette-Marit - Aftonbladet
+- Kyligt och kul: På plats i kön till karnevalen - Lundagård
+- Upprivna rankor ska rädda fransk vinindustri - GP
+- DN Direkt – Forssell om tonårsutvisningar: Ska inte göra tvära kast - dn.se
 - Operation Tvättstuga stoppade lånebluffar för 670 miljoner - dn.se
 - L: Behövs en ventil för tonårsutvisningar snabbt – Senaste nytt om valet 2026 - SVT Nyheter
 - Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
-- Rekordkarneval igen: ”Det är vansinnigt” - Sydsvenskan
-- Ryssland: Ukraina bakom dåd mot toppgeneral - Hufvudstadsbladet
-- Fyra dödade i israeliska attacker i Libanon - Västerbottens-Kuriren
-- Uppgifter: Svensk man ihjälskjuten i Thailand - GP
+- Nikkei klättrar rejält efter japanskt val - Västerbottens-Kuriren
+- Våldtog 89-åring – åtalas för ny våldtäkt - Expressen
+- DN Direkt – Uppgifter: En gripen efter mord på svensk gängman i Thailand - dn.se
 - Iran: Vi kommer aldrig att ge upp anrikning - Aftonbladet
 - ”Facken accepterar uppsägningar för lätt” - SvD
 - Elbilar får samma märkning som tvättmaskiner - Carup.se
-- Analytikernas dom: Saab är övervärderat – sälj - Affärsvärlden
-- Uppgifter: Diamantjätte på väg att säljas - Dagens industri
+- En första titt på Ferraris elbil, för den som gillar knappar och reglage - Allt om Elbil
+- BioStock Investor Pitch: Alzinova - Biostock
 - Apple ryktas släppa beta av iOS 26.4 i februari. Nya Siri på ingång. - feber.se
 - Noble Audio släpper dongel för audiofiler. Om man är ute efter det perfekta ljudet. - feber.se
+- Nu släpps Mario Tennis Fever. Nytt tennisspel till Nintendo Switch 2 kommer på torsdag. - feber.se
 
 ## World News
 
 - Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
@@ -40,11 +39,12 @@ _Updated: 2026-02-10 00:04_
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - ebp Global acquires Sustaina Company - Via TT
 - BDS Sverige: Global rörelse grundad i mänskliga rättigheter - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
@@ -52,24 +52,24 @@ _Updated: 2026-02-10 00:04_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 
 ## Business
 
@@ -123,16 +123,16 @@ _Updated: 2026-02-10 00:04_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
@@ -148,17 +148,17 @@ _Updated: 2026-02-10 00:04_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
