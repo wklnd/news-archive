@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-09 18:31_
+_Updated: 2026-02-09 19:28_
 
 ## Top Stories
 
@@ -8,22 +8,22 @@ _Updated: 2026-02-09 18:31_
 - Hätskt ordbråk i regionfullmäktige: ”Du är en idiot rakt igenom” - SVT Nyheter
 - Ledaren för skotska Labourpartiet begär Starmers avgång - SVT Nyheter
 - Misstanken: Slog sin dotter med stålskaft - GP
-- TV4-profil frias i uppmärksammat sexköpsmål - SVT Nyheter
-- Ytterligare organisation bryter med Mette-Marit - Västerbottens-Kuriren
-- DN Direkt – Ukraina får miljonstöd till vård och omsorg - Dagens Nyheter
+- DN Direkt – L: Behövs snabbt en ventil för tonårsutvisningar - Dagens Nyheter
+- Kritiserad flytt stoppas – oklart var onkologiska verksamheten hamnar - SVT Nyheter
 - Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
 - 09 februari 16.03, Trafikkontroll, Västerbottens län - polisen.se
-- Kritiserad flytt stoppas – oklart var onkologiska verksamheten hamnar - SVT Nyheter
 - Henrik Brandão Jönsson: Högerpopulismen förlorade i Portugal – vänstern vann övertygande - Dagens Nyheter
 - Marken skakar sedan i november i den lilla staden - Dagens Nyheter
 - Översvämningar i flyktingläger väcker kritik mot Syriens nya styre - Dagens Nyheter
-- Stadsgrönska och pollinatörer blir nya miljömål - GP
-- Vattenfall: Elpriset i Skåne måste stiga för att Kriegers flak ska byggas ut - Sydsvenskan
+- Stadsgrönska och pollinatörer blir nya miljömål - Aftonbladet
 - John i Östersund hade 10 grader hemma – fick 17 500 i elräkning - Expressen
-- Aktierna som stigit mest senaste året - Affärsvärlden
 - Affärsvärlden skiftar till neutrala råd för Epiroc och Sandvik - Placera.se
+- Gruv-vd:n: Det ska vara ett helvete att få gruvtillstånd - Dagens industri
+- Sol och vind ger mer än gas och kol - Dagens PS
 - Microsofts Exchange Online flaggar legitima mejl som nätfiske - Computer Sweden
 - Core Ultra 9 290K Plus "Arrow Lake Refresh" sägs ha lagts på hyllan - Nordichardware
+- Kommande spelmobil för tankarna till Xperia Play - Swedroid
+- Första betan av iOS 26.4 släpps snart med en helt ny Siri - teknikveckan.se
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2026-02-09 18:31_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
-- Forskargrupp funktion och teknologi - Karolinska Institutet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -124,41 +124,41 @@ _Updated: 2026-02-09 18:31_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
