@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-09 12:36_
+_Updated: 2026-02-09 14:03_
 
 ## Top Stories
 
-- Så blir vädret under sportlovsveckan - GP
-- Skärpta krav för svenskt medborgarskap - SVT Nyheter
-- DN Direkt – Jimmy Lai döms till 20 års fängelse i Hongkong - Dagens Nyheter
-- Rekord för andra året i rad på Öresundsbron - Aftonbladet
-- Rapport: 8 500 utan specialiserad palliativ vård - Aftonbladet
-- Stora störningar på t-banans gröna linje - SvD
-- De är lyckligast i landet: Växte upp i gyllene tid - GP
-- Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
 - Kritiserad flytt stoppas – oklart var onkologiska verksamheten hamnar - SVT Nyheter
-- 18 års fängelse för ambulansdådet - Västerbottens-Kuriren
+- Mamma och tioårig son dödade i rysk attack - GP
+- DN Direkt – Storbråk i Örebros regionfullmäktige - Dagens Nyheter
+- DN Direkt – Ukraina får miljonstöd till vård och omsorg - Dagens Nyheter
+- Ännu en regimkritiker gripen i Iran - Aftonbladet
+- Spädbarn bland 50-tal omkomna i Medelhavet - GP
+- Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
+- Timrå – kommunen där staten checkade ut - SVT Nyheter
+- Så blir vädret under sportlovsveckan - GP
+- Tiktok stoppar högerextrema AI-genererade tjejer - Omni
 - Epsteinfilerna: Starmers stabschef avgår - SVT Nyheter
+- DN Direkt – Jimmy Lai döms till 20 års fängelse i Hongkong - Dagens Nyheter
 - Viktiga händelser vecka 7 - Aktuell Hållbarhet
-- BioStock Investor Pitch: Alzinova - Biostock
-- Seger för mittenkandidaten Seguro i Portugals presidentval - SVT Nyheter
+- TV4-journalist frias från sexköp - Västerbottens-Kuriren
+- Elpriset rusar – men ”ingen fara på taket” - SvD
 - Lykos skuldfälla - nyemission kan bli ett krav - Ehandel.se
 - Arthur, 36, fick elräkning på nära 14 000 kronor: ”Helt absurt” - Expressen
-- ”Facken accepterar uppsägningar för lätt” - SvD
-- Trump stödjer nu samgående mellan Nexstar och Tegna - Placera.se
+- SB1 höjer Vitec till köp, Nordea upprepar köp - Börsvärlden
 - Knallorange Iphone 17 en statussymbol i Kina - Omni Ekonomi
 - Kamerorna i iPhone 18 Pro kan få flera uppgraderingar - Teknikveckan
 
@@ -40,10 +40,10 @@ _Updated: 2026-02-09 12:36_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -57,18 +57,18 @@ _Updated: 2026-02-09 12:36_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Albanien utser AI-bot till minister - Computer Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Albanien utser AI-bot till minister - Computer Sweden
 - Forskargrupp funktion och teknologi - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Nackdelar med AI-plattform: ❌ Viktiga nackdelar med Palantir för europeiska företag och institutioner 🏢🇪🇺 - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -100,21 +100,21 @@ _Updated: 2026-02-09 12:36_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälsa och teknik - Chalmers tekniska högskola
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - openai.com
 - Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Enheten för radiologi - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -123,22 +123,22 @@ _Updated: 2026-02-09 12:36_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
