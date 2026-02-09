@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-09 11:33_
+_Updated: 2026-02-09 12:36_
 
 ## Top Stories
 
-- Friska kvinnor tar dropp på hemlighetsfulla hemmafester - GP
-- DN Direkt – Christchurch-terroristen: Var inte i skick att erkänna - Dagens Nyheter
-- Rekord för andra året i rad på Öresundsbron - Aftonbladet
-- DN Direkt – Lindsey Vonn opererad – fraktur i benet - Dagens Nyheter
-- Politiker gripen – timmar efter att ha frigivits - GP
-- Ny investering planeras på Kampaängen i Växjö - Smålandsposten
-- De är lyckligast i landet: Växte upp i gyllene tid - GP
-- Fick sjukpenning när han arbetade – döms - Västerbottens-Kuriren
-- Kritiserad flytt stoppas – oklart var onkologiska verksamheten hamnar - SVT Nyheter
-- Forssell om kritiken: ”Angelägna om att hitta en lösning” – Senaste nytt om valet 2026 - SVT Nyheter
+- Så blir vädret under sportlovsveckan - GP
+- Skärpta krav för svenskt medborgarskap - SVT Nyheter
 - DN Direkt – Jimmy Lai döms till 20 års fängelse i Hongkong - Dagens Nyheter
-- Kraftig brand i Åkersberga – stor insats - Aftonbladet
-- Israel: Fyra dödade i södra Gaza - Västerbottens-Kuriren
-- Israel förordar bosättarkrav för mer kontroll - GP
-- Arthur, 36, fick elräkning på nära 14 000 kronor: ”Helt absurt” - Expressen
+- Rekord för andra året i rad på Öresundsbron - Aftonbladet
+- Rapport: 8 500 utan specialiserad palliativ vård - Aftonbladet
+- Stora störningar på t-banans gröna linje - SvD
+- De är lyckligast i landet: Växte upp i gyllene tid - GP
+- Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
+- Kritiserad flytt stoppas – oklart var onkologiska verksamheten hamnar - SVT Nyheter
+- 18 års fängelse för ambulansdådet - Västerbottens-Kuriren
+- Epsteinfilerna: Starmers stabschef avgår - SVT Nyheter
+- Viktiga händelser vecka 7 - Aktuell Hållbarhet
+- BioStock Investor Pitch: Alzinova - Biostock
+- Seger för mittenkandidaten Seguro i Portugals presidentval - SVT Nyheter
 - Lykos skuldfälla - nyemission kan bli ett krav - Ehandel.se
-- Transportföretagens Paketindex: Rekordår för utlandspaket och second hand över nätet - dagensinfrastruktur -
+- Arthur, 36, fick elräkning på nära 14 000 kronor: ”Helt absurt” - Expressen
 - ”Facken accepterar uppsägningar för lätt” - SvD
-- Här är dyraste huset i Sunne kommun sedan 1 december – kostade 4,4 miljoner - NWT
-- Uppgifter: Iphone 17e kan släppas om några veckor - Omni
+- Trump stödjer nu samgående mellan Nexstar och Tegna - Placera.se
+- Knallorange Iphone 17 en statussymbol i Kina - Omni Ekonomi
+- Kamerorna i iPhone 18 Pro kan få flera uppgraderingar - Teknikveckan
 
 ## World News
 
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- ebp Global acquires Sustaina Company - Via TT
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- ebp Global acquires Sustaina Company - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Från anonym provins till global wellnessmagnet – Ninh Binh visar vägen - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -98,23 +98,23 @@ _Updated: 2026-02-09 11:33_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- Engineering Health 2024 - Chalmers tekniska högskola
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Hälsa och teknik - Chalmers tekniska högskola
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - openai.com
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -122,6 +122,8 @@ _Updated: 2026-02-09 11:33_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -131,8 +133,6 @@ _Updated: 2026-02-09 11:33_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
@@ -142,23 +142,23 @@ _Updated: 2026-02-09 11:33_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
