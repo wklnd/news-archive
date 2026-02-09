@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-09 19:28_
+_Updated: 2026-02-09 20:10_
 
 ## Top Stories
 
-- Tidigare L-topparna om krisen: ”Känner inte igen partiet” - Dagens Nyheter
-- Hätskt ordbråk i regionfullmäktige: ”Du är en idiot rakt igenom” - SVT Nyheter
 - Ledaren för skotska Labourpartiet begär Starmers avgång - SVT Nyheter
+- DN Direkt – Organisation för psykisk hälsa bryter med Mette-Marit - Dagens Nyheter
+- Tidigare L-topparna om krisen: ”Känner inte igen partiet” - Dagens Nyheter
 - Misstanken: Slog sin dotter med stålskaft - GP
-- DN Direkt – L: Behövs snabbt en ventil för tonårsutvisningar - Dagens Nyheter
-- Kritiserad flytt stoppas – oklart var onkologiska verksamheten hamnar - SVT Nyheter
+- En svensk strategi för biologisk mångfald och ekosystemtjänster - regeringen.se
+- Fyra dödade i israeliska attacker i Libanon - Västerbottens-Kuriren
+- Operation Tvättstuga stoppade lånebluffar för 670 miljoner - Dagens Nyheter
 - Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
-- 09 februari 16.03, Trafikkontroll, Västerbottens län - polisen.se
+- Handläggningen av investeringsstöd bromsar svenskt lantbruk - Lantbruksnytt
 - Henrik Brandão Jönsson: Högerpopulismen förlorade i Portugal – vänstern vann övertygande - Dagens Nyheter
 - Marken skakar sedan i november i den lilla staden - Dagens Nyheter
 - Översvämningar i flyktingläger väcker kritik mot Syriens nya styre - Dagens Nyheter
-- Stadsgrönska och pollinatörer blir nya miljömål - Aftonbladet
+- Vattenfall: Elpriset i Skåne måste stiga för att Kriegers flak ska byggas ut - Sydsvenskan
 - John i Östersund hade 10 grader hemma – fick 17 500 i elräkning - Expressen
 - Affärsvärlden skiftar till neutrala råd för Epiroc och Sandvik - Placera.se
 - Gruv-vd:n: Det ska vara ett helvete att få gruvtillstånd - Dagens industri
-- Sol och vind ger mer än gas och kol - Dagens PS
 - Microsofts Exchange Online flaggar legitima mejl som nätfiske - Computer Sweden
 - Core Ultra 9 290K Plus "Arrow Lake Refresh" sägs ha lagts på hyllan - Nordichardware
 - Kommande spelmobil för tankarna till Xperia Play - Swedroid
@@ -27,49 +27,49 @@ _Updated: 2026-02-09 19:28_
 
 ## World News
 
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
-- Avlyssningsskandalen växer - Journalisten
 - Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- ebp Global acquires Sustaina Company - Via TT
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Annual Report 2024 - Olof Palme International Center
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Från anonym provins till global wellnessmagnet – Ninh Binh visar vägen - travelnews.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Künstliche Intelligenz: Wenn Deutschland unterschätzt wird – Forschungsexzellenz als Fundament und menschenzentrierter KI-Ansatz - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Forskargrupp funktion och teknologi - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -147,18 +147,18 @@ _Updated: 2026-02-09 19:28_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
