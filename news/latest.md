@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-10 12:37_
+_Updated: 2026-02-10 13:35_
 
-- Jamie Raskin accuses DoJ of cover-up after viewing unredacted Epstein files - The Guardian
-- Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation - The New York Times
+- Trump threatens to block opening of US-Canada bridge - BBC
+- Newly Unbound, Trump Weighs More Nuclear Arms and Underground Tests - The New York Times
 - Appeals Court Lets Trump Revoke Deportation Protections for 60,000 More Migrants - The New York Times
-- Trump to exclude Democratic governors from usually bipartisan meeting at the White House - ABC News
+- Jamie Raskin accuses DoJ of cover-up after viewing unredacted Epstein files - The Guardian
 - House approves housing bill, setting stage for tough Senate negotiations - Politico
-- SFUSD teachers are on strike. Schools closed for 50,000 kids - The San Francisco Standard
+- Trump to exclude Democratic governors from usually bipartisan meeting at the White House - ABC News
 - Trump’s immigration crackdown is straining federal courts. Judges are raising the alarm - AP News
 - Sheen beatification confirmed; date and place remain TBD - The Pillar
-- Student shot inside Maryland high school, suspect in custody: Police - ABC News
+- SFUSD teachers strike, Day One: Where have all the children gone? - The San Francisco Standard
 - Here’s What a Warm Night Looks Like for Homeless New Yorkers - The New York Times
 - Israel Gives Itself More Control Over Occupied West Bank - The New York Times
 - Thailand election: The result the polls never saw coming - BBC
-- Wes Streeting privately said Israel committing war crimes, backed sanctions on 'rogue state' - middleeasteye.net
-- Trump, Netanyahu to meet Wednesday in Washington - The Center Square
+- China to support 'reunification forces' in Taiwan, go after 'separatists' - Reuters
+- China set to widen footprint in Bangladesh as India's ties decline - Reuters
 - Gucci-owner Kering jumps 11% as new CEO maps revival, sales beats estimates - CNBC
-- Asian Stocks Set to Extend Rally to Another Record: Markets Wrap - Bloomberg.com
 - Salesforce made a new round of job cuts. These teams were affected. - Business Insider
-- Bitcoin price analysis: BTC faces fresh resistance near $71,000 - CoinDesk
-- Riot Games is laying off half of the 2XKO development team - Engadget
+- After The Washington Post - The American Prospect
+- US Labor Board Gives Up Oversight of SpaceX in Victory for Musk - bloomberg.com
 - February Update 1.15.0 - ARC Raiders
+- New video game sees Africans fantasise about taking back looted treasures - BBC
