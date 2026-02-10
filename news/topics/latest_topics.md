@@ -1,29 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 12:31_
+_Updated: 2026-02-10 13:28_
 
 ## Top Stories
 
 - Tv-profilen Guthrie vädjar: ”Behöver hjälp från er” - Omni
 - Göteborgs stad riskerade rikets säkerhet – döms - GP
-- Trafikkaoset: Bussar och spårvagnar går allt saktare - GP
-- Därför är Sverige mer korrupt än Danmark - SvD
+- Flera anhållna för mutbrott i Stockholm - SVT Nyheter
+- Kristersson: ”Viktigt med reglerad invandring” – Senaste nytt om valet 2026 - SVT Nyheter
+- Ettåring skadad i rysk attack - Aftonbladet
 - Regiondirektören fick veta om Ungers nya jobb i december - Helagotland
-- Malmberget töms – de boende väntar på domen - GP
-- Personal örfilade äldre på boende i Jönköping – kommunen agerar efter larm - SVT Nyheter
-- Få kvinnor på topposter i utskotten: "För dåligt" - Västerbottens-Kuriren
+- Nina, 35, fick havandeskapsförgiftning – dog vid förlossningen - SVT Nyheter
+- Misstanken: Pojke från Blekinge skulle mörda – hittades i Helsingborg - SVT Nyheter
 - Utökat stöd till sociala och medicinska reformer i Ukraina - Regeringen.se
 - 10 februari 10.26, Trafikkontroll, Västernorrlands län - Polisen.se
+- Tusentals IS-fångar förda från Syrien till Irak - Västerbottens-Kuriren
 - Anna-Lena Laurén: Merz pressad av Tysklands svaga ekonomi - Dagens Nyheter
-- Ny amerikansk attack i Stilla havet - Västerbottens-Kuriren
-- Arbetsplatsolycka på Gröna Lund – man till sjukhus - SVT Nyheter
-- Går emot Trump – hotar att läcka - Expressen
+- ”Jag tvingades välja vilka som skulle överleva” - Sydsvenskan
+- DN Direkt – Ny amerikansk attack i Stilla havet - Dagens Nyheter
+- Experten: Därför rusar elpriserna just nu - Aftonbladet
 - Ljusa utsikter för småbolag: ”Konjunkturen går åt rätt håll” - Affärsvärlden
 - Lurades på 1,5 miljarder kronor i investeringsbedrägerier 2025 - Dagens Juridik
 - Chokladpriset rusar inför alla hjärtans dag - Omni
-- Vattenfall: Elpriset i Skåne måste stiga för att Kriegers flak ska byggas ut - Sydsvenskan
-- Spel som släpps 2026 – kalendern du inte vill missa - TechRadar
-- Konkurs för företag i Härryda - Härryda-Posten
+- Apple kan ge nästa AirPods Pro inbyggda kameror - Teknikveckan
+- 8 träningsfunktioner som gömmer sig i din smartklocka – och som du faktiskt kommer använda - TechRadar
+
+## World News
+
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- ebp Global acquires Sustaina Company - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Avlyssningsskandalen växer - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Från anonym provins till global wellnessmagnet – Ninh Binh visar vägen - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -50,8 +73,8 @@ _Updated: 2026-02-10 12:31_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
@@ -61,13 +84,13 @@ _Updated: 2026-02-10 12:31_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
@@ -100,21 +123,21 @@ _Updated: 2026-02-10 12:31_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
