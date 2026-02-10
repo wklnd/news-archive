@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-10 20:40_
+_Updated: 2026-02-10 21:43_
 
-- Susan Collins Runs for Re-election in Must-Win Senate Seat for Democrats - The New York Times
-- Trump to exclude Democratic governors from usually bipartisan meeting at the White House - ABC News
-- The latest on the search for Nancy Guthrie. And, takeaways from Super Bowl 60 - NPR
-- Democrats add five red-leaning House seats to their battleground map - Politico
-- Office Hours: Is Trump Really, Truly, Finally Losing His Mind? - Robert Reich | Substack
+- Live updates: ICE and Homeland Security officials testify before Congress - BBC
+- Minnesota gubernatorial candidate suspends his campaign after his daughter is found fatally stabbed - NBC News
+- Republican Cash Edge Threatens to Swamp Democrats in the Midterms - The New York Times
+- Pride Flag Is Removed From Stonewall Monument After Trump Directive - The New York Times
+- A Campaign to Revoke the Endangerment Finding Appears Near ‘Total Victory’ - The New York Times
+- Malinowski Concedes to Mejia, a Progressive Activist, in New Jersey Race - The New York Times
+- Immigration Judge Says Trump Administration Cannot Deport Tufts Student - The New York Times
 - How ICE defies judges’ orders to release detainees, step by step - Politico
-- ICE chief, immigration officials defend mass deportation campaign at House hearing - cbsnews.com
-- Local police aid ICE by tapping school cameras amid Trump’s immigration crackdown - The Guardian
-- Without a Border ‘Invasion,’ Texas G.O.P. Turns to an Old Enemy, Islam - The New York Times
+- Susan Collins Runs for Re-election in Must-Win Senate Seat for Democrats - The New York Times
+- Annual governors gathering with White House unraveling after Trump excludes Democrats - AP News
+- Netanyahu wants Trump to demand more from Iran. The leaders will meet this week - AP News
 - Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults - The New York Times
+- Photos of Beirut’s ‘Mother of Cats’ who rescues felines - AP News
 - 2025 Corruption Index flags drops in Western nations - DW.com
-- Photos of Beirut’s ‘Mother of Cats’ who rescues felines - apnews.com
-- Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say - The New York Times
+- U.S. government borrowed $43.5 billion a week in the first four months of the fiscal year - Fortune
 - How this French building behemoth wants to solve the U.S. housing dilemma - CNBC
-- How much power does the Fed chair really have? : Planet Money - NPR
-- Spotify Stock Jumps On Improved Profitability, User Growth - Investor's Business Daily
-- Investors sour on listed credit funds over AI hit to software sector - Financial Times
+- BP to halt stock buybacks ahead of new CEO’s start - MarketWatch
+- Jury told that Meta, Google 'engineered addiction' at landmark US trial - Hacker News
 - YouTube rolls out an AI playlist generator for Premium users - TechCrunch
 - Exynos 2700 To Enter Mass Production In H2 2026, Analyst Says SoC’s Adoption In Galaxy S27 Will Increase Drastically - Wccftech
-- Google experiments with locking YouTube Music lyrics behind paywall - Ars Technica
