@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 01:06_
+_Updated: 2026-02-10 02:01_
 
 ## Top Stories
 
 - ”Bonusprinsen” förhörd om knivhot – nekar till brott - dn.se
+- Uppgift: Indonesisk militär i Gaza - GP
 - Efter ekobrottshärvan – Logistikparkens styrelse rensas ut - SVT Nyheter
 - Ytterligare organisation bryter med Mette-Marit - Aftonbladet
-- Kyligt och kul: På plats i kön till karnevalen - Lundagård
-- Upprivna rankor ska rädda fransk vinindustri - GP
+- Efter protesterna: nu grips även regimlojala - SvD
 - DN Direkt – Forssell om tonårsutvisningar: Ska inte göra tvära kast - dn.se
-- Operation Tvättstuga stoppade lånebluffar för 670 miljoner - dn.se
+- Tidigare L-topparna om krisen: ”Känner inte igen partiet” - dn.se
 - L: Behövs en ventil för tonårsutvisningar snabbt – Senaste nytt om valet 2026 - SVT Nyheter
 - Nytt kompetenscentrum för intellektuell funktionsnedsättning och autism inrättas - Socialstyrelsen
-- Nikkei klättrar rejält efter japanskt val - Västerbottens-Kuriren
+- Operation Tvättstuga stoppade lånebluffar för 670 miljoner - dn.se
+- Teorin: Mordförsöket kan få Putin att stoppa kriget - Expressen
 - Våldtog 89-åring – åtalas för ny våldtäkt - Expressen
-- DN Direkt – Uppgifter: En gripen efter mord på svensk gängman i Thailand - dn.se
 - Iran: Vi kommer aldrig att ge upp anrikning - Aftonbladet
+- DN Direkt – Uppgifter: En gripen efter mord på svensk gängman i Thailand - dn.se
 - ”Facken accepterar uppsägningar för lätt” - SvD
 - Elbilar får samma märkning som tvättmaskiner - Carup.se
-- En första titt på Ferraris elbil, för den som gillar knappar och reglage - Allt om Elbil
+- Techjättar inför rätta – ”konstruerar beroende” - Västerbottens-Kuriren
 - BioStock Investor Pitch: Alzinova - Biostock
 - Apple ryktas släppa beta av iOS 26.4 i februari. Nya Siri på ingång. - feber.se
-- Noble Audio släpper dongel för audiofiler. Om man är ute efter det perfekta ljudet. - feber.se
 - Nu släpps Mario Tennis Fever. Nytt tennisspel till Nintendo Switch 2 kommer på torsdag. - feber.se
 
 ## World News
@@ -38,7 +38,6 @@ _Updated: 2026-02-10 01:06_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - ebp Global acquires Sustaina Company - Via TT
-- BDS Sverige: Global rörelse grundad i mänskliga rättigheter - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -46,6 +45,7 @@ _Updated: 2026-02-10 01:06_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Från anonym provins till global wellnessmagnet – Ninh Binh visar vägen - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -57,6 +57,7 @@ _Updated: 2026-02-10 01:06_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nästa generations Internet of Things - EU Digital Strategy
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -66,10 +67,9 @@ _Updated: 2026-02-10 01:06_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Forskargrupp funktion och teknologi - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
