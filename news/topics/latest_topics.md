@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 23:10_
+_Updated: 2026-02-11 00:07_
 
 ## Top Stories
 
-- Tomas Ramberg: Hur många utvisningar tål Sverige? - Dagens Nyheter
-- Valet 2026: Så röstar du som utlandssvensk - Svenskar i Världen
-- Svensk båt med Kreml-koppling får kritik: ”Fel” - SvD
-- Romina Pourmokhtari presenterade handlingsplan för biologisk mångfald - Liberalerna
-- SD öppnar för att stoppa tonårsutvisningarna - GP
-- Utredare: Barn ska inte omhändertas godtyckligt - SVT Nyheter
-- Regeringen kräver besked om gränskontrollerna: Hur många stoppas? - Sydsvenskan
+- Uppgifter: Skottlossning i Malmö – tre skadade - Aftonbladet
+- Åkesson missade sin egen pressträff – Senaste nytt om valet 2026 - SVT Nyheter
+- Regeringen lanserar Rörelseåret 2026 för ökad rörelse - regeringen.se
+- Snarlik strategi när rivalerna går till val - SvD
+- DN Direkt – Norska Säpo: Livvakter inga personliga rådgivare - Dagens Nyheter
+- Kvinnans ord om bonusprinsen: ”Jag vaknade av att han höll på” - Aftonbladet
 - 10 februari 10.26, Trafikkontroll, Västernorrlands län - polisen.se
+- Lärarnas lönelyft användes för att rädda budgeten - Vi Lärare
 - 30 gånger mer satsas på att förstöra naturen än att rädda den - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Trump varnar Israel: Annektera inte Västbanken - Dagens Nyheter
 - Ledarna på slottet: Så ska EU bli starkare - Västerbottens-Kuriren
 - Ryssland begränsar Telegram - hbl.fi
-- Miljardvinst för SJ - Bussmagasinet
-- Billiga matlådor tog Hillevi till toppen av maktlistan - Dagens Nyheter
 - Ny nagionell sjöfartsutbildning - Vi Lärare
+- Mer än dubblad vinst för SJ - Ekuriren
 - Hyllad sportbil till vrakpris – kommer rusa i pris - Carup.se
+- Han gör det omöjliga – med Bugattin - Carup.se
 - Whatsapp på webben börjar nu få stöd för röst- och videosamtal - m3.se
 - “Until Dawn”-utvecklarnas rymdskräckis släpps till sommaren - MovieZine.se
-- Sömlöst samarbete genom delade gasfjäderkonstruktioner - Cision News
+- Nya avhopp i ”Bonde söker fru” – två lämnar: ”Värsta jag gjort” - Expressen
 - SVT:s nya ”barn-tv” är ren hjärnröta - SvD
 
 ## World News
@@ -51,23 +51,23 @@ _Updated: 2026-02-10 23:10_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
@@ -99,14 +99,12 @@ _Updated: 2026-02-10 23:10_
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - openai.com
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
@@ -114,28 +112,30 @@ _Updated: 2026-02-10 23:10_
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
