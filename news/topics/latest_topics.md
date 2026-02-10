@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 00:07_
+_Updated: 2026-02-11 01:08_
 
 ## Top Stories
 
-- Uppgifter: Skottlossning i Malmö – tre skadade - Aftonbladet
-- Åkesson missade sin egen pressträff – Senaste nytt om valet 2026 - SVT Nyheter
-- Regeringen lanserar Rörelseåret 2026 för ökad rörelse - regeringen.se
-- Snarlik strategi när rivalerna går till val - SvD
+- Valet 2026: Så röstar du som utlandssvensk - Svenskar i Världen
 - DN Direkt – Norska Säpo: Livvakter inga personliga rådgivare - Dagens Nyheter
-- Kvinnans ord om bonusprinsen: ”Jag vaknade av att han höll på” - Aftonbladet
+- Regeringen lanserar Rörelseåret 2026 för ökad rörelse - Regeringen.se
+- Utredare: Barn ska inte omhändertas godtyckligt - SVT Nyheter
 - 10 februari 10.26, Trafikkontroll, Västernorrlands län - polisen.se
-- Lärarnas lönelyft användes för att rädda budgeten - Vi Lärare
+- Flera ryska attacker - 8 Sidor
+- Efter ekobrottshärvan – Logistikparkens styrelse rensas ut - SVT Nyheter
 - 30 gånger mer satsas på att förstöra naturen än att rädda den - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Trump varnar Israel: Annektera inte Västbanken - Dagens Nyheter
 - Ledarna på slottet: Så ska EU bli starkare - Västerbottens-Kuriren
-- Ryssland begränsar Telegram - hbl.fi
-- Ny nagionell sjöfartsutbildning - Vi Lärare
-- Mer än dubblad vinst för SJ - Ekuriren
+- Lista om säkra ursprungsländer klubbad i EU - Folkbladet
+- Namn i Epsteindokument dolda av ”mystiska” skäl - Corren
+- Öresundsbron slog trafikrekord för andra året i rad och redovisar en vinst på 1,7 miljarder DKK - newsoresund.se
+- Lista: De har störst skulder hos Kronofogden - Fagersta-Posten
+- Gömde 4 Lamborghini Miura – värda över 20 milj - Carup.se
 - Hyllad sportbil till vrakpris – kommer rusa i pris - Carup.se
 - Han gör det omöjliga – med Bugattin - Carup.se
-- Whatsapp på webben börjar nu få stöd för röst- och videosamtal - m3.se
 - “Until Dawn”-utvecklarnas rymdskräckis släpps till sommaren - MovieZine.se
 - Nya avhopp i ”Bonde söker fru” – två lämnar: ”Värsta jag gjort” - Expressen
-- SVT:s nya ”barn-tv” är ren hjärnröta - SvD
+- Stänger vid Solåsen – på grund av kylan - Jönköpings-Posten
+- Rocklegendaren Ross Friedman sjuk i ALS - Västerbottens-Kuriren
 
 ## World News
 
@@ -43,20 +43,20 @@ _Updated: 2026-02-11 00:07_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 - Avlyssningsskandalen växer - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -77,7 +77,7 @@ _Updated: 2026-02-11 00:07_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -96,7 +96,7 @@ _Updated: 2026-02-11 00:07_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
@@ -105,7 +105,7 @@ _Updated: 2026-02-11 00:07_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -119,23 +119,23 @@ _Updated: 2026-02-11 00:07_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -147,18 +147,18 @@ _Updated: 2026-02-11 00:07_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - ATL
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
