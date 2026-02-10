@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 14:05_
+_Updated: 2026-02-10 16:00_
 
 ## Top Stories
 
-- Flera anhållna för mutbrott i Stockholm - SVT Nyheter
+- DN Direkt – Kristersson: Inget stopp nu för tonårsutvisningar - Dagens Nyheter
 - Göteborgs stad riskerade rikets säkerhet – döms - GP
-- Tv-profilen Guthrie vädjar: ”Behöver hjälp från er” - Omni
-- Kvinnan i Lofoten: Gav inte samtycke till att bli filmad – Rättegången i Norge mot Marius Borg Høiby - SVT Nyheter
-- DN Direkt – Forssell om tonårsutvisningar: Ska inte göra tvära kast - Dagens Nyheter
-- DN Direkt – 46 döda efter snöfall i Japan - Dagens Nyheter
+- Stort strömavbrott i Göteborg - GP
+- S vill se avdrag på skolpeng till friskolor - Västerbottens-Kuriren
+- Marius namn fanns på kvinnans "ligglista" - Expressen
+- Jimmie Åkesson dök inte upp på sin pressträff - Västerbottens-Kuriren
 - Nina, 35, fick havandeskapsförgiftning – dog vid förlossningen - SVT Nyheter
 - Misstanken: Pojke från Blekinge skulle mörda – hittades i Helsingborg - SVT Nyheter
 - Kristersson: ”Viktigt med reglerad invandring” – Senaste nytt om valet 2026 - SVT Nyheter
 - Utökat stöd till sociala och medicinska reformer i Ukraina - Regeringen.se
-- Anna-Lena Laurén: Merz pressad av Tysklands svaga ekonomi - Dagens Nyheter
 - Tusentals IS-fångar förda från Syrien till Irak - Västerbottens-Kuriren
+- Minst 46 döda efter kraftigt snöfall i Japan - Dagens Nyheter
 - Starmers besked till partikollegorna: Tänker inte avgå - SVT Nyheter
-- ”Jag tvingades välja vilka som skulle överleva” - Sydsvenskan
-- Lurades på 1,5 miljarder kronor i investeringsbedrägerier 2025 - Dagens Juridik
+- Anna-Lena Laurén: Merz pressad av Tysklands svaga ekonomi - Dagens Nyheter
+- DN Direkt – Europa letar ny strategi för att möta ryska hotet - Dagens Nyheter
 - Alphabets nya AI-drag: 100-årigt lån - DI
-- Stockholm Open tecknar nytt rekordavtal – med kryptobörs - DI
-- Föräldrar vill straffa företagen - 8 Sidor
-- Whatsapp på webben börjar nu få stöd för röst- och videosamtal - m3.se
-- Fem Windows 11-inställningar jag alltid ändrar direkt - PC för Alla
+- Arjo: Dags för kurslyft - Affärsvärlden
+- Så räddar du batteriet på mobilen – enkla knep som fungerar - Dagens PS
+- App-tips: Så visar du veckonummer i din Mac - Macworld.se
+- Razer släpper datormus för 12 000 kronor - PC för Alla
 
 ## World News
 
@@ -58,7 +58,7 @@ _Updated: 2026-02-10 14:05_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Nästa generations Internet of Things - EU Digital Strategy
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -66,10 +66,10 @@ _Updated: 2026-02-10 14:05_
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,10 +101,8 @@ _Updated: 2026-02-10 14:05_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - openai.com
@@ -115,7 +113,9 @@ _Updated: 2026-02-10 14:05_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-02-10 14:05_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-02-10 14:05_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2024-10-16 Seminarium: Träffpunkt Europa "Livsmedelsförsörjning i Sverige, Europa och globalt" - Mynewsdesk
