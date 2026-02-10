@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 20:36_
+_Updated: 2026-02-10 22:08_
 
 ## Top Stories
 
-- DN Direkt – FBI släpper bilder på maskerad man - Dagens Nyheter
-- USA släpper tunga Natoposter efter Trumps utspel - GP
-- DN Direkt – Efter granskning – chefen på rättspsyk i Växjö slutar - Dagens Nyheter
-- Pilthammar utreds – efter ryssvänliga blogginlägg - SVT Nyheter
-- ”Jag gör tjänster åt olika gäng” – så greps gängets samordnare - Sydsvenskan
+- Tomas Ramberg: Hur många utvisningar tål Sverige? - Dagens Nyheter
+- DN Direkt – SD utreder Pilthammar – ”får räcka med tramset” - Dagens Nyheter
+- Svensk båt med Kreml-koppling får kritik: ”Fel” - SvD
 - Valet 2026: Så röstar du som utlandssvensk - Svenskar i Världen
-- SD öppnar för att stoppa tonårsutvisningarna - GP
+- ”Jag gör tjänster åt olika gäng” – så greps gängets samordnare - Sydsvenskan
+- Direkt – Kriget i Ukraina – Elvaårig flicka dödad i rysk attack - Dagens Nyheter
 - Regeringen kräver besked om gränskontrollerna: Hur många stoppas? - Sydsvenskan
-- DN Direkt – Busch: Kemisk kastrering för frigivning - Dagens Nyheter
 - 10 februari 10.26, Trafikkontroll, Västernorrlands län - polisen.se
 - 30 gånger mer satsas på att förstöra naturen än att rädda den - Dagens Nyheter
-- Israeliska bosättare jublar när palestinska självstyrets makt stryps - Dagens Nyheter
-- Ryssland begränsar Telegram - Hufvudstadsbladet
+- Ledarna på slottet: Så ska EU bli starkare - Västerbottens-Kuriren
 - Gazamusikern byggde sitt trumset av köksredskap - Dagens Nyheter
-- Billiga matlådor tog Hillevi till toppen av maktlistan - Dagens Nyheter
-- Expert om AI-agenterna: ”Stort hot” – börsbolag har anledning att darra - DI
+- Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
 - Rätt kurs! Syv-event på Sjöfartshögskolan - Vi Lärare
 - Nytt resanderekord för Pågatågen 2025 - NewsMachine AB
-- Apple kan ge nästa AirPods Pro inbyggda kameror - Teknikveckan
-- “Until Dawn”-utvecklarens rymdskräckis släpps till sommaren - MovieZine.se
+- KRÖNIKA: Kändisarna har talat – nu är slipsen inne igen - Ystads Allehanda
+- Whatsapp på webben börjar nu få stöd för röst- och videosamtal - m3.se
+- “Until Dawn”-utvecklarnas rymdskräckis släpps till sommaren - MovieZine.se
+- Sömlöst samarbete genom delade gasfjäderkonstruktioner - Cision News
+- SVT:s nya ”barn-tv” är ren hjärnröta - SvD
+- Felicia och Brandsta vann - 8 Sidor
 
 ## World News
 
-- CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -39,14 +39,14 @@ _Updated: 2026-02-10 20:36_
 - UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Umeå children in worldwide school project on AI - Umeå universitet
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global finanskrasch? "Klimathotet underskattat" - Dagens PS
 - Avlyssningsskandalen växer - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2026-02-10 20:36_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälsa och teknik - Chalmers
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - openai.com
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,8 +123,8 @@ _Updated: 2026-02-10 20:36_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
