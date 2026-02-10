@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 13:28_
+_Updated: 2026-02-10 14:05_
 
 ## Top Stories
 
-- Tv-profilen Guthrie vädjar: ”Behöver hjälp från er” - Omni
-- Göteborgs stad riskerade rikets säkerhet – döms - GP
 - Flera anhållna för mutbrott i Stockholm - SVT Nyheter
-- Kristersson: ”Viktigt med reglerad invandring” – Senaste nytt om valet 2026 - SVT Nyheter
-- Ettåring skadad i rysk attack - Aftonbladet
-- Regiondirektören fick veta om Ungers nya jobb i december - Helagotland
+- Göteborgs stad riskerade rikets säkerhet – döms - GP
+- Tv-profilen Guthrie vädjar: ”Behöver hjälp från er” - Omni
+- Kvinnan i Lofoten: Gav inte samtycke till att bli filmad – Rättegången i Norge mot Marius Borg Høiby - SVT Nyheter
+- DN Direkt – Forssell om tonårsutvisningar: Ska inte göra tvära kast - Dagens Nyheter
+- DN Direkt – 46 döda efter snöfall i Japan - Dagens Nyheter
 - Nina, 35, fick havandeskapsförgiftning – dog vid förlossningen - SVT Nyheter
 - Misstanken: Pojke från Blekinge skulle mörda – hittades i Helsingborg - SVT Nyheter
+- Kristersson: ”Viktigt med reglerad invandring” – Senaste nytt om valet 2026 - SVT Nyheter
 - Utökat stöd till sociala och medicinska reformer i Ukraina - Regeringen.se
-- 10 februari 10.26, Trafikkontroll, Västernorrlands län - Polisen.se
-- Tusentals IS-fångar förda från Syrien till Irak - Västerbottens-Kuriren
 - Anna-Lena Laurén: Merz pressad av Tysklands svaga ekonomi - Dagens Nyheter
+- Tusentals IS-fångar förda från Syrien till Irak - Västerbottens-Kuriren
+- Starmers besked till partikollegorna: Tänker inte avgå - SVT Nyheter
 - ”Jag tvingades välja vilka som skulle överleva” - Sydsvenskan
-- DN Direkt – Ny amerikansk attack i Stilla havet - Dagens Nyheter
-- Experten: Därför rusar elpriserna just nu - Aftonbladet
-- Ljusa utsikter för småbolag: ”Konjunkturen går åt rätt håll” - Affärsvärlden
 - Lurades på 1,5 miljarder kronor i investeringsbedrägerier 2025 - Dagens Juridik
-- Chokladpriset rusar inför alla hjärtans dag - Omni
-- Apple kan ge nästa AirPods Pro inbyggda kameror - Teknikveckan
-- 8 träningsfunktioner som gömmer sig i din smartklocka – och som du faktiskt kommer använda - TechRadar
+- Alphabets nya AI-drag: 100-årigt lån - DI
+- Stockholm Open tecknar nytt rekordavtal – med kryptobörs - DI
+- Föräldrar vill straffa företagen - 8 Sidor
+- Whatsapp på webben börjar nu få stöd för röst- och videosamtal - m3.se
+- Fem Windows 11-inställningar jag alltid ändrar direkt - PC för Alla
 
 ## World News
 
@@ -66,10 +66,10 @@ _Updated: 2026-02-10 13:28_
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2026-02-10 13:28_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
 ## Health
 
@@ -123,22 +123,22 @@ _Updated: 2026-02-10 13:28_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
