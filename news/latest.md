@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-10 08:45_
+_Updated: 2026-02-10 10:27_
 
+- Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation - The New York Times
+- Newly Unbound, Trump Weighs More Nuclear Arms and Underground Tests - The New York Times
 - House approves housing bill, setting stage for tough Senate negotiations - Politico
 - Thailand election: The result the polls never saw coming - BBC
 - SFUSD teachers are on strike. Schools closed for 50,000 kids - The San Francisco Standard
-- Air Canada suspends Cuba flights as island set to run out of jet fuel - Yahoo Finance
 - Israel Gives Itself More Control Over Occupied West Bank - The New York Times
-- Swalwell picks up steam in California gov's race, adds Schiff endorsement - Politico
 - Sheen beatification confirmed; date and place remain TBD - The Pillar
+- ‘Complete nonstarter’: Administration allies say judicial warrants a red line for White House in DHS funding talks as shutdown looms - Politico
 - Here’s What a Warm Night Looks Like for Homeless New Yorkers - The New York Times
-- Trump to exclude Democratic governors from usually bipartisan meeting at the White House - ABC News
+- Student shot inside Maryland high school, suspect in custody: Police - ABC News
+- Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say - The New York Times
 - ‘Sham’ anti-Zionist ad against Herzog’s Australia visit includes names of Nazi kapos and ‘A**e licker’ - Jewish News
-- Vance is in Armenia, a country no sitting US president or vice president has visited before - AP News
-- Obsession with growth is destroying nature, 150 countries warn - politico.eu
 - Multiple employees of Canadian mining company found dead in Mexico - BBC
+- Russia’s sabotage campaign is becoming bolder - The Economist
+- Instagram and YouTube owners built 'addiction machines', trial hears - BBC
 - Asian Stocks Set to Extend Rally to Another Record: Markets Wrap - bloomberg.com
-- Pilots and Flight Attendants Criticize American Airlines’ Performance - The New York Times
+- Memory Chip Squeeze Wreaks Havoc in Markets, With More to Come - bloomberg.com
 - Trump administration’s changes to the CFPB cost Americans $19B, a new report says - AP News
-- Novo Says It’s Suing Hims to Halt Obesity Drug Copycats - bloomberg.com
-- Just look at Ayaneo’s absolute unit of a Windows gaming “handheld” - Ars Technica
-- Google Home is addressing some of its oldest shortcomings – what do you want next? - 9to5Google
 - New video game sees Africans fantasise about taking back looted treasures - BBC
+- Bar Complaint Filed Over Search of Washington Post Reporter’s Home - The New York Times
