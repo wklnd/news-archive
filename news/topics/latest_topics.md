@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 17:42_
+_Updated: 2026-02-10 19:34_
 
 ## Top Stories
 
-- DN Direkt – SD presenterar partiets första vallöften – utan partiledaren - dn.se
+- Ödestimma för Guthrie – deadline är passerad - Expressen
 - Flera olyckor – blixthalka på vägarna i Halland - Norra Halland
-- DN Direkt – Över 20 döda i översvämningar i Colombia - dn.se
-- ”Har inte sex med kvinnor som sover” – Rättegången i Norge mot Marius Borg Høiby - SVT Nyheter
-- Namn i Epsteindokument dolda av ”mystiska” skäl - SvD
-- Barnmorskan misstänkt för brott – förlöser hemma trots förbud - dn.se
+- Valet 2026: Så röstar du som utlandssvensk - Svenskar i Världen
+- Polisinsats på återvändandecentrum i Märsta - Mitt i
+- Utredare: Barn ska inte omhändertas godtyckligt - SVT Nyheter
+- Polisens agerande mot hunden fångas på film - Expressen
+- Regeringen kräver besked om gränskontrollerna: Hur många stoppas? - Sydsvenskan
+- Chefen lämnar rättspsyk efter avslöjanden om övervakning - SVT Nyheter
 - Man hittad död i skogen i Ulricehamn efter olycka - SVT Nyheter
-- Personal örfilade äldre på boende i Jönköping – kommunen agerar efter larm - SVT Nyheter
-- Region Skåne efterlyser bajsdonatorer - GP
-- Kristersson: ”Viktigt med reglerad invandring” – Senaste nytt om valet 2026 - SVT Nyheter
+- Personal örfilade äldre – boende anmäls - Västerbottens-Kuriren
+- Israeliska bosättare jublar när palestinska självstyrets makt stryps - Dagens Nyheter
 - Lista om säkra ursprungsländer klubbad i EU - Västerbottens-Kuriren
+- Gazamusikern byggde sitt trumset av köksredskap - Dagens Nyheter
 - Tusentals IS-fångar förda från Syrien till Irak - Västerbottens-Kuriren
-- Ryssland begränsar viktig meddelandetjänst - Västerbottens-Kuriren
-- Minst 46 döda efter kraftigt snöfall i Japan - dn.se
-- Arjo: Dags för kurslyft - Affärsvärlden
-- Lappland Guldprospektering AB (publ): Bokslutskommuniké och rapport för fjärde kvartalet 2025 - Cision News
-- Så räddar du batteriet på mobilen – enkla knep som fungerar - Dagens PS
-- Nordrest startar beredskapsproduktion med nytt bolag - food-supply.se
+- Nästan 2 600 nya studerandeplatser inom yrkesutbildningar - svenskbyggtidning -
+- Jönköpingsborna syndar mest - Jönköpings-Posten
+- Spelproblemen växer – unga och barn i riskzonen - Skånska Dagbladet
+- Sömlöst samarbete genom delade gasfjäderkonstruktioner - Cision News
 - Apple kan ge nästa AirPods Pro inbyggda kameror - Teknikveckan
 - App-tips: Så visar du veckonummer i din Mac - Macworld.se
 
 ## World News
 
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global drogsajt stängd – svenskar gripna - Drugnews
@@ -40,13 +39,14 @@ _Updated: 2026-02-10 17:42_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- ebp Global acquires Sustaina Company - Via TT
 - UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2026-02-10 17:42_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - health-isac.org
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - openai.com
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,21 +123,21 @@ _Updated: 2026-02-10 17:42_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
