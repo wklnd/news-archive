@@ -1,52 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-10 11:32_
+_Updated: 2026-02-10 12:31_
 
 ## Top Stories
 
-- DN Direkt – Stopp i tågtrafiken söder om Stockholm - Dagens Nyheter
-- Starmers besked till partikollegorna: Tänker inte avgå - SVT Nyheter
+- Tv-profilen Guthrie vädjar: ”Behöver hjälp från er” - Omni
+- Göteborgs stad riskerade rikets säkerhet – döms - GP
 - Trafikkaoset: Bussar och spårvagnar går allt saktare - GP
-- DN Direkt – Tv-profil vädjar om hjälp att hitta kidnappade modern - Dagens Nyheter
-- Stora problem att hämta recept på apotek - Expressen
+- Därför är Sverige mer korrupt än Danmark - SvD
+- Regiondirektören fick veta om Ungers nya jobb i december - Helagotland
 - Malmberget töms – de boende väntar på domen - GP
-- Därför är Sverige mer korrupt än Danmark - GP
+- Personal örfilade äldre på boende i Jönköping – kommunen agerar efter larm - SVT Nyheter
+- Få kvinnor på topposter i utskotten: "För dåligt" - Västerbottens-Kuriren
 - Utökat stöd till sociala och medicinska reformer i Ukraina - Regeringen.se
-- Inför finansierad hemfödsel i Region Kronoberg - MittSkifte
-- Efter ekobrottshärvan – Logistikparkens styrelse rensas ut - SVT Nyheter
+- 10 februari 10.26, Trafikkontroll, Västernorrlands län - Polisen.se
 - Anna-Lena Laurén: Merz pressad av Tysklands svaga ekonomi - Dagens Nyheter
-- Ikea återkallar vägglampan ”Nymåne” – kan ge elstötar - Expressen
 - Ny amerikansk attack i Stilla havet - Västerbottens-Kuriren
-- Trump: Emot israeliska bosättningar - Västerbottens-Kuriren
-- Lurades på 1,5 miljarder kronor i investeringsbedrägerier 2025 - Dagens Juridik
+- Arbetsplatsolycka på Gröna Lund – man till sjukhus - SVT Nyheter
+- Går emot Trump – hotar att läcka - Expressen
 - Ljusa utsikter för småbolag: ”Konjunkturen går åt rätt håll” - Affärsvärlden
+- Lurades på 1,5 miljarder kronor i investeringsbedrägerier 2025 - Dagens Juridik
 - Chokladpriset rusar inför alla hjärtans dag - Omni
+- Vattenfall: Elpriset i Skåne måste stiga för att Kriegers flak ska byggas ut - Sydsvenskan
+- Spel som släpps 2026 – kalendern du inte vill missa - TechRadar
 - Konkurs för företag i Härryda - Härryda-Posten
-- JLab JBuds Pods ANC – recension: bästa earbudsen för gymmet som jag testat på länge, men räkna inte med ett par premiumlurar - TechRadar
-- Stendörren Fastigheter AB: Inbjudan till Stendörrens rapportpresentation av bokslutskommunikén för 2025 (Cision) - Aktiellt
-
-## World News
-
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
-- ebp Global acquires Sustaina Company - Via TT
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Från anonym provins till global wellnessmagnet – Ninh Binh visar vägen - travelnews.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -59,38 +36,38 @@ _Updated: 2026-02-10 11:32_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Nästa generations Internet of Things - EU Digital Strategy
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
@@ -153,12 +130,12 @@ _Updated: 2026-02-10 11:32_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
