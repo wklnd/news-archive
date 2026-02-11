@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 21:35_
+_Updated: 2026-02-11 23:04_
 
 ## Top Stories
 
-- USA i oljesamtal med Venezuela - GP
-- Ebba Busch: ”Behöver följa rättsstatens principer” – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Trump om mötet med Netanyahu: Inte helt överens - Dagens Nyheter
-- 11 februari 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
-- INSÄNDARE: Stoppa utvisningarna! - UNT
-- Sandviken: En död efter villabrand - TV4 Nyheterna
-- DN Direkt – M-topp: Diktatur är slutmål för S - Dagens Nyheter
+- Ebba Busch rasar mot dyra planer för elnätet - GP
 - Peter Alestig: Oroande fenomen i atmosfären kan förklara vargavintern - Dagens Nyheter
+- Vem styr Venezuela? - Proletären
+- DN Direkt – En avliden efter villabrand i Sandviken - Dagens Nyheter
+- Le Pen får sin dom i juli - GP
+- Europarådet häver immuniteten för Norges tidigare statsminister - Altinget.se
+- Familjen om mördade My, 25: ”Hon såg det levande i varje situation” - SVT Nyheter
+- DN Direkt – M-topp: Diktatur är slutmål för S - Dagens Nyheter
 - Marie-Louise lurade bedragarna: ”Blev något förvånad” - Dagens Nyheter
-- MP-toppen efter snökaoset: ”Vi är inte nöjda” - Dagens Nyheter
-- Parlamentet godkänner stödpaket på 90 miljarder euro till Ukraina - European Parliament
-- Karin Eriksson: Norges självbild blir aldrig densamma - Dagens Nyheter
-- Därför stämplar vissa Mamdanis löfte om förskolan som ”kommunism” - Dagens Nyheter
+- 11 februari 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
+- Elever barrikaderade sig i klassrummen under skolskjutningen – minst tio döda - Dagens Nyheter
 - Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
+- Så ska EU möta drönarhotet – fler ska registrera sig - GP
+- Därför suger det att köra taxi - Arbetet
+- Livspusslet närmar sig mental konkurs - SvD
 - INSÄNDARE: Noll kronor till chefer som inte sköter sig - Tidningen Ångermanland
 - En översyn av det medicintekniska regelverket - Regeringen.se
-- ENKÄT: Impact-folket på plats på Techarena – vad är hetast just nu? - impactloop.se
+- Kocken Marie, 51, tog hem potatisskal – blev avskedad - Expressen
 - Kritik mot AI-tjänst som hittar försvunna hundar - Omni
-- Nya iOS 26.3 täpper till flera säkerhetshål - Teknikveckan
-- Google Photos får nya AI-mallar på iPhone - Teknikveckan
+- Apple har släppt Ios 26.3 i Sverige - mobil.se
 
 ## World News
 
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
-- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Avlyssningsskandalen växer - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- ebp Global acquires Sustaina Company - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
+- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Avlyssningsskandalen växer - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -147,18 +147,18 @@ _Updated: 2026-02-11 21:35_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
