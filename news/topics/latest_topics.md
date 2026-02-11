@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 13:24_
+_Updated: 2026-02-11 14:03_
 
 ## Top Stories
 
-- Tio döda efter masskjutning i Kanada - SVT Nyheter
+- Ny gul vädervarning för Skåne - SVT Nyheter
+- ”Varför säljer Sverige ut sin eltrygghet?” - Västerbottens-Kuriren
 - Michael Winiarski: Att fjäska eller inte fjäska för Trump, det är frågan - Dagens Nyheter
 - Kritiken mot Attenius (S): "Har inte råd att bo kvar" - GP
-- Ebba Busch rasar mot dyra planer för elnätet - GP
-- DN Direkt – En avliden efter villabrand i Sandviken - Dagens Nyheter
-- USA:s handelsminister avvisar avgångskrav – Jeffrey Epstein och filerna som släppts från utredningen - SVT Nyheter
-- Ny gul vädervarning för Skåne - SVT Nyheter
+- Här dömdes Peter Mangs – nu flyttar Malmös mäktigaste in - Sydsvenskan
+- Döms för mordförsök på fem poliser - Östersunds-Posten
+- DN Direkt – Regeringen tillsätter utredning om mäns våld mot kvinnor - Dagens Nyheter
+- Nya misstänkta stölder på Danderyds sjukhus - Omni
 - Valet blir ett historiskt vägskäl för vårt politiska system - Altinget.se
-- 11 februari 07.22, Sammanfattning natt, Norrbottens län - polisen.se
-- Ny smittsam hudsjukdom påvisad hos hästar i Sverige - SVT Nyheter
-- Så vill EU ta upp kampen mot drönarna - Västerbottens-Kuriren
-- Ukraina planerar val efter påtryckningar från USA - GP
+- DN Direkt – En avliden efter villabrand i Sandviken - Dagens Nyheter
 - Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
 - Därför suger det att köra taxi - Arbetet
-- Avanza och Nordnet dras med i AI-kopplad nätmäklarnedgång - DI
-- AI pressar ut unga: ”Ett allvarligt problem” - SvD
+- Minnesota-guvernör: Migrationspolisen snart klara - GP
 - Aker BP:s resultat bommar förväntningarna - DI
-- DEBATT: Byt ut alla styrelser i de kommunala bolagen - Sundsvalls Tidning
+- Svårt att skydda sig mot AI-bubbla: ”Inga säkra hamnar” - Omni Ekonomi
+- AI pressar ut unga: ”Ett allvarligt problem” - SvD
+- En miljard i vinst för SJ 2025 - Järnvägar.nu
 - GOG jobbar på inbyggt Linux-stöd - m3.se
 - Orange påstås ha bidragit till framgångarna för Iphone 17 Pro - Swedroid
+- 41-åring startar nytt holdingbolag i Lerum - Lerums Tidning
 
 ## World News
 
@@ -36,8 +36,8 @@ _Updated: 2026-02-11 13:24_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
 - UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -98,23 +98,23 @@ _Updated: 2026-02-11 13:24_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
