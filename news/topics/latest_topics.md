@@ -1,62 +1,62 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 11:27_
+_Updated: 2026-02-11 12:26_
 
 ## Top Stories
 
-- Ebba Busch rasar mot dyra planer för elnätet - GP
-- ”Japanska järnladyn” skärper tonen mot Kina - SvD
-- Efter bromskritiken från förarna: Fortsatt stopp för de nya vagnarna - GP
+- Tio döda efter masskjutning i Kanada - SVT Nyheter
+- DN Direkt – En avliden efter villabrand i Sandviken - Dagens Nyheter
+- Ulla, 76, blev bestulen på sjukhuset – ”Mormors vigselring försvann” - Aftonbladet
+- Michael Winiarski: Att fjäska eller inte fjäska för Trump, det är frågan - Dagens Nyheter
+- Klart för norsk oberoende Epsteinutredning - GP
+- Så vill EU ta upp kampen mot drönarna - GP
+- Ny gul vädervarning för Skåne - SVT Nyheter
 - Valet blir ett historiskt vägskäl för vårt politiska system - Altinget.se
-- Prins Daniel vid lanseringen av Rörelseåret 2026 - Kungahuset
-- Statsministern till Belgien för informellt toppmöte i Europeiska rådet - Regeringen.se
-- Fakta i frågan: Håller Sverige på att knäcka gängen? - Dagens Nyheter
 - 11 februari 07.22, Sammanfattning natt, Norrbottens län - polisen.se
 - Hälsocentralen tar delvis över gynekologin – så påverkas du - Vimmerby Tidning
-- Ändrade sitt gymnasiebetyg – fick fängelse - SVT Nyheter
-- Karl Dalén: Klimatet offras när ”kolmästaren” eldar på ekonomin - Dagens Nyheter
 - Minnesota-guvernör: Migrationspolisen snart klara - GP
+- Ledarna på slottet: Så ska EU bli starkare - GP
+- Detta har hänt: Skandalen som kan fälla Starmer - Dagens Nyheter
 - Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
-- USA släpper tunga Natoposter efter Trumps utspel - Folkbladet
 - AI pressar ut unga: ”Ett allvarligt problem” - SvD
-- Aker BP:s resultat bommar förväntningarna - DI
-- Vi testar elektriska snöslungor – och hittar en solklar vinnare - Expressen
+- Ungdomen frodas på börsen – ”helt nya aktieägare” - DI
 - En miljard i vinst för SJ 2025 - Järnvägar.nu
-- Nytt företag startar i Härryda: Arq Software Solutions AB - Härryda-Posten
+- Blixtfiasko – trots mängder med nya fartkameror - Carup.se
 - GOG jobbar på inbyggt Linux-stöd - m3.se
+- State of Play på torsdag följs av Silent Hill-show - FZ.se
 
 ## World News
 
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
-- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
-- ebp Global acquires Sustaina Company - Via TT
-- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Avlyssningsskandalen växer - Journalisten
+- CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
+- Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
+- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Avlyssningsskandalen växer - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -142,23 +142,23 @@ _Updated: 2026-02-11 11:27_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Lediga jobb - ATL
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
