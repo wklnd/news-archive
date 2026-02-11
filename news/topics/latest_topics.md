@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 23:59_
+_Updated: 2026-02-12 01:00_
 
 ## Top Stories
 
 - Ebba Busch rasar mot dyra planer för elnätet - GP
-- Tv-stjärnans mamma försvunnen – FBI delar bild på möjlig kidnappare - SVT Nyheter
+- Miljardstöd till Ukraina klubbat i EU - Dagens Nyheter
 - DN Direkt – Bondi i hetsig utfrågning i kongressen - Dagens Nyheter
-- Vem styr Venezuela? - Proletären
+- Han lämnar Migrationsverkets etiska råd i protest – kallar politiken omänsklig - Dagens Nyheter
 - Europarådet häver immuniteten för Norges tidigare statsminister - Altinget.se
 - 11 februari 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
-- Han lämnar Migrationsverkets etiska råd i protest – kallar politiken omänsklig - Dagens Nyheter
 - Familjen om mördade My, 25: ”Hon såg det levande i varje situation” - SVT Nyheter
-- DN Direkt – M-topp: Diktatur är slutmål för S - Dagens Nyheter
-- Peter Alestig: Oroande fenomen i atmosfären kan förklara vargavintern - Dagens Nyheter
-- Nato förstärker närvaro i Arktis - SVT Nyheter
+- Kvinna livshotande skadad efter bråk - Västerbottens-Kuriren
+- 11 februari 20.42, Trafikolycka, vilt, Jämtlands län - Polisen.se
+- Hedersmordet i Lessebo: Polis anmälde inte våldtäkt – frias - SVT Nyheter
 - Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
 - Därför suger det att köra taxi - Arbetet
 - Tidigare Natotoppen: Relationen med USA kommer inte återgå - Dagens Nyheter
+- Trump varnade om Epstein för 20 år sedan - Kvartal
+- Farsen kring elpriserna är ett hot mot ekonomin - Aftonbladet
 - Livspusslet närmar sig mental konkurs - SvD
+- INSÄNDARE: Noll kronor till chefer som inte sköter sig - Tidningen Ångermanland
 - Kortare arbetstid – bra förslag eller inte? Så tycker karlskogingarna - KT-Kuriren
-- En översyn av det medicintekniska regelverket - Regeringen.se
-- Kocken Marie, 51, tog hem potatisskal – blev avskedad - Expressen
 - Kritik mot AI-tjänst som hittar försvunna hundar - Omni
 - Apple har släppt Ios 26.3 i Sverige - mobil.se
 
@@ -52,23 +52,23 @@ _Updated: 2026-02-11 23:59_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -83,11 +83,11 @@ _Updated: 2026-02-11 23:59_
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
@@ -142,17 +142,17 @@ _Updated: 2026-02-11 23:59_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
