@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 09:35_
+_Updated: 2026-02-11 10:07_
 
 ## Top Stories
 
 - Tio döda efter masskjutning i Kanada - SVT Nyheter
-- Busch kritiserar EU:s elnätsplan: ”Dåligt förslag” - Omni
+- ”Varför säljer Sverige ut sin eltrygghet?” - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Zelenskyj planerar val i vår - Dagens Nyheter
 - Efter bromskritiken från förarna: Fortsatt stopp för de nya vagnarna - GP
 - Fakta i frågan: Håller Sverige på att knäcka gängen? - Dagens Nyheter
-- Illegala slagsmål filmas och säljs i Göteborg - Västerbottens-Kuriren
+- Soligt börshumör i Tokyo - GP
 - Ändrade sitt gymnasiebetyg – fick fängelse - SVT Nyheter
+- Hälsocentralen tar delvis över gynekologin – så påverkas du - Vimmerby Tidning
 - Ystads tingsrätt söker sommarnotarier - Sveriges Domstolar
 - Kristersson: ”Viktigt med reglerad invandring” – Senaste nytt om valet 2026 - SVT Nyheter
-- Dom i mål om mord och gravfridsbrott i Grythyttan - Åklagarmyndigheten
 - Karl Dalén: Klimatet offras när ”kolmästaren” eldar på ekonomin - Dagens Nyheter
+- Statsministern till Belgien för informellt toppmöte i Europeiska rådet - Regeringen.se
 - Minnesota-guvernör: Migrationspolisen snart klara - GP
-- Starmers besked till partikollegorna: Tänker inte avgå - SVT Nyheter
 - Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
 - AI pressar ut unga: ”Ett allvarligt problem” - SvD
 - Ungdomen frodas på börsen – ”helt nya aktieägare” - DI
 - Vi testar elektriska snöslungor – och hittar en solklar vinnare - Expressen
-- Öresundsbron slog trafikrekord för andra året i rad och redovisar en vinst på 1,7 miljarder DKK - newsoresund.se
+- Nytt företag startar i Härryda: Arq Software Solutions AB - Härryda-Posten
 - GOG jobbar på inbyggt Linux-stöd - m3.se
-- Aldrig tidigare skådat: Ett extraordinärt fossil avslöjar dinosaurie med uppseendeväckande särdrag - Illustrerad Vetenskap
+- Nyckelring med inbyggd USB-C-kabel som matchar din nya iPhone 17 Pro - Teknikveckan
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - CMC Telecom hyllades vid Global Brand Awards. - Vietnam.vn
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
+- ebp Global acquires Sustaina Company - Via TT
 - UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -78,7 +78,6 @@ _Updated: 2026-02-11 09:35_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2026-02-11 09:35_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Sex framstående vd:ar ska intensifiera arbetet med mångfald, inkludering och kompetensförsörjning i sina bolag genom vd-program - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-02-11 09:35_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
