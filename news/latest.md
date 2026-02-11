@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-11 13:30_
+_Updated: 2026-02-11 14:31_
 
-- Top Border Official Praised Agent Who Shot Chicago Woman, Evidence Shows - The New York Times
-- Democratic governors pledge to boycott White House events after a Trump snub - Politico
+- All flights at El Paso airport in Texas halted for 10 days for 'security reasons,' FAA says - NBC News
+- Why Dems think they have the upper hand at Pam Bondi’s big Hill hearing - Politico
+- Georgia Ballot Inquiry Originated With Election Denier in Trump White House - The New York Times
+- Buddhist monks arrive in D.C., bringing needed solace with them - The Washington Post
 - Who are the six men named in the unredacted Epstein files? - The Guardian
-- Top 5 takeaways from the House immigration oversight hearing - NPR
-- Inside Epstein's efforts to influence elites, from U.K. to Russia and beyond - Axios
-- Former Palm Beach Police Chief Said Trump Told Him ‘Everyone’ Knew About Epstein in 2006 - The New York Times
-- Three House Republicans cross party lines to block effort to shield Trump from challenges to his tariffs - CNN
-- ‘No Reason He Should Have Died’: Alex Pretti’s Parents Open Up - The New York Times
-- Former Trump campaign lawyer sparked FBI probe of Fulton County ballots: Affidavit - CNBC
-- How the SAVE America Act could make major changes to voting - PBS
-- Hong Kong Activist Anna Kwok’s Father Convicted of National Security Crime - The New York Times
-- Pakistan-Afghanistan border closures paralyze trade along a key route - NPR
+- The transatlantic alliance is down but not out - Politico
+- EPA to repeal its own conclusion that greenhouse gases warm the planet and threaten health - NBC News
+- Trump's isolation of Cuba dries up nation's jet fuel supplies, forcing airlines to adjust - CBS News
+- Hong Kong Convicts a Political Exile’s Father, a First for the City - The New York Times
 - Exclusive: Trump says he opposes Israeli annexation steps in West Bank - Axios
-- EU clears way for transfer of asylum seekers to unrelated countries - Euronews.com
-- Wall Street’s New Trade Is Dumping Stocks in AI’s Crosshairs - Bloomberg
+- Iran commemorates 1979 revolution as nation is squeezed by anger over crackdown and tensions with US - AP News
+- The sell-off in AI losers has been so steep that this famed activist investor has reportedly sprung into action - MarketWatch
+- Asia markets mostly rise as investors shrug off weak U.S. retail sales, assess China inflation - CNBC
+- Toyota Just Introduced Its First Electric Three-Row SUV - Motor1.com
 - China consumer inflation rises less than expected in January as producer price deflation persists - CNBC
-- A Study Just Found The Average Cost Americans Paid For Trump's Tariffs In 2025, And It's Expected To Get Worse - Yahoo Finance
 - Fitbit’s AI health coach is now available on your iPhone - The Verge
 - iPhone 18 Pro: Three new design updates are coming this year - 9to5Mac
-- Google says the Android 17 Beta is coming soon - 9to5Google
+- Oceanhorn 3: Legend of the Shadow Sea announced for Apple Arcade - Gematsu
+- Razer’s resurrected 25-year-old gaming mouse will cost you $1,337 - The Verge
+- Wonder Man's New Episode Gets Record-Breaking Runtime - The Direct
