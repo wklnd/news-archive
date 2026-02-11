@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-11 08:42_
+_Updated: 2026-02-11 09:40_
 
-- Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress - The New York Times
-- Who are the six men named in the unredacted Epstein files? - The Guardian
+- Tumbler Ridge school shooting: PM Carney ‘devastated’ by attack that left 10 dead including suspect – latest updates - The Guardian
 - Former Palm Beach Police Chief Said Trump Told Him ‘Everyone’ Knew About Epstein in 2006 - The New York Times
+- How Google played a key role in recovering the video from Nancy Guthrie’s cameras - CNN
+- Who are the six men named in the unredacted Epstein files? - The Guardian
 - Exclusive: Trump says he opposes Israeli annexation steps in West Bank - Axios
-- Pride Flag Is Removed From Stonewall Monument After Trump Directive - The New York Times
 - ‘No Reason He Should Have Died’: Alex Pretti’s Parents Open Up - The New York Times
-- 5 takeaways from the Republican-led hearing on ICE - The Washington Post
-- Annual governors’ gathering with White House unraveling after Trump excludes Democrats - AP News
-- The calculations behind Netanyahu’s emergency meeting with Trump - JNS.org
-- Ukraine war briefing: UK promises to double troop numbers in Norway to deter Putin - The Guardian
-- Pakistan-Afghanistan border closures paralyze trade along a key route - NPR
+- EPA to repeal its own conclusion that greenhouse gases warm the planet and threaten health - NBC News
+- Netanyahu to discuss potential Iran strikes with Trump as Washington and Tehran resume talks - CNN
 - European Parliament clears way for transferring asylum seekers to unrelated countries - Euronews.com
+- Obsession with growth is destroying nature, 150 countries warn - politico.eu
+- Russia’s sabotage campaign is becoming bolder - The Economist
 - Asian Stocks Set to Extend Rally as US Shares Slip: Markets Wrap - Bloomberg.com
 - China consumer inflation rises less than expected in January as producer price deflation persists - CNBC
+- Saks Fifth Avenue to shutter Canal Place location - wwltv.com
 - The U.S. bond market is suddenly flashing a warning sign about the economy - MarketWatch
-- A Study Just Found The Average Cost Americans Paid For Trump's Tariffs In 2025, And It's Expected To Get Worse - Yahoo Finance
 - iPhone 18 Pro: Three new design updates are coming this year - 9to5Mac
-- Hands-on: Nothing ‘Essential Apps’ hit beta so you can vibe code your homescreen [Gallery] - 9to5Google
+- Samsung might bring back Galaxy S9’s variable aperture camera just to copy iPhone - 9to5Google
 - Black Myth: Zhong Kui Gets Six Minutes of In-Engine Footage - Wccftech
-- Razer’s resurrected 25-year-old gaming mouse will cost you $1,337 - The Verge
+- 'We feel it in our bones': Can a machine ever love you? - BBC
+- Chappell Roan Leaves Casey Wasserman Agency Over Epstein Files - The New York Times
