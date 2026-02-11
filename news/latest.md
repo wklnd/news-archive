@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-11 22:06_
+_Updated: 2026-02-11 23:19_
 
-- Pam Bondi clashes with House Democrats over Epstein files at DOJ oversight hearing - NPR
-- Tumbler Ridge school shooting: ‘The nation mourns with you,’ says Mark Carney after Canada attack – latest updates - The Guardian
-- Top Border Official Praised Agent Who Shot Chicago Woman, Evidence Shows - The New York Times
-- Exclusive: Trump says he might send second carrier to strike Iran if talks fail - Axios
-- Late Night Mines Trump’s Million Mentions in the Epstein Files - The New York Times
-- From TSA lines to disaster relief, here’s how a DHS shutdown would hurt - Politico
-- Western US gripped by extreme snow drought: ‘I’ve never seen a winter like this’ - The Guardian
-- Murdaugh Takes Appeal of Murder Convictions to South Carolina’s Top Court - The New York Times
-- Homeland Security Hires Labor Dept. Aide Whose Posts Raised Alarms - The New York Times
-- Mad Emperor Trump declares war on the air - The Hill
+- Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress - The New York Times
 - Iran commemorates 1979 revolution as nation is squeezed by anger over crackdown and tensions with US - AP News
+- From TSA lines to disaster relief, here’s how a DHS shutdown would hurt - Politico
+- Epstein Files Include Grainy Videos From Inside His Florida Home - The New York Times
+- How Google played a key role in recovering the video from Nancy Guthrie’s cameras - CNN
+- GOP Senate candidates pitch themselves as best to boost down-ballot Republicans - The Texas Tribune
+- FBI combs through thick desert terrain in search for clues in Nancy Guthrie’s disappearance - AP News
+- Murdaugh Takes Appeal of Murder Convictions to South Carolina’s Top Court - The New York Times
+- Mad Emperor Trump declares war on the air - The Hill
+- GOP Senators rail at FDA after closed-door briefing on abortion drug - Politico
+- Tumbler Ridge school shooting: Police identify suspect in Canada attack as 18-year-old local resident – latest updates - The Guardian
 - Greetings from Mexico City's iconic boulevard, where a dog on a bike steals the show - NPR
-- Hong Kong Activist Anna Kwok’s Father Convicted of National Security Crime - The New York Times
-- Israeli drone strike kills 2 cyclists in Gaza as death toll mounts despite ceasefire - AP News
-- Federal Debt to Hit Record Levels, Budget Office Warns - The New York Times
-- How much power does the Fed chair really have? : Planet Money - NPR
-- Saks Fifth Avenue, an anchor at New Orleans’ Canal Place since the 1980s, to close for good - NOLA.com
+- Gunman apprehended in southern Thailand after holding students and teachers hostage in school - Yahoo
+- Rules of unknown board game from the Roman period revealed - Phys.org
+- The selloff in AI losers has been so steep that this famed activist investor has reportedly sprung into action - MarketWatch
+- Susquehanna-backed crypto lender BlockFills halts client withdrawals - Financial Times
+- AI’s threat to white-collar jobs just got more real - vox.com
 - AI and the Coming Jobless Economy - Robert Reich | Substack
+- Samsung to hold its Galaxy S26 event on February 25 - TechCrunch
 - Qualcomm’s Most Powerful Snapdragon 8 Elite Gen 6 Pro May Get Skipped By Xiaomi Due To Its Expensive Price, A Pitfall Of Switching To TSMC’s 2nm Process - Wccftech
-- ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports - The Verge
