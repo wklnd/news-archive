@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-11 05:39_
+_Updated: 2026-02-11 07:19_
 
-- Live updates: Nancy Guthrie’s disappearance, person detained for questioning after surveillance video released - CNN
-- Prosecutors Fail to Bring Charges Against Democrats Involved in Illegal Orders Video - The New York Times
-- At least nine dead in mass shooting at school and home in Canada, police say - CNN
+- Canadian police say 10 dead in British Columbia’s Tumbler Ridge shooting - Al Jazeera
 - Former Palm Beach Police Chief Said Trump Told Him ‘Everyone’ Knew About Epstein in 2006 - The New York Times
-- Don Lemon hires former federal prosecutor who resigned over handling of fatal ICE shooting probe - CNN
-- EPA to repeal its own conclusion that greenhouse gases warm the planet and threaten health - NBC News
-- Johnson says it’s full steam ahead on tariff vote ban - Politico
-- Top Michigan Republicans defend Trump's Gordie Howe Bridge threats - The Detroit News
-- Dan Osborn cancels fundraiser after co-host’s Epstein link surfaces - Politico
-- Pride Flag Is Removed From Stonewall Monument After Trump Directive - The New York Times
-- Ukraine war briefing: UK promises to double troop numbers in Norway to deter Putin - The Guardian
+- Annual governors’ gathering with White House unraveling after Trump excludes Democrats - AP News
+- Vance Deletes Post Recognizing Armenian Genocide - The New York Times
 - Exclusive: Trump says he opposes Israeli annexation steps in West Bank - Axios
+- ‘No Reason He Should Have Died’: Alex Pretti’s Parents Open Up - The New York Times
+- FBI cited debunked claims to obtain warrant for Fulton County vote records, documents show - The Washington Post
+- Pakistan-Afghanistan border closures paralyze trade along a key route - NPR
 - Netanyahu wants Trump to demand more from Iran. The leaders will meet this week - AP News
-- China set to widen footprint in Bangladesh as India's ties decline - Reuters
+- The US slips to its lowest-ever rank in a global corruption index - CNN
+- Obsession with growth is destroying nature, 150 countries warn - politico.eu
+- The Toyota Highlander is now a three-row electric SUV with 320 miles of range - The Verge
 - China consumer inflation rises less than expected in January as producer price deflation persists - CNBC
 - Rivian R2 prototypes hit the media and revealed new performance specs as a Tesla Model Y competitor - Electrek
+- Operator of Eddie Bauer Stores Files for Bankruptcy - The New York Times
 - Samsung confirms Galaxy S26 launch on February 25, up to $900 off with reservation - 9to5Google
-- Microsoft is keeping Secure Boot alive with Windows updates - The Verge
 - Razer’s resurrected 25-year-old gaming mouse will cost you $1,337 - The Verge
-- Vibe coding Nothing’s apps is fun, until you try to make them useful - The Verge
+- Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws - BleepingComputer
+- 'We feel it in our bones': Can a machine ever love you? - BBC
+- GOP lawmakers urge FCC probe after Bad Bunny's Super Bowl performance - Axios
