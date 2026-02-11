@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-11 20:33_
+_Updated: 2026-02-11 21:35_
 
 ## Top Stories
 
-- Nya namn i Epsteinutredningen - GP
+- USA i oljesamtal med Venezuela - GP
 - Ebba Busch: ”Behöver följa rättsstatens principer” – Senaste nytt om valet 2026 - SVT Nyheter
-- Le Pen får sin dom i juli - GP
-- Polis frias från tjänstefel efter Lessebomordet - Dagens Nyheter
+- DN Direkt – Trump om mötet med Netanyahu: Inte helt överens - Dagens Nyheter
 - 11 februari 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
 - INSÄNDARE: Stoppa utvisningarna! - UNT
+- Sandviken: En död efter villabrand - TV4 Nyheterna
 - DN Direkt – M-topp: Diktatur är slutmål för S - Dagens Nyheter
+- Peter Alestig: Oroande fenomen i atmosfären kan förklara vargavintern - Dagens Nyheter
 - Marie-Louise lurade bedragarna: ”Blev något förvånad” - Dagens Nyheter
-- 11 februari 13.38, Trafikkontroll, Jämtlands län - Polisen.se
-- Ebba Busch rasar mot dyra planer för elnätet - GP
+- MP-toppen efter snökaoset: ”Vi är inte nöjda” - Dagens Nyheter
+- Parlamentet godkänner stödpaket på 90 miljarder euro till Ukraina - European Parliament
+- Karin Eriksson: Norges självbild blir aldrig densamma - Dagens Nyheter
 - Därför stämplar vissa Mamdanis löfte om förskolan som ”kommunism” - Dagens Nyheter
-- Miljardstöd till Ukraina klubbat av EU-parlamentet - Västerbottens-Kuriren
 - Elvaårig flicka och mor dödade i rysk attack - Västerbottens-Kuriren
-- Nato förstärker närvaro i Arktis - SVT Nyheter
-- Misstanken: Så blåstes staten med kryptohallar - DI
 - INSÄNDARE: Noll kronor till chefer som inte sköter sig - Tidningen Ångermanland
 - En översyn av det medicintekniska regelverket - Regeringen.se
-- Var fjärde smartphone i världen är en Iphone - Computer Sweden
+- ENKÄT: Impact-folket på plats på Techarena – vad är hetast just nu? - impactloop.se
+- Kritik mot AI-tjänst som hittar försvunna hundar - Omni
+- Nya iOS 26.3 täpper till flera säkerhetshål - Teknikveckan
 - Google Photos får nya AI-mallar på iPhone - Teknikveckan
-- FiiO släpper mindre och billigare hifi-spelare - Teknikveckan
 
 ## World News
 
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
 - CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -37,16 +36,17 @@ _Updated: 2026-02-11 20:33_
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Avlyssningsskandalen växer - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
-- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Avlyssningsskandalen växer - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -80,6 +80,7 @@ _Updated: 2026-02-11 20:33_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - EY i Almedalen 2025 | EY - Sverige - EY
@@ -87,7 +88,6 @@ _Updated: 2026-02-11 20:33_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
@@ -99,6 +99,7 @@ _Updated: 2026-02-11 20:33_
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
@@ -108,14 +109,13 @@ _Updated: 2026-02-11 20:33_
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
