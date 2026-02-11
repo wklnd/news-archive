@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-11 14:31_
+_Updated: 2026-02-11 16:01_
 
-- All flights at El Paso airport in Texas halted for 10 days for 'security reasons,' FAA says - NBC News
-- Why Dems think they have the upper hand at Pam Bondi’s big Hill hearing - Politico
-- Georgia Ballot Inquiry Originated With Election Denier in Trump White House - The New York Times
-- Buddhist monks arrive in D.C., bringing needed solace with them - The Washington Post
-- Who are the six men named in the unredacted Epstein files? - The Guardian
+- Nancy Guthrie live updates as apparent person of interest is released, home searched in Rio Rico, Arizona - CBS News
+- FAA Halts All Flights at El Paso Airport for 10 Days: Live Updates - The New York Times
+- Poll: Trump's ratings on immigration tumble as Americans lose confidence in his top issue - NBC News
 - The transatlantic alliance is down but not out - Politico
+- Top 5 takeaways from the House immigration oversight hearing - NPR
+- Three House Republicans cross party lines to block effort to shield Trump from challenges to his tariffs - CNN
+- Across the South, Residents Grieve for Thousands of Storm-Ravaged Trees - The New York Times
+- Former Trump campaign lawyer sparked FBI probe of Fulton County ballots: Affidavit - CNBC
 - EPA to repeal its own conclusion that greenhouse gases warm the planet and threaten health - NBC News
+- Tumbler Ridge school shooting: teacher and students hid for hours during Canadian attack – latest updates - The Guardian
+- Russian drone strike kills three Ukrainian toddlers and their father - CNN
 - Trump's isolation of Cuba dries up nation's jet fuel supplies, forcing airlines to adjust - CBS News
-- Hong Kong Convicts a Political Exile’s Father, a First for the City - The New York Times
-- Exclusive: Trump says he opposes Israeli annexation steps in West Bank - Axios
-- Iran commemorates 1979 revolution as nation is squeezed by anger over crackdown and tensions with US - AP News
-- The sell-off in AI losers has been so steep that this famed activist investor has reportedly sprung into action - MarketWatch
-- Asia markets mostly rise as investors shrug off weak U.S. retail sales, assess China inflation - CNBC
-- Toyota Just Introduced Its First Electric Three-Row SUV - Motor1.com
-- China consumer inflation rises less than expected in January as producer price deflation persists - CNBC
+- Norwegian ambassador resigns amid scrutiny over her contacts with Epstein - PBS
+- U.S. Jobs Report: Live Updates - The New York Times
+- The selloff in AI losers has been so steep that this famed activist investor has reportedly sprung into action - MarketWatch
+- Kraft Heinz pauses work to split the company as new CEO says 'challenges are fixable' - CNBC
+- Wall Street’s New Trade Is Dumping Stocks in AI’s Crosshairs - Bloomberg
 - Fitbit’s AI health coach is now available on your iPhone - The Verge
+- ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports - The Verge
 - iPhone 18 Pro: Three new design updates are coming this year - 9to5Mac
-- Oceanhorn 3: Legend of the Shadow Sea announced for Apple Arcade - Gematsu
-- Razer’s resurrected 25-year-old gaming mouse will cost you $1,337 - The Verge
-- Wonder Man's New Episode Gets Record-Breaking Runtime - The Direct
