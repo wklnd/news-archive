@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-12 05:33_
+_Updated: 2026-02-12 07:16_
 
-- Gallup Will No Longer Track Presidential Approval Ratings - The New York Times
+- House Votes to Cancel Trump’s Canada Tariffs - The New York Times
 - Trump to Netanyahu: U.S. prefers deal with Iran to war, for now - Axios
-- Exclusive | Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East - The Wall Street Journal
 - Four States Sue Administration Over Loss of Public Health Funds - The New York Times
-- Google's Sergey Brin and other tech elite have a new favorite to replace Newsom - SFGATE
-- Law enforcement thought Nancy Guthrie's smart camera was disconnected, but Google Nest still had the tape - Fortune
-- Customs and Border Protection Said to Have Fired Anti-Drone Laser That Triggered Airspace Closure - The New York Times
+- Republicans urge Trump to hold firm against Democrats’ DHS demands as clock ticks toward shutdown - CNN
 - These monks' walk for peace captivated Americans. It ends this week - NPR
+- S.F. teachers strike: Schools closed again Thursday as talks continue - San Francisco Chronicle
 - NewYork-Presbyterian Nurses Reject Contract By Overwhelming Margin - THE CITY - NYC News
-- Trump allows Democratic governors at White House meeting after initial snub - The Washington Post
+- In North Carolina, a Tight Primary Could Upend the Balance of Conservative Power - The New York Times
 - Gunman takes hostages after firing shots at school in southern Thailand - NBC News
-- China showcases new Moon ship and reusable rocket in one extraordinary test - Ars Technica
-- How the Israeli President’s Visit to Australia Created a ‘Tinder Box’ - The New York Times
-- Japan Election Shows Beijing’s Pressure Tactics Can Backfire - The Wall Street Journal
-- Protesters in multiple states press Target to oppose the immigration crackdown in Minnesota - Yahoo
-- Prasad overruled FDA staff to reject Moderna’s flu vaccine application - statnews.com
+- NATO deploys to Greenland to keep Trump onside - politico.eu
+- Argentine workers clash with police as senators debate labor reform, in photos - Yahoo
+- Russia blocks Meta’s WhatsApp messaging service - Financial Times
+- Protesters in multiple states press Target to oppose the immigration crackdown in Minnesota - AP News
+- Instagram chief denies social media can be ‘clinically addictive’ in landmark case - CNN
 - AMERICA’S GREATEST INNOVATORS - Forbes
 - Washington Post editor acknowledges ‘genuine trauma’ over mass layoffs - The Guardian
-- Apple keeps hitting bumps with its overhauled Siri - The Verge
+- Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users - TechCrunch
+- Get the Excellent Sonos Arc Soundbar with Dolby Atmos for Half the Price of an Arc Ultra - IGN
 - A new spyware called ZeroDayRat can take over your iPhone or Android via text — here is how to stay safe - Tom's Guide
+- Poll: So, Will You Be Getting Mario Tennis Fever For Switch 2? - Nintendo Life
