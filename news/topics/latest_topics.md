@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 12:12_
+_Updated: 2026-02-12 13:12_
 
 ## Top Stories
 
-- Inte en dödsskjutning på fem år: ”En annan värld” - Omni
-- Trump möter motstånd i partiet – Kanada-tullar nedröstade - SVT Nyheter
-- Husrannsakan hos Jagland efter Epsteinavslöjandena - Omni
-- Brand i företagslokal i Upplands Väsby – två gripna - Mitt i
-- Attacker mot Kiev i natt - GP
-- Bo Torbjörn Ek: Natos plan för att blidka Trump gynnar Sverige - Dagens Nyheter
-- Ledare: Att skriva är nödvändigt - NWT
-- Hård kritik från de rödgröna om elpriserna: ”katastrofalt agerande” - ETC.se
-- Staten utökar men landsbygden förlorar tusentals jobb - Tidningen Land
-- Grythyttan: Annelie mördades – nu faller domen mot sambon - TV4 Nyheterna
-- Munkar vandrade i 108 dagar – skänker hopp i USA - Dagens Nyheter
 - 850 000 franska hushåll utan ström i stormen Nils - GP
-- Fullständigt kaos – Kreml saboterar ryska operationer - Marcus Oscarsson
-- Kryptohandlare åtalas för grovt skattebrott - DI
-- Varning för ”räddningsbolag” – tio nya aktörer på FI:s varningslista - Finansinspektionen
-- En av fyra tvivlar på styrelsen i bostadsrättsföreningen - Dagens Nyheter
+- Simona Mohamsson bjuder in riksdagspartierna till samtal om elevers skärmtid - Regeringen.se
+- Bo Torbjörn Ek: Natos plan för att blidka Trump gynnar Sverige - Dagens Nyheter
+- Tim Berg, 33, döms – försökte mörda poliser - Expressen
+- Uppgifter: Husrannsakan hos Jagland - GP
+- Tidösamarbetet har drabbats av sin största spricka - Aftonbladet
+- Domen efter mordet i Grythyttan: Sambon får flera års fängelse - SVT Nyheter
+- Många vill att burka och niqab ska förbjudas i Sverige - Sveriges Radio
+- Ledare: Att skriva är nödvändigt - NWT
+- DEBATT: Trygg kvinnovård kräver kunskap och rätt att välja - Vimmerby Tidning
+- Attacker mot Kiev i natt - GP
+- Munkar vandrade i 108 dagar – skänker hopp i USA - Dagens Nyheter
+- UD avråder från resor till Kuba - SVT Nyheter
+- Whatsapp: Ryssland vill blockera tjänsten - GP
+- Dollarn straffar Yubico – knappt lönsamma - DI
+- Lyckoforskare: ”Ju mer pengar, desto svagare samband” - Omni
 - Finskt järngrepp i Afry efter vd:ns drag – toppchefer har lämnat efter ”maktkamp” - DI
+- En av fyra tvivlar på styrelsen i bostadsrättsföreningen - Dagens Nyheter
 - Efter 15 år – nu ska Secure Boot-certifikaten på miljoner Windows-datorer uppdateras - Computer Sweden
-- Nya Siri försenas igen och kan till och med skjutas upp till iOS 27 - Teknikveckan
 - Diablo 2 lever igen – ny expansion släppt med första nya klassen på 25 år - FZ.se
 
 ## World News
 
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
 - CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - ebp Global acquires Sustaina Company - Via TT
+- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -80,42 +80,42 @@ _Updated: 2026-02-12 12:12_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2026-02-12 12:12_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
