@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-12 23:04_
+_Updated: 2026-02-13 00:02_
 
-- Senate panel hears from top immigration officials, state leaders on Minnesota surge - CBS News
+- Democrats reject latest White House proposal, raising odds of partial shutdown - The Washington Post
+- Trump administration to end Minnesota immigration crackdown - Axios
+- Federal court blocks Hegseth effort to punish Democratic senator - Politico
 - US antitrust chief Gail Slater ousted from Trump justice department - The Guardian
 - Bangladesh election: Polls close in first vote since Gen Z protests ousted former PM Sheikh Hasina - BBC
 - Jim Ratcliffe sorry language 'offended some' after immigration comments - BBC
-- Partial government shutdown looms as ICE negotiations hit stalemate - The Washington Post
-- Judge Ends Deportation Case for Mexican Father of 3 U.S. Marines - The New York Times
-- Unpersuaded by Netanyahu, Trump insists on going ‘jaw-to-jaw’ with Iran and Hamas - The Times of Israel
+- In rare move, Congress exerts power over D.C. and blocks tax policy - The Washington Post
+- Trump Administration Erases the Government’s Power to Fight Climate Change - The New York Times
+- US federal immigration officer charged with harboring undocumented person - The Guardian
+- Trump says all Democratic governors except Wes Moore and Jared Polis are invited to White House gathering - NBC News
 - Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba - CNBC
-- CIA releases new video in attempt to lure Chinese military officers to spy for US - Financial Times
-- Israeli Soldiers Accused of Using Polymarket to Bet on Strikes - WSJ - The Wall Street Journal
 - EU leaders meet to counter pressure from Russia, China and Trump - AP News
-- Some folks on Wall Street think yesterday’s U.S. jobs number is ‘implausible’ and thus due for a downward correction - Fortune
+- Gisèle Pelicot’s first televised interview: 5 takeaways from the woman who launched a rallying cry against sex abuse - CNN
+- Israel Is Quietly Annexing the West Bank - Foreign Affairs
 - Spirit Airlines sells more planes, calls back 500 flight attendants from furlough ahead of spring break - CNBC
-- In Kentucky, People Blame Ford More Than Trump for Lost Factory Jobs - The New York Times
+- Coinbase Hit With Double Downgrade Ahead Of Tough Earnings Test - Investor's Business Daily
+- Hong Kong's CK Hutchison warns of legal action over Panama Canal ports - Yahoo Finance
 - "He Sounds Nervous": American Airlines CEO Robert Isom Responds To Union Revolt—Here's His Turnaround Plan - View from the Wing
-- Arm confirms Exynos 2600 will support SME2 at launch - Notebookcheck
-- Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops. - Investor's Business Daily
-- YouTube launches native app for Apple Vision Pro - 9to5Mac
-- It’s Becoming Impossible To Buy A Steam Deck - Kotaku
-- I Need Tommy Lee Jones to Read Margaret Qualley’s Text-Message Manifesto - Vulture
+- Chrome for Android rolling out pinned tabs - 9to5Google
+- Pixel 10a leaks with physical SIM as that ‘Berry’ red is calling my name [Gallery] - 9to5Google
