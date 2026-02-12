@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 17:26_
+_Updated: 2026-02-12 18:31_
 
 ## Top Stories
 
+- Influencern Pontus Rasmusson döms till fängelse för grovt bokföringsbrott - SVT Nyheter
+- M-topp: Partiet har försökt censurera mig - SvD
+- Över 100 000 utan ström efter ryska attacker - Omni
+- UD avråder från resor till Kuba - Expressen
 - DA-tv: Vad är gåtan med Epstein? - Dagens Arena
-- Hundratals drönare och robotar i ny rysk attack - Västerbottens-Kuriren
-- M-toppen: S vill ha diktatur - Expressen
-- "Bistånd ska inte vara fattigvård!" - Global Bar Magazine
-- UD avråder från resor till Kuba - SVT Nyheter
+- Banancontainer i Helsingborgs hamn innehöll kokain för 1,4 miljarder kronor - SVT Nyheter
 - Domen efter mordet i Grythyttan: Sambon får flera års fängelse - SVT Nyheter
-- Många vill att burka och niqab ska förbjudas i Sverige - Sveriges Radio
-- DN Direkt – Utökad möjlighet till skyddsjakt på vildsvin - Dagens Nyheter
+- Ny hästsmitta upptäckt – kan spridas till människor - Barometern-OT
+- LEDARE: "Vill MP att regionen styrs uppifrån med järnhand som i Sovjet?" - Helagotland
 - 12 februari 13.26, Trafikkontroll, Västerbottens län - polisen.se
-- DN Direkt – Pontus Rasmusson döms till fängelse - Dagens Nyheter
+- Homan: Trump har godkänt tillbakadragning av ICE - SVT Nyheter
+- Norska EU-debatten tar fart igen: ”Snart bara vi kvar” - Dagens Nyheter
 - EU-miljarder till Ungern kan tas tillbaka - GP
 - FBI tittar på misstänkta kidnappare – man gripen och släppt - Dagens Nyheter
-- Munkar vandrade i 108 dagar – skänker hopp i USA - Dagens Nyheter
 - Internationellt efterlyst man från Skellefteå åtalas – misstänks undvikit 107 miljoner i skatt - SVT Nyheter
 - LÅNGSIKTIG UPPSIDA TROTS SVAG USA-MARKNAD, KÖP - AFV - Placera.se
-- Razzia mot Amazon – misstänks för skatteflykt - Realtid
-- Ökning i antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
+- Källor: Razzia mot Amazons huvudkontor i Italien - Omni
+- Ingen begränsning av UE-led - Byggvärlden
 - Softronic Pay – redo för Swish återkommande betalningar – när alla bankerna nu äntligen är klara! - Softronic AB
-- Quiz – Vad kan du om de bästa treorna? - FZ.se
 - Diablo 2 lever igen – ny expansion släppt med första nya klassen på 25 år - FZ.se
 
 ## World News
@@ -36,11 +36,11 @@ _Updated: 2026-02-12 17:26_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -63,12 +63,12 @@ _Updated: 2026-02-12 17:26_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -106,10 +106,10 @@ _Updated: 2026-02-12 17:26_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
