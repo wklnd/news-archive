@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 21:57_
+_Updated: 2026-02-12 22:59_
 
 ## Top Stories
 
-- Influencern Pontus Rasmusson döms till fängelse för grovt bokföringsbrott - SVT Nyheter
 - Bollnäs skakas av självmord – flera unga döda - SVT Nyheter
+- S om Mohamssons inbjudan: ”Lite desperat” - Dagens Nyheter
 - Dottern Kim Ju-Ae pekas ut som diktatorns efterträdare - Dagens Nyheter
-- Fyra saker Trump vill säkra före mellanårsvalet - Dagens Nyheter
 - Över 100 000 utan ström efter ryska attacker - Omni
-- DA-tv: Vad är gåtan med Epstein? - Dagens Arena
+- Annelie ströps till döds – nu faller domen - Aftonbladet
+- Två personer begärs häktade för mutbrott - Mitt i
 - Jonatan Unge hörd i rätten – kallade högeraktivist nazistpyssling - Dagens Nyheter
-- Region vill se återkrav på hundratals miljoner från nätläkare - Dagens Nyheter
 - Trustorhärvans Joachim Posener gripen - GP
-- Många vill att burka och niqab ska förbjudas på allmän plats - Sveriges Radio
-- DN Direkt – Polisräd mot EU-kommissionen i Bryssel - Dagens Nyheter
+- Stresstestet för Tidö - Aftonbladet
+- 12 februari 13.24, Trafikkontroll, Jämtlands län - polisen.se
 - Homan: Trump har godkänt tillbakadragning av ICE - SVT Nyheter
-- Uppgifter: Husrannsakan hos fd statsminister Jagland - SVT Nyheter
-- Erik de la Reguera: Macron talar om kärnvapen med Sverige – men bakom honom väntar Le Pen - Dagens Nyheter
+- Målet: Slå ut 50 000 ryssar i månaden - GP
+- Fyra saker Trump vill säkra före mellanårsvalet - Dagens Nyheter
 - Förvirring kring nya bolåneregler – fällan att undvika - Dagens Nyheter
 - Lovable om rivalen: ”Ligger inte sömnlös” - SvD
-- Storbanken: Bitcoin kan falla till 50 000 dollar - Affärsvärlden
 - Ingen begränsning av UE-led - Byggvärlden
-- Svenska Jessica Meir på väg mot rymden – igen - Dagens Nyheter
+- Ökning av antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
 - Softronic Pay – redo för Swish återkommande betalningar – när alla bankerna nu äntligen är klara! - Softronic AB
+- Diablo 2 lever igen – ny expansion släppt med första nya klassen på 25 år - FZ.se
+- Test: Sony WF-1000XM6 – Får mig att uppskatta Airpods Pro mycket mera - mobil.se
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2026-02-12 21:57_
 - CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Ukraine war latest: Mark Rutte says NATO meeting with defence ministers 'unlike any other' - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
@@ -47,6 +46,7 @@ _Updated: 2026-02-12 21:57_
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -81,7 +81,7 @@ _Updated: 2026-02-12 21:57_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -101,24 +101,25 @@ _Updated: 2026-02-12 21:57_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Engineering Health 2024 - Chalmers
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -126,19 +127,18 @@ _Updated: 2026-02-12 21:57_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Upp till försvar för forskningen - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
