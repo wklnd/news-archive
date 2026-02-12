@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 11:12_
+_Updated: 2026-02-12 12:12_
 
 ## Top Stories
 
-- 850 000 franska hushåll utan ström i stormen Nils - GP
 - Inte en dödsskjutning på fem år: ”En annan värld” - Omni
-- Sverige splittrat om vapnet som kan lemlästa barn - Dagens Nyheter
-- Somaliska akademiker i ett vitt hav - GP
-- ”Hur kan jag hitta vänner att känna mig trygg med?” - Dagens Nyheter
-- Brand i företagslokal i Upplands Väsby – kraftig smäll hördes - SVT Nyheter
-- Hälften av väljarna vill förbjuda niqab och burka - Omni
-- Beskedet: Frisk nog för fängelse - Expressen
-- Ledare: Att skriva är nödvändigt - NWT
-- Staten utökar men landsbygden förlorar tusentals jobb - Tidningen Land
+- Trump möter motstånd i partiet – Kanada-tullar nedröstade - SVT Nyheter
+- Husrannsakan hos Jagland efter Epsteinavslöjandena - Omni
+- Brand i företagslokal i Upplands Väsby – två gripna - Mitt i
 - Attacker mot Kiev i natt - GP
-- Direkt – Kriget i Ukraina – Pål Jonson: Gripensamtal i ett intensivt skede - Dagens Nyheter
-- Feststämning i Bangladesh när val hålls utan Hasina - Omni
+- Bo Torbjörn Ek: Natos plan för att blidka Trump gynnar Sverige - Dagens Nyheter
+- Ledare: Att skriva är nödvändigt - NWT
+- Hård kritik från de rödgröna om elpriserna: ”katastrofalt agerande” - ETC.se
+- Staten utökar men landsbygden förlorar tusentals jobb - Tidningen Land
+- Grythyttan: Annelie mördades – nu faller domen mot sambon - TV4 Nyheterna
+- Munkar vandrade i 108 dagar – skänker hopp i USA - Dagens Nyheter
+- 850 000 franska hushåll utan ström i stormen Nils - GP
 - Fullständigt kaos – Kreml saboterar ryska operationer - Marcus Oscarsson
+- Kryptohandlare åtalas för grovt skattebrott - DI
 - Varning för ”räddningsbolag” – tio nya aktörer på FI:s varningslista - Finansinspektionen
-- Basmetaller stiger med stöd av svagare dollar - Börsvärlden
 - En av fyra tvivlar på styrelsen i bostadsrättsföreningen - Dagens Nyheter
-- Färre installerar solceller i Västerbotten - Folkbladet
+- Finskt järngrepp i Afry efter vd:ns drag – toppchefer har lämnat efter ”maktkamp” - DI
 - Efter 15 år – nu ska Secure Boot-certifikaten på miljoner Windows-datorer uppdateras - Computer Sweden
+- Nya Siri försenas igen och kan till och med skjutas upp till iOS 27 - Teknikveckan
 - Diablo 2 lever igen – ny expansion släppt med första nya klassen på 25 år - FZ.se
 
 ## World News
@@ -52,23 +52,23 @@ _Updated: 2026-02-12 11:12_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -142,23 +142,23 @@ _Updated: 2026-02-12 11:12_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Lediga jobb - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
