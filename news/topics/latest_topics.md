@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 05:27_
+_Updated: 2026-02-12 07:13_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Pål Jonson: Gripensamtal i ett intensivt skede - Dagens Nyheter
+- Larm om explosion – lokal i lågor - Aftonbladet
+- Trump möter motstånd i partiet – Kanada-tullar nedröstade - SVT Nyheter
+- Vändningen: Nästan fem år utan dödsskjutningar - SvD
+- Sverige splittrat om vapnet som kan lemlästa barn - Dagens Nyheter
+- ”Hur kan jag hitta vänner att känna mig trygg med?” - Dagens Nyheter
 - Mördade sin mamma och styvbror – sen inleddes skolskjutningen - Aftonbladet
-- Attacker mot Kiev i natt - GP
-- Ebba Busch rasar mot dyra planer för elnätet - GP
-- Europarådet häver immuniteten för Norges tidigare statsminister - Altinget.se
-- 11 februari 13.38, Trafikkontroll, Västernorrlands län - polisen.se
-- Vilma Andersson kan dömas till fängelse - LT
-- 11 februari 20.42, Trafikolycka, vilt, Jämtlands län - polisen.se
-- INSÄNDARE: Byggprogrammet i topp för jobb efter skolan - Kristianstadsbladet
-- Ny smittsam hästsjukdom upptäckt i Jönköpings län - SVT Nyheter
-- “Irans journalister är fångade mellan överlevnad och moral” - Journalisten
-- Fullständigt kaos – Kreml saboterar ryska operationer - Marcus Oscarsson
-- Sex republikaner trotsar Trump om tullar - Expressen
-- Danskt larm: Ryska skuggfartyg nästan varje dag - Aftonbladet
+- Beskedet: Frisk nog för fängelse - Expressen
+- Ledare: Att skriva är nödvändigt - NWT
+- 11 februari 20.42, Trafikolycka, vilt, Jämtlands län - Polisen.se
+- 11 februari 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
+- Attacker mot Kiev i natt - Västerbottens-Kuriren
+- Slottsmötet: Så ska EU slippa bli en "sparkboll" - Västerbottens-Kuriren
+- BMW återkallar hundratusentals bilar – brandrisk - Expressen
+- Politisk storm i Storbritannien - GP
 - Farsen kring elpriserna är ett hot mot ekonomin - Aftonbladet
+- Stormskador på nära 25 miljoner kronor – Ljusdal näst värst drabbat - Ljusdals-Posten
 - INSÄNDARE: Noll kronor till chefer som inte sköter sig - Tidningen Ångermanland
-- En översyn av det medicintekniska regelverket - Regeringen.se
+- Kraftig resultatökning trots svagare förvaltningsresultat för Logistri - Dagens Handel
+- Efter 15 år – nu ska Secure Boot-certifikaten på miljoner Windows-datorer uppdateras - Computer Sweden
 - Apple har släppt Ios 26.3 i Sverige - mobil.se
-- Kritik mot AI-tjänst som hittar försvunna hundar - Omni
-- Google Photos får nya AI-mallar på iPhone - Teknikveckan
 
 ## World News
 
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global rapport: 100 saker som kan göras för biologisk mångfald - Aktuell Hållbarhet
-- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- ebp Global acquires Sustaina Company - Via TT
+- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 
 ## Technology
 
@@ -83,7 +83,6 @@ _Updated: 2026-02-12 05:27_
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -93,12 +92,14 @@ _Updated: 2026-02-12 05:27_
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
@@ -108,7 +109,6 @@ _Updated: 2026-02-12 05:27_
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
@@ -120,45 +120,45 @@ _Updated: 2026-02-12 05:27_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Lediga jobb - ATL
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
