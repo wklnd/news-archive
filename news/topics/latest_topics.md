@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 20:32_
+_Updated: 2026-02-12 21:33_
 
 ## Top Stories
 
 - Influencern Pontus Rasmusson döms till fängelse för grovt bokföringsbrott - SVT Nyheter
-- S om Mohamssons inbjudan: ”Lite desperat” - Dagens Nyheter
-- Många vill att burka och niqab ska förbjudas på allmän plats - Sveriges Radio
+- Dottern Kim Ju-Ae pekas ut som diktatorns efterträdare - Dagens Nyheter
+- Homan: Trump har godkänt tillbakadragning av ICE - SVT Nyheter
 - Över 100 000 utan ström efter ryska attacker - Omni
-- Mexikanska fartyg med nödhjälp framme vid Kuba - GP
-- Uppgifter: Husrannsakan hos norges tidigare statsminister - ETC.se
+- Fyra saker Trump vill säkra före mellanårsvalet - Dagens Nyheter
+- Region vill se återkrav på hundratals miljoner från nätläkare - Dagens Nyheter
 - Jonatan Unge hörd i rätten – kallade högeraktivist nazistpyssling - Dagens Nyheter
+- Trustorhärvans Joachim Posener gripen - GP
+- Ny hästsmitta upptäckt – kan spridas till människor - Barometern-OT
 - 12 februari 13.26, Trafikkontroll, Västerbottens län - polisen.se
-- 12 februari 13.24, Trafikkontroll, Jämtlands län - polisen.se
-- LEDARE: "Vill MP att regionen styrs uppifrån med järnhand som i Sovjet?" - Helagotland
 - DN Direkt – Polisräd mot EU-kommissionen i Bryssel - Dagens Nyheter
+- Målet: Slå ut 50 000 ryssar i månaden - GP
 - Erik de la Reguera: Macron talar om kärnvapen med Sverige – men bakom honom väntar Le Pen - Dagens Nyheter
-- Förvirring kring nya bolåneregler – fällan att undvika - Dagens Nyheter
+- Uppgifter: Husrannsakan hos fd statsminister Jagland - SVT Nyheter
 - Lovable om rivalen: ”Ligger inte sömnlös” - SvD
-- Otydligheter med Traderas gratisannonser för bilar - Elbilen
+- Förvirring kring nya bolåneregler – fällan att undvika - Dagens Nyheter
 - Ingen begränsning av UE-led - Byggvärlden
+- Otydligheter med Traderas gratisannonser för bilar - Elbilen
 - Softronic Pay – redo för Swish återkommande betalningar – när alla bankerna nu äntligen är klara! - Softronic AB
-- Quiz – Vad kan du om de bästa treorna? - FZ.se
-- Diablo 2 lever igen – ny expansion släppt med första nya klassen på 25 år - FZ.se
-- Test: Sony WF-1000XM6 – Får mig att uppskatta Airpods Pro mycket mera - mobil.se
+- Chrome för Android får stöd för fastnålade flikar - mobil.se
 
 ## World News
 
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Ukraine war latest: Mark Rutte says NATO meeting with defence ministers 'unlike any other' - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
+- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
@@ -57,18 +57,18 @@ _Updated: 2026-02-12 20:32_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -81,18 +81,18 @@ _Updated: 2026-02-12 20:32_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- EY i Almedalen 2025 | EY - Sverige - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -123,42 +123,42 @@ _Updated: 2026-02-12 20:32_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
