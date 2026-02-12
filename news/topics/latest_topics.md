@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 10:03_
+_Updated: 2026-02-12 11:12_
 
 ## Top Stories
 
-- Gul varning för snö och vind på Öland - SVT Nyheter
-- Debatt: Pristransparens är viktigt – men verkligheten är mer komplex - VF
-- ”Hur kan jag hitta vänner att känna mig trygg med?” - Dagens Nyheter
+- 850 000 franska hushåll utan ström i stormen Nils - GP
+- Inte en dödsskjutning på fem år: ”En annan värld” - Omni
+- Sverige splittrat om vapnet som kan lemlästa barn - Dagens Nyheter
 - Somaliska akademiker i ett vitt hav - GP
-- Mördade sin mamma och styvbror – sen inleddes skolskjutningen - Aftonbladet
-- LEDARE: "Vill MP att regionen styrs uppifrån med järnhand som i Sovjet?" - Helagotland
+- ”Hur kan jag hitta vänner att känna mig trygg med?” - Dagens Nyheter
 - Brand i företagslokal i Upplands Väsby – kraftig smäll hördes - SVT Nyheter
 - Hälften av väljarna vill förbjuda niqab och burka - Omni
+- Beskedet: Frisk nog för fängelse - Expressen
 - Ledare: Att skriva är nödvändigt - NWT
-- Marie-Louise lurade bedragarna: ”Blev något förvånad” - Dagens Nyheter
-- Putins mardröm – går mot kollaps: ”Perfekt storm” - Expressen
-- Strömavbrott i Odesa efter ny terrorbombning - krigsfångars familjer hotas för att registrera Starlink åt ryssarna - Japan kan ansluta sig till PURL-initiativet - cornucopia.se
+- Staten utökar men landsbygden förlorar tusentals jobb - Tidningen Land
+- Attacker mot Kiev i natt - GP
 - Direkt – Kriget i Ukraina – Pål Jonson: Gripensamtal i ett intensivt skede - Dagens Nyheter
 - Feststämning i Bangladesh när val hålls utan Hasina - Omni
+- Fullständigt kaos – Kreml saboterar ryska operationer - Marcus Oscarsson
+- Varning för ”räddningsbolag” – tio nya aktörer på FI:s varningslista - Finansinspektionen
 - Basmetaller stiger med stöd av svagare dollar - Börsvärlden
 - En av fyra tvivlar på styrelsen i bostadsrättsföreningen - Dagens Nyheter
-- Bank: Nytt guldrally hägrar – priset ska upp till 6 300 dollar - Omni Ekonomi
 - Färre installerar solceller i Västerbotten - Folkbladet
 - Efter 15 år – nu ska Secure Boot-certifikaten på miljoner Windows-datorer uppdateras - Computer Sweden
 - Diablo 2 lever igen – ny expansion släppt med första nya klassen på 25 år - FZ.se
@@ -110,12 +110,12 @@ _Updated: 2026-02-12 10:03_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
