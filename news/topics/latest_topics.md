@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-12 14:01_
+_Updated: 2026-02-12 15:50_
 
 ## Top Stories
 
-- EU-parlamentet fördömer Turkiets förföljelse av Joakim Medin - ETC.se
-- 850 000 franska hushåll utan ström i stormen Nils - GP
-- Razzia i Oslo – jakt på Epsteinbevis - GP
+- DN Direkt – Fraktade 1,5 kilo kokain – flera åtalas - Dagens Nyheter
+- DA-tv: Vad är gåtan med Epstein? - Dagens Arena
 - "Bistånd ska inte vara fattigvård!" - Global Bar Magazine
-- Svenska flygvapnet aktiverat i Nato-operationen Arctic Sentry - SVT Nyheter
+- Nu samlas EU-ledarna på slottet - Västerbottens-Kuriren
 - Brand i företagslokal i Upplands Väsby – två gripna - Mitt i
-- Domen efter mordet i Grythyttan: Sambon får flera års fängelse - SVT Nyheter
-- Ledare: Att skriva är nödvändigt - NWT
-- DEBATT: Trygg kvinnovård kräver kunskap och rätt att välja - Vimmerby Tidning
-- Ebba Busch rasar mot dyra planer för elnätet - GP
-- EU-miljarder till Ungern kan tas tillbaka - Västerbottens-Kuriren
-- Munkar vandrade i 108 dagar – skänker hopp i USA - Dagens Nyheter
-- FBI tittar på misstänkta kidnappare – man gripen och släppt - Dagens Nyheter
 - UD avråder från resor till Kuba - SVT Nyheter
-- Dollarn straffar Yubico – knappt lönsamma - DI
+- Ledare: Att skriva är nödvändigt - NWT
+- 12 februari 13.24, Trafikkontroll, Jämtlands län - polisen.se
+- 12 februari 13.25, Trafikkontroll, Västernorrlands län - polisen.se
+- Så säkrar kommunen att valet går rätt till - Uppsala kommun
+- Munkar vandrade i 108 dagar – skänker hopp i USA - Dagens Nyheter
+- EU-miljarder till Ungern kan tas tillbaka - GP
+- Norska EU-debatten tar fart igen: ”Snart bara vi kvar” - Dagens Nyheter
+- Sverige ger pengar till Ukrainas vapenköp - Västerbottens-Kuriren
+- Internationellt efterlyst man från Skellefteå åtalas – misstänks undvikit 107 miljoner i skatt - SVT Nyheter
 - Lyckoforskare: ”Ju mer pengar, desto svagare samband” - Omni
-- Finskt järngrepp i Afry efter vd:ns drag – toppchefer har lämnat efter ”maktkamp” - DI
-- Positiv börstorsdag i Asien - börsrekord i Sverige - franska AI-jätten bygger serverhall i Borlänge - SBAB höjer prognosen för svensk ekonomi, 4.7% högre bostadspriser - cornucopia.se
+- Ökning i antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
+- Koppar fortsatt mest efterfrågad – Kalmar län klättrar bland prospekteringslänen - Metal Supply
 - Nya förseningar för AI-versionen av Siri - Computer Sweden
-- Efter 15 år – nu ska Secure Boot-certifikaten på miljoner Windows-datorer uppdateras - Computer Sweden
+- Softronic Pay – redo för Swish återkommande betalningar – när alla bankerna nu äntligen är klara! - Softronic AB
 
 ## World News
 
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UN General Assembly President Annalena Baerbock: The United Nations need Europe - European Parliament
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Avlyssningsskandalen växer - Journalisten
 
 ## Technology
@@ -57,8 +57,8 @@ _Updated: 2026-02-12 14:01_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -80,7 +80,6 @@ _Updated: 2026-02-12 14:01_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - EY i Almedalen 2025 | EY - Sverige - EY
@@ -88,6 +87,7 @@ _Updated: 2026-02-12 14:01_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
@@ -101,6 +101,7 @@ _Updated: 2026-02-12 14:01_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -110,7 +111,6 @@ _Updated: 2026-02-12 14:01_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -119,35 +119,35 @@ _Updated: 2026-02-12 14:01_
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - ATL
@@ -155,10 +155,10 @@ _Updated: 2026-02-12 14:01_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
