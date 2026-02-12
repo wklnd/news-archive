@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-12 22:01_
+_Updated: 2026-02-12 23:04_
 
-- Nancy Guthrie disappearance: Investigators find a set of gloves along road as search enters 12th day - Fox News
-- Trump Repeals Key Greenhouse Gas Finding, Erasing EPA’s Power to Fight Climate Change - The New York Times
-- Bangladesh election: Polls close in first vote since Gen Z protests ousted former PM Sheikh Hasina - BBC
 - Senate panel hears from top immigration officials, state leaders on Minnesota surge - CBS News
-- Justice Department's antitrust chief says she's leaving, effective immediately - NBC News
+- US antitrust chief Gail Slater ousted from Trump justice department - The Guardian
+- Bangladesh election: Polls close in first vote since Gen Z protests ousted former PM Sheikh Hasina - BBC
 - Jim Ratcliffe sorry language 'offended some' after immigration comments - BBC
 - Partial government shutdown looms as ICE negotiations hit stalemate - The Washington Post
-- Judge says Pete Hegseth is unlawfully retaliating against Sen. Mark Kelly over ‘illegal orders’ video - CNN
-- Trump says all Democratic governors except Wes Moore and Jared Polis are invited to White House gathering - NBC News
-- Federal authorities announce an end to the immigration crackdown in Minnesota - AP News
+- Judge Ends Deportation Case for Mexican Father of 3 U.S. Marines - The New York Times
+- Unpersuaded by Netanyahu, Trump insists on going ‘jaw-to-jaw’ with Iran and Hamas - The Times of Israel
 - Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba - CNBC
+- CIA releases new video in attempt to lure Chinese military officers to spy for US - Financial Times
+- Israeli Soldiers Accused of Using Polymarket to Bet on Strikes - WSJ - The Wall Street Journal
 - EU leaders meet to counter pressure from Russia, China and Trump - AP News
-- Putin ‘trying to break the Ukrainian people – they will not be broken,’ says Nato’s Rutte - Europe live - The Guardian
-- NATO Remains Vital to U.S. Security, Ex-Ambassadors and Generals Say - The New York Times
+- Some folks on Wall Street think yesterday’s U.S. jobs number is ‘implausible’ and thus due for a downward correction - Fortune
 - Spirit Airlines sells more planes, calls back 500 flight attendants from furlough ahead of spring break - CNBC
-- Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs - The New York Times
-- The business of not ageing: Why people are spending $1,300 on longevity treatments - BBC
-- Presidents' Day sales 2026: The best tech deals to shop this week from Apple, Sony, Samsung and others - Engadget
-- Pixel 10a leaks with physical SIM as that ‘Berry’ red is calling my name [Gallery] - 9to5Google
-- Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini - NBC News
+- In Kentucky, People Blame Ford More Than Trump for Lost Factory Jobs - The New York Times
+- "He Sounds Nervous": American Airlines CEO Robert Isom Responds To Union Revolt—Here's His Turnaround Plan - View from the Wing
+- Arm confirms Exynos 2600 will support SME2 at launch - Notebookcheck
+- Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops. - Investor's Business Daily
+- YouTube launches native app for Apple Vision Pro - 9to5Mac
+- It’s Becoming Impossible To Buy A Steam Deck - Kotaku
+- I Need Tommy Lee Jones to Read Margaret Qualley’s Text-Message Manifesto - Vulture
