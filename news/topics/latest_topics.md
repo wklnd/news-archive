@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 17:09_
+_Updated: 2026-02-13 18:07_
 
 ## Top Stories
 
-- Bebis ska utvisas till Iran – Johan Forssell (M): ”Orimligt” - SVT Nyheter
-- Därför utvisas tonåringarna - Dagens Nyheter
+- Migrationsverket om utvisning av bebis: Följer lagen - Dagens Nyheter
+- Katja Nyberg: Har inte tagit kokain - SvD
 - Malmökvinna häktad för systematiskt våld mot sambo - Sydsvenskan
-- Försvunna flickan i Falkenberg hittad - SVT Nyheter
-- Anders spelade bort 4,7 miljoner – vinner mot speljätten - Aftonbladet
-- Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
-- Regeringen ger Trafikverket ett nytt uppdrag om Gotlandstrafiken - Region Gotland
-- Dags att röra på fläsket – regeringen lanserar Rörelseåret 2026 - News55
+- Skolanställd i Sörmland misstänkt för flera våldtäkter - SVT Nyheter
+- Jagland utreds efter Epstein-kontakter – immuniteten hävd - Hufvudstadsbladet
+- Sex dödade i ryska attacker i natt - GP
+- Gängkriminalitet föreslås bli nytt brott - Dagens Nyheter
 - Anställd på trafikförvaltningen häktas misstänkt för mutbrott - SVT Nyheter
-- Uppgifter: Skolanställd misstänks för flera våldtäkter i Mellansverige - Aftonbladet
-- Tre döda i lavin i Val d'Isère - Aftonbladet
-- Orbáns rival hävdar att han lurats in i honungsfälla - Dagens Nyheter
+- Svantesson: Reformutrymmet är slut - Corren
+- Regeringen ger Trafikverket ett nytt uppdrag om Gotlandstrafiken - Region Gotland
+- DN Direkt – Tre döda i lavinolycka i Val-d'Isère - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Zelenskyj: Tio nya drönarfabriker i år - Dagens Nyheter
-- Attacker mot Kiev i natt - GP
+- Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
+- Orbáns rival hävdar att han lurats in i honungsfälla - Dagens Nyheter
 - Tekniken med hjärnchip har nått en brytpunkt – enligt skaparen - Dagens PS
-- Affärsvärlden behåller sitt neutrala råd för Paradox - Affärsvärlden
-- Råvaran som stigit 500 procent på 2,5 år – inte den du tror - Dagens PS
-- Äldre driver sysselsättningstillväxten - Svenskt Näringsliv
+- Var femte byggföretag hade brister vid kontroller - Byggahus.se
+- Guldet studsar upp: ”Kommer på sikt att fortsätta stiga” - Omni
+- Inflationen i USA prickar förväntningarna - DI
 - Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
 - Vi vädrar hemmaseger i skidskytte-sprinten! - Travcash
 
@@ -39,28 +39,27 @@ _Updated: 2026-02-13 17:09_
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Avlyssningsskandalen växer - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
-- Orbis International Welcomes Ann Wang as Chief of Staff (PR Newswire) - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
-- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -69,6 +68,7 @@ _Updated: 2026-02-13 17:09_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -99,12 +99,12 @@ _Updated: 2026-02-13 17:09_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
@@ -142,13 +142,12 @@ _Updated: 2026-02-13 17:09_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
@@ -156,9 +155,10 @@ _Updated: 2026-02-13 17:09_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
