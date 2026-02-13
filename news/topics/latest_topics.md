@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 09:33_
+_Updated: 2026-02-13 10:04_
 
 ## Top Stories
 
+- Slapp nedskärningspolitik tvingar äldre att handla mat på nätet - Arbetet
 - Bangladesh: BNP utropar sig till valvinnare - Västerbottens-Kuriren
 - Genomför storslakt på SVT: ”River av plåstret” - SvD
 - Kritik mot Trumps klimatbeslut: ”Historisk attack” - GP
 - ”Han hade ju lovat att alla skulle bli rika, bara vi följde hans råd” - Dagens Nyheter
-- Fler unga väljer kondomen - Sveriges Radio
 - Ryssland har inte knäckt motståndsviljan: ”Inte lärt sig av historien” - Omni
 - Ovanligt väderfenomen: Två Vänern har försvunnit - Dagens Nyheter
+- 13 februari 07.55, Sammanfattning natt, Östergötlands län - Polisen.se
 - Beslutet: Kommunen öppnar upp för frivilliga volontärer i skolan - Corren
 - Jonatan Unge hörd i rätten – kallade högeraktivist nazistpyssling - Dagens Nyheter
-- Ebba Busch rasar mot dyra planer för elnätet - GP
-- Stormen Nils slår mot Sydeuropa – flera skadade - GP
+- Tekniska problem för TV4 Nyheterna - Expressen
+- Joachim Posener gripen i Norrtälje - Expressen
 - Sverige ger pengar till Ukrainas vapenköp - Västerbottens-Kuriren
-- UD avråder från resor till Kuba - SVT Nyheter
 - Rekordår för e-handeln – bättre än under pandemin - SvD
 - Microsoft-chef: AI ska ta över många kontorsjobb - Omni
-- Ökning av antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
+- Ny rapport: Allt färre upphandlingar överprövas - Dagens Juridik
 - Arbetsgivarna sågar regeringens förslag om jämställda löner - Arbetsvärlden
 - Svenska Jessica Meir på väg mot rymden – igen - Dagens Nyheter
+- Gävleborna om fetmasprutorna: ”Är stolt över mitt beslut” - Gefle Dagblad
 - LG G5: Ljusstark oled-tv i toppklass – perfekt för spel - m3.se
-- Kraftledningar ökar Sveaskogs kostnader - ATL
 
 ## World News
 
@@ -58,8 +58,8 @@ _Updated: 2026-02-13 09:33_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Albanien utser AI-bot till minister - Computer Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -77,9 +77,9 @@ _Updated: 2026-02-13 09:33_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2026-02-13 09:33_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Lediga jobb - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Lediga jobb - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
