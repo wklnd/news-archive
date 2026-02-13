@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 13:54_
+_Updated: 2026-02-13 15:42_
 
 ## Top Stories
 
-- Migrationsverket om utvisning av bebis: Följer lagen - Dagens Nyheter
+- Gahr Støre: Möjligt att köpa sig inflytande - GP
 - Region Blekinge i stabsläge – efter korruptionsanklagelser mot toppchefer - SVT Nyheter
+- Fyra åtalas för att ha förföljt minister - Västerbottens-Kuriren
 - Malmökvinna häktad för systematiskt våld mot sambo - Sydsvenskan
-- DN Direkt – Domstol: Fel att förbjuda Palestine Action - Dagens Nyheter
-- Säkerhetskonferensen i München – ett år efter utskällningen - SVT Nyheter
 - Sex dödade i ryska attacker i natt - GP
+- Terrorstämpling av Palestinagrupp underkänns - Aftonbladet
+- Gängkriminalitet föreslås bli nytt brott - GP
 - Kvinna döms till tre års fängelse för Mick Jagger-bluffen - SVT Nyheter
-- Lägsta antalet slaktade nötdjur sedan 2013 - Västerbottens-Kuriren
-- Gamla måste handla på internet - 8 Sidor
-- SMHI utökar snövarning - GP
-- Sverige ger pengar till Ukrainas vapenköp - Västerbottens-Kuriren
-- Många döda i stormar i Portugal – tusentals evakuerade - Expressen
-- UD avråder från resor till Kuba - Expressen
+- Dags att röra på fläsket – regeringen lanserar Rörelseåret 2026 - News55
+- Regeringen ger Trafikverket ett nytt uppdrag om Gotlandstrafiken - Region Gotland
+- Stormar slår mot Sydeuropa – 16 döda - SvD
+- Orbáns rival hävdar att han lurats in i honungsfälla - Dagens Nyheter
+- Strömlöst på Hisingsbron – kaos i spårvagnstrafiken - Expressen
 - USA:s gränschef: ICE-insats i Minnesota avvecklas - Aftonbladet
-- Rekordår för e-handeln – bättre än under pandemin - SvD
-- Europeiska byggjättar tog hem megakontrakt på Ostlänken - DI
-- EU-regler kan gynna kinesiska bilföretag - SvD
+- Din bostadskarriär är inte så fantastisk som du tror - Affärsvärlden
 - Tekniken med hjärnchip har nått en brytpunkt – enligt skaparen - Dagens PS
-- Årets TV-apparater är snart här, så det är perfekt tid att köpa en modell från 2025 — här är mina fyra toppval som TV-expert - TechRadar
-- Gävleborna om fetmasprutorna: ”Är stolt över mitt beslut” - Gefle Dagblad
+- Äldre driver sysselsättningstillväxten - Svenskt Näringsliv
+- Affärsvärlden behåller sitt neutrala råd för Paradox - Affärsvärlden
+- Den här roboten kan vika din tvätt. För 4000 kronor i månaden. - feber.se
+- Nu finns det en officiell Youtube-app för Apple Vision Pro - Macworld.se
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -39,18 +39,17 @@ _Updated: 2026-02-13 13:54_
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Netel tecknar serviceavtal med Global Connect i Norge - Affärsvärlden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Avlyssningsskandalen växer - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 
 ## Technology
 
-- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
@@ -60,11 +59,12 @@ _Updated: 2026-02-13 13:54_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
@@ -80,11 +80,11 @@ _Updated: 2026-02-13 13:54_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Swindled millions found 15 years later - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -101,15 +101,15 @@ _Updated: 2026-02-13 13:54_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -144,21 +144,21 @@ _Updated: 2026-02-13 13:54_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
