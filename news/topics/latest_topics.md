@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 15:42_
+_Updated: 2026-02-13 17:09_
 
 ## Top Stories
 
-- Gahr Støre: Möjligt att köpa sig inflytande - GP
-- Region Blekinge i stabsläge – efter korruptionsanklagelser mot toppchefer - SVT Nyheter
-- Fyra åtalas för att ha förföljt minister - Västerbottens-Kuriren
+- Bebis ska utvisas till Iran – Johan Forssell (M): ”Orimligt” - SVT Nyheter
+- Därför utvisas tonåringarna - Dagens Nyheter
 - Malmökvinna häktad för systematiskt våld mot sambo - Sydsvenskan
-- Sex dödade i ryska attacker i natt - GP
-- Terrorstämpling av Palestinagrupp underkänns - Aftonbladet
-- Gängkriminalitet föreslås bli nytt brott - GP
-- Kvinna döms till tre års fängelse för Mick Jagger-bluffen - SVT Nyheter
-- Dags att röra på fläsket – regeringen lanserar Rörelseåret 2026 - News55
+- Försvunna flickan i Falkenberg hittad - SVT Nyheter
+- Anders spelade bort 4,7 miljoner – vinner mot speljätten - Aftonbladet
+- Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
 - Regeringen ger Trafikverket ett nytt uppdrag om Gotlandstrafiken - Region Gotland
-- Stormar slår mot Sydeuropa – 16 döda - SvD
+- Dags att röra på fläsket – regeringen lanserar Rörelseåret 2026 - News55
+- Anställd på trafikförvaltningen häktas misstänkt för mutbrott - SVT Nyheter
+- Uppgifter: Skolanställd misstänks för flera våldtäkter i Mellansverige - Aftonbladet
+- Tre döda i lavin i Val d'Isère - Aftonbladet
 - Orbáns rival hävdar att han lurats in i honungsfälla - Dagens Nyheter
-- Strömlöst på Hisingsbron – kaos i spårvagnstrafiken - Expressen
-- USA:s gränschef: ICE-insats i Minnesota avvecklas - Aftonbladet
-- Din bostadskarriär är inte så fantastisk som du tror - Affärsvärlden
+- Direkt – Kriget i Ukraina – Zelenskyj: Tio nya drönarfabriker i år - Dagens Nyheter
+- Attacker mot Kiev i natt - GP
 - Tekniken med hjärnchip har nått en brytpunkt – enligt skaparen - Dagens PS
-- Äldre driver sysselsättningstillväxten - Svenskt Näringsliv
 - Affärsvärlden behåller sitt neutrala råd för Paradox - Affärsvärlden
-- Den här roboten kan vika din tvätt. För 4000 kronor i månaden. - feber.se
-- Nu finns det en officiell Youtube-app för Apple Vision Pro - Macworld.se
+- Råvaran som stigit 500 procent på 2,5 år – inte den du tror - Dagens PS
+- Äldre driver sysselsättningstillväxten - Svenskt Näringsliv
+- Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
+- Vi vädrar hemmaseger i skidskytte-sprinten! - Travcash
 
 ## World News
 
@@ -39,27 +39,28 @@ _Updated: 2026-02-13 15:42_
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Avlyssningsskandalen växer - Journalisten
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
+- Orbis International Welcomes Ann Wang as Chief of Staff (PR Newswire) - Aktiellt
 
 ## Technology
 
+- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -68,7 +69,6 @@ _Updated: 2026-02-13 15:42_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -80,11 +80,11 @@ _Updated: 2026-02-13 15:42_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
-- Swindled millions found 15 years later - Sveriges Radio
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -99,12 +99,12 @@ _Updated: 2026-02-13 15:42_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
