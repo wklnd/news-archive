@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 12:08_
+_Updated: 2026-02-13 13:08_
 
 ## Top Stories
 
+- Kvinna skickade pengar till ”Mick Jagger” – döms till tre års fängelse - Aftonbladet
+- Kristersson: Relationen med USA har fått sig en smäll – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
+- Region Blekinge i stabsläge – efter korruptionsanklagelser mot toppchefer - SVT Nyheter
 - Migrationsverket om utvisning av bebis: Följer lagen - Dagens Nyheter
-- Svantesson: Reformutrymmet är nästan slut – Senaste nytt om valet 2026 - SVT Nyheter
-- Slapp nedskärningspolitik tvingar äldre att handla mat på nätet - Arbetet
-- Region Blekinge i stabsläge – efter allvarliga anklagelser mot toppchefer - SVT Nyheter
-- Person hittad död – en anhållen - GP
-- Person hittad död i Uppsala - SVT Nyheter
-- Fler i Europa ser antisemitism som ett problem - GP
-- LEDARE: "Kan vi ge vatten på ”de ondas” kvarn borde vi nog tänka om" - Helagotland
-- Lägsta antalet slaktade nötdjur sedan 2013 - Aftonbladet
-- SMHI utökar snövarning - GP
-- Stormar slår mot Sydeuropa – 16 döda - SvD
-- Sigrid Melchior: Läxan från solpanelerna – den här gången ska EU göra rätt - Dagens Nyheter
-- Attacker mot Kiev i natt - GP
+- Malmökvinna häktad för systematiskt våld mot sambo - Sydsvenskan
+- Sex dödade i ryska attacker i natt - GP
+- Beskedet: Frisk nog för fängelse - Expressen
+- Lägsta antalet slaktade nötdjur sedan 2013 - GP
+- Lägenhetsbråk – man misstänks för misshandel - Ekuriren
+- 13 februari 07.55, Sammanfattning natt, Östergötlands län - Polisen.se
 - Sverige ger pengar till Ukrainas vapenköp - Västerbottens-Kuriren
-- Fler pausar pensionen hos KPA - Finanswatch.se
-- Ny rapport: Allt färre upphandlingar överprövas - Dagens Juridik
-- Alla hjärtans dag: Så här håller du buketten fin - Skillingaryd
+- Minst 16 döda i stormar i Portugal – tusentals evakuerade - Expressen
+- UD avråder från resor till Kuba - Expressen
+- USA:s gränschef: ICE-insats i Minnesota avvecklas - Aftonbladet
+- Rekordår för e-handeln – bättre än under pandemin - SvD
+- Europeiska byggjättar tog hem megakontrakt på Ostlänken - DI
+- EU-regler kan gynna kinesiska bilföretag - SvD
+- Uppsving för svenskarnas klädshoppande - DI
 - Gävleborna om fetmasprutorna: ”Är stolt över mitt beslut” - Gefle Dagblad
-- Voigtländer Septon 40 mm f/2 är kompakt och lätt – för Nikon Z och Sony E - Fotosidan
-- LG G5: Ljusstark oled-tv i toppklass – perfekt för spel - m3.se
+- Årets TV-apparater är snart här, så det är perfekt tid att köpa en modell från 2025 — här är mina fyra toppval som TV-expert - TechRadar
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
-- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Netel tecknar serviceavtal med Global Connect i Norge - Affärsvärlden
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Avlyssningsskandalen växer - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -101,11 +101,11 @@ _Updated: 2026-02-13 12:08_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
