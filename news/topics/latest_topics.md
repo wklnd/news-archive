@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 20:03_
+_Updated: 2026-02-13 21:24_
 
 ## Top Stories
 
 - Bebis ska utvisas till Iran – Johan Forssell (M): ”Orimligt” - SVT Nyheter
-- DN Direkt – Dubbeldäckare i krock i Linköping - Dagens Nyheter
-- Här är bluffvargen som lurar skåningarna - Sydsvenskan
-- Toppdiplomaten Lisa Svensson utreddes av UD - Expressen
-- Flicka i 10-årsåldern försvunnen i Falkenberg - GP
+- Elnaz Baghlanian: Iraniernas kamp fortsätter lika desperat, men Västvärldens blick ser den inte längre - Dagens Nyheter
+- Buss och två personbilar i trafikolycka på E4 - SVT Nyheter
 - Sex dödade i ryska attacker i natt - GP
-- EXTREMKYLA: Kalla temperaturer väntar under helgen: ”Är ovanligt” - NWT
-- Svantesson: Reformutrymmet är slut - Corren
+- von der Leyen sätter juni-deadline – kan öppna för EU i olika takt - Europaportalen
+- Uppgifter: Rektor misstänks för flera våldtäkter - Aftonbladet
+- Sumokyla i Sverige – nu väntas rekord - Expressen
 - Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
-- Tyska snöovädret på väg in över Skåne - Sydsvenskan
-- Terrorstämpling av Palestinagrupp underkänns - SVT Nyheter
+- Försvunna flickan i Falkenberg hittad - Expressen
+- Juha Marttila, 56, döms – ströp ihjäl Annelie i Grythyttan - Expressen
+- Ukrainsk parlamentariker: ”Vi håller inga val utan säkerhetsgarantier” - Dagens Nyheter
+- USA skickar världens största hangarfartyg till Mellanöstern - SVT Nyheter
 - DN Direkt – Tre döda i lavinolycka i Val-d'Isère - Dagens Nyheter
-- Merz vill ta fram gemensamt kärnvapenskydd - DI
-- Oro efter Trumps klimatutspel: ”Stora risker” - Västerbottens-Kuriren
-- Din bostadskarriär är inte så fantastisk som du tror - Affärsvärlden
-- Små rörelser väntas på Wall Street efter inflationsdata - DI
+- Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
 - Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
-- Det ska bli stopp för osund konkurrens - regeringen går vidare med nya regler - Svenskt Näringsliv
-- Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
-- Så spåras du av Tiktok utan att använda appen – så skyddar du dig - Aftonbladet
+- Remiss av promemorian Teknisk översyn av mervärdesskattereglerna vid gränsöverskridande handel - Regeringen.se
+- Solen skiner över Tokyobörsen – nu viktar banken upp - Privata Affärer
+- 152 nya ansökningar till Bergsstaten – Kalmar och koppar toppar listan - Evertiq
+- Utvisningar och elpriser - SvD
+- Marvel Tokon: Fighting Souls har fått ett släppdatum. Och Järven. - feber.se
 
 ## World News
 
@@ -53,21 +53,21 @@ _Updated: 2026-02-13 20:03_
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -86,6 +86,7 @@ _Updated: 2026-02-13 20:03_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -110,54 +111,54 @@ _Updated: 2026-02-13 20:03_
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Upp till försvar för forskningen - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
