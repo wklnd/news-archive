@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 08:35_
+_Updated: 2026-02-13 09:33_
 
 ## Top Stories
 
-- Jordskredsseger för BNP i valet i Bangladesh - Omni
-- SVT-doldis håller i yxan: ”Nu river vi av plåstret” - SvD
-- Spelbolag fälls – ska betala tillbaka 4,7 miljoner - SVT Nyheter
+- Bangladesh: BNP utropar sig till valvinnare - Västerbottens-Kuriren
+- Genomför storslakt på SVT: ”River av plåstret” - SvD
+- Kritik mot Trumps klimatbeslut: ”Historisk attack” - GP
 - ”Han hade ju lovat att alla skulle bli rika, bara vi följde hans råd” - Dagens Nyheter
-- Epsteinfilerna: Bondi anklagas för att mörka makthavare - Dagens Nyheter
-- Influencern Pontus Rasmusson döms till fängelse för grovt bokföringsbrott - SVT Nyheter
+- Fler unga väljer kondomen - Sveriges Radio
+- Ryssland har inte knäckt motståndsviljan: ”Inte lärt sig av historien” - Omni
 - Ovanligt väderfenomen: Två Vänern har försvunnit - Dagens Nyheter
-- LEDARE: "Kan vi ge vatten på ”de ondas” kvarn borde vi nog tänka om" - Helagotland
 - Beslutet: Kommunen öppnar upp för frivilliga volontärer i skolan - Corren
 - Jonatan Unge hörd i rätten – kallade högeraktivist nazistpyssling - Dagens Nyheter
-- Stormen Nils slår mot Sydeuropa - Aftonbladet
-- Kritik mot Trumps klimatbeslut: ”Historisk attack” - Dagens Nyheter
-- Attacker mot Kiev i natt - GP
+- Ebba Busch rasar mot dyra planer för elnätet - GP
+- Stormen Nils slår mot Sydeuropa – flera skadade - GP
+- Sverige ger pengar till Ukrainas vapenköp - Västerbottens-Kuriren
 - UD avråder från resor till Kuba - SVT Nyheter
 - Rekordår för e-handeln – bättre än under pandemin - SvD
+- Microsoft-chef: AI ska ta över många kontorsjobb - Omni
 - Ökning av antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
 - Arbetsgivarna sågar regeringens förslag om jämställda löner - Arbetsvärlden
-- Missen som får elnotan att rusa i decennier – "Säljer ut vår billiga el till Danmark" - Tidningen Näringslivet
 - Svenska Jessica Meir på väg mot rymden – igen - Dagens Nyheter
-- En AI-värld där snö och människor är helt vita - Aftonbladet
+- LG G5: Ljusstark oled-tv i toppklass – perfekt för spel - m3.se
+- Kraftledningar ökar Sveaskogs kostnader - ATL
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
+- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Ukraine war latest: Mark Rutte says NATO meeting with defence ministers 'unlike any other' - Sky News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- ebp Global acquires Sustaina Company - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
-- Global Immigration Expo 2026: Ett internationellt migrationsevenemang för vietnameser. - Vietnam.vn
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - SvD
-- Cameron – smittad av skandalen - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Avlyssningsskandalen växer - Journalisten
-- Tabloiddrottningens sista smaskiga story - SvD
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -59,15 +59,15 @@ _Updated: 2026-02-13 08:35_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -77,9 +77,9 @@ _Updated: 2026-02-13 08:35_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -128,16 +128,16 @@ _Updated: 2026-02-13 08:35_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
@@ -158,7 +158,7 @@ _Updated: 2026-02-13 08:35_
 - Lediga jobb - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
