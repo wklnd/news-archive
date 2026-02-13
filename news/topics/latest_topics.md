@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 13:08_
+_Updated: 2026-02-13 13:54_
 
 ## Top Stories
 
-- Kvinna skickade pengar till ”Mick Jagger” – döms till tre års fängelse - Aftonbladet
-- Kristersson: Relationen med USA har fått sig en smäll – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
-- Region Blekinge i stabsläge – efter korruptionsanklagelser mot toppchefer - SVT Nyheter
 - Migrationsverket om utvisning av bebis: Följer lagen - Dagens Nyheter
+- Region Blekinge i stabsläge – efter korruptionsanklagelser mot toppchefer - SVT Nyheter
 - Malmökvinna häktad för systematiskt våld mot sambo - Sydsvenskan
+- DN Direkt – Domstol: Fel att förbjuda Palestine Action - Dagens Nyheter
+- Säkerhetskonferensen i München – ett år efter utskällningen - SVT Nyheter
 - Sex dödade i ryska attacker i natt - GP
-- Beskedet: Frisk nog för fängelse - Expressen
-- Lägsta antalet slaktade nötdjur sedan 2013 - GP
-- Lägenhetsbråk – man misstänks för misshandel - Ekuriren
-- 13 februari 07.55, Sammanfattning natt, Östergötlands län - Polisen.se
+- Kvinna döms till tre års fängelse för Mick Jagger-bluffen - SVT Nyheter
+- Lägsta antalet slaktade nötdjur sedan 2013 - Västerbottens-Kuriren
+- Gamla måste handla på internet - 8 Sidor
+- SMHI utökar snövarning - GP
 - Sverige ger pengar till Ukrainas vapenköp - Västerbottens-Kuriren
-- Minst 16 döda i stormar i Portugal – tusentals evakuerade - Expressen
+- Många döda i stormar i Portugal – tusentals evakuerade - Expressen
 - UD avråder från resor till Kuba - Expressen
 - USA:s gränschef: ICE-insats i Minnesota avvecklas - Aftonbladet
 - Rekordår för e-handeln – bättre än under pandemin - SvD
 - Europeiska byggjättar tog hem megakontrakt på Ostlänken - DI
 - EU-regler kan gynna kinesiska bilföretag - SvD
-- Uppsving för svenskarnas klädshoppande - DI
-- Gävleborna om fetmasprutorna: ”Är stolt över mitt beslut” - Gefle Dagblad
+- Tekniken med hjärnchip har nått en brytpunkt – enligt skaparen - Dagens PS
 - Årets TV-apparater är snart här, så det är perfekt tid att köpa en modell från 2025 — här är mina fyra toppval som TV-expert - TechRadar
+- Gävleborna om fetmasprutorna: ”Är stolt över mitt beslut” - Gefle Dagblad
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -42,7 +43,6 @@ _Updated: 2026-02-13 13:08_
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Netel tecknar serviceavtal med Global Connect i Norge - Affärsvärlden
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Avlyssningsskandalen växer - Journalisten
@@ -77,9 +77,9 @@ _Updated: 2026-02-13 13:08_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- MrBeast Finalizes Acquisition of Step Banking App to Drive Global Financial Literacy - FinanceFeeds
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2026-02-13 13:08_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
