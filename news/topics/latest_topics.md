@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 19:23_
+_Updated: 2026-02-13 20:03_
 
 ## Top Stories
 
 - Bebis ska utvisas till Iran – Johan Forssell (M): ”Orimligt” - SVT Nyheter
-- Svantesson larmar: Pengarna för nya reformer redan slut - GP
-- Tioårig flicka försvunnen i Falkenberg - Hallands Nyheter
-- Toppdiplomaten Lisa Svensson utreddes av UD - Expressen
+- DN Direkt – Dubbeldäckare i krock i Linköping - Dagens Nyheter
 - Här är bluffvargen som lurar skåningarna - Sydsvenskan
-- DN Direkt – Katja Nyberg: Jag har inte tagit kokain - Dagens Nyheter
+- Toppdiplomaten Lisa Svensson utreddes av UD - Expressen
+- Flicka i 10-årsåldern försvunnen i Falkenberg - GP
+- Sex dödade i ryska attacker i natt - GP
+- EXTREMKYLA: Kalla temperaturer väntar under helgen: ”Är ovanligt” - NWT
+- Svantesson: Reformutrymmet är slut - Corren
 - Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
 - Tyska snöovädret på väg in över Skåne - Sydsvenskan
 - Terrorstämpling av Palestinagrupp underkänns - SVT Nyheter
 - DN Direkt – Tre döda i lavinolycka i Val-d'Isère - Dagens Nyheter
 - Merz vill ta fram gemensamt kärnvapenskydd - DI
 - Oro efter Trumps klimatutspel: ”Stora risker” - Västerbottens-Kuriren
+- Din bostadskarriär är inte så fantastisk som du tror - Affärsvärlden
 - Små rörelser väntas på Wall Street efter inflationsdata - DI
 - Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
 - Det ska bli stopp för osund konkurrens - regeringen går vidare med nya regler - Svenskt Näringsliv
-- Remiss av promemorian Teknisk översyn av mervärdesskattereglerna vid gränsöverskridande handel - Regeringen.se
 - Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
 - Så spåras du av Tiktok utan att använda appen – så skyddar du dig - Aftonbladet
-- Vi vädrar hemmaseger i skidskytte-sprinten! - Travcash
-- Undersökning: Fler än hälften undviker AI i telefonen - Teknikveckan
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-02-13 19:23_
 - ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Avlyssningsskandalen växer - Journalisten
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -56,18 +56,18 @@ _Updated: 2026-02-13 19:23_
 - Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -86,7 +86,6 @@ _Updated: 2026-02-13 19:23_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -142,23 +141,23 @@ _Updated: 2026-02-13 19:23_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
