@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-13 01:59_
+_Updated: 2026-02-13 05:33_
 
-- Trump repeals U.S. government’s power to regulate climate - The Washington Post
-- Intelligence Dispute Centers on Kushner Reference in Intercepted Communication - The New York Times
-- Unpersuaded by Netanyahu, Trump insists on going ‘jaw-to-jaw’ with Iran and Hamas - The Times of Israel
-- Bangladesh election: Polls close in first vote since Gen Z protests ousted former PM Sheikh Hasina - BBC
-- Senate Republicans rally behind USMCA even as Trump’s support wavers - Politico
-- Nancy Guthrie disappearance: Investigators find a set of gloves along road as search enters 12th day - Fox News
-- Partial government shutdown looms as Congress leaves town without a deal - The Washington Post
+- Border czar says Minnesota immigration crackdown is over, after angry protests and 2 fatal shootings - AP News
+- The Epstein Files and the Hidden World of an Unaccountable Elite - The New York Times
+- Israel accuses two of using military secrets to place Polymarket bets - NPR
+- Troops are mocking Air Force gate guards over a new rule: 'You sound like a Walmart greeter' - Business Insider
 - Trump orders Pentagon to buy electricity from coal plants - Axios
+- Federal judge orders return of Venezuelan migrants deported to El Salvador under Alien Enemies Act - NPR
+- US federal immigration officer charged with harboring undocumented person - The Guardian
 - Judge Ends Deportation Case for Mexican Father of 3 U.S. Marines - The New York Times
-- Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba - CNBC
-- Gisèle Pelicot’s first televised interview: 5 takeaways from the woman who launched a rallying cry against sex abuse - CNN
-- The despicable truth about the ‘pro-Palestinian’ protests against Herzog in Australia - The Times of Israel
-- A new era of realism for Japan - Financial Times
-- Spirit Airlines sells more planes, calls back 500 flight attendants from furlough ahead of spring break - CNBC
-- "He Sounds Nervous": American Airlines CEO Robert Isom Responds To Union Revolt—Here's His Turnaround Plan - View from the Wing
-- Presidents' Day sales 2026: The best tech deals to shop this week from Apple, Sony, Samsung and others - Engadget
-- Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day - CNBC
-- Chrome for Android rolling out pinned tabs - 9to5Google
-- YouTube launches native app for Apple Vision Pro - 9to5Mac
-- Monster Hunter Stories 3 Preview: Me and My Pet Rathalos - IGN
+- Laser weapon that shut down El Paso's skies was LOCUST system - Axios
+- New York leaders, defying Trump, rehang Stonewall Inn Pride flag in chaotic scene - The Washington Post
+- Europe’s Leaders Gather At Munich Summit, Reeling From Trump’s Criticism - The New York Times
+- Russian air attack knocks out power, heat to thousands of Ukrainians - Yahoo News UK
+- Bangladesh elections: Khaleda Zia's BNP heads for big win, Jamaat lags - Times of India
+- NATO allies say Hegseth "missing a good party" as they meet, adjust to slimmed down U.S. role under Trump - CBS News
+- Asian Stocks to Drop as AI Jitters Hit Wall Street: Markets Wrap - Bloomberg.com
+- When Amazon badly needed a ride, Europe’s Ariane 6 rocket delivered - Ars Technica
+- Trump’s campaign against ‘left-wing’ media finds a new target: Apple News - The Washington Post
+- Rivian was saved by software in 2025 - TechCrunch
+- Sony WF-1000XM6 Earbuds Review: A Cut Above - CNET
+- Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals - Engadget
