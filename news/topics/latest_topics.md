@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-13 07:09_
+_Updated: 2026-02-13 08:35_
 
 ## Top Stories
 
-- Epsteinfilerna: Bondi anklagas för att mörka makthavare - Dagens Nyheter
-- Bangladesh: BNP utropar sig till valvinnare - Västerbottens-Kuriren
-- Trumps ”gyllene kupol” kan leda till kapprustning - Omni
-- Japan beslagtar kinesisk fiskebåt - Västerbottens-Kuriren
-- Stormar har dödligt grepp om Portugal – minst 16 offer - SVT Nyheter
+- Jordskredsseger för BNP i valet i Bangladesh - Omni
+- SVT-doldis håller i yxan: ”Nu river vi av plåstret” - SvD
+- Spelbolag fälls – ska betala tillbaka 4,7 miljoner - SVT Nyheter
 - ”Han hade ju lovat att alla skulle bli rika, bara vi följde hans råd” - Dagens Nyheter
+- Epsteinfilerna: Bondi anklagas för att mörka makthavare - Dagens Nyheter
+- Influencern Pontus Rasmusson döms till fängelse för grovt bokföringsbrott - SVT Nyheter
+- Ovanligt väderfenomen: Två Vänern har försvunnit - Dagens Nyheter
+- LEDARE: "Kan vi ge vatten på ”de ondas” kvarn borde vi nog tänka om" - Helagotland
 - Beslutet: Kommunen öppnar upp för frivilliga volontärer i skolan - Corren
-- Ebba Busch rasar mot dyra planer för elnätet - GP
-- 12 februari 13.24, Trafikkontroll, Jämtlands län - Polisen.se
-- Här finns hjälpen för klimakteriebesvär – experterna svarar på frågor - SVT Nyheter
+- Jonatan Unge hörd i rätten – kallade högeraktivist nazistpyssling - Dagens Nyheter
 - Stormen Nils slår mot Sydeuropa - Aftonbladet
-- Dottern Kim Ju-Ae pekas ut som diktatorns efterträdare - Dagens Nyheter
-- Uppgifter: Husrannsakan hos fd statsminister Jagland - SVT Nyheter
+- Kritik mot Trumps klimatbeslut: ”Historisk attack” - Dagens Nyheter
 - Attacker mot Kiev i natt - GP
+- UD avråder från resor till Kuba - SVT Nyheter
+- Rekordår för e-handeln – bättre än under pandemin - SvD
+- Ökning av antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
 - Arbetsgivarna sågar regeringens förslag om jämställda löner - Arbetsvärlden
 - Missen som får elnotan att rusa i decennier – "Säljer ut vår billiga el till Danmark" - Tidningen Näringslivet
-- Ökning av antalet upphandlingar med miljökrav - Upphandlingsmyndigheten
-- Rapportras för Verisure – trots analytikergissningar - DI
 - Svenska Jessica Meir på väg mot rymden – igen - Dagens Nyheter
-- Kraftledningar ökar Sveaskogs kostnader - ATL
+- En AI-värld där snö och människor är helt vita - Aftonbladet
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
-- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- ebp Global acquires Sustaina Company - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Avlyssningsskandalen växer - Journalisten
-- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Global Immigration Expo 2026: Ett internationellt migrationsevenemang för vietnameser. - Vietnam.vn
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
+- Cameron – smittad av skandalen - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Avlyssningsskandalen växer - Journalisten
+- Tabloiddrottningens sista smaskiga story - SvD
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -81,7 +81,6 @@ _Updated: 2026-02-13 07:09_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -91,8 +90,9 @@ _Updated: 2026-02-13 07:09_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -101,10 +101,11 @@ _Updated: 2026-02-13 07:09_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Hälsa och teknik - Chalmers
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2026-02-13 07:09_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,42 +123,42 @@ _Updated: 2026-02-13 07:09_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Lediga jobb - ATL
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
