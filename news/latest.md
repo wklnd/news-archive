@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-14 00:03_
+_Updated: 2026-02-14 01:04_
 
-- Conspiracy Theories Only Flourish With More Epstein Evidence - The New York Times
-- Justice Department Sues Harvard University for Withholding Race-Related Admissions Documents - Department of Justice (.gov)
-- Trump promised RFK Jr. would ‘restore faith in American health care.’ A year in, trust has plummeted - CNN
-- A Pilot Fired Over Kristi Noem’s Missing Blanket and the Constant Chaos Inside DHS - The Wall Street Journal
-- Meet the YOLO Republicans: Lawmakers with nothing to lose are threatening Trump’s grip on Congress - Politico
-- Pride flag reinstated at Stonewall after it was removed by Trump administration - The Guardian
-- Feds investigating whether 2 ICE officers lied about the shooting of a Venezuelan man in Minneapolis - AP News
+- DOJ drops charges against 2 men accused of assaulting ICE officers in Minneapolis, citing new evidence "inconsistent" with complaint - CBS News
+- World's rules-based order 'no longer exists', Germany's Merz warns - BBC
 - ICE plans to spend $38.3 billion turning warehouses into detention centers - The Washington Post
+- The Epstein Files and the Hidden World of an Unaccountable Elite - The New York Times
+- A familiar move with a new twist: Trump tries to cut CDC funds he just signed into law - NPR
+- Kennedy Allies Target States to Overturn Vaccine Mandates for Schoolchildren - The New York Times
 - Au Pair Juliana Peres Magalhães Sentenced to 10 Years in Banfield Double Murder Case - The New York Times
 - S.F. teachers strike is over as school district and union reach tentative agreement - San Francisco Chronicle
-- UK Ban on Palestine Action Is Unlawful, Court Finds - The New York Times
+- Meet the YOLO Republicans: Lawmakers with nothing to lose are threatening Trump’s grip on Congress - Politico
+- Trump administration deported some migrants at a cost of $1 million each, Democratic report says - CNN
 - Spy agency says Kim Jong Un’s daughter is close to being designated North Korea’s future leader - AP News
+- Ocasio-Cortez, Rubio to offer dueling visions of world order in Munich - The Washington Post
 - Former McKinsey partner to lead Australian opposition party - Financial Times
-- Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba - CNBC
-- Valentine’s Day sticker shock: Chocolate prices are spiking - CNN
+- Scientists have discovered one of elephants’ most sensitive secrets - The Washington Post
+- S&P 500 closes little changed after soft inflation report, index notches losing week: Live updates - CNBC
+- Wendy’s will continue closing hundreds of stores through mid-2026 - CNN
 - OpenAI retired its most seductive chatbot – leaving users angry and grieving: ‘I can’t live like this’ - The Guardian
-- Bessent Pushes Senate on Fed Confirmation Amid Backlash Over Criminal Inquiry - The New York Times
-- 5 Best Artificial Intelligence Stocks to Buy in February - The Motley Fool
-- Exclusive: First official look at Samsung's 'Wide' Galaxy Z Fold - Android Authority
+- How packaging and logistics companies are automating their warehouses - CNBC
 - Google is now rolling out Android 17 Beta 1 for Pixel [U] - 9to5Google
+- Here's the first glimpse of a One UI 9.0 Galaxy AI feature! - SamMobile
