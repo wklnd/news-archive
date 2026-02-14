@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 01:53_
+_Updated: 2026-02-14 05:13_
 
 ## Top Stories
 
+- Nu planeras nya vägsträckor söder om Växjö: ”Det är en snackis på bygden” - Smålandsposten
 - DN Direkt – Katja Nyberg: Jag har inte tagit kokain - Dagens Nyheter
 - Explosion i Eskilstuna - SVT Nyheter
-- Brottsutredning inleds mot två ICE-agenter - Västerbottens-Kuriren
-- Rubio skippade Ukrainamöte i sista sekund: ”Galet” - Omni
-- Insändare. Migrationsverkets etiska råd måste visa var det står - Dagens Nyheter
 - Experten sågar Trumps skrotning av klimatarbetet - GP
+- Åttaårig pojke har dödats i ryskt anfall i natt - Omni
+- Sumokyla i Sverige – nu väntas rekord - Expressen
 - SMHI: Det kommer mer oväder - Ystads Allehanda
 - Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
-- Juha Marttila, 56, döms – ströp ihjäl Annelie i Grythyttan - Expressen
 - EU vill beslagta el-miljarder – svenskarna dubbelförlorare - Affärsvärlden
-- Pål Jonson: Sverige deltar fullt ut i Natos kärnvapenavskräckning - Dagens Nyheter
-- Grönländska toppolitikerns varning: ”Fortfarande allvarlig situation” - Dagens Nyheter
-- Stormar slår mot Sydeuropa – 16 döda - SvD
+- Försvunna flickan i Falkenberg hittad - Expressen
+- Larm om explosion i Eskilstuna - Expressen
+- Bangladesh: BNP utropar sig till valvinnare - GP
 - Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
 - Välj rätt köpare – erbjöd 10 000 mindre för guldet - SvD
-- Kvinna gav pengar till ”Mick Jagger” - får fängelse - Västerbottens-Kuriren
 - Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
-- Remiss av promemorian Teknisk översyn av mervärdesskattereglerna vid gränsöverskridande handel - Regeringen.se
-- Liten kamera inuti filmrulle. Jadu... varför inte? - feber.se
+- Kommunens krisdrag mot elpriserna – utreder eget elstöd - Aftonbladet
+- EU säger ja – men stoppar begränsning av UE-led - Entreprenad
 - Undersökning: Fler än hälften undviker AI i telefonen - Teknikveckan
+- Liten kamera inuti filmrulle. Jadu... varför inte? - feber.se
+- En ny titt på Obsession. Var försiktig med vad du önskar. - feber.se
 
 ## World News
 
@@ -39,19 +39,20 @@ _Updated: 2026-02-14 01:53_
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- ebp Global acquires Sustaina Company - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Avlyssningsskandalen växer - Journalisten
 
 ## Technology
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -60,14 +61,13 @@ _Updated: 2026-02-14 01:53_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - 200 Milliarden Euro für die Förderung von AI-Gigafactorys und AI-bezogene Projekte in Europa - Xpert.Digital - Konrad Wolfenstein
 
@@ -79,16 +79,17 @@ _Updated: 2026-02-14 01:53_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Swindled millions found 15 years later - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -108,12 +109,12 @@ _Updated: 2026-02-14 01:53_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -140,23 +141,23 @@ _Updated: 2026-02-14 01:53_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - ATL
-- Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
