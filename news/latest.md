@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-14 21:03_
+_Updated: 2026-02-14 21:52_
 
-- Russia killed opposition leader Alexei Navalny using toxin from dart frog, UK says - BBC
 - Inside the Debacle That Led to the Closure of El Paso’s Airspace - The New York Times - The New York Times
+- New careers, relocations and medical problems: How ex-federal workers’ lives have been upended since DOGE - CNN
 - Courts have ruled 4,400 times that ICE jailed people illegally. It hasn’t stopped. - Reuters
 - Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say - NPR
+- Why The SAVE America Act Could Create New Obstacles For Millions Of Voters - Forbes
 - Trump officials condemned Don Lemon. He’s bigger than ever after arrest. - The Washington Post
-- US launches airstrikes on dozens of Islamic State targets in Syria - The Guardian
-- Trump Erased the Endangerment Finding. Here Come the Lawsuits. - The New York Times
 - Tahoe snowstorm could make travel ‘impossible,’ officials warn - San Francisco Chronicle
-- ‘Tax the Rich’ Rally Is Expected to Draw a Big Crowd. But Not Mamdani. - The New York Times - The New York Times
-- Don’t forget: All post office locations to close, mail won’t be delivered - MLive.com
+- The plot twist shaking Los Angeles - Politico
+- Saturday's threat of severe weather increases for Houston, Weather Impact Alert issued - KHOU
+- ICE Tried to Justify a Minneapolis Shooting. Its Story Unraveled. - The New York Times
+- Can Bangladesh's new leader bring change after election landslide? - BBC
 - After a 2-decade ban, kites fill Lahore's skies during a Pakistani springtime festival - NPR
-- Iran’s crown prince says survival of Tehran government ‘sends a clear signal to every bully’ - AP News
-- Live: Russians suffering 'crazy losses' in Ukraine, NATO chief Rutte tells Munich conference - France 24
 - Sydney police to be investigated by watchdog after anti-Herzog protest violence - BBC
-- Prestige cracks: BMW, Benz, Audi slash prices as China’s luxury market turns local - CarNewsChina.com
+- What's next for Cuba? Trump turns the screws as the island runs out of jet fuel - CNBC
+- Presidents' Day sales 2026: The best tech deals to shop this weekend from Apple, Sony, Anker and others - Engadget
 - The Goldilocks economy, if you don't look too close - Axios
-- 40 Epics Sales to Shop This President’s Day Weekend - Gear Patrol
-- Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu. - MarketWatch
+- ‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations - The Guardian
+- Pennsylvania jury finds Johnson & Johnson liable for cancer in latest talc trial - Reuters
+- What it’s like to go on a date with an AI in NYC - CNN
 - Full Pixel 10a specs leak with new Gorilla Glass – how it compares to Pixel 9a - 9to5Google
-- Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals to shop this weekend - Engadget
