@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 21:00_
+_Updated: 2026-02-14 21:46_
 
 ## Top Stories
 
-- Sahlgrenskas ordförande bestört över hur patienter behandlas - GP
-- Orbán: EU – inte Ryssland – är det stora hotet - GP
 - Rekryteringsfilm ska ge CIA fler spioner - SvD
-- Forssell: Tonåringarna ska få slutföra gymnasiet - SVT Nyheter
-- Städaren Jonathans lön för låg – nu utvisas hela familjen: ”Gör ont att prata om det” - Arbetet
+- Pahlavi: Redo leda övergången mot demokrati - Aftonbladet
 - Direkt – Kriget i Ukraina – Kvinna dödad i attack mot Odessa - Dagens Nyheter
-- Därför tar politikerna på sig flanellskjortan - Västerbottens-Kuriren
+- Hyllade Trump och Orbán – nu har SD svängt: ”Motsatsen till nationalism” - Sydsvenskan
+- Curling: Kanada anklagar Lag Edin och SVT för konspiration - SVT Nyheter
+- Svantesson larmar: Pengarna för nya reformer redan slut - GP
 - Polisen lämnade – då försökte mannen tända eld på sambon - Dagens Nyheter
-- Fullt utvecklad brand på Bergsgatan – boende evakuerade - GP
-- Så mycket kostade Johannes: ”Värsta stormen i mannaminne” - Ljusdals-Posten
+- Forssell: Tonåringarna ska få slutföra gymnasiet - SVT Nyheter
+- Efter massiva uppståndelsen – Ece höll tal i Karlstad: ”Glad och ledsen” - NWT
+- Efter dödsfallet i Slottsskogens säldamm: ”De andra sälarna verkar må bra” - GP
+- DN Direkt – Orbán: EU – inte Ryssland – är det stora hotet - Dagens Nyheter
+- ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
+- DN Direkt – Frederiksen: Grönlandskrisen är inte över - Dagens Nyheter
 - DN Direkt – En död i villabrand i Sala - Dagens Nyheter
-- Kommande möten: 16 februari – 1 mars 2026 - consilium.europa.eu
-- Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
+- ”Sverige borde ha ett Gripen för rymden” - SvD
+- AI-klipp sprids på Gisslén: ”Det är förskräckligt” - Omni
 - Stora förändringar i Gmail – detta måste användarna ha koll på - e55.se
 - Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
-- Rymdinvesteringar slår rekord: Stort intresse - Omni
 - Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
 - Spektakulär syn: Se Vintergatans tvilling på natthimlen - Illustrerad Vetenskap
-- Stern lanserar Pokémon-flipper. Mycket vackert! Men varför tog det 30 år? - feber.se
-- Nu går det att fynda PlayStation Plus-abonnemang - Teknikveckan
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-02-14 21:00_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- ebp Global acquires Sustaina Company - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
-- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -77,7 +77,6 @@ _Updated: 2026-02-14 21:00_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -89,6 +88,7 @@ _Updated: 2026-02-14 21:00_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
@@ -118,22 +118,22 @@ _Updated: 2026-02-14 21:00_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- AI-drivna artikelfabriker - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
