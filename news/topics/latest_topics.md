@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 06:55_
+_Updated: 2026-02-14 08:05_
 
 ## Top Stories
 
+- Brand i flerfamiljshus i Trollhättan – flera evakuerades - SVT Nyheter
+- Vittne: De hade en plan för att säga upp Helgeson - GP
+- Linda Snecker: Jag är champagnevänster - Dagens Nyheter
 - DN Direkt – Katja Nyberg: Jag har inte tagit kokain - Dagens Nyheter
-- Ryssland: Två döda i robotattack - Västerbottens-Kuriren
-- Åttaårig pojke har dödats i ryskt anfall i natt - Omni
 - Utökad möjlighet till skyddsjakt på vildsvin - Aftonbladet
 - Sumokyla i Sverige – nu väntas rekord - Expressen
-- Kurspressat småbolag tar plats i portföljen - Privata Affärer
-- Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
 - EU vill beslagta el-miljarder – svenskarna dubbelförlorare - Affärsvärlden
-- Försvunna flickan i Falkenberg hittad - Expressen
-- Emanuel Karlsten Är detta slutet för Pontus Rasmussons inflytande? - GP
+- Region Blekinges vidtar åtgärder på grund av särskild händelse - Region Blekinge
+- De förföljde Carl-Oskar Bohlin i Gamla stan – åtalas: ”Blängde på oss” - Expressen
+- FBI släpper nya uppgifter om misstänkte kidnapparen - Dagens Nyheter
+- "Bistånd ska inte vara fattigvård!" - Global Bar Magazine
 - Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
 - Kommande möten: 16 februari – 1 mars 2026 - consilium.europa.eu
-- Larm om totalt kaos – Trumps ”mystiska stöd” till Kristi Noem - Aftonbladet
 - Varning: Så fungerar AI-bedragarnas nya iskalla metoder - Expressen
-- Välj rätt köpare – erbjöd 10 000 mindre för guldet - SvD
 - Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
 - EU säger ja – men stoppar begränsning av UE-led - Entreprenad
+- Kommunens krisdrag mot elpriserna – utreder eget elstöd - Aftonbladet
 - Undersökning: Fler än hälften undviker AI i telefonen - Teknikveckan
-- Liten kamera inuti filmrulle. Jadu... varför inte? - feber.se
 - Hyllade spelstudion Tarsier släpper nytt skräckspel - Dagens Nyheter
+- Nya “Terminator”-serien läggs ner efter bara en säsong - MovieZine.se
 
 ## World News
 
@@ -55,14 +55,14 @@ _Updated: 2026-02-14 06:55_
 - Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Albanien utser AI-bot till minister - Computer Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -100,6 +100,7 @@ _Updated: 2026-02-14 06:55_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -114,7 +115,6 @@ _Updated: 2026-02-14 06:55_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -142,22 +142,22 @@ _Updated: 2026-02-14 06:55_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lediga jobb - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
