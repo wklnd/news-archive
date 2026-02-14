@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 09:10_
+_Updated: 2026-02-14 09:54_
 
 ## Top Stories
 
-- Brand i flerfamiljshus i Trollhättan – flera evakuerades - SVT Nyheter
 - Vittne: De hade en plan för att säga upp Helgeson - GP
+- Brand i flerfamiljshus i Trollhättan – flera evakuerades - SVT Nyheter
 - Linda Snecker: Jag är champagnevänster - Dagens Nyheter
 - Robert, 58, har bott i Sverige halva livet – utvisas efter en miss - Sydsvenskan
+- DN Direkt – Vita husets Grönlandsskämt på alla hjärtans dag - Dagens Nyheter
 - Är vi tillräckligt många för att försvara Sverige? - GP
-- Kim Jong-Un väntas befästa dotter som efterträdare - SvD
+- I NATT: Ovanlig fredagskväll för polisen i Värmland: ”Mycket att göra och många ärenden” - NWT
 - Utökad möjlighet till skyddsjakt på vildsvin - NWT
-- Två häktade för muthärvan i Region Stockholm - Dagens Nyheter
-- Vilma Andersson har ingen allvarlig psykisk störning - Aftonbladet
+- Två personer häktas i muthärvan - SvD
 - EU vill beslagta el-miljarder – svenskarna dubbelförlorare - Affärsvärlden
-- FBI släpper nya uppgifter om misstänkte kidnapparen - Dagens Nyheter
-- Sex dödade i ryska attacker i natt - Corren
-- Nedstängning av departement – inte enade om ICE - GP
-- DN Direkt – 17 politiska fångar släppta i Venezuela - Dagens Nyheter
+- Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
+- Brottsutredning inleds mot två ICE-agenter - Västerbottens-Kuriren
+- Kommande möten: 16 februari – 1 mars 2026 - consilium.europa.eu
 - Luftslottet: 99,4 procent av intäkterna är falska - SvD
 - Varning: Så fungerar AI-bedragarnas nya iskalla metoder - Expressen
-- Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
-- Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
+- Bagaren Susanne Hamberg om den perfekta semlan: ”Det måste inte vara krångligare än så” - Lokalpressen
+- Kommunens krisdrag mot elpriserna – utreder eget elstöd - Aftonbladet
 - Steam-beta låter användare visa sina datorspecifikationer - PC för Alla
+- Shimano släpper ny värstingrulle för finessfiske. Vanquish CE är en haspelrulle i begränsad upplaga. - feber.se
 - Undersökning: Fler än hälften undviker AI i telefonen - Teknikveckan
 
 ## World News
@@ -94,49 +94,49 @@ _Updated: 2026-02-14 09:10_
 
 ## Health
 
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- AI-drivna artikelfabriker - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Upp till försvar för forskningen - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -148,15 +148,15 @@ _Updated: 2026-02-14 09:10_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - ATL
 - Lediga jobb - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
