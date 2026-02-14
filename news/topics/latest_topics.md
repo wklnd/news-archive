@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 15:59_
+_Updated: 2026-02-14 16:53_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Kvinna dödad i attack mot Odessa - Dagens Nyheter
-- Det räcker inte att beundra ukrainarna - SvD
-- Experter: Navalnyj dog med sällsynt gift i kroppen - SVT Nyheter
+- Forssell: Tonåringarna ska få slutföra gymnasiet - SVT Nyheter
+- Ishockey: Filip Forsberg in i laget – Jesper Bratt petas – Liverapportering: OS-hockeyn i Milano och Cortina 2026 - SVT Nyheter
+- Zelenskyj: Enighet är bästa avvärjningen - Västerbottens-Kuriren
+- Starmer vill ha självständigt Europa - Corren
 - Kraftig brand i flerfamiljshus i Trollhättan - Expressen
-- Kylan vägrar släppa – nytt isdygn nära - Aftonbladet
-- Gängmedlemskap kan straffas med fängelse - Omni
-- Utökad möjlighet till skyddsjakt på vildsvin - NWT
-- Två personer anhållna efter explosion i trapphus - Ekuriren
-- DN Direkt – SD-kandidaten pudlar efter Ryssland-uttalande - Dagens Nyheter
-- DN Direkt – Museets Qatarresa strider mot etiska regler - Dagens Nyheter
-- Starmer vill ha självständigt Europa - Västerbottens-Kuriren
-- Kritik mot Trumps klimatbeslut: ”Historisk attack” - Västerbottens-Kuriren
+- Vintersport: Ebba Andersson tröstas efter tunga sträckan – OS i Milano och Cortina 2026 - SVT Nyheter
+- Storbritannien skickar styrka till Grönland - Expressen
+- Fågelinfluensa bekräftad hos död säl i Göteborg - tidningensyre.se
+- DN Direkt – Bilkrock i Huskvarna – förare försökte fly från polis - Dagens Nyheter
+- En död efter kraftig brand - Sala Allehanda
+- Fyra stormar på raken – Portugal fruktar 100-årsflod - Aftonbladet
 - Anders optimerade värmesystemet: ”Elbolaget ska fan inte få en månad till” - Dagens Nyheter
 - Arvids bror var spelberoende: ”Hjälpen räcker inte” - SvD
 - BESLUT FRÅN KONKURRENSVERKET: Avtal om drift av hamnterminal som Göteborgs Hamn ingick var otillåten direktupphandling - dagensinfrastruktur -
 - Stora förändringar i Gmail – detta måste användarna ha koll på - e55.se
+- Nu går det att fynda PlayStation Plus-abonnemang - Teknikveckan
+- Marathon ska betatestas ordentligt snart. Testa Bungies nya extraction-skjutare den 26 februari. - feber.se
 - Efter förra fiaskot: ”Charlies änglar” kommer tillbaka i ny långfilm - MovieZine.se
-- Apple tar bort referenser till Iwork från sin webbplats - Macworld.se
-- Yamahas exklusiva Dolby Atmos-soundbar hade en tydlig svaghet – och den fick mig att uppskatta en ofta bortglömd del av hemmabio-upplevelsen - TechRadar
-- Alec Steele besöker svenskt stålverk. Alec fortsätter sin resa genom Sverige. - feber.se
+- Cambridge Audio L/R bekänner färg med tre aktiva modeller - Cambridge Audio blir färgglada med nya aktiva - ljudochbild.se
+- Gustav Lindh om nya filmen: ”En apokalyptisk västern av bibliska dimensioner” - Dagens Nyheter
 
 ## World News
 
