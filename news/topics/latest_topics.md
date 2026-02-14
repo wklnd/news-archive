@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 23:48_
+_Updated: 2026-02-15 00:51_
 
 ## Top Stories
 
+- Jonathan Jeppsson: Något med kylan stämmer inte – men vad? - Aftonbladet
+- Brand på lastfartyg utanför Gotska Sandön - SVT Nyheter
+- USA i hett möte med Danmark: ”Vinnaren får Grönland” - GP
 - Sahlgrenskas ordförande bestört över hur patienter behandlas - GP
-- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
-- Städaren Jonathans lön för låg – nu utvisas hela familjen: ”Gör ont att prata om det” - Arbetet
-- Hyllade Trump och Orbán – nu har SD svängt: ”Motsatsen till nationalism” - Sydsvenskan
-- Svantesson larmar: Pengarna för nya reformer redan slut - GP
-- Polisen lämnade – då försökte mannen tända eld på sambon - Dagens Nyheter
+- DN Direkt – Kvarts miljon demonstrerade mot regimen i Iran - Dagens Nyheter
+- Migrationsministern: Tonårsutvisningarna stoppas inte – i nutid - GP
 - Efter massiva uppståndelsen – Ece höll tal i Karlstad: ”Glad och ledsen” - NWT
 - Efter dödsfallet i Slottsskogens säldamm: ”De andra sälarna verkar må bra” - GP
 - Bedragarna kommer hem till dig: Polisen varnar äldre - News55
+- Katja Nyberg: Har inte tagit kokain - Västerbottens-Kuriren
+- Grodgiftet dödade Navalnyj: ”Stimulerar nikotinreceptorer” - Dagens Nyheter
 - ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
+- DN Direkt – Fem till sjukhus efter trafikolycka i Skara - Dagens Nyheter
 - Viktigast i veckan: EU söker snabbare reformvägar – USA pressar Ukraina - Europaportalen
-- Fyra stormar på raken – Portugal fruktar 100-årsflod - Aftonbladet
-- Danmark och USA i nytt möte om Grönland - Aftonbladet
 - Saabchefen: Vi måste våga följa Musk - SvD
+- Sportlovsrea i fjällen – trots snö och kyla - SvD
 - Så mycket kostade Johannes: ”Värsta stormen i mannaminne” - Hudiksvalls Tidning
 - AI-klipp sprids på Gisslén: ”Det är förskräckligt” - Omni
-- Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
-- Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
+- Stora upptäckten: Haft fel om Jupiter – i över 50 år - Expressen
 - Spektakulär syn: Se Vintergatans tvilling på natthimlen - Illustrerad Vetenskap
-- Nu går det att fynda PlayStation Plus-abonnemang - Teknikveckan
 
 ## World News
 
-- Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Annons: Spiltan Globalfond Investmentbolag – global exponering med smart strategi och låg avgift - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- New Secretary General appointed - Olof Palme International Center
+- St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
 
 ## Technology
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -77,6 +77,7 @@ _Updated: 2026-02-14 23:48_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -88,7 +89,6 @@ _Updated: 2026-02-14 23:48_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
@@ -98,8 +98,8 @@ _Updated: 2026-02-14 23:48_
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers
+- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
@@ -118,7 +118,6 @@ _Updated: 2026-02-14 23:48_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -131,11 +130,12 @@ _Updated: 2026-02-14 23:48_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
