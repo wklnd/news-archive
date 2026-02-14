@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-14 01:58_
+_Updated: 2026-02-14 05:16_
 
-- World's rules-based order 'no longer exists', Germany's Merz warns - BBC
 - ICE plans to spend $38.3 billion turning warehouses into detention centers - The Washington Post
 - As Diplomats Talk, Pentagon Prepares for Possible War With Iran - The New York Times
-- Trump: ‘There will be Voter I.D. for the Midterm Elections, whether approved by Congress or not!’ - Democracy Docket
-- A familiar move with a new twist: Trump tries to cut CDC funds he just signed into law - NPR
-- Kennedy Allies Target States to Overturn Vaccine Mandates for Schoolchildren - The New York Times
-- Feds open a perjury probe into ICE officers' testimony about the shooting of a Venezuelan man - AP News
-- Au Pair Juliana Peres Magalhães Sentenced to 10 Years in Banfield Double Murder Case - The New York Times
+- Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts - The New York Times
+- Gateway gets $30M in frozen funds, with more to come - Politico
+- World's rules-based order 'no longer exists', Germany's Merz warns - BBC
+- Pentagon used Anthropic's Claude during Maduro raid - Axios
 - S.F. teachers strike is over as school district and union reach tentative agreement - San Francisco Chronicle
-- Meet the YOLO Republicans: Lawmakers with nothing to lose are threatening Trump’s grip on Congress - Politico
-- Much of Cuba Goes Dark as Trump Chokes Oil Supply - Bloomberg.com
-- Spy agency says Kim Jong Un’s daughter is close to being designated North Korea’s future leader - AP News
+- Republicans worry shutdown will overshadow Trump’s State of the Union - Politico
+- Children flee bus stop after ICE agents spotted in Lindenwold, New Jersey, school district says - ABC7 Los Angeles
+- U.N. Condemns U.S. Measures Halting Oil Deliveries to Cuba - The New York Times
+- Macron urges world to ‘take cue’ from Europe, not criticise it - France 24
 - Former McKinsey partner to lead Australian opposition party - Financial Times
 - Scientists have discovered one of elephants’ most sensitive secrets - The Washington Post
-- Valentine’s Day sticker shock: Chocolate prices are spiking - CNN
-- How packaging and logistics companies are automating their warehouses - CNBC
-- OpenAI retired its most seductive chatbot – leaving users angry and grieving: ‘I can’t live like this’ - The Guardian
-- Bessent Pushes Senate on Fed Confirmation Amid Backlash Over Criminal Inquiry - The New York Times
-- Exclusive: First official look at Samsung's 'Wide' Galaxy Z Fold - Android Authority
+- Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu. - MarketWatch
+- ‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations - The Guardian
+- Presidents' Day sales 2026: The best tech deals to shop this week from Apple, Sony, Samsung and others - Engadget
 - There’s a tiny digital camera inside these retro 35mm film rolls - The Verge
+- Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold - 9to5Google
+- Counterpoint: The foldable smartphone market to open a new chapter in 2026 - GSMArena.com news - GSMArena.com
+- The first Android 17 beta is now available on Pixel devices - Ars Technica
