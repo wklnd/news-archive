@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 22:51_
+_Updated: 2026-02-14 23:48_
 
 ## Top Stories
 
-- Medina går direkt till finalen i Melodifestivalen - Dagens Nyheter
-- Två personer gripna för misstänkt mordförsök i Umeå - SVT Nyheter
 - Sahlgrenskas ordförande bestört över hur patienter behandlas - GP
-- Fem till sjukhus efter att bil kört in i träd i Skara - SVT Nyheter
+- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
 - Städaren Jonathans lön för låg – nu utvisas hela familjen: ”Gör ont att prata om det” - Arbetet
 - Hyllade Trump och Orbán – nu har SD svängt: ”Motsatsen till nationalism” - Sydsvenskan
-- Därför tar politikerna på sig flanellskjortan - Västerbottens-Kuriren
+- Svantesson larmar: Pengarna för nya reformer redan slut - GP
 - Polisen lämnade – då försökte mannen tända eld på sambon - Dagens Nyheter
-- Forssell: Tonåringarna ska få slutföra gymnasiet - SVT Nyheter
 - Efter massiva uppståndelsen – Ece höll tal i Karlstad: ”Glad och ledsen” - NWT
-- Uppgifter: Norsk forskare testade hemligt vapen – på sig själv - GP
+- Efter dödsfallet i Slottsskogens säldamm: ”De andra sälarna verkar må bra” - GP
+- Bedragarna kommer hem till dig: Polisen varnar äldre - News55
 - ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
 - Viktigast i veckan: EU söker snabbare reformvägar – USA pressar Ukraina - Europaportalen
-- DN Direkt – En död i villabrand i Sala - Dagens Nyheter
+- Fyra stormar på raken – Portugal fruktar 100-årsflod - Aftonbladet
+- Danmark och USA i nytt möte om Grönland - Aftonbladet
 - Saabchefen: Vi måste våga följa Musk - SvD
 - Så mycket kostade Johannes: ”Värsta stormen i mannaminne” - Hudiksvalls Tidning
 - AI-klipp sprids på Gisslén: ”Det är förskräckligt” - Omni
-- Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
+- Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
 - Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
-- Marathon ska betatestas ordentligt snart. Testa Bungies nya extraction-skjutare den 26 februari. - feber.se
+- Spektakulär syn: Se Vintergatans tvilling på natthimlen - Illustrerad Vetenskap
+- Nu går det att fynda PlayStation Plus-abonnemang - Teknikveckan
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2026-02-14 22:51_
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -88,6 +88,7 @@ _Updated: 2026-02-14 22:51_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
@@ -95,46 +96,46 @@ _Updated: 2026-02-14 22:51_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- AI-drivna artikelfabriker - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
