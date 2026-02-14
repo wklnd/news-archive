@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 19:50_
+_Updated: 2026-02-14 21:00_
 
 ## Top Stories
 
-- Fem till sjukhus efter att bil kört in i träd i Skara - SVT Nyheter
-- München: Stor demonstration mot Irans regering - Västerbottens-Kuriren
+- Sahlgrenskas ordförande bestört över hur patienter behandlas - GP
 - Orbán: EU – inte Ryssland – är det stora hotet - GP
 - Rekryteringsfilm ska ge CIA fler spioner - SvD
-- DN Direkt – Zelenskyj: Putin kommer aldrig sluta tänka på krig - Dagens Nyheter
+- Forssell: Tonåringarna ska få slutföra gymnasiet - SVT Nyheter
+- Städaren Jonathans lön för låg – nu utvisas hela familjen: ”Gör ont att prata om det” - Arbetet
 - Direkt – Kriget i Ukraina – Kvinna dödad i attack mot Odessa - Dagens Nyheter
+- Därför tar politikerna på sig flanellskjortan - Västerbottens-Kuriren
 - Polisen lämnade – då försökte mannen tända eld på sambon - Dagens Nyheter
-- Fullt utvecklad brand i villa - SVT Nyheter
+- Fullt utvecklad brand på Bergsgatan – boende evakuerade - GP
 - Så mycket kostade Johannes: ”Värsta stormen i mannaminne” - Ljusdals-Posten
-- DEBATT: Vi står inför ett avgörande vägval för Dalälven - UNT
-- Viktigast i veckan: EU söker snabbare reformvägar – USA pressar Ukraina - Europaportalen
 - DN Direkt – En död i villabrand i Sala - Dagens Nyheter
-- Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
 - Kommande möten: 16 februari – 1 mars 2026 - consilium.europa.eu
+- Ny lagstiftning för stärkt konkurrens i privat och offentlig verksamhet - Regeringen.se
 - Stora förändringar i Gmail – detta måste användarna ha koll på - e55.se
+- Rättvisa arbetsvillkor fortfarande det vanligaste kravet i upphandlingar - Upphandlingsmyndigheten
 - Rymdinvesteringar slår rekord: Stort intresse - Omni
+- Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
 - Spektakulär syn: Se Vintergatans tvilling på natthimlen - Illustrerad Vetenskap
-- 5 ostiga ögonblick vi minns i "Resident Evil"-serien - MovieZine.se
 - Stern lanserar Pokémon-flipper. Mycket vackert! Men varför tog det 30 år? - feber.se
 - Nu går det att fynda PlayStation Plus-abonnemang - Teknikveckan
 
