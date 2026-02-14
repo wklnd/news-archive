@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-14 15:26_
+_Updated: 2026-02-14 15:59_
 
 ## Top Stories
 
 - Direkt – Kriget i Ukraina – Kvinna dödad i attack mot Odessa - Dagens Nyheter
-- Forssell: Tonåringarna ska få slutföra gymnasiet - SVT Nyheter
-- Giorgia Meloni – Europas nästa ”drottning”? - SvD
-- Två kvinnor misstänks ha misshandlat man i 80-årsåldern i Stockholm - Expressen
-- Starmer vill ha självständigt Europa - Corren
-- Tusentals exiliranier från hela världen i München - TV4 Nyheterna
+- Det räcker inte att beundra ukrainarna - SvD
+- Experter: Navalnyj dog med sällsynt gift i kroppen - SVT Nyheter
+- Kraftig brand i flerfamiljshus i Trollhättan - Expressen
+- Kylan vägrar släppa – nytt isdygn nära - Aftonbladet
+- Gängmedlemskap kan straffas med fängelse - Omni
 - Utökad möjlighet till skyddsjakt på vildsvin - NWT
 - Två personer anhållna efter explosion i trapphus - Ekuriren
-- Kirunabor, avkräv ett tydligt och nedskrivet avtal - NSD
-- Nya bevis: Navalnyj dödades av grodgift - Västerbottens-Kuriren
 - DN Direkt – SD-kandidaten pudlar efter Ryssland-uttalande - Dagens Nyheter
-- Museets Qatarresa strider mot etiska regler - Folkbladet
-- Oro efter Trumps klimatutspel: ”Stora risker” - GP
+- DN Direkt – Museets Qatarresa strider mot etiska regler - Dagens Nyheter
+- Starmer vill ha självständigt Europa - Västerbottens-Kuriren
+- Kritik mot Trumps klimatbeslut: ”Historisk attack” - Västerbottens-Kuriren
 - Anders optimerade värmesystemet: ”Elbolaget ska fan inte få en månad till” - Dagens Nyheter
-- Saab hoppas på en helt ny exportmarknad - SvD
+- Arvids bror var spelberoende: ”Hjälpen räcker inte” - SvD
 - BESLUT FRÅN KONKURRENSVERKET: Avtal om drift av hamnterminal som Göteborgs Hamn ingick var otillåten direktupphandling - dagensinfrastruktur -
 - Stora förändringar i Gmail – detta måste användarna ha koll på - e55.se
 - Efter förra fiaskot: ”Charlies änglar” kommer tillbaka i ny långfilm - MovieZine.se
-- Cambridge Audio L/R bekänner färg med tre aktiva modeller - Cambridge Audio blir färgglada med nya aktiva - ljudochbild.se
 - Apple tar bort referenser till Iwork från sin webbplats - Macworld.se
+- Yamahas exklusiva Dolby Atmos-soundbar hade en tydlig svaghet – och den fick mig att uppskatta en ofta bortglömd del av hemmabio-upplevelsen - TechRadar
+- Alec Steele besöker svenskt stålverk. Alec fortsätter sin resa genom Sverige. - feber.se
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
+- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
@@ -36,27 +36,27 @@ _Updated: 2026-02-14 15:26_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- ebp Global acquires Sustaina Company - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hagleitner Hygiene International - World first in hygiene: Touch-free wet wipe dispensing machine - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - St. Thomas University Launches STU Global and Expands Online Offerings (PR Newswire) - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -119,14 +119,12 @@ _Updated: 2026-02-14 15:26_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -136,26 +134,28 @@ _Updated: 2026-02-14 15:26_
 - Upp till försvar för forskningen - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Lediga jobb - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Lediga jobb - Land Lantbruk
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
