@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 23:49_
+_Updated: 2026-02-16 00:52_
 
 ## Top Stories
 
-- En person till sjukhus efter bil kört in i parkerade bilar i Malmö - SVT Nyheter
-- Försvunna kvinnan hittad död - Aftonbladet
+- Smitningsolycka i Malmö – en till sjukhus - Aftonbladet
 - Toppdemokrater: Snart över – Trump borta om tre år - Dagens Nyheter
+- Vittnesmålen från Iran: Alla som är ute dödas - Expressen
 - DN Direkt – Man begärd häktad för misstänkt våldtäkt - Dagens Nyheter
-- Kievs borgmästare: På katastrofens rand - DI
-- Märtha, 94, mördades av sin 92-åriga sambo - Aftonbladet
+- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
+- Katten Larry firar 15 år på Downing Street - Omni
 - Kyla i Göteborg – men risk för regn nästa helg - GP
-- Övning för massevakuering av civila i krig - SVT Nyheter
 - Många svenskar är sjuka – stor ökning väntar - Marcus Oscarsson
 - S-ledaren om åtstramningen: Inte gått för långt – Senaste nytt om valet 2026 - SVT Nyheter
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
+- Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
+- Omkring 1 600 byggnader utan värme i Kiev - Aftonbladet
+- Klytjko: Kiev på katastrofens rand - SVT Nyheter
 - DN Direkt – Lastfartyg hindras från att driva på grund vid Gotska sandön - Dagens Nyheter
+- Kraftig brand i ladugård utanför Horred – uppges finnas 400 kor - Mark-Posten
 - Biljättens tvärvändning om elbilar – nu låter det helt annorlunda - Marcus Oscarsson
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
 - Magnus Hjelmér: Så ”Ibiza-säkrar” du barnens pengar - DI
-- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
+- Saabchefen: Vi måste våga följa Musk - SvD
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
-- Apple testar vikbar iPhone i flipformat - Teknikveckan
-- Apple: Så många använder Ios 26 - mobil.se
-- Trådlöst från Barco - tidningenmonitor.se
+- Samsung visar upp ny premiumteknik för OLED-skärmar – men kommer ”tandem OLED” verkligen göra så stor skillnad? - TechRadar
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-02-15 23:49_
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -93,20 +93,20 @@ _Updated: 2026-02-15 23:49_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa och teknik - Chalmers
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -145,14 +145,14 @@ _Updated: 2026-02-15 23:49_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lediga jobb - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
