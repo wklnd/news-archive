@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 11:55_
+_Updated: 2026-02-15 12:54_
 
 ## Top Stories
 
-- Minst nio döda i drönarattacker i Gaza - GP
+- Urspårning på Malmbanan – stopp i tågtrafiken - SVT Nyheter
+- Fri efter 24 år – nu vill Cristina tillbaka till Sverige - GP
 - Lundbybadet anmäldes för diskriminering – badvärdarna om utmaningarna - GP
-- Prästen som möter de fängslade svenskarna i utlandet - GP
+- Frystorkad ost och blåbär – så smakar nya snacksen från Ukraina - Sydsvenskan
 - Minister: Iran redo att kompromissa för att nå ett kärnenergiavtal - SVT Nyheter
-- I NATT: Våldsam kvinna, möbelbrand och kniv på restaurang – nattens händelser i Värmland - NWT
-- Leif GW Persson: Bättre att jobba svart – än inte alls - GP
+- Direkt – Krisen i Mellanöstern – Källor: USA och Israel eniga om Irans oljeexport - Dagens Nyheter
 - Övning för massevakuering av civila i krig - SVT Nyheter
 - Rysk-ortodoxa kyrkan som kommunen vill stänga - Dagens Nyheter
 - KRÖNIKA: Öresundstågen visar vad digital inkompetens kostar - Sydsvenskan
-- I sommar kommer de tyngst belastade barnen - SvD
-- Direkt – Krisen i Mellanöstern – Källor: USA och Israel eniga om Irans oljeexport - Dagens Nyheter
+- I NATT: Tafsande man kastades ut från krog i Linköping - Corren
+- Katten Larry firar 15 år på Downing Street - GP
+- Zelenskyj: Talat med Rubio, Witkoff och Kushner - UNT
+- Kvinna misshandlat man på hotell - Expressen
 - Uppgifter: USA planerar attack mot Iran - GP
-- Slagsmål på parkering i Uppsala - Expressen
 - Syrekvisset februari - tidningensyre.se
-- Australien miljardsatsar på ubåtstillverkning - DI
 - Budskapet: USA är inte förlorat som marknad - SvD
+- Australien miljardsatsar på ubåtstillverkning - DI
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
-- Stora upptäckten: Haft fel om Jupiter – i över 50 år - Expressen
-- Är Samsung på gång med bred vikbar? Är brett fett? - feber.se
-- Marathon ska betatestas ordentligt snart. Testa Bungies nya extraction-skjutare den 26 februari. - feber.se
+- Svenska 10 Chambers genomför nedskärningar. Studio omstrukturerar för att säkerställa Den of Wolves framtid. - feber.se
+- Ligg idag, få GTA VI gratis om nio månader. Bra deal? - feber.se
 
 ## World News
 
@@ -154,7 +154,7 @@ _Updated: 2026-02-15 11:55_
 - Lediga jobb - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
