@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 21:46_
+_Updated: 2026-02-15 22:51_
 
 ## Top Stories
 
-- Försvunna kvinnan hittad död - Aftonbladet
-- Märtha, 94, mördades av sin 92-åriga man - Aftonbladet
+- Avgörande faktorn när man försvarar sig själv - SvD
+- Märtha, 94, mördades av sin 92-åriga sambo - Aftonbladet
+- Kritiken mot Rutte: ”Tror han är Natochef” - SvD
+- DN Direkt – Man begärd häktad för misstänkt våldtäkt - Dagens Nyheter
 - Kievs borgmästare: På katastrofens rand - DI
-- Var vänner för 30 år sedan – nu har Annika och Johan gift sig i Karlatornet - GP
 - Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- DN Direkt – SAS-plan tvingades nödlanda – powerbank överhettad - Dagens Nyheter
-- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
 - Europeisk undersökning om hur narkotika används och köps i Sverige - Örebronyheter
+- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
+- Övning för massevakuering av civila i krig - SVT Nyheter
 - Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
-- Vagnar spårade ur – stopp på Malmbanan - GP
+- Smitningsolycka i Malmö – en till sjukhus - Aftonbladet
 - DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
-- Källor: USA och Israel eniga om Irans oljeexport - Västerbottens-Kuriren
-- Ukraina: Exminister gripen vid gränsen - Aftonbladet
+- Källor: USA och Israel eniga om Irans oljeexport - Aftonbladet
 - ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
 - Magnus Hjelmér: Så ”Ibiza-säkrar” du barnens pengar - DI
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
 - Så går det för din bransch - SVT Nyheter
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
-- Apple testar vikbar iPhone i flipformat - Teknikveckan
+- Dröm remakerna som inte blivit av (än) - FZ.se
 
 ## World News
 
 - Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 
 ## Technology
 
@@ -93,24 +93,24 @@ _Updated: 2026-02-15 21:46_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Enheten för radiologi - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
