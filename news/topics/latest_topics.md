@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 15:27_
+_Updated: 2026-02-15 15:59_
 
 ## Top Stories
 
-- Tre personer genom isen vid Norr Mälarstrand - SVT Nyheter
-- Minst nio döda i drönarattacker i Gaza - GP
 - Trendiga brunchstället öppnar i Lund - Sydsvenskan
 - Fri efter 24 år – nu vill Cristina tillbaka till Sverige - GP
-- Ukraina: Exminister gripen vid gränsen - Dagens Nyheter
-- Kallas: Ryssland måste tvingas till eftergifter vid fredsförhandlingarna - Omni
+- Minst nio döda i drönarattacker i Gaza - Västerbottens-Kuriren
+- Kallas: Ryssland måste tvingas till eftergifter - GP
+- Bilder: Mordförsök i Umeå – två män anhållna - Västerbottens-Kuriren
 - Övning för massevakuering av civila i krig - SVT Nyheter
 - Frystorkad ost och blåbär – så smakar nya snacksen från Ukraina - Sydsvenskan
-- Smitning från trafikolycka i Jönköping - Skillingaryd
 - Fluffaktor och fikasnö – bli väderexpert med SMHI:s ordlista - Dagens Nyheter
-- DN Direkt – Katten Larry firar 15 år på Downing Street - Dagens Nyheter
+- Smitning från trafikolycka i Jönköping - Skillingaryd
+- Direkt – Krisen i Mellanöstern – Källor: USA och Israel eniga om Irans oljeexport - Dagens Nyheter
 - Urspårning på Malmbanan – stopp i tågtrafiken - SVT Nyheter
-- Skolanställd begärs häktad för våldtäkt - Expressen
+- Tusentals utan ström på Ekerö - SVT Nyheter
 - Smet från poliskontroll i Huskvarna – krockade med fordon - SVT Nyheter
 - Bankerna stänger konton i rekordfart – här är deras förklaring - Realtid
+- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
 - Syrekvisset februari - tidningensyre.se
 - Satsar 230 miljarder: ”Kommer att hända” - Sundsvalls Tidning
-- Den 1 april träder nya regler i kraft: Dessa svenskar får en unik möjlighet till mer pengar på lönen - Dagens.se
 - Metas smarta glasögon kommer utrustas med ansiktsigenkänning - m3.se
 - Apple testar vikbar iPhone i flipformat - Teknikveckan
+- Svenska 10 Chambers genomför nedskärningar. Studio omstrukturerar för att säkerställa Den of Wolves framtid. - feber.se
 
 ## World News
 
@@ -56,18 +56,18 @@ _Updated: 2026-02-15 15:27_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nästa generations Internet of Things - EU Digital Strategy
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
@@ -79,10 +79,10 @@ _Updated: 2026-02-15 15:27_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -138,13 +138,13 @@ _Updated: 2026-02-15 15:27_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - ATL
@@ -154,7 +154,7 @@ _Updated: 2026-02-15 15:27_
 - Lediga jobb - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
