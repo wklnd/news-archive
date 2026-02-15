@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 05:27_
+_Updated: 2026-02-15 07:08_
 
 ## Top Stories
 
+- Lundbybadet anmäldes för diskriminering – badvärdarna om utmaningarna - GP
 - USA i hett möte med Danmark: ”Vinnaren får Grönland” - GP
-- DN Direkt – Rymdfarare med svensk-amerikanska Meir framme - Dagens Nyheter
+- Källor: USA räknar med utdragen operation i Iran - Omni
+- ”Tonårsutvisningar kan stoppas – med rätt beslut” - SvD
+- Mordförsök i Umeå – två män gripna - Aftonbladet
 - Gängmedlemskap kan straffas med fängelse - Omni
-- Bilder: Mordförsök i Umeå – två män gripna - Västerbottens-Kuriren
-- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
-- Svantesson larmar: Pengarna för nya reformer redan slut - GP
 - Efter massiva uppståndelsen – Ece höll tal i Karlstad: ”Glad och ledsen” - NWT
+- Svenska vargbeståndet kartläggs – SVT följer med på spårning - SVT Nyheter
 - Efter dödsfallet i Slottsskogens säldamm: ”De andra sälarna verkar må bra” - GP
 - Katja Nyberg: Har inte tagit kokain - Västerbottens-Kuriren
-- Städaren Jonathans lön för låg – nu utvisas hela familjen: ”Gör ont att prata om det” - Arbetet
+- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
+- Ukraina: Dödliga attacker på båda sidor - SVT Nyheter
 - ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
-- Brottsutredning inleds mot två ICE-agenter - Aftonbladet
-- Putins stora problem – det ryska lidandet - Expressen
+- Brand på lastfartyg utanför Gotska Sandön - SVT Nyheter
 - Saabchefen: Vi måste våga följa Musk - SvD
-- Allvarligt elbilsfel hos Kia och Hyundai – drabbar var tionde bil - Dagens PS
 - 2,4 ton kokain beslagtaget - Aftonbladet
+- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
 - Så mycket kostade Johannes: ”Värsta stormen i mannaminne” - Hudiksvalls Tidning
 - Stora upptäckten: Haft fel om Jupiter – i över 50 år - Expressen
-- Spektakulär syn: Se Vintergatans tvilling på natthimlen - Illustrerad Vetenskap
-- Metas smarta glasögon kan få ansiktsigenkänning - Computer Sweden
+- Kunde se in i folks hem genom robotdammsugaren - Teknikveckan
 
 ## World News
 
 - Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
+- Annons: Spiltan Globalfond Investmentbolag – global exponering med smart strategi och låg avgift - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
@@ -38,15 +39,14 @@ _Updated: 2026-02-15 05:27_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -54,20 +54,20 @@ _Updated: 2026-02-15 05:27_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
@@ -105,12 +105,12 @@ _Updated: 2026-02-15 05:27_
 - Hälsa och teknik - Chalmers
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
@@ -124,16 +124,16 @@ _Updated: 2026-02-15 05:27_
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Upp till försvar för forskningen - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
