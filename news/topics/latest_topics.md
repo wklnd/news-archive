@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 08:12_
+_Updated: 2026-02-15 09:13_
 
 ## Top Stories
 
-- Rysk-ortodoxa kyrkan som kommunen vill stänga - Dagens Nyheter
+- Övning för massevakuering av civila i krig - SVT Nyheter
 - Lundbybadet anmäldes för diskriminering – badvärdarna om utmaningarna - GP
-- Jonathan Jeppsson: Något med kylan stämmer inte – men vad? - Aftonbladet
-- USA i hett möte med Danmark: ”Vinnaren får Grönland” - GP
+- Trump: Maktskifte i Iran bästa som kan hända - Västerbottens-Kuriren
 - Insändare: Var finns empatin i svensk migrationspolitik? - NWT
-- DN Direkt – Källor: USA:s militär förbereder veckolånga operationer i Iran - Dagens Nyheter
-- Efter massiva uppståndelsen – Ece höll tal i Karlstad: ”Glad och ledsen” - NWT
-- Efter dödsfallet i Slottsskogens säldamm: ”De andra sälarna verkar må bra” - GP
-- Svenska vargbeståndet kartläggs – SVT följer med på spårning - SVT Nyheter
-- Katja Nyberg: Har inte tagit kokain - Västerbottens-Kuriren
-- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
+- Leif GW Persson: Bättre att jobba svart – än inte alls - GP
+- Insändare: Äldreomsorgen och våra politiker - Mariestads-Tidningen
+- Rysk-ortodoxa kyrkan som kommunen vill stänga - Dagens Nyheter
+- KRÖNIKA: Öresundstågen visar vad digital inkompetens kostar - Sydsvenskan
+- Bilder: Mordförsök i Umeå – två män anhållna - Västerbottens-Kuriren
+- 15 februari 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
 - ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
+- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
 - Brand på lastfartyg utanför Gotska Sandön - SVT Nyheter
-- Tre döda i ny attack mot utpekat knarkfartyg - Omni
+- Fyra stormar på raken – Portugal fruktar 100-årsflod - Aftonbladet
 - Saabchefen: Vi måste våga följa Musk - SvD
 - 2,4 ton kokain beslagtaget - Aftonbladet
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
-- Så mycket kostade Johannes: ”Värsta stormen i mannaminne” - Hudiksvalls Tidning
+- AI-klipp sprids på Gisslén: ”Det är förskräckligt” - Omni
 - Stora upptäckten: Haft fel om Jupiter – i över 50 år - Expressen
 - Undviker du AI i telefonen? Dagens fråga. - feber.se
 
@@ -30,23 +30,23 @@ _Updated: 2026-02-15 08:12_
 - Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Enterprise Technology Buying Shifts Toward Real-World Evaluation as Works360 Expands Global Demo Infrastructure - Aktiellt
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- CanSinoBIO at WGS 2026: Accelerating Global Access to Innovative Vaccines (PR Newswire) - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Annons: Spiltan Globalfond Investmentbolag – global exponering med smart strategi och låg avgift - Privata Affärer
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
