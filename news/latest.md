@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-15 13:53_
+_Updated: 2026-02-15 15:32_
 
-- Winter storm warning issued as Tahoe braces for feet of snow - San Francisco Chronicle
+- Trump has chipped away at the long-standing wall between church and state. It’s just the beginning - CNN
+- Teen daughter of Ruben Torres Maldonado, Chicago man detained by immigration agents in Niles, released, dies after cancer battle - ABC7 Chicago
 - How the case against a Venezuelan man who was shot by an ICE agent fell apart - CNN
 - Trump and Netanyahu agree to increase pressure on Iranian oil - Axios
-- DHS has no immediate plans for sweeping city-specific immigration enforcement operations, officials say - NBC News
-- In Munich, Europe Says It Is ‘De-risking’ From the U.S. Amid Trump’s Unpredictability - The New York Times
-- Sen. Mark Kelly's lawyer urges DOJ officials not to seek indictment for a second time over video - NBC News
-- Nancy Guthrie kidnapping investigation draws scrutiny as case drags on - Los Angeles Times
-- Judge Boasberg’s Most Recent Decision - Civil Discourse with Joyce Vance
 - States reliant on Colorado River fail to meet the latest deadline to find consensus - AP News
-- Valentine’s Day heat breaks record in Twin Cities - Star Tribune
+- DHS has no immediate plans for sweeping city-specific immigration enforcement operations, officials say - NBC News
+- Could the puzzling case of slain Nebraska teen Mary Kay Heese be solved after 50 years? - CBS News
+- Judge Boasberg’s Most Recent Decision - Civil Discourse with Joyce Vance
+- Severe storms with damaging winds, hail threaten Valentine's Day plans in TX - MySA
 - Trade or trap? Japan investors bet on Takaichi after landslide - Financial Times
-- Ukraine wants 20-year US security guarantee to sign peace deal - The Guardian
+- Ukraine сonfirms strike on oil terminal in Russia's Krasnodar Krai, hits air defense system in Crimea - The Kyiv Independent
+- Crown prince urges the world to stand with the people of Iran as 250,000 rally in Munich - AP News
 - At least 6,000 killed over 3 days during RSF attack on Sudan’s el-Fasher, U.N. says - NBC News
-- 'Palestine Action ban ruled unlawful' and 'Matt grabs Olympic gold' - BBC
+- Visa's Olympics monopoly highlights Europe's payment headache - Reuters
 - The Surge in Micron Technology Stock Looks Poised to Continue - Zacks Investment Research
-- After DOJ antitrust firing, Trump’s Washington is wide open for mergers - Semafor
-- US debt spiral could start soon as interest rate on borrowing tops GDP growth - Fortune
-- Presidents' Day sales 2026: The best tech deals to shop this weekend from Apple, Sony, Anker and others - Engadget
+- How global cybercrime syndicates are stealing hearts — and billions - Politico
+- The Goldilocks economy, if you don't look too close - Axios
 - ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR
-- Save $100 on Apple Watch Series 11, plus 28 other Apple Presidents Day deals - CNN
+- I found the best Presidents Day TV deals on the latest from Samsung, Sony and more - CNN
+- Samsung Galaxy S26 Ultra Release Date Latest: New Prices And Deals - Forbes
