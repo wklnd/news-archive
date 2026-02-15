@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 09:56_
+_Updated: 2026-02-15 10:58_
 
 ## Top Stories
 
-- Övning för massevakuering av civila i krig - SVT Nyheter
 - Rysk-ortodoxa kyrkan som kommunen vill stänga - Dagens Nyheter
+- Övning för massevakuering av civila i krig - SVT Nyheter
 - Lundbybadet anmäldes för diskriminering – badvärdarna om utmaningarna - GP
-- Källor: USA och Israel eniga om Irans oljeexport - Aftonbladet
+- Uppgifter: USA planerar attack mot Iran - GP
 - I NATT: Våldsam kvinna, möbelbrand och kniv på restaurang – nattens händelser i Värmland - NWT
-- Insändare: Var finns empatin i svensk migrationspolitik? - NWT
+- Bilder: Mordförsök i Umeå – två män anhållna - Västerbottens-Kuriren
 - KRÖNIKA: Öresundstågen visar vad digital inkompetens kostar - Sydsvenskan
 - 15 februari 07.40, Sammanfattning natt, Örebro län - Polisen.se
 - I sommar kommer de tyngst belastade barnen - SvD
-- Efter massiva uppståndelsen – Ece höll tal i Karlstad: ”Glad och ledsen” - NWT
+- 77 354 kuggas för enkla misstaget - Aftonbladet
 - 2,4 ton kokain beslagtaget - Aftonbladet
-- Direkt – Kriget i Ukraina – Kvinna dödad i attack mot Odessa - Dagens Nyheter
+- Slagsmål på parkering i Uppsala - Expressen
 - ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
 - Brand på lastfartyg utanför Gotska Sandön - SVT Nyheter
+- Saabchefen: Vi måste våga följa Musk - SvD
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
-- AI-klipp sprids på Gisslén: ”Det är förskräckligt” - Omni
+- Spårade tusentals arbetslösa – sedan tvärbromsade Arbetsförmedlingen - Dagens Nyheter
 - Kartorna visar: Här bor de rikaste i din kommun - Tidningen Ångermanland
-- Experternas tips – för att få mer pengar - GP
 - Är Samsung på gång med bred vikbar? Är brett fett? - feber.se
 - Stora upptäckten: Haft fel om Jupiter – i över 50 år - Expressen
 
@@ -85,7 +85,6 @@ _Updated: 2026-02-15 09:56_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -94,48 +93,48 @@ _Updated: 2026-02-15 09:56_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- AI-drivna artikelfabriker - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- 5 myter om öppen vetenskap - Läkartidningen
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Upp till försvar för forskningen - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -152,10 +151,10 @@ _Updated: 2026-02-15 09:56_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
