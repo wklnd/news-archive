@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 00:52_
+_Updated: 2026-02-16 01:51_
 
 ## Top Stories
 
-- Smitningsolycka i Malmö – en till sjukhus - Aftonbladet
+- Försvunnen kvinna i Falkenberg hittad död – mordutredning inledd - GP
+- En person till sjukhus efter bil kört in i parkerade bilar i Malmö - SVT Nyheter
+- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
+- Allvarlig brand på gård – kor fick utrymmas - Expressen
 - Toppdemokrater: Snart över – Trump borta om tre år - Dagens Nyheter
 - Vittnesmålen från Iran: Alla som är ute dödas - Expressen
-- DN Direkt – Man begärd häktad för misstänkt våldtäkt - Dagens Nyheter
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Katten Larry firar 15 år på Downing Street - Omni
-- Kyla i Göteborg – men risk för regn nästa helg - GP
+- Stränga kylan snart förbi – då blir det mildare - Dagens Nyheter
+- S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
 - Många svenskar är sjuka – stor ökning väntar - Marcus Oscarsson
 - S-ledaren om åtstramningen: Inte gått för långt – Senaste nytt om valet 2026 - SVT Nyheter
-- Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
 - Omkring 1 600 byggnader utan värme i Kiev - Aftonbladet
-- Klytjko: Kiev på katastrofens rand - SVT Nyheter
-- DN Direkt – Lastfartyg hindras från att driva på grund vid Gotska sandön - Dagens Nyheter
-- Kraftig brand i ladugård utanför Horred – uppges finnas 400 kor - Mark-Posten
+- Rysk oljeterminal attackerad av ukrainska drönare - GP
+- Larm om brand i ladugård med 400 kor i Marks kommun - SVT Nyheter
+- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
 - Biljättens tvärvändning om elbilar – nu låter det helt annorlunda - Marcus Oscarsson
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
-- Magnus Hjelmér: Så ”Ibiza-säkrar” du barnens pengar - DI
 - Saabchefen: Vi måste våga följa Musk - SvD
+- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
 - Samsung visar upp ny premiumteknik för OLED-skärmar – men kommer ”tandem OLED” verkligen göra så stor skillnad? - TechRadar
 
@@ -40,13 +40,13 @@ _Updated: 2026-02-16 00:52_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -93,20 +93,20 @@ _Updated: 2026-02-16 00:52_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälsa och teknik - Chalmers
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -116,24 +116,24 @@ _Updated: 2026-02-16 00:52_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- AI-drivna artikelfabriker - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -145,11 +145,11 @@ _Updated: 2026-02-16 00:52_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - De gick från reko till eko - ST-tidningen
+- Lantbruksjobb – lediga jobb inom jordbruk och skog - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Tio jordbruksaktier för depån - Placera.se
 - Lediga jobb - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
