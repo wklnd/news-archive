@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 19:52_
+_Updated: 2026-02-15 21:01_
 
 ## Top Stories
 
-- Kievs borgmästare: På katastrofens rand - DI
+- Polisen letar efter försvunnen kvinna - Aftonbladet
 - Kritiken mot Rutte: ”Tror han är Natochef” - SvD
-- DN Direkt – Rubio till Europa: Ni ska inte bli en vasall - Dagens Nyheter
+- Märtha, 94, mördades i Staffanstorp av sin 92-åriga man - Aftonbladet
 - DN Direkt – SAS-plan tvingades nödlanda – powerbank överhettad - Dagens Nyheter
-- Försvunnen kvinna i Falkenberg återfunnen - SVT Nyheter
+- Var vänner för 30 år sedan – nu har Annika och Johan gift sig i Karlatornet - GP
+- Vittnesmålen inifrån Iran: ”Dödar alla som är ute” - Expressen
 - Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
 - Vagnar spårade ur – stopp på Malmbanan - Folkbladet
 - Europeisk undersökning om hur narkotika används och köps i Sverige - Örebronyheter
-- Noa och Lisa är politiska fiender – men också vänner: ”Går att förändra utan att förlora respekt” - Dagens Nyheter
-- Smitning från trafikolycka i Jönköping - Skillingaryd
+- Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
+- Klytjko: Kiev på katastrofens rand - SVT Nyheter
 - Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
+- Ukraina: Exminister gripen vid gränsen - Aftonbladet
 - DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
-- Ukraina: Exminister gripen vid gränsen - Västerbottens-Kuriren
-- Skolanställd begärs häktad för våldtäkt - Expressen
+- Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
+- Magnus Hjelmér: Så ”Ibiza-säkrar” du barnens pengar - DI
+- DEBATT: S om el-krisen: "SD-regeringen sviker norra Sverige" - NSD
 - Bankerna stänger konton i rekordfart – här är deras förklaring - Realtid
-- Flashback drabbat av stor överbelastningsattack - SVT Nyheter
-- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
-- Så går det för din bransch - SVT Nyheter
+- Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
 - Apple testar vikbar iPhone i flipformat - Teknikveckan
-- Trådlöst från Barco - tidningenmonitor.se
 
 ## World News
 
@@ -60,15 +60,15 @@ _Updated: 2026-02-15 19:52_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -116,44 +116,44 @@ _Updated: 2026-02-15 19:52_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- AI-drivna artikelfabriker - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- 5 myter om öppen vetenskap - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lediga jobb - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
