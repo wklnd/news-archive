@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 18:56_
+_Updated: 2026-02-15 19:52_
 
 ## Top Stories
 
-- Kvinna försvunnen i Falkenberg – sökinsats pågår - SVT Nyheter
-- Ukraina: Har decimerat ryskt luftförsvar - GP
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Rysk oljeterminal attackerad av ukrainska drönare - GP
-- Insändare: Var finns empatin i svensk migrationspolitik? - NWT
+- Kievs borgmästare: På katastrofens rand - DI
+- Kritiken mot Rutte: ”Tror han är Natochef” - SvD
+- DN Direkt – Rubio till Europa: Ni ska inte bli en vasall - Dagens Nyheter
+- DN Direkt – SAS-plan tvingades nödlanda – powerbank överhettad - Dagens Nyheter
+- Försvunnen kvinna i Falkenberg återfunnen - SVT Nyheter
 - Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
+- Vagnar spårade ur – stopp på Malmbanan - Folkbladet
+- Europeisk undersökning om hur narkotika används och köps i Sverige - Örebronyheter
 - Noa och Lisa är politiska fiender – men också vänner: ”Går att förändra utan att förlora respekt” - Dagens Nyheter
 - Smitning från trafikolycka i Jönköping - Skillingaryd
-- 14 februari 14.52, Trafikkontroll, Västerbottens län - polisen.se
-- 15 februari 07.40, Sammanfattning natt, Örebro län - polisen.se
-- Kallas: Ryssland måste tvingas till eftergifter - Västerbottens-Kuriren
-- Skolanställd begärs häktad för våldtäkt - Expressen
-- Uppgifter: USA planerar attack mot Iran - GP
+- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
 - DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
+- Ukraina: Exminister gripen vid gränsen - Västerbottens-Kuriren
+- Skolanställd begärs häktad för våldtäkt - Expressen
 - Bankerna stänger konton i rekordfart – här är deras förklaring - Realtid
 - Flashback drabbat av stor överbelastningsattack - SVT Nyheter
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
-- Syrekvisset februari - tidningensyre.se
+- Så går det för din bransch - SVT Nyheter
 - Apple testar vikbar iPhone i flipformat - Teknikveckan
-- Man kan köra elbil från Tyskland till Kina. Och från Kina till Norge. - feber.se
+- Trådlöst från Barco - tidningenmonitor.se
 
 ## World News
 
@@ -37,7 +37,7 @@ _Updated: 2026-02-15 18:56_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -59,7 +59,7 @@ _Updated: 2026-02-15 18:56_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Nästa generations Internet of Things - EU Digital Strategy
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -93,7 +93,7 @@ _Updated: 2026-02-15 18:56_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers
@@ -116,34 +116,34 @@ _Updated: 2026-02-15 18:56_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- AI-drivna artikelfabriker - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - ATL
@@ -154,6 +154,6 @@ _Updated: 2026-02-15 18:56_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
