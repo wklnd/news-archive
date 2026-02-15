@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 22:51_
+_Updated: 2026-02-15 23:49_
 
 ## Top Stories
 
-- Avgörande faktorn när man försvarar sig själv - SvD
-- Märtha, 94, mördades av sin 92-åriga sambo - Aftonbladet
-- Kritiken mot Rutte: ”Tror han är Natochef” - SvD
+- En person till sjukhus efter bil kört in i parkerade bilar i Malmö - SVT Nyheter
+- Försvunna kvinnan hittad död - Aftonbladet
+- Toppdemokrater: Snart över – Trump borta om tre år - Dagens Nyheter
 - DN Direkt – Man begärd häktad för misstänkt våldtäkt - Dagens Nyheter
 - Kievs borgmästare: På katastrofens rand - DI
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Europeisk undersökning om hur narkotika används och köps i Sverige - Örebronyheter
-- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
+- Märtha, 94, mördades av sin 92-åriga sambo - Aftonbladet
+- Kyla i Göteborg – men risk för regn nästa helg - GP
 - Övning för massevakuering av civila i krig - SVT Nyheter
-- Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
-- Smitningsolycka i Malmö – en till sjukhus - Aftonbladet
-- DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
-- Källor: USA och Israel eniga om Irans oljeexport - Aftonbladet
-- ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
+- Många svenskar är sjuka – stor ökning väntar - Marcus Oscarsson
+- S-ledaren om åtstramningen: Inte gått för långt – Senaste nytt om valet 2026 - SVT Nyheter
+- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
+- DN Direkt – Lastfartyg hindras från att driva på grund vid Gotska sandön - Dagens Nyheter
+- Biljättens tvärvändning om elbilar – nu låter det helt annorlunda - Marcus Oscarsson
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
 - Magnus Hjelmér: Så ”Ibiza-säkrar” du barnens pengar - DI
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
-- Så går det för din bransch - SVT Nyheter
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
-- Dröm remakerna som inte blivit av (än) - FZ.se
+- Apple testar vikbar iPhone i flipformat - Teknikveckan
+- Apple: Så många använder Ios 26 - mobil.se
+- Trådlöst från Barco - tidningenmonitor.se
 
 ## World News
 
 - Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -44,6 +43,7 @@ _Updated: 2026-02-15 22:51_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
@@ -54,21 +54,21 @@ _Updated: 2026-02-15 22:51_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -95,9 +95,11 @@ _Updated: 2026-02-15 22:51_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -109,8 +111,6 @@ _Updated: 2026-02-15 22:51_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -137,23 +137,23 @@ _Updated: 2026-02-15 22:51_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Lediga jobb - Land Lantbruk
 - Lediga jobb - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
