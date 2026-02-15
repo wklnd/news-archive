@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 21:01_
+_Updated: 2026-02-15 21:46_
 
 ## Top Stories
 
-- Polisen letar efter försvunnen kvinna - Aftonbladet
-- Kritiken mot Rutte: ”Tror han är Natochef” - SvD
-- Märtha, 94, mördades i Staffanstorp av sin 92-åriga man - Aftonbladet
-- DN Direkt – SAS-plan tvingades nödlanda – powerbank överhettad - Dagens Nyheter
+- Försvunna kvinnan hittad död - Aftonbladet
+- Märtha, 94, mördades av sin 92-åriga man - Aftonbladet
+- Kievs borgmästare: På katastrofens rand - DI
 - Var vänner för 30 år sedan – nu har Annika och Johan gift sig i Karlatornet - GP
-- Vittnesmålen inifrån Iran: ”Dödar alla som är ute” - Expressen
+- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
+- DN Direkt – SAS-plan tvingades nödlanda – powerbank överhettad - Dagens Nyheter
 - Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
-- Vagnar spårade ur – stopp på Malmbanan - Folkbladet
 - Europeisk undersökning om hur narkotika används och köps i Sverige - Örebronyheter
 - Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
-- Klytjko: Kiev på katastrofens rand - SVT Nyheter
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Ukraina: Exminister gripen vid gränsen - Aftonbladet
+- Vagnar spårade ur – stopp på Malmbanan - GP
 - DN Direkt – Fransk specialenhet ska utreda Epsteinkopplingar - Dagens Nyheter
+- Källor: USA och Israel eniga om Irans oljeexport - Västerbottens-Kuriren
+- Ukraina: Exminister gripen vid gränsen - Aftonbladet
+- ”Generation Z” förlorade valet men fick rösta fritt i Bangladesh - SVT Nyheter
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
 - Magnus Hjelmér: Så ”Ibiza-säkrar” du barnens pengar - DI
-- DEBATT: S om el-krisen: "SD-regeringen sviker norra Sverige" - NSD
-- Bankerna stänger konton i rekordfart – här är deras förklaring - Realtid
+- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
+- Så går det för din bransch - SVT Nyheter
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
 - Apple testar vikbar iPhone i flipformat - Teknikveckan
 
@@ -29,24 +29,24 @@ _Updated: 2026-02-15 21:01_
 
 - Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- GAC's Innovative Safety and High-Efficiency Powertrain Win Global Recognition (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -116,23 +116,23 @@ _Updated: 2026-02-15 21:01_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
@@ -149,11 +149,11 @@ _Updated: 2026-02-15 21:01_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
+- Lediga jobb - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
