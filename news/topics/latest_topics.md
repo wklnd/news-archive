@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-15 15:59_
+_Updated: 2026-02-15 16:54_
 
 ## Top Stories
 
+- Kievs borgmästare: På katastrofens rand - DI
+- USA: Bordat fartyg som försökt undvika blockad - SVT Nyheter
+- 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
+- Ukraina: Exminister gripen vid gränsen - Aftonbladet
 - Trendiga brunchstället öppnar i Lund - Sydsvenskan
-- Fri efter 24 år – nu vill Cristina tillbaka till Sverige - GP
-- Minst nio döda i drönarattacker i Gaza - Västerbottens-Kuriren
-- Kallas: Ryssland måste tvingas till eftergifter - GP
-- Bilder: Mordförsök i Umeå – två män anhållna - Västerbottens-Kuriren
 - Övning för massevakuering av civila i krig - SVT Nyheter
 - Frystorkad ost och blåbär – så smakar nya snacksen från Ukraina - Sydsvenskan
-- Fluffaktor och fikasnö – bli väderexpert med SMHI:s ordlista - Dagens Nyheter
+- Flera fortkörare tagna av polisen - Östersunds-Posten
 - Smitning från trafikolycka i Jönköping - Skillingaryd
-- Direkt – Krisen i Mellanöstern – Källor: USA och Israel eniga om Irans oljeexport - Dagens Nyheter
 - Urspårning på Malmbanan – stopp i tågtrafiken - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Källor: USA och Israel eniga om Irans oljeexport - Dagens Nyheter
+- Minister: Iran redo att kompromissa för att nå ett kärnenergiavtal - SVT Nyheter
 - Tusentals utan ström på Ekerö - SVT Nyheter
-- Smet från poliskontroll i Huskvarna – krockade med fordon - SVT Nyheter
 - Bankerna stänger konton i rekordfart – här är deras förklaring - Realtid
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
+- Hedin stänger ner en hel anläggning – igen - Carup.se
 - Syrekvisset februari - tidningensyre.se
-- Satsar 230 miljarder: ”Kommer att hända” - Sundsvalls Tidning
-- Metas smarta glasögon kommer utrustas med ansiktsigenkänning - m3.se
 - Apple testar vikbar iPhone i flipformat - Teknikveckan
-- Svenska 10 Chambers genomför nedskärningar. Studio omstrukturerar för att säkerställa Den of Wolves framtid. - feber.se
+- Stargate SG-1 är tillbaka på Netflix. Singeldagen är räddad! - feber.se
+- Radia-serien är nu komplett – ja, de tillverkar högtalare igen - Nya toner från Arcam Audio – Radia-serien - ljudochbild.se
 
 ## World News
 
@@ -37,7 +37,7 @@ _Updated: 2026-02-15 15:59_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -46,7 +46,7 @@ _Updated: 2026-02-15 15:59_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 
 ## Technology
 
