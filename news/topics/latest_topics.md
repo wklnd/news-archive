@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 07:15_
+_Updated: 2026-02-16 08:40_
 
 ## Top Stories
 
-- Misstänkte för Bondi Beach-dådet framträder i rätten - Omni
-- Detaljerna som avgör psykisk störning - SvD
-- Jonathan Jeppsson: Något med kylan stämmer inte – men vad? - Aftonbladet
-- S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
+- Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
 - Sverige är nu ett av EU:s minst attraktiva länder för asylsökande - SvD
-- Utarmad tarmflora ökar risken för hjärtsjukdom - SvD
-- S-ledaren om åtstramningen: Inte gått för långt – Senaste nytt om valet 2026 - SVT Nyheter
-- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
+- Stödet från mentorn ska ta Basher till gymnasiet - GP
+- DN Direkt – Misstänkt farligt föremål i Farsta var skarpt - Dagens Nyheter
+- S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
+- Kalena: Min man försöker alltså droga mig - Dagens Nyheter
+- Stränga kylan snart förbi – då blir det mildare - Dagens Nyheter
+- 16 februari 07.00, Sammanfattning natt, Dalarnas län - polisen.se
+- Kyrkan slog upp portarna – Skellefteparet slog till efter 18 år - Norran
+- I NATT: Våldsam kvinna, möbelbrand och kniv på restaurang – nattens händelser i Värmland - NWT
+- Klytjko: Kiev på katastrofens rand - SVT Nyheter
+- Michael Winiarski: Den här gången käftar Europa emot Trump - Dagens Nyheter
 - Rysk oljeterminal attackerad av ukrainska drönare - GP
-- Kraftig brand i ladugård med hundratals kor - Aftonbladet
-- DN Direkt – Bil körde på bilar i Malmö – kvinna till sjukhus - Dagens Nyheter
 - Talar ut om Trumps absurda sms: ”Van” - Expressen
 - Ulla-Maj, 71, valde att pausa sin tjänstepension: ”Är jättenöjd” - Expressen
-- Semlorna rekorddyra – men värsta prisrusningen är över - Dagens Nyheter
-- Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
-- Norska hälsodirektoratet tecknar avtal med Intility om plattform och drift av specialiserade applikationer - Via TT
+- Janni, 34, fick faktura på 10 000 kronor: ”En chock” - Norran
+- Förslag: Bötfäll dåliga kundtjänster - SvD
+- Höga skatter driver historiska pubar i graven - Dagens PS
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
 - Varför gör de inget åt alla fel? - SvD
-- Man kan köra elbil från Tyskland till Kina. Och från Kina till Norge. - feber.se
-- Samsung visar upp ny premiumteknik för OLED-skärmar – men kommer ”tandem OLED” verkligen göra så stor skillnad? - TechRadar
 
 ## World News
 
@@ -41,7 +41,7 @@ _Updated: 2026-02-16 07:15_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -54,6 +54,7 @@ _Updated: 2026-02-16 07:15_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -61,7 +62,6 @@ _Updated: 2026-02-16 07:15_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -93,22 +93,22 @@ _Updated: 2026-02-16 07:15_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
@@ -117,36 +117,36 @@ _Updated: 2026-02-16 07:15_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- AI-drivna artikelfabriker - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lediga jobb - ATL
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
