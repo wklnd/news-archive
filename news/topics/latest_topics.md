@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 18:06_
+_Updated: 2026-02-16 19:11_
 
 ## Top Stories
 
 - Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
+- Rektor häktas misstänkt för våldtäkt mot barn - Aftonbladet
 - Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
-- Smitningsolycka i Järfälla – en till sjukhus - Mitt i
+- Putins nya drag inför toppmötet – skickar större grupp - Expressen
 - Frankrike kan bli först i EU med 15-årsgräns på sociala medier - GP
-- Misstänkt farligt föremål nära förskola i Herrljunga – var oskarpt - SVT Nyheter
-- Svantesson om kritiken: ”Långt ifrån verkligheten” – Senaste nytt om valet 2026 - SVT Nyheter
+- De kräver att S är med och stoppar utvisningar - GP
 - Kraftig brand i Kista – en person gripen - SVT Nyheter
-- Här är de skånska jobben som hotas – och här behövs arbetskraft - Sydsvenskan
 - DN Direkt – Stopp för tåg på Malmbanan kvarstår - Dagens Nyheter
-- Ihållande kyla pressar isbrytningen - Kuriren
+- 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
+- Ledare: Fall inte för Ebbas krokodiltårar om utvisningshotade bebisar - VF
+- Direkt – Kriget i Ukraina – Kreml: Sverige har fel om Navalnyjs död - Dagens Nyheter
 - Ryska och ukrainska städer utan el - SVT Nyheter
-- Rektor häktad för våldtäkt mot barn - Folkbladet
+- DN Direkt – Lägenhetshus brinner i Kista – en gripen - Dagens Nyheter
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
 - H&M:s miss: "3найдіть свою нову улюблену пару джинсів" - Expressen
 - Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
+- Affärsvärlden lämnar ett neutralt råd för Invisio - Börsvärlden
 - Forskning: Framtidens datacenter går på is - Dagens PS
-- Jordskredet: BYD krossade av Geely - Carup.se
 - Google släpper akutfix för Chrome - Computer Sweden
 - Hon jobbar i rymden igen - 8 Sidor
-- Billig MacBook med A18 Pro kan lanseras i mars – flera nya färger - Teknikveckan
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Umeå children in worldwide school project on AI - Umeå universitet
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Tidningsjätte i England lägger ner efter skandal - SvD
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Tabloiddrottningens sista smaskiga story - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -61,7 +61,7 @@ _Updated: 2026-02-16 18:06_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -93,24 +93,24 @@ _Updated: 2026-02-16 18:06_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
