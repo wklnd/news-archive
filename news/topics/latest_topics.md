@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 01:51_
+_Updated: 2026-02-16 05:25_
 
 ## Top Stories
 
-- Försvunnen kvinna i Falkenberg hittad död – mordutredning inledd - GP
-- En person till sjukhus efter bil kört in i parkerade bilar i Malmö - SVT Nyheter
 - Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
-- Allvarlig brand på gård – kor fick utrymmas - Expressen
-- Toppdemokrater: Snart över – Trump borta om tre år - Dagens Nyheter
-- Vittnesmålen från Iran: Alla som är ute dödas - Expressen
-- Stränga kylan snart förbi – då blir det mildare - Dagens Nyheter
+- Misstänker kuslig plan: Döda dottern i kamp om makten - Aftonbladet
+- Detaljerna som avgör psykisk störning - SvD
+- Kallat Trump ”daddy” – kritik mot Rutte? – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
+- Toppdemokrater: Trump borta om tre år - Dagens Nyheter
+- Misstänkt farligt föremål i Farsta - GP
+- Försvunnen kvinna i Falkenberg hittad död – mordutredning inledd - GP
 - S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
-- Många svenskar är sjuka – stor ökning väntar - Marcus Oscarsson
 - S-ledaren om åtstramningen: Inte gått för långt – Senaste nytt om valet 2026 - SVT Nyheter
-- Omkring 1 600 byggnader utan värme i Kiev - Aftonbladet
+- Överbelastningsattack mot Flashback - Aftonbladet
 - Rysk oljeterminal attackerad av ukrainska drönare - GP
-- Larm om brand i ladugård med 400 kor i Marks kommun - SVT Nyheter
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Biljättens tvärvändning om elbilar – nu låter det helt annorlunda - Marcus Oscarsson
+- Omkring 1 600 byggnader utan värme i Kiev - GP
+- Talar ut om Trumps absurda sms: ”Van” - Expressen
+- Klytjko: Kiev på katastrofens rand - SVT Nyheter
+- Semlorna rekorddyra – men värsta prisrusningen är över - Dagens Nyheter
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
 - Saabchefen: Vi måste våga följa Musk - SvD
 - Expertens tips för ett sportlov utan (för mycket) skärm - UNT
@@ -27,7 +27,6 @@ _Updated: 2026-02-16 01:51_
 
 ## World News
 
-- Global Play Day Brings Fun and Learning to International School of Älmhult - Älmhults kommun
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -35,17 +34,18 @@ _Updated: 2026-02-16 01:51_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -54,12 +54,12 @@ _Updated: 2026-02-16 01:51_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -93,47 +93,47 @@ _Updated: 2026-02-16 01:51_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Johan von Schreeb - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- AI-drivna artikelfabriker - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
@@ -141,19 +141,19 @@ _Updated: 2026-02-16 01:51_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Lediga jobb - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - De gick från reko till eko - ST-tidningen
-- Lantbruksjobb – lediga jobb inom jordbruk och skog - ATL
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
