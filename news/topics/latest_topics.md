@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 19:11_
+_Updated: 2026-02-16 20:02_
 
 ## Top Stories
 
-- Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
+- Direkt – Kriget i Ukraina – Zelenskyj varnar: Underrättelser om jätteattack - Dagens Nyheter
 - Rektor häktas misstänkt för våldtäkt mot barn - Aftonbladet
+- Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
+- Wagner raggar sabotörer i Europa – expert: Går inte att utesluta försök i Sverige - Dagens Nyheter
 - Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
-- Putins nya drag inför toppmötet – skickar större grupp - Expressen
-- Frankrike kan bli först i EU med 15-årsgräns på sociala medier - GP
-- De kräver att S är med och stoppar utvisningar - GP
-- Kraftig brand i Kista – en person gripen - SVT Nyheter
-- DN Direkt – Stopp för tåg på Malmbanan kvarstår - Dagens Nyheter
+- Eleverna berättar om sina Tiktok-flöden: ”Jag hamnar automatiskt i en filterbubbla” - GP
+- Kapplöpning om svenska krigsfartyg – för miljarder - Västerbottens-Kuriren
+- Tågurspårning på Malmbanan: ”Sätter fingret på sårbarheten” - Dagens Nyheter
 - 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
-- Ledare: Fall inte för Ebbas krokodiltårar om utvisningshotade bebisar - VF
-- Direkt – Kriget i Ukraina – Kreml: Sverige har fel om Navalnyjs död - Dagens Nyheter
+- 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
 - Ryska och ukrainska städer utan el - SVT Nyheter
 - DN Direkt – Lägenhetshus brinner i Kista – en gripen - Dagens Nyheter
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
+- EU köpte konstgödsel för över 9 miljarder kronor från Ryssland - Aktuellt i Politiken
 - H&M:s miss: "3найдіть свою нову улюблену пару джинсів" - Expressen
 - Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
-- Affärsvärlden lämnar ett neutralt råd för Invisio - Börsvärlden
-- Forskning: Framtidens datacenter går på is - Dagens PS
-- Google släpper akutfix för Chrome - Computer Sweden
+- Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
+- Generationsskifte i näringslivet – ”En samhällsfråga” - Tidningen Näringslivet
 - Hon jobbar i rymden igen - 8 Sidor
+- Google släpper akutfix för Chrome - Computer Sweden
 
 ## World News
 
@@ -35,6 +35,7 @@ _Updated: 2026-02-16 19:11_
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -46,7 +47,6 @@ _Updated: 2026-02-16 19:11_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Tabloiddrottningens sista smaskiga story - SvD
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -54,6 +54,7 @@ _Updated: 2026-02-16 19:11_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -61,14 +62,13 @@ _Updated: 2026-02-16 19:11_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -93,24 +93,24 @@ _Updated: 2026-02-16 19:11_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -149,8 +149,8 @@ _Updated: 2026-02-16 19:11_
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
