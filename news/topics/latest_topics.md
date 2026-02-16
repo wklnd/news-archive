@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 23:53_
+_Updated: 2026-02-17 00:57_
 
 ## Top Stories
 
-- Zelenskyj: Underrättelser om ”massiv” rysk attack - Dagens Nyheter
-- Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
+- Kraftig brand i lokal i Målerås - SVT Nyheter
+- Här gör väljarna som Trump vill - SvD
 - Samtal om territorier i Genève - SVT Nyheter
 - Expertråd kritiserar regeringen - SVT Nyheter
 - Senator: Ryssland jagar USA-mål i Ukraina - Dagens Nyheter
-- Tonårsutvisningarna blottar den rödgröna jättesprickan - TV4 Nyheterna
+- Uppgifter: Barn utsatt för sexualbrott på återvändandecenter - Aftonbladet
+- Man död efter krock med lastbil utanför Värnamo - SVT Nyheter
+- Stort pådrag: Djur innebrända i ladugårdsbrand - Västerbottens-Kuriren
 - Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
-- ”Är mer fokus på fina bilder än på säkerhet” - SvD
 - Brand i lägenhetshus i Kista - Expressen
-- 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
-- Tusentals demonstrerade på Avenyn – delade ut rosor - GP
+- Zelenskyj: Underrättelser om ”massiv” rysk attack - Dagens Nyheter
+- En av Hannibals krigselefanter kan ha hittats - Dagens Nyheter
 - Ryska och ukrainska städer utan el - SVT Nyheter
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
-- DN Direkt – Lägenhetshus brinner i Kista – en gripen - Dagens Nyheter
+- ”Allt det här handlar om manlig osäkerhet” - SvD
 - Skarp varning om kontanter – se upp i dessa butiker - Marcus Oscarsson
 - Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
 - En kryptovalutor sticker ut och smörjer människohandelns maskineri - Dagens PS
-- Affärsvärlden lämnar ett neutralt råd för Invisio - Börsvärlden
 - Hon jobbar i rymden igen - 8 Sidor
-- Apple bjuder in till nytt event den 4 mars - Macworld.se
+- ”Utøya-spel” dök upp på spelplattform - Sydsvenskan
 
 ## World News
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Umeå children in worldwide school project on AI - Umeå universitet
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -64,12 +64,12 @@ _Updated: 2026-02-16 23:53_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -118,7 +118,7 @@ _Updated: 2026-02-16 23:53_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -130,10 +130,10 @@ _Updated: 2026-02-16 23:53_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
