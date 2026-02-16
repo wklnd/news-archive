@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 21:10_
+_Updated: 2026-02-16 21:53_
 
 ## Top Stories
 
 - Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
+- Wagner raggar sabotörer i Europa – expert: Går inte att utesluta försök i Sverige - Dagens Nyheter
+- Putins nya drag inför toppmötet – skickar större grupp - Expressen
 - Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
 - Eleverna berättar om sina Tiktok-flöden: ”Jag hamnar automatiskt i en filterbubbla” - GP
-- Misstänkt farligt föremål i Malmö avlägsnat - Omni
-- Rubio hyllar Orban: ”Er framgång är vår framgång” - Omni
 - Rubio hyllar Orbáns relation med Trump – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
-- Kraftig brand i Kista – en person gripen - SVT Nyheter
+- Kapplöpning om svenska krigsfartyg – för miljarder - Västerbottens-Kuriren
 - Familjens ombud: ”De är verkligen ledsna" - Aftonbladet
 - 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
 - Då inför Jämtkraft kritiserade avgiften - Östersunds-Posten
 - Ryska och ukrainska städer utan el - SVT Nyheter
 - DN Direkt – Lägenhetshus brinner i Kista – en gripen - Dagens Nyheter
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
-- En skadad i arbetsplatsolycka - Expressen
+- EU köpte konstgödsel för över 9 miljarder kronor från Ryssland - Aktuellt i Politiken
+- ESG-kritik får bolag att välja bort skogsjätten: "Har inte brustit" - Placera.se
 - Stockholm får böta rekordsumma efter miljardavtal - Dagens PS
 - Skarp varning om kontanter – se upp i dessa butiker - Marcus Oscarsson
-- H&M:s miss: "3найдіть свою нову улюблену пару джинсів" - Expressen
 - Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
 - Hon jobbar i rymden igen - 8 Sidor
-- Apple bjuder in till nytt event den 4 mars - Macworld.se
+- Snart kan du inte längre streama Netflix på din Playstation 3 - Cafe.se
 
 ## World News
 
@@ -37,15 +37,15 @@ _Updated: 2026-02-16 21:10_
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- GAC's Innovative Safety and High-Efficiency Powertrain Win Global Recognition (PR Newswire) - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -54,7 +54,6 @@ _Updated: 2026-02-16 21:10_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -62,20 +61,20 @@ _Updated: 2026-02-16 21:10_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,22 +92,22 @@ _Updated: 2026-02-16 21:10_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
+- Hälsa och teknik - Chalmers
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
@@ -117,23 +116,23 @@ _Updated: 2026-02-16 21:10_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- AI-drivna artikelfabriker - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
