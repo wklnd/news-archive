@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 05:25_
+_Updated: 2026-02-16 07:15_
 
 ## Top Stories
 
-- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
-- Misstänker kuslig plan: Döda dottern i kamp om makten - Aftonbladet
+- Misstänkte för Bondi Beach-dådet framträder i rätten - Omni
 - Detaljerna som avgör psykisk störning - SvD
-- Kallat Trump ”daddy” – kritik mot Rutte? – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
-- Toppdemokrater: Trump borta om tre år - Dagens Nyheter
-- Misstänkt farligt föremål i Farsta - GP
-- Försvunnen kvinna i Falkenberg hittad död – mordutredning inledd - GP
+- Jonathan Jeppsson: Något med kylan stämmer inte – men vad? - Aftonbladet
 - S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
+- Sverige är nu ett av EU:s minst attraktiva länder för asylsökande - SvD
+- Utarmad tarmflora ökar risken för hjärtsjukdom - SvD
 - S-ledaren om åtstramningen: Inte gått för långt – Senaste nytt om valet 2026 - SVT Nyheter
-- Överbelastningsattack mot Flashback - Aftonbladet
+- Expert om bebisutvisning: Kan bryta mot barnkonvention - Dagens Nyheter
 - Rysk oljeterminal attackerad av ukrainska drönare - GP
-- Omkring 1 600 byggnader utan värme i Kiev - GP
+- Kraftig brand i ladugård med hundratals kor - Aftonbladet
+- DN Direkt – Bil körde på bilar i Malmö – kvinna till sjukhus - Dagens Nyheter
 - Talar ut om Trumps absurda sms: ”Van” - Expressen
-- Klytjko: Kiev på katastrofens rand - SVT Nyheter
+- Ulla-Maj, 71, valde att pausa sin tjänstepension: ”Är jättenöjd” - Expressen
 - Semlorna rekorddyra – men värsta prisrusningen är över - Dagens Nyheter
 - Fettisdagen slår alla rekord: ”Det är vårt OS” - DI
-- Saabchefen: Vi måste våga följa Musk - SvD
-- Expertens tips för ett sportlov utan (för mycket) skärm - UNT
+- Norska hälsodirektoratet tecknar avtal med Intility om plattform och drift av specialiserade applikationer - Via TT
 - Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
+- Varför gör de inget åt alla fel? - SvD
+- Man kan köra elbil från Tyskland till Kina. Och från Kina till Norge. - feber.se
 - Samsung visar upp ny premiumteknik för OLED-skärmar – men kommer ”tandem OLED” verkligen göra så stor skillnad? - TechRadar
 
 ## World News
@@ -93,24 +93,24 @@ _Updated: 2026-02-16 05:25_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa och teknik - Chalmers
+- Engineering Health 2024 - Chalmers
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,6 +121,7 @@ _Updated: 2026-02-16 05:25_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -132,7 +133,6 @@ _Updated: 2026-02-16 05:25_
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
