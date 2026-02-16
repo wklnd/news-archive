@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-16 01:57_
+_Updated: 2026-02-16 05:32_
 
-- Nancy Guthrie latest: Task force awaits forensic results as search enters third week - Fox News
-- California storms are about to hit. Here’s a timeline of their most severe impacts - San Francisco Chronicle
-- Ukraine's ex-energy minister arrested while attempting to leave country - BBC
+- Trump claims victory on affordability as public anxieties persist - The Washington Post
+- Like Trump, U.S. Embassies Are Raising Cash for Lavish July Fourth Parties - The New York Times
 - Eleven killed in Israeli strikes on Gaza, rescuers say - BBC
-- Iran says potential energy, mining and aircraft deals on table in talks with US - Reuters
 - How the case against a Venezuelan man who was shot by an ICE agent fell apart - CNN
-- RFK Jr.’s battle with the public health establishment has turned to trench warfare - Politico
 - Massie says he’s lost confidence in Pam Bondi after congressional hearing - Politico
-- Walk for Peace Buddhist monks arrive in Fort Worth for homecoming celebration - KERA News
+- Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending - The New York Times
+- Nancy Guthrie latest: Savannah Guthrie says ‘we still believe’ as search for missing mom continues - Fox News
+- Teen girl whose Chicago father was detained in an immigration case dies from a rare cancer - CNN
+- Texas Students Protest ICE Despite Gov. Greg Abbott’s Threats - The New York Times
 - Democrats’ struggles could be partly because they’re just too old, says Obama - Politico
-- Andrew's time as trade envoy should be investigated, says Vince Cable - BBC
-- Transcript: Rep. Robert Garcia on "Face the Nation with Margaret Brennan," Feb. 15, 2026 - CBS News
-- Europe Today Looks Different From the One Trump’s Team Describes - The New York Times
-- Rubio casts US, the 'child of Europe', as critical friend to allies - The Economic Times
-- OpenClaw creator Peter Steinberger joins OpenAI - TechCrunch
+- Online activity of Canada school shooter shows a fascination with mass violence and violent content, expert says - CBS News
+- Ukraine's Zelenskiy says allies to provide new energy and military aid within 10 days - Reuters
+- Massive demonstrations held to oppose Iran's government - Politico
+- Hungary: Magyar launches anti-Orban election campaign - DW.com
+- The age of the disposable leader - Financial Times
 - Whether it's a mini-sabbatical or an adult gap year, more people are taking extended work breaks - AP News
-- The AI productivity take-off is finally visible - Financial Times
+- Japan's economy avoids technical recession, but fourth-quarter rebound misses expectations - CNBC
 - This Is What Destroying the Vaccine Market Looks Like - The Bulwark
-- iOS 27 to include code cleanup and interface tweaks in hopes to boost battery life: report - 9to5Mac
-- Report: Apple’s upcoming low-cost MacBook will come in ‘fun colors,’ launch next month - 9to5Mac
+- He spent decades perfecting his voice. Now he says Google stole it. - The Washington Post
+- LG Has Some Great TV Deals for Presidents Day - IGN
