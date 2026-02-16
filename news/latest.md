@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-16 18:23_
+_Updated: 2026-02-16 19:23_
 
-- One of this century’s most important Republicans takes a beating in home state - The Washington Post
-- Concerns over autocracy in the U.S. continue to grow - NPR
+- Mitch McConnell is taking a beating in the race to replace him - The Washington Post
 - What is the dart frog toxin allegedly used to kill Alexei Navalny? - BBC
+- Concerns over autocracy in the U.S. continue to grow - NPR
 - What's open and closed on Presidents Day 2026? Here's what to expect on the federal holiday. - CBS News
-- With Latest Rollback, the U.S. Essentially Has No Clean-Car Rules - The New York Times - The New York Times
-- ‘Us versus them’: The battle that’s tearing a small Virginia town apart - The Washington Post
-- Trump's second year: Whiplash - Politico
-- Obama clarifies views on aliens after saying 'they're real' on podcast - BBC
+- Epstein’s Ties With Academics Show the Seedy Side of College Fund-Raising - The New York Times
+- With Latest Rollback, the U.S. Essentially Has No Clean-Car Rules - The New York Times
 - How one bullet destroyed DHS claim agents were afraid for their lives - Alternet
-- An Islamist party becomes Bangladesh's main opposition for the first time - NPR
-- A Russian ‘Village of Military Valor’ Waits for Its Reward - The New York Times
-- Syria Crosses a Threshold - The New York Times
+- Massie says he’s lost confidence in Pam Bondi after congressional hearing - Politico
+- Syrian Army Crosses New Threshold With Advances in Kurdish Regions - The New York Times
+- Starmer to extend online safety rules to AI chatbots after Grok scandal - The Guardian
 - Trade or trap? Japan investors bet on Takaichi after landslide - Financial Times
-- Tech workers in a fierce competition to write the best resignation letters - Business Insider
-- US carmakers spooked by Chinese rivals gaining foothold in America - Financial Times
-- Microsoft's Lack Of Leadership In AI, Wait - Seeking Alpha
-- Presidents' Day sales 2026 are live: The best tech deals up to 43 percent off to shop from Apple, Samsung, Anker and others - Engadget
-- 3 reasons most people stick with Windows, even though Linux is free - How-To Geek
-- Sony Considering PS6 Delay to 2028 or Even 2029, New Report Says - Push Square
+- Hungary: Magyar launches anti-Orban election campaign - dw.com
+- Worst personal bankruptcy ever — the yearslong hell that happens when a billionaire says he's worth $3,850 - Business Insider
+- CNBC Daily Open: Muted U.S. CPI and cooling tensions with Iran give investors some comfort - CNBC
+- Robots and Draco Malfoy: How China is celebrating the Year of the Horse - NBC News
+- This Is What Destroying the Vaccine Market Looks Like - The Bulwark
+- YouTube adds new hurdles for ad blockers, and there's currently no way around it - Android Authority
 - Gboard gets new feature to make typing on glass easier - PhoneArena
+- 3 reasons most people stick with Windows, even though Linux is free - How-To Geek
+- iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life - MacRumors
