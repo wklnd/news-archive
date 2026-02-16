@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 22:56_
+_Updated: 2026-02-16 23:53_
 
 ## Top Stories
 
-- Trumps utmanare Gavin Newsom har ett stort minus: hemstaden San Francisco - Dagens Nyheter
-- Här gör väljarna som Trump vill - SvD
+- Zelenskyj: Underrättelser om ”massiv” rysk attack - Dagens Nyheter
 - Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
-- Uppgifter: Barn utsatt för sexualbrott på återvändandecenter - Aftonbladet
-- Eleverna berättar om sina Tiktok-flöden: ”Jag hamnar automatiskt i en filterbubbla” - GP
-- Rubio hyllar Orbáns relation med Trump – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
-- Tågurspårning på Malmbanan: ”Sätter fingret på sårbarheten” - Dagens Nyheter
-- Misstänkt mordbrand i Stockholm – en gripen - Västerbottens-Kuriren
-- 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
-- Då inför Jämtkraft kritiserade avgiften - Östersunds-Posten
-- Tusentals demonstrerade på Avenyn – delade ut rosor - GP
+- Samtal om territorier i Genève - SVT Nyheter
+- Expertråd kritiserar regeringen - SVT Nyheter
 - Senator: Ryssland jagar USA-mål i Ukraina - Dagens Nyheter
+- Tonårsutvisningarna blottar den rödgröna jättesprickan - TV4 Nyheterna
+- Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
+- ”Är mer fokus på fina bilder än på säkerhet” - SvD
+- Brand i lägenhetshus i Kista - Expressen
+- 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
+- Tusentals demonstrerade på Avenyn – delade ut rosor - GP
 - Ryska och ukrainska städer utan el - SVT Nyheter
+- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
 - DN Direkt – Lägenhetshus brinner i Kista – en gripen - Dagens Nyheter
 - Skarp varning om kontanter – se upp i dessa butiker - Marcus Oscarsson
+- Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
 - En kryptovalutor sticker ut och smörjer människohandelns maskineri - Dagens PS
-- Stockholm får böta rekordsumma efter miljardavtal - Dagens PS
-- Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
+- Affärsvärlden lämnar ett neutralt råd för Invisio - Börsvärlden
 - Hon jobbar i rymden igen - 8 Sidor
 - Apple bjuder in till nytt event den 4 mars - Macworld.se
 
@@ -37,7 +37,7 @@ _Updated: 2026-02-16 22:56_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Umeå children in worldwide school project on AI - Umeå universitet
@@ -45,26 +45,26 @@ _Updated: 2026-02-16 22:56_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -93,24 +93,24 @@ _Updated: 2026-02-16 22:56_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Engineering Health 2024 - Chalmers
+- Hälsa och teknik - Chalmers
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Engineering Health 2024 - Chalmers
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -130,10 +130,10 @@ _Updated: 2026-02-16 22:56_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
@@ -146,14 +146,14 @@ _Updated: 2026-02-16 22:56_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
