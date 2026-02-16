@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 10:05_
+_Updated: 2026-02-16 11:29_
 
 ## Top Stories
 
+- Försvunna kvinnan hittad avliden - Hallands Nyheter
 - Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
 - Stödet från mentorn ska ta Basher till gymnasiet - GP
-- Första framträdandet för Bondi-skytt - SvD
-- Michael Winiarski: Den här gången käftar Europa emot Trump - Dagens Nyheter
-- Nationella bombskyddet sprängde misstänkt föremål - Barometern-OT
+- DN Direkt – Bondi: Alla Epsteindokument är släppta - Dagens Nyheter
+- Kievs borgmästare: På katastrofens rand - GP
 - S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
 - Stränga kylan snart förbi – då blir det mildare - Dagens Nyheter
-- Dömda går fria eftersom rättspsyk är fullt - Västerbottens-Kuriren
+- Brottsutsatta arbetare på Stegra ska ha tvingats lämna landet - Dagens Nyheter
 - Många svenskar är sjuka – stor ökning väntar - Marcus Oscarsson
 - 16 februari 07.00, Sammanfattning natt, Dalarnas län - polisen.se
 - Rysk hackergrupp försökte påverka norska valet - Omni
-- Klytjko: Kiev på katastrofens rand - SVT Nyheter
-- Misstänkt stöld på byggarbetsplats i Malmö – två gripna - Expressen
 - Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Euron på frammarsch – Sverige överger kronan? - Dagens PS
-- Ulla-Maj, 71, valde att pausa sin tjänstepension: ”Är jättenöjd” - Expressen
-- Morgonkoll: Uppgångar i Asien inför nyårsfirande - DI
+- Misstänkt stöld på byggarbetsplats i Malmö – två gripna - Expressen
+- Talar ut om Trumps absurda sms: ”Van” - Expressen
+- ”Kan inte ringa barnen” - Expressen
+- Vattenfall sålde för miljoner – köparen blev en av världens rikaste - Realtid
+- Så ska slumrande börsjätten lyftas: "Avgörande roll" enligt ny vd:n - Dagens PS
 - Janni, 34, fick faktura på 10 000 kronor: ”En chock” - Norran
-- Kingdom Come får 'next-gen'-patch till PS5 och Xbox – gratis för existerande ägare - FZ.se
-- Sportlovsevent på Väla & Ica Maxi Ängelholm - Helsingborgs IF
+- Apple ryktas släppa flera nya produkter till det smarta hemmet under 2026 - Teknikveckan
+- Apple-data avslöjar: Miljoner Iphones riskerar säkerhetsproblem - Dagens PS
 
 ## World News
 
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Saks Global stänger försäljningswebbplatsen och stänger 57 butiker utanför 5th efter att ha ansökt om konkursskydd i USA - Mix Vale
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -79,9 +79,9 @@ _Updated: 2026-02-16 10:05_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -96,21 +96,21 @@ _Updated: 2026-02-16 10:05_
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
