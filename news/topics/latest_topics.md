@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 15:45_
+_Updated: 2026-02-16 17:08_
 
 ## Top Stories
 
-- Kvinna hittad död – mordutredning inledd - SvD
+- Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
+- Zelenskyj varnar för jätteattack - Västerbottens-Kuriren
+- Man allvarligt skadad efter arbetsplatsolycka i Växjö - SVT Nyheter
+- Misstänkt grov mordbrand – en gripen - Aftonbladet
+- De kräver att S är med och stoppar utvisningar - GP
 - Smitningsolycka i Järfälla – en till sjukhus - Mitt i
-- Remiss av betänkandet Straffansvar för deltagande i och samröre med kriminella sammanslutningar (SOU 2026:13) - Regeringen.se
-- Fluffig Andersson vill styra med M - SvD
-- Så mycket sömn behöver ett barn – ålder för ålder - Sydsvenskan
 - Ihållande kyla pressar isbrytningen - Kuriren
-- Dömda går fria eftersom rättspsyk är fullt - GP
 - 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
-- Brand i lägenhetshus i Kista - Expressen
-- Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
+- Fler förslag mot läkemedelsbrister - LäkemedelsVärlden
 - Ryska och ukrainska städer utan el - SVT Nyheter
-- DN Direkt – Misstänkt farligt föremål i Herrljunga – förskola inrymd - Dagens Nyheter
-- Trump kan stoppa norska försvarskoncernen - DI
-- Lasse: ”Kan inte ringa till barnen” - Expressen
+- Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
+- EU köpte konstgödsel för över 9 miljarder kronor från Ryssland - Aktuellt i Politiken
+- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
+- Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
+- Forskning: Framtidens datacenter går på is - Dagens PS
 - Klarna-vd:n om sitt AI-utspel: "Fick betala mycket" - Dagens PS
 - Trots miljardförluster – boom för läkemedelsaktien - Dagens PS
-- Jordskredet: BYD krossade av Geely - Carup.se
 - Google släpper akutfix för Chrome - Computer Sweden
+- Hon jobbar i rymden igen - 8 Sidor
 - Storslam för Toyota i Svenska rallyt. Oliver Solberg blev fyra. - feber.se
-- Test: Xiaomi Poco F8 Pro – Riktig toppmobil för under 7000 kronor - mobil.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
@@ -37,16 +38,15 @@ _Updated: 2026-02-16 15:45_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
+- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Tidningsjätte i England lägger ner efter skandal - SvD
-- Cameron – smittad av skandalen - Aftonbladet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Tabloiddrottningens sista smaskiga story - SvD
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -61,7 +61,7 @@ _Updated: 2026-02-16 15:45_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -79,9 +79,9 @@ _Updated: 2026-02-16 15:45_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
