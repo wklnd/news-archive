@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 11:29_
+_Updated: 2026-02-16 12:28_
 
 ## Top Stories
 
 - Försvunna kvinnan hittad avliden - Hallands Nyheter
-- Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
 - Stödet från mentorn ska ta Basher till gymnasiet - GP
-- DN Direkt – Bondi: Alla Epsteindokument är släppta - Dagens Nyheter
-- Kievs borgmästare: På katastrofens rand - GP
-- S-ledaren om migrationspolitiken: Inte gått för långt - SVT Nyheter
-- Stränga kylan snart förbi – då blir det mildare - Dagens Nyheter
-- Brottsutsatta arbetare på Stegra ska ha tvingats lämna landet - Dagens Nyheter
-- Många svenskar är sjuka – stor ökning väntar - Marcus Oscarsson
-- 16 februari 07.00, Sammanfattning natt, Dalarnas län - polisen.se
+- Michael Winiarski: Den här gången käftar Europa emot Trump - Dagens Nyheter
+- Kris fick inte EU att öka takt mot fossilfrihet - Aftonbladet
+- Ryska och ukrainska städer utan el - SVT Nyheter
+- Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
+- Smitningsolycka i Järfälla – en till sjukhus - Mitt i
+- Flashback fortfarande nere efter stor överbelastningsattack - SVT Nyheter
+- 16 februari 07.00, Sammanfattning natt, Dalarnas län - Polisen.se
+- Två försökte sparka upp dörr i Visby - Expressen
 - Rysk hackergrupp försökte påverka norska valet - Omni
-- Expert: Ryssland tvingas välja vad de vill försvara - Dagens Nyheter
-- Misstänkt stöld på byggarbetsplats i Malmö – två gripna - Expressen
 - Talar ut om Trumps absurda sms: ”Van” - Expressen
+- Därför backar forskare om periodiska fastans effekter - Dagens Nyheter
 - ”Kan inte ringa barnen” - Expressen
-- Vattenfall sålde för miljoner – köparen blev en av världens rikaste - Realtid
-- Så ska slumrande börsjätten lyftas: "Avgörande roll" enligt ny vd:n - Dagens PS
+- Återköparnas miljardfiasko – ”delikat intressekonflikt” - DI
 - Janni, 34, fick faktura på 10 000 kronor: ”En chock” - Norran
-- Apple ryktas släppa flera nya produkter till det smarta hemmet under 2026 - Teknikveckan
+- Ulla-Maj, 71, valde att pausa sin tjänstepension: ”Är jättenöjd” - Expressen
+- Varför gör de inget åt alla fel? - SvD
 - Apple-data avslöjar: Miljoner Iphones riskerar säkerhetsproblem - Dagens PS
+- Test: Xiaomi Poco F8 Pro – Riktig toppmobil för under 7000 kronor - mobil.se
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2026-02-16 11:29_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -54,14 +54,14 @@ _Updated: 2026-02-16 11:29_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
+- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -97,7 +97,7 @@ _Updated: 2026-02-16 11:29_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Hälsa och teknik - Chalmers
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -116,24 +116,24 @@ _Updated: 2026-02-16 11:29_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- 5 myter om öppen vetenskap - Läkartidningen
+- AI-drivna artikelfabriker - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
