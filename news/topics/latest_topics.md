@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 17:08_
+_Updated: 2026-02-16 18:06_
 
 ## Top Stories
 
 - Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
-- Zelenskyj varnar för jätteattack - Västerbottens-Kuriren
-- Man allvarligt skadad efter arbetsplatsolycka i Växjö - SVT Nyheter
-- Misstänkt grov mordbrand – en gripen - Aftonbladet
-- De kräver att S är med och stoppar utvisningar - GP
+- Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
 - Smitningsolycka i Järfälla – en till sjukhus - Mitt i
+- Frankrike kan bli först i EU med 15-årsgräns på sociala medier - GP
+- Misstänkt farligt föremål nära förskola i Herrljunga – var oskarpt - SVT Nyheter
+- Svantesson om kritiken: ”Långt ifrån verkligheten” – Senaste nytt om valet 2026 - SVT Nyheter
+- Kraftig brand i Kista – en person gripen - SVT Nyheter
+- Här är de skånska jobben som hotas – och här behövs arbetskraft - Sydsvenskan
+- DN Direkt – Stopp för tåg på Malmbanan kvarstår - Dagens Nyheter
 - Ihållande kyla pressar isbrytningen - Kuriren
-- 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
-- Fler förslag mot läkemedelsbrister - LäkemedelsVärlden
 - Ryska och ukrainska städer utan el - SVT Nyheter
-- Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
-- EU köpte konstgödsel för över 9 miljarder kronor från Ryssland - Aktuellt i Politiken
+- Rektor häktad för våldtäkt mot barn - Folkbladet
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
+- H&M:s miss: "3найдіть свою нову улюблену пару джинсів" - Expressen
 - Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
 - Forskning: Framtidens datacenter går på is - Dagens PS
-- Klarna-vd:n om sitt AI-utspel: "Fick betala mycket" - Dagens PS
-- Trots miljardförluster – boom för läkemedelsaktien - Dagens PS
+- Jordskredet: BYD krossade av Geely - Carup.se
 - Google släpper akutfix för Chrome - Computer Sweden
 - Hon jobbar i rymden igen - 8 Sidor
-- Storslam för Toyota i Svenska rallyt. Oliver Solberg blev fyra. - feber.se
+- Billig MacBook med A18 Pro kan lanseras i mars – flera nya färger - Teknikveckan
 
 ## World News
 
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Umeå children in worldwide school project on AI - Umeå universitet
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Tidningsjätte i England lägger ner efter skandal - SvD
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -61,7 +61,7 @@ _Updated: 2026-02-16 17:08_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -93,8 +93,8 @@ _Updated: 2026-02-16 17:08_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
@@ -106,30 +106,30 @@ _Updated: 2026-02-16 17:08_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- AI-drivna artikelfabriker - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
