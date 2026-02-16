@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 20:02_
+_Updated: 2026-02-16 21:10_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Zelenskyj varnar: Underrättelser om jätteattack - Dagens Nyheter
-- Rektor häktas misstänkt för våldtäkt mot barn - Aftonbladet
 - Svantesson efter tunga kritiken: ”Tänker aldrig be om ursäkt” - GP
-- Wagner raggar sabotörer i Europa – expert: Går inte att utesluta försök i Sverige - Dagens Nyheter
 - Skräckgatan i Malmö: 47 råttgiftsinsatser på ett år - Sydsvenskan
 - Eleverna berättar om sina Tiktok-flöden: ”Jag hamnar automatiskt i en filterbubbla” - GP
-- Kapplöpning om svenska krigsfartyg – för miljarder - Västerbottens-Kuriren
-- Tågurspårning på Malmbanan: ”Sätter fingret på sårbarheten” - Dagens Nyheter
-- 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
+- Misstänkt farligt föremål i Malmö avlägsnat - Omni
+- Rubio hyllar Orban: ”Er framgång är vår framgång” - Omni
+- Rubio hyllar Orbáns relation med Trump – Senaste nytt om säkerhetskonferensen i München - SVT Nyheter
+- Kraftig brand i Kista – en person gripen - SVT Nyheter
+- Familjens ombud: ”De är verkligen ledsna" - Aftonbladet
 - 15 februari 05.25, Försvunnen person, Falkenberg - polisen.se
+- Då inför Jämtkraft kritiserade avgiften - Östersunds-Posten
 - Ryska och ukrainska städer utan el - SVT Nyheter
 - DN Direkt – Lägenhetshus brinner i Kista – en gripen - Dagens Nyheter
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
-- EU köpte konstgödsel för över 9 miljarder kronor från Ryssland - Aktuellt i Politiken
+- En skadad i arbetsplatsolycka - Expressen
+- Stockholm får böta rekordsumma efter miljardavtal - Dagens PS
+- Skarp varning om kontanter – se upp i dessa butiker - Marcus Oscarsson
 - H&M:s miss: "3найдіть свою нову улюблену пару джинсів" - Expressen
-- Vår Energi: Dyrköpta kempeutdelningar - Affärsvärlden
 - Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
-- Generationsskifte i näringslivet – ”En samhällsfråga” - Tidningen Näringslivet
 - Hon jobbar i rymden igen - 8 Sidor
-- Google släpper akutfix för Chrome - Computer Sweden
+- Apple bjuder in till nytt event den 4 mars - Macworld.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- GAC's Innovative Safety and High-Efficiency Powertrain Win Global Recognition (PR Newswire) - Aktiellt
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- Tidningsjätte i England lägger ner efter skandal - SvD
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Tabloiddrottningens sista smaskiga story - SvD
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -93,24 +93,24 @@ _Updated: 2026-02-16 20:02_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Engineering Health 2024 - Chalmers
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
