@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-16 13:12_
+_Updated: 2026-02-16 13:59_
 
 ## Top Stories
 
 - Fluffig Andersson vill styra med M - SvD
-- Finanspolitiska rådet: ”Allvarligaste kritiken under senare år” – Senaste nytt om valet 2026 - SVT Nyheter
-- Omkring 1 600 byggnader utan värme i Kiev - Corren
-- Stödet från mentorn ska ta Basher till gymnasiet - GP
-- 16 februari 07.00, Sammanfattning natt, Dalarnas län - Polisen.se
-- Kievs borgmästare: På katastrofens rand - GP
-- Fem skäl till att Skåne har högst arbetslöshet i landet - Sydsvenskan
 - Ryske oppositionspolitikern: Västvärlden missar chansen att avlägsna Putinregimen - Dagens Nyheter
+- Så mycket sömn behöver ett barn – ålder för ålder - Sydsvenskan
+- Finanspolitiska rådet: ”Allvarligaste kritiken under senare år” – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Kriget i Ukraina – Kreml: Sverige har fel om Navalnyjs död - Dagens Nyheter
+- Frontalkrock i Hagfors – två inblandade - Expressen
+- 16 februari 07.00, Sammanfattning natt, Dalarnas län - Polisen.se
+- Brottsutsatta arbetare på Stegra ska ha tvingats lämna landet - Dagens Nyheter
+- Två försökte sparka upp dörr i Visby - Expressen
+- ”Viktigt att näst största medlemsgruppen är representerad” - Vårdfokus
 - Rysk hackergrupp försökte påverka norska valet - Omni
-- Talar ut om Trumps absurda sms: ”Van” - Expressen
-- DN Direkt – Åtta döda i explosion i fyrverkeriaffär - Dagens Nyheter
+- Ryska och ukrainska städer utan el - SVT Nyheter
+- Greps för stöld – häktad för våldtäkt 2020 - Aftonbladet
 - Offra inte ägarna för jämställdhet i styrelser - Affärsvärlden
 - Lasse: ”Kan inte ringa till barnen” - Expressen
 - Mejeriet som tog emot mjölk slipper åtal - Dagens PS
-- Indien rusar i AI-racet – bara USA är större - Dagens PS
+- Ulla-Maj, 71, valde att pausa sin tjänstepension: ”Är jättenöjd” - Expressen
+- Google släpper akutfix för Chrome - Computer Sweden
+- Apple-data avslöjar: Miljoner Iphones riskerar säkerhetsproblem - Dagens PS
 - Test: Xiaomi Poco F8 Pro – Riktig toppmobil för under 7000 kronor - mobil.se
-- Apple ryktas släppa flera nya produkter till det smarta hemmet under 2026 - Teknikveckan
-- Kingdom Come får 'next-gen'-patch till PS5 och Xbox – gratis för existerande ägare - FZ.se
-- Varför gör de inget åt alla fel? - SvD
-- Carina Bergfeldts ilska mot kroppshatet: ”Svällde upp till en boll” - Expressen
 
 ## World News
 
@@ -39,12 +39,12 @@ _Updated: 2026-02-16 13:12_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Bridges of Brilliance: Global Youth Celebrate "Harmony for Shared Prosperity" (PR Newswire) - Aktiellt
 - Did Trump Bury Ex-Wife Ivana On His Golf Course To Save Taxes? Explained - NDTV
-- Get Ready for Yiwu Chinagoods Global Stocking Festival - A Global Buyer's Paradise (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Tidningsjätte i England lägger ner efter skandal - SvD
 - Is the future for retaining global tech talent in Sweden under threat? - Sveriges Radio
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Tidningsjätte i England lägger ner efter skandal - SvD
+- Get Ready for Yiwu Chinagoods Global Stocking Festival - A Global Buyer's Paradise (PR Newswire) - Aktiellt
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -116,24 +116,24 @@ _Updated: 2026-02-16 13:12_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- AI-drivna artikelfabriker - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
