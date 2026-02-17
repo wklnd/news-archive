@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 21:59_
+_Updated: 2026-02-17 23:02_
 
 ## Top Stories
 
+- ”Jag vill ge dig något du bär med dig varje dag” - SvD
+- Natolandets hot: Attack djupt inne i Putins Ryssland - Expressen
+- KLART: Västtrafik höjer biljettpriserna: ”Det är inte avgörande för resenärerna” - NLT
+- Har gått från t-shirt till proper ”kostym” - SvD
 - Misstänks ha sålt sin fru till 120 män – var familjehem - SVT Nyheter
-- Nya beskedet: Då blir Västtrafiks biljetter dyrare - GP
 - Vårdboendets tystnad efter skabbutbrottet: ”Kafkaartat” - Aftonbladet
-- Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
-- DN Direkt – Mordförsök på anstalt i Härnösand - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Attack mot rysk kemfabrik – 160 mil från fronten - Dagens Nyheter
 - DN Direkt – Man döms för grov våldtäkt mot barn – avslöjades av könssjukdom - Dagens Nyheter
-- Tidöpartierna: Ser över förtalslagen efter Dumpen-dom – Senaste nytt om valet 2026 - SVT Nyheter
+- Hundratals har sökt nytt återvandringsbidrag – ingen har hittills fått - Dagens Nyheter
+- S: Så kan regeringen stoppa tonårsutvisningarna – Senaste nytt om valet 2026 - SVT Nyheter
 - Klart: Fler lodjur får skjutas i Västerbotten i år - Norran
-- Tomhet i Målerås efter branden i Folkets hus: ”Sätter djupa spår” - SVT Nyheter
-- Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
+- Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
 - Överlevde brandkatastrof – kräver skadestånd - GP
-- Kinesiskt nyår – det här är ditt djur - GP
-- Lanserar svensk AI-bot för vård: ”Hittar inte på” - SvD
-- DIS ska lyfta digitala inköp - Upphandling24
+- Kinas robotutveckling: Från staplande till kampsportsmästare - GP
+- Gisèle Pelicots självbiografi hyllas av kritiker: ”En bragd” - SVT Nyheter
+- Percy Barneviks hemliga skilsmässa – dold för både myndigheter och vänner - Expressen
+- Spanien ska utreda X, Meta och Tiktok för att sprida AI-barnpornografi - Omni
 - Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
-- Riksbanken drar lärdomar av krisårens penningpolitik - Placera.se
-- Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
+- DIS ska lyfta digitala inköp - Upphandling24
 - Hon jobbar i rymden igen - 8 Sidor
-- Xbox Game Pass i februari bjuder på en riddar-banger - MovieZine.se
+- Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2026-02-17 21:59_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
@@ -75,7 +75,6 @@ _Updated: 2026-02-17 21:59_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,15 +92,14 @@ _Updated: 2026-02-17 21:59_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -111,6 +109,7 @@ _Updated: 2026-02-17 21:59_
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -122,7 +121,7 @@ _Updated: 2026-02-17 21:59_
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -137,23 +136,23 @@ _Updated: 2026-02-17 21:59_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
