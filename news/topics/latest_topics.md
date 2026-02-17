@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 17:13_
+_Updated: 2026-02-17 18:29_
 
 ## Top Stories
 
-- Kroppsaktivismen – gräsrotsrörelsen som försvann - Dagens Nyheter
+- DN Direkt – Iran avfyrar robotar – parallellt med atomsamtal - Dagens Nyheter
+- Medborgarrättskämpen Jesse Jackson död - Dagens Nyheter
+- De ska försvara nordligaste Norden – lär sig drönarkrig i Karlsborg - Dagens Nyheter
+- Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
+- Två döda i i skidolycka i franska Alperna - GP
 - Ministrar betalar tillbaka felaktiga friskvårdsbidrag – upptäcktes efter DN:s frågor - Dagens Nyheter
-- Ledare: Expert efter expert – alla undrar de vad i helvete regeringen håller på med - VF
-- Tidöpartierna: Ser över förtalslagen efter Dumpen-dom – Senaste nytt om valet 2026 - SVT Nyheter
-- Pappa till Marius Borg Høibys offer: Väldigt mycket ilska - SvD
-- Här köar göteborgarna till semlorna - GP
+- Erik Magnusson Så pressar Danmark på för att få ny järnväg i Skåne - HD – Nyheter Dygnet Runt
+- DN Direkt – Medborgarrättskämpen Jesse Jackson är död - Dagens Nyheter
 - Pappa försökte stoppa tonåringar som smällde smällare – nu döms han - Dagens Nyheter
-- Tågen på Malmbanan börjar rulla på torsdag igen - SVT Nyheter
-- Draget när isen hindrar livräddning: ”Extremsituation” - Expressen
-- Hundratals trotsade varningen: ”Otäckt” - Expressen
-- Högerradikala AFD skakas av skandal – folkvalda anställde sina släktingar - Dagens Nyheter
+- S: Så kan regeringen stoppa tonårsutvisningarna – Senaste nytt om valet 2026 - SVT Nyheter
 - Kinesiskt nyår – det här är ditt djur - GP
-- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
-- Det fascinerande är att människor inte ger sig - Dagens Arena
+- Lärarvikarie döms för våldtäkt mot elev - Västerbottens-Kuriren
+- Så mycket har Tesla Model Y tappat i värde på fem år - Dagens PS
 - EU-utredning mot Shein efter sexdockorna - DI
 - Sdiptech: Omställning som går under radarn - Affärsvärlden
 - Ny lag om straffansvar för olovlig finansiell verksamhet - Finansinspektionen
-- Experter: Fondflöden bakom kraftiga rapportrasen - Affärsvärlden
 - Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
 - Hon jobbar i rymden igen - 8 Sidor
+- Nothing visar upp ny mobil i mars - m3.se
+- Insta360 lanserar en DJI Pocket-utmanare - Teknikveckan
 
 ## World News
 
@@ -34,11 +34,12 @@ _Updated: 2026-02-17 17:13_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -46,7 +47,6 @@ _Updated: 2026-02-17 17:13_
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
 
@@ -117,23 +117,23 @@ _Updated: 2026-02-17 17:13_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-02-17 17:13_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -155,5 +155,5 @@ _Updated: 2026-02-17 17:13_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
