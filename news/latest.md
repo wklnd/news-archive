@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-17 01:58_
+_Updated: 2026-02-17 05:24_
 
 - The U.S. ready to make up, Europe ready to break up in Munich - NPR
-- US build-up of warships and fighter jets tracked near Iran - BBC
-- Mitch McConnell is taking a beating in the race to replace him - The Washington Post
-- Will it really snow in the Bay Area this week? Here’s the forecast - San Francisco Chronicle
-- Israel will begin contentious West Bank land registration - NPR
-- Was Navalny poisoning by frog toxin meant to send a message? - The Guardian
-- How Maryland Democrats are thwarting Wes Moore’s political ambitions - Politico
-- Iran meets UN nuclear watchdog in Geneva ahead of a second round of US talks - AP News
+- Epstein ranch in New Mexico bought by family of ‘Trump Republican’ candidate - The Guardian
 - Aliens are ‘real,’ Obama says, as Washington shrugs - The Washington Post
-- Trump lashes out at California governor’s green energy deal with UK - The Guardian
+- Citing Orwell’s ‘1984,’ judge orders Trump administration to return slavery exhibits removed from Philadelphia museum - CNN
+- US increases military pressure on Iran ahead of high-stakes talks - CNN
 - Rage. Grief. Anxiety. The New Mood in Iran. - The New York Times
+- 2 killed and 3 injured in shooting at a Rhode Island high school hockey game - NBC News
+- Trump says FEMA will play ‘key role’ in coordinating response to Potomac sewage spill - Politico
+- Teacher Killed in Crash After Man Fled in Car From ICE, Police Say - The New York Times
+- How Maryland Democrats are thwarting Wes Moore’s political ambitions - Politico
+- In Hungary, Marco Rubio Stresses Trump’s Support for Viktor Orban - The New York Times
 - Online activity of Canada school shooter shows a fascination with mass violence and violent content, expert says - CBS News
-- An Islamist party becomes Bangladesh's main opposition for the first time - NPR
 - Brazil Carnival street party do’s and don’ts: A survival kit from veterans to beginners - AP News
-- Hyatt executive chairman steps down over Epstein ties - CNN
-- Blackstone CEO is turning his $48 billion fortune into a huge philanthropic foundation for AI - Fortune
-- Smithfield Foods to build $1B+ plant as century-old site will redevelop - SiouxFalls.Business
-- Hapag-Lloyd to Buy Israeli Rival Zim for $4.2 Billion - The Wall Street Journal
-- Switch 2 price, PS6 release could be impacted by memory shortage - Mashable
-- New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released - The Hacker News
+- U.S. Ally Humiliates Trump by Degrading Him on Presidents Day - The Daily Beast
+- Ford is asking the Trump Administration to allow Chinese EV tech in the US - Electrek
+- Unreleased Meta product didn't protect kids from exploitation, tests found - Axios
+- Prediction: These 3 Stocks Will Crush the Market in 2026 - The Motley Fool
+- Maryland man makes split second decision sitting in his car at a traffic light that ends up winning him $100,000 - supercarblondie.com
+- Apple takes on YouTube and Spotify with new video podcasting push - CNBC
+- Unity says its AI tech will soon eliminate the need for coding - Game Developer
