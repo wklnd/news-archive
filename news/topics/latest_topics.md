@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 09:33_
+_Updated: 2026-02-17 10:06_
 
 ## Top Stories
 
@@ -9,21 +9,21 @@ _Updated: 2026-02-17 09:33_
 - Hemlig rapport: Så fixade Flammans chefer miljonlöner med bidragspengar - Sydsvenskan
 - Lawen Redar (S) hyllar modellen som lyft Göteborgs utsatta områden - GP
 - Direkt – Krisen i Mellanöstern – USA varnar Iran för ”konsekvenser” - Dagens Nyheter
-- Rapport: Allvarliga brister i myndigheters arbete mot infiltration - SVT Nyheter
+- Trump sätter press på Ukraina när fredssamtalen fortsätter - Dagens Nyheter
+- Krismöte om arbetsmiljön i sjukvården - SVT Nyheter
 - Så ska kärnkraften fungera vid höjd beredskap - Regeringen.se
-- Man död efter krock med lastbil utanför Värnamo - SVT Nyheter
 - Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
 - Tre genom isen i Stockholm: ”Räknar med fler” - Aftonbladet
+- Hemskickad från akuten utan läkarbedömning – dog - GP
+- Skolelevers attityder kring rasism och intolerans har undersökts - Regeringen.se
 - Det fascinerande är att människor inte ger sig - Dagens Arena
 - Kinesiskt nyår – det här är ditt djur - GP
-- Iran redo att kompromissa för att nå nytt kärnavtal - Omni
-- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
 - 8 av 10 går till jobbet sjuka - Arbetet
-- Ny rapport: Naturrelaterade risker och möjligheter i transportsektorn - Världsnaturfonden WWF
-- Fick sparken – efter chefen smygläst mailen - GP
-- Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
+- Från K-pop till kretskort – Musk vill ha Koreas chipgenier - Dagens PS
+- Nästa miljardmetallen — finns i Sverige, men bryts inte - Dagens PS
+- Nyhetssvepet tisdag 17 februari - Biostock
 - Hon jobbar i rymden igen - 8 Sidor
-- Sivers Semiconductors lanserar nya strålformnings-IC:er och antennpaneler för Ka-bands SATCOM för den breda marknaden - Cision News
+- Amazon introducerar visuell shopping i Sverige med Amazon Lens - Mynewsdesk
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-02-17 09:33_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - SvD
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Cameron – smittad av skandalen - Aftonbladet
+- Ursäkt och skadestånd inte nog - Resume.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Liberty International i Stockholm växer - travelnews.se
 - Tabloiddrottningens sista smaskiga story - SvD
+- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
@@ -62,20 +62,19 @@ _Updated: 2026-02-17 09:33_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -118,22 +117,22 @@ _Updated: 2026-02-17 09:33_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -146,14 +145,14 @@ _Updated: 2026-02-17 09:33_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
