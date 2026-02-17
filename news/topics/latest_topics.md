@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 07:09_
+_Updated: 2026-02-17 08:32_
 
 ## Top Stories
 
-- Explosion vid port i Rinkeby - SVT Nyheter
+- Baudin om regeringsfrågan: ”Dumt att stänga dörren till en ren S-regering” - Dagens Nyheter
+- Hemlig rapport: Så fixade Flammans chefer miljonlöner med bidragspengar - Sydsvenskan
+- Lawen Redar (S) hyllar modellen som lyft Göteborgs utsatta områden - GP
+- Hemskickad från akuten utan läkarbedömning – dog - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – USA varnar Iran för ”konsekvenser” - Dagens Nyheter
-- Trump om Ukraina: Kom till förhandlingsbordet - Dagens Nyheter
-- Turist spårlöst försvunnen – tros ha blivit dödad för sina kroppsdelar - Aftonbladet
-- Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
-- ”Svensk Fågel hotar Sveriges rykte” - SvD
+- DN Direkt – Spanien skickar nödhjälp till Kuba - Dagens Nyheter
+- Så ska kärnkraften fungera vid höjd beredskap - Regeringen.se
 - Man död efter krock med lastbil utanför Värnamo - SVT Nyheter
-- Svenska världsarv murknar, möglar och spolas bort - Dagens Nyheter
-- Därför har vi vargavinter trots global uppvärmning - Hufvudstadsbladet
-- Klubbat och klart: Bengtsfors kommun har nytt styre - SVT Nyheter
+- Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
+- 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
+- Zelenskyj: Underrättelser om ”massiv” rysk attack - Dagens Nyheter
 - Det fascinerande är att människor inte ger sig - Dagens Arena
-- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
 - Ryska och ukrainska städer utan el - SVT Nyheter
-- DN Direkt – Meloni till Trumps ”fredsråds”-möte - Dagens Nyheter
-- Toalettradar ska skydda mot förstoppning - Dagens Nyheter
-- Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
+- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
+- 8 av 10 går till jobbet sjuka - Arbetet
+- Ny rapport: Naturrelaterade risker och möjligheter i transportsektorn - Världsnaturfonden WWF
+- Semmelsmällen: Här har priserna ökat med 116 procent - UNT
 - Fick sparken – efter chefen smygläst mailen - GP
-- Generationsskifte i näringslivet – ”En samhällsfråga” - Tidningen Näringslivet
 - Hon jobbar i rymden igen - 8 Sidor
-- Pc sätter grafikstandarden för Final Fantasy 7-remakens del tre - FZ.se
+- Philips smarta oled-tv gör allt väldigt, väldigt bra - m3.se
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2026-02-17 07:09_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - SvD
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Cameron – smittad av skandalen - Aftonbladet
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Spelet bakom nedläggningen av News of the World - Expressen
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Tabloiddrottningens sista smaskiga story - SvD
 
@@ -61,15 +61,15 @@ _Updated: 2026-02-17 07:09_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -92,18 +92,18 @@ _Updated: 2026-02-17 07:09_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa och teknik - Chalmers
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Hälsa och teknik - Chalmers
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -119,7 +119,7 @@ _Updated: 2026-02-17 07:09_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
@@ -146,13 +146,13 @@ _Updated: 2026-02-17 07:09_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
