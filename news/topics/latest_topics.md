@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 23:02_
+_Updated: 2026-02-17 23:54_
 
 ## Top Stories
 
 - ”Jag vill ge dig något du bär med dig varje dag” - SvD
-- Natolandets hot: Attack djupt inne i Putins Ryssland - Expressen
-- KLART: Västtrafik höjer biljettpriserna: ”Det är inte avgörande för resenärerna” - NLT
+- DN Direkt – Hillary Clinton: Trumpadministrationen mörkar Epsteinfiler - Dagens Nyheter
 - Har gått från t-shirt till proper ”kostym” - SvD
+- Nya beskedet: Då blir Västtrafiks biljetter dyrare - GP
 - Misstänks ha sålt sin fru till 120 män – var familjehem - SVT Nyheter
-- Vårdboendets tystnad efter skabbutbrottet: ”Kafkaartat” - Aftonbladet
-- DN Direkt – Man döms för grov våldtäkt mot barn – avslöjades av könssjukdom - Dagens Nyheter
+- Två döda i lavinolycka i franska Alperna - GP
+- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
 - Hundratals har sökt nytt återvandringsbidrag – ingen har hittills fått - Dagens Nyheter
 - S: Så kan regeringen stoppa tonårsutvisningarna – Senaste nytt om valet 2026 - SVT Nyheter
 - Klart: Fler lodjur får skjutas i Västerbotten i år - Norran
-- Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
+- Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
+- USA: Iran vill inte diskutera Trumps röda linjer - GP
 - Överlevde brandkatastrof – kräver skadestånd - GP
-- Kinas robotutveckling: Från staplande till kampsportsmästare - GP
-- Gisèle Pelicots självbiografi hyllas av kritiker: ”En bragd” - SVT Nyheter
-- Percy Barneviks hemliga skilsmässa – dold för både myndigheter och vänner - Expressen
+- Kinesiskt nyår – det här är ditt djur - GP
+- Får patent på att simulera avlidna på Facebook - Dagens Nyheter
 - Spanien ska utreda X, Meta och Tiktok för att sprida AI-barnpornografi - Omni
+- EU-utredning mot Shein efter sexdockorna - DI
 - Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
-- DIS ska lyfta digitala inköp - Upphandling24
 - Hon jobbar i rymden igen - 8 Sidor
-- Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
+- Xbox Game Pass i februari bjuder på en riddar-banger - MovieZine.se
 
 ## World News
 
@@ -38,43 +38,44 @@ _Updated: 2026-02-17 23:02_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Tidningsjätte i England lägger ner efter skandal - SvD
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -121,28 +122,28 @@ _Updated: 2026-02-17 23:02_
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
