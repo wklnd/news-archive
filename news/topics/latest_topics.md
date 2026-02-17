@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 08:32_
+_Updated: 2026-02-17 09:33_
 
 ## Top Stories
 
+- Explosion vid port i Rinkeby - SVT Nyheter
 - Baudin om regeringsfrågan: ”Dumt att stänga dörren till en ren S-regering” - Dagens Nyheter
 - Hemlig rapport: Så fixade Flammans chefer miljonlöner med bidragspengar - Sydsvenskan
 - Lawen Redar (S) hyllar modellen som lyft Göteborgs utsatta områden - GP
-- Hemskickad från akuten utan läkarbedömning – dog - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – USA varnar Iran för ”konsekvenser” - Dagens Nyheter
-- DN Direkt – Spanien skickar nödhjälp till Kuba - Dagens Nyheter
+- Rapport: Allvarliga brister i myndigheters arbete mot infiltration - SVT Nyheter
 - Så ska kärnkraften fungera vid höjd beredskap - Regeringen.se
 - Man död efter krock med lastbil utanför Värnamo - SVT Nyheter
 - Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
-- 7 av 10 vill förbjuda turbokycklingar - tidningensyre.se
-- Zelenskyj: Underrättelser om ”massiv” rysk attack - Dagens Nyheter
+- Tre genom isen i Stockholm: ”Räknar med fler” - Aftonbladet
 - Det fascinerande är att människor inte ger sig - Dagens Arena
-- Ryska och ukrainska städer utan el - SVT Nyheter
+- Kinesiskt nyår – det här är ditt djur - GP
+- Iran redo att kompromissa för att nå nytt kärnavtal - Omni
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
 - 8 av 10 går till jobbet sjuka - Arbetet
 - Ny rapport: Naturrelaterade risker och möjligheter i transportsektorn - Världsnaturfonden WWF
-- Semmelsmällen: Här har priserna ökat med 116 procent - UNT
 - Fick sparken – efter chefen smygläst mailen - GP
+- Alzinova utser internationellt erkänd Alzheimerexpert som Global Principal Investigator inför planerad fas 2-studie - Aktiellt
 - Hon jobbar i rymden igen - 8 Sidor
-- Philips smarta oled-tv gör allt väldigt, väldigt bra - m3.se
+- Sivers Semiconductors lanserar nya strålformnings-IC:er och antennpaneler för Ka-bands SATCOM för den breda marknaden - Cision News
 
 ## World News
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - SvD
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Cameron – smittad av skandalen - Aftonbladet
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Spelet bakom nedläggningen av News of the World - Expressen
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
@@ -61,20 +61,21 @@ _Updated: 2026-02-17 08:32_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Nästa generations Internet of Things - Shaping Europe’s digital future
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -114,25 +115,25 @@ _Updated: 2026-02-17 08:32_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -144,15 +145,15 @@ _Updated: 2026-02-17 08:32_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
