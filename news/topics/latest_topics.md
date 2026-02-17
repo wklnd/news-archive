@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 19:32_
+_Updated: 2026-02-17 20:29_
 
 ## Top Stories
 
-- Splittring i Tidöpartierna på grund av utvisningarna - Omni
+- Vårdboendets tystnad efter skabbutbrottet: ”Kafkaartat” - Aftonbladet
 - Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
-- Brottsutredning mot Trafikverket efter dödsolycka - Västerbottens-Kuriren
 - Erik Magnusson Så pressar Danmark på för att få ny järnväg i Skåne - Sydsvenskan
-- Ministrar betalar tillbaka felaktiga friskvårdsbidrag – upptäcktes efter DN:s frågor - Dagens Nyheter
-- Hundratals ryska drönare inför Genèvesamtal - GP
+- Stängdes ute från Airbnb och Amazon – efter Trumps sanktioner - GP
+- Torbjörn Petersson: Kinas robotshow imponerar – men går det att lita på vad vi ser? - Dagens Nyheter
+- Hundratals ryska drönare inför Genèvesamtal - Västerbottens-Kuriren
 - DN Direkt – Man döms för grov våldtäkt mot barn – avslöjades av könssjukdom - Dagens Nyheter
-- Man gripen för mordförsök i trapphus i Malmö hamn - Skånska Dagbladet
 - Pappa försökte stoppa tonåringar som smällde smällare – nu döms han - Dagens Nyheter
-- S: Så kan regeringen stoppa tonårsutvisningarna – Senaste nytt om valet 2026 - SVT Nyheter
-- 36 år efter färjekatastrofen utanför Lysekil – överlevare kräver skadestånd - Bohusläningen
-- Iskyla komplicerar Ukrainas drönarförsvar - GP
-- DN Direkt – S: Vi vill riva upp nya a-kassan - Dagens Nyheter
+- Tomhet i Målerås efter branden i Folkets hus: ”Sätter djupa spår” - SVT Nyheter
+- Operationer och insatser - Försvarsmakten
+- Överlevde brandkatastrof – kräver skadestånd - GP
+- DN Direkt – Baudin om regeringsfrågan: ”Dumt att stänga dörren till en ren S-regering” - Dagens Nyheter
 - Kinesiskt nyår – det här är ditt djur - GP
+- Percy Barneviks hemliga skilsmässa – dold för både myndigheter och vänner - Expressen
 - Så mycket har Tesla Model Y tappat i värde på fem år - Dagens PS
-- Efter lagändring – FI kräver svar från konsumentkreditinstitut - Dagens Juridik
-- Toxin i barnmat skakar livsmedelsjättar - Dagens PS
 - Lanserar svensk AI-bot för vård: ”Hittar inte på” - SvD
+- Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
 - Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
 - Hon jobbar i rymden igen - 8 Sidor
+- Nothing visar upp ny mobil i mars - m3.se
 
 ## World News
 
@@ -54,22 +54,22 @@ _Updated: 2026-02-17 19:32_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -94,22 +94,22 @@ _Updated: 2026-02-17 19:32_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Hälsa och teknik - Chalmers tekniska högskola
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -137,23 +137,23 @@ _Updated: 2026-02-17 19:32_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
