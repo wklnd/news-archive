@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-17 14:04_
+_Updated: 2026-02-17 15:51_
 
-- Jesse Jackson, Civil Rights Leader Who Sought the Presidency, Dies at 84 - The New York Times
-- Iran meets UN nuclear watchdog in Geneva ahead of more US talks - AP News
+- Whirlwind day of diplomacy as US holds talks on Iran and Ukraine in Geneva - CNN
+- Noem's use of Coast Guard resources strains her relationship with the military branch, sources say - NBC News
+- A once-underused immigration enforcement program has exploded under Trump - NPR
+- After First Big Overseas Trip, Ocasio-Cortez Expresses Frustrations - The New York Times
+- Australia refuses to repatriate ISIS-linked citizens in Syria as escape attempt fails - CNN
+- Trump news at a glance: Ukraine must reach a deal with Russia ‘fast’, says president before trilateral talks - The Guardian
+- Why Congress failed to reach an Obamacare deal - Politico
+- Teacher Killed in Crash After Man Fled in Car From ICE, Police Say - The New York Times
+- The Epstein files have brought a wave of resignations and investigations - The Washington Post
 - US increases military pressure on Iran ahead of high-stakes talks - CNN
-- Lunar New Year 2026 live: Year of the Fire Horse - BBC
-- Winter weather advisory issued for portion of Bay Area as snow enters forecast - San Francisco Chronicle
-- George W. Bush praises ‘giving up power willingly’ this Presidents Day - NJ.com
-- FBI won’t share Alex Pretti shooting evidence, Minnesota authorities say - The Guardian
+- Review | Gisèle Pelicot bravely went public as a rape victim. But her life collapsed. - The Washington Post
+- Iran fires live missiles into Strait of Hormuz in drill as a new round of nuclear talks begins - AP News
+- Om Birla meets new Bangladesh PM Tarique Rahman, hands over PM Modi’s letter - Times of India
 - Brazil Carnival street party do’s and don’ts: A survival kit from veterans to beginners - AP News
-- U.S. Ally Humiliates Trump by Degrading Him on Presidents Day - The Daily Beast
-- 12 said killed in IDF Gaza strikes, including senior Islamic Jihad commander - The Times of Israel
-- Was Navalny poisoning by frog toxin meant to send a message? - The Guardian
-- Exclusive | Activist Elliott Builds Big Stake in Norwegian Cruise Line - The Wall Street Journal
-- Nasdaq Futures Fall Ahead of Busy Week - The Wall Street Journal
-- Canadians Say They’ll Buy Cheaper Chinese EVs as Tariffs Drop - Bloomberg.com
-- 3 Stocks to Buy and Hold Forever: A Long-Term Play for Your Portfolio - The Motley Fool
-- Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis - The Verge
-- Unity says its AI tech will soon eliminate the need for coding - Game Developer
-- Assassin's Creed Shadows winter roadmap includes community parkour and Switch 2 Claws of Awaji release date - Eurogamer
-- iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life - MacRumors
-- WWE RAW Spoiler Lineup for February 16, 2026: Full Match Card and Backstage Notes Revealed - Ringside News
+- Josh Kushner’s Thrive Capital Raises $10 Billion in New Funding - Bloomberg.com
+- EU privacy watchdog opens probe into Elon Musk’s X over sexualised AI images - Financial Times
+- EU to investigate Shein over sale of childlike sex dolls and weapons - The Guardian
+- Warsh’s war on the Fed balance sheet - Financial Times
+- Android getting new ‘local file backup’ feature via Google Drive - 9to5Google
+- Android Auto 16.3 update lands with traces of video apps, light theme - 9to5Google
