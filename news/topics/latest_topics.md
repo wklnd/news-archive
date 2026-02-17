@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 21:28_
+_Updated: 2026-02-17 21:59_
 
 ## Top Stories
 
 - Misstänks ha sålt sin fru till 120 män – var familjehem - SVT Nyheter
 - Nya beskedet: Då blir Västtrafiks biljetter dyrare - GP
 - Vårdboendets tystnad efter skabbutbrottet: ”Kafkaartat” - Aftonbladet
+- Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
 - DN Direkt – Mordförsök på anstalt i Härnösand - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Attack mot rysk kemfabrik – 160 mil från fronten - Dagens Nyheter
-- Gisèle Pelicot: Vill möta min exman i fängelset - SvD
 - DN Direkt – Man döms för grov våldtäkt mot barn – avslöjades av könssjukdom - Dagens Nyheter
+- Tidöpartierna: Ser över förtalslagen efter Dumpen-dom – Senaste nytt om valet 2026 - SVT Nyheter
+- Klart: Fler lodjur får skjutas i Västerbotten i år - Norran
 - Tomhet i Målerås efter branden i Folkets hus: ”Sätter djupa spår” - SVT Nyheter
-- Klart: Så många lodjur får fällas i länet - Västerbottens-Kuriren
-- Ökning av antalet dödade djur på svenska slakterier - Via TT
-- Flera döda i attacker mot misstänkta knarkbåtar - Expressen
 - Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
-- Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
-- DN Direkt – Baudin om regeringsfrågan: ”Dumt att stänga dörren till en ren S-regering” - Dagens Nyheter
-- Percy Barneviks hemliga skilsmässa – dold för både myndigheter och vänner - Expressen
+- Överlevde brandkatastrof – kräver skadestånd - GP
+- Kinesiskt nyår – det här är ditt djur - GP
 - Lanserar svensk AI-bot för vård: ”Hittar inte på” - SvD
+- DIS ska lyfta digitala inköp - Upphandling24
 - Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
+- Riksbanken drar lärdomar av krisårens penningpolitik - Placera.se
 - Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
 - Hon jobbar i rymden igen - 8 Sidor
 - Xbox Game Pass i februari bjuder på en riddar-banger - MovieZine.se
@@ -39,13 +39,13 @@ _Updated: 2026-02-17 21:28_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Tidningsjätte i England lägger ner efter skandal - SvD
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
@@ -75,6 +75,7 @@ _Updated: 2026-02-17 21:28_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,22 +94,22 @@ _Updated: 2026-02-17 21:28_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Hälsa och teknik - Chalmers tekniska högskola
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -121,15 +122,15 @@ _Updated: 2026-02-17 21:28_
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
