@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 18:29_
+_Updated: 2026-02-17 19:32_
 
 ## Top Stories
 
-- DN Direkt – Iran avfyrar robotar – parallellt med atomsamtal - Dagens Nyheter
-- Medborgarrättskämpen Jesse Jackson död - Dagens Nyheter
-- De ska försvara nordligaste Norden – lär sig drönarkrig i Karlsborg - Dagens Nyheter
+- Splittring i Tidöpartierna på grund av utvisningarna - Omni
 - Teknikfeber i staden som chockade USA med Deepseek - Dagens Nyheter
-- Två döda i i skidolycka i franska Alperna - GP
+- Brottsutredning mot Trafikverket efter dödsolycka - Västerbottens-Kuriren
+- Erik Magnusson Så pressar Danmark på för att få ny järnväg i Skåne - Sydsvenskan
 - Ministrar betalar tillbaka felaktiga friskvårdsbidrag – upptäcktes efter DN:s frågor - Dagens Nyheter
-- Erik Magnusson Så pressar Danmark på för att få ny järnväg i Skåne - HD – Nyheter Dygnet Runt
-- DN Direkt – Medborgarrättskämpen Jesse Jackson är död - Dagens Nyheter
+- Hundratals ryska drönare inför Genèvesamtal - GP
+- DN Direkt – Man döms för grov våldtäkt mot barn – avslöjades av könssjukdom - Dagens Nyheter
+- Man gripen för mordförsök i trapphus i Malmö hamn - Skånska Dagbladet
 - Pappa försökte stoppa tonåringar som smällde smällare – nu döms han - Dagens Nyheter
 - S: Så kan regeringen stoppa tonårsutvisningarna – Senaste nytt om valet 2026 - SVT Nyheter
+- 36 år efter färjekatastrofen utanför Lysekil – överlevare kräver skadestånd - Bohusläningen
+- Iskyla komplicerar Ukrainas drönarförsvar - GP
+- DN Direkt – S: Vi vill riva upp nya a-kassan - Dagens Nyheter
 - Kinesiskt nyår – det här är ditt djur - GP
-- Lärarvikarie döms för våldtäkt mot elev - Västerbottens-Kuriren
 - Så mycket har Tesla Model Y tappat i värde på fem år - Dagens PS
-- EU-utredning mot Shein efter sexdockorna - DI
-- Sdiptech: Omställning som går under radarn - Affärsvärlden
-- Ny lag om straffansvar för olovlig finansiell verksamhet - Finansinspektionen
+- Efter lagändring – FI kräver svar från konsumentkreditinstitut - Dagens Juridik
+- Toxin i barnmat skakar livsmedelsjättar - Dagens PS
+- Lanserar svensk AI-bot för vård: ”Hittar inte på” - SvD
 - Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
 - Hon jobbar i rymden igen - 8 Sidor
-- Nothing visar upp ny mobil i mars - m3.se
-- Insta360 lanserar en DJI Pocket-utmanare - Teknikveckan
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2026-02-17 18:29_
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -94,23 +94,23 @@ _Updated: 2026-02-17 18:29_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
-- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Hälsa och teknik - Chalmers tekniska högskola
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Anna Mia Ekström - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -146,8 +146,8 @@ _Updated: 2026-02-17 18:29_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -155,5 +155,5 @@ _Updated: 2026-02-17 18:29_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
