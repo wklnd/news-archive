@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-17 15:45_
+_Updated: 2026-02-17 17:13_
 
 ## Top Stories
 
-- Hundratals ryska drönare inför Genèvesamtal - GP
 - Kroppsaktivismen – gräsrotsrörelsen som försvann - Dagens Nyheter
-- S: Så kan regeringen stoppa tonårsutvisningarna – Senaste nytt om valet 2026 - SVT Nyheter
-- 17 februari 07.30, Sammanfattning natt, Örebro län - polisen.se
-- Hemskickad från akuten – dog - Västerbottens-Kuriren
-- ”Svensk Fågel hotar Sveriges rykte” - SvD
+- Ministrar betalar tillbaka felaktiga friskvårdsbidrag – upptäcktes efter DN:s frågor - Dagens Nyheter
+- Ledare: Expert efter expert – alla undrar de vad i helvete regeringen håller på med - VF
+- Tidöpartierna: Ser över förtalslagen efter Dumpen-dom – Senaste nytt om valet 2026 - SVT Nyheter
+- Pappa till Marius Borg Høibys offer: Väldigt mycket ilska - SvD
+- Här köar göteborgarna till semlorna - GP
 - Pappa försökte stoppa tonåringar som smällde smällare – nu döms han - Dagens Nyheter
-- Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
-- "Försvårar för farmaceuter att hjälpa vid läkemedelsbrister" - Svensk Farmaci
-- Överlevde brandkatastrof – kräver skadestånd - Aftonbladet
+- Tågen på Malmbanan börjar rulla på torsdag igen - SVT Nyheter
+- Draget när isen hindrar livräddning: ”Extremsituation” - Expressen
+- Hundratals trotsade varningen: ”Otäckt” - Expressen
 - Högerradikala AFD skakas av skandal – folkvalda anställde sina släktingar - Dagens Nyheter
-- Toppmilitärernas larm: Alla måste ställa sig bakom - Expressen
 - Kinesiskt nyår – det här är ditt djur - GP
-- DN Direkt – Medborgarrättskämpen Jesse Jackson är död - Dagens Nyheter
+- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
+- Det fascinerande är att människor inte ger sig - Dagens Arena
+- EU-utredning mot Shein efter sexdockorna - DI
+- Sdiptech: Omställning som går under radarn - Affärsvärlden
+- Ny lag om straffansvar för olovlig finansiell verksamhet - Finansinspektionen
 - Experter: Fondflöden bakom kraftiga rapportrasen - Affärsvärlden
-- Så tidigt kan du få din deklaration - Östersunds-Posten
-- Kollaps för olja och gas – men bara tillfälligt? - Dagens PS
 - Perkutan etanolinjektion som behandling av tyreoideacystor - Läkartidningen
 - Hon jobbar i rymden igen - 8 Sidor
-- Skräckfilmen "Obsession" får svensk premiär – drömtjejen blir hans mardröm - MovieZine.se
 
 ## World News
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - SvD
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Cameron – smittad av skandalen - Aftonbladet
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Tabloiddrottningens sista smaskiga story - SvD
@@ -52,24 +52,24 @@ _Updated: 2026-02-17 15:45_
 
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Nästa generations Internet of Things - EU Digital Strategy
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -97,7 +97,7 @@ _Updated: 2026-02-17 15:45_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Engineering Health 2024 - Chalmers
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
@@ -115,25 +115,25 @@ _Updated: 2026-02-17 15:45_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-02-17 15:45_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -155,5 +155,5 @@ _Updated: 2026-02-17 15:45_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
