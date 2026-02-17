@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 00:58_
+_Updated: 2026-02-18 01:53_
 
 ## Top Stories
 
-- ”Jag vill ge dig något du bär med dig varje dag” - SvD
-- Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
-- Har gått från t-shirt till proper ”kostym” - SvD
+- Hans klädstil utvecklas med kriget: ”Snilleblixt” - SvD
 - Misstänks ha sålt sin fru till 120 män – var familjehem - SVT Nyheter
 - Mohamsson besökte SD:s gruppmöte – Senaste nytt om valet 2026 - SVT Nyheter
-- KLART: Västtrafik höjer biljettpriserna: ”Det är inte avgörande för resenärerna” - NLT
-- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
-- Flera fortkörningar på E4 - Folkbladet
-- Hundratals har sökt nytt återvandringsbidrag – ingen har hittills fått - Dagens Nyheter
-- Erik Magnusson Så pressar Danmark på för att få ny järnväg i Skåne - Sydsvenskan
-- Ryskt oljeraffinaderi i brand - GP
+- Adam Cwejman: Förändrad demografi leder till förändrade attityder - GP
+- Dödsmisshandel utlöser politisk strid i Frankrike - SvD
+- Regeringen inrättar kriskommission för vården - Aftonbladet
+- DN Direkt – Man döms för grov våldtäkt mot barn – avslöjades av könssjukdom - Dagens Nyheter
+- 17 februari 18.30, Trafikkontroll, Jämtlands län - polisen.se
+- Klart: Så många lodjur får fällas i länet - Västerbottens-Kuriren
+- Förare stoppad – påverkad av narkotika - Västerbottens-Kuriren
+- Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
 - Överlevde brandkatastrof – kräver skadestånd - GP
-- Gisèle Pelicot: Vill möta min exman i fängelset - GP
-- Två döda i lavinolycka i franska Alperna - Hufvudstadsbladet
-- Spanien ska utreda X, Meta och Tiktok för att sprida AI-barnpornografi - Omni
+- Fyra intagna anhållna för mordförsök i fängelse - Omni
+- Kinesiskt nyår – det här är ditt djur - GP
 - Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
 - DIS ska lyfta digitala inköp - Upphandling24
 - Efter rapporten, är Amazons aktie köpvärd? - Morningstar Canada
 - Hon jobbar i rymden igen - 8 Sidor
 - Xbox Game Pass i februari bjuder på en riddar-banger - MovieZine.se
+- Steam Deck slut i lager – hårdvarubristen slår till igen - FZ.se
 
 ## World News
 
@@ -35,17 +35,17 @@ _Updated: 2026-02-18 00:58_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Tidningsjätte i England lägger ner efter skandal - SvD
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Cameron – smittad av skandalen - Aftonbladet
-- Ursäkt och skadestånd inte nog - resume.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Liberty International i Stockholm växer - travelnews.se
 - Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
@@ -75,7 +75,6 @@ _Updated: 2026-02-18 00:58_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -117,23 +116,23 @@ _Updated: 2026-02-18 00:58_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
