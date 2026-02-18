@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-18 01:59_
+_Updated: 2026-02-18 05:29_
 
-- Bay Area gets first winter weather advisory in 3 years - SFGATE
-- Hegseth Is Said to Have Ordered Pentagon Spokesman’s Firing - The New York Times
-- Trump family business files for trademark rights on any airports using the president’s name - AP News
-- Trump Sought Vast Budget Cuts. Congress Granted Few. - The New York Times
-- Democrats send counteroffer on ICE reforms to Republicans as DHS shutdown continues - CBS News
-- Monster storms flood parts of California with rounds of heavy rain as extreme snow slams the Sierra Nevada - Yahoo
-- Jesse Jackson, a leading voice for civil rights, dies at 84 - The Washington Post
+- Mamdani Threatens 9.5% Property Tax Increase if Wealth Tax Is Not Passed - The New York Times
+- Trump Bets on Diplomacy Without Diplomats - The New York Times
+- Air Force One will sport Trump’s preferred paint job, after Air Force again reverses course - CNN
+- Hegseth forces ouster of senior Army spokesman in latest internal clash - The Washington Post
+- Judge declares mistrial in Texas ‘antifa’ protest case over attorney’s T-shirt - The Guardian
+- Potomac Sewage Spill Becomes Ecological Disaster and Political Fight - The New York Times
+- California highways, ski resorts close in Sierra amid worst snowstorm in years - San Francisco Chronicle
 - DHS spokeswoman who became a face of Trump deportation campaign steps down - The Washington Post
-- 18-year-old with loaded shotgun detained after running toward the US Capitol - WJLA
-- New lawsuit challenges Trump order to remove ‘corrosive ideology’ from national parks - Politico
-- U.S. releases new details on alleged secret Chinese nuclear test - NPR
-- Cabinet secretary frontrunner faced multiple bullying complaints - BBC
-- India has long promised 'vibrant' border villages, as China speedily builds up - NPR
-- Peru’s leader José Jerí ousted over ‘Chifa-gate’ scandal, as presidential ‘curse’ strikes again - CNN
-- Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months - Business Insider
-- Salmon sold at BJ's recalled for potential listeria contamination - NBC News
-- EU launches second investigation into Grok's nonconsensual image generation - Engadget
-- Quantum Computing Stocks: Infleqtion Pops In First Day As Public Company - Investor's Business Daily
-- Google teases I/O 2026 with ‘Make Build Unlock’ puzzle - 9to5Google
-- YouTube adds new hurdles for ad blockers, and there's currently no way around it - Android Authority
+- Why California could be the big winner as EPA abandons climate policy - Politico
+- S.F. Bay Area pounded by storms, hail, snow. Here’s when the worst will end - San Francisco Chronicle
+- U.S. offers more details on claim China conducted secret nuclear weapons test - The Washington Post
+- Gisèle Pelicot’s memoir launches in 22 languages, turning horror into hope for survivors - AP News
+- Nine arrested in France over death of far-right student - BBC
+- Rubio lends hand to Hungary’s Orban as he faces tough election - The Washington Post
+- No bones about it: Judge allows Buffalo Wild Wings to keep 'boneless' chicken on menu - NBC News
+- Nasdaq Ends Higher to Snap a 4-Session Losing Streak - Barron's
+- Shein’s ‘addictive design’ and illegal sex dolls under investigation - The Verge
+- Palantir Shifts HQ to Miami From Denver After Protests - Yahoo Finance
+- Galaxy S26 teaser uses AI, not the camera, to show off low-light upgrades [Video] - 9to5Google
+- Now Pixel 9 phones can transfer files with AirDrop, too - The Verge
