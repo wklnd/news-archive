@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 14:00_
+_Updated: 2026-02-18 15:47_
 
 ## Top Stories
 
-- Så mycket skog fälldes av stormen Johannes - Jordbruksaktuellt
-- Svårt isläge: ”Extremsituation” - SvD
-- Husvagn totalförstörd efter brand – en person till sjukhus - SVT Nyheter
+- Ildar ”Scar” Galiyev häktas för flera grova våldsbrott - SVT Nyheter
+- ”Låg ambitionsnivå innebär risker” - SvD
 - Man sköt mot polis i Bergen - GP
-- Ukrainas förhandlare: Framsteg i fredssamtalen - Västerbottens-Kuriren
-- Kristen och muslimsk fasta samtidigt – så gör Malmöbon Amanda - Sydsvenskan
-- DN Direkt – Misstänkt mordförsök i Malmö - Dagens Nyheter
+- Ukrainskt genombrott lokalt eller början på en stor motoffensiv? - Bulletin
+- Irans drag mitt i fredsförhandlingarna - Expressen
+- Pappa Dahlqvists oväntade sexskämt i SVT - Aftonbladet
 - Visselblåsare i Elsa-fallet: Avgörande uppgifter undanhölls - Dagens Nyheter
 - Malmer Stenergard: Europas relation med USA går in en ny era – Senaste nytt om valet 2026 - SVT Nyheter
-- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
+- Svårt isläge i Vänern: ”Extremsituation” - NWT
+- Risker hölls hemliga i miljardaffären Cosmic - Medtech Magazine
+- Så vill EU stötta gränsområden i öst - Västerbottens-Kuriren
+- Karl Dalén: Är Donald Trump rädd för James Talarico? - Dagens Nyheter
+- Lättnaden efter München: ”Ett steg framåt” - GP
 - Anna-Lena Laurén: Här är höjdarna avspända, då avslöjas hur de tänker - Dagens Nyheter
-- Domstol stoppade deportering av student - GP
-- Det fascinerande är att människor inte ger sig - Dagens Arena
-- Tio saknas efter lavin i Kalifornien - Västerbottens-Kuriren
 - Ministerns råd till arbetslösa: ”Tar sex månader att bli busschaufför” - Aftonbladet
+- Affärsvärlden lämnar säljråd för Studsvik efter kursrusningen - Affärsvärlden
 - Saab slår tillbaka mot Kanada-uppgifter: ”Överträffade alla krav” - Affärsvärlden
-- Alzinova knyter till sig ledande Alzheimerauktoritet inför nästa kliniska fas - Biostock
-- Krönika: När svenskar äter semlor känner jag mig som Anders Tegnell - Fryksdalsbygden
+- Experten: Din låga brf-avgift kan slå tillbaka - Dagens PS
 - Lidl delar stor nyhet: Sätt kryss i kalendern den 23 mars - Dagens.se
-- Windows 11 får inbyggt stöd för Midi 2.0 - PC för Alla
+- Samtalsinspelning har börjat rulla ut i Sverige till Google Pixel - Teknikveckan
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2026-02-18 14:00_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Umeå children in worldwide school project on AI - Umeå universitet
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - SvD
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -54,19 +54,19 @@ _Updated: 2026-02-18 14:00_
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - omni.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
@@ -94,8 +94,8 @@ _Updated: 2026-02-18 14:00_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
@@ -103,7 +103,7 @@ _Updated: 2026-02-18 14:00_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -118,23 +118,23 @@ _Updated: 2026-02-18 14:00_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
@@ -144,12 +144,13 @@ _Updated: 2026-02-18 14:00_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
@@ -157,4 +158,3 @@ _Updated: 2026-02-18 14:00_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
