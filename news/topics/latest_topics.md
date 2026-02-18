@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 10:03_
+_Updated: 2026-02-18 11:11_
 
 ## Top Stories
 
-- Explosion vid flerfamiljshus i Rinkeby – för andra natten i rad - Dagens Nyheter
-- Witkoff: Fortsatt arbete mot ett avtal i Genève - SvD
-- Ledare: Fiasko av kosmiska mått? - Hallands Nyheter
-- Svårt isläge: ”Extremsituation” - SvD
-- Beväpnad man greps vid Kapitolium - GP
-- Amerikanska presidentplanet får nya färger - GP
+- Kristen och muslimsk fasta samtidigt – så gör Malmöbon Amanda - Sydsvenskan
 - SSU:s ordförande i Köping hotas av utvisning till Irak - Dagens Nyheter
-- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
-- Bedrägeri på väg att bli det vanligaste brottet - Omni
-- 18 februari 08.00, Sammanfattning natt, Östergötlands län - Polisen.se
-- Domstol stoppade deportering av student - Västerbottens-Kuriren
+- Svårt isläge: ”Extremsituation” - SvD
+- Wagner rekryterar ”förbrukningsagenter” – Säpo: Finns risk - TV4 Nyheterna
+- Malmer Stenergard: Europas relation med USA går in en ny era – Senaste nytt om valet 2026 - SVT Nyheter
+- Forssell: Nytt miljonstöd för ökat återvändande - SVT Nyheter
+- Explosion vid flerfamiljshus i Rinkeby – för andra natten i rad - Dagens Nyheter
+- Buss och personbil i frontalkrock – mellan Färila och Los - SVT Nyheter
+- Visselblåsare i Elsa-fallet: Avgörande uppgifter undanhölls - Dagens Nyheter
+- Granskning: Risker hölls hemliga i miljardaffären om Cosmic - Medtech Magazine
 - Det fascinerande är att människor inte ger sig - Dagens Arena
 - Zelenskyj: 2 000 barn tillbaka i Ukraina - Dagens Nyheter
-- Forssell: Nytt miljonstöd för ökat återvändande - SVT Nyheter
-- Tech-skräck: Warren Buffett dumpar Amazon - Dagens PS
+- Man med hagelgevär gripen vid Kapitolium - omni.se
+- Berkshire Hathaway har köpt aktier i New York Times - DI
+- Saab slår tillbaka mot Kanada-uppgifter: ”Överträffade alla krav” - Affärsvärlden
 - Sex av tio kommuner kan inte stoppa kriminella – ”Skattepengar hamnar i fel fickor” - Tidningen Näringslivet
-- Krönika: När svenskar äter semlor känner jag mig som Anders Tegnell - Fryksdalsbygden
-- Tänk om det fanns ett vaccin mot Alzheimers… - it-halsa.se
+- Adam Kostyál vill se regelförändringar för börsen - DI
 - Hon jobbar i rymden igen - 8 Sidor
 - Nu har Airdrop-stödet även släppts för Pixel 9-serien - Swedroid
+- Ta hand om en hamn i Docked. Ny hamnsimulator från Saber Interactive. - feber.se
 
 ## World News
 
@@ -36,7 +36,7 @@ _Updated: 2026-02-18 10:03_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC fyller 100 år – äldsta public service i världen - omni.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
@@ -59,7 +59,7 @@ _Updated: 2026-02-18 10:03_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Storbritannien trappar upp kampen mot deepfake - omni.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -75,9 +75,11 @@ _Updated: 2026-02-18 10:03_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -91,22 +93,22 @@ _Updated: 2026-02-18 10:03_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -119,20 +121,20 @@ _Updated: 2026-02-18 10:03_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
