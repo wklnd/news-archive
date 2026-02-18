@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-19 00:02_
+_Updated: 2026-02-19 01:03_
 
-- Air Force One set for makeover paint job with new colours - BBC
-- Massive weeks-long war between US, Iran could begin 'very soon,' Axios reports - The Jerusalem Post
-- Trump would like the government he leads to pay him billions - NPR
+- Stephen Colbert uses his show to roast CBS in feud over FCC rules - The Washington Post
 - Trump administration releases remaining Gateway funds — and then some - Politico
+- Nancy Guthrie disappearance: Sheriff pleads with suspect to ‘just let her go,’ insists case not cold - Fox News
+- Trump would like the government he leads to pay him billions - NPR
 - Presidential Message on Ash Wednesday - The White House (.gov)
 - Ferguson outlines his requirements for WA ‘millionaires tax’ - The Seattle Times
-- Nancy Guthrie disappearance: Sheriff pleads with suspect to ‘just let her go,’ insists case not cold - Fox News
-- Lake Tahoe Avalanche Live Updates: 8 Skiers Found Dead, Authorities Say - The New York Times
-- Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
-- Tracking the Battle to Reshape Congress for the Midterms - The New York Times
+- Lake Tahoe Avalanche Live Updates: 8 Skiers Found Dead, Authorities Say - The New York Times - The New York Times
+- Les Wexner's ties to Jeffrey Epstein, explained - Axios
+- Latest Trump news: Iran talks face uncertainty, DHS funding remains at impasse - CNN
+- Tom Steyer wants a special election to hike corporate taxes in 2027 - Politico
 - Hungary, Slovakia stop Ukraine's diesel supply with immediate effect - Euronews.com
+- Russia hosts Cuban foreign minister and urges US not to blockade Cuba - Associated Press News
 - Russia's hybrid warfare rattles Poland and NATO - NPR
-- Former army chief seen as Zelenskyy’s top rival reveals to AP a rift between them - Associated Press News
-- Fourth alleged rape victim testifies against son of Norway's future queen: "He just wouldn't stop" - CBS News
+- Wave of arrests over killing of French nationalist piles pressure on far left - BBC
 - Microsoft to keep buying enough renewable energy to match all its electricity needs - Yahoo Finance
-- S&P 500 rises, led by Nvidia, even with Fed rate outlook uncertain: Live updates - CNBC
-- Spain first to enter race for Lagarde succession at ECB - Financial Times
+- Etsy stock pops 14% on sale of Depop to eBay for $1.2 billion - CNBC
+- Grandson of the inventor of Reese’s Peanut Butter Cups accuses Hershey of cutting corners - Associated Press News
 - Musk Rails Against ‘Woke And Sanctimonious’ AI Rivals—Insists ‘Grok Must Win’ - Forbes
-- Google’s Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear - Ars Technica
-- iOS 26.4 adds more Sleep and Vitals data to Apple Health - 9to5Mac
+- Google Home now lets you delete pre-made routines, improves clip downloads on web - 9to5Google
+- Samsung phones finally getting a new Google Play System update - SamMobile
