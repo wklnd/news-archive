@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-18 13:25_
+_Updated: 2026-02-18 14:03_
 
-- DHS spokeswoman who became a face of Trump deportation campaign steps down - The Washington Post
 - Trump Bets on Diplomacy Without Diplomats - The New York Times
 - Air Force One will sport Trump’s preferred paint job, after Air Force again reverses course - CNN
+- ‘Woke’ AI Feud Escalates Between Pentagon and Anthropic - The Wall Street Journal
+- Trump Suffers Record Low Polling on Key MAGA Policy - The Daily Beast
 - Here’s how much snow the Sierra got this weekend — and how much is on the way - San Francisco Chronicle
-- Why California could be the big winner as EPA abandons climate policy - Politico
-- AOC Just Debuted on a New International Stage. How Did She Do? - Slate
+- Judge declares mistrial in Texas ‘antifa’ protest case over attorney’s T-shirt - The Guardian
 - Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
+- DHS spokeswoman who became a face of Trump deportation campaign steps down - The Washington Post
 - As Iran talks drag on, questions emerge over how long Trump will indulge diplomacy - CNN
-- Plan to increase youth minimum wage could be delayed - BBC
-- U.S. offers more details on claim China conducted secret nuclear weapons test - The Washington Post
+- Why California could be the big winner as EPA abandons climate policy - Politico
+- 'The search is soul-destroying': Young jobseekers on the struggle to find work - BBC
+- Gisèle Pelicot’s memoir launches in 22 languages, turning horror into hope for survivors - AP News
 - Japan PM Takaichi’s Cabinet Resigns en Masse - The Japan News
 - Peru’s leader José Jerí ousted over ‘Chifa-gate’ scandal, as presidential ‘curse’ strikes again - CNN
 - Asia stocks rise as tech recoups some AI-fueled losses - Investing.com
-- Bayer agrees to $7.25 billion proposed settlement over thousands of Roundup cancer lawsuits - AP News
 - Tough questions — and grieving families — await Mark Zuckerberg at social media addiction trial Wednesday - CNN
-- Tesla dodges 30-day suspension in California after removing ‘Autopilot’ - TechCrunch
-- Sony could delay PS6 release to 2028 or 2029 as AI-driven shortage sends consumer tech companies scrambling for memory chips - GamesIndustry.biz
-- Apple is reportedly cooking up a trio of AI wearables - TechCrunch
-- Microsoft confirms new Windows 11 feature drop coming next month - Windows Central
-- Now Pixel 9 phones can transfer files with AirDrop, too - The Verge
+- NZ: OCR on hold at 2.25% with inflation expected to fall - Forex Factory
+- BofA Survey Shows Investor Worry Over Capex Race at Record High - Yahoo Finance
+- Google announces dates for I/O 2026 - The Verge
+- An Update on Recent Exploits and Corrective Actions - ARC Raiders
