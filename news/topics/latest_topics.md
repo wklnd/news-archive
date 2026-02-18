@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 11:11_
+_Updated: 2026-02-18 12:11_
 
 ## Top Stories
 
-- Kristen och muslimsk fasta samtidigt – så gör Malmöbon Amanda - Sydsvenskan
+- Utrikesministern: USA:s agerande strider mot Europas värderingar - Dagens Nyheter
 - SSU:s ordförande i Köping hotas av utvisning till Irak - Dagens Nyheter
-- Svårt isläge: ”Extremsituation” - SvD
-- Wagner rekryterar ”förbrukningsagenter” – Säpo: Finns risk - TV4 Nyheterna
+- Så mycket skog fälldes av stormen Johannes - Jordbruksaktuellt
+- Flygbasjägarna övar med Danmark på Grönland - Försvarsmakten
+- Gustavsson: Glöm Ramadan – testa påskfasta! - Bulletin
 - Malmer Stenergard: Europas relation med USA går in en ny era – Senaste nytt om valet 2026 - SVT Nyheter
-- Forssell: Nytt miljonstöd för ökat återvändande - SVT Nyheter
-- Explosion vid flerfamiljshus i Rinkeby – för andra natten i rad - Dagens Nyheter
 - Buss och personbil i frontalkrock – mellan Färila och Los - SVT Nyheter
 - Visselblåsare i Elsa-fallet: Avgörande uppgifter undanhölls - Dagens Nyheter
-- Granskning: Risker hölls hemliga i miljardaffären om Cosmic - Medtech Magazine
-- Det fascinerande är att människor inte ger sig - Dagens Arena
+- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
+- Svårt isläge i Vänern: ”Extremsituation” - NWT
+- Anna-Lena Laurén: Här är höjdarna avspända, då avslöjas hur de tänker - Dagens Nyheter
 - Zelenskyj: 2 000 barn tillbaka i Ukraina - Dagens Nyheter
-- Man med hagelgevär gripen vid Kapitolium - omni.se
-- Berkshire Hathaway har köpt aktier i New York Times - DI
+- Forssell: Nytt miljonstöd för ökat återvändande - SVT Nyheter
 - Saab slår tillbaka mot Kanada-uppgifter: ”Överträffade alla krav” - Affärsvärlden
+- Berkshire Hathaway har köpt aktier i New York Times - DI
 - Sex av tio kommuner kan inte stoppa kriminella – ”Skattepengar hamnar i fel fickor” - Tidningen Näringslivet
-- Adam Kostyál vill se regelförändringar för börsen - DI
-- Hon jobbar i rymden igen - 8 Sidor
+- EU-utredning mot Shein efter sexdockorna - DI
+- Jätten lanserar visuell shopping i Sverige – här är nästa steg - Ehandel.se
+- Unreal Tournament 2004 gratis och patchat för nutiden - FZ.se
 - Nu har Airdrop-stödet även släppts för Pixel 9-serien - Swedroid
-- Ta hand om en hamn i Docked. Ny hamnsimulator från Saber Interactive. - feber.se
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2026-02-18 11:11_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - omni.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Tidningsjätte i England lägger ner efter skandal - SvD
-- Cameron – smittad av skandalen - Aftonbladet
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Tabloiddrottningens sista smaskiga story - SvD
 
@@ -57,9 +57,7 @@ _Updated: 2026-02-18 11:11_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - omni.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -70,16 +68,16 @@ _Updated: 2026-02-18 11:11_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -115,40 +113,40 @@ _Updated: 2026-02-18 11:11_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -156,5 +154,5 @@ _Updated: 2026-02-18 11:11_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
