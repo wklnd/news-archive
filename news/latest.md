@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-18 18:43_
+_Updated: 2026-02-18 19:40_
 
-- 'Difficult' Russia-Ukraine peace talks end without breakthrough - BBC
+- Talks on Russia-Ukraine War Enter 2nd Day in Geneva - The New York Times
 - Democratic-led cities move to block ICE, setting up clash with Trump - The Washington Post
 - The Justice Department is not acting like it used to, criminal defense lawyers note - NPR
 - Epstein files suggest acts that may amount to crimes against humanity, say UN experts - The Guardian
 - Trump moves closer to a major war with Iran - Axios
-- Someone knows who kidnapped Nancy Guthrie, authorities say. Video likely holds key - Los Angeles Times
-- What to Know About How Redistricting Is Different in the U.S. - The New York Times
-- Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
+- New lawsuit challenges Trump order to remove ‘corrosive ideology’ from national parks - Politico
+- Why Other Democracies Don’t Gerrymander Like the U.S. - The New York Times
+- Several Democrats Intend to Skip President Trump's State of the Union Address: Live Updates - The New York Times
+- New Hampshire’s GOP Gov. Kelly Ayotte draws her first major challenger - Politico
+- Why California could be the big winner as EPA abandons climate policy - Politico
+- Friedrich Merz says fighter jet project fails to meet Germany’s needs - Financial Times
+- Takaichi, reelected as Japan's leader, wants to cooperate with US in rare earths development - AP News
 - 'The search is soul-destroying': Young jobseekers on the struggle to find work - BBC
-- Gisèle Pelicot’s memoir launches in 22 languages, turning horror into hope for survivors - Associated Press News
-- Egypt Officially Announces Start of Ramadan 2026 on February 19 - Morocco World News
-- Ottawa faces calls to send oil and aid to Cuba amid fuel shortage - The Globe and Mail
-- Epstein files show years of FBI interest in Les Wexner, Epstein’s mysterious benefactor - CNN
+- Gisèle Pelicot’s memoir launches in 22 languages, turning horror into hope for survivors - AP News
 - Stocks rise ahead of Fed minutes as Nvidia shares gain: Live updates - CNBC
-- Apple Decouples From Nasdaq, Offering Alternative to AI-Fueled Volatility - Bloomberg.com
 - Unprecedented ‘Jobless Boom’ Tests Limits of US Economic Expansion - Bloomberg.com
-- Microsoft confirms new Windows 11 feature drop coming next month - Windows Central
-- One UI 8.5 will let you record high quality 24-bit audio with external Bluetooth microphones - SamMobile
-- I hacked ChatGPT and Google's AI – and it only took 20 minutes - BBC
-- Robert Pattinson says a therapist once asked him if he was on drugs because they 'couldn't understand' him - ew.com
+- Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months - Business Insider
+- EU also investigating as Grok generated 23,000 CSAM images in 11 days [U] - 9to5Mac
+- Leaked Pixel 10a ad highlights 30-hour battery life, Camera Coach, and new colors - 9to5Google
+- Apple is reportedly cooking up a trio of AI wearables - TechCrunch
