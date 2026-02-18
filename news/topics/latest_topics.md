@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 13:12_
+_Updated: 2026-02-18 14:00_
 
 ## Top Stories
 
-- Brandlarm på förskola i Nacka - SVT Nyheter
-- Gustavsson: Glöm Ramadan – testa påskfasta! - Bulletin
-- Flygbasjägarna övar med Danmark på Grönland - Försvarsmakten
-- SSU:s ordförande i Köping hotas av utvisning till Irak - Dagens Nyheter
+- Så mycket skog fälldes av stormen Johannes - Jordbruksaktuellt
+- Svårt isläge: ”Extremsituation” - SvD
+- Husvagn totalförstörd efter brand – en person till sjukhus - SVT Nyheter
+- Man sköt mot polis i Bergen - GP
 - Ukrainas förhandlare: Framsteg i fredssamtalen - Västerbottens-Kuriren
-- Malmer Stenergard: Europas relation med USA går in en ny era – Senaste nytt om valet 2026 - SVT Nyheter
+- Kristen och muslimsk fasta samtidigt – så gör Malmöbon Amanda - Sydsvenskan
+- DN Direkt – Misstänkt mordförsök i Malmö - Dagens Nyheter
 - Visselblåsare i Elsa-fallet: Avgörande uppgifter undanhölls - Dagens Nyheter
+- Malmer Stenergard: Europas relation med USA går in en ny era – Senaste nytt om valet 2026 - SVT Nyheter
 - Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
-- Svårt isläge i Vänern: ”Extremsituation” - NWT
-- Granskning: Risker hölls hemliga i miljardaffären om Cosmic - Medtech Magazine
-- Colbert: CBS stoppade intervju med demokrat - Västerbottens-Kuriren
 - Anna-Lena Laurén: Här är höjdarna avspända, då avslöjas hur de tänker - Dagens Nyheter
+- Domstol stoppade deportering av student - GP
 - Det fascinerande är att människor inte ger sig - Dagens Arena
-- Forssell: Nytt miljonstöd för ökat återvändande - SVT Nyheter
+- Tio saknas efter lavin i Kalifornien - Västerbottens-Kuriren
+- Ministerns råd till arbetslösa: ”Tar sex månader att bli busschaufför” - Aftonbladet
 - Saab slår tillbaka mot Kanada-uppgifter: ”Överträffade alla krav” - Affärsvärlden
 - Alzinova knyter till sig ledande Alzheimerauktoritet inför nästa kliniska fas - Biostock
-- DEBATT: Sverige sitter fast trots att industrin är redo - DI
+- Krönika: När svenskar äter semlor känner jag mig som Anders Tegnell - Fryksdalsbygden
 - Lidl delar stor nyhet: Sätt kryss i kalendern den 23 mars - Dagens.se
-- Jätten lanserar visuell shopping i Sverige – här är nästa steg - Ehandel.se
-- Unreal Tournament 2004 gratis och patchat för nutiden - FZ.se
+- Windows 11 får inbyggt stöd för Midi 2.0 - PC för Alla
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2026-02-18 13:12_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - omni.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Umeå children in worldwide school project on AI - Umeå universitet
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -84,7 +84,6 @@ _Updated: 2026-02-18 13:12_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -117,17 +116,17 @@ _Updated: 2026-02-18 13:12_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -139,23 +138,23 @@ _Updated: 2026-02-18 13:12_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
