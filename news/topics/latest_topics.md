@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 15:47_
+_Updated: 2026-02-18 17:12_
 
 ## Top Stories
 
-- Ildar ”Scar” Galiyev häktas för flera grova våldsbrott - SVT Nyheter
+- Explosion i Rinkeby två dagar i rad - SVT Nyheter
+- INSÄNDARE: Att snåla med stödet till unga kan bli dyrt senare - UNT
+- Man sköt mot polis i Bergen - Västerbottens-Kuriren
 - ”Låg ambitionsnivå innebär risker” - SvD
-- Man sköt mot polis i Bergen - GP
-- Ukrainskt genombrott lokalt eller början på en stor motoffensiv? - Bulletin
-- Irans drag mitt i fredsförhandlingarna - Expressen
-- Pappa Dahlqvists oväntade sexskämt i SVT - Aftonbladet
+- Utländska bilister undkommer svenska p-böter: ”Händer ingenting” - Dagens Nyheter
+- Svår bussolycka – fyra till sjukhus - Expressen
+- Ildar ”Scar” Galiyev häktas för flera grova våldsbrott - SVT Nyheter
 - Visselblåsare i Elsa-fallet: Avgörande uppgifter undanhölls - Dagens Nyheter
-- Malmer Stenergard: Europas relation med USA går in en ny era – Senaste nytt om valet 2026 - SVT Nyheter
-- Svårt isläge i Vänern: ”Extremsituation” - NWT
-- Risker hölls hemliga i miljardaffären Cosmic - Medtech Magazine
-- Så vill EU stötta gränsområden i öst - Västerbottens-Kuriren
+- Gud har inte skrivit det finanspolitiska ramverket - Dagens Arena
+- Larmet: Tusentals IS-anhöriga borta från läger - Aftonbladet
+- Israelminister vill få palestinier att lämna - GP
 - Karl Dalén: Är Donald Trump rädd för James Talarico? - Dagens Nyheter
-- Lättnaden efter München: ”Ett steg framåt” - GP
-- Anna-Lena Laurén: Här är höjdarna avspända, då avslöjas hur de tänker - Dagens Nyheter
-- Ministerns råd till arbetslösa: ”Tar sex månader att bli busschaufför” - Aftonbladet
 - Affärsvärlden lämnar säljråd för Studsvik efter kursrusningen - Affärsvärlden
-- Saab slår tillbaka mot Kanada-uppgifter: ”Överträffade alla krav” - Affärsvärlden
-- Experten: Din låga brf-avgift kan slå tillbaka - Dagens PS
-- Lidl delar stor nyhet: Sätt kryss i kalendern den 23 mars - Dagens.se
+- Upsales stiger efter rapport - DI
+- Alzinova knyter till sig ledande Alzheimerauktoritet inför nästa kliniska fas - Biostock
+- Aftonbladet startar radiokanal: ”Historiskt kliv” - Aftonbladet
 - Samtalsinspelning har börjat rulla ut i Sverige till Google Pixel - Teknikveckan
+- Äntligen! Apple lägger till laddbegränsning i Mac OS - Macworld.se
+- Stockholm-Åre förlorade OS – men vann klimatmatchen - DI
+- Uppgift: Playstation 6 kan dröja till 2029 på grund av komponentbrist - FZ.se
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-02-18 15:47_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
-- Umeå children in worldwide school project on AI - Umeå universitet
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -60,8 +60,8 @@ _Updated: 2026-02-18 15:47_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
