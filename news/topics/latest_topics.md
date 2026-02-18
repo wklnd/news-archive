@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 18:32_
+_Updated: 2026-02-18 19:35_
 
 ## Top Stories
 
-- Misstänkt mordförsök på Söder i Uddevalla – man gripen - Bohusläningen
-- Explosion i Rinkeby två dagar i rad - SVT Nyheter
 - Ukraina: människor på flykt kämpar för att återvända - Unric
-- Tar tillfälligt över som klimatminister – Senaste nytt om valet 2026 - SVT Nyheter
-- Protesterna mot tonårs-utvisningarna visar att andra vägar är möjliga - tidningensyre.se
-- Region Blekinge avslutar stabsläge - Region Blekinge
-- Ildar ”Scar” Galiyev häktas för flera grova våldsbrott - SVT Nyheter
+- Nattåg försvinner i norr – nu varslar SJ personal - SVT Nyheter
+- Explosion i Rinkeby två dagar i rad - SVT Nyheter
 - Utländska bilister undkommer svenska p-böter: ”Händer ingenting” - Dagens Nyheter
+- Alpint: Anna Swenn Larsson tar OS-brons i slalom - SVT Nyheter
+- Ildar ”Scar” Galiyev häktas för flera grova våldsbrott - SVT Nyheter
 - Här har eleverna fått passerkort för att höja säkerheten på skolan - Dagens Nyheter
+- Regionens stabsläge avslutas – chefsanklagelser fortsätter att utredas - SVT Nyheter
 - Svårt isläge – båtar fastfrusna på Mälaren: "Extremsituation" - Strengnäs Tidning
 - Så vill EU stötta gränsområden i öst - Västerbottens-Kuriren
+- Tjocka isar kan lamslå rysk oljeexport – kallar in atomdriven isbrytare - Dagens Nyheter
+- Kung Frederik visar sitt stöd till Grönland - Västerbottens-Kuriren
 - Larmet: Tusentals IS-anhöriga borta från läger - Aftonbladet
-- DN Direkt – Kung Frederik visar sitt stöd för Grönland - Dagens Nyheter
-- Karl Dalén: Är Donald Trump rädd för James Talarico? - Dagens Nyheter
 - SAS vill växa igen med ny ägare: ”Tillväxtfas” - SvD
+- Tesla anklagas för "toxisk" arbetsmiljö i jättefabrik - Dagens PS
 - Ny undersökning: De borde ha högst och lägst pension - Aftonbladet
-- Upsales stiger efter rapport - DI
 - Alzinova knyter till sig ledande Alzheimerauktoritet inför nästa kliniska fas - Biostock
 - Samtalsinspelning har börjat rulla ut i Sverige till Google Pixel - Teknikveckan
-- Läcka avslöjar detaljer om Nothing Phone 4a - m3.se
+- Visir till MC-hjälm tonas automatiskt. Om ljuset blir för starkt. - feber.se
+- Google Photos synkar inte nya bilder mellan enheter - Teknikveckan
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2026-02-18 18:32_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Umeå children in worldwide school project on AI - Umeå universitet
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -60,8 +60,8 @@ _Updated: 2026-02-18 18:32_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -79,10 +79,12 @@ _Updated: 2026-02-18 18:32_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -92,23 +94,23 @@ _Updated: 2026-02-18 18:32_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
@@ -140,20 +142,20 @@ _Updated: 2026-02-18 18:32_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
