@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-18 20:29_
+_Updated: 2026-02-18 21:34_
 
-- Avalanche Live Updates: 9 Skiers Missing Near Lake Tahoe - The New York Times
+- Talks on Russia-Ukraine War Enter 2nd Day in Geneva - The New York Times
 - Democratic-led cities move to block ICE, setting up clash with Trump - The Washington Post
+- Republicans, Braced for Losses, Push More Voting Restrictions in Congress - The New York Times
 - The Justice Department is not acting like it used to, criminal defense lawyers note - NPR
-- Epstein files suggest acts that may amount to crimes against humanity, say UN experts - The Guardian
-- Someone knows who kidnapped Nancy Guthrie, authorities say. Video likely holds key - Los Angeles Times
-- Billionaires’ Low Taxes Are Becoming a Problem for the Economy - The Wall Street Journal
-- Why Other Democracies Don’t Gerrymander Like the U.S. - The New York Times
 - Several Democrats Intend to Skip President Trump's State of the Union Address: Live Updates - The New York Times
-- 'Difficult' Russia-Ukraine peace talks end without breakthrough - BBC
+- Satellite images show Iran repairing and fortifying sites amid US tensions - Reuters
+- Latest Updates: Investigators Look Into Genetic Genealogy in Nancy Guthrie Case - The New York Times
+- Epstein files suggest acts that may amount to crimes against humanity, say UN experts - The Guardian
+- New Hampshire’s GOP Gov. Kelly Ayotte draws her first major challenger - Politico
 - Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
-- Friedrich Merz says fighter jet project fails to meet Germany’s needs - Financial Times
-- Lunar new year 2026: year of the fire horse around the world – in pictures - The Guardian
+- Former army chief seen as Zelenskyy’s top rival reveals to AP a rift between them - Associated Press News
 - Takaichi, reelected as Japan's leader, wants to cooperate with US in rare earths development - Associated Press News
 - 'The search is soul-destroying': Young jobseekers on the struggle to find work - BBC
-- Unprecedented ‘Jobless Boom’ Tests Limits of US Economic Expansion - Bloomberg.com
-- Billionaire Les Wexner to testify before Congress about ties to Epstein - The Guardian
-- Apple Decouples From Nasdaq, Offering Alternative to AI-Fueled Volatility - Bloomberg.com
-- 'No one is close': BlackRock’s Larry Fink warns Americans have saved egregiously less than they need for retirement - Fortune
-- Record scratch—Google’s Lyria 3 AI music model is coming to Gemini today - Ars Technica
-- Apple is reportedly cooking up a trio of AI wearables - TechCrunch
+- Gisèle Pelicot’s memoir launches in 22 languages, turning horror into hope for survivors - Associated Press News
+- F.D.A. Reverses Decision and Agrees to Review Moderna’s Flu Vaccine - The New York Times
+- Fed minutes could highlight shift in balance of risks as policymakers put rates on hold - Reuters
+- Stocks rise ahead of Fed minutes as Nvidia shares gain: Live updates - CNBC
+- Toyota’s C-HR electric hatchback starts at $38,135 - The Verge
+- Low-Cost MacBook Expected on March 4 in These Colors - MacRumors
+- Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates - The Hacker News
