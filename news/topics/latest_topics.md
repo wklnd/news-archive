@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 05:23_
+_Updated: 2026-02-18 07:10_
 
 ## Top Stories
 
-- Explosion i Rinkeby – andra på två dygn - SVT Nyheter
-- Enkla åtgärden hade räddat alla på flight 5342 - Aftonbladet
+- Ledare: Fiasko av kosmiska mått? - Hallands Nyheter
 - DANIEL PERSSON: Jag tittade på Melania så att du ska slippa det - Kuriren
-- Gud har inte skrivit det finanspolitiska ramverket - Dagens Arena
-- Mohamsson besökte SD:s gruppmöte – Senaste nytt om valet 2026 - SVT Nyheter
-- Carl-Oskar Bohlin applåderade ivrigt USA:s Trump-fascism i München - Arbetet
+- Amerikanska presidentplanet får nya färger - GP
+- Hög smäll i Malmö – bombskyddet inkallat - SVT Nyheter
+- Man misstänks ha skjutit mot hemtjänstpersonal - SVT Nyheter
+- Enkla åtgärden hade räddat alla på flight 5342 - Aftonbladet
 - Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
 - Kostnaden för katters djursjukvård ökar mest - Örebronyheter
-- Klart: Så många lodjur får fällas i länet - Västerbottens-Kuriren
-- 17 februari 18.30, Trafikkontroll, Jämtlands län - Polisen.se
-- Zelenskyj varnar för ”massiv” rysk attack mot Ukraina - GP
+- Mohamsson besökte SD:s gruppmöte – Senaste nytt om valet 2026 - SVT Nyheter
+- Flera fortkörningar på E4 - Folkbladet
 - Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
 - Kinesiskt nyår – det här är ditt djur - GP
 - Ser över förtalslagen efter Dumpen-domen - GP
+- Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
+- Krönika: När svenskar äter semlor känner jag mig som Anders Tegnell - Fryksdalsbygden
 - Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
 - Direktionen i finansutskottets utfrågning om penningpolitiken 2015–2024 - Sveriges Riksbank
-- DIS ska lyfta digitala inköp - Upphandling24
-- Nu får kommuner med vindkraft statliga pengar - DI
 - Hon jobbar i rymden igen - 8 Sidor
 - Steam Deck slut i lager – hårdvarubristen slår till igen - FZ.se
+- Osynligt hot mot jorden: ”Är vaken på nätterna” - Aftonbladet
 
 ## World News
 
@@ -38,14 +38,14 @@ _Updated: 2026-02-18 05:23_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Leviton Announces Global Sales Leadership Transition (PR Newswire) - Aktiellt
 - Umeå children in worldwide school project on AI - Umeå universitet
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -92,47 +92,47 @@ _Updated: 2026-02-18 05:23_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Johan von Schreeb - Karolinska Institutet
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Internationell Barnhälsa och Nutrition – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
