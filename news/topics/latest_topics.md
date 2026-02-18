@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 23:04_
+_Updated: 2026-02-18 23:57_
 
 ## Top Stories
 
+- Forssell om tonårsutvisningarna: ”Jag har tagit fram en lösning” - Dagens Nyheter
 - USA manar Iran att anta Trumps förslag - GP
-- Migrationsverkets generaldirektör efter avhoppet: ”Ingen förlust” - GP
-- Tjocka isar kan lamslå rysk oljeexport – kallar in atomdriven isbrytare - Dagens Nyheter
 - Ukrainska ballonger slår mot mål djupt inne i Ryssland: ”Okonventionellt” - Dagens Nyheter
-- Tar tillfälligt över som klimatminister – Senaste nytt om valet 2026 - SVT Nyheter
+- Trumps festsal: Lika hög som Vita huset - Skånska Dagbladet
 - Många döda i explosion i fyrverkeributik - GP
+- Karl Dalén: Är Donald Trump rädd för James Talarico? - Dagens Nyheter
 - Jamal El-Hajs besked: Ställer inte upp i riksdagsvalet - Altinget.se
 - Regionens stabsläge avslutas – chefsanklagelser fortsätter att utredas - SVT Nyheter
-- Här har eleverna fått passerkort för att höja säkerheten på skolan - Dagens Nyheter
+- SSU:s ordförande i Köping hotas av utvisning till Irak - Dagens Nyheter
+- Gustavsson: Glöm Ramadan – testa påskfasta! - Bulletin
+- Tjocka isar kan lamslå rysk oljeexport – kallar in atomdriven isbrytare - Dagens Nyheter
+- Minst åtta döda i lavin i Kalifornien - Västerbottens-Kuriren
+- Ukraina: Framsteg i fredssamtalen - SVT Nyheter
 - Rött larm i Frankrike samtidigt som EU varnar för 3 grader - Dagens Nyheter
-- Anfall åt bägge håll – timmar innan Genèvesamtal - GP
-- Kina firar hästens år - 8 Sidor
-- Han ska vikariera som klimatminister - Altinget.se
 - ”Europa på väg mot ekonomisk katastrof” - SvD
-- SAS vill växa igen med ny ägare: ”Tillväxtfas” - SvD
 - Champagne och gåslever – Kubas överklass lever gott - Dagens PS
 - Alzinova knyter till sig ledande Alzheimerauktoritet inför nästa kliniska fas - Biostock
+- Inte kul med inre marknad längre för Tidö - Om Europa
 - Samtalsinspelning har börjat rulla ut i Sverige till Google Pixel - Teknikveckan
 - Swish för Iphone ska få funktion som länge bara funnits i Android-versionen - mobil.se
-- Visir till MC-hjälm tonas automatiskt. Om ljuset blir för starkt. - feber.se
 
 ## World News
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
-- Switch 2 får systemförbättringar och Mario & Luigi-soundtrack i ny global uppdatering - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Climate activists from Global South join strike in Stockholm - Sveriges Radio
+- Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2026-02-18 23:04_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -84,6 +84,7 @@ _Updated: 2026-02-18 23:04_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -143,18 +144,18 @@ _Updated: 2026-02-18 23:04_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
