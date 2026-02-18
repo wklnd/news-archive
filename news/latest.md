@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-18 19:40_
+_Updated: 2026-02-18 20:29_
 
-- Talks on Russia-Ukraine War Enter 2nd Day in Geneva - The New York Times
+- Avalanche Live Updates: 9 Skiers Missing Near Lake Tahoe - The New York Times
 - Democratic-led cities move to block ICE, setting up clash with Trump - The Washington Post
 - The Justice Department is not acting like it used to, criminal defense lawyers note - NPR
 - Epstein files suggest acts that may amount to crimes against humanity, say UN experts - The Guardian
-- Trump moves closer to a major war with Iran - Axios
-- New lawsuit challenges Trump order to remove ‘corrosive ideology’ from national parks - Politico
+- Someone knows who kidnapped Nancy Guthrie, authorities say. Video likely holds key - Los Angeles Times
+- Billionaires’ Low Taxes Are Becoming a Problem for the Economy - The Wall Street Journal
 - Why Other Democracies Don’t Gerrymander Like the U.S. - The New York Times
 - Several Democrats Intend to Skip President Trump's State of the Union Address: Live Updates - The New York Times
-- New Hampshire’s GOP Gov. Kelly Ayotte draws her first major challenger - Politico
-- Why California could be the big winner as EPA abandons climate policy - Politico
+- 'Difficult' Russia-Ukraine peace talks end without breakthrough - BBC
+- Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
 - Friedrich Merz says fighter jet project fails to meet Germany’s needs - Financial Times
-- Takaichi, reelected as Japan's leader, wants to cooperate with US in rare earths development - AP News
+- Lunar new year 2026: year of the fire horse around the world – in pictures - The Guardian
+- Takaichi, reelected as Japan's leader, wants to cooperate with US in rare earths development - Associated Press News
 - 'The search is soul-destroying': Young jobseekers on the struggle to find work - BBC
-- Gisèle Pelicot’s memoir launches in 22 languages, turning horror into hope for survivors - AP News
-- Stocks rise ahead of Fed minutes as Nvidia shares gain: Live updates - CNBC
 - Unprecedented ‘Jobless Boom’ Tests Limits of US Economic Expansion - Bloomberg.com
-- Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months - Business Insider
-- EU also investigating as Grok generated 23,000 CSAM images in 11 days [U] - 9to5Mac
-- Leaked Pixel 10a ad highlights 30-hour battery life, Camera Coach, and new colors - 9to5Google
+- Billionaire Les Wexner to testify before Congress about ties to Epstein - The Guardian
+- Apple Decouples From Nasdaq, Offering Alternative to AI-Fueled Volatility - Bloomberg.com
+- 'No one is close': BlackRock’s Larry Fink warns Americans have saved egregiously less than they need for retirement - Fortune
+- Record scratch—Google’s Lyria 3 AI music model is coming to Gemini today - Ars Technica
 - Apple is reportedly cooking up a trio of AI wearables - TechCrunch
