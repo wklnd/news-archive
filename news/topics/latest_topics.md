@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-18 07:10_
+_Updated: 2026-02-18 08:38_
 
 ## Top Stories
 
-- Ledare: Fiasko av kosmiska mått? - Hallands Nyheter
-- DANIEL PERSSON: Jag tittade på Melania så att du ska slippa det - Kuriren
-- Amerikanska presidentplanet får nya färger - GP
-- Hög smäll i Malmö – bombskyddet inkallat - SVT Nyheter
 - Man misstänks ha skjutit mot hemtjänstpersonal - SVT Nyheter
-- Enkla åtgärden hade räddat alla på flight 5342 - Aftonbladet
-- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
-- Kostnaden för katters djursjukvård ökar mest - Örebronyheter
 - Mohamsson besökte SD:s gruppmöte – Senaste nytt om valet 2026 - SVT Nyheter
+- Våldtog barn – avslöjades av könssjukdom - Aftonbladet
+- Då kan du äta semlor: ”Folk klagar på traditionens förfall” - Norran
+- Man med hagelgevär gripen vid Kapitolium - Omni
+- SSU:s ordförande i Köping hotas av utvisning till Irak - Dagens Nyheter
+- Fyra anhållna för misstänkt mordförsök på anstalt i Härnösand - SVT Nyheter
+- DEBATT: Fackförbunden: vårdfiasko för Region Dalarna - Falu-Kuriren
 - Flera fortkörningar på E4 - Folkbladet
-- Han spelade Putin och besegrade ”Nato” - Dagens Nyheter
+- Det fascinerande är att människor inte ger sig - Dagens Arena
 - Kinesiskt nyår – det här är ditt djur - GP
-- Ser över förtalslagen efter Dumpen-domen - GP
 - Finansminister Elisabeth Svantesson deltar vid Ekofinrådets möte - Regeringen.se
-- Krönika: När svenskar äter semlor känner jag mig som Anders Tegnell - Fryksdalsbygden
-- Här går 8 av 10 till jobbet sjuka – Jennifer: ”Har inte råd att vara hemma” - Arbetet
-- Direktionen i finansutskottets utfrågning om penningpolitiken 2015–2024 - Sveriges Riksbank
+- Ser över förtalslagen efter Dumpen-domen - GP
+- Tech-skräck: Warren Buffett dumpar Amazon - Dagens PS
+- EU-utredning mot Shein efter sexdockorna - DI
+- Tuffare tag på gång mot osund konkurrens - Företagarna
+- Tänk om det fanns ett vaccin mot Alzheimers… - it-halsa.se
 - Hon jobbar i rymden igen - 8 Sidor
+- Fick statsbidrag – bildning riskerar ny miljonsmäll - Södra Dalarnes Tidning
 - Steam Deck slut i lager – hårdvarubristen slår till igen - FZ.se
-- Osynligt hot mot jorden: ”Är vaken på nätterna” - Aftonbladet
 
 ## World News
 
@@ -54,13 +54,11 @@ _Updated: 2026-02-18 07:10_
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- CompTIA DataAI certification reflects fundamental changes in modern data practices (PR Newswire) - Aktiellt
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
@@ -70,6 +68,8 @@ _Updated: 2026-02-18 07:10_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -141,18 +141,18 @@ _Updated: 2026-02-18 07:10_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
