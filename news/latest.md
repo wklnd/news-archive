@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-19 01:03_
+_Updated: 2026-02-19 01:59_
 
-- Stephen Colbert uses his show to roast CBS in feud over FCC rules - The Washington Post
-- Trump administration releases remaining Gateway funds — and then some - Politico
 - Nancy Guthrie disappearance: Sheriff pleads with suspect to ‘just let her go,’ insists case not cold - Fox News
+- 'Difficult' Russia-Ukraine peace talks end without breakthrough - BBC
+- Trump has discussed timeline for Iran strikes — including as soon as this weekend — but no decision yet - CBS News
+- Trump administration releases remaining Gateway funds — and then some - Politico
 - Trump would like the government he leads to pay him billions - NPR
 - Presidential Message on Ash Wednesday - The White House (.gov)
-- Ferguson outlines his requirements for WA ‘millionaires tax’ - The Seattle Times
 - Lake Tahoe Avalanche Live Updates: 8 Skiers Found Dead, Authorities Say - The New York Times - The New York Times
-- Les Wexner's ties to Jeffrey Epstein, explained - Axios
-- Latest Trump news: Iran talks face uncertainty, DHS funding remains at impasse - CNN
-- Tom Steyer wants a special election to hike corporate taxes in 2027 - Politico
+- Brendan Carr defends FCC role in dropped Colbert interview: ‘No censorship’ - The Washington Post
+- Billionaires’ Low Taxes Are Becoming a Problem for the Economy - The Wall Street Journal
+- Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
 - Hungary, Slovakia stop Ukraine's diesel supply with immediate effect - Euronews.com
-- Russia hosts Cuban foreign minister and urges US not to blockade Cuba - Associated Press News
-- Russia's hybrid warfare rattles Poland and NATO - NPR
+- Exclusive: US plans online portal to bypass content bans in Europe and elsewhere - Reuters
 - Wave of arrests over killing of French nationalist piles pressure on far left - BBC
-- Microsoft to keep buying enough renewable energy to match all its electricity needs - Yahoo Finance
+- Russia's hybrid warfare rattles Poland and NATO - NPR
 - Etsy stock pops 14% on sale of Depop to eBay for $1.2 billion - CNBC
-- Grandson of the inventor of Reese’s Peanut Butter Cups accuses Hershey of cutting corners - Associated Press News
-- Musk Rails Against ‘Woke And Sanctimonious’ AI Rivals—Insists ‘Grok Must Win’ - Forbes
+- Microsoft to keep buying enough renewable energy to match all its electricity needs - Yahoo Finance
+- Stock Market Today: Dow, Nasdaq Move Higher Ahead of Fed Minutes — Live Updates - The Wall Street Journal
+- Spain first to enter race for Lagarde succession at ECB - Financial Times
+- Strip out Windows 11’s bloatware, ads, and other nastiness—for free - PCWorld
 - Google Home now lets you delete pre-made routines, improves clip downloads on web - 9to5Google
-- Samsung phones finally getting a new Google Play System update - SamMobile
