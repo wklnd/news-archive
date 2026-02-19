@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-19 12:26_
+_Updated: 2026-02-19 13:25_
 
 - Bowser declares Potomac sewage spill an emergency, seeks federal aid for cleanup - The Washington Post
-- Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office, BBC understands - BBC
 - Trump administration gives ICE broader powers to detain legal refugees, citing security concerns - CBS News
 - Trump’s rationale is still opaque as he slides closer to war with Iran - CNN
-- Bill Gates pulls out of India AI summit; anger mounts over organisational lapses - Reuters
-- Trump would like the government he leads to pay him billions - NPR
+- FCC chair Brendan Carr says media were ‘lied to’ over Stephen Colbert controversy - The Guardian
+- Bernie Sanders rallies support for wealth tax in California: ‘Enough is enough’ - Politico
+- Exclusive: Senior DHS officials double down on arresting and detaining refugees in new memo - lawdork.com
 - Kansas, Idaho, Utah, Oklahoma in New Push to Restrict Transgender Rights - The New York Times
 - February 18, 2026 - Letters from an American | Heather Cox Richardson | Substack
-- Mass departures from Justice Dept. are boon for law firms, legal groups and political campaigns - CBS News
+- Oregon Republicans boycott floor session, delaying action on transportation tax referendum move - OregonLive.com
 - Public health and green groups sue EPA over repeal of rule supporting climate protections - Associated Press News
-- UK police assess claims Epstein trafficked women on flights through London Stansted Airport - CNN
+- Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office - Associated Press News
+- José María Balcázar becomes Peru’s eighth president in a decade - Associated Press News
 - Wave of arrests over killing of French nationalist piles pressure on far left - BBC
 - Takaichi, reelected as Japan's leader, wants to cooperate with US in rare earths development - Associated Press News
-- As Israel takes steps to claim land in West Bank, U.S. stands by - The Washington Post
-- JPMorgan in talks to be banker for Trump’s Board of Peace - Financial Times
 - Asia shares buoyed by tech as Iran, rate uncertainty loom over markets - Reuters
-- Elon Musk’s AI Pushes Back As He Encourages Users To Upload Medical Information - Forbes
-- Trump Family Crypto Bash Convenes Wall Street’s New Believers - Bloomberg.com
+- Warner Bros. Discovery says it's worried employees will quit if it picks Paramount's offer - Business Insider
+- Stock futures are little changed after major averages post gains; Walmart earnings loom: Live updates - CNBC
+- Etsy Sells Depop, a Secondhand Clothing App Popular With Gen Z, to eBay - The New York Times
 - A startup called Germ becomes the first private messenger that launches directly from Bluesky's app - TechCrunch
-- Yes, Chrome’s Home icon changed on Android - 9to5Google
+- Microsoft can now store data for 10,000 years on everyday glass thanks to laser breakthrough - Live Science
