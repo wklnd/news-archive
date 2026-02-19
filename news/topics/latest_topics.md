@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 15:47_
+_Updated: 2026-02-19 17:13_
 
 ## Top Stories
 
-- WIDAR ANDERSSON: Andersson väljer rätt väg: Öppenhet kan bli en vinstlott - NT
-- Utvisningshotade Emanuels pappa: ”Svårt att veta om politikerna tänker göra någonting” - Dagens Nyheter
+- Uppgifter: USA -anfall mot Iran kan ske i helgen - Dagens Nyheter
+- Högsta psykiatrichefen lämnar – mitt i krisen - GP
 - Samtal om fred är slut - 8 Sidor
-- SMHI varnar för förfrysning och stark kyla i februari 2026 - TV4 Nyheterna
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
 - ”Slutsatserna är starkt förenklade” - SvD
-- Barn får max låsas in i elva timmar – regeringen presenterar nya detaljer om ungdomsfängelser - Dagens Nyheter
-- Fritidspedagog i Umeå misstänks ha ofredat elev sexuellt - SVT Nyheter
-- Man hittad död i Kronobergshäktet i Stockholm - SVT Nyheter
-- Man som åtalats för hot mot ministrar ställs inför rätta – Senaste nytt om valet 2026 - SVT Nyheter
+- Sverige ger miljarder till Ukrainas luftvärn - GP
+- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
+- Skolanställd häktas för sexualbrott mot barn - GP
+- Man hittad död i häkte - Västerbottens-Kuriren
+- Utvisningshotade Emanuels pappa: ”Svårt att veta om politikerna tänker göra någonting” - Dagens Nyheter
 - Rött larm i Frankrike samtidigt som EU varnar för 3 grader - Dagens Nyheter
-- Ukrainska ballonger slår mot mål djupt inne i Ryssland: ”Okonventionellt” - Dagens Nyheter
+- Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
-- Lappland Guldprospektering AB (publ) beslutar om riktad nyemission om 30 MSEK - Cision News
-- Varningslarmet tjuter i Verisure - Affärsvärlden
-- Bill Gates hoppar av indiskt AI-toppmöte - Omni
-- Spel ska göra transportföretag bättre förberedda för krislägen - Tidningen PROFFS
+- Nya klimatregler pressar Boliden: ”Moraliskt bortkastat” - Affärsvärlden
+- Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
+- Nissan varnar för miljardförlust – pressas av fallande försäljning - Dagens PS
+- Vanliga frågor om broschyren beredskap för företag - Energimyndigheten
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 - Snart slutar dina gamla Mac-appar funka - Ljud & Bild
 
@@ -29,23 +29,23 @@ _Updated: 2026-02-19 15:47_
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Switch 2 får systemförbättringar och Mario & Luigi-soundtrack i ny global uppdatering - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Bridges of Brilliance: Global Youth Celebrate "Harmony for Shared Prosperity" (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -96,21 +96,21 @@ _Updated: 2026-02-19 15:47_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Anna Mia Ekström - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -123,6 +123,7 @@ _Updated: 2026-02-19 15:47_
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -133,8 +134,7 @@ _Updated: 2026-02-19 15:47_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
