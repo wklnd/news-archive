@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 21:57_
+_Updated: 2026-02-19 22:58_
 
 ## Top Stories
 
-- Yrkar på fängelse för hot mot ministrar - SvD
-- Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
-- Gängkriminell våldtog på Malmö live – slipper utvisning - Sydsvenskan
-- Högsta psykiatrichefen lämnar – mitt i krisen - GP
-- Villa övertänd i Kungälv - GP
+- SMHI varnar för trafikstök i väst – mer snö på ingång - Omni
+- Yrkar på fängelse för hot mot ministrar - Västerbottens-Kuriren
+- ”Vi borde ha förhandlat med Ryssland medan Biden var president” - Dagens Nyheter
+- LEDARE: Viktigaste valfrågan saknar svar. - Sydsvenskan
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
+- Överklagar lodjursjakt: ”Fel väg att gå” - Dalslänningen
 - Plogbilen körde sönder Davids grind: ”Kunde inte komma in på över en vecka” - Dagens Nyheter
+- Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
 - Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- Ny studie visar ytterligare tolv hundraser med andningsproblem - Dagens Nyheter
+- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
+- Leo XIV till prästerna i Rom: ”Det är brådskande att förkunna Kristi löften” - Vatican News
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
 - Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Busch: Kritiserad elavgift kan stoppas - Aftonbladet
 - Aktion mot Teslas station – efter draget - Expressen
 - Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
+- Kakaopriset rasar – länder tvingas kapa betalning till bönder - Dagens PS
 - Novo Nordisk drar med sig Danmark i fallet? - Dagens PS
+- Megastjärna försvann – bildade stort svart hål - Expressen
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
-- Slanted blandar body horror och satir. Tonåring försöker passa. - feber.se
-- Thrustmaster lanserar kontroll för Farming Simulator. Med en najjs jojjstikk. - feber.se
-- Apple ska visa Formel 1 live i IMAX-biografer - Teknikveckan
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-02-19 21:57_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Umeå children in worldwide school project on AI - Umeå universitet
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -59,8 +59,8 @@ _Updated: 2026-02-19 21:57_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -96,22 +96,22 @@ _Updated: 2026-02-19 21:57_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Anna Mia Ekström - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -122,8 +122,8 @@ _Updated: 2026-02-19 21:57_
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
