@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 22:58_
+_Updated: 2026-02-19 23:57_
 
 ## Top Stories
 
-- SMHI varnar för trafikstök i väst – mer snö på ingång - Omni
-- Yrkar på fängelse för hot mot ministrar - Västerbottens-Kuriren
-- ”Vi borde ha förhandlat med Ryssland medan Biden var president” - Dagens Nyheter
+- DN Direkt – Sju kan åtalas för mord på högeraktivist - Dagens Nyheter
+- Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
+- Nej, det går inte att lita på politiker - SvD
+- Efter överklagandet: "Storstadsretorik får inte trumfa lokal förvaltning" - Dagens Vimmerby
 - LEDARE: Viktigaste valfrågan saknar svar. - Sydsvenskan
-- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
-- Överklagar lodjursjakt: ”Fel väg att gå” - Dalslänningen
+- Iransk oppositionell: Med USA:s hjälp kan det bli slut på regimen i Iran - Dagens Nyheter
+- ”Onlyfans-lagen” prövas efter härvan i Kramfors - Dagens Nyheter
 - Plogbilen körde sönder Davids grind: ”Kunde inte komma in på över en vecka” - Dagens Nyheter
-- Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
-- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
+- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
+- Extra ändringsbudget för 2026 – Stöd till Ukraina och vaccinberedskap - Regeringen.se
+- ”Vi borde ha förhandlat med Ryssland medan Biden var president” - Dagens Nyheter
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Leo XIV till prästerna i Rom: ”Det är brådskande att förkunna Kristi löften” - Vatican News
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
-- Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Varningslarmet tjuter i Verisure - Affärsvärlden
+- Banken stoppade utlandsbetalningar lämnar henne utan pengar i Spanien - Realtid
 - Aktion mot Teslas station – efter draget - Expressen
-- Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
-- Kakaopriset rasar – länder tvingas kapa betalning till bönder - Dagens PS
-- Novo Nordisk drar med sig Danmark i fallet? - Dagens PS
+- HGF: 42 förslag om hur kommunpolitiken kan ta ansvar - Bostadspolitik
 - Megastjärna försvann – bildade stort svart hål - Expressen
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 
@@ -59,8 +59,9 @@ _Updated: 2026-02-19 22:58_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-02-19 22:58_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -127,14 +127,14 @@ _Updated: 2026-02-19 22:58_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -149,12 +149,12 @@ _Updated: 2026-02-19 22:58_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
