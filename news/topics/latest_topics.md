@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 12:10_
+_Updated: 2026-02-19 13:13_
 
 ## Top Stories
 
-- Barn får max låsas in i elva timmar – regeringen presenterar nya detaljer om ungdomsfängelser - Dagens Nyheter
 - Expert varnar för säkerhetsrisker i journalsystem - GP
-- Sydkoreas ex-president Yoon Suk-Yeol döms till livstids fängelse - SVT Nyheter
-- Explosion vid flerfamiljshus i Malmö - SVT Nyheter
+- Barn misstänkt för nattens explosion i Malmö - SVT Nyheter
+- Stal officers dator – försökte sälja till Ryssland - SVT Nyheter
 - WIDAR ANDERSSON: Andersson väljer rätt väg: Öppenhet kan bli en vinstlott - NT
-- Uppgifter: USA -anfall mot Iran kan ske i helgen - Dagens Nyheter
-- Nooshi Dadgostar: ”S måste ändra sig – det är inte värdigt” - Dagens Nyheter
+- Utvisningshotade Emanuels pappa: ”Svårt att veta om politikerna tänker göra någonting” - Dagens Nyheter
+- Zelenskyj: Samtalen inte tillfredsställande - GP
+- Barn får max låsas in i elva timmar – regeringen presenterar nya detaljer om ungdomsfängelser - Dagens Nyheter
+- Överklagar lodjursjakten: Hotar artens överlevnad - Västerbottens-Kuriren
 - Långa väntetider i vården är viktigast för väljarna - Omni
-- Hon såg trippelmördaren börja skjuta utanför frisörsalongen - SVT Nyheter
 - 19 februari 07.52, Sammanfattning natt, Södermanlands län - polisen.se
-- Ukraina: Framsteg i fredssamtalen - SVT Nyheter
-- Tjocka isar kan lamslå rysk oljeexport – kallar in atomdriven isbrytare - Dagens Nyheter
+- Sverige vill garantera fler miljarder till Ukraina - Västerbottens-Kuriren
+- Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
-- Källor: USA drar tillbaka soldater från Syrien - Västerbottens-Kuriren
+- Lappland Guldprospektering tar in 30 miljoner kronor i riktad emission - Placera.se
+- Bill Gates hoppar av indiskt AI-toppmöte - Omni
 - Då kan effektavgiften ge dig högre elräkning - SvD
-- Linkedin-sjukan har drabbat svenska techbranschen | Björn Jeffery - SvD
-- Kanada satsar på egen elbil – för ett stärka industrin - Allt om Elbil
-- ”Indiens största AI-fabrik” ska byggas med Nvidiachip - Omni
+- Raset kan bli revansch – därför lockar Stellantis igen - Omni Ekonomi
+- Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 - – 15° och störningar i kommunens fjärrvärme: ”Vi beklagar” - NWT
 - Pixel 10A släpps: ”Lite för lik förra årets telefon” - Omni
 
@@ -29,23 +29,23 @@ _Updated: 2026-02-19 12:10_
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Switch 2 får systemförbättringar och Mario & Luigi-soundtrack i ny global uppdatering - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -101,7 +101,6 @@ _Updated: 2026-02-19 12:10_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -112,6 +111,7 @@ _Updated: 2026-02-19 12:10_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Enheten för radiologi - Karolinska Institutet
 
 ## Science
 
@@ -127,14 +127,14 @@ _Updated: 2026-02-19 12:10_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -143,18 +143,18 @@ _Updated: 2026-02-19 12:10_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
