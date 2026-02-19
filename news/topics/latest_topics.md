@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 18:26_
+_Updated: 2026-02-19 19:29_
 
 ## Top Stories
 
-- Uppgifter: USA -anfall mot Iran kan ske i helgen - Dagens Nyheter
-- DN Direkt – Brittiskt nej till hjälp vid Irananfall - Dagens Nyheter
-- Barn misstänkt för nattens explosion i Malmö - SVT Nyheter
-- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Luftvärn i svenskt Ukrainastöd på nära 13 miljarder - Dagens Nyheter
-- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
+- Högsta psykiatrichefen lämnar – mitt i krisen - GP
+- Villa övertänd i Kungälv - GP
+- Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
+- DN Direkt – Explosion i Malmö i går - Dagens Nyheter
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
+- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
+- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
 - Långa väntetider i vården är viktigast för väljarna - Omni
-- Därför fanns det stickade vantar och mössor vid bussen - NWT
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
 - Svensk militär fick dator och Ipad stulna – tjuven försökte sälja till Ryssland - Dagens Nyheter
-- Busch: Kritiserad elavgift kan stoppas - Aftonbladet
-- Nya klimatregler pressar Boliden: ”Moraliskt bortkastat” - Affärsvärlden
 - Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
-- Klockjätten gör succé på secondhand-marknaden - Dagens PS
+- JUST NU: Aktion mot Teslastation – efter draget - Expressen
+- Teslas försäljning sjunker som en sten - Dagens PS
+- Ny sko ska hindra äldre från att ramla - Dagens PS
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
-- KeyGo har uppgraderat sitt tangentbord. Med större skärm och högre upplösning. - feber.se
+- Chilla i naturen i Ranger's Path: National Park Simulator. Vårda ekosystem och fota älgar. - feber.se
 - Snart slutar dina gamla Mac-appar funka - Ljud & Bild
+- KeyGo har uppgraderat sitt tangentbord. Med större skärm och högre upplösning. - feber.se
 
 ## World News
 
@@ -93,10 +93,9 @@ _Updated: 2026-02-19 18:26_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -104,14 +103,15 @@ _Updated: 2026-02-19 18:26_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Anna Mia Ekström - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -119,7 +119,9 @@ _Updated: 2026-02-19 18:26_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -127,14 +129,12 @@ _Updated: 2026-02-19 18:26_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
