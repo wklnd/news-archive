@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 19:29_
+_Updated: 2026-02-19 20:11_
 
 ## Top Stories
 
-- Högsta psykiatrichefen lämnar – mitt i krisen - GP
+- Norge avvisar Trumps påstådda fredsrådsmöte - GP
 - Villa övertänd i Kungälv - GP
 - Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
-- DN Direkt – Explosion i Malmö i går - Dagens Nyheter
+- Högsta psykiatrichefen lämnar – mitt i krisen - GP
+- Brittiskt nej till hjälp vid Irananfall - Aftonbladet
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
 - Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
+- Plogbilen körde sönder Davids grind: ”Kunde inte komma in på över en vecka” - Dagens Nyheter
 - Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- Långa väntetider i vården är viktigast för väljarna - Omni
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
+- Ukraina: Framsteg i fredssamtalen - SVT Nyheter
+- Leo XIV till prästerna i Rom: ”Det är brådskande att förkunna Kristi löften” - Vatican News
 - Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
-- Marco Rubios tal i München var fascistiskt - Dagens Arena
-- Svensk militär fick dator och Ipad stulna – tjuven försökte sälja till Ryssland - Dagens Nyheter
+- Busch: Kritiserad elavgift kan stoppas - Aftonbladet
 - Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
-- JUST NU: Aktion mot Teslastation – efter draget - Expressen
-- Teslas försäljning sjunker som en sten - Dagens PS
-- Ny sko ska hindra äldre från att ramla - Dagens PS
+- Aktion mot Tesla- station i ruschen – efter draget - Expressen
+- Novo Nordisk drar med sig Danmark i fallet? - Dagens PS
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
-- Chilla i naturen i Ranger's Path: National Park Simulator. Vårda ekosystem och fota älgar. - feber.se
 - Snart slutar dina gamla Mac-appar funka - Ljud & Bild
-- KeyGo har uppgraderat sitt tangentbord. Med större skärm och högre upplösning. - feber.se
+- Chilla i naturen i Ranger's Path: National Park Simulator. Vårda ekosystem och fota älgar. - feber.se
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2026-02-19 19:29_
 - Annual Report 2024 - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -57,12 +57,12 @@ _Updated: 2026-02-19 19:29_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -74,9 +74,9 @@ _Updated: 2026-02-19 19:29_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -144,11 +144,11 @@ _Updated: 2026-02-19 19:29_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
