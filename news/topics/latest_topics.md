@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 21:23_
+_Updated: 2026-02-19 21:57_
 
 ## Top Stories
 
-- Villa övertänd i Kungälv - GP
+- Yrkar på fängelse för hot mot ministrar - SvD
+- Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
+- Gängkriminell våldtog på Malmö live – slipper utvisning - Sydsvenskan
 - Högsta psykiatrichefen lämnar – mitt i krisen - GP
-- Människorättsexperter om Epstein-filerna: ”Ingen är för rik eller för mäktig för att stå över lagen” - Unric
+- Villa övertänd i Kungälv - GP
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
-- LEDARE: Viktigaste valfrågan saknar svar. - Sydsvenskan
-- ”Tonårsutvisningarna måste stoppas nu” - Västerbottens-Kuriren
 - Plogbilen körde sönder Davids grind: ”Kunde inte komma in på över en vecka” - Dagens Nyheter
-- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
 - Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- Avskedas efter misstänkta förgiftningarna - UNT
 - Ny studie visar ytterligare tolv hundraser med andningsproblem - Dagens Nyheter
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
-- Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
+- Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Busch: Kritiserad elavgift kan stoppas - Aftonbladet
 - Aktion mot Teslas station – efter draget - Expressen
 - Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
 - Novo Nordisk drar med sig Danmark i fallet? - Dagens PS
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
-- Snart slutar dina gamla Mac-appar funka - Ljud & Bild
+- Slanted blandar body horror och satir. Tonåring försöker passa. - feber.se
+- Thrustmaster lanserar kontroll för Farming Simulator. Med en najjs jojjstikk. - feber.se
+- Apple ska visa Formel 1 live i IMAX-biografer - Teknikveckan
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-02-19 21:23_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Umeå children in worldwide school project on AI - Umeå universitet
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -59,8 +59,8 @@ _Updated: 2026-02-19 21:23_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -115,26 +115,26 @@ _Updated: 2026-02-19 21:23_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
