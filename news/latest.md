@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-20 00:01_
+_Updated: 2026-02-20 01:03_
 
-- After leaving WHO, Trump officials propose more expensive replacement to duplicate it - The Washington Post
-- Bill Gates Cancels a Keynote Speech Amid the Epstein Controversy - The New York Times
-- Philadelphia’s slavery exhibit is being restored at President’s House Site - WHYY
 - White House grants ICE power to detain refugees for aggressive ‘rescreening’ - The Guardian
-- Leon Botstein, Bard College’s President, Had Epstein Ties. He Is Also Seen as a Campus Savior. - The New York Times
-- A Republican plan to overhaul voting is back. Here's what's new in the bill - NPR
-- Marin school district confirms mother of 2 killed in Tahoe avalanche - SFGATE
-- Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself - The New York Times
-- When Rhode Island shooter started firing, bystanders jumped into action to end the carnage - AP News
-- North Shore digs out from more than 3 feet of wind-whipped snow; difficult morning drive in Twin Cities - MPR News
+- Epstein Built Ties to U.S. Customs Officers, Prompting Criminal Investigation - The New York Times
+- Philadelphia’s slavery exhibit is restored at President’s House Site - WHYY
+- Kennedy defends Trump glyphosate order; MAHA erupts as midterms approach - CNBC
+- Amid outcry, VA abruptly stops enforcing new disability rating rule - Stars and Stripes
+- A College President With Ties to Epstein Is Also Seen as a Campus Savior - The New York Times
+- Marin residents among victims in deadly Tahoe avalanche, mayor says - San Francisco Chronicle
+- Trump appears ready to attack Iran as U.S. strike force takes shape - The Washington Post
+- Trump visits Georgia, a target of his election falsehoods, as Republicans look for midterm boost - AP News
+- Commission, packed with Trump allies, approves White House ballroom project - The Washington Post
+- Live Updates: Former Prince Andrew Is Released After Being Arrested Amid Epstein Revelations - The New York Times
 - Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says - BBC
-- Macron begs France to reject political violence after killing of far-right activist - politico.eu
-- Oil prices jump amid signs of U.S.-Iran conflict - Axios
-- JPMorgan Says Trump’s $5 Billion Suit ‘Fraudulently’ Includes Dimon - Bloomberg.com
+- Former South Korean president receives life sentence for imposing martial law in 2024 - AP News
+- Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth - CNBC
+- Exclusive: Netflix has ample room to increase its offer in battle for Warner Bros, sources say - Reuters
 - This US state could be the new data center capital of the world by 2030 - Business Insider
-- Could EU Regulators Favor Paramount Over Netflix in Battle for Warner Bros. Discovery? - Variety
-- Google Chrome adds Split View and PDF annotation with Drive upload - 9to5Google
-- Google launches Snapseed camera for iPhone with pro manual controls, retro film - 9to5Google
-- Google Maps ‘limited view’ now hides reviews, images for signed-out users - 9to5Google
-- 5 changes to know about in Apple’s latest iOS, macOS, and iPadOS betas - Ars Technica
+- West Virginia Sues Apple, Claiming It Allows Sharing of Child Sexual Abuse Material - The New York Times
+- New Software: Rivian Apple Watch app - Rivian Stories
+- ASUS ROG Xbox Ally X price in Japan rises by 21%, Legion Go 2 price climbs in US - VideoCardz.com
+- As browser wars heat up, Chrome adds new productivity features - TechCrunch
