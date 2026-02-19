@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 17:13_
+_Updated: 2026-02-19 18:26_
 
 ## Top Stories
 
 - Uppgifter: USA -anfall mot Iran kan ske i helgen - Dagens Nyheter
-- Högsta psykiatrichefen lämnar – mitt i krisen - GP
-- Samtal om fred är slut - 8 Sidor
-- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
-- ”Slutsatserna är starkt förenklade” - SvD
-- Sverige ger miljarder till Ukrainas luftvärn - GP
+- DN Direkt – Brittiskt nej till hjälp vid Irananfall - Dagens Nyheter
+- Barn misstänkt för nattens explosion i Malmö - SVT Nyheter
+- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Luftvärn i svenskt Ukrainastöd på nära 13 miljarder - Dagens Nyheter
 - Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
-- Skolanställd häktas för sexualbrott mot barn - GP
-- Man hittad död i häkte - Västerbottens-Kuriren
-- Utvisningshotade Emanuels pappa: ”Svårt att veta om politikerna tänker göra någonting” - Dagens Nyheter
-- Rött larm i Frankrike samtidigt som EU varnar för 3 grader - Dagens Nyheter
+- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
+- Långa väntetider i vården är viktigast för väljarna - Omni
+- Därför fanns det stickade vantar och mössor vid bussen - NWT
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
+- Svensk militär fick dator och Ipad stulna – tjuven försökte sälja till Ryssland - Dagens Nyheter
+- Busch: Kritiserad elavgift kan stoppas - Aftonbladet
 - Nya klimatregler pressar Boliden: ”Moraliskt bortkastat” - Affärsvärlden
 - Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
-- Nissan varnar för miljardförlust – pressas av fallande försäljning - Dagens PS
-- Vanliga frågor om broschyren beredskap för företag - Energimyndigheten
+- Klockjätten gör succé på secondhand-marknaden - Dagens PS
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
+- KeyGo har uppgraderat sitt tangentbord. Med större skärm och högre upplösning. - feber.se
 - Snart slutar dina gamla Mac-appar funka - Ljud & Bild
 
 ## World News
@@ -37,13 +37,13 @@ _Updated: 2026-02-19 17:13_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Bridges of Brilliance: Global Youth Celebrate "Harmony for Shared Prosperity" (PR Newswire) - Aktiellt
 - Umeå children in worldwide school project on AI - Umeå universitet
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -96,45 +96,45 @@ _Updated: 2026-02-19 17:13_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Anna Mia Ekström - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
