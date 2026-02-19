@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 05:22_
+_Updated: 2026-02-19 07:10_
 
 ## Top Stories
 
 - Uppgifter: USA -anfall mot Iran kan ske i helgen - Dagens Nyheter
+- Explosion vid flerfamiljshus i Malmö - SVT Nyheter
+- Eva blev påkörd av spårvagnen i 40 km/h – överlevde: ”Var aldrig rädd”" - GP
+- Risker hölls hemliga i miljardaffären Cosmic - Medtech Magazine
 - FN-varning för Israels åtgärder på Västbanken - GP
-- Ildar ”Scar” Galiyev häktas för flera grova våldsbrott - SVT Nyheter
-- Stort stöd från svenska folket – 15 miljoner kronor fördelas till fem projekt för att värma Ukraina - Via TT
-- DN Direkt – Han tar över när Romina Pourmokhtari är föräldraledig - Dagens Nyheter
-- Så blir lodjursjakten – tilldelningen bestämd - Jakt & Jägare
-- Experternas nej till svenska kärnvapen: ”Onödigt” - Dagens Nyheter
-- Jamal El-Hajs besked: Ställer inte upp i riksdagsvalet - Altinget.se
+- Vita huset: ”Vore klokt av Iran att göra en deal” - SVT Nyheter
 - Tar tillfälligt över som klimatminister – Senaste nytt om valet 2026 - SVT Nyheter
+- Misstänkts ha sålt frun till 120 män – drev familjehem - Dagens Nyheter
+- Gustavsson: Glöm Ramadan – testa påskfasta! - Bulletin
 - Moderaterna vill kastrera pedofiler: ”Framgångsrikt” - SVT Nyheter
 - Tjocka isar kan lamslå rysk oljeexport – kallar in atomdriven isbrytare - Dagens Nyheter
-- Påven nobbar Trumps fredsråd - Västerbottens-Kuriren
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
-- Gästkrönika: Företagande viktig för lyckad EU-utvidgning - Europaportalen
-- Slår larm: Pensionen kan spärras – i tre år - Dagens PS
+- Påven nobbar Trumps fredsråd - Västerbottens-Kuriren
+- Anfall åt bägge håll – timmar innan Genèvesamtal - GP
+- Linkedin-sjukan har drabbat svenska techbranschen | Björn Jeffery - SvD
+- Inbjudan till Essitys kapitalmarknadsdag den 7 maj 2026 - Cision News
 - ”Europa måste investera sig ur energiberoenden” - Aktuell Hållbarhet
-- Alzinova knyter till sig ledande Alzheimerauktoritet inför nästa kliniska fas - Biostock
-- Malmöföretaget testade kortare arbetstid – så gick det - Sydsvenskan
+- Xbox Game Pass bjuder på en riddar-banger i februari - MovieZine.se
 - Apple ska göra något den 4 mars - Omni
-- Unreal Tournament 2004 gratis och patchat för nutiden - FZ.se
+- Snart kan du streama Netflix direkt i bilen - Dagens PS
 
 ## World News
 
@@ -58,8 +58,8 @@ _Updated: 2026-02-19 05:22_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -116,9 +116,10 @@ _Updated: 2026-02-19 05:22_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -126,26 +127,25 @@ _Updated: 2026-02-19 05:22_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
