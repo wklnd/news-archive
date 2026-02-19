@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 00:59_
+_Updated: 2026-02-20 01:54_
 
 ## Top Stories
 
-- Nej, det går inte att lita på politiker - SvD
-- DN Direkt – Sju kan åtalas för mord på högeraktivist - Dagens Nyheter
+- En chansning som kanske lönar sig - SvD
+- Direkt – Kriget i Ukraina – Rapport: 1 000 kenyaner kan strida för Ryssland - Dagens Nyheter
 - ”Vi borde ha förhandlat med Ryssland medan Biden var president” - Dagens Nyheter
-- INSÄNDARE: Du bestämmer hur det ska fortsätta efter valet 2026 - Ekuriren
+- Efter överklagandet: "Storstadsretorik får inte trumfa lokal förvaltning" - Dagens Vimmerby
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
 - Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
 - ”Onlyfans-lagen” prövas efter härvan i Kramfors - Dagens Nyheter
-- S: Inga ofinansierade förslag i vårbudgeten - Corren
-- Nu vässas kampen mot gängkriminalitet: ”Börjar redan i mellanstadiet” - NWT
-- Gunnar Hökmark: ”Vi ska ställa upp för ett land som invaderas, ockuperas och bombas” - ETC.se
+- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
+- Tidöpartierna presenterar nytt miljardstöd till Ukraina - Omni
 - Ny guldrusch i Kalifornien – 177 år efter den första - Dagens Nyheter
+- Experter: Iran och USA är nära krig – det här är tecknen - GP
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Leo XIV till prästerna i Rom: ”Det är brådskande att förkunna Kristi löften” - Vatican News
-- Marco Rubios tal i München var fascistiskt - Dagens Arena
 - Varningslarmet tjuter i Verisure - Affärsvärlden
-- Avgjort: Mat och öl får inte synas tillsammans - SVT Nyheter
+- Banken stoppade utlandsbetalningar lämnar henne utan pengar i Spanien - Realtid
 - HGF: 42 förslag om hur kommunpolitiken kan ta ansvar - Bostadspolitik
-- Vanliga frågor om broschyren beredskap för företag - Energimyndigheten
 - Megastjärna försvann – bildade stort svart hål - Expressen
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
+- Meta uppges släppa en smartklocka under 2026 - m3.se
+- Uppgifter: iOS 27 ska lösa problemet som irriterat iPhone-ägare - Dagens.se
 
 ## World News
 
@@ -38,10 +38,10 @@ _Updated: 2026-02-20 00:59_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- New International Art Fair Launches in Tampa Fall 2026 (PR Newswire) - Aktiellt
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -57,38 +57,32 @@ _Updated: 2026-02-20 00:59_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -115,26 +109,26 @@ _Updated: 2026-02-20 00:59_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
