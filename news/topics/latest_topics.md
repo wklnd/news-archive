@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 23:57_
+_Updated: 2026-02-20 00:59_
 
 ## Top Stories
 
-- DN Direkt – Sju kan åtalas för mord på högeraktivist - Dagens Nyheter
-- Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
 - Nej, det går inte att lita på politiker - SvD
-- Efter överklagandet: "Storstadsretorik får inte trumfa lokal förvaltning" - Dagens Vimmerby
-- LEDARE: Viktigaste valfrågan saknar svar. - Sydsvenskan
-- Iransk oppositionell: Med USA:s hjälp kan det bli slut på regimen i Iran - Dagens Nyheter
-- ”Onlyfans-lagen” prövas efter härvan i Kramfors - Dagens Nyheter
-- Plogbilen körde sönder Davids grind: ”Kunde inte komma in på över en vecka” - Dagens Nyheter
-- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
-- Extra ändringsbudget för 2026 – Stöd till Ukraina och vaccinberedskap - Regeringen.se
+- DN Direkt – Sju kan åtalas för mord på högeraktivist - Dagens Nyheter
 - ”Vi borde ha förhandlat med Ryssland medan Biden var president” - Dagens Nyheter
+- INSÄNDARE: Du bestämmer hur det ska fortsätta efter valet 2026 - Ekuriren
+- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
+- Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
+- ”Onlyfans-lagen” prövas efter härvan i Kramfors - Dagens Nyheter
+- S: Inga ofinansierade förslag i vårbudgeten - Corren
+- Nu vässas kampen mot gängkriminalitet: ”Börjar redan i mellanstadiet” - NWT
+- Gunnar Hökmark: ”Vi ska ställa upp för ett land som invaderas, ockuperas och bombas” - ETC.se
+- Ny guldrusch i Kalifornien – 177 år efter den första - Dagens Nyheter
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Leo XIV till prästerna i Rom: ”Det är brådskande att förkunna Kristi löften” - Vatican News
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
 - Varningslarmet tjuter i Verisure - Affärsvärlden
-- Banken stoppade utlandsbetalningar lämnar henne utan pengar i Spanien - Realtid
-- Aktion mot Teslas station – efter draget - Expressen
+- Avgjort: Mat och öl får inte synas tillsammans - SVT Nyheter
 - HGF: 42 förslag om hur kommunpolitiken kan ta ansvar - Bostadspolitik
+- Vanliga frågor om broschyren beredskap för företag - Energimyndigheten
 - Megastjärna försvann – bildade stort svart hål - Expressen
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 
 ## World News
 
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
-- Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Switch 2 får systemförbättringar och Mario & Luigi-soundtrack i ny global uppdatering - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,13 +40,13 @@ _Updated: 2026-02-19 23:57_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- New International Art Fair Launches in Tampa Fall 2026 (PR Newswire) - Aktiellt
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -57,19 +57,19 @@ _Updated: 2026-02-19 23:57_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -122,19 +122,19 @@ _Updated: 2026-02-19 23:57_
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Medicinvetarna – en podd om KI:s forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
