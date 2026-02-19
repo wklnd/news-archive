@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-19 01:59_
+_Updated: 2026-02-19 05:28_
 
-- Nancy Guthrie disappearance: Sheriff pleads with suspect to ‘just let her go,’ insists case not cold - Fox News
-- 'Difficult' Russia-Ukraine peace talks end without breakthrough - BBC
-- Trump has discussed timeline for Iran strikes — including as soon as this weekend — but no decision yet - CBS News
-- Trump administration releases remaining Gateway funds — and then some - Politico
-- Trump would like the government he leads to pay him billions - NPR
-- Presidential Message on Ash Wednesday - The White House (.gov)
 - Lake Tahoe Avalanche Live Updates: 8 Skiers Found Dead, Authorities Say - The New York Times - The New York Times
-- Brendan Carr defends FCC role in dropped Colbert interview: ‘No censorship’ - The Washington Post
-- Billionaires’ Low Taxes Are Becoming a Problem for the Economy - The Wall Street Journal
-- Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
-- Hungary, Slovakia stop Ukraine's diesel supply with immediate effect - Euronews.com
+- Trump, weeks after backlash over racist post, hosts Black History Month reception - Associated Press News
+- White House taps Jay Bhattacharya, CDC critic, to lead agency for now - The Washington Post
+- Jesse Jackson Knew Better Than to Forget - The Ringer
+- Trump says UK’s Starmer making ‘a big mistake’ with Chagos Islands deal - Al Jazeera
+- Trump administration releases remaining Gateway funds — and then some - Politico
+- As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place - The New York Times - The New York Times
+- Mass departures from Justice Dept. are boon for law firms, legal groups and political campaigns - CBS News
+- Bowser declares Potomac sewage spill an emergency, seeks federal aid for cleanup - The Washington Post
+- 'Difficult' Russia-Ukraine peace talks end without breakthrough - BBC
 - Exclusive: US plans online portal to bypass content bans in Europe and elsewhere - Reuters
 - Wave of arrests over killing of French nationalist piles pressure on far left - BBC
-- Russia's hybrid warfare rattles Poland and NATO - NPR
-- Etsy stock pops 14% on sale of Depop to eBay for $1.2 billion - CNBC
-- Microsoft to keep buying enough renewable energy to match all its electricity needs - Yahoo Finance
-- Stock Market Today: Dow, Nasdaq Move Higher Ahead of Fed Minutes — Live Updates - The Wall Street Journal
+- Friedrich Merz says fighter jet project fails to meet Germany’s needs - Financial Times
+- Takaichi, reelected as Japan's leader, wants to cooperate with US in rare earths development - Associated Press News
+- Elon Musk’s AI Pushes Back As He Encourages Users To Upload Medical Information - Forbes
+- FDA will drop two-study requirement for new drug approvals, aiming to speed access - Associated Press News
 - Spain first to enter race for Lagarde succession at ECB - Financial Times
-- Strip out Windows 11’s bloatware, ads, and other nastiness—for free - PCWorld
-- Google Home now lets you delete pre-made routines, improves clip downloads on web - 9to5Google
+- Teachers unions push for investigation into Apollo's Epstein ties - Axios
+- Low-Cost MacBook Expected on March 4 in These Colors - MacRumors
+- This is when Samsung is restocking the Galaxy Z TriFold in the US - GSMArena.com news - GSMArena.com
