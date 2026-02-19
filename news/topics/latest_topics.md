@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-19 20:11_
+_Updated: 2026-02-19 21:23_
 
 ## Top Stories
 
-- Norge avvisar Trumps påstådda fredsrådsmöte - GP
 - Villa övertänd i Kungälv - GP
-- Rapport: Fler än 1 000 kenyaner i Rysslands armé - GP
 - Högsta psykiatrichefen lämnar – mitt i krisen - GP
-- Brittiskt nej till hjälp vid Irananfall - Aftonbladet
+- Människorättsexperter om Epstein-filerna: ”Ingen är för rik eller för mäktig för att stå över lagen” - Unric
 - Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
-- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
+- LEDARE: Viktigaste valfrågan saknar svar. - Sydsvenskan
+- ”Tonårsutvisningarna måste stoppas nu” - Västerbottens-Kuriren
 - Plogbilen körde sönder Davids grind: ”Kunde inte komma in på över en vecka” - Dagens Nyheter
+- Över 200 oidentifierade svenska barn utsatta för övergrepp - SVT Nyheter
 - Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
+- Avskedas efter misstänkta förgiftningarna - UNT
+- Ny studie visar ytterligare tolv hundraser med andningsproblem - Dagens Nyheter
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
-- Ukraina: Framsteg i fredssamtalen - SVT Nyheter
-- Leo XIV till prästerna i Rom: ”Det är brådskande att förkunna Kristi löften” - Vatican News
 - Polens premiärminister uppmanar polacker att lämna Iran – Senaste nytt om protesterna i Iran - SVT Nyheter
+- Marco Rubios tal i München var fascistiskt - Dagens Arena
 - Busch: Kritiserad elavgift kan stoppas - Aftonbladet
+- Aktion mot Teslas station – efter draget - Expressen
 - Förvaltaren: Gruvbolagen "extremt undervärderade" mot guldet - Affärsvärlden
-- Aktion mot Tesla- station i ruschen – efter draget - Expressen
 - Novo Nordisk drar med sig Danmark i fallet? - Dagens PS
 - Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 - Snart slutar dina gamla Mac-appar funka - Ljud & Bild
-- Chilla i naturen i Ranger's Path: National Park Simulator. Vårda ekosystem och fota älgar. - feber.se
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2026-02-19 20:11_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
