@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 13:54_
+_Updated: 2026-02-20 15:39_
 
 ## Top Stories
 
-- S: För kemisk kastrering av pedofiler - Västerbottens-Kuriren
+- Politiker börjar mullra om ”partiska medier” - SvD
+- Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
+- Danmark: Alla ska vara redo om krisen kommer - GP
 - DN Direkt – Misstänkt människokranium hittat i posten - Dagens Nyheter
-- ”Hon ser mig, vänder på klacken – superstelt” - SvD
-- Recension: Gisèle Pelicots memoarer är otroligt helande läsning - GP
-- Experter: Iran och USA är nära krig – det här är tecknen - GP
-- Svanpar dödade inkräktare i centrala Malmö - Sydsvenskan
-- App ska varna för luftangrepp i Sverige - SVT Nyheter
-- Misstänkt grov våldtäkt mot barn på Återvändarcentrum i Märsta - UNT
-- S vill se Lex Landerholm-reglering – Senaste nytt om valet 2026 - SVT Nyheter
-- Just nu: Skolchefen – ”Känner en enorm ilska” - Västerbottens-Kuriren
+- Kända kyrkspiran plockas ner – är giftig - SvD
+- Rättegången mot bonusprinsen i ny fas - Hufvudstadsbladet
+- Linköpingsföretaget i blåsväder – kopplas till diktaturer - Corren
+- Insändare. Förbjud kärnvapen i Norden - Dagens Nyheter
+- Nya särskilda skyddsområden i marin miljö i Stockholms län - Länsstyrelsen
+- Thunberg backar konvoj till Kuba - GP
 - Ukraina: Hundra­tusentals med funktions­nedsättning till följd av kriget - Arbetaren
-- Trumps plan – vill ”nollställa” Nato: ”Oroväckande” - Expressen
-- Analytikern: Gynnsamt läge i tre aktier - Placera.se
-- Vänsterpartiet KU-anmäler Busch för finska elkabeln - Aftonbladet
-- Momsfelen kostar Sverige miljarder – Skatteverket slår larm i ny rapport - Börskollen
+- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
+- Felicia Åkerman: Hur låg är egentligen en normal styrränta? - Dagens Nyheter
 - Sälj Mag 7 – köp dessa 5 aktier som klarar stormiga AI-tider - Dagens PS
+- Marknaden för intimitetsteknik på väg mot 200 miljarder dollar - Dagens PS
+- Jätteras för diamanter – halverar värdet på De Beers - Dagens PS
+- 42-åring startar nytt hälsoföretag i Umeå - Folkbladet
 - Megastjärna försvann – bildade stort svart hål - Expressen
+- Glöm Samsung Galaxy Watch Ultra 2 – Amazfit T‑Rex Ultra 2 kan bli årets stora överraskning bland äventyrsklockor - TechRadar
 - Chrome får delad vy för flikar och två andra nyheter - Swedroid
-- Nintendos Hello, Mario!-app finns nu i Sverige - m3.se
-- Anteckningar i Windows 11 får stöd för bilder - PC för Alla
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2026-02-20 13:54_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -96,22 +96,22 @@ _Updated: 2026-02-20 13:54_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Hälsa och teknik - Chalmers tekniska högskola
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -155,9 +155,9 @@ _Updated: 2026-02-20 13:54_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
