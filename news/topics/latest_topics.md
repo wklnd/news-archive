@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 17:08_
+_Updated: 2026-02-20 18:01_
 
 ## Top Stories
 
+- DN Direkt – Staten och medier bidrar till en svensk AI-språkmodell - Dagens Nyheter
 - Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
-- Efter hoten: Iran lämnar brev till FN - Västerbottens-Kuriren
-- Politiker börjar mullra om ”partiska medier” - SvD
+- Män lurar sig in hos äldre – flera larm i Göteborg och Mölndal - Polisen.se
+- Friande dom för politikerna i Staffanstorp står fast – åklagaren överklagar inte - SVT Nyheter
+- Zelenskyj: Redo för ”ordentliga kompromisser” - GP
 - Rättegången mot bonusprinsen i ny fas - Hufvudstadsbladet
-- Danmark: Alla ska vara redo om krisen kommer - GP
-- Sverige ordnar fängelser för barn - 8 Sidor
+- Lång väntan på äldreomsorg - GP
 - Ledare: Stort underbetyg att inget parti kan fixa vården - Omni
 - Linköpingsföretaget i blåsväder – kopplas till diktaturer - Corren
-- Insändare. Förbjud kärnvapen i Norden - Dagens Nyheter
-- Gul varning för snö i nordvästra Skåne - SVT Nyheter
+- 20 grader upp – på några timmar: ”Stor skillnad” - Dagens Nyheter
+- Danmark: Alla ska vara redo om krisen kommer - Västerbottens-Kuriren
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
 - Regeringen öppnar för ökad fossilexport – efter lobbykampanj från energibolag - Dagens Nyheter
-- När protest möts med kulor - Dagens Arena
-- Marknaden för intimitetsteknik på väg mot 200 miljarder dollar - Dagens PS
+- Gunnar Hökmark: ”Vi ska ställa upp för ett land som invaderas, ockuperas och bombas” - ETC.se
 - Felicia Åkerman: Hur låg är egentligen en normal styrränta? - Dagens Nyheter
-- Jätteras för diamanter – halverar värdet på De Beers - Dagens PS
+- Marknaden för intimitetsteknik på väg mot 200 miljarder dollar - Dagens PS
+- Fisbyxa ska ge svar på svår gasgåta - Skånska Dagbladet
+- Xiaomi visar upp nya mobiler nästa vecka - m3.se
+- Test: Xplora One – Bra barnmobil för föräldrar som vill ha koll - mobil.se
 - Chrome ska bli mer användbart med tre nya funktioner - PC för Alla
-- 42-åring startar nytt hälsoföretag i Umeå - Folkbladet
-- Outlook kommer bli av med en funktion de flesta har missat - PC för Alla
-- Glöm Samsung Galaxy Watch Ultra 2 – Amazfit T‑Rex Ultra 2 kan bli årets stora överraskning bland äventyrsklockor - TechRadar
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-02-20 17:08_
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- Liberty International i Stockholm växer - travelnews.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 
 ## Technology
 
@@ -77,19 +77,20 @@ _Updated: 2026-02-20 17:08_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Swindled millions found 15 years later - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -122,8 +123,9 @@ _Updated: 2026-02-20 17:08_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -131,13 +133,12 @@ _Updated: 2026-02-20 17:08_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
