@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-20 15:45_
+_Updated: 2026-02-20 17:23_
 
-- Trump says world has 10 days to see if Iran agrees deal or 'bad things happen' - BBC
+- Dow slips after weak GDP data as traders await possible tariff court decision: Live updates - CNBC
 - Anonymous donation raises reward for help finding Nancy Guthrie to over $200,000 - Fox News
 - Scientists worry about lasting damage from Potomac sewage spill - NPR
+- Aircraft carrier seen off Gibraltar and fighter jets fly to UK as US build-up continues - BBC
 - What worked and what didn't with a cellphone ban at a Kentucky school - NPR
 - Governors group skips White House meeting after Trump refused to invite two Democrats - PBS
-- New Trump Banner Hung on Justice Department Headquarters - The New York Times
-- MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’ - The New York Times
-- U.S. fighter jets intercept Russian warplanes off Alaskan coast - CBS News
+- Revealed: Epstein cultivated relationship with CBP officer, causing US investigation - The Guardian
 - Missing San Jose State student found dead at Northstar ski resort - San Francisco Chronicle
-- As Peace Talks Stall, Russia and Ukraine Share One Aim: Keep Trump Happy - The Wall Street Journal
-- Money Talks as India Searches for Its Place in Global A.I. - The New York Times
-- Deportation of Chagos Islanders blocked by judge - BBC
+- Police Investigate ICE Arrest of a Man Who Suffered Severe Head Injuries - The New York Times
+- Kim lauds North Korea’s economy and regional standing as major party meeting opens - AP News
 - Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News
 - Former South Korean President Yoon receives life sentence for imposing martial law - NPR
+- Money Talks as India Searches for Its Place in Global A.I. - The New York Times
+- How extreme cold is affecting Americans’ lives, according to a new AP-NORC poll - AP News
 - Bath & Body Works starts selling on Amazon as more brands embrace its logistics network - CNBC
 - 'We're just going to get worse': 3 reasons Nobel economist Joseph Stiglitz thinks the US economy will keep weakening - Business Insider
-- Asia stocks fall as rate uncertainty, Iran tensions weigh; S.Korea outperforms - Investing.com
-- Oil prices jump amid signs of U.S.-Iran conflict - Axios
-- Galaxy Buds 4 dummy leaks downplay AirPod comparisons with new metallic finish - 9to5Google
+- Stock Market Today: Dow Opens Lower; GDP Growth Slows to 1.4% — Live Updates - The Wall Street Journal
+- Google’s new Gemini Pro model has record benchmark scores — again - TechCrunch
 - Apple and Jon Prosser coordinating deposition in iOS 26 leak case - 9to5Mac
+- Nintendo Switch Online Just Added 7 Classic Games at Once - ComicBook.com
