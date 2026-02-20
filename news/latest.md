@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-20 13:59_
+_Updated: 2026-02-20 15:45_
 
-- Governors group skips White House meeting after Trump refused to invite two Democrats - PBS
-- VA backs off rule that would have cut benefits amid outrage - CNN
-- A strong nor’easter could soon hit the East Coast. Here’s what could happen. - The Washington Post
-- White House grants ICE power to detain refugees for aggressive ‘rescreening’ | Trump administration - The Guardian
-- New Trump Banner Hung on Justice Department Headquarters - The New York Times
-- A Republican plan to overhaul voting is back. Here's what's new in the bill - NPR
+- Trump says world has 10 days to see if Iran agrees deal or 'bad things happen' - BBC
 - Anonymous donation raises reward for help finding Nancy Guthrie to over $200,000 - Fox News
-- U.S. fighter jets intercept Russian warplanes off Alaskan coast - CBS News
-- Trump visits Georgia, a target of his election falsehoods, as Republicans look for midterm boost - AP News
+- Scientists worry about lasting damage from Potomac sewage spill - NPR
+- What worked and what didn't with a cellphone ban at a Kentucky school - NPR
+- Governors group skips White House meeting after Trump refused to invite two Democrats - PBS
+- New Trump Banner Hung on Justice Department Headquarters - The New York Times
 - MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’ - The New York Times
-- Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - AP News
+- U.S. fighter jets intercept Russian warplanes off Alaskan coast - CBS News
+- Missing San Jose State student found dead at Northstar ski resort - San Francisco Chronicle
+- As Peace Talks Stall, Russia and Ukraine Share One Aim: Keep Trump Happy - The Wall Street Journal
 - Money Talks as India Searches for Its Place in Global A.I. - The New York Times
 - Deportation of Chagos Islanders blocked by judge - BBC
+- Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News
 - Former South Korean President Yoon receives life sentence for imposing martial law - NPR
+- Bath & Body Works starts selling on Amazon as more brands embrace its logistics network - CNBC
+- 'We're just going to get worse': 3 reasons Nobel economist Joseph Stiglitz thinks the US economy will keep weakening - Business Insider
 - Asia stocks fall as rate uncertainty, Iran tensions weigh; S.Korea outperforms - Investing.com
-- Tariffs paid by midsize US companies tripled last year, a JPMorganChase Institute study shows - AP News
-- Blue Owl Capital Sets Off New Fears About the Private Credit Industry - The New York Times
-- In a historic vote, Tennessee Volkswagen workers get their first union contract - NPR
-- Google’s new Gemini Pro model has record benchmark scores — again - TechCrunch
+- Oil prices jump amid signs of U.S.-Iran conflict - Axios
 - Galaxy Buds 4 dummy leaks downplay AirPod comparisons with new metallic finish - 9to5Google
+- Apple and Jon Prosser coordinating deposition in iOS 26 leak case - 9to5Mac
