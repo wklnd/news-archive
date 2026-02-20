@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 10:02_
+_Updated: 2026-02-20 11:07_
 
 ## Top Stories
 
-- Recension: Gisèle Pelicots memoarer är otroligt helande läsning - GP
-- Misstänkt grov våldtäkt mot barn på asylboende: ”Mår mycket dåligt” - Dagens Nyheter
-- Claes Hultling: Det var därför vi hade ett knullrum på Spinaliskliniken - Dagens Nyheter
-- ”Största risken – att kulturarvet äts upp” - SvD
-- Linköpingsföretaget i blåsväder – kopplas till diktaturer - Corren
-- S slår knockout på sig själva - SvD
 - App ska varna för luftangrepp i Sverige - SVT Nyheter
-- Insändare. Förbjud kärnvapen i Norden - Dagens Nyheter
-- Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
-- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- När protest möts med kulor - Dagens Arena
+- Polisen varnar unga – för ny bluff i Göteborg - GP
+- Claes Hultling: Det var därför vi hade ett knullrum på Spinaliskliniken - Dagens Nyheter
+- Skyddsstopp utökas för ambulanser i Stockholm - Omni
+- S vill se Lex Landerholm-reglering – Senaste nytt om valet 2026 - SVT Nyheter
+- Experter: Iran och USA är nära krig – det här är tecknen - GP
+- Man åtalas för sexualbrott mot 27 flickor - SVT Nyheter
+- DN Direkt – Man död i skidolycka i Kittelfjäll - Dagens Nyheter
+- SMHI varnar för snöfall - GP
+- Lång väntan på äldreomsorg - Västerbottens-Kuriren
+- Ryssland: Skjutit ned över 100 ukrainska drönare - Västerbottens-Kuriren
 - Trumps plan – vill ”nollställa” Nato: ”Oroväckande” - Expressen
 - Donald Trumps varning till frun Melania - Expressen
+- Vänsterpartiet KU-anmäler Busch för finska elkabeln - Aftonbladet
+- Guld- och silverrallyt får OS-medaljer att rusa i värde - Dagens PS
 - Studentfack: Ge nyutbildade rätt till a-kassa - SVT Nyheter
-- ICA Gruppen publicerar årsredovisning för 2025 - ICAGruppen.se
 - HGF: 42 förslag om hur kommunpolitiken kan ta ansvar - Bostadspolitik
-- Catena ökar förvaltningsresultatet - Affärsvärlden
+- Fisbyxa ska ge svar på svår gasgåta - SvD
 - Megastjärna försvann – bildade stort svart hål - Expressen
-- Windows 11 får inbyggt hastighetstest i Aktivitetsfältet - PC för Alla
 - Nintendos Hello, Mario!-app finns nu i Sverige - m3.se
 
 ## World News
@@ -52,24 +52,24 @@ _Updated: 2026-02-20 10:02_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -97,23 +97,23 @@ _Updated: 2026-02-20 10:02_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
