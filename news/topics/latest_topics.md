@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 18:01_
+_Updated: 2026-02-20 19:07_
 
 ## Top Stories
 
-- DN Direkt – Staten och medier bidrar till en svensk AI-språkmodell - Dagens Nyheter
+- Iran lockar med förslag under hot om anfall - GP
 - Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
-- Män lurar sig in hos äldre – flera larm i Göteborg och Mölndal - Polisen.se
-- Friande dom för politikerna i Staffanstorp står fast – åklagaren överklagar inte - SVT Nyheter
-- Zelenskyj: Redo för ”ordentliga kompromisser” - GP
+- Polisen varnar: Nytt sätt att lura äldre - SVT Nyheter
 - Rättegången mot bonusprinsen i ny fas - Hufvudstadsbladet
+- Regeringen går vidare med förslag om ungdomsfängelser - Publikt
+- 20-åring nekar till brott – häktad för deltagande i terrororganisation - Dagens Nyheter
 - Lång väntan på äldreomsorg - GP
-- Ledare: Stort underbetyg att inget parti kan fixa vården - Omni
-- Linköpingsföretaget i blåsväder – kopplas till diktaturer - Corren
-- 20 grader upp – på några timmar: ”Stor skillnad” - Dagens Nyheter
-- Danmark: Alla ska vara redo om krisen kommer - Västerbottens-Kuriren
+- Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
+- Ny jättedinosaurie upptäckt i öknen - GP
+- Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
-- Regeringen öppnar för ökad fossilexport – efter lobbykampanj från energibolag - Dagens Nyheter
-- Gunnar Hökmark: ”Vi ska ställa upp för ett land som invaderas, ockuperas och bombas” - ETC.se
+- INSÄNDARE: Fyra år av krig – nu krävs fred på Ukrainas villkor - Kristianstadsbladet
+- Teknisk miss avslöjar 818 miljarder i rysk oljesmuggling - Omni
 - Felicia Åkerman: Hur låg är egentligen en normal styrränta? - Dagens Nyheter
-- Marknaden för intimitetsteknik på väg mot 200 miljarder dollar - Dagens PS
-- Fisbyxa ska ge svar på svår gasgåta - Skånska Dagbladet
+- Äggkrisen – nu för producenter i stället - Dagens PS
 - Xiaomi visar upp nya mobiler nästa vecka - m3.se
 - Test: Xplora One – Bra barnmobil för föräldrar som vill ha koll - mobil.se
 - Chrome ska bli mer användbart med tre nya funktioner - PC för Alla
+- Outlook kommer bli av med en funktion de flesta har missat - PC för Alla
+- Terra återvänder till Slottsskogen - klara för Way Out West 2026 - GP
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-02-20 18:01_
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -63,11 +63,11 @@ _Updated: 2026-02-20 18:01_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
@@ -123,7 +123,6 @@ _Updated: 2026-02-20 18:01_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -139,6 +138,7 @@ _Updated: 2026-02-20 18:01_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
