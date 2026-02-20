@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-20 01:58_
+_Updated: 2026-02-20 05:20_
 
-- White House grants ICE power to detain refugees for aggressive ‘rescreening’ - The Guardian
+- Two Sisters Died in Tahoe Area Avalanche During Trek With Friends - The New York Times
 - Epstein Built Ties to U.S. Customs Officers, Prompting Criminal Investigation - The New York Times
+- Iran issues notice over planned rocket launches on Thursday - Reuters
+- Virginia judge blocks vote on Democrats’ redistricting referendum - Democracy Docket
+- Arts Panel Packed With Trump Allies Approves White House Ballroom Project - The New York Times
+- DAV statement on the halting of VA rule - DAV : Disabled American Veterans
 - Anonymous donation raises reward for help finding Nancy Guthrie to over $200,000 - Fox News
-- Philadelphia’s slavery exhibit is restored at President’s House Site - WHYY
-- Kennedy defends Trump glyphosate order; MAHA erupts as midterms approach - CNBC
-- Amid outcry, VA abruptly stops enforcing new disability rating rule - Stars and Stripes
-- Virginia Gov. Abigail Spanberger to give Democratic response to Trump's State of the Union address - AP News
-- Commission, packed with Trump allies, approves White House ballroom project - The Washington Post
-- Wisconsin GOP leader Robin Vos, who clashed with Trump, leaving office after reshaping the state - AP News
-- Trump visits Georgia, a target of his election falsehoods, as Republicans look for midterm boost - AP News
-- Live Updates: Former Prince Andrew Is Released After Being Arrested Amid Epstein Revelations - The New York Times
-- Former South Korean president receives life sentence for imposing martial law in 2024 - AP News
+- Trump appears ready to attack Iran as U.S. strike force takes shape - The Washington Post
+- Police Investigate ICE Arrest of a Man Who Suffered Severe Head Injuries - The New York Times
+- The moment of reckoning between America and Iran - The Economist
+- Blue Owl Sets Off New Private Credit Fears - The New York Times
+- Asian Stocks Fall, Oil Climbs With Iran in Focus: Markets Wrap - Bloomberg.com
 - K-shaped economy hits Walmart as high-income shoppers are increasingly driving sales - NBC News
-- Exclusive: Netflix has ample room to increase its offer in battle for Warner Bros, sources say - Reuters
-- West Virginia Sues Apple, Claiming It Allows Sharing of Child Sexual Abuse Material - The New York Times
-- Oil prices jump amid signs of U.S.-Iran conflict - Axios
-- Meta’s VR metaverse is ditching VR - The Verge
-- New Software: Rivian Apple Watch app - Rivian Stories
+- Inside Warner Bros. Discovery, Mood Among Many Staffers Shifts in Favor of Netflix Sale vs. Paramount Takeover - Variety
+- Rivian Adds A Sport Mode To All R1 EVs On The Road - InsideEVs
 - As browser wars heat up, Chrome adds new productivity features - TechCrunch
-- Diablo II’s new Warlock is a great excuse to revisit a classic game - Ars Technica
+- Microsoft is bringing a built-in network speed test to Windows 11 - The Verge
+- You're not having a stroke, Google simply changed the Chrome for Android Home icon - PhoneArena
+- Hilary Duff Is Ready for Her Pop Return - Rolling Stone
+- Anna Duggar Appears On Camera With ‘Whitaker, Beaumont, and Harrington’ - Yahoo
