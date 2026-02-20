@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 13:05_
+_Updated: 2026-02-20 13:54_
 
 ## Top Stories
 
-- Experter: Iran och USA är nära krig – det här är tecknen - GP
-- App ska varna för luftangrepp i Sverige - SVT Nyheter
-- Rättegången mot bonusprinsen går in i en ny fas - Hufvudstadsbladet
-- Misstänkt grov våldtäkt mot barn på asylboende: ”Mår mycket dåligt” - Dagens Nyheter
-- Lunds fristadsförfattare: ”Oklart om civila israeler dödades den 7 oktober” - Sydsvenskan
-- Regeringen går vidare med förslag om ungdomsfängelser - Publikt
-- 20 grader upp – på några timmar: ”Stor skillnad” - Dagens Nyheter
-- Man åtalas för sexualbrott mot 27 flickor - SVT Nyheter
-- S vill se Lex Landerholm-reglering – Senaste nytt om valet 2026 - SVT Nyheter
-- Parti pratar om kärnvapen - 8 Sidor
-- Thunberg backar konvoj till Kuba - GP
+- S: För kemisk kastrering av pedofiler - Västerbottens-Kuriren
+- DN Direkt – Misstänkt människokranium hittat i posten - Dagens Nyheter
+- ”Hon ser mig, vänder på klacken – superstelt” - SvD
 - Recension: Gisèle Pelicots memoarer är otroligt helande läsning - GP
-- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
+- Experter: Iran och USA är nära krig – det här är tecknen - GP
+- Svanpar dödade inkräktare i centrala Malmö - Sydsvenskan
+- App ska varna för luftangrepp i Sverige - SVT Nyheter
+- Misstänkt grov våldtäkt mot barn på Återvändarcentrum i Märsta - UNT
+- S vill se Lex Landerholm-reglering – Senaste nytt om valet 2026 - SVT Nyheter
+- Just nu: Skolchefen – ”Känner en enorm ilska” - Västerbottens-Kuriren
+- Ukraina: Hundra­tusentals med funktions­nedsättning till följd av kriget - Arbetaren
 - Trumps plan – vill ”nollställa” Nato: ”Oroväckande” - Expressen
+- Analytikern: Gynnsamt läge i tre aktier - Placera.se
 - Vänsterpartiet KU-anmäler Busch för finska elkabeln - Aftonbladet
-- Svenskarnas största skattefel - Västerbottens-Kuriren
+- Momsfelen kostar Sverige miljarder – Skatteverket slår larm i ny rapport - Börskollen
+- Sälj Mag 7 – köp dessa 5 aktier som klarar stormiga AI-tider - Dagens PS
 - Megastjärna försvann – bildade stort svart hål - Expressen
+- Chrome får delad vy för flikar och två andra nyheter - Swedroid
 - Nintendos Hello, Mario!-app finns nu i Sverige - m3.se
-- (+) Krönika: Framgång här kräver storskalighet men alla arbetar enskilt - mobil.se
-- Fler AI-funktioner i Google Docs kräver nu betalabonnemang - Teknikveckan
+- Anteckningar i Windows 11 får stöd för bilder - PC för Alla
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-02-20 13:05_
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Switch 2 får systemförbättringar och Mario & Luigi-soundtrack i ny global uppdatering - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -40,12 +39,13 @@ _Updated: 2026-02-20 13:05_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -78,6 +78,7 @@ _Updated: 2026-02-20 13:05_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -118,11 +119,11 @@ _Updated: 2026-02-20 13:05_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -130,13 +131,13 @@ _Updated: 2026-02-20 13:05_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
