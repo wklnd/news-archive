@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 15:39_
+_Updated: 2026-02-20 17:08_
 
 ## Top Stories
 
-- Politiker börjar mullra om ”partiska medier” - SvD
 - Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
-- Danmark: Alla ska vara redo om krisen kommer - GP
-- DN Direkt – Misstänkt människokranium hittat i posten - Dagens Nyheter
-- Kända kyrkspiran plockas ner – är giftig - SvD
+- Efter hoten: Iran lämnar brev till FN - Västerbottens-Kuriren
+- Politiker börjar mullra om ”partiska medier” - SvD
 - Rättegången mot bonusprinsen i ny fas - Hufvudstadsbladet
+- Danmark: Alla ska vara redo om krisen kommer - GP
+- Sverige ordnar fängelser för barn - 8 Sidor
+- Ledare: Stort underbetyg att inget parti kan fixa vården - Omni
 - Linköpingsföretaget i blåsväder – kopplas till diktaturer - Corren
 - Insändare. Förbjud kärnvapen i Norden - Dagens Nyheter
-- Nya särskilda skyddsområden i marin miljö i Stockholms län - Länsstyrelsen
-- Thunberg backar konvoj till Kuba - GP
-- Ukraina: Hundra­tusentals med funktions­nedsättning till följd av kriget - Arbetaren
+- Gul varning för snö i nordvästra Skåne - SVT Nyheter
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
-- Felicia Åkerman: Hur låg är egentligen en normal styrränta? - Dagens Nyheter
-- Sälj Mag 7 – köp dessa 5 aktier som klarar stormiga AI-tider - Dagens PS
+- Regeringen öppnar för ökad fossilexport – efter lobbykampanj från energibolag - Dagens Nyheter
+- När protest möts med kulor - Dagens Arena
 - Marknaden för intimitetsteknik på väg mot 200 miljarder dollar - Dagens PS
+- Felicia Åkerman: Hur låg är egentligen en normal styrränta? - Dagens Nyheter
 - Jätteras för diamanter – halverar värdet på De Beers - Dagens PS
+- Chrome ska bli mer användbart med tre nya funktioner - PC för Alla
 - 42-åring startar nytt hälsoföretag i Umeå - Folkbladet
-- Megastjärna försvann – bildade stort svart hål - Expressen
+- Outlook kommer bli av med en funktion de flesta har missat - PC för Alla
 - Glöm Samsung Galaxy Watch Ultra 2 – Amazfit T‑Rex Ultra 2 kan bli årets stora överraskning bland äventyrsklockor - TechRadar
-- Chrome får delad vy för flikar och två andra nyheter - Swedroid
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Albanien utser AI-bot till minister - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -146,18 +146,18 @@ _Updated: 2026-02-20 15:39_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
