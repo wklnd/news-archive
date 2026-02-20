@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-21 01:01_
+_Updated: 2026-02-21 01:57_
 
-- These Skiers Cleared Out as Group That Would Be Hit by Avalanche Arrived - The New York Times
-- Where snow could be measured in inches — or feet — in the East this weekend - The Washington Post
+- Trump Tariffs Live Updates: After Supreme Court Ruling, Trump Plans a Tariff Workaround - The New York Times
 - U.K. Police Contacting Security Officers Who Once Protected Former Prince Andrew - The New York Times
+- Where snow could be measured in inches — or feet — in the East this weekend - The Washington Post
 - House Speaker Johnson rejects request for Jesse Jackson to lie in honor at Capitol - CNN
-- San José State University Graduate Is Found Dead in Tree Well at Lake Tahoe Resort - The New York Times
-- Trump pledges $10 billion for Board of Peace in inaugural meeting on Gaza - Axios
-- Trump Administration Live Updates: President Acknowledges That He Is Weighing Limited Strike on Iran - The New York Times
+- D.C. area could see pasty snow Sunday into Monday. How much could fall? - The Washington Post
+- Trump hosts governors' breakfast after National Governors Association pulls out of event - PBS
+- Was Anyone at Fault in Sierra Nevada Avalanche Deaths? - The New York Times
 - Give Punch a break! Zoo responds to heartbreaking video of baby monkey - USA Today
-- Oddest moments from India’s AI summit: Missing stars, traffic chaos and robo-dog controversy - politico.eu
 - Ali Akbar, who's sold newspapers on the streets of Paris for 50 years, is now a knight - NPR
-- Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - NPR
-- Mixed Signals Churn Stock Market Despite Recent Highs - The New York Times
+- Oddest moments from India’s AI summit: Missing stars, traffic chaos and robo-dog controversy - politico.eu
+- Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News
 - Under Mamdani, City to Probe Businesses Where Most Workers Take Zero Sick Days - THE CITY - NYC News
-- US PCE inflation heats up in December - Reuters
+- Fed’s Preferred Gauge Shows Accelerating December Inflation Trends - The Wall Street Journal
 - Trump adviser drops bombshell on Meta, Microsoft - thestreet.com
+- Tariffs paid by midsize US companies tripled last year, a JPMorganChase Institute study shows - AP News
 - Motorola's latest foldables are finally getting Android 16 in the US - GSMArena.com news - GSMArena.com
-- Nintendo turned its biggest flop into an expensive, uncomfortable novelty - The Verge
 - A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets - CNET
+- Nintendo turned its biggest flop into an expensive, uncomfortable novelty - The Verge
 - Microsoft error sees confidential emails exposed to AI tool Copilot - BBC
-- "America's Next Top Model" winner Eva Marcille describes "amazingly horrifying" docuseries allegations - CBS News
+- Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week. - The New York Times
