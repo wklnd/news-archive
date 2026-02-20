@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 20:03_
+_Updated: 2026-02-20 21:12_
 
 ## Top Stories
 
-- Avhopparen slår tillbaka mot Migrationsverkets generaldirektör - GP
-- Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
-- Rättegången mot bonusprinsen i ny fas - Hufvudstadsbladet
-- Busch bjuder in Andersson till offentligt samtal – Senaste nytt om valet 2026 - SVT Nyheter
-- Ärende om deltagande i terroristorganisation - Åklagarmyndigheten
-- Körde in i träd – man död i skidolycka i Kittelfjäll - Västerbottens-Kuriren
+- Iran lockar med förslag under hot om anfall - GP
+- Lastbil och buss krockade – äldre man död - GP
+- Explosion i Malmö - Västerbottens-Kuriren
+- Översvämningar i Frankrike - 8 Sidor
+- Fyra gripna för falska 500-kronorssedlar - NT
+- Regeringen sjösätter svensk AI-modell - GP
 - Regeringen går vidare med förslag om ungdomsfängelser - Regeringen.se
-- Hundratals gäddor frös ihjäl på Lidingö - Dagens Nyheter
+- Fick böter för avsaknad av skoterhjälm - Tidningen Härjedalen
 - Ledare: Stort underbetyg att inget parti kan fixa vården - Omni
-- Naturskyddsföreningen överklagar all licensjakt på lodjur 2026 i Sverige - Jaktjournalen
-- Danmark: Alla ska vara redo om krisen kommer - GP
-- Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
-- Regeringen öppnar för ökad fossilexport – efter lobbykampanj från energibolag - Dagens Nyheter
-- Teknisk miss avslöjar 818 miljarder i rysk oljesmuggling - Omni
-- USA-RÄNTOR UPP, STARKARE DOLLAR EFTER FEDSIGNAL - Placera.se
+- Just nu: Skolchefen – ”Känner en enorm ilska” - Västerbottens-Kuriren
+- Zelenskyj: Vi förlorar inte kriget - GP
+- Utrikesministern: Lämna Iran nu - SVT Nyheter
+- Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
+- Ny jättedinosaurie upptäckt i öknen - GP
+- Iran-oro stärker dollarn mot euron - Dagens PS
+- ”Timbro verkar aldrig ha satt sin fot på en svensk skola” - Arbetet
+- Whatsapp gör det enklare för nya gruppmedlemmar att börja diskutera - Swedroid
 - Xiaomi visar upp nya mobiler nästa vecka - m3.se
-- Apple stäms för bristande skydd mot CSAM i iCloud - Teknikveckan
+- Epsons UST-projektor: 150 tum med Bose-ljud - Ljud & Bild
 - Test: Xplora One – Bra barnmobil för föräldrar som vill ha koll - mobil.se
-- Outlook kommer bli av med en funktion de flesta har missat - PC för Alla
 
 ## World News
 
-- Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - SvD
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Cameron – smittad av skandalen - Aftonbladet
-- Liberty International i Stockholm växer - travelnews.se
-- Tabloiddrottningens sista smaskiga story - SvD
+- New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 
 ## Technology
 
@@ -57,10 +57,11 @@ _Updated: 2026-02-20 20:03_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-02-20 20:03_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -114,8 +114,8 @@ _Updated: 2026-02-20 20:03_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Modellen för riktade hälsosamtal – viktig förebyggande hälsoinsats - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -123,8 +123,7 @@ _Updated: 2026-02-20 20:03_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -132,13 +131,14 @@ _Updated: 2026-02-20 20:03_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,7 +152,7 @@ _Updated: 2026-02-20 20:03_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
