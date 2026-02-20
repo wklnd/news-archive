@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 21:12_
+_Updated: 2026-02-20 21:53_
 
 ## Top Stories
 
-- Iran lockar med förslag under hot om anfall - GP
-- Lastbil och buss krockade – äldre man död - GP
 - Explosion i Malmö - Västerbottens-Kuriren
+- Lavinfara i fjällen - Västerbottens-Kuriren
 - Översvämningar i Frankrike - 8 Sidor
-- Fyra gripna för falska 500-kronorssedlar - NT
-- Regeringen sjösätter svensk AI-modell - GP
-- Regeringen går vidare med förslag om ungdomsfängelser - Regeringen.se
+- Hyllad frisör i Malmö rasar mot återkommande polisrazzior - Sydsvenskan
+- Är det dags att släppa knarket fritt? - SvD
+- DN Direkt – Storbritanniens regering överväger ta bort Andrew ur tronföljden - Dagens Nyheter
+- Stockholm utökar skyddsstopp för ambulanser - GP
 - Fick böter för avsaknad av skoterhjälm - Tidningen Härjedalen
-- Ledare: Stort underbetyg att inget parti kan fixa vården - Omni
-- Just nu: Skolchefen – ”Känner en enorm ilska” - Västerbottens-Kuriren
+- 20 grader upp – på några timmar: ”Stor skillnad” - Dagens Nyheter
+- Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
 - Zelenskyj: Vi förlorar inte kriget - GP
 - Utrikesministern: Lämna Iran nu - SVT Nyheter
-- Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
-- Ny jättedinosaurie upptäckt i öknen - GP
-- Iran-oro stärker dollarn mot euron - Dagens PS
+- Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
+- Ukraina: Hundra­tusentals med funktions­nedsättning till följd av kriget - Arbetaren
+- Nationell yrkesutbildning breddas med nya yrkesroller - Cision News
 - ”Timbro verkar aldrig ha satt sin fot på en svensk skola” - Arbetet
-- Whatsapp gör det enklare för nya gruppmedlemmar att börja diskutera - Swedroid
+- Expert: Svenskar måste jobba mer och längre - Dagens PS
 - Xiaomi visar upp nya mobiler nästa vecka - m3.se
-- Epsons UST-projektor: 150 tum med Bose-ljud - Ljud & Bild
-- Test: Xplora One – Bra barnmobil för föräldrar som vill ha koll - mobil.se
+- Whatsapp gör det enklare för nya gruppmedlemmar att börja diskutera - Swedroid
+- Blodtryck på Apple Watch: hur tillförlitligt är det egentligen? - Ljud & Bild
 
 ## World News
 
@@ -35,7 +35,7 @@ _Updated: 2026-02-20 21:12_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -57,11 +57,10 @@ _Updated: 2026-02-20 21:12_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-02-20 21:12_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -114,31 +114,31 @@ _Updated: 2026-02-20 21:12_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Modellen för riktade hälsosamtal – viktig förebyggande hälsoinsats - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
