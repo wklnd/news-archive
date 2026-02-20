@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 07:04_
+_Updated: 2026-02-20 08:12_
 
 ## Top Stories
 
-- Thunberg backar konvoj till Kuba - SvD
+- App ska varna för luftangrepp i Sverige - Västerbottens-Kuriren
+- Claes Hultling: Det var därför vi hade ett knullrum på Spinaliskliniken - Dagens Nyheter
 - Hotet mot museerna: ”Det är ganska äckligt” - SvD
+- Man död i skidolycka i Kittelfjäll - SVT Nyheter
+- INSÄNDARE: Du bestämmer hur det ska fortsätta efter valet 2026 - Ekuriren
 - Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
-- Överklagar lodjursjakt: ”Fel väg att gå” - Dalslänningen
-- Långa väntetider i vården är viktigast för väljarna - Omni
-- Nattåg försvinner i norr – nu varslar SJ personal - SVT Nyheter
-- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
-- Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- S: Inga ofinansierade förslag i vårbudgeten - Corren
-- Gunnar Hökmark: ”Vi ska ställa upp för ett land som invaderas, ockuperas och bombas” - ETC.se
-- Experter: Iran och USA är nära krig – det här är tecknen - GP
+- Nu vässas kampen mot gängkriminalitet: ”Börjar redan i mellanstadiet” - NWT
+- Insändare. Förbjud kärnvapen i Norden - Dagens Nyheter
+- Thunberg backar konvoj till Kuba - GP
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
-- Marco Rubios tal i München var fascistiskt - Dagens Arena
-- Donald Trumps varning till frun Melania - Expressen
 - Banken stoppade utlandsbetalningar lämnar henne utan pengar i Spanien - Realtid
 - HGF: 42 förslag om hur kommunpolitiken kan ta ansvar - Bostadspolitik
-- Färre apotek på glesbygden när farma­ceutbristen förvärras - Svensk Farmaci
 - Semmelfeber i Landskrona – bagerierna sålde slut på fettisdagen - HD – Nyheter Dygnet Runt
+- Ett batteripark kopplas in till Skånes elnät - Teknikveckan
 - Megastjärna försvann – bildade stort svart hål - Expressen
+- Youtube blir mer pratsamt på smart-tv-apparater - m3.se
 - iPhone 17 Pro Max är nu den mest inbytta telefonen - Teknikveckan
+- Ny föräldragrupp för dig som vill stärka relationen med ditt barn - Uddevalla kommun
+- Här svävar alla i ovisshetens djup - SvD
+- SVT möblerar om i tablån – ”Antikrundan” flyttas - Aftonbladet
 
 ## World News
 
@@ -41,8 +41,8 @@ _Updated: 2026-02-20 07:04_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Umeå children in worldwide school project on AI - Umeå universitet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -57,19 +57,19 @@ _Updated: 2026-02-20 07:04_
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -94,25 +94,25 @@ _Updated: 2026-02-20 07:04_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -154,8 +154,8 @@ _Updated: 2026-02-20 07:04_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
