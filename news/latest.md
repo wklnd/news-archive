@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-20 21:58_
+_Updated: 2026-02-20 22:58_
 
-- S&P 500 rises in volatile trading after Supreme Court knocks down Trump’s emergency tariffs: Live updates - CNBC
-- See where snow could be measured in inches — or feet — in the East this weekend - The Washington Post
-- Trump gets his Board of Peace, even as bigger countries steer clear - Politico
-- Scientists worry about lasting damage from Potomac sewage spill - NPR
+- Where snow could be measured in inches — or feet — in the East this weekend - The Washington Post
+- Trump Administration Live Updates: President Acknowledges That He Is Weighing Limited Strike on Iran - The New York Times
 - U.K. Police Contacting Security Officers Who Once Protected Former Prince Andrew - The New York Times
+- House Speaker Johnson rejects request for Jesse Jackson to lie in honor at Capitol - CNN
+- E.P.A. Weakens Limits on Mercury From Coal Plants - The New York Times
 - Facing a mental health crisis, an NJ school pulled a beloved novel from English class - NPR
-- Majority of Americans think Trump’s deportation campaign is going too far - The Washington Post
+- Trump Tariffs Live Updates: After Supreme Court Ruling, Trump Plans a Tariff Workaround - The New York Times - The New York Times
+- What Trump won’t say in his State of the Union - salon.com
+- Scientists worry about lasting damage from Potomac sewage spill - NPR
 - Trump administration plans to take Homan’s Minneapolis immigration playbook nationwide - CNN
-- Governors group skips White House meeting after Trump refused to invite two Democrats - PBS
-- Britain blocking use of air bases Trump says would be needed for strikes on Iran, UK media report - CNN
-- Punch the monkey, initially an outcast, finds some friends (and the internet's support) - NBC News
 - Oddest moments from India’s AI summit: Missing stars, traffic chaos and robo-dog controversy - politico.eu
 - Ali Akbar, who's sold newspapers on the streets of Paris for 50 years, is now a knight - NPR
+- Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - NPR
 - Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News
-- U.S. economic growth slowed sharply at end of 2025, dragging down the year - The Washington Post
-- Bath & Body Works starts selling on Amazon as more brands embrace its logistics network - CNBC
-- Mixed Signals Churn Stock Market Despite Recent Highs - The New York Times
+- Grail’s Cancer Detection Test Fails in Major Study - The New York Times
+- Ajinomoto Foods North America, Inc. Recalls Chicken Fried Rice Products due to Possible Foreign Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov
 - Mark Cuban says there are 2 types of people who use AI: the learners and the lazy - Business Insider
-- Inside the OpenAI Team Developing its AI Devices - The Information
-- Google Pixel 10a vs Pixel 9a: Is Google's New Phone Worth the Upgrade? - PCMag
+- 62-year-old fast-food Mexican chain quietly closing restaurants - thestreet.com
+- OpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape - The Information
+- Google Store trade-ins towards Pixel are now an instant discount, but not for everyone - 9to5Google
