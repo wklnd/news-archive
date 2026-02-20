@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 12:04_
+_Updated: 2026-02-20 13:05_
 
 ## Top Stories
 
 - Experter: Iran och USA är nära krig – det här är tecknen - GP
 - App ska varna för luftangrepp i Sverige - SVT Nyheter
+- Rättegången mot bonusprinsen går in i en ny fas - Hufvudstadsbladet
 - Misstänkt grov våldtäkt mot barn på asylboende: ”Mår mycket dåligt” - Dagens Nyheter
-- Recension: Gisèle Pelicots memoarer är otroligt helande läsning - GP
-- Polisen varnar unga – för ny bluff i Göteborg - GP
-- Claes Hultling: Det var därför vi hade ett knullrum på Spinaliskliniken - Dagens Nyheter
+- Lunds fristadsförfattare: ”Oklart om civila israeler dödades den 7 oktober” - Sydsvenskan
+- Regeringen går vidare med förslag om ungdomsfängelser - Publikt
+- 20 grader upp – på några timmar: ”Stor skillnad” - Dagens Nyheter
+- Man åtalas för sexualbrott mot 27 flickor - SVT Nyheter
 - S vill se Lex Landerholm-reglering – Senaste nytt om valet 2026 - SVT Nyheter
-- Insändare. Förbjud kärnvapen i Norden - Dagens Nyheter
-- Linköpingsföretaget i blåsväder – kopplas till diktaturer - Corren
+- Parti pratar om kärnvapen - 8 Sidor
+- Thunberg backar konvoj till Kuba - GP
+- Recension: Gisèle Pelicots memoarer är otroligt helande läsning - GP
+- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
 - Trumps plan – vill ”nollställa” Nato: ”Oroväckande” - Expressen
-- Sju kan åtalas för mord på högeraktivist - GP
-- ”Putin sitter fast i sin egen rävsax” - Expressen
-- Studentfack: Ge nyutbildade rätt till a-kassa - SVT Nyheter
-- Glöm gamla flygmyter: Så bokar du billigast i år - Dagens PS
-- Aktion mot Teslas station – efter draget - Expressen
+- Vänsterpartiet KU-anmäler Busch för finska elkabeln - Aftonbladet
+- Svenskarnas största skattefel - Västerbottens-Kuriren
 - Megastjärna försvann – bildade stort svart hål - Expressen
 - Nintendos Hello, Mario!-app finns nu i Sverige - m3.se
-- Undertexterna i Apples tv-app ska förbättras - Macworld.se
-- AI-webbläsaren Perplexity Comet släpps till iPhone 11 mars - Teknikveckan
-- RECENSION: Hon har skrivit en vidunderlig roman – om barn som försummas på Malmö stadsteater - Sydsvenskan
+- (+) Krönika: Framgång här kräver storskalighet men alla arbetar enskilt - mobil.se
+- Fler AI-funktioner i Google Docs kräver nu betalabonnemang - Teknikveckan
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2026-02-20 12:04_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -94,26 +94,26 @@ _Updated: 2026-02-20 12:04_
 
 ## Health
 
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Hälsa och teknik - Chalmers tekniska högskola
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Anna Mia Ekström - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Johan von Schreeb - Karolinska Institutet
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -154,9 +154,9 @@ _Updated: 2026-02-20 12:04_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
