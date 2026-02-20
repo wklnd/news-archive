@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-20 07:07_
+_Updated: 2026-02-20 08:34_
 
-- Two Sisters Died in Tahoe Area Avalanche During Trek With Friends - The New York Times
 - Anonymous donation raises reward for help finding Nancy Guthrie to over $200,000 - Fox News
 - A Republican plan to overhaul voting is back. Here's what's new in the bill - NPR
-- Illinois Democrat tries to bleep her way through a tough Senate primary with a new expletive-laden anti-Trump ad - NBC News
 - MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’ - The New York Times
-- Arts Panel Packed With Trump Allies Approves White House Ballroom Project - The New York Times
-- Virginia judge blocks Democrats’ referendum, a blow to redistricting effort over 4 U.S. House seats - WTOP
-- Police Investigate ICE Arrest of a Man Who Suffered Severe Head Injuries - The New York Times
-- In rare move, Veterans Affairs pulls back on controversial disability rule - The Washington Post
+- Illinois Democrat tries to bleep her way through a tough Senate primary with a new expletive-laden anti-Trump ad - NBC News
+- Missing Bay Area skier Colin Kang found dead at Northstar California Resort, marking 3rd death this month - ABC7 San Francisco
+- Virginia judge blocks vote on Democrats’ redistricting referendum - Democracy Docket
+- Trump appears ready to attack Iran as U.S. strike force takes shape - The Washington Post
+- Trump’s refusal to invite all governors to a White House meeting prompts group to back out - AP News
+- Texas' Senate primary race between Crockett and Talarico ramps up after pulled Colbert interview - AP News
 - Loretta Smith calls for open carry for Portland city councilors following latest protest - Oregon Public Broadcasting - OPB
-- Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth - CNBC
+- Kim lauds North Korea’s economy and regional standing as major party meeting opens - AP News
 - In a historic vote, Tennessee Volkswagen workers get their first union contract - NPR
-- Bank of America Commits $25 Billion of Its Own Cash to Private Credit Deals - Bloomberg
-- President Trump Is Bringing Back the American Dream of Homeownership - The White House (.gov)
+- Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg
+- Blue Owl Sets Off New Private Credit Fears - The New York Times
+- K-shaped economy hits Walmart as high-income shoppers are increasingly driving sales - NBC News
 - This new Windows 11 taskbar tool lets you test your internet speed in seconds - how to try it - ZDNET
-- Free Play Days – Battlefield 6, Chip ‘n Clawz vs. The Brainioids, Sunderfolk, Polterguys, and Jujutsu Kaisen Cursed Clash - Xbox Wire
+- Samsung Introduces the New Bixby in One UI 8.5 - samsung.com
 - You're not having a stroke, Google simply changed the Chrome for Android Home icon - PhoneArena
-- It’s Not Just Your Screens: Why So Many People Suddenly Need Glasses - Gizmodo
-- Anna Duggar Appears On Camera With ‘Whitaker, Beaumont, and Harrington’ - Yahoo
-- ‘Landman’s Billy Bob Thornton Tells Great Robert Duvall Stories & Divulges The Deep Dark Secret He Never Told His Mentor - Deadline
+- Ubisoft Says Don’t Worry About Splinter Cell Remake As It Lays Off More Developers - Kotaku
+- Hilary Duff Is Ready for Her Pop Return - Rolling Stone
