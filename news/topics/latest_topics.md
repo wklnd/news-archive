@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 19:07_
+_Updated: 2026-02-20 20:03_
 
 ## Top Stories
 
-- Iran lockar med förslag under hot om anfall - GP
+- Avhopparen slår tillbaka mot Migrationsverkets generaldirektör - GP
 - Därför tvekar Demokraterna om att höja skatten för de rika - Dagens Nyheter
-- Polisen varnar: Nytt sätt att lura äldre - SVT Nyheter
 - Rättegången mot bonusprinsen i ny fas - Hufvudstadsbladet
-- Regeringen går vidare med förslag om ungdomsfängelser - Publikt
-- 20-åring nekar till brott – häktad för deltagande i terrororganisation - Dagens Nyheter
-- Lång väntan på äldreomsorg - GP
-- Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- Ny jättedinosaurie upptäckt i öknen - GP
+- Busch bjuder in Andersson till offentligt samtal – Senaste nytt om valet 2026 - SVT Nyheter
+- Ärende om deltagande i terroristorganisation - Åklagarmyndigheten
+- Körde in i träd – man död i skidolycka i Kittelfjäll - Västerbottens-Kuriren
+- Regeringen går vidare med förslag om ungdomsfängelser - Regeringen.se
+- Hundratals gäddor frös ihjäl på Lidingö - Dagens Nyheter
+- Ledare: Stort underbetyg att inget parti kan fixa vården - Omni
+- Naturskyddsföreningen överklagar all licensjakt på lodjur 2026 i Sverige - Jaktjournalen
+- Danmark: Alla ska vara redo om krisen kommer - GP
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
-- INSÄNDARE: Fyra år av krig – nu krävs fred på Ukrainas villkor - Kristianstadsbladet
+- Regeringen öppnar för ökad fossilexport – efter lobbykampanj från energibolag - Dagens Nyheter
 - Teknisk miss avslöjar 818 miljarder i rysk oljesmuggling - Omni
-- Felicia Åkerman: Hur låg är egentligen en normal styrränta? - Dagens Nyheter
-- Äggkrisen – nu för producenter i stället - Dagens PS
+- USA-RÄNTOR UPP, STARKARE DOLLAR EFTER FEDSIGNAL - Placera.se
 - Xiaomi visar upp nya mobiler nästa vecka - m3.se
+- Apple stäms för bristande skydd mot CSAM i iCloud - Teknikveckan
 - Test: Xplora One – Bra barnmobil för föräldrar som vill ha koll - mobil.se
-- Chrome ska bli mer användbart med tre nya funktioner - PC för Alla
 - Outlook kommer bli av med en funktion de flesta har missat - PC för Alla
-- Terra återvänder till Slottsskogen - klara för Way Out West 2026 - GP
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - SvD
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Cameron – smittad av skandalen - Aftonbladet
 - Liberty International i Stockholm växer - travelnews.se
+- Tabloiddrottningens sista smaskiga story - SvD
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-02-20 19:07_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2026-02-20 19:07_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2026-02-20 19:07_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
