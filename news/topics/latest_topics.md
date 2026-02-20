@@ -1,36 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-20 05:17_
+_Updated: 2026-02-20 07:04_
 
 ## Top Stories
 
-- Experter: Iran och USA är nära krig – det här är tecknen - GP
-- Thunberg backar konvoj till Kuba - Västerbottens-Kuriren
+- Thunberg backar konvoj till Kuba - SvD
+- Hotet mot museerna: ”Det är ganska äckligt” - SvD
 - Fortkörare bötfällda i Umeå - Västerbottens-Kuriren
-- Rött larm i Frankrike samtidigt som EU varnar för 3 grader - Dagens Nyheter
+- Överklagar lodjursjakt: ”Fel väg att gå” - Dalslänningen
 - Långa väntetider i vården är viktigast för väljarna - Omni
-- USA: Fem länder lovar skicka soldater till Gaza - Västerbottens-Kuriren
-- Man död i skidolycka i Kittelfjäll - SVT Nyheter
+- Nattåg försvinner i norr – nu varslar SJ personal - SVT Nyheter
+- Cosmic skulle förenkla – men är sjukhusens stora tidstjuv - SVT Nyheter
 - Forssell efter aktionerna: obehag och rädsla – Senaste nytt om valet 2026 - SVT Nyheter
-- Jimmie Åkesson backar – migrationslagen kan dröja - Dagens Nyheter
+- S: Inga ofinansierade förslag i vårbudgeten - Corren
 - Gunnar Hökmark: ”Vi ska ställa upp för ett land som invaderas, ockuperas och bombas” - ETC.se
+- Experter: Iran och USA är nära krig – det här är tecknen - GP
 - Gisèle Pelicot – nära och ärligt om att överleva ett brott som skuggar hela livet - Dagens Nyheter
 - Marco Rubios tal i München var fascistiskt - Dagens Arena
 - Donald Trumps varning till frun Melania - Expressen
-- Zelenskyj: Samtalen inte tillfredsställande - GP
-- Klarna bommar resultatförväntningarna – aktien faller i förhandeln - Placera.se
+- Banken stoppade utlandsbetalningar lämnar henne utan pengar i Spanien - Realtid
 - HGF: 42 förslag om hur kommunpolitiken kan ta ansvar - Bostadspolitik
+- Färre apotek på glesbygden när farma­ceutbristen förvärras - Svensk Farmaci
 - Semmelfeber i Landskrona – bagerierna sålde slut på fettisdagen - HD – Nyheter Dygnet Runt
 - Megastjärna försvann – bildade stort svart hål - Expressen
 - iPhone 17 Pro Max är nu den mest inbytta telefonen - Teknikveckan
-- Uppgifter: iOS 27 ska lösa problemet som irriterat iPhone-ägare - Dagens.se
 
 ## World News
 
-- Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Flaskhals i global SUV-produktion gör att Toyota erbjuder hybridalternativ till kunderna - Mix Vale
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Switch 2 får systemförbättringar och Mario & Luigi-soundtrack i ny global uppdatering - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -38,13 +36,15 @@ _Updated: 2026-02-20 05:17_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Ericsson och Microsoft vill stärka förtroendet för global tech - Computer Sweden
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -94,25 +94,25 @@ _Updated: 2026-02-20 05:17_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Anna Mia Ekström - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -130,12 +130,12 @@ _Updated: 2026-02-20 05:17_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
