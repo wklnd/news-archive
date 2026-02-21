@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 01:52_
+_Updated: 2026-02-21 05:08_
 
 ## Top Stories
 
-- Blå himmel över Peking får bybor att skaka tänder - Dagens Nyheter
-- Greps med 40 kilo amfetamin – vid skola i Majorna - GP
-- DN Direkt – Trump bekräftar: Överväger mindre attack mot Iran - Dagens Nyheter
-- Fyra år efter invasionen: Vad gör FN i Ukraina? - Unric
-- Cambio: Ett införandeprojekt hade underlättat - Läkartidningen
-- Från iskyla till vår – på bara några timmar - Aftonbladet
-- Hundratals gäddor frös ihjäl på Lidingö - Dagens Nyheter
-- Fick böter för avsaknad av skoterhjälm - Tidningen Härjedalen
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- Just nu: Skolchefen – ”Känner en enorm ilska” - Västerbottens-Kuriren
+- Utdöda jättesköldpaddor gör comeback - GP
+- DN Direkt – Trump bekräftar: Överväger mindre attack mot Iran - Dagens Nyheter
+- EDVARD HOLLERTZ: Varningarna om Linköpingsbolagets Saudikoppling bör tas på allvar - Corren
+- USA: Tre döda efter attack mot fartyg i Stilla havet - SVT Nyheter
+- Fyra år efter invasionen: Vad gör FN i Ukraina? - Unric
+- Hundratals gäddor frös ihjäl på Lidingö - Dagens Nyheter
+- LEDARE: Regeringen låter framtida generationer betala för tryggheten - Norran
+- Regeringen går vidare med förslag om ungdomsfängelser - Regeringen.se
+- Sex fortkörare bötfällda under eftermiddagen – där stod polisen - NSD
 - Flera döda i israeliska attacker i Libanon - GP
-- Direkt – Kriget i Ukraina – Kallas: Redo för nytt sanktionspaket mot Ryssland - Dagens Nyheter
+- Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- Man hittad död på Kronobergshäktet - Expressen
+- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
 - Anställd krävde sömn på natten – fick sparken - SvD
 - Sannas dubbelsmäll i kylan: ”Jag bävar” - Expressen
-- Nationell yrkesutbildning breddas med nya yrkesroller - Cision
-- AI-toppmöte i New Delhi skickar en tydlig signal till Sverige | Per Elinder Liljas - SvD
-- Stjärnkväll i Folkets hus – artisterna tog publiken med storm - Norrtelje Tidning
-- Phil Spencer avgår och Sarah Bond tackar för sig - varvat.se
+- KATARINA O'NILS FRANKE: Sverige behöver bli ett ingenjörsland igen - NT
+- Nationell yrkesutbildning breddas med nya yrkesroller - Cision News
+- Megastjärna försvann – bildade stort svart hål - Expressen
+- Stor ommöblering på gång i Microsofts Xbox-division - Teknikveckan
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -58,10 +58,10 @@ _Updated: 2026-02-21 01:52_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -99,23 +99,23 @@ _Updated: 2026-02-21 01:52_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Hälsa och teknik - Chalmers tekniska högskola
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,7 @@ _Updated: 2026-02-21 01:52_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -145,20 +145,20 @@ _Updated: 2026-02-21 01:52_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
