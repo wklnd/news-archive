@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 19:51_
+_Updated: 2026-02-21 21:00_
 
 ## Top Stories
 
-- Skridskoåkare fastnade på isflak utanför Söderhamn – räddades av helikopter - SVT Nyheter
+- Donald Trumps besked: Höjer tullarna - GP
+- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Så preppar du för katten: ”Lämnar inte en familjemedlem i krig” - Dagens Nyheter
+- Tusentals furries tar över Malmö - Dagens Nyheter
 - Nya siffror från NBC: Romansbedrägerierna ökar - GP
-- DN Direkt – L i Göteborg röstade ja till samverkan med SD - Dagens Nyheter
-- Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
 - DN Direkt – Tusentals marscherar för mördad högeraktivist i Lyon - Dagens Nyheter
-- Utdraget Ukrainakrig en tankeställare för Kina - SvD
 - Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
+- Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- Nya dokument och teorier granskas i tv-program av expert från Dalsland - Dalslänningen
 - Debatt: För vård, var god vänta – du kommer nu att få åtta val - provinstidningen.se
-- Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
+- DN Direkt – Flera döda i snökaosets Österrike - Dagens Nyheter
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- Märkliga upptäckten i källaren – 56 avklädda pojkar - Expressen
-- Nytt handelsavtal mellan Brasilien och Indien - GP
-- Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
+- Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
+- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
 - Full fart mot fjällen? Bärgarens varning innan du drar - Dagens PS
+- Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
+- Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
 - USA-skepsis och ökad optimism göder börsen: ”Även de med lägst lön börjar bli positiva” - Dagens Nyheter
-- Experterna varnar: Tvätta inte bilen än – här är anledningen - Dagens PS
 - Apple Music gör det möjligt att pitcha musik till musikredaktörer via Apple Music Connect - Popmuzik
-- 8BitDo släpper urläcker N64-inspirerad kontroll - Teknikveckan
+- Tyska geologer har hittat en genväg till jordens kärna, 3 000 kilometer ner i marken - Illustrerad Vetenskap
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-02-21 19:51_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 
 ## Technology
 
@@ -124,7 +124,8 @@ _Updated: 2026-02-21 19:51_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -132,7 +133,6 @@ _Updated: 2026-02-21 19:51_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
